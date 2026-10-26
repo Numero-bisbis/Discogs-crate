@@ -39,7 +39,7 @@ jobs:
       - run: pip install requests
       - run: python sync/build.py
       - name: Make browsers fetch the new code
-        run: sed -i -E "s/(app|camelot)\.js\"/\1.js?v=$(git rev-parse --short HEAD)\"/g; s/style\.css\"/style.css?v=$(git rev-parse --short HEAD)\"/g; s/(crate-180|crate-192|crate-512)\.png\"/\1.png?v=$(git rev-parse --short HEAD)\"/g; s/manifest\.webmanifest\"/manifest.webmanifest?v=$(git rev-parse --short HEAD)\"/g" site/index.html site/manifest.webmanifest
+        run: sed -i -E "s/(app|camelot)\.js\"/\1.js?v=$(git rev-parse --short HEAD)\"/g; s/style\.css\"/style.css?v=$(git rev-parse --short HEAD)\"/g; s/manifest\.webmanifest\"/manifest.webmanifest?v=$(git rev-parse --short HEAD)\"/g" site/index.html site/manifest.webmanifest
       - name: Include saved edits and mixes
         run: |
           if [ -f user/state.json ]; then mkdir -p site/user && cp user/state.json site/user/; fi
@@ -54,9 +54,10 @@ jobs:
           sleep 30
           base="${{ steps.deploy.outputs.page_url }}"
           curl -fsS "$base" | grep -Eo '<link rel="(apple-touch-icon|manifest)[^>]*>' || true
-          href=$(curl -fsS "$base" | grep -Eo 'rel="apple-touch-icon" sizes="180x180" href="[^"]*"' | sed -E 's/.*href="([^"]*)"/\1/')
-          echo "live icon: $base$href"
-          curl -fsS "$base$href" | md5sum
+          href=$(curl -fsS "$base" | grep -Eo 'rel="apple-touch-icon" href="[^"]*"' | sed -E 's/.*href="([^"]*)"/\1/')
+          echo "live icon: $href"
+          curl -fsSI "$href" | grep -i "content-type\|HTTP/"
+          curl -fsS "$href" | md5sum
           md5sum site/icons/crate-180.png
     environment:
       name: github-pages
