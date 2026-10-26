@@ -49,9 +49,6 @@ jobs:
           path: site
       - id: deploy
         uses: actions/deploy-pages@v4
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
       - name: Check what the live site serves for the home screen icon
         run: |
           sleep 30
@@ -61,3 +58,6 @@ jobs:
           echo "live icon: $base$href"
           curl -fsS "$base$href" | md5sum
           md5sum site/icons/crate-180.png
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
