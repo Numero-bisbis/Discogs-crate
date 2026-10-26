@@ -324,7 +324,7 @@
       `<span class="count">${list.length} of ${all.length} records</span>` +
       `<button type="button" class="crate-btn" title="Flick through covers. Turning the phone sideways opens it too."><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="9" y="5" width="6" height="14" rx="1"/><path d="M6.5 6.5 3 8v8l3.5 1.5M17.5 6.5 21 8v8l-3.5 1.5"/></svg>Crate</button>`;
     recordList = list;
-    $('#record-filters .crate-btn').onclick = () => openCrate();
+    $('#record-filters .crate-btn').onclick = () => { store.set('crateSideways', true); openCrate(); };
     $$('#record-filters select, #record-filters input').forEach((s) => (s.onchange = () => { rf[s.dataset.f] = s.value; store.set('rf', rf); renderRecords(); }));
     wireFilterHead('record-filters', rf, RK, () => { store.set('rf', rf); renderRecords(); });
 
@@ -338,81 +338,141 @@
   }
 
   // ---------- Crate mode: flick through the covers of the records shown in Records ----------
+  // Our own physics instead of native scrolling: a small pool of covers is moved with transforms only,
+  // a flick carries on with momentum and settles on the nearest record.
   let recordList = [];
-  let crateAt = 0;
+  const CF = { pos: 0, target: 0, raf: 0, last: 0, drag: null, slots: [], shown: -1, W: 0 };
+  const SLOTS = 19, HALF = 9;
+  const coverUrl = (r) => (r.cover && !/spacer\.gif/.test(r.cover) ? r.cover : '');
   function openCrate() {
-    const list = recordList;
-    if (!list.length) return;
+    if (!recordList.length) return;
     const el = $('#crate');
-    const cover = (r) => (r.cover && !/spacer\.gif/.test(r.cover) ? r.cover : '');
-    $('.cf', el).innerHTML = list.map((r, i) => `<div class="cf-item" data-i="${i}"><div class="cf-cover">${cover(r) ? `<img data-src="${esc(cover(r))}" alt="">` : `<div class="nocover"></div>`}</div></div>`).join('');
     el.hidden = false;
     document.body.classList.add('crate-on');
-    crateAt = Math.min(crateAt, list.length - 1);
-    requestAnimationFrame(() => { crateScrollTo(crateAt, false); crateLayout(); });
+    const stage = $('.cf', el);
+    if (!CF.slots.length) {
+      stage.innerHTML = Array.from({ length: SLOTS }, () => '<div class="cf-cover"><img alt="" decoding="async" draggable="false"></div>').join('');
+      CF.slots = [...stage.children];
+    }
+    CF.slots.forEach((c) => { c.dataset.i = ''; c.firstChild.removeAttribute('src'); });
+    CF.pos = CF.target = Math.min(Math.round(CF.pos), recordList.length - 1);
+    CF.shown = -1;
+    CF.W = CF.slots[0].offsetWidth;
+    crateRender();
   }
   function closeCrate() {
     $('#crate').hidden = true;
     document.body.classList.remove('crate-on');
+    cancelAnimationFrame(CF.raf); CF.raf = 0;
   }
-  function crateStep() { return $('#crate .cf-item')?.offsetWidth || 1; }
-  function crateScrollTo(i, smooth = true) {
-    $('#crate .cf').scrollTo({ left: i * crateStep(), behavior: smooth && !reduceMotion() ? 'smooth' : 'auto' });
+  function crateGo(i) {
+    CF.target = Math.max(0, Math.min(recordList.length - 1, i));
+    crateKick();
   }
-  function crateLayout() {
-    const box = $('#crate .cf');
-    const step = crateStep();
-    const pos = box.scrollLeft / step;
-    const items = box.children;
-    const W = $('#crate .cf-cover')?.offsetWidth || step;
-    const push = (W - step) / 2 + 12;
-    const lo = Math.max(0, Math.floor(pos) - 14), hi = Math.min(items.length - 1, Math.ceil(pos) + 14);
-    for (let i = lo; i <= hi; i++) {
-      const d = i - pos, a = Math.abs(d), sg = Math.sign(d), k = Math.min(a, 1);
-      const c = items[i].firstChild;
-      // Covers past the first neighbour bunch up, as in Cover Flow.
-      c.style.transform = `perspective(900px) translateX(${sg * push * k - sg * Math.max(0, a - 1) * step * 0.62}px) translateZ(${(1 - k) * 60}px) rotateY(${-sg * 52 * k}deg)`;
-      items[i].style.zIndex = 1000 - Math.round(a * 10);
-      const img = c.firstChild;
-      if (img.dataset && img.dataset.src && !img.src) img.src = img.dataset.src;
+  function crateKick() {
+    if (!CF.raf) { CF.last = performance.now(); CF.raf = requestAnimationFrame(crateTick); }
+  }
+  function crateTick(now) {
+    const dt = Math.min(64, now - CF.last); CF.last = now;
+    if (!CF.drag) {
+      const d = CF.target - CF.pos;
+      CF.pos = Math.abs(d) < 0.002 ? CF.target : CF.pos + d * (1 - Math.exp(-dt / (reduceMotion() ? 1 : 85)));
     }
-    const i = Math.max(0, Math.min(items.length - 1, Math.round(pos)));
-    if (i !== crateAt || !$('#crate .cf-info').dataset.i) {
-      crateAt = i;
+    crateRender();
+    CF.raf = CF.drag || CF.pos !== CF.target ? requestAnimationFrame(crateTick) : 0;
+  }
+  function crateRender() {
+    const W = CF.W || 1, n = recordList.length, base = Math.round(CF.pos);
+    const gap = W * 0.56, step = W * 0.2;
+    CF.slots.forEach((c, j) => {
+      const i = base + j - HALF;
+      if (i < 0 || i >= n) { c.style.visibility = 'hidden'; return; }
+      c.style.visibility = '';
+      if (c.dataset.i !== String(i)) {
+        c.dataset.i = i;
+        const url = coverUrl(recordList[i]);
+        if (url) c.firstChild.src = url; else c.firstChild.removeAttribute('src');
+      }
+      const d = i - CF.pos, a = Math.abs(d), sg = Math.sign(d), k = Math.min(a, 1);
+      const x = sg * (k * gap + Math.max(0, a - 1) * step);
+      c.style.transform = `translate3d(${x.toFixed(1)}px,0,0) perspective(800px) translateZ(${((1 - k) * 70).toFixed(1)}px) rotateY(${(-sg * 58 * k).toFixed(2)}deg)`;
+      c.style.zIndex = 100 - Math.round(a * 10);
+      c.style.opacity = a > HALF - 1 ? Math.max(0, HALF - a) : 1;
+    });
+    const i = Math.max(0, Math.min(n - 1, Math.round(CF.pos)));
+    if (i !== CF.shown) {
+      CF.shown = i;
       const r = recordList[i];
-      const info = $('#crate .cf-info');
-      info.dataset.i = i;
-      info.innerHTML = `<b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small>`;
-      $('#crate .cf-count').textContent = `${i + 1} of ${recordList.length}`;
+      $('#crate .cf-info').innerHTML = `<b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small>`;
+      $('#crate .cf-count').textContent = `${i + 1} of ${n}`;
     }
   }
   function wireCrate() {
     const el = $('#crate');
-    const box = $('.cf', el);
-    let raf = 0;
-    box.addEventListener('scroll', () => { if (!raf) raf = requestAnimationFrame(() => { raf = 0; crateLayout(); }); }, { passive: true });
-    box.addEventListener('click', (e) => {
-      const it = e.target.closest('.cf-item');
-      if (!it) return;
-      const i = +it.dataset.i;
-      if (i === crateAt) openRecord(recordList[i]); else crateScrollTo(i);
+    const stage = $('.cf', el);
+    const per = () => (CF.W || 1) * 0.36; // finger travel for one record
+    stage.addEventListener('pointerdown', (e) => {
+      stage.setPointerCapture(e.pointerId);
+      CF.drag = { x: e.clientX, pos: CF.pos, moved: 0, t0: performance.now(), samples: [[performance.now(), e.clientX]] };
+      crateKick();
     });
+    stage.addEventListener('pointermove', (e) => {
+      const g = CF.drag; if (!g) return;
+      const dx = e.clientX - g.x;
+      g.moved = Math.max(g.moved, Math.abs(dx));
+      let p = g.pos - dx / per();
+      const n = recordList.length - 1;
+      if (p < 0) p /= 3; else if (p > n) p = n + (p - n) / 3; // rubber band at the ends
+      CF.pos = p;
+      const now = performance.now();
+      g.samples.push([now, e.clientX]);
+      while (g.samples.length > 2 && now - g.samples[0][0] > 100) g.samples.shift();
+    });
+    const end = (e) => {
+      const g = CF.drag; if (!g) return;
+      CF.drag = null;
+      if (g.moved < 8 && performance.now() - g.t0 < 400) {
+        const hit = document.elementFromPoint(e.clientX, e.clientY), c = hit && hit.closest('.cf-cover');
+        const i = c && c.dataset.i !== '' ? +c.dataset.i : null;
+        CF.pos = g.pos;
+        if (i === Math.round(CF.pos)) openRecord(recordList[i]); else if (i != null) crateGo(i); else crateGo(Math.round(CF.pos));
+        return;
+      }
+      const [t0, x0] = g.samples[0], [t1, x1] = g.samples[g.samples.length - 1];
+      const v = t1 > t0 ? -(x1 - x0) / (t1 - t0) / per() : 0; // records per ms
+      crateGo(Math.round(CF.pos + v * 240)); // a flick carries on, then settles on a record
+    };
+    stage.addEventListener('pointerup', end);
+    stage.addEventListener('pointercancel', end);
+    let wheelT = 0;
+    stage.addEventListener('wheel', (e) => {
+      const d = Math.abs(e.deltaX) > Math.abs(e.deltaY) ? e.deltaX : e.deltaY;
+      e.preventDefault();
+      CF.pos = Math.max(0, Math.min(recordList.length - 1, CF.pos + d / per() / 2));
+      CF.target = CF.pos;
+      crateRender();
+      clearTimeout(wheelT);
+      wheelT = setTimeout(() => crateGo(Math.round(CF.pos)), 120);
+    }, { passive: false });
     $('.cf-close', el).onclick = closeCrate;
-    $('.cf-open', el).onclick = () => openRecord(recordList[crateAt]);
+    $('.cf-grid', el).onclick = () => { store.set('crateSideways', false); closeCrate(); toast('Grid view. Tap Crate to flick through again.'); };
+    $('.cf-open', el).onclick = () => openRecord(recordList[Math.round(CF.pos)]);
     document.addEventListener('keydown', (e) => {
       if (el.hidden || $('#drawer').classList.contains('open')) return;
-      if (e.key === 'ArrowRight') crateScrollTo(Math.min(recordList.length - 1, crateAt + 1));
-      if (e.key === 'ArrowLeft') crateScrollTo(Math.max(0, crateAt - 1));
-      if (e.key === 'Enter') openRecord(recordList[crateAt]);
+      if (e.key === 'ArrowRight') crateGo(Math.round(CF.target) + 1);
+      if (e.key === 'ArrowLeft') crateGo(Math.round(CF.target) - 1);
+      if (e.key === 'Enter') openRecord(recordList[Math.round(CF.pos)]);
       if (e.key === 'Escape') closeCrate();
     });
-    window.addEventListener('resize', () => { if (!el.hidden) { crateScrollTo(crateAt, false); crateLayout(); } });
-    // Like the iPod: turn the phone sideways on Records and the crate opens; turn it back and it closes.
+    window.addEventListener('resize', () => { if (!el.hidden) { CF.W = CF.slots[0].offsetWidth; crateRender(); } });
+    // Like the iPod: turn the phone sideways on Records and the crate opens, unless you chose the grid.
     const sideways = matchMedia('(orientation: landscape) and (max-height: 500px)');
-    sideways.addEventListener('change', (m) => {
-      if (m.matches && view === 'records' && !$('#drawer').classList.contains('open')) openCrate();
-      else if (!m.matches && !el.hidden) closeCrate();
-    });
+    const auto = () => {
+      if (sideways.matches && view === 'records' && store.get('crateSideways', true) && !$('#drawer').classList.contains('open')) openCrate();
+      else if (!sideways.matches && !el.hidden) closeCrate();
+    };
+    sideways.addEventListener('change', auto);
+    setTimeout(auto, 300);
   }
 
   function openRecord(r) {
