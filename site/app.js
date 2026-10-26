@@ -7,6 +7,8 @@
   const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const fmtDur = (s) => (s ? `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}` : '');
   const norm = (s) => String(s || '').normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  // Pitch fader move in whole percent; under half a percent you just nudge the platter.
+  const fmtPitch = (pct) => { const r = Math.round(pct); return r === 0 ? 'no pitch change' : `pitch ${r > 0 ? '+' : '−'}${Math.abs(r)}%`; };
   const uid = () => Math.random().toString(36).slice(2, 10);
 
   // ---------- persistent state (this browser, optionally mirrored to GitHub) ----------
@@ -192,7 +194,7 @@
       <table class="tl"><thead><tr><th>Pos</th><th>Track</th><th>Time</th><th>BPM</th><th>Key</th><th>From</th><th></th></tr></thead><tbody>${rows || '<tr><td colspan="7">No tracklist yet.</td></tr>'}</tbody></table>
       <p class="hint">From: <b>DB</b> = AcousticBrainz database, <b>est.</b> = estimated from a 30-second preview, <b>you</b> = your edit, <b>none</b> = nothing found, <b>…</b> = not looked up yet. Type over any value to fix it.</p>`;
     wireEdits($('#drawer-body'));
-    $('#drawer').hidden = false;
+    openDrawer(r.title);
   }
 
   function wireEdits(root) {
@@ -461,7 +463,7 @@
     const bits = [];
     if (tr.pitch) {
       const pct = tr.pitch.pct;
-      bits.push(`<span class="${relClass(tr.bpmScore)}">${tr.pitch.mult !== 1 ? (tr.pitch.mult === 2 ? 'double-time, ' : 'half-time, ') : ''}pitch ${pct >= 0 ? '+' : ''}${pct.toFixed(1)}%${Math.abs(pct) > settings.pitchRange ? ' (beyond ±' + settings.pitchRange + '%)' : ''}</span>`);
+      bits.push(`<span class="${relClass(tr.bpmScore)}">${a.bpm} → ${b.bpm} BPM${tr.pitch.mult !== 1 ? (tr.pitch.mult === 2 ? ' (double-time)' : ' (half-time)') : ''} · ${fmtPitch(pct)}${Math.abs(pct) > settings.pitchRange ? ' (beyond ±' + settings.pitchRange + '%)' : ''}</span>`);
     } else bits.push('<span class="unk">BPM unknown</span>');
     if (a.cam && b.cam) {
       bits.push(`<span class="${relClass(tr.pitched.score)}">${esc(a.cam)} → ${esc(tr.keyAfterPitch)}: ${esc(tr.pitched.label)}</span>`);
@@ -502,7 +504,7 @@
       html += `<h3>What could come next <small>after ${esc(lt.title)}${lt.bpm ? ' · ' + lt.bpm + ' BPM' : ''}${lt.cam ? ' · ' + lt.cam : ''}</small></h3>`;
       html += sug.length ? `<table class="sug"><tbody>${sug.map(({ t, tr }) => `<tr data-k="${esc(t.k)}"><td>${camBadge(t.cam, t.key)}</td><td class="num">${t.bpm ?? '–'}</td>
         <td><b>${esc(t.title)}</b><br><small>${esc(t.artist)} · ${esc(t.r.title)} ${esc(t.pos)}</small></td>
-        <td><small class="${relClass(tr.score)}">${tr.pitch ? `pitch ${tr.pitch.pct >= 0 ? '+' : ''}${tr.pitch.pct.toFixed(1)}%` : ''} · ${esc(tr.pitched.label)}</small></td>
+        <td><small class="${relClass(tr.score)}">${tr.pitch ? fmtPitch(tr.pitch.pct) + ' · ' : ''}${esc(tr.pitched.label)}</small></td>
         <td><button class="small add">+</button></td></tr>`).join('')}</tbody></table>`
         : '<p class="sub">No good matches yet. Suggestions need BPM and key on the last track, so add them by hand if they are missing.</p>';
     }
@@ -716,16 +718,44 @@
     saveTimer = setTimeout(() => remoteSave().catch((e) => toast('Sync to GitHub failed: ' + e.message)), 2500);
   }
 
+  // ---------- record drawer ----------
+  let drawerScroll = 0, drawerPushed = false;
+  function openDrawer(title) {
+    $('#drawer-title').textContent = title || '';
+    if ($('#drawer').hidden) {
+      drawerScroll = window.scrollY;
+      document.body.classList.add('locked');
+      document.body.style.top = `-${drawerScroll}px`;
+      try { history.pushState({ drawer: 1 }, ''); drawerPushed = true; } catch { drawerPushed = false; }
+    }
+    $('#drawer').hidden = false;
+    $('.drawer-panel').scrollTop = 0;
+  }
+  function hideDrawer() {
+    $('#drawer').hidden = true;
+    document.body.classList.remove('locked');
+    document.body.style.top = '';
+    window.scrollTo(0, drawerScroll);
+    drawerPushed = false;
+    if (view === 'tracks') renderTracks();
+    if (view === 'mixes') renderMixes();
+  }
+  function closeDrawer() {
+    if (drawerPushed) history.back(); // popstate then hides it
+    else hideDrawer();
+  }
+
   // ---------- boot ----------
   function wire() {
     $$('.tabs button').forEach((b) => (b.onclick = () => setView(b.dataset.view)));
     let t;
     $('#search').oninput = () => { clearTimeout(t); t = setTimeout(() => { trackLimit = 300; render(); }, 120); };
     $('#new-mix').onclick = () => { newMix(); renderMixes(); };
-    const close = () => { $('#drawer').hidden = true; if (view === 'tracks') renderTracks(); if (view === 'mixes') renderMixes(); };
-    $('.drawer-back').onclick = close;
-    $('.drawer .close').onclick = close;
-    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !$('#drawer').hidden) close(); });
+    $('.drawer-back').onclick = closeDrawer;
+    $('.drawer .close').onclick = closeDrawer;
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !$('#drawer').hidden) closeDrawer(); });
+    // Back button / swipe-back closes an open record instead of leaving the app.
+    window.addEventListener('popstate', () => { if (!$('#drawer').hidden) hideDrawer(); });
   }
 
   async function boot() {
