@@ -84,8 +84,23 @@
     const t = $('#toast');
     t.textContent = msg;
     t.hidden = false;
+    requestAnimationFrame(() => t.classList.add('show'));
     clearTimeout(toast._t);
-    toast._t = setTimeout(() => (t.hidden = true), 2200);
+    toast._t = setTimeout(() => { t.classList.remove('show'); toast._t = setTimeout(() => (t.hidden = true), 250); }, 2200);
+  }
+
+  // On phones the filters fold away behind a button; this is its open/closed state per list.
+  const filtersOpen = new Set();
+  function filterHead(id, f, keys) {
+    const n = keys.filter((k) => f[k]).length;
+    return `<div class="fhead"><button type="button" class="ftoggle${n ? ' on' : ''}" aria-expanded="${filtersOpen.has(id)}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h9M17 7h3M4 17h3M11 17h9"/><circle cx="15" cy="7" r="2.2"/><circle cx="9" cy="17" r="2.2"/></svg>Filters${n ? ` <span class="badge">${n}</span>` : ''}</button>${n ? '<button type="button" class="fclear">Clear</button>' : ''}</div>`;
+  }
+  function wireFilterHead(id, f, keys, rerender) {
+    const box = document.getElementById(id);
+    box.classList.toggle('open', filtersOpen.has(id));
+    $('.ftoggle', box).onclick = () => { filtersOpen.has(id) ? filtersOpen.delete(id) : filtersOpen.add(id); box.classList.toggle('open'); $('.ftoggle', box).setAttribute('aria-expanded', filtersOpen.has(id)); };
+    const clear = $('.fclear', box);
+    if (clear) clear.onclick = () => { keys.forEach((k) => delete f[k]); rerender(); };
   }
 
   function select(name, label, options, value, allLabel = 'All') {
@@ -111,8 +126,10 @@
     view = v;
     $$('.tabs button').forEach((b) => b.classList.toggle('active', b.dataset.view === v));
     $$('.view').forEach((s) => s.classList.toggle('active', s.id === 'view-' + v));
-    $('#search').hidden = !['records', 'tracks'].includes(v);
+    $('.search-wrap').hidden = !['records', 'tracks'].includes(v);
+    document.body.dataset.view = v;
     render();
+    window.scrollTo(0, 0);
     try { history.replaceState(null, '', '#' + v); } catch { /* sandboxed */ }
   }
 
@@ -152,7 +169,8 @@
 
     const all = DATA.releases;
     const folders = facet(all, (r) => [r.folder]).filter(([f]) => f && f !== 'Uncategorized');
-    $('#record-filters').innerHTML =
+    const RK = ['genre', 'style', 'label', 'decade', 'folder', 'bpmMin', 'bpmMax', 'cam'];
+    $('#record-filters').innerHTML = filterHead('record-filters', rf, RK) +
       select('genre', 'Genre', facet(all, (r) => r.genres), rf.genre) +
       select('style', 'Style', facet(all, (r) => r.styles), rf.style) +
       select('label', 'Label', facet(all, (r) => r.labels.map((l) => l.name)), rf.label) +
@@ -160,10 +178,11 @@
       (folders.length ? select('folder', 'Folder', folders, rf.folder) : '') +
       `<label class="f"><span>BPM</span><span class="range"><input data-f="bpmMin" value="${esc(rf.bpmMin || '')}" placeholder="min" inputmode="numeric">–<input data-f="bpmMax" value="${esc(rf.bpmMax || '')}" placeholder="max" inputmode="numeric"></span></label>` +
       select('cam', 'Key', camOptions(), rf.cam, 'Any') +
-      `<label class="f"><span>Sort</span><select data-f="sort">${[['added', 'Recently added'], ['artist', 'Artist'], ['title', 'Title'], ['year', 'Year (new → old)'], ['yearAsc', 'Year (old → new)'], ['label', 'Label / cat no.'], ['rating', 'My rating']]
+      `<label class="f keep"><span>Sort</span><select data-f="sort">${[['added', 'Recently added'], ['artist', 'Artist'], ['title', 'Title'], ['year', 'Year (new → old)'], ['yearAsc', 'Year (old → new)'], ['label', 'Label / cat no.'], ['rating', 'My rating']]
         .map(([v, n]) => `<option value="${v}"${rf.sort === v ? ' selected' : ''}>${n}</option>`).join('')}</select></label>` +
       `<span class="count">${list.length} of ${all.length} records</span>`;
     $$('#record-filters select, #record-filters input').forEach((s) => (s.onchange = () => { rf[s.dataset.f] = s.value; store.set('rf', rf); renderRecords(); }));
+    wireFilterHead('record-filters', rf, RK, () => { store.set('rf', rf); renderRecords(); });
 
     $('#record-grid').innerHTML = list.length
       ? list.map((r) => `<button class="card" data-id="${r.iid || r.id}">
@@ -185,13 +204,14 @@
         <td><button class="small add" title="Add to ${esc(mix ? mix.name : 'a new mix')}">+ Mix</button></td></tr>`;
     }).join('');
     $('#drawer-body').innerHTML = `
-      <div class="rec-head">${r.cover ? `<img src="${esc(r.cover)}" alt="">` : ''}<div>
+      ${r.cover ? `<div class="rec-bg" style="background-image:url('${esc(r.cover)}')"></div>` : ''}
+      <div class="rec-head">${r.cover ? `<img src="${esc(r.cover)}" alt="">` : '<div class="nocover rec-nocover"></div>'}<div>
         <h2>${esc(r.title)}</h2><p class="artist">${esc(r.artist)}</p>
         <p>${esc(r.labels.map((l) => `${l.name} – ${l.catno}`).join(', '))}</p>
         <p>${esc([r.format, r.country, r.year].filter(Boolean).join(' · '))}</p>
         <p class="tags">${[...r.genres, ...r.styles].map((g) => `<span>${esc(g)}</span>`).join('')}</p>
-        <p><a href="${esc(r.url)}" target="_blank" rel="noopener">Open on Discogs ↗</a></p></div></div>
-      <table class="tl"><thead><tr><th>Pos</th><th>Track</th><th>Time</th><th>BPM</th><th>Key</th><th>From</th><th></th></tr></thead><tbody>${rows || '<tr><td colspan="7">No tracklist yet.</td></tr>'}</tbody></table>
+        <p><a class="ext" href="${esc(r.url)}" target="_blank" rel="noopener">Open on Discogs ↗</a></p></div></div>
+      <div class="table-wrap"><table class="tl"><thead><tr><th>Pos</th><th>Track</th><th>Time</th><th>BPM</th><th>Key</th><th>From</th><th></th></tr></thead><tbody>${rows || '<tr><td colspan="7">No tracklist yet.</td></tr>'}</tbody></table></div>
       <p class="hint">From: <b>DB</b> = AcousticBrainz database, <b>est.</b> = estimated from a 30-second preview, <b>you</b> = your edit, <b>none</b> = nothing found, <b>…</b> = not looked up yet. Type over any value to fix it.</p>`;
     wireEdits($('#drawer-body'));
     openDrawer(r.title);
@@ -261,7 +281,8 @@
     list.sort((a, b) => { const x = col(a), y = col(b); return (x < y ? -1 : x > y ? 1 : 0) * tf.dir || a.k.localeCompare(b.k); });
 
     const allCams = camOptions();
-    $('#track-filters').innerHTML =
+    const TK = ['genre', 'style', 'bpmMin', 'bpmMax', 'cam', 'compat', 'has'];
+    $('#track-filters').innerHTML = filterHead('track-filters', tf, TK) +
       select('genre', 'Genre', facet(DATA.releases, (r) => r.genres), tf.genre) +
       select('style', 'Style', facet(DATA.releases, (r) => r.styles), tf.style) +
       `<label class="f"><span>BPM</span><span class="range"><input data-f="bpmMin" value="${esc(tf.bpmMin || '')}" placeholder="min" inputmode="numeric">–<input data-f="bpmMax" value="${esc(tf.bpmMax || '')}" placeholder="max" inputmode="numeric"></span></label>` +
@@ -271,6 +292,7 @@
         .map(([v, n]) => `<option value="${v}"${(tf.has || '') === v ? ' selected' : ''}>${n}</option>`).join('')}</select></label>` +
       `<span class="count">${list.length} tracks</span>`;
     $$('#track-filters select, #track-filters input').forEach((s) => (s.onchange = () => { tf[s.dataset.f] = s.value; store.set('tf', tf); trackLimit = 300; renderTracks(); }));
+    wireFilterHead('track-filters', tf, TK, () => { store.set('tf', tf); trackLimit = 300; renderTracks(); });
 
     const head = [['pos', 'Pos'], ['title', 'Track'], ['artist', 'Artist'], ['record', 'Record'], ['bpm', 'BPM'], ['key', 'Key'], ['src', 'From'], ['dur', 'Time'], ['year', 'Year'], ['label', 'Label']];
     const mix = currentMix();
@@ -278,7 +300,7 @@
       .slice(0, trackLimit)
       .map((t) => {
         const e = eff(t);
-        return `<tr data-k="${esc(t.k)}"><td class="pos">${esc(t.pos)}</td><td><b>${esc(t.title)}</b></td><td>${esc(t.artist)}</td>
+        return `<tr data-k="${esc(t.k)}"><td class="pos">${esc(t.pos)}</td><td><b>${esc(t.title)}</b><small class="m-only">${esc(t.artist)}</small></td><td>${esc(t.artist)}</td>
           <td><a href="#" class="rec">${esc(t.r.title)}</a></td>
           <td class="num"><input class="bpm-in${e.edited ? ' edited' : ''}" value="${e.bpm ?? ''}" inputmode="numeric"></td>
           <td><input class="key-in${e.edited ? ' edited' : ''}" value="${e.cam ?? ''}" title="${esc(e.key || 'Type 8A, Am, F#m…')}"></td><td>${srcTag(e)}</td>
@@ -720,19 +742,25 @@
 
   // ---------- record drawer ----------
   let drawerScroll = 0, drawerPushed = false;
+  const reduceMotion = () => window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   function openDrawer(title) {
     $('#drawer-title').textContent = title || '';
-    if ($('#drawer').hidden) {
+    if (!$('#drawer').classList.contains('open')) {
       drawerScroll = window.scrollY;
       document.body.classList.add('locked');
       document.body.style.top = `-${drawerScroll}px`;
       try { history.pushState({ drawer: 1 }, ''); drawerPushed = true; } catch { drawerPushed = false; }
     }
+    clearTimeout(hideDrawer._t);
     $('#drawer').hidden = false;
     $('.drawer-panel').scrollTop = 0;
+    requestAnimationFrame(() => requestAnimationFrame(() => $('#drawer').classList.add('open')));
   }
   function hideDrawer() {
-    $('#drawer').hidden = true;
+    const d = $('#drawer');
+    d.classList.remove('open');
+    clearTimeout(hideDrawer._t);
+    hideDrawer._t = setTimeout(() => { if (!d.classList.contains('open')) d.hidden = true; }, reduceMotion() ? 0 : 260);
     document.body.classList.remove('locked');
     document.body.style.top = '';
     window.scrollTo(0, drawerScroll);
@@ -753,9 +781,9 @@
     $('#new-mix').onclick = () => { newMix(); renderMixes(); };
     $('.drawer-back').onclick = closeDrawer;
     $('.drawer .close').onclick = closeDrawer;
-    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !$('#drawer').hidden) closeDrawer(); });
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && $('#drawer').classList.contains('open')) closeDrawer(); });
     // Back button / swipe-back closes an open record instead of leaving the app.
-    window.addEventListener('popstate', () => { if (!$('#drawer').hidden) hideDrawer(); });
+    window.addEventListener('popstate', () => { if ($('#drawer').classList.contains('open')) hideDrawer(); });
   }
 
   async function boot() {
