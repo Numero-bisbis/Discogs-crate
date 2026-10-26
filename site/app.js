@@ -442,7 +442,7 @@
       .slice(0, trackLimit)
       .map((t) => {
         const e = eff(t);
-        return `<tr data-k="${esc(t.k)}"><td class="pos">${esc(t.pos)}</td><td><div class="tt">${playBtn(t)}<div><b>${esc(t.title)}</b><small class="m-only">${esc(t.artist)}</small></div></div></td><td>${esc(t.artist)}</td>
+        return `<tr data-k="${esc(t.k)}"><td class="pos">${esc(t.pos)}</td><td><div class="tt">${playBtn(t)}<div><b>${esc(t.title)}</b><small class="m-only">${esc(t.artist)}</small><small class="s-only"><a href="#" class="rec">${esc(t.r.title)}</a> · ${esc(t.pos)} ${srcTag(e)}</small></div></div></td><td>${esc(t.artist)}</td>
           <td><a href="#" class="rec">${esc(t.r.title)}</a></td>
           <td class="num"><input class="bpm-in${e.edited ? ' edited' : ''}" value="${e.bpm ?? ''}" inputmode="numeric"></td>
           <td><input class="key-in${e.edited ? ' edited' : ''}" value="${e.cam ?? ''}" title="${esc(e.key || 'Type 8A, Am, F#m…')}"></td><td>${srcTag(e)}</td>

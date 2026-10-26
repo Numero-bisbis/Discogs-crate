@@ -132,6 +132,13 @@ td.num { text-align: right; font-variant-numeric: tabular-nums; }
 td.pos { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 13px; }
 td small { color: var(--muted); font-size: 13px; }
 .m-only { display: none; }
+.s-only { display: none; }
+/* Narrower windows: artist moves under the title and the label column goes */
+@media (max-width: 1100px) {
+  table.tracks .m-only { display: block; font-size: 13px; }
+  table.tracks th:nth-child(3), table.tracks td:nth-child(3),
+  table.tracks th:nth-child(10), table.tracks td:nth-child(10) { display: none; }
+}
 .tracks td a.rec { color: var(--text); }
 .tracks td a.rec:hover { color: var(--accent); }
 .bpm-in, .key-in { width: 62px; padding: 4px 6px; text-align: right; background: transparent; font-variant-numeric: tabular-nums; border-radius: 6px; }
@@ -387,13 +394,18 @@ body.has-player main { padding-bottom: 300px; }
   .bpm-in { width: 48px; } .key-in { width: 44px; }
 
   /* Tracks: artist sits under the title; time, year and label are dropped to save width */
-  table.tracks .m-only { display: block; font-size: 13px; }
-  table.tracks th:nth-child(3), table.tracks td:nth-child(3),
+  table.tracks .s-only { display: block; font-size: 12px; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  table.tracks .s-only a.rec { color: inherit; }
+  table.tracks th:nth-child(1), table.tracks td:nth-child(1),
+  table.tracks th:nth-child(4), table.tracks td:nth-child(4),
+  table.tracks th:nth-child(7), table.tracks td:nth-child(7),
   table.tracks th:nth-child(8), table.tracks td:nth-child(8),
-  table.tracks th:nth-child(9), table.tracks td:nth-child(9),
-  table.tracks th:nth-child(10), table.tracks td:nth-child(10) { display: none; }
-  table.tracks td:nth-child(2) { min-width: 200px; }
-  table.tracks th, table.tracks td { padding: 9px 6px; }
+  table.tracks th:nth-child(9), table.tracks td:nth-child(9) { display: none; }
+  table.tracks { width: 100%; table-layout: auto; }
+  table.tracks td:nth-child(2) { width: 100%; max-width: 0; }
+  table.tracks td:nth-child(2) .tt > div { overflow: hidden; }
+  table.tracks th, table.tracks td { padding: 9px 4px; }
+  table.tracks td:nth-child(2), table.tracks th:nth-child(2) { padding-left: 12px; }
 
   .mix-layout { grid-template-columns: 1fr; gap: 6px; }
   .mix-list { position: static; }
