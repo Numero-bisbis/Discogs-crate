@@ -19,7 +19,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 70
     steps:
+      # Latest main, not the commit that queued this run, so synced data never starts out stale.
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
