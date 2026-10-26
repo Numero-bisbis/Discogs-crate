@@ -27,7 +27,7 @@ RETRY_DAYS = 30
 NOW = datetime.now(timezone.utc)
 MODELS = Path(os.environ.get("MODEL_DIR", ROOT / ".models"))
 BASE = "https://essentia.upf.edu/models"
-EMBEDDER = "feature-extractors/discogs-effnet/discogs-effnet-bsdynamic-1"
+EMBEDDER = "feature-extractors/discogs-effnet/discogs-effnet-bs64-1"
 HEADS = {  # name in the profile -> (model path, class whose probability we keep)
     "dance": ("classification-heads/danceability/danceability-discogs-effnet-1", "danceable"),
     "aggr": ("classification-heads/mood_aggressive/mood_aggressive-discogs-effnet-1", "aggressive"),
@@ -57,6 +57,8 @@ def output_name(meta, purpose):
     for o in meta.get("schema", {}).get("outputs", []):
         if o.get("output_purpose") == purpose:
             return o["name"]
+    if purpose == "embeddings":
+        return "PartitionedCall:1"  # what the Essentia docs use for Discogs-EffNet
     raise KeyError(purpose)
 
 
@@ -135,6 +137,12 @@ def main():
         todo = [t for t in iter_tracks(rel) if due(cache.get(t["key"])) and t["title"]]
         if not todo:
             continue
+        if profiler is None:
+            try:
+                profiler = Profiler()
+            except Exception as e:  # without the model nothing can be profiled, so stop rather than mark tracks
+                print(f"could not load the sound model: {e!r}")
+                raise SystemExit(0)
         changed = False
         for t in todo:
             if time.monotonic() - started > BUDGET:
@@ -143,7 +151,6 @@ def main():
                 url, src = find_preview(t, audio.get(t["key"]))
                 prof = None
                 if url:
-                    profiler = profiler or Profiler()
                     clip = http_get(url, min_interval=0.15, host_key="preview-cdn")
                     if clip.status_code == 200 and clip.content:
                         with tempfile.NamedTemporaryFile(suffix=".m4a" if src == "apple" else ".mp3") as f:
