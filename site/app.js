@@ -604,13 +604,17 @@
   // The Generate tab: settings, then a draft you can tweak, regenerate, or save into My mixes.
   function renderGenerate() {
     const styles = facet(DATA.releases.filter((r) => !gen.genre || r.genres.includes(gen.genre)), (r) => r.styles);
-    const k = TRACKS.filter((t) => { const e = eff(t); return e.bpm && (e.cam || gen.nokeys) && (!gen.genre || t.r.genres.includes(gen.genre)) && (!gen.style || t.r.styles.includes(gen.style)); }).length;
+    const pool = () => TRACKS.filter((t) => { const e = eff(t); return e.bpm && (e.cam || gen.nokeys) && (!gen.genre || t.r.genres.includes(gen.genre)) && (!gen.style || t.r.styles.includes(gen.style)); }).length;
+    const k = pool();
+    // Typed style names snap to the real one, whatever the case; anything else means Any.
+    const pickStyle = (v) => { v = v.trim().toLowerCase(); if (!v) return ''; const hit = styles.find(([s]) => s.toLowerCase() === v); if (hit) return hit[0]; const near = styles.filter(([s]) => s.toLowerCase().includes(v)); return near.length === 1 ? near[0][0] : ''; };
     const d = user.draft;
     let html = `<section class="card-s gen-card"><h2>Generate a mix</h2>
       <p class="sub">Picks tracks you own that match, orders them so each step needs little pitch change and the keys sit well together, and never puts two tracks from the same record back to back. Only tracks with a BPM are used${gen.nokeys ? '' : ', and they need a key too unless you ignore keys'}. Leave End BPM empty to let the tempo drift naturally.</p>
       <div class="gen">
         ${select('genre', 'Genre', facet(DATA.releases, (r) => r.genres), gen.genre, 'Any')}
-        ${select('style', 'Style', styles, gen.style, 'Any')}
+        <label class="f"><span>Style <small>(type to search)</small></span><input type="search" data-f="style" list="style-list" value="${esc(gen.style)}" placeholder="Any" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="done"></label>
+        <datalist id="style-list">${styles.map(([v, n]) => `<option value="${esc(v)}">${n} records</option>`).join('')}</datalist>
         <label class="f"><span>Start BPM</span><input data-f="from" value="${esc(gen.from)}" inputmode="numeric"></label>
         <label class="f"><span>End BPM <small>(optional)</small></span><input data-f="to" value="${esc(gen.to ?? '')}" placeholder="Any" inputmode="numeric"></label>
         ${gen.nokeys ? '' : select('cam', 'Start key', camOptions(), gen.cam, 'Any')}
@@ -630,11 +634,16 @@
     }
     const root = $('#generate');
     root.innerHTML = html;
-    const val = (el) => (el.type === 'checkbox' ? el.checked : el.value);
+    const val = (el) => (el.type === 'checkbox' ? el.checked : el.dataset.f === 'style' ? pickStyle(el.value) : el.value);
     $$('.gen select, .gen input, .switch input', root).forEach((el) => (el.onchange = () => {
       gen[el.dataset.f] = val(el);
       if (el.dataset.f === 'genre') gen.style = '';
       store.set('gen', gen);
+      if (el.dataset.f === 'style') {
+        el.value = gen.style;
+        $('.row .sub', root).textContent = `${pool()} tracks to choose from`;
+        return;
+      }
       // Typed numbers don't redraw, so tapping Generate straight after typing still lands.
       if (el.type !== 'text') renderGenerate();
     }));
