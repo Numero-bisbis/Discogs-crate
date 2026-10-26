@@ -16,7 +16,7 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 70
+    timeout-minutes: 95
     steps:
       # Latest main, not the commit that queued this run, so synced data never starts out stale.
       - uses: actions/checkout@v4
@@ -39,8 +39,20 @@ jobs:
 
       - name: Find BPM and key
         env:
-          ENRICH_MINUTES: "40"
+          ENRICH_MINUTES: "25"
         run: python sync/enrich.py
+
+      - name: Keep the sound models between runs
+        uses: actions/cache@v4
+        with:
+          path: .models
+          key: essentia-models-v1
+
+      - name: Profile how tracks sound
+        env:
+          PROFILE_MINUTES: "25"
+          TF_CPP_MIN_LOG_LEVEL: "2"
+        run: python sync/profile.py
 
       - name: Save synced data to the repo
         run: |

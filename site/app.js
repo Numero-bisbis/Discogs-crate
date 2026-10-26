@@ -21,6 +21,7 @@
   let currentMixId = store.get('currentMix', null);
   // Older versions kept generated drafts inside the mixes list; treat those as saved mixes now.
   user.mixes.forEach((m) => delete m.draft);
+  user.pairs = user.pairs || {}; // your 👍/👎 on transitions: 'trackA|trackB' -> 1 or -1
 
   function saveUser() {
     user.updated = Date.now();
@@ -483,6 +484,31 @@
     return { ...t, bpm: e.bpm, cam: e.cam, key: e.key };
   }
 
+  // ---------- how well two tracks belong together, beyond tempo and key ----------
+  const pairKey = (a, b) => (a < b ? `${a}|${b}` : `${b}|${a}`);
+  const feedback = (a, b) => user.pairs[pairKey(a, b)] || 0;
+  // Sound profiles come from the sync: a short "sounds like" vector, so close vectors sound alike.
+  function soundSim(x, y) {
+    let dot = 0, nx = 0, ny = 0;
+    for (let i = 0; i < x.v.length; i++) { dot += x.v[i] * y.v[i]; nx += x.v[i] ** 2; ny += y.v[i] ** 2; }
+    return nx && ny ? Math.max(0, dot / Math.sqrt(nx * ny)) : 0;
+  }
+  // 0..1: shared styles, similar era, same label and, where known, how alike they sound.
+  function affinity(a, b) {
+    const ra = a.r, rb = b.r;
+    let s = 0, w = 0;
+    if (ra.styles.length && rb.styles.length) {
+      const shared = ra.styles.filter((x) => rb.styles.includes(x)).length;
+      s += 0.35 * (shared / new Set([...ra.styles, ...rb.styles]).size); w += 0.35;
+    } else if (ra.genres.length && rb.genres.length) {
+      s += 0.2 * (ra.genres.some((g) => rb.genres.includes(g)) ? 1 : 0); w += 0.2;
+    }
+    if (ra.year && rb.year) { s += 0.15 * Math.max(0, 1 - Math.abs(ra.year - rb.year) / 15); w += 0.15; }
+    if (a.snd && b.snd) { s += 0.5 * soundSim(a.snd, b.snd); w += 0.5; }
+    const sameLabel = ra.labels[0] && rb.labels[0] && ra.labels[0].name === rb.labels[0].name;
+    return w ? Math.min(1, s / w + (sameLabel ? 0.05 : 0)) : 0.5;
+  }
+
   function suggestions(fromKey, exclude) {
     const a = trackObj(fromKey);
     if (!a) return [];
@@ -491,9 +517,11 @@
       if (exclude.has(t.k)) continue;
       const b = trackObj(t.k);
       const tr = C.transition(a, b, { pitchRange: settings.pitchRange });
-      if (tr.score !== null && tr.score >= 0.6 && tr.bpmScore !== 0) out.push({ t: b, tr });
+      const fb = feedback(a.k, b.k);
+      if (fb < 0) continue;
+      if (tr.score !== null && tr.score >= 0.6 && tr.bpmScore !== 0) out.push({ t: b, tr, rank: tr.score * 0.6 + affinity(a, b) * 0.4 + fb * 0.3 });
     }
-    return out.sort((x, y) => y.tr.score - x.tr.score).slice(0, 20);
+    return out.sort((x, y) => y.rank - x.rank).slice(0, 20);
   }
 
   // Greedy ordering: keep the first track, then always pick the best transition next.
@@ -505,7 +533,7 @@
       const a = trackObj(order[order.length - 1]);
       let best = null, bestScore = -1;
       for (const k of left) {
-        const s = C.transition(a, trackObj(k), { pitchRange: settings.pitchRange }).score ?? -0.5;
+        const b = trackObj(k), s = (C.transition(a, b, { pitchRange: settings.pitchRange }).score ?? -0.5) * 0.6 + affinity(a, b) * 0.4 + feedback(a.k, k) * 0.3;
         if (s > bestScore) { best = k; bestScore = s; }
       }
       order.push(best);
@@ -546,15 +574,29 @@
         if (used.has(c.k) || c.r === prev.r) continue;
         const tr = C.transition(prev, c, { pitchRange: range });
         if (!tr.bpmScore || (keys && tr.pitched.score === 0)) continue;
+        const fb = feedback(prev.k, c.k);
+        if (fb < 0) continue;
         const step = keys ? tr.score : tr.bpmScore;
         const fit = tgt ? Math.max(0, 1 - near(c.bpm, tgt) / 0.06) : step;
-        const score = step * 0.6 + fit * 0.4 - (usedRec.has(c.r) ? 0.4 : 0) + Math.random() * 0.1;
+        const aff = affinity(prev, c);
+        const score = step * 0.4 + fit * 0.2 + (o.vibe === 'eclectic' ? 1 - aff : aff) * 0.25 + vibeFit(o.vibe, prev, c) * 0.15 +
+          fb * 0.5 - (usedRec.has(c.r) ? 0.4 : 0) + Math.random() * 0.08;
         if (score > bestScore) { best = c; bestScore = score; }
       }
       if (!best) break;
       set.push(best); used.add(best.k); usedRec.add(best.r);
     }
     return { tracks: set.map((t) => t.k), short: set.length < n };
+  }
+
+  // How well the energy move from a to b suits the chosen vibe (0..1), using the sound profiles.
+  function vibeFit(vibe, a, b) {
+    const ea = a.snd && a.snd.e, eb = b.snd && b.snd.e;
+    if (ea == null || eb == null) return 0.5;
+    const d = eb - ea;
+    if (vibe === 'build') return d >= 0 ? Math.max(0, 1 - Math.abs(d - 6) / 20) : Math.max(0, 0.4 + d / 40);
+    if (vibe === 'down') return d <= 0 ? Math.max(0, 1 - Math.abs(d + 6) / 20) : Math.max(0, 0.4 - d / 40);
+    return Math.max(0, 1 - Math.abs(d) / 25); // smooth, steady and eclectic keep the energy level
   }
 
   // The Generate tab: settings, then a draft you can tweak, regenerate, or save into My mixes.
@@ -570,6 +612,8 @@
         <label class="f"><span>Start BPM</span><input data-f="from" value="${esc(gen.from)}" inputmode="numeric"></label>
         <label class="f"><span>End BPM <small>(optional)</small></span><input data-f="to" value="${esc(gen.to ?? '')}" placeholder="Any" inputmode="numeric"></label>
         ${gen.nokeys ? '' : select('cam', 'Start key', camOptions(), gen.cam, 'Any')}
+        <label class="f"><span>Vibe</span><select data-f="vibe">${[['', 'Smooth: tracks that sound alike'], ['build', 'Build energy'], ['down', 'Wind down'], ['eclectic', 'Eclectic: contrast, still mixable']]
+          .map(([v, n]) => `<option value="${v}"${(gen.vibe || '') === v ? ' selected' : ''}>${n}</option>`).join('')}</select></label>
         <label class="f"><span>Tracks</span><input data-f="n" value="${esc(gen.n)}" inputmode="numeric"></label>
       </div>
       <label class="switch"><input type="checkbox" data-f="nokeys"${gen.nokeys ? ' checked' : ''}><span></span>Ignore keys <small>(match on tempo only)</small></label>
@@ -627,6 +671,7 @@
     toast(res.short ? `Only found ${res.tracks.length} tracks that chain well` : 'New draft ready');
   }
 
+  const THUMB_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 11v9H4v-9zM7 11l4-7c1.4 0 2.3 1.1 2 2.5L12.5 10H18a2 2 0 0 1 2 2.3l-1.2 6A2 2 0 0 1 16.8 20H7"/></svg>';
   function transitionHtml(a, b) {
     const tr = C.transition(a, b, { pitchRange: settings.pitchRange });
     const bits = [];
@@ -638,7 +683,13 @@
       bits.push(`<span class="${relClass(tr.pitched.score)}">${esc(a.cam)} → ${esc(tr.keyAfterPitch)}: ${esc(tr.pitched.label)}</span>`);
       if (tr.semis) bits.push(`<span class="unk" title="Vinyl has no key lock: pitching moves the key">${esc(b.cam)} plays as ${esc(tr.keyAfterPitch)} once pitched (${tr.semis > 0 ? '+' : ''}${tr.semis} semitone)</span>`);
     } else bits.push('<span class="unk">key unknown</span>');
-    return `<li class="trans ${relClass(tr.score)}">${bits.join('')}</li>`;
+    const shared = a.r.styles.filter((x) => b.r.styles.includes(x));
+    bits.push(a.r === b.r ? '' : shared.length ? `<span class="unk">both ${esc(shared.slice(0, 2).join(', '))}</span>` : '<span class="unk">different styles</span>');
+    if (a.snd && b.snd && a.snd.e != null && b.snd.e != null) bits.push(`<span class="unk">energy ${a.snd.e} → ${b.snd.e}</span>`);
+    if (a.snd && b.snd) { const sim = soundSim(a.snd, b.snd); bits.push(`<span class="${sim > 0.6 ? 'good' : sim > 0.25 ? 'ok' : 'bad'}">sound ${sim > 0.6 ? 'very close' : sim > 0.25 ? 'related' : 'contrasting'}</span>`); }
+    const fb = feedback(a.k, b.k);
+    const fbBtns = `<span class="fb"><button class="${fb > 0 ? 'on' : ''}" data-fa="${esc(a.k)}" data-fbk="${esc(b.k)}" data-v="1" aria-label="This transition works" title="Works well: the generator will reuse it">${THUMB_SVG}</button><button class="down${fb < 0 ? ' on' : ''}" data-fa="${esc(a.k)}" data-fbk="${esc(b.k)}" data-v="-1" aria-label="This transition doesn't work" title="Doesn't work: the generator will avoid it">${THUMB_SVG}</button></span>`;
+    return `<li class="trans ${relClass(tr.score)}">${bits.join('')}${fbBtns}</li>`;
   }
 
   // Track list, transitions, records to pull and next-track ideas for a mix or the draft.
@@ -687,6 +738,13 @@
     $$('[data-rm]', root).forEach((b) => (b.onclick = () => { m.tracks.splice(+b.dataset.rm, 1); saveUser(); rerender(); }));
     wireDrag(root, move);
     $$('table.sug .add', root).forEach((b) => (b.onclick = () => add(b.closest('tr').dataset.k)));
+    $$('.fb button', root).forEach((b) => (b.onclick = () => {
+      const key = pairKey(b.dataset.fa, b.dataset.fbk), v = +b.dataset.v;
+      if (user.pairs[key] === v) delete user.pairs[key]; else user.pairs[key] = v;
+      saveUser();
+      rerender();
+      toast(user.pairs[key] ? (v > 0 ? 'Noted: the generator will favour this pair' : 'Noted: the generator will avoid this pair') : 'Cleared');
+    }));
   }
 
   // My mixes: only saved mixes. Rename, reorder, add, remove, duplicate, delete.

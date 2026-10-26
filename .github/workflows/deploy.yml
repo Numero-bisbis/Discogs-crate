@@ -36,7 +36,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install requests
+      - run: pip install requests numpy
       - run: python sync/build.py
       - name: Make browsers fetch the new code
         run: sed -i -E "s/(app|camelot)\.js\"/\1.js?v=$(git rev-parse --short HEAD)\"/g; s/style\.css\"/style.css?v=$(git rev-parse --short HEAD)\"/g; s/manifest\.webmanifest\"/manifest.webmanifest?v=$(git rev-parse --short HEAD)\"/g" site/index.html site/manifest.webmanifest

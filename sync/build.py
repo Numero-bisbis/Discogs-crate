@@ -1,6 +1,8 @@
 """Combine the collection, release details and BPM/key cache into site/data.json."""
 from datetime import datetime, timezone
 
+import numpy as np
+
 from common import DATA, ROOT, join_artists, load_json, save_json
 from tracks import iter_tracks
 from videos import match as match_videos
@@ -15,6 +17,31 @@ def format_label(formats):
             name = f"{qty}×{name}"
         out.append(", ".join([name] + (f.get("descriptions") or [])))
     return "; ".join(out)
+
+
+def sound_profiles(releases):
+    """Shrink each track's 64-number fingerprint to 12 with PCA over the whole collection, so
+    data.json stays small, and turn the mood scores into one 0-100 energy figure."""
+    keys, vecs, extra = [], [], {}
+    for r in releases:
+        prof = load_json(DATA / "profiles" / f"{r['id']}.json", {})
+        for t in r["tracks"]:
+            p = prof.get(t["k"])
+            if p and p.get("v"):
+                keys.append(t["k"])
+                vecs.append(p["v"])
+                moods = [p[m] for m in ("aggr", "party") if m in p] + ([1 - p["relax"]] if "relax" in p else [])
+                extra[t["k"]] = {"e": round(100 * sum(moods) / len(moods)) if moods else None,
+                                 "d": round(100 * p["dance"]) if "dance" in p else None,
+                                 "vo": round(100 * p["voice"]) if "voice" in p else None}
+    if len(vecs) < 20:
+        return {}
+    x = np.asarray(vecs)
+    x = x - x.mean(axis=0)
+    _, _, vt = np.linalg.svd(x, full_matrices=False)
+    y = x @ vt[:12].T
+    y /= np.linalg.norm(y, axis=1, keepdims=True) + 1e-9
+    return {k: {"v": [round(float(a) * 100) for a in row], **extra[k]} for k, row in zip(keys, y)}
 
 
 def main():
@@ -54,6 +81,11 @@ def main():
             "tracks": tracks,
             "vids": [[vid, title] for vid, title in other_videos],
         })
+    snd = sound_profiles(releases)
+    for r in releases:
+        for t in r["tracks"]:
+            if t["k"] in snd:
+                t["snd"] = snd[t["k"]]
     out = {
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "username": collection.get("username"),
@@ -65,7 +97,7 @@ def main():
     n_yt = sum(1 for r in releases for t in r["tracks"] if t.get("yt"))
     n_dz = sum(1 for r in releases for t in r["tracks"] if t.get("dz") and not t.get("yt"))
     print(f"built site/data.json: {len(releases)} records, {n_tracks} tracks, {n_bpm} with BPM, "
-          f"{n_yt} with a YouTube video, {n_dz} more with a Deezer preview")
+          f"{n_yt} with a YouTube video, {n_dz} more with a Deezer preview, {len(snd)} with a sound profile")
 
 
 if __name__ == "__main__":
