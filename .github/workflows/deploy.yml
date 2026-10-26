@@ -52,3 +52,12 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
+      - name: Check what the live site serves for the home screen icon
+        run: |
+          sleep 30
+          base="${{ steps.deploy.outputs.page_url }}"
+          curl -fsS "$base" | grep -Eo '<link rel="(apple-touch-icon|manifest)[^>]*>' || true
+          href=$(curl -fsS "$base" | grep -Eo 'rel="apple-touch-icon" sizes="180x180" href="[^"]*"' | sed -E 's/.*href="([^"]*)"/\1/')
+          echo "live icon: $base$href"
+          curl -fsS "$base$href" | md5sum
+          md5sum site/icons/crate-180.png
