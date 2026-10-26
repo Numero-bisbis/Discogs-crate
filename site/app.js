@@ -491,8 +491,10 @@
   function soundSim(x, y) {
     let dot = 0, nx = 0, ny = 0;
     for (let i = 0; i < x.v.length; i++) { dot += x.v[i] * y.v[i]; nx += x.v[i] ** 2; ny += y.v[i] ** 2; }
-    return nx && ny ? Math.max(0, dot / Math.sqrt(nx * ny)) : 0;
+    return nx && ny ? dot / Math.sqrt(nx * ny) : 0;
   }
+  // Cosine rescaled to 0..1 from the collection's spread: a random pair lands near 0.33, two tracks off the same record near 0.8.
+  const soundFit = (x, y) => Math.max(0, Math.min(1, (soundSim(x, y) + 0.45) / 1.25));
   // 0..1: shared styles, similar era, same label and, where known, how alike they sound.
   function affinity(a, b) {
     const ra = a.r, rb = b.r;
@@ -504,7 +506,7 @@
       s += 0.2 * (ra.genres.some((g) => rb.genres.includes(g)) ? 1 : 0); w += 0.2;
     }
     if (ra.year && rb.year) { s += 0.15 * Math.max(0, 1 - Math.abs(ra.year - rb.year) / 15); w += 0.15; }
-    if (a.snd && b.snd) { s += 0.5 * soundSim(a.snd, b.snd); w += 0.5; }
+    if (a.snd && b.snd) { s += 0.5 * soundFit(a.snd, b.snd); w += 0.5; }
     const sameLabel = ra.labels[0] && rb.labels[0] && ra.labels[0].name === rb.labels[0].name;
     return w ? Math.min(1, s / w + (sameLabel ? 0.05 : 0)) : 0.5;
   }
@@ -711,7 +713,7 @@
     const shared = a.r.styles.filter((x) => b.r.styles.includes(x));
     bits.push(a.r === b.r ? '' : shared.length ? `<span class="unk">both ${esc(shared.slice(0, 2).join(', '))}</span>` : '<span class="unk">different styles</span>');
     if (a.snd && b.snd && a.snd.e != null && b.snd.e != null) bits.push(`<span class="unk">energy ${a.snd.e} → ${b.snd.e}</span>`);
-    if (a.snd && b.snd) { const sim = soundSim(a.snd, b.snd); bits.push(`<span class="${sim > 0.6 ? 'good' : sim > 0.25 ? 'ok' : 'bad'}">sound ${sim > 0.6 ? 'very close' : sim > 0.25 ? 'related' : 'contrasting'}</span>`); }
+    if (a.snd && b.snd) { const sim = soundSim(a.snd, b.snd); bits.push(`<span class="${sim > 0.55 ? 'good' : sim > 0.2 ? 'ok' : 'bad'}">sound ${sim > 0.55 ? 'very close' : sim > 0.2 ? 'related' : 'contrasting'}</span>`); }
     const fb = feedback(a.k, b.k);
     const fbBtns = `<span class="fb"><button class="${fb > 0 ? 'on' : ''}" data-fa="${esc(a.k)}" data-fbk="${esc(b.k)}" data-v="1" aria-label="This transition works" title="Works well: the generator will reuse it">${THUMB_SVG}</button><button class="down${fb < 0 ? ' on' : ''}" data-fa="${esc(a.k)}" data-fbk="${esc(b.k)}" data-v="-1" aria-label="This transition doesn't work" title="Doesn't work: the generator will avoid it">${THUMB_SVG}</button></span>`;
     return `<li class="trans ${cls}">${bits.join('')}${fbBtns}</li>`;
