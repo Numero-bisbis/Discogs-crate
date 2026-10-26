@@ -3,6 +3,7 @@ from datetime import datetime, timezone
 
 from common import DATA, ROOT, join_artists, load_json, save_json
 from tracks import iter_tracks
+from videos import match as match_videos
 
 
 def format_label(formats):
@@ -24,7 +25,9 @@ def main():
         bi = it["basic_information"]
         rel = load_json(DATA / "releases" / f"{bi['id']}.json", None) or {}
         tracks = []
-        for t in iter_tracks(rel) if rel else []:
+        raw = list(iter_tracks(rel)) if rel else []
+        yt, other_videos = match_videos(raw, rel.get("videos"))
+        for t in raw:
             a = audio.get(t["key"]) or {}
             tracks.append({
                 "k": t["key"], "pos": t["position"], "side": t["side"], "title": t["title"],
@@ -32,6 +35,9 @@ def main():
                 "bpm": round(a["bpm"]) if a.get("bpm") else None, "key": a.get("key"), "cam": a.get("camelot"),
                 # acousticbrainz | deezer-preview | none (looked, nothing found) | null (not looked up yet)
                 "src": a.get("source"),
+                # snippet: YouTube video from Discogs, else the Deezer track whose preview was analysed
+                **({"yt": yt[t["key"]]} if t["key"] in yt else {}),
+                **({"dz": a["deezer_id"]} if a.get("deezer_id") else {}),
             })
         releases.append({
             "id": bi["id"], "iid": it.get("instance_id"),
@@ -46,6 +52,7 @@ def main():
             "folder": collection["folders"].get(str(it.get("folder_id"))) or collection["folders"].get(it.get("folder_id")),
             "url": rel.get("uri") or f"https://www.discogs.com/release/{bi['id']}",
             "tracks": tracks,
+            "vids": [[vid, title] for vid, title in other_videos],
         })
     out = {
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -55,7 +62,10 @@ def main():
     save_json(ROOT / "site" / "data.json", out, compact=True)
     n_tracks = sum(len(r["tracks"]) for r in releases)
     n_bpm = sum(1 for r in releases for t in r["tracks"] if t["bpm"])
-    print(f"built site/data.json: {len(releases)} records, {n_tracks} tracks, {n_bpm} with BPM")
+    n_yt = sum(1 for r in releases for t in r["tracks"] if t.get("yt"))
+    n_dz = sum(1 for r in releases for t in r["tracks"] if t.get("dz") and not t.get("yt"))
+    print(f"built site/data.json: {len(releases)} records, {n_tracks} tracks, {n_bpm} with BPM, "
+          f"{n_yt} with a YouTube video, {n_dz} more with a Deezer preview")
 
 
 if __name__ == "__main__":

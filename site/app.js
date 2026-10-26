@@ -115,6 +115,73 @@
     return `<span class="cam" style="--h:${((p.n - 1) * 30 + 200) % 360}" title="${esc(key || C.camToKey(cam))}">${esc(cam)}</span>`;
   }
 
+  // ---------- snippets ----------
+  // A YouTube video linked on Discogs if one matches the track, else Deezer's 30-second preview,
+  // else a YouTube search in a new tab.
+  const PLAY_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10.5-6.5z" fill="currentColor"/></svg>';
+  const SEARCH_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg>';
+  function playBtn(t) {
+    if (t.yt || t.dz) return `<button class="play${playing === t.k ? ' on' : ''}" data-play="${esc(t.k)}" title="Play a snippet" aria-label="Play ${esc(t.title)}">${PLAY_SVG}</button>`;
+    const q = encodeURIComponent(`${t.artist} ${t.title}`);
+    return `<a class="play none" href="https://www.youtube.com/results?search_query=${q}" target="_blank" rel="noopener" title="No snippet linked: search YouTube" aria-label="Search YouTube for ${esc(t.title)}">${SEARCH_SVG}</a>`;
+  }
+
+  function deezerPreview(id) {
+    // Deezer's API has no CORS headers, but it does answer JSONP.
+    return new Promise((resolve, reject) => {
+      const cb = 'crateDz' + uid(), s = document.createElement('script');
+      const done = () => { delete window[cb]; s.remove(); clearTimeout(timer); };
+      const timer = setTimeout(() => { done(); reject(new Error('timeout')); }, 8000);
+      window[cb] = (j) => { done(); j && j.preview ? resolve(j.preview) : reject(new Error('no preview')); };
+      s.onerror = () => { done(); reject(new Error('blocked')); };
+      s.src = `https://api.deezer.com/track/${encodeURIComponent(id)}?output=jsonp&callback=${cb}`;
+      document.head.appendChild(s);
+    });
+  }
+
+  let playing = null;
+  function showPlayer(key, title, sub, media) {
+    const p = $('#player');
+    $('.pl-info b', p).textContent = title;
+    $('.pl-info small', p).textContent = sub;
+    $('.pl-media', p).innerHTML = media;
+    p.hidden = false;
+    document.body.classList.add('has-player');
+    requestAnimationFrame(() => p.classList.add('show'));
+    playing = key;
+    $$('.play.on').forEach((b) => b.classList.remove('on'));
+    $$(`[data-play="${CSS.escape(key)}"], [data-video="${CSS.escape(key)}"]`).forEach((b) => b.classList.add('on'));
+  }
+  function closePlayer() {
+    const p = $('#player');
+    p.classList.remove('show');
+    $('.pl-media', p).innerHTML = '';
+    p.hidden = true;
+    document.body.classList.remove('has-player');
+    playing = null;
+    $$('.on[data-play], .on[data-video]').forEach((b) => b.classList.remove('on'));
+  }
+  const ytFrame = (id) => `<iframe src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(id)}?autoplay=1&playsinline=1&rel=0&modestbranding=1" title="YouTube video" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
+  async function playTrack(k) {
+    const t = byKey.get(k);
+    if (!t) return;
+    if (playing === k) { closePlayer(); return; }
+    const sub = `${t.artist} · ${t.r.title} · ${t.pos}`;
+    if (t.yt) { showPlayer(k, t.title, sub + ' · YouTube', ytFrame(t.yt)); return; }
+    // Make the audio element inside the tap so iOS lets it play once the preview link arrives.
+    showPlayer(k, t.title, sub + ' · Deezer preview, 30 s', '<audio controls autoplay playsinline></audio>');
+    const audio = $('#player audio');
+    audio.play().catch(() => {});
+    try {
+      audio.src = await deezerPreview(t.dz);
+      if (playing === k) audio.play().catch(() => {});
+    } catch {
+      if (playing !== k) return;
+      const q = encodeURIComponent(`${t.artist} ${t.title}`);
+      $('#player .pl-media').innerHTML = `<p class="sub">Deezer's preview didn't load. <a href="https://www.youtube.com/results?search_query=${q}" target="_blank" rel="noopener">Search YouTube instead ↗</a></p>`;
+    }
+  }
+
   function relClass(score) {
     if (score === null || score === undefined) return 'unk';
     return score >= 0.85 ? 'good' : score >= 0.5 ? 'ok' : 'bad';
@@ -197,7 +264,7 @@
     const mix = currentMix();
     const rows = r.tracks.map((t) => {
       const e = eff(t);
-      return `<tr data-k="${esc(t.k)}"><td class="pos">${esc(t.pos)}</td><td><b>${esc(t.title)}</b>${t.artist !== r.artist ? `<br><small>${esc(t.artist)}</small>` : ''}</td>
+      return `<tr data-k="${esc(t.k)}"><td class="pos">${esc(t.pos)}</td><td><div class="tt">${playBtn(t)}<div><b>${esc(t.title)}</b>${t.artist !== r.artist ? `<br><small>${esc(t.artist)}</small>` : ''}</div></div></td>
         <td class="num">${fmtDur(t.dur)}</td>
         <td class="num"><input class="bpm-in" value="${e.bpm ?? ''}" placeholder="BPM" inputmode="numeric"></td>
         <td><input class="key-in" value="${e.cam ?? ''}" placeholder="Key" title="${esc(e.key || 'Type 8A, Am, F#m…')}"></td><td>${srcTag(e)}</td>
@@ -212,7 +279,8 @@
         <p class="tags">${[...r.genres, ...r.styles].map((g) => `<span>${esc(g)}</span>`).join('')}</p>
         <p><a class="ext" href="${esc(r.url)}" target="_blank" rel="noopener">Open on Discogs ↗</a></p></div></div>
       <div class="table-wrap"><table class="tl"><thead><tr><th>Pos</th><th>Track</th><th>Time</th><th>BPM</th><th>Key</th><th>From</th><th></th></tr></thead><tbody>${rows || '<tr><td colspan="7">No tracklist yet.</td></tr>'}</tbody></table></div>
-      <p class="hint">From: <b>DB</b> = AcousticBrainz database, <b>est.</b> = estimated from a 30-second preview, <b>you</b> = your edit, <b>none</b> = nothing found, <b>…</b> = not looked up yet. Type over any value to fix it.</p>`;
+      <p class="hint">From: <b>DB</b> = AcousticBrainz database, <b>est.</b> = estimated from a 30-second preview, <b>you</b> = your edit, <b>none</b> = nothing found, <b>…</b> = not looked up yet. Type over any value to fix it.</p>
+      ${r.vids && r.vids.length ? `<h3>More videos <small>from this record's Discogs page</small></h3><div class="vids">${r.vids.map(([id, title]) => `<button class="vid" data-video="${esc(id)}" data-title="${esc(title)}" data-sub="${esc(r.artist + ' · ' + r.title)}">${PLAY_SVG}<span>${esc(title)}</span></button>`).join('')}</div>` : ''}`;
     wireEdits($('#drawer-body'));
     openDrawer(r.title);
   }
@@ -300,7 +368,7 @@
       .slice(0, trackLimit)
       .map((t) => {
         const e = eff(t);
-        return `<tr data-k="${esc(t.k)}"><td class="pos">${esc(t.pos)}</td><td><b>${esc(t.title)}</b><small class="m-only">${esc(t.artist)}</small></td><td>${esc(t.artist)}</td>
+        return `<tr data-k="${esc(t.k)}"><td class="pos">${esc(t.pos)}</td><td><div class="tt">${playBtn(t)}<div><b>${esc(t.title)}</b><small class="m-only">${esc(t.artist)}</small></div></div></td><td>${esc(t.artist)}</td>
           <td><a href="#" class="rec">${esc(t.r.title)}</a></td>
           <td class="num"><input class="bpm-in${e.edited ? ' edited' : ''}" value="${e.bpm ?? ''}" inputmode="numeric"></td>
           <td><input class="key-in${e.edited ? ' edited' : ''}" value="${e.cam ?? ''}" title="${esc(e.key || 'Type 8A, Am, F#m…')}"></td><td>${srcTag(e)}</td>
@@ -507,7 +575,7 @@
       html += `<li class="item" data-i="${i}"><span class="grip" title="Drag to reorder" aria-label="Drag to reorder">⋮⋮</span>
         ${t.r.thumb ? `<img src="${esc(t.r.thumb)}" alt="" loading="lazy">` : '<span class="noimg"></span>'}
         <div class="ti"><b>${esc(t.title)}</b><span>${esc(t.artist)}</span><small>${esc(t.r.title)} · ${esc(t.r.labels[0]?.catno || '')} · side ${esc(t.side || '?')}, <b>${esc(t.pos)}</b></small></div>
-        <div class="tk"><span class="bpm">${t.bpm ? t.bpm : '–'}</span>${camBadge(t.cam, t.key)}</div>
+        <div class="tk">${playBtn(t)}<span class="bpm">${t.bpm ? t.bpm : '–'}</span>${camBadge(t.cam, t.key)}</div>
         <div class="mv"><button class="small" data-up="${i}" aria-label="Move up">↑</button><button class="small" data-down="${i}" aria-label="Move down">↓</button><button class="small" data-rm="${i}" aria-label="Remove">×</button></div></li>`;
     });
     html += '</ol>';
@@ -775,6 +843,15 @@
 
   // ---------- boot ----------
   function wire() {
+    document.addEventListener('click', (e) => {
+      const b = e.target.closest('[data-play], [data-video]');
+      if (!b) return;
+      e.preventDefault();
+      if (b.dataset.play) playTrack(b.dataset.play);
+      else if (playing === b.dataset.video) closePlayer();
+      else showPlayer(b.dataset.video, b.dataset.title, b.dataset.sub + ' · YouTube', ytFrame(b.dataset.video));
+    });
+    $('#player .pl-close').onclick = closePlayer;
     $$('.tabs button').forEach((b) => (b.onclick = () => setView(b.dataset.view)));
     let t;
     $('#search').oninput = () => { clearTimeout(t); t = setTimeout(() => { trackLimit = 300; render(); }, 120); };

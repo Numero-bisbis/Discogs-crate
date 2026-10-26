@@ -6,10 +6,11 @@ A web app for browsing a Discogs record collection and planning mixes to play on
 - **Tracks**: every track in the collection, sortable and filterable by BPM, key (Camelot), genre and style. "Mixes with" shows tracks whose key sits well with a chosen key.
 - **Mixes**: build ordered playlists from tracks you own. Every step shows how far to pitch the next record and whether the keys work, including the key shift that pitching causes on vinyl (no key lock on a turntable). Lists the records to pull and the side/position of each track, suggests what could come next, and can auto-order a mix.
 - **Edits**: BPM and key are estimates; type over any value to correct it.
+- **Snippets**: the ▶ button plays the YouTube video linked to that track on Discogs, or Deezer's 30-second preview when there is no video. Tracks with neither get a YouTube search link instead.
 
 ## How it stays up to date
 
-A GitHub Actions workflow (`.github/workflows/sync.yml`) runs every hour, and `deploy.yml` publishes the site after each sync and after every code change:
+A GitHub Actions workflow (`.github/workflows/sync.yml`) runs twice an hour, and `deploy.yml` publishes the site after each sync and after every code change:
 
 1. `sync/sync_discogs.py` reads the collection from the Discogs API and fetches tracklists for records it hasn't seen before. Removed records drop out.
 2. `sync/enrich.py` looks up BPM and key for new tracks: AcousticBrainz first (via a MusicBrainz match), then a local Essentia analysis of Deezer's 30-second preview. It stops after 40 minutes and continues on the next run, so the first full pass over a large collection takes a few runs.

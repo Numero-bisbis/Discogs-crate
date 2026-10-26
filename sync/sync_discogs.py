@@ -16,6 +16,8 @@ TOKEN = os.environ.get("DISCOGS_TOKEN", "").strip()
 # Discogs allows 60 req/min with a token and 25 without.
 INTERVAL = 1.1 if TOKEN else 2.5
 MAX_NEW_RELEASES = int(os.environ.get("MAX_NEW_RELEASES", "1000"))
+# Releases cached before video links were kept get re-fetched a batch per run, so a run stays short.
+MAX_BACKFILL = int(os.environ.get("MAX_BACKFILL", "200"))
 
 
 def api(path, **params):
@@ -67,8 +69,10 @@ def main():
     have = {int(p.stem) for p in rel_dir.glob("*.json")}
 
     new = [rid for rid in dict.fromkeys(it["basic_information"]["id"] for it in items) if rid not in have]
-    print(f"{len(wanted)} releases in collection, {len(new)} need details")
-    for i, rid in enumerate(new[:MAX_NEW_RELEASES], 1):
+    stale = [rid for rid in sorted(have & wanted) if "videos" not in load_json(rel_dir / f"{rid}.json", {})]
+    print(f"{len(wanted)} releases in collection, {len(new)} need details, {len(stale)} need video links")
+    todo = new[:MAX_NEW_RELEASES] + stale[:MAX_BACKFILL]
+    for i, rid in enumerate(todo, 1):
         rel = api(f"/releases/{rid}")
         if rel is None:
             print(f"  release {rid} missing on Discogs, skipping")
@@ -76,8 +80,10 @@ def main():
         keep = {k: rel.get(k) for k in ("id", "title", "artists", "year", "released", "country", "genres",
                                         "styles", "labels", "formats", "tracklist", "uri", "notes")}
         keep["images"] = (rel.get("images") or [])[:1]
+        # YouTube links people attached on Discogs; build.py matches them to tracks for snippets.
+        keep["videos"] = [{k: v.get(k) for k in ("uri", "title", "duration")} for v in rel.get("videos") or []]
         save_json(rel_dir / f"{rid}.json", keep)
-        print(f"  [{i}/{len(new)}] {rid} {rel.get('title')}")
+        print(f"  [{i}/{len(todo)}] {rid} {rel.get('title')}")
 
     # Records sold or removed from the collection drop out of the cache.
     for rid in have - wanted:
