@@ -1,0 +1,239 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 144288,
+   "join": "",
+   "name": "Amadou & Mariam",
+   "resource_url": "https://api.discogs.com/artists/144288",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-ZaQtYMTTlYkmB_wqQdfOYRFrfWAthwlp84KxwFTYKY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0NDI4/OC0xNzQzODAyOTYy/LTQ1NjEuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Pop",
+  "Folk, World, & Country"
+ ],
+ "id": 31861604,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/U6d2GQivnViqQIEk-5lBTgbKZEx6wxXcf1KF4oaKAG8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODYx/NjA0LTE3NTE2NzMx/OTUtODg3NS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/U6d2GQivnViqQIEk-5lBTgbKZEx6wxXcf1KF4oaKAG8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODYx/NjA0LTE3NTE2NzMx/OTUtODg3NS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/HjpcfA5Uh8RG1_QRfeOYlBT2SIGXUUUbTbSJiwIdz1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODYx/NjA0LTE3NTE2NzMx/OTUtODg3NS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BEC5614019",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 54379,
+   "name": "Because Music",
+   "resource_url": "https://api.discogs.com/labels/54379",
+   "thumbnail_url": "https://i.discogs.com/hCnQ7eINYuhslt-dC2Ub26qjZl4Y5QgXKDWslpAIL6E/rs:fit/g:sm/q:90/h:338/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU0Mzc5/LTE2MzE4NzIxOTMt/NDQ5Ny5qcGVn.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2024-09-06",
+ "styles": [
+  "African",
+  "Afrobeat",
+  "Highlife",
+  "Griot"
+ ],
+ "title": "La Vie Est Belle",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Sabali",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Mogolu",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Beaux Dimanches",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Ce N'Est Pas Bon",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "M",
+     "id": 115680,
+     "join": "",
+     "name": "-M-",
+     "resource_url": "https://api.discogs.com/artists/115680",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Masiteladi",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "La Vie Est Belle",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "La Realite",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Bofou Safou",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Senegal Fast Food",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "M'Bife",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1513560,
+     "join": "",
+     "name": "Santigold",
+     "resource_url": "https://api.discogs.com/artists/1513560",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Dougou Badia",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C2",
+   "title": "Je Pense A Toi (Eclipse Version)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 727655,
+     "join": "",
+     "name": "K'naan",
+     "resource_url": "https://api.discogs.com/artists/727655",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Africa",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 172047,
+     "join": "",
+     "name": "TV On The Radio",
+     "resource_url": "https://api.discogs.com/artists/172047",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Wily Kataso",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D1",
+   "title": "C'Est Chaud",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 229665,
+     "join": "",
+     "name": "Akon",
+     "resource_url": "https://api.discogs.com/artists/229665",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Coulibaly (Akon Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6656882,
+     "join": "",
+     "name": "Ever Mihigo",
+     "resource_url": "https://api.discogs.com/artists/6656882",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Beau Dimanches (Ever Mihigo Rework)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D4",
+   "title": "Sete",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/31861604-Amadou-Mariam-La-Vie-Est-Belle",
+ "year": 2024
+}

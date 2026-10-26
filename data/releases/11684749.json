@@ -1,0 +1,73 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 59,
+   "join": "",
+   "name": "Kerri Chandler",
+   "resource_url": "https://api.discogs.com/artists/59",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/VpK3ZOfopZVokvSVy7WycAsHLPhhvn6fXdTsqGqmZb4/rs:fit/g:sm/q:90/h:588/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU5LTE0/MDU3NjkyNTQtNTk5/OS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11684749,
+ "images": [
+  {
+   "height": 598,
+   "resource_url": "https://i.discogs.com/_zGsGiiHKdRU_7VgNH4OS8eww997SegjGQtRebCXgCI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/NzQ5LTE3MDc4MTM3/NjMtODgyMS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/_zGsGiiHKdRU_7VgNH4OS8eww997SegjGQtRebCXgCI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/NzQ5LTE3MDc4MTM3/NjMtODgyMS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/6pNQGmqlo4GBbknWKO3enUIP1dXx0304vKZf3x9RqQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/NzQ5LTE3MDc4MTM3/NjMtODgyMS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "NER24223",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 251,
+   "name": "Nervous Records",
+   "resource_url": "https://api.discogs.com/labels/251",
+   "thumbnail_url": "https://i.discogs.com/V00RlxSv1WChVdN-DvTxQ5XW5bJ2u3W11rJR73t4F2Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1MS0x/MzcyNzczMTM0LTk5/MTUuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-03-00",
+ "styles": [
+  "House",
+  "Tech House"
+ ],
+ "title": "Rain (Dense & Pika Remix) ",
+ "tracklist": [
+  {
+   "duration": "5:32",
+   "position": "A",
+   "title": "Rain (Dense & Pika Vocal Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:32",
+   "position": "B",
+   "title": "Rain (Dense & Pika Instrumental Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11684749-Kerri-Chandler-Rain-Dense-Pika-Remix-",
+ "year": 2018
+}

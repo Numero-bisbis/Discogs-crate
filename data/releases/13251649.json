@@ -1,0 +1,111 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13251649,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/j3gGB92kzigTeBOMHFB9u2Ui2bifcs09es90tZyrioY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NjQ5LTE1NTA3NjAx/MzctMjcxNS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/j3gGB92kzigTeBOMHFB9u2Ui2bifcs09es90tZyrioY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NjQ5LTE1NTA3NjAx/MzctMjcxNS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/xeCRu2qFBboRA7m1ZV_-JDpnwMhr5vgSDM3Okz5hM9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/NjQ5LTE1NTA3NjAx/MzctMjcxNS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "COD3 QR 002",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1569865,
+   "name": "COD3 QR",
+   "resource_url": "https://api.discogs.com/labels/1569865",
+   "thumbnail_url": "https://i.discogs.com/DCRi3xItkP6dmDz6OEqexsc7SSdMlSgI0-JCBG3cPYM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Njk4/NjUtMTcyMTE1MjI4/Ny0yMDI3LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Artist code:\n- Track A1 is 414F54\n- Track B1 is 414C46\n- Track B2 is 52454D",
+ "released": "2019-02-22",
+ "styles": [
+  "Techno"
+ ],
+ "title": "COD3 QR 002",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3884938,
+     "join": "",
+     "name": "Agents Of Time",
+     "resource_url": "https://api.discogs.com/artists/3884938",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A1",
+   "title": "Viral 101",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5125158,
+     "join": "",
+     "name": "Alfonsvs",
+     "resource_url": "https://api.discogs.com/artists/5125158",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B1",
+   "title": "44th Romance",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5549349,
+     "join": "",
+     "name": "Remotif",
+     "resource_url": "https://api.discogs.com/artists/5549349",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B2",
+   "title": "Multiverse By Moonlight",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13251649-Various-COD3-QR-002",
+ "year": 2019
+}

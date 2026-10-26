@@ -1,0 +1,210 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2830806,
+   "join": "",
+   "name": "alt-J",
+   "resource_url": "https://api.discogs.com/artists/2830806",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Mwzof2od0kxjzwJ1GtvvOSAPPeC5wWnGxCcaWy-YlHg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4MzA4/MDYtMTc0NjgwNTIx/Mi0yNDY5LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "White"
+  }
+ ],
+ "genres": [
+  "Rock"
+ ],
+ "id": 23776664,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/9YfmQ93u5m4fviGfVIc3hF1kcXU1UZJEA0q9B35_T-w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzc2/NjY0LTE2NjY0Nzk4/OTgtMTc5OS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/9YfmQ93u5m4fviGfVIc3hF1kcXU1UZJEA0q9B35_T-w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzc2/NjY0LTE2NjY0Nzk4/OTgtMTc5OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/iq4_Tz9F29EIAhL0mpHomOYw8qY0eIPzNu-uPz7r1ME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzc2/NjY0LTE2NjY0Nzk4/OTgtMTc5OS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "INFECT 134WLP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 162992,
+   "name": "Infectious Music",
+   "resource_url": "https://api.discogs.com/labels/162992",
+   "thumbnail_url": "https://i.discogs.com/-k6IePejoU9iHY--2xwR4xm5g9He442XCIXz2LNejyo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2Mjk5/Mi0xNDk2NDI1MzYw/LTQwNjEucG5n.jpeg"
+  }
+ ],
+ "notes": "Gatefold sleeve with lyrics on the inside and printed inner sleeve.\n\nIncludes the hidden track \"Handmade\" on vinyl but does not include a download code.\n\nMade in the Czech Republic\n",
+ "released": "2022-07-01",
+ "styles": [
+  "Indie Rock",
+  "Folk Rock",
+  "Experimental"
+ ],
+ "title": "An Awesome Wave",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Intro",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Interlude 1",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 612500,
+     "join": "",
+     "name": "Kirsty Mangan",
+     "resource_url": "https://api.discogs.com/artists/612500",
+     "role": "Violin",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Tessellate",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Breezeblocks",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "Interlude 2",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A6",
+   "title": "Something Good",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A7",
+   "title": "Dissolve Me",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Matilda",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Ms",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Fitzpleasure",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Interlude 3",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2930549,
+     "join": "",
+     "name": "St Ronan's Chamber Choir",
+     "resource_url": "https://api.discogs.com/artists/2930549",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Bloodflood",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2833518,
+     "join": "",
+     "name": "Rachael Lander",
+     "resource_url": "https://api.discogs.com/artists/2833518",
+     "role": "Cello",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 612500,
+     "join": "",
+     "name": "Kirsty Mangan",
+     "resource_url": "https://api.discogs.com/artists/612500",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2930549,
+     "join": "",
+     "name": "St Ronan's Chamber Choir",
+     "resource_url": "https://api.discogs.com/artists/2930549",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Taro",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 295192,
+     "join": "",
+     "name": "Mark Bishop",
+     "resource_url": "https://api.discogs.com/artists/295192",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B7",
+   "title": "Handmade (Secret Track)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/23776664-alt-J-An-Awesome-Wave",
+ "year": 2022
+}

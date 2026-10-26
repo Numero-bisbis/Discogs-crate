@@ -1,0 +1,301 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1065010,
+   "join": "",
+   "name": "Lil Wayne",
+   "resource_url": "https://api.discogs.com/artists/1065010",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/yjE6l_g7jPd4McPno1AJvs5DEoglAPl-djxaVCtMJo4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwNjUw/MTAtMTUwMDQ4MzE4/MC0xMDYyLnBuZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 27342945,
+ "images": [
+  {
+   "height": 590,
+   "resource_url": "https://i.discogs.com/yp6YMclmq_71tCFzukf8f5wcRB7ca6UizL2D_gkYSQY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzQy/OTQ1LTE2ODY0MDI3/NjUtNzA0OS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/yp6YMclmq_71tCFzukf8f5wcRB7ca6UizL2D_gkYSQY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzQy/OTQ1LTE2ODY0MDI3/NjUtNzA0OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/_Dzn1Ra8PZ7MlQ-9PTaDmunNLVOi6XVZR2pB1tm3TVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzQy/OTQ1LTE2ODY0MDI3/NjUtNzA0OS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "B0037495-01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 19799,
+   "name": "Cash Money Records",
+   "resource_url": "https://api.discogs.com/labels/19799",
+   "thumbnail_url": "https://i.discogs.com/DOJAy2_H-CJsw0a9XtVIDDBpUM7BRHfNWiHyuZ0FvcY/rs:fit/g:sm/q:90/h:600/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5Nzk5/LTE0ODg5MTgwNTct/Mzg1OS5wbmc.jpeg"
+  },
+  {
+   "catno": "B0037495-01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 38017,
+   "name": "Republic Records",
+   "resource_url": "https://api.discogs.com/labels/38017",
+   "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+  },
+  {
+   "catno": "B0037495-01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 68029,
+   "name": "UMe",
+   "resource_url": "https://api.discogs.com/labels/68029",
+   "thumbnail_url": "https://i.discogs.com/M8dUXs4KvT0ntyk7C_Xbzh3z3vTBp9EBxecfUb13p74/rs:fit/g:sm/q:90/h:233/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MDI5/LTE1MDM0MTYxNTkt/OTAxNy5wbmc.jpeg"
+  }
+ ],
+ "notes": "Matrix / Runout (Side A runout): B0037495-01-A(RE2) -A(RE2) B0037495-01A 1596441 258462E1 AA\nMatrix / Runout (Side B runout): B0037495-01-B (RE1) -B 258462E2 1537756 B0037495-01B\nMatrix / Runout (Side C runout): B0037495-01-C(RE1) -C B0037495-01-C 1537743 258462E3 AA\nMatrix / Runout (Side D runout): B0037495-01-D(RE1) -D -D 1537739 258462E4 B0037495-01 D AA",
+ "released": "2023-06-09",
+ "styles": [
+  "Pop Rap"
+ ],
+ "title": "Tha Carter III",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "3 Peat",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 21742,
+     "join": "",
+     "name": "Jay-Z",
+     "resource_url": "https://api.discogs.com/artists/21742",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Mr. Carter",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "A Milli",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 382934,
+     "join": "",
+     "name": "T-Pain",
+     "resource_url": "https://api.discogs.com/artists/382934",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Got Money",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 50703,
+     "join": "",
+     "name": "Babyface",
+     "resource_url": "https://api.discogs.com/artists/50703",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Comfortable",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Dr. Carter",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Phone Home",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 292681,
+     "join": "",
+     "name": "Robin Thicke",
+     "resource_url": "https://api.discogs.com/artists/292681",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Tie My Hands",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 326453,
+     "join": "",
+     "name": "Bobby Valentino (2)",
+     "resource_url": "https://api.discogs.com/artists/326453",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1453439,
+     "join": "",
+     "name": "Kidd Kidd",
+     "resource_url": "https://api.discogs.com/artists/1453439",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Mrs. Officer",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "Let The Beat Build",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1144553,
+     "join": "",
+     "name": "D. Smith (5)",
+     "resource_url": "https://api.discogs.com/artists/1144553",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Shoot Me Down",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1124616,
+     "join": "",
+     "name": "Static Major",
+     "resource_url": "https://api.discogs.com/artists/1124616",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Lollipop",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 472571,
+     "join": "",
+     "name": "Brisco",
+     "resource_url": "https://api.discogs.com/artists/472571",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 37906,
+     "join": "",
+     "name": "Busta Rhymes",
+     "resource_url": "https://api.discogs.com/artists/37906",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "La La",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D1",
+   "title": "Pussy Monster",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 37908,
+     "join": "",
+     "name": "Fabolous",
+     "resource_url": "https://api.discogs.com/artists/37908",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 113583,
+     "join": "",
+     "name": "Juelz Santana",
+     "resource_url": "https://api.discogs.com/artists/113583",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "You Ain't Got Nuthin",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D3",
+   "title": "DontGetIt",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/27342945-Lil-Wayne-Tha-Carter-III",
+ "year": 2023
+}

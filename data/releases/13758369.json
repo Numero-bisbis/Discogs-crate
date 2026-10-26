@@ -1,0 +1,184 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6250489,
+   "join": "&",
+   "name": "Bellaire",
+   "resource_url": "https://api.discogs.com/artists/6250489",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/haAAVfMskf4wFLM48hRQXJFSXnB5KP_GkK25hHdoIKM/rs:fit/g:sm/q:90/h:491/w:492/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYyNTA0/ODktMTYwNTAzMzQx/NS04MzE2LnBuZw.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 1290060,
+   "join": "",
+   "name": "Georges",
+   "resource_url": "https://api.discogs.com/artists/1290060",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ASlZmeQO_0UgIOMvTSUv2lVoazTlpb_2H7jcdSiYvYo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyOTAw/NjAtMTU5MzA4Nzcz/MS03MzA5LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13758369,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/jCTmC74rrJE0qmRkpwb9OOB0M9WymH5LsRDNTIGWZ_A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzU4/MzY5LTE1NzMwNzU3/ODItNzgxOC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/jCTmC74rrJE0qmRkpwb9OOB0M9WymH5LsRDNTIGWZ_A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzU4/MzY5LTE1NzMwNzU3/ODItNzgxOC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/ecsx70gUymbWCpnAokH5QQvKaJl5nY304xVW90Te_aM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzU4/MzY5LTE1NzMwNzU3/ODItNzgxOC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "AOC - 03",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1406874,
+   "name": "AOC Records (2)",
+   "resource_url": "https://api.discogs.com/labels/1406874",
+   "thumbnail_url": "https://i.discogs.com/JoX76a_cViTGtjCMKlkYxI_wdstEyYNxo_cButVV2dY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0MDY4/NzQtMTY5MzkwOTU3/MS04NDI3LmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-06-00",
+ "styles": [
+  "House",
+  "Deep House",
+  "Jazzdance"
+ ],
+ "title": "Contrasts",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 6250489,
+     "join": "&",
+     "name": "Bellaire",
+     "resource_url": "https://api.discogs.com/artists/6250489",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1290060,
+     "join": "",
+     "name": "Georges",
+     "resource_url": "https://api.discogs.com/artists/1290060",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A1",
+   "title": "Absolutely",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 6250489,
+     "join": "&",
+     "name": "Bellaire",
+     "resource_url": "https://api.discogs.com/artists/6250489",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1290060,
+     "join": "",
+     "name": "Georges",
+     "resource_url": "https://api.discogs.com/artists/1290060",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A2",
+   "title": "Contrasts",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 6250489,
+     "join": "",
+     "name": "Bellaire",
+     "resource_url": "https://api.discogs.com/artists/6250489",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B1",
+   "title": "At The Jazz Club",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1290060,
+     "join": "",
+     "name": "Georges",
+     "resource_url": "https://api.discogs.com/artists/1290060",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B2",
+   "title": "About Love",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 6250489,
+     "join": "&",
+     "name": "Bellaire",
+     "resource_url": "https://api.discogs.com/artists/6250489",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1290060,
+     "join": "",
+     "name": "Georges",
+     "resource_url": "https://api.discogs.com/artists/1290060",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B3",
+   "title": "Thin",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13758369-Bellaire-Georges-Contrasts",
+ "year": 2019
+}

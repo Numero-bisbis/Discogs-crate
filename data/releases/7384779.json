@@ -1,0 +1,90 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2008749,
+   "join": "",
+   "name": "Chaos In The CBD",
+   "resource_url": "https://api.discogs.com/artists/2008749",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/5SOevogQNbhSZAVd_FIsIVtA0lZ5ki0qm4LSVPOK2CM/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwMDg3/NDktMTY2ODQ1MzI1/NC01NjA0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "MPO"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Jazz"
+ ],
+ "id": 7384779,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/oUnREbZlfLpPdexnGxvVu6CUTAtyS2BuMsm_5LoJiBk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODQ3/NzktMTQ0MDM0OTQ1/Ny0yMzQ2LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/oUnREbZlfLpPdexnGxvVu6CUTAtyS2BuMsm_5LoJiBk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODQ3/NzktMTQ0MDM0OTQ1/Ny0yMzQ2LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/qIgEciLoNesqLSOGHvagGd5A5SeOeG5rM3e1KiL8OMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODQ3/NzktMTQ0MDM0OTQ1/Ny0yMzQ2LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RS008",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 695882,
+   "name": "Rhythm Section International",
+   "resource_url": "https://api.discogs.com/labels/695882",
+   "thumbnail_url": "https://i.discogs.com/X3ufia003Si06giApP2AHf31JST320W1N7V8mFv8gJk/rs:fit/g:sm/q:90/h:600/w:364/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY5NTg4/Mi0xNDAxMzE3NTA2/LTY1MTIuanBlZw.jpeg"
+  }
+ ],
+ "notes": "© + ℗ Rhythm Section International 2015",
+ "released": "2015-08-24",
+ "styles": [
+  "House",
+  "Deep House",
+  "Broken Beat"
+ ],
+ "title": "Midnight In Peckham",
+ "tracklist": [
+  {
+   "duration": "5:40",
+   "position": "A1",
+   "title": "Trust Is Key",
+   "type_": "track"
+  },
+  {
+   "duration": "4:49",
+   "position": "A2",
+   "title": "Observe",
+   "type_": "track"
+  },
+  {
+   "duration": "7:01",
+   "position": "B1",
+   "title": "Midnight In Peckham",
+   "type_": "track"
+  },
+  {
+   "duration": "5:48",
+   "position": "B2",
+   "title": "Luxury Motivation",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/7384779-Chaos-In-The-CBD-Midnight-In-Peckham",
+ "year": 2015
+}

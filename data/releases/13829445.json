@@ -1,0 +1,96 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5712140,
+   "join": "",
+   "name": "90 Process",
+   "resource_url": "https://api.discogs.com/artists/5712140",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/LXMslihNWtatVgbvI7UnLBpI1YD3_kZZAR5kUyfzHRw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU3MTIx/NDAtMTU2MjIyNzg0/Mi0xODg3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP",
+    "Repress"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Clear"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13829445,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/TBls2ziwtIoKlMvo_9siqPxAsJbSbs58H19pqLFMumw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI5/NDQ1LTE1NjIwNjU3/NDktMzI5Mi5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/TBls2ziwtIoKlMvo_9siqPxAsJbSbs58H19pqLFMumw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI5/NDQ1LTE1NjIwNjU3/NDktMzI5Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Juocw-Odz3Gptnx-lrAp6SkyWSTOPJygdPZMye9etTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI5/NDQ1LTE1NjIwNjU3/NDktMzI5Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "LT052",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 591234,
+   "name": "Lobster Theremin",
+   "resource_url": "https://api.discogs.com/labels/591234",
+   "thumbnail_url": "https://i.discogs.com/Y5C_xLWPVwX4rIt_HV_lAuY6i-dkFi83gRrqNv2sPZg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU5MTIz/NC0xMzgxNzc5NTAy/LTM3NjcuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019",
+ "styles": [
+  "House",
+  "Acid",
+  "Techno",
+  "Jungle"
+ ],
+ "title": "No Warehouse Needed EP",
+ "tracklist": [
+  {
+   "duration": "5:03",
+   "position": "A1",
+   "title": "No Warehouse Needed",
+   "type_": "track"
+  },
+  {
+   "duration": "4:55",
+   "position": "A2",
+   "title": "Hate In The Pants",
+   "type_": "track"
+  },
+  {
+   "duration": "4:49",
+   "position": "A3",
+   "title": "Strange Feeling",
+   "type_": "track"
+  },
+  {
+   "duration": "6:12",
+   "position": "B1",
+   "title": "Knowledge Wasn't My Plan",
+   "type_": "track"
+  },
+  {
+   "duration": "7:24",
+   "position": "B2",
+   "title": "Strictly Cut",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13829445-90-Process-No-Warehouse-Needed-EP",
+ "year": 2019
+}

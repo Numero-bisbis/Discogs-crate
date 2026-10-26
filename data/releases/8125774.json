@@ -1,0 +1,85 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1218198,
+   "join": "",
+   "name": "Martin Hayes (3)",
+   "resource_url": "https://api.discogs.com/artists/1218198",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/tYCBBDSXCtPt6Z0A5I6mrw_zaxFYDU8gx-oB_UC47oU/rs:fit/g:sm/q:90/h:480/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyMTgx/OTgtMTQ2OTQ4MDAw/Mi00MDg3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 8125774,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/L6-7SUustdUzifj4qjO-Ni3xzG8cKnWZPemjDwne1Io/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/NzQtMTQ1NTczMDA0/Mi04ODY2LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/L6-7SUustdUzifj4qjO-Ni3xzG8cKnWZPemjDwne1Io/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/NzQtMTQ1NTczMDA0/Mi04ODY2LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/8_nL7SXafOeCrYZ-Ta-COknLNvX-QdhPEyR7Teov9fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/NzQtMTQ1NTczMDA0/Mi04ODY2LmpwZWc.jpeg",
+   "width": 593
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RNT015",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3164471,
+   "name": "Razor-N-Tape",
+   "resource_url": "https://api.discogs.com/labels/3164471",
+   "thumbnail_url": "https://i.discogs.com/f-wlf6geO4UdrroOqUDKawckRUUPz7FhLCXawWRX-Lw/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNjQ0/NzEtMTY3ODM3Njg2/NS0yNjQ3LnBuZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2016-02-00",
+ "styles": [
+  "House",
+  "Disco"
+ ],
+ "title": "Martin Hayes Edits",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Get On Down",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Make Me Dance",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Tight Spot",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Ol' Funky Music",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/8125774-Martin-Hayes-3-Martin-Hayes-Edits",
+ "year": 2016
+}

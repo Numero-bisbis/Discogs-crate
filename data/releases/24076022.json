@@ -1,0 +1,1427 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 50513,
+   "join": "",
+   "name": "Dr. Dre",
+   "resource_url": "https://api.discogs.com/artists/50513",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-hTQT66Sompi1kOVm0-uujRto-W4ycfx5c9zcFI6bLw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwNTEz/LTE3NzY0MTAyODYt/MzcyNy5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Uncensored"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 24076022,
+ "images": [
+  {
+   "height": 594,
+   "resource_url": "https://i.discogs.com/RVl7rlm2rMZYtOvL3aydzkK2j_OcG_hWCruzRZdsBZg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDc2/MDIyLTE2NTk0NDUy/MDktODI5MS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/RVl7rlm2rMZYtOvL3aydzkK2j_OcG_hWCruzRZdsBZg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDc2/MDIyLTE2NTk0NDUy/MDktODI5MS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/NqYgL5dTtOjtz1Tt86YlVXKvVKZlgUxZF4jgptxomCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDc2/MDIyLTE2NTk0NDUy/MDktODI5MS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "00602577656897",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2310,
+   "name": "Aftermath Entertainment",
+   "resource_url": "https://api.discogs.com/labels/2310",
+   "thumbnail_url": "https://i.discogs.com/PZJDWzXrr7RV8p1VNxDDOw0_z4GgDMo75EPC5lpkc30/rs:fit/g:sm/q:90/h:462/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTAt/MTQ4ODkxNzkxOS04/MTQxLnBuZw.jpeg"
+  },
+  {
+   "catno": "00602577656897",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2311,
+   "name": "Interscope Records",
+   "resource_url": "https://api.discogs.com/labels/2311",
+   "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+  },
+  {
+   "catno": "00602577656897",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 68029,
+   "name": "UMe",
+   "resource_url": "https://api.discogs.com/labels/68029",
+   "thumbnail_url": "https://i.discogs.com/M8dUXs4KvT0ntyk7C_Xbzh3z3vTBp9EBxecfUb13p74/rs:fit/g:sm/q:90/h:233/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MDI5/LTE1MDM0MTYxNTkt/OTAxNy5wbmc.jpeg"
+  }
+ ],
+ "notes": "2022 - Reissue, Universal Music, Pressing at Schallplattenfabrik Pallas GmbH, Germany\nCutting company: Schnittstelle - Mastering & Vinylschnitt e.K. D - 12059 Berlin-Neukölln, Germany\n\nPrevious release pressed at GZ Media found here: \nhttps://www.discogs.com/release/14405212-Dr-Dre-2001\n\n\nThe music is confirmed uncensored, and the back cover tracklist is no longer censored either.\n\nC7 is titled \"Pause For Porno\" on label.\n\nMixed At: Larrabee Sound Recording Studios/Los Angeles\n[A4] Mixed At: Larrabee North\nMastered At: Bernie Grundman's Mastering\n\nSnoop Dogg records exclusively for and appears courtesy of Priority Records\nKurupt appears courtesy of Antra Music Group\nNate Dogg appears courtesy of Dogg Foundation Records\nKnoc-Turn'al appears courtesy of L.A. Confidential Records\nDevin the Dude appears courtesy of Rap-A-Lot Records\nMary J. Blige appears courtesy of MCA Records\nDefari appears courtesy of Tommy Boy Records\nXzibit appears courtesy of Loud Records\nHittman appears courtesy of Aftermath Entertainment/Big Yacht Entertainment\n\nAn Aftermath Entertainment / Interscope Records release;\n℗ 1999 © 2019 UMG Recordings, Inc.\nManufactured and distributed by Universal Music Enterprises, a division of UMG Recordings, Inc.\nMade in the EU. ",
+ "released": "2022",
+ "styles": [
+  "Gangsta",
+  "G-Funk"
+ ],
+ "title": "2001",
+ "tracklist": [
+  {
+   "duration": "0:40",
+   "extraartists": [
+    {
+     "anv": "Tray-Dee",
+     "id": 173081,
+     "join": "",
+     "name": "Tray Dee",
+     "resource_url": "https://api.discogs.com/artists/173081",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 14753,
+     "join": "",
+     "name": "Xzibit",
+     "resource_url": "https://api.discogs.com/artists/14753",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 8704054,
+     "join": "",
+     "name": "Kevin \"Elbow\" Smith",
+     "resource_url": "https://api.discogs.com/artists/8704054",
+     "role": "Sounds [Low Rider Provided By]",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Lolo (Intro)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:28",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Knoc-Turnal",
+     "id": 136513,
+     "join": "",
+     "name": "Knoc-turn'al",
+     "resource_url": "https://api.discogs.com/artists/136513",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "The Watcher",
+   "type_": "track"
+  },
+  {
+   "duration": "3:25",
+   "extraartists": [
+    {
+     "anv": "Devin",
+     "id": 48604,
+     "join": "",
+     "name": "Devin The Dude",
+     "resource_url": "https://api.discogs.com/artists/48604",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Bailey",
+     "id": 865728,
+     "join": "",
+     "name": "Brian Bailey (2)",
+     "resource_url": "https://api.discogs.com/artists/865728",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Broadus",
+     "id": 472330,
+     "join": "",
+     "name": "Calvin Broadus",
+     "resource_url": "https://api.discogs.com/artists/472330",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "D. Copeland",
+     "id": 321421,
+     "join": "",
+     "name": "Devin Copeland",
+     "resource_url": "https://api.discogs.com/artists/321421",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Fuck You",
+   "type_": "track"
+  },
+  {
+   "duration": "4:28",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Bradford",
+     "id": 684322,
+     "join": "",
+     "name": "Melvin Bradford",
+     "resource_url": "https://api.discogs.com/artists/684322",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Storch",
+     "id": 173211,
+     "join": "",
+     "name": "Scott Storch",
+     "resource_url": "https://api.discogs.com/artists/173211",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Carter",
+     "id": 447899,
+     "join": "",
+     "name": "Shawn Carter",
+     "resource_url": "https://api.discogs.com/artists/447899",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Still D.R.E.",
+   "type_": "track"
+  },
+  {
+   "duration": "4:01",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 136507,
+     "join": "",
+     "name": "Hittman",
+     "resource_url": "https://api.discogs.com/artists/136507",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Bailey",
+     "id": 865728,
+     "join": "",
+     "name": "Brian Bailey (2)",
+     "resource_url": "https://api.discogs.com/artists/865728",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Bradford",
+     "id": 684322,
+     "join": "",
+     "name": "Melvin Bradford",
+     "resource_url": "https://api.discogs.com/artists/684322",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Bembry",
+     "id": 728125,
+     "join": "",
+     "name": "Richard Bembery",
+     "resource_url": "https://api.discogs.com/artists/728125",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Storch",
+     "id": 173211,
+     "join": "",
+     "name": "Scott Storch",
+     "resource_url": "https://api.discogs.com/artists/173211",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Curry",
+     "id": 1304617,
+     "join": "",
+     "name": "Tracy Lynn Curry",
+     "resource_url": "https://api.discogs.com/artists/1304617",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Big Ego's",
+   "type_": "track"
+  },
+  {
+   "duration": "3:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 136507,
+     "join": "",
+     "name": "Hittman",
+     "resource_url": "https://api.discogs.com/artists/136507",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Six-Two",
+     "id": 178474,
+     "join": "",
+     "name": "6Two",
+     "resource_url": "https://api.discogs.com/artists/178474",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136507,
+     "join": "",
+     "name": "Hittman",
+     "resource_url": "https://api.discogs.com/artists/136507",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 66154,
+     "join": "",
+     "name": "Kurupt",
+     "resource_url": "https://api.discogs.com/artists/66154",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109832,
+     "join": "",
+     "name": "Nate Dogg",
+     "resource_url": "https://api.discogs.com/artists/109832",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Bailey",
+     "id": 865728,
+     "join": "",
+     "name": "Brian Bailey (2)",
+     "resource_url": "https://api.discogs.com/artists/865728",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Longmiles",
+     "id": 615517,
+     "join": "",
+     "name": "Craig Longmiles",
+     "resource_url": "https://api.discogs.com/artists/615517",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "N. Hale",
+     "id": 599999,
+     "join": "",
+     "name": "Nathaniel Hale",
+     "resource_url": "https://api.discogs.com/artists/599999",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Brown",
+     "id": 599998,
+     "join": "",
+     "name": "Ricardo Brown",
+     "resource_url": "https://api.discogs.com/artists/599998",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Xxplosive",
+   "type_": "track"
+  },
+  {
+   "duration": "4:04",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 420308,
+     "join": "",
+     "name": "Phish (2)",
+     "resource_url": "https://api.discogs.com/artists/420308",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 14753,
+     "join": "",
+     "name": "Xzibit",
+     "resource_url": "https://api.discogs.com/artists/14753",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Joiner",
+     "id": 640090,
+     "join": "",
+     "name": "Alvin Joiner",
+     "resource_url": "https://api.discogs.com/artists/640090",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Bradford",
+     "id": 684322,
+     "join": "",
+     "name": "Melvin Bradford",
+     "resource_url": "https://api.discogs.com/artists/684322",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Bembry",
+     "id": 728125,
+     "join": "",
+     "name": "Richard Bembery",
+     "resource_url": "https://api.discogs.com/artists/728125",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Harris",
+     "id": 728124,
+     "join": "",
+     "name": "Stefan Harris",
+     "resource_url": "https://api.discogs.com/artists/728124",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "What's The Difference",
+   "type_": "track"
+  },
+  {
+   "duration": "0:51",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 136512,
+     "join": "",
+     "name": "Eddie Griffin",
+     "resource_url": "https://api.discogs.com/artists/136512",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136509,
+     "join": "",
+     "name": "Ms. Roq",
+     "resource_url": "https://api.discogs.com/artists/136509",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 116230,
+     "join": "",
+     "name": "Traci Nelson",
+     "resource_url": "https://api.discogs.com/artists/116230",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Bar One",
+   "type_": "track"
+  },
+  {
+   "duration": "2:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 136513,
+     "join": "",
+     "name": "Knoc-turn'al",
+     "resource_url": "https://api.discogs.com/artists/136513",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Ms. Roc",
+     "id": 136509,
+     "join": "",
+     "name": "Ms. Roq",
+     "resource_url": "https://api.discogs.com/artists/136509",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136507,
+     "join": "",
+     "name": "Hittman",
+     "resource_url": "https://api.discogs.com/artists/136507",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Bailey",
+     "id": 865728,
+     "join": "",
+     "name": "Brian Bailey (2)",
+     "resource_url": "https://api.discogs.com/artists/865728",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Light Speed",
+   "type_": "track"
+  },
+  {
+   "duration": "3:54",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Bradford",
+     "id": 684322,
+     "join": "",
+     "name": "Melvin Bradford",
+     "resource_url": "https://api.discogs.com/artists/684322",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Forgot About Dre",
+   "type_": "track"
+  },
+  {
+   "duration": "2:42",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 66154,
+     "join": "",
+     "name": "Kurupt",
+     "resource_url": "https://api.discogs.com/artists/66154",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109832,
+     "join": "",
+     "name": "Nate Dogg",
+     "resource_url": "https://api.discogs.com/artists/109832",
+     "role": "Vocals [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Bailey",
+     "id": 865728,
+     "join": "",
+     "name": "Brian Bailey (2)",
+     "resource_url": "https://api.discogs.com/artists/865728",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Broadus",
+     "id": 472330,
+     "join": "",
+     "name": "Calvin Broadus",
+     "resource_url": "https://api.discogs.com/artists/472330",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Bradford",
+     "id": 684322,
+     "join": "",
+     "name": "Melvin Bradford",
+     "resource_url": "https://api.discogs.com/artists/684322",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "The Next Episode",
+   "type_": "track"
+  },
+  {
+   "duration": "2:27",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 420306,
+     "join": "",
+     "name": "Anthony (6)",
+     "resource_url": "https://api.discogs.com/artists/420306",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 116230,
+     "join": "",
+     "name": "Traci Nelson",
+     "resource_url": "https://api.discogs.com/artists/116230",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136507,
+     "join": "",
+     "name": "Hittman",
+     "resource_url": "https://api.discogs.com/artists/136507",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 66154,
+     "join": "",
+     "name": "Kurupt",
+     "resource_url": "https://api.discogs.com/artists/66154",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136509,
+     "join": "",
+     "name": "Ms. Roq",
+     "resource_url": "https://api.discogs.com/artists/136509",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136510,
+     "join": "",
+     "name": "Mel-Man",
+     "resource_url": "https://api.discogs.com/artists/136510",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 420307,
+     "join": "",
+     "name": "Scruncho",
+     "resource_url": "https://api.discogs.com/artists/420307",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Bailey",
+     "id": 865728,
+     "join": "",
+     "name": "Brian Bailey (2)",
+     "resource_url": "https://api.discogs.com/artists/865728",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Weaver",
+     "id": 2521654,
+     "join": "",
+     "name": "Racquel Weaver",
+     "resource_url": "https://api.discogs.com/artists/2521654",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Brown",
+     "id": 599998,
+     "join": "",
+     "name": "Ricardo Brown",
+     "resource_url": "https://api.discogs.com/artists/599998",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Let's Get High",
+   "type_": "track"
+  },
+  {
+   "duration": "4:14",
+   "extraartists": [
+    {
+     "anv": "Six-Two",
+     "id": 178474,
+     "join": "",
+     "name": "6Two",
+     "resource_url": "https://api.discogs.com/artists/178474",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136507,
+     "join": "",
+     "name": "Hittman",
+     "resource_url": "https://api.discogs.com/artists/136507",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Bailey",
+     "id": 865728,
+     "join": "",
+     "name": "Brian Bailey (2)",
+     "resource_url": "https://api.discogs.com/artists/865728",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Broadus",
+     "id": 472330,
+     "join": "",
+     "name": "Calvin Broadus",
+     "resource_url": "https://api.discogs.com/artists/472330",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Longmiles",
+     "id": 615517,
+     "join": "",
+     "name": "Craig Longmiles",
+     "resource_url": "https://api.discogs.com/artists/615517",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Bradford",
+     "id": 684322,
+     "join": "",
+     "name": "Melvin Bradford",
+     "resource_url": "https://api.discogs.com/artists/684322",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Bitch Niggaz",
+   "type_": "track"
+  },
+  {
+   "duration": "1:01",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 136511,
+     "join": "",
+     "name": "Charis Henry",
+     "resource_url": "https://api.discogs.com/artists/136511",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136510,
+     "join": "",
+     "name": "Mel-Man",
+     "resource_url": "https://api.discogs.com/artists/136510",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "The Car Bomb",
+   "type_": "track"
+  },
+  {
+   "duration": "2:28",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 116230,
+     "join": "",
+     "name": "Traci Nelson",
+     "resource_url": "https://api.discogs.com/artists/116230",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136507,
+     "join": "",
+     "name": "Hittman",
+     "resource_url": "https://api.discogs.com/artists/136507",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136509,
+     "join": "",
+     "name": "Ms. Roq",
+     "resource_url": "https://api.discogs.com/artists/136509",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Bailey",
+     "id": 865728,
+     "join": "",
+     "name": "Brian Bailey (2)",
+     "resource_url": "https://api.discogs.com/artists/865728",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Weaver",
+     "id": 2521654,
+     "join": "",
+     "name": "Racquel Weaver",
+     "resource_url": "https://api.discogs.com/artists/2521654",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Murder Ink",
+   "type_": "track"
+  },
+  {
+   "duration": "1:32",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 136512,
+     "join": "",
+     "name": "Eddie Griffin",
+     "resource_url": "https://api.discogs.com/artists/136512",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C5",
+   "title": "Ed-Ucation",
+   "type_": "track"
+  },
+  {
+   "duration": "4:25",
+   "extraartists": [
+    {
+     "anv": "Koka",
+     "id": 110154,
+     "join": "",
+     "name": "Kokane",
+     "resource_url": "https://api.discogs.com/artists/110154",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65081,
+     "join": "",
+     "name": "Defari",
+     "resource_url": "https://api.discogs.com/artists/65081",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "King T",
+     "id": 82689,
+     "join": "",
+     "name": "King Tee",
+     "resource_url": "https://api.discogs.com/artists/82689",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136513,
+     "join": "",
+     "name": "Knoc-turn'al",
+     "resource_url": "https://api.discogs.com/artists/136513",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Koka",
+     "id": 110154,
+     "join": "",
+     "name": "Kokane",
+     "resource_url": "https://api.discogs.com/artists/110154",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 100748,
+     "join": "",
+     "name": "MC Ren",
+     "resource_url": "https://api.discogs.com/artists/100748",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 178310,
+     "join": "",
+     "name": "Time Bomb (2)",
+     "resource_url": "https://api.discogs.com/artists/178310",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 14753,
+     "join": "",
+     "name": "Xzibit",
+     "resource_url": "https://api.discogs.com/artists/14753",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Joyner",
+     "id": 640090,
+     "join": "",
+     "name": "Alvin Joiner",
+     "resource_url": "https://api.discogs.com/artists/640090",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Bailey",
+     "id": 865728,
+     "join": "",
+     "name": "Brian Bailey (2)",
+     "resource_url": "https://api.discogs.com/artists/865728",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "D. Johnson",
+     "id": 737747,
+     "join": "",
+     "name": "Duane Johnson",
+     "resource_url": "https://api.discogs.com/artists/737747",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Holder",
+     "id": 2521655,
+     "join": "",
+     "name": "Marquese Holder",
+     "resource_url": "https://api.discogs.com/artists/2521655",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. McBride",
+     "id": 737745,
+     "join": "",
+     "name": "Roger McBride",
+     "resource_url": "https://api.discogs.com/artists/737745",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Harbor",
+     "id": 1511998,
+     "join": "",
+     "name": "Royal Harbor",
+     "resource_url": "https://api.discogs.com/artists/1511998",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C6",
+   "title": "Some L.A. Niggaz",
+   "type_": "track"
+  },
+  {
+   "duration": "1:33",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 136515,
+     "join": "",
+     "name": "Jake Steed",
+     "resource_url": "https://api.discogs.com/artists/136515",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 190812,
+     "join": "",
+     "name": "Aaron Harris",
+     "resource_url": "https://api.discogs.com/artists/190812",
+     "role": "Music By [Music Provided By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 841475,
+     "join": "",
+     "name": "Laylow (2)",
+     "resource_url": "https://api.discogs.com/artists/841475",
+     "role": "Music By [Music Provided By]",
+     "tracks": ""
+    }
+   ],
+   "position": "C7",
+   "title": "Pause 4 Porno",
+   "type_": "track"
+  },
+  {
+   "duration": "4:03",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 136507,
+     "join": "",
+     "name": "Hittman",
+     "resource_url": "https://api.discogs.com/artists/136507",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 66154,
+     "join": "",
+     "name": "Kurupt",
+     "resource_url": "https://api.discogs.com/artists/66154",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Bailey",
+     "id": 865728,
+     "join": "",
+     "name": "Brian Bailey (2)",
+     "resource_url": "https://api.discogs.com/artists/865728",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Bradford",
+     "id": 684322,
+     "join": "",
+     "name": "Melvin Bradford",
+     "resource_url": "https://api.discogs.com/artists/684322",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Brown",
+     "id": 599998,
+     "join": "",
+     "name": "Ricardo Brown",
+     "resource_url": "https://api.discogs.com/artists/599998",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Curry",
+     "id": 1304617,
+     "join": "",
+     "name": "Tracy Lynn Curry",
+     "resource_url": "https://api.discogs.com/artists/1304617",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Housewife",
+   "type_": "track"
+  },
+  {
+   "duration": "3:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 136507,
+     "join": "",
+     "name": "Hittman",
+     "resource_url": "https://api.discogs.com/artists/136507",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Bailey",
+     "id": 865728,
+     "join": "",
+     "name": "Brian Bailey (2)",
+     "resource_url": "https://api.discogs.com/artists/865728",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Bradford",
+     "id": 684322,
+     "join": "",
+     "name": "Melvin Bradford",
+     "resource_url": "https://api.discogs.com/artists/684322",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Ackrite",
+   "type_": "track"
+  },
+  {
+   "duration": "3:42",
+   "extraartists": [
+    {
+     "anv": "T. Y. Nichols",
+     "id": 420310,
+     "join": "",
+     "name": "T.Y. Nichols",
+     "resource_url": "https://api.discogs.com/artists/420310",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136507,
+     "join": "",
+     "name": "Hittman",
+     "resource_url": "https://api.discogs.com/artists/136507",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136513,
+     "join": "",
+     "name": "Knoc-turn'al",
+     "resource_url": "https://api.discogs.com/artists/136513",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Bailey",
+     "id": 865728,
+     "join": "",
+     "name": "Brian Bailey (2)",
+     "resource_url": "https://api.discogs.com/artists/865728",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Harbor",
+     "id": 1511998,
+     "join": "",
+     "name": "Royal Harbor",
+     "resource_url": "https://api.discogs.com/artists/1511998",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Bang Bang",
+   "type_": "track"
+  },
+  {
+   "duration": "5:11",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4778,
+     "join": "",
+     "name": "Mary J. Blige",
+     "resource_url": "https://api.discogs.com/artists/4778",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136516,
+     "join": "",
+     "name": "Rell",
+     "resource_url": "https://api.discogs.com/artists/136516",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 420311,
+     "join": "",
+     "name": "Thomas Chong",
+     "resource_url": "https://api.discogs.com/artists/420311",
+     "role": "Performer [Outro Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65048,
+     "join": "",
+     "name": "Lord Finesse",
+     "resource_url": "https://api.discogs.com/artists/65048",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "The Message",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/24076022-Dr-Dre-2001",
+ "year": 2022
+}

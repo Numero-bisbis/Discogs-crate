@@ -1,0 +1,100 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 21213,
+   "join": "",
+   "name": "Shakedown",
+   "resource_url": "https://api.discogs.com/artists/21213",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/tBW5OZGiO19S0AzbMmStiTbeYt-1L4Uh3HuqyN_wNqg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxMjEz/LTE2NjUyNTI2MzYt/NzUxMy5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "MP3"
+   ],
+   "name": "File",
+   "qty": "3",
+   "text": "320 kbps"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12298932,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/Ph9kDF436-pT9p8NUiD-ZAzYzCvGscwOIIi86epbLxI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk4/OTMyLTE1MzI0MzYz/NDMtNTE4My5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/Ph9kDF436-pT9p8NUiD-ZAzYzCvGscwOIIi86epbLxI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk4/OTMyLTE1MzI0MzYz/NDMtNTE4My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/KbdgOorV6gbSkDuiST5LEMm1Frf0kGkIcTGixnkzvJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk4/OTMyLTE1MzI0MzYz/NDMtNTE4My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DFTD050D2",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 98,
+   "name": "Defected",
+   "resource_url": "https://api.discogs.com/labels/98",
+   "thumbnail_url": "https://i.discogs.com/H40TvHKJ6OZo3fkUlU4Qj1Gh-JfjBR3YIFy9AxsVX9I/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk4LTE3/MzgyODkzNzUtNjQ4/OS5qcGVn.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-07-06",
+ "styles": [
+  "House"
+ ],
+ "title": "At Night (Remixes)",
+ "tracklist": [
+  {
+   "duration": "7:11",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4838162,
+     "join": "",
+     "name": "Peggy Gou",
+     "resource_url": "https://api.discogs.com/artists/4838162",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "1",
+   "title": "At Night (Peggy Gou’s Acid Journey Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "7:08",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1341342,
+     "join": "",
+     "name": "Tiger & Woods",
+     "resource_url": "https://api.discogs.com/artists/1341342",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "2",
+   "title": "At Night (Tiger & Woods Extended Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "7:00",
+   "position": "3",
+   "title": "At Night (Shakedown's Galactic Boogie)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12298932-Shakedown-At-Night-Remixes",
+ "year": 2018
+}

@@ -1,0 +1,199 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 11109506,
+   "join": "",
+   "name": "Doechii",
+   "resource_url": "https://api.discogs.com/artists/11109506",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/C3IQvBNtVRJvD8ctQhWN_4W37v7lbAGJuuWWKhueLJI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExMTA5/NTA2LTE3NDU4NTM5/MzgtMzI5NC5wbmc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Hip Hop",
+  "Funk / Soul"
+ ],
+ "id": 33305322,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/KPRVNNNj0jX1MIhKX-92JzPU-4ku2VW5s7kLGCW4KXE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzA1/MzIyLTE3NDM2ODk5/NjItODQwNy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/KPRVNNNj0jX1MIhKX-92JzPU-4ku2VW5s7kLGCW4KXE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzA1/MzIyLTE3NDM2ODk5/NjItODQwNy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/HU4tHD6YZF8pZoziJ_rqsyl9SCrshhHRZh_Ekiz913A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzA1/MzIyLTE3NDM2ODk5/NjItODQwNy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "00602475859116",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 255292,
+   "name": "Top Dawg Entertainment",
+   "resource_url": "https://api.discogs.com/labels/255292",
+   "thumbnail_url": "https://i.discogs.com/yOZD9rVPtQWw7Uag5A8pBoIMimlepOI2nP5vxM-OPe0/rs:fit/g:sm/q:90/h:365/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NTI5/Mi0xNzg3ODExODIx/LTU1NTQucG5n.jpeg"
+  },
+  {
+   "catno": "00602475859116",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 654,
+   "name": "Capitol Records",
+   "resource_url": "https://api.discogs.com/labels/654",
+   "thumbnail_url": "https://i.discogs.com/jOm50Ncnop3VOhKg0rYbdvq7epxn5mnXdOWfVQNjOBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1NC0x/NzgxODU0Mzk3LTU2/MzcuanBlZw.jpeg"
+  }
+ ],
+ "notes": "℗ © 2024 Top Dawg Entertainment, LLC\n\nMade in EU on back of sleeve.\nMade in Germany sticker on shrink wrap.\nTracks numbered 1 to 19 on sleeve and labels.\n\nPrinted inner sleeve with full credits, thank you list & photography.\n\nFold out poster included.",
+ "released": "2025-03-21",
+ "styles": [
+  "Boom Bap",
+  "Trap",
+  "Conscious",
+  "Contemporary R&B"
+ ],
+ "title": "Alligator Bites Never Heal",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Stanka Pooh",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Bullfrog",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Boiled Peanuts",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Denial Is A River",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "Catfish",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A6",
+   "title": "Skipp",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A7",
+   "title": "Hide N Seek",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A8",
+   "title": "Bloom",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A9",
+   "title": "Wait",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A10",
+   "title": "Death Roll",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A11",
+   "title": "Profit",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B12",
+   "title": "Boom Bap",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B13",
+   "title": "Nissan Altima",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 15040202,
+     "join": "",
+     "name": "Kuntfetish",
+     "resource_url": "https://api.discogs.com/artists/15040202",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B14",
+   "title": "GTFO",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B15",
+   "title": "Huh!",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B16",
+   "title": "Slide",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B17",
+   "title": "Fireflies",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B18",
+   "title": "Beverly Hills",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B19",
+   "title": "Alligator Bites Never Heal",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/33305322-Doechii-Alligator-Bites-Never-Heal",
+ "year": 2025
+}

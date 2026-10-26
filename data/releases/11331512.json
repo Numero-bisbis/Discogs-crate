@@ -1,0 +1,117 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1328,
+   "join": "",
+   "name": "Sven Väth",
+   "resource_url": "https://api.discogs.com/artists/1328",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/GaGMaoKUHWyV0psh1tqKeUv8LnXZsHXzmVg-meZe98w/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzMjgt/MTE2MzA4ODQzNS5q/cGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11331512,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/3n3wT2zxwNajOuwd6i14j6RKh4D0HAs8N7IRto-zw88/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzMx/NTEyLTE1MTQzODk5/MTgtNTU0NS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/3n3wT2zxwNajOuwd6i14j6RKh4D0HAs8N7IRto-zw88/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzMx/NTEyLTE1MTQzODk5/MTgtNTU0NS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/kIhkLZZs936Rc4XLY9rVmx_OxLq3iSZDG8taO4-0LCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzMx/NTEyLTE1MTQzODk5/MTgtNTU0NS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "7243 8 45406 1 6",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 750,
+   "name": "Virgin",
+   "resource_url": "https://api.discogs.com/labels/750",
+   "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+  },
+  {
+   "catno": "LPVIR71",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 750,
+   "name": "Virgin",
+   "resource_url": "https://api.discogs.com/labels/750",
+   "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+  }
+ ],
+ "notes": "Written & produced @ Schallbau Produktion.\n3d b.a.s.e. enhancements on tracks 3, 4, 6, 7, 8 & 9 by Glenn @ Soundbase.\n\nPublished by BMG UFA/Edition Schallbau administrated by BMG UFA Musikverlage.\nCover: Bidiol, F. Reichhold, FFM. ‧ Photos: Gaby Gerster & Mark Trautmann, FFM.\n\nThe copyright in this recording is owned by Virgin Schallplatten GmbH. ℗+©1998 Virgin Schallplatten GmbH. ‧ This label information is subject of copyright protection. All rights reserved. ‧ ©1998 Virgin Schallplatten GmbH. ‧ Made in EU.\n\nPrinted in EU.",
+ "released": "1998-01-00",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Fusion",
+ "tracklist": [
+  {
+   "duration": "3:29",
+   "position": "A1",
+   "title": "Fusion",
+   "type_": "track"
+  },
+  {
+   "duration": "7:31",
+   "position": "A2",
+   "title": "Breakthrough",
+   "type_": "track"
+  },
+  {
+   "duration": "8:24",
+   "position": "B1",
+   "title": "Sensual Enjoyments",
+   "type_": "track"
+  },
+  {
+   "duration": "7:09",
+   "position": "B2",
+   "title": "Discophon",
+   "type_": "track"
+  },
+  {
+   "duration": "8:28",
+   "position": "C1",
+   "title": "Augenblick",
+   "type_": "track"
+  },
+  {
+   "duration": "7:56",
+   "position": "C2",
+   "title": "Scorpio's Movement",
+   "type_": "track"
+  },
+  {
+   "duration": "6:53",
+   "position": "D1",
+   "title": "Trippy Moonshine",
+   "type_": "track"
+  },
+  {
+   "duration": "7:47",
+   "position": "D2",
+   "title": "Face It",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11331512-Sven-Väth-Fusion",
+ "year": 1998
+}

@@ -1,0 +1,98 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 7218186,
+   "join": ",",
+   "name": "Kev Koko",
+   "resource_url": "https://api.discogs.com/artists/7218186",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/CjixlghmReJMozy8ks4GaZawUOowqczM_XUxGFcvpv0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcyMTgx/ODYtMTU4MzY2NTgy/MC04NDA1LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 7178127,
+   "join": ",",
+   "name": "DJ Gigola",
+   "resource_url": "https://api.discogs.com/artists/7178127",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/TLmplUUA0fPlKto6S5pdKgQItvVuup0zirCo2oW55WY/rs:fit/g:sm/q:90/h:415/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcxNzgx/MjctMTY2MjY0MjQw/Mi05Njk3LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 11059124,
+   "join": "",
+   "name": "Perra Inmunda",
+   "resource_url": "https://api.discogs.com/artists/11059124",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 23870063,
+ "images": [
+  {
+   "height": 583,
+   "resource_url": "https://i.discogs.com/anhyBMLe_KYGkYld8hmpq1zX3o29MM5SpDmZPJvULOI/rs:fit/g:sm/q:90/h:583/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODcw/MDYzLTE2NTc3MDAw/MjQtMzE0OC5wbmc.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/anhyBMLe_KYGkYld8hmpq1zX3o29MM5SpDmZPJvULOI/rs:fit/g:sm/q:90/h:583/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODcw/MDYzLTE2NTc3MDAw/MjQtMzE0OC5wbmc.jpeg",
+   "uri150": "https://i.discogs.com/FM9EbYYeJD8c0vvfQSwtW-A8oLA_pytQ8wRMvVvrDts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODcw/MDYzLTE2NTc3MDAw/MjQtMzE0OC5wbmc.jpeg",
+   "width": 572
+  }
+ ],
+ "labels": [
+  {
+   "catno": "LFEK013",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1582082,
+   "name": "Live From Earth Klub",
+   "resource_url": "https://api.discogs.com/labels/1582082",
+   "thumbnail_url": "https://i.discogs.com/VZgQYSRMWI4GAVMb_94bVx2GJIpHIZQE9SKtpTwk348/rs:fit/g:sm/q:90/h:368/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1ODIw/ODItMTcyOTcwMDUz/Ny0yNDU4LmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2022-07-00",
+ "styles": [
+  "Dance-pop",
+  "Techno"
+ ],
+ "title": "No Es Amor",
+ "tracklist": [
+  {
+   "duration": "1:32",
+   "position": "A1",
+   "title": "No Es Amor",
+   "type_": "track"
+  },
+  {
+   "duration": "3:05",
+   "position": "A2",
+   "title": "Beso De Angel",
+   "type_": "track"
+  },
+  {
+   "duration": "3:45",
+   "position": "B1",
+   "title": "Mas Y Mas",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/23870063-Kev-Koko-DJ-Gigola-Perra-Inmunda-No-Es-Amor",
+ "year": 2022
+}

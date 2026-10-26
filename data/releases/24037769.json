@@ -1,0 +1,336 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 51368,
+   "join": "",
+   "name": "Nelly",
+   "resource_url": "https://api.discogs.com/artists/51368",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/PnvMVarzuvsbRnv9oIQXFI8_zq2hlEnIDI59yuKIKws/rs:fit/g:sm/q:90/h:280/w:224/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUxMzY4/LTEwODMzMzU4NDgu/anBn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "180g"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 24037769,
+ "images": [
+  {
+   "height": 599,
+   "resource_url": "https://i.discogs.com/oTNKVmYkxZ4C0O6KmSE2G7CiRf5xHrFn3sSTO_FRUik/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDM3/NzY5LTE2NTkxMzAx/MTMtNTEzMS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/oTNKVmYkxZ4C0O6KmSE2G7CiRf5xHrFn3sSTO_FRUik/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDM3/NzY5LTE2NTkxMzAx/MTMtNTEzMS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/mCSHTw1r_NGX2hOMQx56nSMANIHUbk7hLaN4RRrWrpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDM3/NzY5LTE2NTkxMzAx/MTMtNTEzMS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "B0035430-01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 68029,
+   "name": "UMe",
+   "resource_url": "https://api.discogs.com/labels/68029",
+   "thumbnail_url": "https://i.discogs.com/M8dUXs4KvT0ntyk7C_Xbzh3z3vTBp9EBxecfUb13p74/rs:fit/g:sm/q:90/h:233/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MDI5/LTE1MDM0MTYxNTkt/OTAxNy5wbmc.jpeg"
+  },
+  {
+   "catno": "B0035430-01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1723,
+   "name": "Motown",
+   "resource_url": "https://api.discogs.com/labels/1723",
+   "thumbnail_url": "https://i.discogs.com/jM1vQlRNLteMWR1T9z6Nlc5gvbNTn5H2fDJYNl6wSDI/rs:fit/g:sm/q:90/h:538/w:538/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3MjMt/MTM0Mzc4MTQ3OS0y/NzIxLmdpZg.jpeg"
+  }
+ ],
+ "notes": "2022 2xLP 180g reissue\nMade in Canada 070421382 printed on shrink wrap.",
+ "released": "2022-07-29",
+ "styles": [],
+ "title": "Nellyville",
+ "tracklist": [
+  {
+   "duration": "4:15",
+   "position": "A1",
+   "title": "Nellyville",
+   "type_": "track"
+  },
+  {
+   "duration": "1:51",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 51368,
+     "join": "",
+     "name": "Nelly",
+     "resource_url": "https://api.discogs.com/artists/51368",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Gettin' It Started",
+   "type_": "track"
+  },
+  {
+   "duration": "3:48",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 17110,
+     "join": "",
+     "name": "The Neptunes",
+     "resource_url": "https://api.discogs.com/artists/17110",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Hot In Herre",
+   "type_": "track"
+  },
+  {
+   "duration": "4:34",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 164904,
+     "join": "",
+     "name": "Ali (2)",
+     "resource_url": "https://api.discogs.com/artists/164904",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 200568,
+     "join": "",
+     "name": "Kyjuan",
+     "resource_url": "https://api.discogs.com/artists/200568",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Dem Boyz",
+   "type_": "track"
+  },
+  {
+   "duration": "4:02",
+   "position": "A5",
+   "title": "Oh Nelly",
+   "type_": "track"
+  },
+  {
+   "duration": "4:52",
+   "position": "A6",
+   "title": "Pimp Juice",
+   "type_": "track"
+  },
+  {
+   "duration": "5:04",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 164904,
+     "join": "",
+     "name": "Ali (2)",
+     "resource_url": "https://api.discogs.com/artists/164904",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 200569,
+     "join": "",
+     "name": "Track Boyz",
+     "resource_url": "https://api.discogs.com/artists/200569",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Air Force Ones",
+   "type_": "track"
+  },
+  {
+   "duration": "1:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 51368,
+     "join": "",
+     "name": "Nelly",
+     "resource_url": "https://api.discogs.com/artists/51368",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "In The Store",
+   "type_": "track"
+  },
+  {
+   "duration": "4:45",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 177080,
+     "join": "",
+     "name": "King Jacob",
+     "resource_url": "https://api.discogs.com/artists/177080",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "On The Grind",
+   "type_": "track"
+  },
+  {
+   "duration": "4:49",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 98498,
+     "join": "",
+     "name": "Kelly Rowland",
+     "resource_url": "https://api.discogs.com/artists/98498",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 206615,
+     "join": "",
+     "name": "Ryan Bowser",
+     "resource_url": "https://api.discogs.com/artists/206615",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Dilemma",
+   "type_": "track"
+  },
+  {
+   "duration": "5:09",
+   "position": "C1",
+   "title": "Splurge",
+   "type_": "track"
+  },
+  {
+   "duration": "4:22",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 66824,
+     "join": "",
+     "name": "Justin Timberlake",
+     "resource_url": "https://api.discogs.com/artists/66824",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Work It",
+   "type_": "track"
+  },
+  {
+   "duration": "4:18",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 81206,
+     "join": "",
+     "name": "Beanie Sigel",
+     "resource_url": "https://api.discogs.com/artists/81206",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 166190,
+     "join": "",
+     "name": "Freeway",
+     "resource_url": "https://api.discogs.com/artists/166190",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 126064,
+     "join": "",
+     "name": "Memphis Bleek",
+     "resource_url": "https://api.discogs.com/artists/126064",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 153456,
+     "join": "",
+     "name": "Just Blaze",
+     "resource_url": "https://api.discogs.com/artists/153456",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Roc The Mic (Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:48",
+   "position": "C4",
+   "title": "The Gank",
+   "type_": "track"
+  },
+  {
+   "duration": "2:11",
+   "position": "D1",
+   "title": "5000",
+   "type_": "track"
+  },
+  {
+   "duration": "3:18",
+   "position": "D2",
+   "title": "#1",
+   "type_": "track"
+  },
+  {
+   "duration": "4:32",
+   "position": "D3",
+   "title": "CG 2",
+   "type_": "track"
+  },
+  {
+   "duration": "5:42",
+   "position": "D4",
+   "title": "Say Now",
+   "type_": "track"
+  },
+  {
+   "duration": "1:38",
+   "position": "D5",
+   "title": "F**k It Then",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/24037769-Nelly-Nellyville",
+ "year": 2022
+}

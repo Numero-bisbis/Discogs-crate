@@ -1,0 +1,1100 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 50513,
+   "join": "",
+   "name": "Dr. Dre",
+   "resource_url": "https://api.discogs.com/artists/50513",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-hTQT66Sompi1kOVm0-uujRto-W4ycfx5c9zcFI6bLw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwNTEz/LTE3NzY0MTAyODYt/MzcyNy5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Repress"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 26821460,
+ "images": [
+  {
+   "height": 595,
+   "resource_url": "https://i.discogs.com/_DAXXSAz-9CXt1JTeDNbeSWnCQeOpII28IJrcNiBIck/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODIx/NDYwLTE2OTIyODU2/MzAtMjQyOC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/_DAXXSAz-9CXt1JTeDNbeSWnCQeOpII28IJrcNiBIck/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODIx/NDYwLTE2OTIyODU2/MzAtMjQyOC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/sVP7IhUfT9L4jV1UqQ9FAkbhkogrxxVC6TrrKw37c4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODIx/NDYwLTE2OTIyODU2/MzAtMjQyOC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "00602455099969",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 19737,
+   "name": "Death Row Records (2)",
+   "resource_url": "https://api.discogs.com/labels/19737",
+   "thumbnail_url": "https://i.discogs.com/CbItUXOCWEMFvIW_D77Qf8VXJBrXCussU4fqzQcrjFE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5NzM3/LTE2MjQyMTAyMjkt/ODU2Mi5qcGVn.jpeg"
+  }
+ ],
+ "notes": "℗© 2023 ARY, Inc. under exclusive license to Interscope Records.\nMade in the EU.",
+ "released": "2023-04-21",
+ "styles": [
+  "Gangsta",
+  "G-Funk"
+ ],
+ "title": "The Chronic",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 142862,
+     "join": "",
+     "name": "Colin Wolfe",
+     "resource_url": "https://api.discogs.com/artists/142862",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "The Chronic (Intro)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Jewell",
+     "id": 218344,
+     "join": "",
+     "name": "Jewell Caples",
+     "resource_url": "https://api.discogs.com/artists/218344",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109829,
+     "join": "",
+     "name": "RBX",
+     "resource_url": "https://api.discogs.com/artists/109829",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 142862,
+     "join": "",
+     "name": "Colin Wolfe",
+     "resource_url": "https://api.discogs.com/artists/142862",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Fuck Wit Dre Day (And Everybody's Celebratin')",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Jewell",
+     "id": 218344,
+     "join": "",
+     "name": "Jewell Caples",
+     "resource_url": "https://api.discogs.com/artists/218344",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Ruben",
+     "id": 968259,
+     "join": "",
+     "name": "Ruben Cruz",
+     "resource_url": "https://api.discogs.com/artists/968259",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Vocals [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109829,
+     "join": "",
+     "name": "RBX",
+     "resource_url": "https://api.discogs.com/artists/109829",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Let Me Ride",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "That Nigga Daz",
+     "id": 113499,
+     "join": "",
+     "name": "Dat Nigga Daz",
+     "resource_url": "https://api.discogs.com/artists/113499",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109829,
+     "join": "",
+     "name": "RBX",
+     "resource_url": "https://api.discogs.com/artists/109829",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Daz",
+     "id": 113499,
+     "join": "",
+     "name": "Dat Nigga Daz",
+     "resource_url": "https://api.discogs.com/artists/113499",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109829,
+     "join": "",
+     "name": "RBX",
+     "resource_url": "https://api.discogs.com/artists/109829",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "The Day The Niggaz Took Over",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Nuthin' But A \"G\" Thang",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "That Nigga Daz",
+     "id": 113499,
+     "join": "",
+     "name": "Dat Nigga Daz",
+     "resource_url": "https://api.discogs.com/artists/113499",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109832,
+     "join": "",
+     "name": "Nate Dogg",
+     "resource_url": "https://api.discogs.com/artists/109832",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Warren G.",
+     "id": 39837,
+     "join": "",
+     "name": "Warren G",
+     "resource_url": "https://api.discogs.com/artists/39837",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 142862,
+     "join": "",
+     "name": "Colin Wolfe",
+     "resource_url": "https://api.discogs.com/artists/142862",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Daz",
+     "id": 113499,
+     "join": "",
+     "name": "Dat Nigga Daz",
+     "resource_url": "https://api.discogs.com/artists/113499",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109832,
+     "join": "",
+     "name": "Nate Dogg",
+     "resource_url": "https://api.discogs.com/artists/109832",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Deeez Nuuuts",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "That Nigga Daz",
+     "id": 113499,
+     "join": "",
+     "name": "Dat Nigga Daz",
+     "resource_url": "https://api.discogs.com/artists/113499",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109832,
+     "join": "",
+     "name": "Nate Dogg",
+     "resource_url": "https://api.discogs.com/artists/109832",
+     "role": "Vocals [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "D.O.C.",
+     "id": 39155,
+     "join": "",
+     "name": "The D.O.C.",
+     "resource_url": "https://api.discogs.com/artists/39155",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Lil' Ghetto Boy",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "D.O.C.",
+     "id": 39155,
+     "join": "",
+     "name": "The D.O.C.",
+     "resource_url": "https://api.discogs.com/artists/39155",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "A Nigga Witta Gun",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 114315,
+     "join": "",
+     "name": "BJ",
+     "resource_url": "https://api.discogs.com/artists/114315",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109829,
+     "join": "",
+     "name": "RBX",
+     "resource_url": "https://api.discogs.com/artists/109829",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Rat-Tat-Tat-Tat",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 114316,
+     "join": "",
+     "name": "Big Tittie Nickie",
+     "resource_url": "https://api.discogs.com/artists/114316",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 670907,
+     "join": "",
+     "name": "Samara (2)",
+     "resource_url": "https://api.discogs.com/artists/670907",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "D.O.C.",
+     "id": 39155,
+     "join": "",
+     "name": "The D.O.C.",
+     "resource_url": "https://api.discogs.com/artists/39155",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "D.O.C.",
+     "id": 39155,
+     "join": "",
+     "name": "The D.O.C.",
+     "resource_url": "https://api.discogs.com/artists/39155",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "The $20 Sack Pyramid",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 66154,
+     "join": "",
+     "name": "Kurupt",
+     "resource_url": "https://api.discogs.com/artists/66154",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109829,
+     "join": "",
+     "name": "RBX",
+     "resource_url": "https://api.discogs.com/artists/109829",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Rage",
+     "id": 68311,
+     "join": "",
+     "name": "The Lady Of Rage",
+     "resource_url": "https://api.discogs.com/artists/68311",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 66154,
+     "join": "",
+     "name": "Kurupt",
+     "resource_url": "https://api.discogs.com/artists/66154",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109829,
+     "join": "",
+     "name": "RBX",
+     "resource_url": "https://api.discogs.com/artists/109829",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "D.O.C.",
+     "id": 39155,
+     "join": "",
+     "name": "The D.O.C.",
+     "resource_url": "https://api.discogs.com/artists/39155",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Rage",
+     "id": 68311,
+     "join": "",
+     "name": "The Lady Of Rage",
+     "resource_url": "https://api.discogs.com/artists/68311",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Lyrical Gangbang",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "That Nigga Daz",
+     "id": 113499,
+     "join": "",
+     "name": "Dat Nigga Daz",
+     "resource_url": "https://api.discogs.com/artists/113499",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109829,
+     "join": "",
+     "name": "RBX",
+     "resource_url": "https://api.discogs.com/artists/109829",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Rage",
+     "id": 68311,
+     "join": "",
+     "name": "The Lady Of Rage",
+     "resource_url": "https://api.discogs.com/artists/68311",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 142862,
+     "join": "",
+     "name": "Colin Wolfe",
+     "resource_url": "https://api.discogs.com/artists/142862",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109829,
+     "join": "",
+     "name": "RBX",
+     "resource_url": "https://api.discogs.com/artists/109829",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C5",
+   "title": "High Powered",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Jewell",
+     "id": 218344,
+     "join": "",
+     "name": "Jewell Caples",
+     "resource_url": "https://api.discogs.com/artists/218344",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Rage",
+     "id": 68311,
+     "join": "",
+     "name": "The Lady Of Rage",
+     "resource_url": "https://api.discogs.com/artists/68311",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Jewell",
+     "id": 218344,
+     "join": "",
+     "name": "Jewell Caples",
+     "resource_url": "https://api.discogs.com/artists/218344",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Kevin Lewis",
+     "id": 185508,
+     "join": "",
+     "name": "Kevyn Lewis",
+     "resource_url": "https://api.discogs.com/artists/185508",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Rage",
+     "id": 68311,
+     "join": "",
+     "name": "The Lady Of Rage",
+     "resource_url": "https://api.discogs.com/artists/68311",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "The Doctor's Office",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 114318,
+     "join": "",
+     "name": "Bushwick Bill",
+     "resource_url": "https://api.discogs.com/artists/114318",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 66154,
+     "join": "",
+     "name": "Kurupt",
+     "resource_url": "https://api.discogs.com/artists/66154",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109829,
+     "join": "",
+     "name": "RBX",
+     "resource_url": "https://api.discogs.com/artists/109829",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Rage",
+     "id": 68311,
+     "join": "",
+     "name": "The Lady Of Rage",
+     "resource_url": "https://api.discogs.com/artists/68311",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 66154,
+     "join": "",
+     "name": "Kurupt",
+     "resource_url": "https://api.discogs.com/artists/66154",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109829,
+     "join": "",
+     "name": "RBX",
+     "resource_url": "https://api.discogs.com/artists/109829",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Rage",
+     "id": 68311,
+     "join": "",
+     "name": "The Lady Of Rage",
+     "resource_url": "https://api.discogs.com/artists/68311",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Stranded On Death Row",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "That Nigga Daz",
+     "id": 113499,
+     "join": "",
+     "name": "Dat Nigga Daz",
+     "resource_url": "https://api.discogs.com/artists/113499",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 225117,
+     "join": "",
+     "name": "Emmage",
+     "resource_url": "https://api.discogs.com/artists/225117",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Jewell",
+     "id": 218344,
+     "join": "",
+     "name": "Jewell Caples",
+     "resource_url": "https://api.discogs.com/artists/218344",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109829,
+     "join": "",
+     "name": "RBX",
+     "resource_url": "https://api.discogs.com/artists/109829",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Ruben",
+     "id": 968259,
+     "join": "",
+     "name": "Ruben Cruz",
+     "resource_url": "https://api.discogs.com/artists/968259",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Rage",
+     "id": 68311,
+     "join": "",
+     "name": "The Lady Of Rage",
+     "resource_url": "https://api.discogs.com/artists/68311",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Daz",
+     "id": 113499,
+     "join": "",
+     "name": "Dat Nigga Daz",
+     "resource_url": "https://api.discogs.com/artists/113499",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109829,
+     "join": "",
+     "name": "RBX",
+     "resource_url": "https://api.discogs.com/artists/109829",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Rage",
+     "id": 68311,
+     "join": "",
+     "name": "The Lady Of Rage",
+     "resource_url": "https://api.discogs.com/artists/68311",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "The Roach (The Chronic Outro)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "That Nigga Daz",
+     "id": 113499,
+     "join": "",
+     "name": "Dat Nigga Daz",
+     "resource_url": "https://api.discogs.com/artists/113499",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 66154,
+     "join": "",
+     "name": "Kurupt",
+     "resource_url": "https://api.discogs.com/artists/66154",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Vocals [Additional Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "Jewell",
+     "id": 218344,
+     "join": "",
+     "name": "Jewell Caples",
+     "resource_url": "https://api.discogs.com/artists/218344",
+     "role": "Vocals [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 142862,
+     "join": "",
+     "name": "Colin Wolfe",
+     "resource_url": "https://api.discogs.com/artists/142862",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "That Nigga Daz",
+     "id": 113499,
+     "join": "",
+     "name": "Dat Nigga Daz",
+     "resource_url": "https://api.discogs.com/artists/113499",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 66154,
+     "join": "",
+     "name": "Kurupt",
+     "resource_url": "https://api.discogs.com/artists/66154",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Snoop",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "D.O.C.",
+     "id": 39155,
+     "join": "",
+     "name": "The D.O.C.",
+     "resource_url": "https://api.discogs.com/artists/39155",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Bitches Ain't Shit",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/26821460-Dr-Dre-The-Chronic",
+ "year": 2023
+}

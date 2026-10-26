@@ -1,0 +1,151 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 98585,
+   "join": "",
+   "name": "Ray Bryant",
+   "resource_url": "https://api.discogs.com/artists/98585",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ph96AQhZo3pbnBb6DRi2eqsfQ52nWqlqpo_uOaMMQlo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk4NTg1/LTE3NTgzMTU2MjEt/ODc2NS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 3732420,
+ "images": [
+  {
+   "height": 320,
+   "resource_url": "https://i.discogs.com/ih6pY6rfuccFbqBjRfaWEhnogsyoEfV-2C7QjP13O5s/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzI0/MjAtMTM0MjE2Mjk3/NC01OTk2LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/ih6pY6rfuccFbqBjRfaWEhnogsyoEfV-2C7QjP13O5s/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzI0/MjAtMTM0MjE2Mjk3/NC01OTk2LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/suGGrQWwbN0P5tjUrnLk0PQq8C4TdxXvBJFwds9ZfbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzI0/MjAtMTM0MjE2Mjk3/NC01OTk2LmpwZWc.jpeg",
+   "width": 320
+  }
+ ],
+ "labels": [
+  {
+   "catno": "2CA 50038",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 36003,
+   "name": "Cadet",
+   "resource_url": "https://api.discogs.com/labels/36003",
+   "thumbnail_url": "https://i.discogs.com/m4iGFXcZIGM8Rp2FuEW6idI93BXdkb6UE6YF2MjIoiY/rs:fit/g:sm/q:90/h:380/w:361/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2MDAz/LTE2NDUzMzI5NDMt/MzYwNi5qcGVn.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "1973",
+ "styles": [
+  "Soul-Jazz",
+  "Contemporary Jazz"
+ ],
+ "title": "It Was A Very Good Year",
+ "tracklist": [
+  {
+   "duration": "9:41",
+   "position": "A1",
+   "title": "Slow Fright",
+   "type_": "track"
+  },
+  {
+   "duration": "3:10",
+   "position": "A2",
+   "title": "Ramblin'",
+   "type_": "track"
+  },
+  {
+   "duration": "5:12",
+   "position": "A3",
+   "title": "You Keep Me Hanging On",
+   "type_": "track"
+  },
+  {
+   "duration": "4:24",
+   "position": "B1",
+   "title": "Gotta Travel On",
+   "type_": "track"
+  },
+  {
+   "duration": "3:07",
+   "position": "B2",
+   "title": "Pata Pata",
+   "type_": "track"
+  },
+  {
+   "duration": "5:09",
+   "position": "B3",
+   "title": "Li'l Darlin'",
+   "type_": "track"
+  },
+  {
+   "duration": "4:51",
+   "position": "B4",
+   "title": "Amen",
+   "type_": "track"
+  },
+  {
+   "duration": "3:52",
+   "position": "C1",
+   "title": "It Was A Good Year",
+   "type_": "track"
+  },
+  {
+   "duration": "5:26",
+   "position": "C2",
+   "title": "Bag's Groove",
+   "type_": "track"
+  },
+  {
+   "duration": "4:10",
+   "position": "C3",
+   "title": "Cubano Chant",
+   "type_": "track"
+  },
+  {
+   "duration": "3:47",
+   "position": "C4",
+   "title": "After Hours",
+   "type_": "track"
+  },
+  {
+   "duration": "5:00",
+   "position": "D1",
+   "title": "Little Suzie",
+   "type_": "track"
+  },
+  {
+   "duration": "5:38",
+   "position": "D2",
+   "title": "This Is All I Ask",
+   "type_": "track"
+  },
+  {
+   "duration": "3:28",
+   "position": "D3",
+   "title": "Dinner On The Grounds",
+   "type_": "track"
+  },
+  {
+   "duration": "2:53",
+   "position": "D4",
+   "title": "Mrs Robinson",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/3732420-Ray-Bryant-It-Was-A-Very-Good-Year",
+ "year": 1973
+}

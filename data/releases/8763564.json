@@ -1,0 +1,69 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 355,
+   "join": "",
+   "name": "Unknown Artist",
+   "resource_url": "https://api.discogs.com/artists/355",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "Single Sided",
+    "Unofficial Release",
+    "White Label"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Stamped"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 8763564,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/ngzOLT9DsCgMZ7PqaPnWw1bGU6UfQieACToF4UQFfW8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjM1/NjQtMTQ2ODI1MjM5/Ny05OTk0LmpwZWc.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/ngzOLT9DsCgMZ7PqaPnWw1bGU6UfQieACToF4UQFfW8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjM1/NjQtMTQ2ODI1MjM5/Ny05OTk0LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/yLleTR_lo-A7kmRjieIIu_ojYt260Wef61IzZwHz3UE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjM1/NjQtMTQ2ODI1MjM5/Ny05OTk0LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DIGWAH01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1037196,
+   "name": "Digwah",
+   "resource_url": "https://api.discogs.com/labels/1037196",
+   "thumbnail_url": "https://i.discogs.com/hjRjaVMmoYslvME6XSjcSk7RXeD7BHn27U3Xm4jpj1A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMzcx/OTYtMTYxMDQ5MDEx/MC03MzI4LmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2016-07-00",
+ "styles": [
+  "House"
+ ],
+ "title": "What A Day ",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "What A Day",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/8763564-Unknown-Artist-What-A-Day-",
+ "year": 2016
+}

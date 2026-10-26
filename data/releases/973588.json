@@ -1,0 +1,145 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 7204,
+   "join": "",
+   "name": "Mighty Dub Katz",
+   "resource_url": "https://api.discogs.com/artists/7204",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/mOQNhr28PIDgvOoBGkdHjUhl0jBwbrxHjtzO6zCnnjc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcyMDQt/MTQ4NTg5NzM2MS03/MTcyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 973588,
+ "images": [
+  {
+   "height": 596,
+   "resource_url": "https://i.discogs.com/UtLNh4l-hsCo1TG-dA1-TYK0ot8ZK8F0SYWPIt1fzhU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzU4/OC0xNzc1OTc4OTIz/LTk1OTcuanBlZw.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/UtLNh4l-hsCo1TG-dA1-TYK0ot8ZK8F0SYWPIt1fzhU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzU4/OC0xNzc1OTc4OTIz/LTk1OTcuanBlZw.jpeg",
+   "uri150": "https://i.discogs.com/BJxFKV1Fm3cFiaUJHO9GnYxAvdydRjXZCQ_-D7bzq88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzU4/OC0xNzc1OTc4OTIz/LTk1OTcuanBlZw.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ECB118",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2103,
+   "name": "Southern Fried Records",
+   "resource_url": "https://api.discogs.com/labels/2103",
+   "thumbnail_url": "https://i.discogs.com/ABHNWI16dM_er6Jl33wKwZpfzlegffZJaSuHW19G7_w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMDMt/MTUxNTI0NzIyOS0z/MzYyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Remix/Production note from Young Punx: \"Rob literally kicked his guitar amp and we recorded the sound off the spring reverb shaking around.\"",
+ "released": "2007-05-00",
+ "styles": [
+  "House",
+  "Speed Garage"
+ ],
+ "title": "Magic Carpet Ride 07'",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Magic Carpet Ride 07' (Original 07' Version)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 450342,
+     "join": "",
+     "name": "Rob Harris",
+     "resource_url": "https://api.discogs.com/artists/450342",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Young Punx",
+     "id": 134101,
+     "join": "",
+     "name": "The Young Punx",
+     "resource_url": "https://api.discogs.com/artists/134101",
+     "role": "Remix",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 234170,
+     "join": "",
+     "name": "Hal Ritson",
+     "resource_url": "https://api.discogs.com/artists/234170",
+     "role": "Remix [Credited To], Producer [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 378255,
+     "join": "",
+     "name": "Neil Waters",
+     "resource_url": "https://api.discogs.com/artists/378255",
+     "role": "Trumpet, Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Magic Carpet Ride 07' (Young Punx Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 285885,
+     "join": "",
+     "name": "Claude VonStroke",
+     "resource_url": "https://api.discogs.com/artists/285885",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Magic Carpet Ride 07' (Claude VonStroke Sucker Free City Edition)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 41789,
+     "join": "",
+     "name": "Shinichi Osawa",
+     "resource_url": "https://api.discogs.com/artists/41789",
+     "role": "Remix, Producer [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Magic Carpet Ride 07' (Shinichi Osawa Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/973588-Mighty-Dub-Katz-Magic-Carpet-Ride-07",
+ "year": 2007
+}

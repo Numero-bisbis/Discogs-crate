@@ -1,0 +1,209 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1245513,
+   "join": "",
+   "name": "Tame Impala",
+   "resource_url": "https://api.discogs.com/artists/1245513",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/_pZNESCaPzf9bTXRrZjabJO9w0spkDk0q2XRaSnihXY/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyNDU1/MTMtMTQ2NjQ5MTkz/OC04NDAxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Rock"
+ ],
+ "id": 31643635,
+ "images": [
+  {
+   "height": 597,
+   "resource_url": "https://i.discogs.com/BGnk2dW9M3aoNpoteZwhDv8Qzg3n7c7BCzhkI99DE7Q/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjQz/NjM1LTE3MjUzNzM4/OTktODQzMi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/BGnk2dW9M3aoNpoteZwhDv8Qzg3n7c7BCzhkI99DE7Q/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjQz/NjM1LTE3MjUzNzM4/OTktODQzMi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/94rmiSxMPNGsJH9uou4ehVdbAMN1ZiXW64EeQmQEG0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjQz/NjM1LTE3MjUzNzM4/OTktODQzMi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "3795299",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 5810,
+   "name": "Fiction Records",
+   "resource_url": "https://api.discogs.com/labels/5810",
+   "thumbnail_url": "https://i.discogs.com/O4V0SZZJFuTzHyqOsP-H3LKmYY3K7UDUzHEtV58TeHw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4MTAt/MTQ5NzE4MjUwNy02/MTExLmpwZWc.jpeg"
+  },
+  {
+   "catno": "3795299",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 952,
+   "name": "Caroline Records",
+   "resource_url": "https://api.discogs.com/labels/952",
+   "thumbnail_url": "https://i.discogs.com/ecOuq05QxNKnHwjLES7LnJqR-7HGsu3-ZC1Bf-ucvsQ/rs:fit/g:sm/q:90/h:310/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk1Mi0x/NDczNTU3NDc0LTUx/MjcuanBlZw.jpeg"
+  },
+  {
+   "catno": "3795299",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 38404,
+   "name": "Universal Music Group",
+   "resource_url": "https://api.discogs.com/labels/38404",
+   "thumbnail_url": "https://i.discogs.com/VJs9KLVZDIxvWLUkg1Wkd8O3TdnlYH5i-vzFkatJEis/rs:fit/g:sm/q:90/h:240/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4NDA0/LTE0ODg4MzkwNzkt/MTUzMS5wbmc.jpeg"
+  }
+ ],
+ "notes": "Gatefold sleeve.\nRecorded  June - August 2009\n\nP&C 2012 Modular Recordings\n\nNote, the Greg Calbi mastering credit is misprinted as Dave Calbi.",
+ "released": "2024",
+ "styles": [
+  "Psychedelic Rock"
+ ],
+ "title": "Innerspeaker",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "It Is Not Meant To Be",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Desire Be Desire Go",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Alter Ego",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1938960,
+     "join": "",
+     "name": "Tansie Bennetts",
+     "resource_url": "https://api.discogs.com/artists/1938960",
+     "role": "Handclaps",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Lucidity",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Why Won't You Make Up Your Mind?",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1007517,
+     "join": "",
+     "name": "Jay Watson",
+     "resource_url": "https://api.discogs.com/artists/1007517",
+     "role": "Drums",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Solitude Is Bliss",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Dom Simper",
+     "id": 1245514,
+     "join": "",
+     "name": "Dominic Simper",
+     "resource_url": "https://api.discogs.com/artists/1245514",
+     "role": "Effects [Sound Effects]",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Jeremy's Storm",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C2",
+   "title": "Expectation",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Dom Simper",
+     "id": 1245514,
+     "join": "",
+     "name": "Dominic Simper",
+     "resource_url": "https://api.discogs.com/artists/1245514",
+     "role": "Bass Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1007517,
+     "join": "",
+     "name": "Jay Watson",
+     "resource_url": "https://api.discogs.com/artists/1007517",
+     "role": "Drums",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "The Bold Arrow Of Time",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Dom Simper",
+     "id": 1245514,
+     "join": "",
+     "name": "Dominic Simper",
+     "resource_url": "https://api.discogs.com/artists/1245514",
+     "role": "Guitar [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Runway, Houses, City, Clouds",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D2",
+   "title": "I Don't Really Mind",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/31643635-Tame-Impala-Innerspeaker",
+ "year": 2024
+}

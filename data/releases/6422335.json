@@ -1,0 +1,137 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1345180,
+   "join": "",
+   "name": "Os Brazões",
+   "resource_url": "https://api.discogs.com/artists/1345180",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/wTh20ID7y-5KGXPPTYLjgpvNqDSJDrsWjU1TVcgH8Pc/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNDUx/ODAtMTU5NzA2OTEz/NS05Nzc4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Rock",
+  "Latin",
+  "Funk / Soul"
+ ],
+ "id": 6422335,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/NYQ_3GLuHikk94WnZIW3xiu4ZTo_y2wT_Cbh-CMm4gs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjIz/MzUtMTQ3MTM4ODk1/My01ODExLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/NYQ_3GLuHikk94WnZIW3xiu4ZTo_y2wT_Cbh-CMm4gs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjIz/MzUtMTQ3MTM4ODk1/My01ODExLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/kg4QQN35Dz1xly6iNP1_RvQBkljXaT_ZM_OaPEpffWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjIz/MzUtMTQ3MTM4ODk1/My01ODExLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "MRBLP125",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 847,
+   "name": "Mr Bongo",
+   "resource_url": "https://api.discogs.com/labels/847",
+   "thumbnail_url": "https://i.discogs.com/04S28F7TucD5YIhFMBar317xk_eH9Ou4YClnS8X8IL4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg0Ny0x/NTAxMDE2NTAxLTU1/ODQucG5n.jpeg"
+  }
+ ],
+ "notes": "Reissue is manufactured in Japan, presented in a super high quality card sleeve with replica original artwork. \nCopies known to exist with pressing and/or mastering defects which causes jumps during playback. \n\nTest pressings of our version of the LP did not skip and neither do any of the many finished copies that we have listened to. We will replace any faulty pressings. (Mr Bongo)",
+ "released": "2014",
+ "styles": [
+  "MPB",
+  "Psychedelic Rock"
+ ],
+ "title": "Os Brazões",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Pega A Voga Cabeludo",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Canastra Real",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Módulo Lunar",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Volksvolkswagen Blue",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "Tão Longe De Mim",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A6",
+   "title": "Carolina, Carol Bela",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Feitiço",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Planador",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Espiral",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Gotham City",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "Momento B/8",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B6",
+   "title": "Que Maravilha",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/6422335-Os-Brazões-Os-Brazões",
+ "year": 2014
+}

@@ -1,0 +1,73 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4354578,
+   "join": "",
+   "name": "Sworn Virgins",
+   "resource_url": "https://api.discogs.com/artists/4354578",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/51uBOCXM7wcUvzgarT8RKCIRtTkA0fowWiAJULpnLds/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQzNTQ1/NzgtMTY0MzEwOTg0/Mi0zNTQ4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Belgium",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13667744,
+ "images": [
+  {
+   "height": 592,
+   "resource_url": "https://i.discogs.com/1s7htyu8dT_qQDSpTyUO1r2WfToqrLk33jvaPFCyJGg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/NzQ0LTE1NjE3OTA1/MjktMTQ5NS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/1s7htyu8dT_qQDSpTyUO1r2WfToqrLk33jvaPFCyJGg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/NzQ0LTE1NjE3OTA1/MjktMTQ5NS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/CAO72wjFenF7LPISZro4WIGeJQpWa7_FI98Y3KiGfnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/NzQ0LTE1NjE3OTA1/MjktMTQ5NS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DEEWEE035",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 901323,
+   "name": "Deewee",
+   "resource_url": "https://api.discogs.com/labels/901323",
+   "thumbnail_url": "https://i.discogs.com/43iFaH5jTGcKif0DoJFbOk5ajpAmXmRmxUuuphfCAks/rs:fit/g:sm/q:90/h:600/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwMTMy/My0xNTE1NzI4ODk3/LTgxMjYucG5n.jpeg"
+  }
+ ],
+ "notes": "“Lazer Beam” takes its bassline and assorted laser sound effects from 1980 disco novelty “Space Invaders” by Player 1.",
+ "released": "2019-05-23",
+ "styles": [
+  "Disco",
+  "House"
+ ],
+ "title": "Lazer Beam",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Lazer Beam",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Take Your Lady",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13667744-Sworn-Virgins-Lazer-Beam",
+ "year": 2019
+}

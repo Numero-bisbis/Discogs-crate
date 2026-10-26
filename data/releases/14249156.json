@@ -1,0 +1,179 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4354482,
+   "join": ",",
+   "name": "ABSL",
+   "resource_url": "https://api.discogs.com/artists/4354482",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/QiIEwDvPAx0Tzy0ciGkRTdKtMeL6xgzwar40rKfHzP0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQzNTQ0/ODItMTU3MDYxOTA0/NS01NjQyLmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 5146040,
+   "join": ",",
+   "name": "Sugar (47)",
+   "resource_url": "https://api.discogs.com/artists/5146040",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/FhFo_YOQ4Gb_1A6CN_DpWKIyJX9_aMfqP6jU6PPs9gU/rs:fit/g:sm/q:90/h:600/w:474/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUxNDYw/NDAtMTUzNjE1NTc3/MS0zMDQ2LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 4712000,
+   "join": "",
+   "name": "Anetha",
+   "resource_url": "https://api.discogs.com/artists/4712000",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/G4cVtHdNjSHlBCUj17K8hPqxoKnRv0pnqmb8hhMdmtE/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ3MTIw/MDAtMTU3MDYxODA0/Ni00MzI5LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 14249156,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/9COgwyynZeIv7qFS1uMSheixE-nd-WNK5Z_RDH1B1Kk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ5/MTU2LTE1NzMzMjM5/NTYtOTA5OS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/9COgwyynZeIv7qFS1uMSheixE-nd-WNK5Z_RDH1B1Kk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ5/MTU2LTE1NzMzMjM5/NTYtOTA5OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/VjiqEytstHFC1HJxhe33WBV0f8n9Ax_Zqps1yenaHi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ5/MTU2LTE1NzMzMjM5/NTYtOTA5OS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "MTY 001",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1706125,
+   "name": "Mama Told Ya",
+   "resource_url": "https://api.discogs.com/labels/1706125",
+   "thumbnail_url": "https://i.discogs.com/85rpZ0UYsUfCcX9OiQ8YzkwH3qdjJCl0GKfI7db2td0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3MDYx/MjUtMTU3MDcxNzgz/MC0yNDExLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Design by Diplomatie studio\n℗ & © 2019 Mama told ya\n\nRepressed in 2020.",
+ "released": "2019-10-00",
+ "styles": [
+  "Techno",
+  "Trance"
+ ],
+ "title": "Don't Rush To Grow Up",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4354482,
+     "join": "",
+     "name": "ABSL",
+     "resource_url": "https://api.discogs.com/artists/4354482",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A1",
+   "title": "Et Le Soleil Ne Vint Pas",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4354482,
+     "join": "&",
+     "name": "ABSL",
+     "resource_url": "https://api.discogs.com/artists/4354482",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4712000,
+     "join": "",
+     "name": "Anetha",
+     "resource_url": "https://api.discogs.com/artists/4712000",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 99356,
+     "join": "",
+     "name": "t.A.T.u.",
+     "resource_url": "https://api.discogs.com/artists/99356",
+     "role": "Vocals [Uncredited]",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Elles",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5146040,
+     "join": "",
+     "name": "Sugar (47)",
+     "resource_url": "https://api.discogs.com/artists/5146040",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B1",
+   "title": "Vapouring Sun",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5146040,
+     "join": "&",
+     "name": "Sugar (47)",
+     "resource_url": "https://api.discogs.com/artists/5146040",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4712000,
+     "join": "",
+     "name": "Anetha",
+     "resource_url": "https://api.discogs.com/artists/4712000",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B2",
+   "title": "Candy From Strangers",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14249156-ABSL-Sugar-47-Anetha-Dont-Rush-To-Grow-Up",
+ "year": 2019
+}

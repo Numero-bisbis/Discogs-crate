@@ -1,0 +1,118 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 81373,
+   "join": "",
+   "name": "Yvette Michele",
+   "resource_url": "https://api.discogs.com/artists/81373",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ZPu-oSFBI1m70sgsSEplW5t3xwaDfnhaSn_wdirxum4/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxMzcz/LTE1OTk0MTMxMjUt/MjkwNS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "Promo",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 1849437,
+ "images": [
+  {
+   "height": 299,
+   "resource_url": "https://i.discogs.com/v7DNiIH_PulL4W5O-nexW62a20Hw20vT9-n4Zz8nw_A/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDk0/MzctMTc1NDkwMzQw/Mi00ODE1LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/v7DNiIH_PulL4W5O-nexW62a20Hw20vT9-n4Zz8nw_A/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDk0/MzctMTc1NDkwMzQw/Mi00ODE1LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/fNykCsIChfgfyT-Tazi898RWdy7qpoxXpnz64FAKtQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDk0/MzctMTc1NDkwMzQw/Mi00ODE1LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RDAB-64758-1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 8984,
+   "name": "Loud Records",
+   "resource_url": "https://api.discogs.com/labels/8984",
+   "thumbnail_url": "https://i.discogs.com/TmiA7zFIh05gGz872Aje0rTCXWWYMc4RLyoVq4hUsFU/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5ODQt/MTczMzk3Mzg2OC04/MzgzLnBuZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "1996",
+ "styles": [
+  "Contemporary R&B"
+ ],
+ "title": "I'm Not Feeling You",
+ "tracklist": [
+  {
+   "duration": "3:24",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 26246,
+     "join": "",
+     "name": "Funkmaster Flex",
+     "resource_url": "https://api.discogs.com/artists/26246",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "I'm Not Feeling You (Radio Version)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:18",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 26246,
+     "join": "",
+     "name": "Funkmaster Flex",
+     "resource_url": "https://api.discogs.com/artists/26246",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "I'm Not Feeling You (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:21",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 26246,
+     "join": "",
+     "name": "Funkmaster Flex",
+     "resource_url": "https://api.discogs.com/artists/26246",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "I'm Not Feeling You (Main Version)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:12",
+   "position": "B2",
+   "title": "I'm Not Feeling You (A Cappella)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/1849437-Yvette-Michele-Im-Not-Feeling-You",
+ "year": 1996
+}

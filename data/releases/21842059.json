@@ -1,0 +1,437 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5530,
+   "join": "",
+   "name": "Shakira",
+   "resource_url": "https://api.discogs.com/artists/5530",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Q4QEEtfp1RhoUGVj9ROM7k9zBB8M29qA8W1V47y4NRA/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU1MzAt/MTc3MjcyOTU4OS00/NTM0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Yellow Opaque"
+  }
+ ],
+ "genres": [
+  "Latin",
+  "Pop"
+ ],
+ "id": 21842059,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/ju_iG8GDh4RinbAhpCpOzC4GCjWRlPUoUkBUxAMVqS0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQy/MDU5LTE3MzUzOTgw/NDEtNzIwNC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/ju_iG8GDh4RinbAhpCpOzC4GCjWRlPUoUkBUxAMVqS0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQy/MDU5LTE3MzUzOTgw/NDEtNzIwNC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Vh-bi32wNB9zhAGaUwI5dARjVe0VnQynEiJcAFSvi-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQy/MDU5LTE3MzUzOTgw/NDEtNzIwNC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "19439905161",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1005,
+   "name": "Epic",
+   "resource_url": "https://api.discogs.com/labels/1005",
+   "thumbnail_url": "https://i.discogs.com/Ta8tXFbN3YA4PweFsSHGzpZN1tOertrxyLpgf7OaWCo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDUt/MTc3OTQ5NjYzOC04/Njg3LmpwZWc.jpeg"
+  },
+  {
+   "catno": "19439905161",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 15491,
+   "name": "Legacy",
+   "resource_url": "https://api.discogs.com/labels/15491",
+   "thumbnail_url": "https://i.discogs.com/jk2im_GXsDlf_1qNdX0KOoZUX6ivAIvgJH0TEBVW7ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDkx/LTE0OTg4MzQ3MDgt/NzQwOS5wbmc.jpeg"
+  },
+  {
+   "catno": "19439905161",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  }
+ ],
+ "notes": "Made in the EU.\n\n20th anniversary edition.\nDouble-width single outer sleeve with printed inner sleeves.\nMisprint on back cover: both track D3 and D4 are labelled as Track 3.",
+ "released": "2022-01-21",
+ "styles": [
+  "Latin Pop"
+ ],
+ "title": "Laundry Service",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5530,
+     "join": "",
+     "name": "Shakira",
+     "resource_url": "https://api.discogs.com/artists/5530",
+     "role": "Words By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Objection (Tango)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 88615,
+     "join": "",
+     "name": "Lester Mendez",
+     "resource_url": "https://api.discogs.com/artists/88615",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5530,
+     "join": "",
+     "name": "Shakira",
+     "resource_url": "https://api.discogs.com/artists/5530",
+     "role": "Words By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Underneath Your Clothes",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 335211,
+     "join": "",
+     "name": "Tim Mitchell",
+     "resource_url": "https://api.discogs.com/artists/335211",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 48246,
+     "join": "",
+     "name": "Gloria Estefan",
+     "resource_url": "https://api.discogs.com/artists/48246",
+     "role": "Words By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5530,
+     "join": "",
+     "name": "Shakira",
+     "resource_url": "https://api.discogs.com/artists/5530",
+     "role": "Words By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Whenever, Wherever",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 88615,
+     "join": "",
+     "name": "Lester Mendez",
+     "resource_url": "https://api.discogs.com/artists/88615",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5530,
+     "join": "",
+     "name": "Shakira",
+     "resource_url": "https://api.discogs.com/artists/5530",
+     "role": "Music By, Words By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Rules",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 136470,
+     "join": "",
+     "name": "Glen Ballard",
+     "resource_url": "https://api.discogs.com/artists/136470",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5530,
+     "join": "",
+     "name": "Shakira",
+     "resource_url": "https://api.discogs.com/artists/5530",
+     "role": "Words By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "The One",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 88615,
+     "join": "",
+     "name": "Lester Mendez",
+     "resource_url": "https://api.discogs.com/artists/88615",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5530,
+     "join": "",
+     "name": "Shakira",
+     "resource_url": "https://api.discogs.com/artists/5530",
+     "role": "Words By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Ready For The Good Times",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 439417,
+     "join": "",
+     "name": "Brendan Buckley",
+     "resource_url": "https://api.discogs.com/artists/439417",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5530,
+     "join": "",
+     "name": "Shakira",
+     "resource_url": "https://api.discogs.com/artists/5530",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Fool",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 106278,
+     "join": "",
+     "name": "George Noriega",
+     "resource_url": "https://api.discogs.com/artists/106278",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 335211,
+     "join": "",
+     "name": "Tim Mitchell",
+     "resource_url": "https://api.discogs.com/artists/335211",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5530,
+     "join": "",
+     "name": "Shakira",
+     "resource_url": "https://api.discogs.com/artists/5530",
+     "role": "Words By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Te Dejo Madrid",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4945686,
+     "join": "",
+     "name": "Luis Ochoa",
+     "resource_url": "https://api.discogs.com/artists/4945686",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5530,
+     "join": "",
+     "name": "Shakira",
+     "resource_url": "https://api.discogs.com/artists/5530",
+     "role": "Words By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Poem To A Horse",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 269420,
+     "join": "",
+     "name": "Luis Fernando Ochoa",
+     "resource_url": "https://api.discogs.com/artists/269420",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5530,
+     "join": "",
+     "name": "Shakira",
+     "resource_url": "https://api.discogs.com/artists/5530",
+     "role": "Words By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Que Me Quedas Tú",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 48246,
+     "join": "",
+     "name": "Gloria Estefan",
+     "resource_url": "https://api.discogs.com/artists/48246",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 75808,
+     "join": "",
+     "name": "Javier Garza",
+     "resource_url": "https://api.discogs.com/artists/75808",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 51994,
+     "join": "",
+     "name": "Pablo Flores",
+     "resource_url": "https://api.discogs.com/artists/51994",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5530,
+     "join": "",
+     "name": "Shakira",
+     "resource_url": "https://api.discogs.com/artists/5530",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Eyes Like Yours (Ojos Así)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 335211,
+     "join": "",
+     "name": "Tim Mitchell",
+     "resource_url": "https://api.discogs.com/artists/335211",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5530,
+     "join": "",
+     "name": "Shakira",
+     "resource_url": "https://api.discogs.com/artists/5530",
+     "role": "Words By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Suerte (Whenever, Wherever)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5530,
+     "join": "",
+     "name": "Shakira",
+     "resource_url": "https://api.discogs.com/artists/5530",
+     "role": "Words By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Te Aviso, Te Anuncio (Tango)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/21842059-Shakira-Laundry-Service",
+ "year": 2022
+}

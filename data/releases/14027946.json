@@ -1,0 +1,72 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 62826,
+   "join": "",
+   "name": "Alicia Myers",
+   "resource_url": "https://api.discogs.com/artists/62826",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/yNJcGjwAE5XW6NPL0Oe7501A6eOVOp7966JocKzVu7o/rs:fit/g:sm/q:90/h:500/w:394/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYyODI2/LTEyOTM1MjA5MDEu/anBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Funk / Soul"
+ ],
+ "id": 14027946,
+ "images": [
+  {
+   "height": 540,
+   "resource_url": "https://i.discogs.com/95DJXz3oG8noqXY2MrWzGwfbzXK_wgxvU5-F7dGtxEk/rs:fit/g:sm/q:90/h:540/w:540/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDI3/OTQ2LTE1NjY0OTkw/OTQtNjQwMy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/95DJXz3oG8noqXY2MrWzGwfbzXK_wgxvU5-F7dGtxEk/rs:fit/g:sm/q:90/h:540/w:540/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDI3/OTQ2LTE1NjY0OTkw/OTQtNjQwMy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/YI2Hidv5Ycj4nPlOZIkth_Px66kB7SofqIsFxG2S3Ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDI3/OTQ2LTE1NjY0OTkw/OTQtNjQwMy5qcGVn.jpeg",
+   "width": 540
+  }
+ ],
+ "labels": [
+  {
+   "catno": "KON-004",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1340737,
+   "name": "Kontemporary",
+   "resource_url": "https://api.discogs.com/labels/1340737",
+   "thumbnail_url": "https://i.discogs.com/U-AEeVEBTMovp6R-wTlIqbmNj2ylfhqmt-iJJAHLZLM/rs:fit/g:sm/q:90/h:600/w:359/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzNDA3/MzctMTY4ODA1Njg2/OS04MjA2LmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-08-23",
+ "styles": [
+  "Disco"
+ ],
+ "title": "I Want To Thank You",
+ "tracklist": [
+  {
+   "duration": "7:47",
+   "position": "A",
+   "title": "I Want To Thank You (Kon's Shine Your Light Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "7:47",
+   "position": "B",
+   "title": "I Want To Thank You (Kon's Dub)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14027946-Alicia-Myers-I-Want-To-Thank-You",
+ "year": 2019
+}

@@ -1,0 +1,77 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 73050,
+   "join": "",
+   "name": "Sam Paganini",
+   "resource_url": "https://api.discogs.com/artists/73050",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/FpzBm_tRLGZraJKTVMW2UO5a36wHmakd5STw9R6kq7Q/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTczMDUw/LTE0NDQzNTQ1NjEt/MTg1NS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Sweden",
+ "formats": [
+  {
+   "descriptions": [
+    "12\""
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 6225466,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/kvpzJjajetdcVy-zsvdRjyc-j7cr73RhQQGN7J6z9Ns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjU0/NjYtMTQxNDIxNTQ3/MS00ODM0LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/kvpzJjajetdcVy-zsvdRjyc-j7cr73RhQQGN7J6z9Ns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjU0/NjYtMTQxNDIxNTQ3/MS00ODM0LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/BkEd2ig9YGgO6v2gIXm62YHH59mnFHXkVzdlNbk0OT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjU0/NjYtMTQxNDIxNTQ3/MS00ODM0LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DCLP10.3",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 237,
+   "name": "Drumcode",
+   "resource_url": "https://api.discogs.com/labels/237",
+   "thumbnail_url": "https://i.discogs.com/1rrViQveJmRumM48FWYOYNsJD3-iahuaYprtxJgsAQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNy0x/NjkyOTkxNjY2LTg2/NjgucG5n.jpeg"
+  }
+ ],
+ "notes": "Design by dailymagic.se & staffanlarsson.com\n© Drumcode 2014\nwww.drumcode.se",
+ "released": "2014-10-00",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Satellite",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Dusty",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Toxic",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Rave",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/6225466-Sam-Paganini-Satellite",
+ "year": 2014
+}

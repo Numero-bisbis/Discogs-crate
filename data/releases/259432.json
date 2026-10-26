@@ -1,0 +1,387 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 21742,
+   "join": "",
+   "name": "Jay-Z",
+   "resource_url": "https://api.discogs.com/artists/21742",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/q0WUbzWIiZoGCOTbHesKo_rDMXcaSWnU1GKd3QJg7fY/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzQy/LTE3NjQxMDE4NzEt/NDAyMC5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 259432,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/Q3qBX3dKw5F9nttCsGpvmPgv4vxz_y9doieYy1aP_40/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQz/Mi0xNDcwNDA5ODQ3/LTg1OTYucG5n.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Q3qBX3dKw5F9nttCsGpvmPgv4vxz_y9doieYy1aP_40/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQz/Mi0xNDcwNDA5ODQ3/LTg1OTYucG5n.jpeg",
+   "uri150": "https://i.discogs.com/3IqFxT9Z7wT3KlvSehYwxEpUL1ooNrE9CIDS1veGnQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQz/Mi0xNDcwNDA5ODQ3/LTg1OTYucG5n.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "B0001528-01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 9433,
+   "name": "Roc-A-Fella Records",
+   "resource_url": "https://api.discogs.com/labels/9433",
+   "thumbnail_url": "https://i.discogs.com/bcmmY9COdum4qSUKRiV2iCkteKLRa3qbjTZhyY4XTgw/rs:fit/g:sm/q:90/h:370/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk0MzMt/MTYwNDMyMTAzNS00/NzUzLnBuZw.jpeg"
+  }
+ ],
+ "notes": "Released in a gatefold jacket with a credit sheet insert and a hypesticker on the shrinkwrap.\n\nMASTERDISK stamped on Side A & C of the runouts",
+ "released": "2003-11-14",
+ "styles": [],
+ "title": "The Black Album",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 153456,
+     "join": "",
+     "name": "Just Blaze",
+     "resource_url": "https://api.discogs.com/artists/153456",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Interlude",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 153456,
+     "join": "",
+     "name": "Just Blaze",
+     "resource_url": "https://api.discogs.com/artists/153456",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "December 4th",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "The Buchannans",
+     "id": 329165,
+     "join": "",
+     "name": "The Buchanans",
+     "resource_url": "https://api.discogs.com/artists/329165",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 241759,
+     "join": "",
+     "name": "Vincent \"Hum V\" Bostic",
+     "resource_url": "https://api.discogs.com/artists/241759",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "What More Can I Say",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 137880,
+     "join": "",
+     "name": "Kanye West",
+     "resource_url": "https://api.discogs.com/artists/137880",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 199138,
+     "join": "",
+     "name": "Don Crawley",
+     "resource_url": "https://api.discogs.com/artists/199138",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 182738,
+     "join": "",
+     "name": "John Legend",
+     "resource_url": "https://api.discogs.com/artists/182738",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 137880,
+     "join": "",
+     "name": "Kanye West",
+     "resource_url": "https://api.discogs.com/artists/137880",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 199135,
+     "join": "",
+     "name": "Leonard Harris",
+     "resource_url": "https://api.discogs.com/artists/199135",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Encore",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 17110,
+     "join": "",
+     "name": "The Neptunes",
+     "resource_url": "https://api.discogs.com/artists/17110",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 199134,
+     "join": "",
+     "name": "Danee Doty",
+     "resource_url": "https://api.discogs.com/artists/199134",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 90037,
+     "join": "",
+     "name": "Pharrell Williams",
+     "resource_url": "https://api.discogs.com/artists/90037",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Change Clothes",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Dirt Off Your Shoulder",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 186837,
+     "join": "",
+     "name": "9th Wonder",
+     "resource_url": "https://api.discogs.com/artists/186837",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 199137,
+     "join": "",
+     "name": "Cedric the Entertainer",
+     "resource_url": "https://api.discogs.com/artists/199137",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Threat",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Moment Of Clarity",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 68211,
+     "join": "",
+     "name": "Rick Rubin",
+     "resource_url": "https://api.discogs.com/artists/68211",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "99 Problems",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 153456,
+     "join": "",
+     "name": "Just Blaze",
+     "resource_url": "https://api.discogs.com/artists/153456",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Interlude",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 62571,
+     "join": "",
+     "name": "DJ Quik",
+     "resource_url": "https://api.discogs.com/artists/62571",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 199131,
+     "join": "",
+     "name": "Sharlotte Gibson",
+     "resource_url": "https://api.discogs.com/artists/199131",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Justify My Thug",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 137880,
+     "join": "",
+     "name": "Kanye West",
+     "resource_url": "https://api.discogs.com/artists/137880",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Lucifer",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 17110,
+     "join": "",
+     "name": "The Neptunes",
+     "resource_url": "https://api.discogs.com/artists/17110",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Allure",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 199132,
+     "join": "",
+     "name": "Aqua (2)",
+     "resource_url": "https://api.discogs.com/artists/199132",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 199133,
+     "join": "",
+     "name": "Joe \"3H\" Weinberger",
+     "resource_url": "https://api.discogs.com/artists/199133",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "My 1st Song",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/259432-Jay-Z-The-Black-Album",
+ "year": 2003
+}

@@ -1,0 +1,518 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 132084,
+   "join": "",
+   "name": "Snoop Dogg",
+   "resource_url": "https://api.discogs.com/artists/132084",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/TbXr3OohWvMuq4HYHRHa0JzH2I0TXopCrLCQ2jJTKO4/rs:fit/g:sm/q:90/h:600/w:536/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzMjA4/NC0xNjYyNTQ4MDEy/LTQ4NjUuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Limited Edition",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 14590960,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/6cKK-x3_KQSPiRwGTjVZb88Tih7-nauI2qnUiMWx5uk/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTkw/OTYwLTE1Nzc3Mzc4/MzAtNTI2OC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/6cKK-x3_KQSPiRwGTjVZb88Tih7-nauI2qnUiMWx5uk/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTkw/OTYwLTE1Nzc3Mzc4/MzAtNTI2OC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Y4r_VNd0C9uglh_vAkeb96EZQEAi0BCwkTcI8lwSXko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTkw/OTYwLTE1Nzc3Mzc4/MzAtNTI2OC5qcGVn.jpeg",
+   "width": 594
+  }
+ ],
+ "labels": [
+  {
+   "catno": "00602577982415",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 821,
+   "name": "Geffen Records",
+   "resource_url": "https://api.discogs.com/labels/821",
+   "thumbnail_url": "https://i.discogs.com/vMl2XlWbLiwFc15tnFdFdDhrXIwTNHLUms1TMNKeP94/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgyMS0x/MzAwODc4NDM2Lmpw/ZWc.jpeg"
+  },
+  {
+   "catno": "00602577982415",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 68029,
+   "name": "UMe",
+   "resource_url": "https://api.discogs.com/labels/68029",
+   "thumbnail_url": "https://i.discogs.com/M8dUXs4KvT0ntyk7C_Xbzh3z3vTBp9EBxecfUb13p74/rs:fit/g:sm/q:90/h:233/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MDI5/LTE1MDM0MTYxNTkt/OTAxNy5wbmc.jpeg"
+  }
+ ],
+ "notes": "Gatefold cover",
+ "released": "2019-11-15",
+ "styles": [
+  "Gangsta"
+ ],
+ "title": "R & G (Rhythm & Gangsta): The Masterpiece",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 169508,
+     "join": "",
+     "name": "Alchemist",
+     "resource_url": "https://api.discogs.com/artists/169508",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "(Intro) I Love To Give You Light",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Bang Out",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Pharrell",
+     "id": 90037,
+     "join": "",
+     "name": "Pharrell Williams",
+     "resource_url": "https://api.discogs.com/artists/90037",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 17110,
+     "join": "",
+     "name": "The Neptunes",
+     "resource_url": "https://api.discogs.com/artists/17110",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Drop It Like It's Hot",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 24072,
+     "join": "",
+     "name": "Bootsy Collins",
+     "resource_url": "https://api.discogs.com/artists/24072",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 175286,
+     "join": "",
+     "name": "Josef Leimberg",
+     "resource_url": "https://api.discogs.com/artists/175286",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Can I Get A Flicc Witchu",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5a",
+   "title": "Every Dogg Has His Day (Interlude)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 97664,
+     "join": "",
+     "name": "Bee Gees",
+     "resource_url": "https://api.discogs.com/artists/97664",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1152262,
+     "join": "",
+     "name": "Baby Dubb",
+     "resource_url": "https://api.discogs.com/artists/1152262",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Ups & Downs",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 116227,
+     "join": "",
+     "name": "Soopafly",
+     "resource_url": "https://api.discogs.com/artists/116227",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "The Bidness",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 176854,
+     "join": "",
+     "name": "Black Jeruz",
+     "resource_url": "https://api.discogs.com/artists/176854",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 182315,
+     "join": "",
+     "name": "Sha Money XL",
+     "resource_url": "https://api.discogs.com/artists/182315",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Snoop D.O. Double G",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 17110,
+     "join": "",
+     "name": "The Neptunes",
+     "resource_url": "https://api.discogs.com/artists/17110",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Let's Get Blown",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 120307,
+     "join": "",
+     "name": "Lil' Jon",
+     "resource_url": "https://api.discogs.com/artists/120307",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 37910,
+     "join": "",
+     "name": "Trina",
+     "resource_url": "https://api.discogs.com/artists/37910",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 120307,
+     "join": "",
+     "name": "Lil' Jon",
+     "resource_url": "https://api.discogs.com/artists/120307",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Step Yo Game Up",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 115941,
+     "join": "",
+     "name": "Charlie Wilson",
+     "resource_url": "https://api.discogs.com/artists/115941",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 17110,
+     "join": "",
+     "name": "The Neptunes",
+     "resource_url": "https://api.discogs.com/artists/17110",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Perfect",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "WBALLZ (Interlude)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 324287,
+     "join": "",
+     "name": "Ole Folks",
+     "resource_url": "https://api.discogs.com/artists/324287",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Fresh Pair Of Panties On",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 52780,
+     "join": "",
+     "name": "Mr. Foster",
+     "resource_url": "https://api.discogs.com/artists/52780",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Promise I",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C4a",
+   "title": "Say What Again (Interlude)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 79578,
+     "join": "",
+     "name": "50 Cent",
+     "resource_url": "https://api.discogs.com/artists/79578",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151867,
+     "join": "",
+     "name": "Ron Browz",
+     "resource_url": "https://api.discogs.com/artists/151867",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Oh No",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 116227,
+     "join": "",
+     "name": "Soopafly",
+     "resource_url": "https://api.discogs.com/artists/116227",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174237,
+     "join": "",
+     "name": "L.T. Hutton",
+     "resource_url": "https://api.discogs.com/artists/174237",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C5",
+   "title": "Can U Control Yo Hoe",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 115941,
+     "join": "",
+     "name": "Charlie Wilson",
+     "resource_url": "https://api.discogs.com/artists/115941",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 66824,
+     "join": "",
+     "name": "Justin Timberlake",
+     "resource_url": "https://api.discogs.com/artists/66824",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 17110,
+     "join": "",
+     "name": "The Neptunes",
+     "resource_url": "https://api.discogs.com/artists/17110",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Signs",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 116227,
+     "join": "",
+     "name": "Soopafly",
+     "resource_url": "https://api.discogs.com/artists/116227",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1152262,
+     "join": "",
+     "name": "Baby Dubb",
+     "resource_url": "https://api.discogs.com/artists/1152262",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "I'm Threw Witchu",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 17110,
+     "join": "",
+     "name": "The Neptunes",
+     "resource_url": "https://api.discogs.com/artists/17110",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Pass It Pass It",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 51368,
+     "join": "",
+     "name": "Nelly",
+     "resource_url": "https://api.discogs.com/artists/51368",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174237,
+     "join": "",
+     "name": "L.T. Hutton",
+     "resource_url": "https://api.discogs.com/artists/174237",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Girl Like U",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 24072,
+     "join": "",
+     "name": "Bootsy Collins",
+     "resource_url": "https://api.discogs.com/artists/24072",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D5",
+   "title": "No Thang On Me",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14590960-Snoop-Dogg-R-G-Rhythm-Gangsta-The-Masterpiece",
+ "year": 2019
+}

@@ -1,0 +1,192 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1512533,
+   "join": "",
+   "name": "Chicha Libre",
+   "resource_url": "https://api.discogs.com/artists/1512533",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/H7lcEka5uXgSJXr-5FDhKCtoTqmMyk4EQZ4cPNpBYA4/rs:fit/g:sm/q:90/h:401/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1MTI1/MzMtMTI3OTExNzA4/OC5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Repress",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Rock",
+  "Latin"
+ ],
+ "id": 13453290,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/lIhTjKF2uyDXaArIVI6fdU_jDQ27fXqObRDxgCLKq0U/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUz/MjkwLTE1NTQ4ODY1/OTYtNzA2Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/lIhTjKF2uyDXaArIVI6fdU_jDQ27fXqObRDxgCLKq0U/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUz/MjkwLTE1NTQ4ODY1/OTYtNzA2Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/G09w1XDPfi3cAPSME8lDqA3V6zSIr9uhJSKg-SEezPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUz/MjkwLTE1NTQ4ODY1/OTYtNzA2Mi5qcGVn.jpeg",
+   "width": 598
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BR0017",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 80243,
+   "name": "Barbès Records",
+   "resource_url": "https://api.discogs.com/labels/80243",
+   "thumbnail_url": "https://i.discogs.com/CJa9ICq5TBc9dsPeckwVGGjv_A8WDYo-tsqq5SHvUWo/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgwMjQz/LTEyNzkxMTY0NDAu/anBlZw.jpeg"
+  },
+  {
+   "catno": "BR0017",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 74203,
+   "name": "Fatbeats Records",
+   "resource_url": "https://api.discogs.com/labels/74203",
+   "thumbnail_url": "https://i.discogs.com/2wEp__NFq79-2JFSO8sFFlR0C10dJeHId3HwpWpTVEE/rs:fit/g:sm/q:90/h:257/w:257/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc0MjAz/LTEyMzI0NjUzODEu/anBlZw.jpeg"
+  }
+ ],
+ "notes": "Side D is an etched image ",
+ "released": "2019-03-29",
+ "styles": [
+  "Surf",
+  "Cumbia",
+  "Psychedelic Rock",
+  "Salsa"
+ ],
+ "title": "¡Sonido Amazonico!",
+ "tracklist": [
+  {
+   "duration": "4:17",
+   "position": "A1",
+   "title": "Sonido Amazonico",
+   "type_": "track"
+  },
+  {
+   "duration": "4:02",
+   "position": "A2",
+   "title": "Primavera En La Selva",
+   "type_": "track"
+  },
+  {
+   "duration": "2:21",
+   "position": "A3",
+   "title": "Mi Platto De Barro",
+   "type_": "track"
+  },
+  {
+   "duration": "4:04",
+   "position": "A4",
+   "title": "Tres Pasajeros",
+   "type_": "track"
+  },
+  {
+   "duration": "4:06",
+   "position": "A5",
+   "title": "The Hungry Song",
+   "type_": "track"
+  },
+  {
+   "duration": "4:54",
+   "position": "B1",
+   "title": "El Borrachito",
+   "type_": "track"
+  },
+  {
+   "duration": "3:46",
+   "position": "B2",
+   "title": "Pavane",
+   "type_": "track"
+  },
+  {
+   "duration": "3:33",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1754042,
+     "join": "",
+     "name": "Allyssa Lamb",
+     "resource_url": "https://api.discogs.com/artists/1754042",
+     "role": "Backing Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Six Pieds Sous Terre",
+   "type_": "track"
+  },
+  {
+   "duration": "3:09",
+   "position": "B4",
+   "title": "Un Shipibo En Espana",
+   "type_": "track"
+  },
+  {
+   "duration": "4:58",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1754042,
+     "join": "",
+     "name": "Allyssa Lamb",
+     "resource_url": "https://api.discogs.com/artists/1754042",
+     "role": "Backing Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Indian Summer",
+   "type_": "track"
+  },
+  {
+   "duration": "2:41",
+   "position": "C1",
+   "title": "La Cumbia Del Zapatero",
+   "type_": "track"
+  },
+  {
+   "duration": "5:19",
+   "position": "C2",
+   "title": "Popcorn Andino",
+   "type_": "track"
+  },
+  {
+   "duration": "2:30",
+   "position": "C3",
+   "title": "Yo No Fui",
+   "type_": "track"
+  },
+  {
+   "duration": "4:33",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 95539,
+     "join": "",
+     "name": "Erik Satie",
+     "resource_url": "https://api.discogs.com/artists/95539",
+     "role": "Composed By",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Gnossiene No. 1",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13453290-Chicha-Libre-Sonido-Amazonico",
+ "year": 2019
+}

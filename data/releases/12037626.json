@@ -1,0 +1,135 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5269271,
+   "join": "",
+   "name": "Kamaal Williams",
+   "resource_url": "https://api.discogs.com/artists/5269271",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/z-421MKl5HREzcWt1tsXPZKr7UumzXkrvfvtnl7VGQE/rs:fit/g:sm/q:90/h:270/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyNjky/NzEtMTUyMzM2NTc2/OS0yODg4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "180gr"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Jazz"
+ ],
+ "id": 12037626,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/bcNvLDIZwi1sTaFkDBPpO7F25hTJ-8e7OoH6MXAfb2U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM3/NjI2LTE1MjgzNjU3/NDMtOTk3MS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/bcNvLDIZwi1sTaFkDBPpO7F25hTJ-8e7OoH6MXAfb2U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM3/NjI2LTE1MjgzNjU3/NDMtOTk3MS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/FsgPgCejNKT2pPCz3n-b8Ji5Sh41HswVtyxwv3OfGXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM3/NjI2LTE1MjgzNjU3/NDMtOTk3MS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BFR001LP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1399609,
+   "name": "Black Focus Records",
+   "resource_url": "https://api.discogs.com/labels/1399609",
+   "thumbnail_url": "https://i.discogs.com/d7V80EBRpKWev4TD4TsWBv3Vbw7X7Xmeuo46n9Sxpgs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzOTk2/MDktMTUxNTQ5MDc1/MC03OTg1LmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-05-25",
+ "styles": [
+  "Jazz-Funk",
+  "Contemporary Jazz",
+  "Broken Beat"
+ ],
+ "title": "The Return",
+ "tracklist": [
+  {
+   "duration": "8:33",
+   "position": "A1",
+   "title": "Salaam",
+   "type_": "track"
+  },
+  {
+   "duration": "4:26",
+   "position": "A2",
+   "title": "Broken Theme",
+   "type_": "track"
+  },
+  {
+   "duration": "1:06",
+   "position": "A3",
+   "title": "The Return",
+   "type_": "track"
+  },
+  {
+   "duration": "3:00",
+   "position": "A4",
+   "title": "High Roller",
+   "type_": "track"
+  },
+  {
+   "duration": "2:59",
+   "position": "A5",
+   "title": "Situations (Live In Milan)",
+   "type_": "track"
+  },
+  {
+   "duration": "6:54",
+   "position": "B6",
+   "title": "Catch The Loop",
+   "type_": "track"
+  },
+  {
+   "duration": "2:34",
+   "position": "B7",
+   "title": " Rhythm Commission",
+   "type_": "track"
+  },
+  {
+   "duration": "6:57",
+   "position": "B8",
+   "title": "Medina",
+   "type_": "track"
+  },
+  {
+   "duration": "5:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5354931,
+     "join": "",
+     "name": "Mansur Brown",
+     "resource_url": "https://api.discogs.com/artists/5354931",
+     "role": "Featuring [Uncredited]",
+     "tracks": ""
+    }
+   ],
+   "position": "B9",
+   "title": " LDN Shuffle",
+   "type_": "track"
+  },
+  {
+   "duration": "2:21",
+   "position": "B10",
+   "title": "Aisha",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12037626-Kamaal-Williams-The-Return",
+ "year": 2018
+}

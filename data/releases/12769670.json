@@ -1,0 +1,96 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5261802,
+   "join": "",
+   "name": "Maisha (3)",
+   "resource_url": "https://api.discogs.com/artists/5261802",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/NRrzF0KepzUBqKxP1qVhzmdOf47ZkiPE5yy4MWbzm7A/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyNjE4/MDItMTU0MDMxODc2/NC02NTY2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 12769670,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/OrsuQUAdntplaAp-BKoUuN1YvWLwT31HoUyAg-Hijvc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY5/NjcwLTE1NDE2ODk4/NzYtMjA4Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/OrsuQUAdntplaAp-BKoUuN1YvWLwT31HoUyAg-Hijvc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY5/NjcwLTE1NDE2ODk4/NzYtMjA4Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/XU-Wbx4ndpjd7C0comGrW7bWpiKbVenC3zYJSNBLUmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY5/NjcwLTE1NDE2ODk4/NzYtMjA4Ny5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BWOOD0187LP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 62136,
+   "name": "Brownswood Recordings",
+   "resource_url": "https://api.discogs.com/labels/62136",
+   "thumbnail_url": "https://i.discogs.com/udXpMPeMKu_TSb4VTKwXY3ICFOvikTMwNAymitHJSEM/rs:fit/g:sm/q:90/h:268/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYyMTM2/LTE2NjM4Nzg5MTAt/OTk4Ni5wbmc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-11-09",
+ "styles": [
+  "Contemporary Jazz",
+  "Fusion",
+  "Afrobeat",
+  "Modal",
+  "Spiritual Jazz"
+ ],
+ "title": "There Is A Place",
+ "tracklist": [
+  {
+   "duration": "11:49",
+   "position": "A1",
+   "title": "Osiris",
+   "type_": "track"
+  },
+  {
+   "duration": "9:50",
+   "position": "A2",
+   "title": "Azure",
+   "type_": "track"
+  },
+  {
+   "duration": "8:00",
+   "position": "B1",
+   "title": "Eaglehurst / The Palace",
+   "type_": "track"
+  },
+  {
+   "duration": "10:23",
+   "position": "B2",
+   "title": "Kaa",
+   "type_": "track"
+  },
+  {
+   "duration": "4:37",
+   "position": "B3",
+   "title": "There Is A Place",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12769670-Maisha-3-There-Is-A-Place",
+ "year": 2018
+}

@@ -1,0 +1,446 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 703690,
+   "join": "",
+   "name": "Breakbot",
+   "resource_url": "https://api.discogs.com/artists/703690",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/mliphEODrCG9YwFRI8H_7xAS0y-MfGk4H5C_2wDveOU/rs:fit/g:sm/q:90/h:348/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcwMzY5/MC0xNTg3NDEzNDA3/LTQ2ODAuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP",
+    "Record Store Day",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13479343,
+ "images": [
+  {
+   "height": 441,
+   "resource_url": "https://i.discogs.com/TznqwL-tAKySLbU4MJjd5ebLne-DAop_U4k79J0DfKY/rs:fit/g:sm/q:90/h:441/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDc5/MzQzLTE1NTUwNjM2/MTUtOTM0Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/TznqwL-tAKySLbU4MJjd5ebLne-DAop_U4k79J0DfKY/rs:fit/g:sm/q:90/h:441/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDc5/MzQzLTE1NTUwNjM2/MTUtOTM0Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/-Flai8HEpEXN6V8YBXLSyeVghioqZp0azqKF0v_8Mfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDc5/MzQzLTE1NTUwNjM2/MTUtOTM0Mi5qcGVn.jpeg",
+   "width": 450
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ED 106",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 19066,
+   "name": "Ed Banger Records",
+   "resource_url": "https://api.discogs.com/labels/19066",
+   "thumbnail_url": "https://i.discogs.com/ZIJtV-Fc7H03Z1Atc_JmDZbn1Jp7Oks35_nDxkjY7i0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5MDY2/LTE2NDgzNDM5NjYt/NjE0Ni5qcGVn.jpeg"
+  },
+  {
+   "catno": "BEC5543829",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 54379,
+   "name": "Because Music",
+   "resource_url": "https://api.discogs.com/labels/54379",
+   "thumbnail_url": "https://i.discogs.com/hCnQ7eINYuhslt-dC2Ub26qjZl4Y5QgXKDWslpAIL6E/rs:fit/g:sm/q:90/h:338/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU0Mzc5/LTE2MzE4NzIxOTMt/NDQ5Ny5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Edition of 500 copies for Record Store Day 2019\n\nA2: Mixed by Yuksek aka Pierre-Alexandre Busson @ Partyfine studio\nB2: Remixed by Yuksek aka Pierre-Alexandre Busson @ Partyfine studio\n\nMastered by Sam John at Precise\nPublished by Headbangers Publishing - Because éditions\n℗ & © 2018 Ed Banger records under exclusive licence to Because Music",
+ "released": "2019-04-13",
+ "styles": [
+  "Synth-pop",
+  "Dance-pop",
+  "Nu-Disco"
+ ],
+ "title": "Another You",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1900400,
+     "join": "",
+     "name": "Ruckazoid",
+     "resource_url": "https://api.discogs.com/artists/1900400",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 662337,
+     "join": "",
+     "name": "David Berland",
+     "resource_url": "https://api.discogs.com/artists/662337",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1800841,
+     "join": "",
+     "name": "Thibaut Berland",
+     "resource_url": "https://api.discogs.com/artists/1800841",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 703690,
+     "join": "",
+     "name": "Breakbot",
+     "resource_url": "https://api.discogs.com/artists/703690",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1900400,
+     "join": "",
+     "name": "Ruckazoid",
+     "resource_url": "https://api.discogs.com/artists/1900400",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 662337,
+     "join": "",
+     "name": "David Berland",
+     "resource_url": "https://api.discogs.com/artists/662337",
+     "role": "Producer [Additional Production], Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 185500,
+     "join": "",
+     "name": "Ricci Rucker",
+     "resource_url": "https://api.discogs.com/artists/185500",
+     "role": "Written-By, Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1800841,
+     "join": "",
+     "name": "Thibaut Berland",
+     "resource_url": "https://api.discogs.com/artists/1800841",
+     "role": "Written-By, Composed By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Another You",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5376328,
+     "join": "",
+     "name": "Jérémy Grandcamp",
+     "resource_url": "https://api.discogs.com/artists/5376328",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 166504,
+     "join": "",
+     "name": "Irfane",
+     "resource_url": "https://api.discogs.com/artists/166504",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Pierre-Alexandre Busson",
+     "id": 171252,
+     "join": "",
+     "name": "Pierre Busson",
+     "resource_url": "https://api.discogs.com/artists/171252",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 119518,
+     "join": "",
+     "name": "Yuksek",
+     "resource_url": "https://api.discogs.com/artists/119518",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 703690,
+     "join": "",
+     "name": "Breakbot",
+     "resource_url": "https://api.discogs.com/artists/703690",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 166504,
+     "join": "",
+     "name": "Irfane",
+     "resource_url": "https://api.discogs.com/artists/166504",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 662337,
+     "join": "",
+     "name": "David Berland",
+     "resource_url": "https://api.discogs.com/artists/662337",
+     "role": "Producer [Additional Production], Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "Irfane Khan-Acito",
+     "id": 2890203,
+     "join": "",
+     "name": "Christopher Irfane Khan-Acito",
+     "resource_url": "https://api.discogs.com/artists/2890203",
+     "role": "Written-By, Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1800841,
+     "join": "",
+     "name": "Thibaut Berland",
+     "resource_url": "https://api.discogs.com/artists/1800841",
+     "role": "Written-By, Composed By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Devotion",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6738477,
+     "join": "",
+     "name": "Delafleur",
+     "resource_url": "https://api.discogs.com/artists/6738477",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1800841,
+     "join": "",
+     "name": "Thibaut Berland",
+     "resource_url": "https://api.discogs.com/artists/1800841",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 703690,
+     "join": "",
+     "name": "Breakbot",
+     "resource_url": "https://api.discogs.com/artists/703690",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6738477,
+     "join": "",
+     "name": "Delafleur",
+     "resource_url": "https://api.discogs.com/artists/6738477",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 662337,
+     "join": "",
+     "name": "David Berland",
+     "resource_url": "https://api.discogs.com/artists/662337",
+     "role": "Producer [Additional Production], Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6716725,
+     "join": "",
+     "name": "Capucine Delaby",
+     "resource_url": "https://api.discogs.com/artists/6716725",
+     "role": "Written-By, Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1800841,
+     "join": "",
+     "name": "Thibaut Berland",
+     "resource_url": "https://api.discogs.com/artists/1800841",
+     "role": "Written-By, Composed By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Don't Stop The Dance",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 166504,
+     "join": "",
+     "name": "Irfane",
+     "resource_url": "https://api.discogs.com/artists/166504",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Pierre-Alexandre Busson",
+     "id": 171252,
+     "join": "",
+     "name": "Pierre Busson",
+     "resource_url": "https://api.discogs.com/artists/171252",
+     "role": "Remix",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 119518,
+     "join": "",
+     "name": "Yuksek",
+     "resource_url": "https://api.discogs.com/artists/119518",
+     "role": "Remix",
+     "tracks": ""
+    },
+    {
+     "anv": "Irfane Khan-Acito",
+     "id": 2890203,
+     "join": "",
+     "name": "Christopher Irfane Khan-Acito",
+     "resource_url": "https://api.discogs.com/artists/2890203",
+     "role": "Written-By, Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1800841,
+     "join": "",
+     "name": "Thibaut Berland",
+     "resource_url": "https://api.discogs.com/artists/1800841",
+     "role": "Written-By, Composed By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Devotion (Yuksek Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6738477,
+     "join": "",
+     "name": "Delafleur",
+     "resource_url": "https://api.discogs.com/artists/6738477",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1800841,
+     "join": "",
+     "name": "Thibaut Berland",
+     "resource_url": "https://api.discogs.com/artists/1800841",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 703690,
+     "join": "",
+     "name": "Breakbot",
+     "resource_url": "https://api.discogs.com/artists/703690",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6738477,
+     "join": "",
+     "name": "Delafleur",
+     "resource_url": "https://api.discogs.com/artists/6738477",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 662337,
+     "join": "",
+     "name": "David Berland",
+     "resource_url": "https://api.discogs.com/artists/662337",
+     "role": "Producer [Additional Production], Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 703690,
+     "join": "",
+     "name": "Breakbot",
+     "resource_url": "https://api.discogs.com/artists/703690",
+     "role": "Remix",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6716725,
+     "join": "",
+     "name": "Capucine Delaby",
+     "resource_url": "https://api.discogs.com/artists/6716725",
+     "role": "Written-By, Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1800841,
+     "join": "",
+     "name": "Thibaut Berland",
+     "resource_url": "https://api.discogs.com/artists/1800841",
+     "role": "Written-By, Composed By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Don't Stop The Dance (Dildo Disco Mix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13479343-Breakbot-Another-You",
+ "year": 2019
+}

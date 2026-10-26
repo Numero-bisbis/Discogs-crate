@@ -1,0 +1,144 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1289,
+   "join": "",
+   "name": "Daft Punk",
+   "resource_url": "https://api.discogs.com/artists/1289",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/sP_wDoC5MsG9lZUfb9thLbpmMmL__nuVnGMNpwgjirE/rs:fit/g:sm/q:90/h:438/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyODkt/MTYxNTQ4NDUyOS00/Mjg0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 416223,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/Zbk4gbWZzWE0GGCyfLai2F8jjV5Y3Ly1FovCMUAfDoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjIy/My0xMjM5MjgzMDEy/LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Zbk4gbWZzWE0GGCyfLai2F8jjV5Y3Ly1FovCMUAfDoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjIy/My0xMjM5MjgzMDEy/LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/q1KkpohhnHgOwfEKr3esNgLcRpVU4WAFdBaJ9zgBheY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjIy/My0xMjM5MjgzMDEy/LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "724356356214",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 750,
+   "name": "Virgin",
+   "resource_url": "https://api.discogs.com/labels/750",
+   "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+  },
+  {
+   "catno": "LP-V 2996",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 750,
+   "name": "Virgin",
+   "resource_url": "https://api.discogs.com/labels/750",
+   "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+  }
+ ],
+ "notes": "Gatefold sleeve:\nPublished by Zomba Music Publishing, Daft Music. \"Robot Rock\" Published By Pizzazz Music (BMI), Zomba Music Publishing, Daft Music. Incorporating elements of \"Release The Beast\" by Kae Williams. Published by Pizzazz Music. Used by permission. All rights reserved. \"Robot Rock\" contains a sample of \"Release The Beast\" performed by [a21260]. (P)1980 Arista Records Inc. Courtesy of Sony BMG Music Entertainment France.\nMastered at The Exchange, London. Management: Pedro Winter for Headbangers Entertainment. Production coordinators for daft life: Cédric Hervet & Gildas Loaëc. \n(P) & (C) 2005 Daft Life under exclusive license to Virgin Records Ltd/Virgin Music, a division of EMI Music France. Printed in EU\n\nColour Printed Inner Sleeves: \nParis, September 13 To November 9, 2004\n\nLabels:\nPrinted In EU\n\nRunouts are stamped, except for \"NiLZ - THE EXCHANGE\" which is etched. There are Xs over two digits in side C runouts.",
+ "released": "2005-03-14",
+ "styles": [
+  "House",
+  "Abstract",
+  "Electro",
+  "Experimental"
+ ],
+ "title": "Human After All",
+ "tracklist": [
+  {
+   "duration": "5:20",
+   "position": "A1",
+   "title": "Human After All",
+   "type_": "track"
+  },
+  {
+   "duration": "4:23",
+   "position": "A2",
+   "title": "The Prime Time Of Your Life",
+   "type_": "track"
+  },
+  {
+   "duration": "4:26",
+   "extraartists": [
+    {
+     "anv": "K. Williams",
+     "id": 113016,
+     "join": "",
+     "name": "Kae Williams Jr.",
+     "resource_url": "https://api.discogs.com/artists/113016",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Robot Rock",
+   "type_": "track"
+  },
+  {
+   "duration": "5:21",
+   "position": "B1",
+   "title": "Steam Machine",
+   "type_": "track"
+  },
+  {
+   "duration": "4:49",
+   "position": "B2",
+   "title": "Make Love",
+   "type_": "track"
+  },
+  {
+   "duration": "4:08",
+   "position": "C1",
+   "title": "The Brainwasher",
+   "type_": "track"
+  },
+  {
+   "duration": "0:19",
+   "position": "C2",
+   "title": "On/Off",
+   "type_": "track"
+  },
+  {
+   "duration": "4:46",
+   "position": "C3",
+   "title": "Television Rules The Nation",
+   "type_": "track"
+  },
+  {
+   "duration": "4:43",
+   "position": "D1",
+   "title": "Technologic",
+   "type_": "track"
+  },
+  {
+   "duration": "6:57",
+   "position": "D2",
+   "title": "Emotion",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/416223-Daft-Punk-Human-After-All",
+ "year": 2005
+}

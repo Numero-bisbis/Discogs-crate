@@ -1,0 +1,2045 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 151223,
+   "join": "",
+   "name": "Amy Winehouse",
+   "resource_url": "https://api.discogs.com/artists/151223",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Ea_EHEQgQCnQgPqVDuz589TncOipC5jGEl8BBCIBkK8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1MTIy/My0xNzYxNjA1NTU3/LTk0ODMuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  },
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  },
+  {
+   "descriptions": [
+    "Deluxe Edition",
+    "Reissue",
+    "Remastered"
+   ],
+   "name": "All Media",
+   "qty": "1",
+   "text": "180 Gram"
+  }
+ ],
+ "genres": [
+  "Funk / Soul",
+  "Pop"
+ ],
+ "id": 9402988,
+ "images": [
+  {
+   "height": 592,
+   "resource_url": "https://i.discogs.com/Wob9ie1X_k9Mcdu-aEp9F1GwL4aQoeP9DzNakQOSfn4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDI5/ODgtMTQ3OTkzNzY1/MS01ODM0LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Wob9ie1X_k9Mcdu-aEp9F1GwL4aQoeP9DzNakQOSfn4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDI5/ODgtMTQ3OTkzNzY1/MS01ODM0LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/5tT05mqU7AVhdT1pmqTpfxgmylmsa33mJo3CW3fLUJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDI5/ODgtMTQ3OTkzNzY1/MS01ODM0LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "0600753691090",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 48794,
+   "name": "Island Records Group",
+   "resource_url": "https://api.discogs.com/labels/48794",
+   "thumbnail_url": "https://i.discogs.com/3WUF3ZgQfD3W1p24ATDfY8GwjrikPvJJZtYNncYSALQ/rs:fit/g:sm/q:90/h:120/w:159/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ4Nzk0/LTEyOTgxMzUzNzku/anBlZw.jpeg"
+  },
+  {
+   "catno": "0600753691090",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 796,
+   "name": "Universal Records",
+   "resource_url": "https://api.discogs.com/labels/796",
+   "thumbnail_url": "https://i.discogs.com/KcHD9dM5xRSLMOD8MU5sc5tUk-z26NpkC0fF1QloeTU/rs:fit/g:sm/q:90/h:123/w:284/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc5Ni0x/NjY0NjUzMTYxLTkw/MDcuanBlZw.jpeg"
+  }
+ ],
+ "notes": "2016 remastered reissue, cut using half-speed mastering at Abbey Road Studios. \n\n180g, gatefold sleeve.\n\nMisprint on the inner sleeve - reads ORGINAL on the original album.\n\n\nIncludes digital download code.",
+ "released": "2016-11-25",
+ "styles": [
+  "Soul"
+ ],
+ "title": "Back To Black",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "",
+   "title": "Original Album",
+   "type_": "heading"
+  },
+  {
+   "duration": "3:34",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 307881,
+     "join": "",
+     "name": "Gabriel Roth",
+     "resource_url": "https://api.discogs.com/artists/307881",
+     "role": "Arranged By [Band]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151634,
+     "join": "",
+     "name": "Mark Ronson",
+     "resource_url": "https://api.discogs.com/artists/151634",
+     "role": "Arranged By [Band]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 345341,
+     "join": "",
+     "name": "Chris Elliott",
+     "resource_url": "https://api.discogs.com/artists/345341",
+     "role": "Arranged By [Orchestra], Conductor",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 308966,
+     "join": "",
+     "name": "Nick Movshon",
+     "resource_url": "https://api.discogs.com/artists/308966",
+     "role": "Bass Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 338103,
+     "join": "",
+     "name": "Anthony Pleeth",
+     "resource_url": "https://api.discogs.com/artists/338103",
+     "role": "Cello",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 796602,
+     "join": "",
+     "name": "Joely Koos",
+     "resource_url": "https://api.discogs.com/artists/796602",
+     "role": "Cello",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 496516,
+     "join": "",
+     "name": "John Heley",
+     "resource_url": "https://api.discogs.com/artists/496516",
+     "role": "Cello",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 334733,
+     "join": "",
+     "name": "Isobel Griffiths",
+     "resource_url": "https://api.discogs.com/artists/334733",
+     "role": "Contractor [Orchestra]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307876,
+     "join": "",
+     "name": "Homer Steinweiss",
+     "resource_url": "https://api.discogs.com/artists/307876",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 482258,
+     "join": "",
+     "name": "Jesse Gladstone",
+     "resource_url": "https://api.discogs.com/artists/482258",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 680487,
+     "join": "",
+     "name": "Mike Makowski",
+     "resource_url": "https://api.discogs.com/artists/680487",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307877,
+     "join": "",
+     "name": "Binky Griptite",
+     "resource_url": "https://api.discogs.com/artists/307877",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392670,
+     "join": "",
+     "name": "Thomas Brenneck",
+     "resource_url": "https://api.discogs.com/artists/392670",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151634,
+     "join": "",
+     "name": "Mark Ronson",
+     "resource_url": "https://api.discogs.com/artists/151634",
+     "role": "Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 456903,
+     "join": "",
+     "name": "Vaughan Merrick",
+     "resource_url": "https://api.discogs.com/artists/456903",
+     "role": "Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 292742,
+     "join": "",
+     "name": "Helen Tunstall",
+     "resource_url": "https://api.discogs.com/artists/292742",
+     "role": "Harp",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274701,
+     "join": "",
+     "name": "Perry Montague-Mason",
+     "resource_url": "https://api.discogs.com/artists/274701",
+     "role": "Leader [Orchestra]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 81857,
+     "join": "",
+     "name": "Frank Ricotti",
+     "resource_url": "https://api.discogs.com/artists/81857",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 309992,
+     "join": "",
+     "name": "Victor Axelrod",
+     "resource_url": "https://api.discogs.com/artists/309992",
+     "role": "Piano, Electric Piano [Wurlitzer], Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151634,
+     "join": "",
+     "name": "Mark Ronson",
+     "resource_url": "https://api.discogs.com/artists/151634",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 456903,
+     "join": "",
+     "name": "Vaughan Merrick",
+     "resource_url": "https://api.discogs.com/artists/456903",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "Andy Macintosh",
+     "id": 416253,
+     "join": "",
+     "name": "Andy Mackintosh",
+     "resource_url": "https://api.discogs.com/artists/416253",
+     "role": "Saxophone [Alto]",
+     "tracks": ""
+    },
+    {
+     "anv": "Chris Davies",
+     "id": 59518,
+     "join": "",
+     "name": "Snake Davis",
+     "resource_url": "https://api.discogs.com/artists/59518",
+     "role": "Saxophone [Alto]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 338791,
+     "join": "",
+     "name": "Dave Bishop",
+     "resource_url": "https://api.discogs.com/artists/338791",
+     "role": "Saxophone [Baritone]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 649064,
+     "join": "",
+     "name": "Ian Hendrickson-Smith",
+     "resource_url": "https://api.discogs.com/artists/649064",
+     "role": "Saxophone [Baritone]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 264175,
+     "join": "",
+     "name": "Jamie Talbot",
+     "resource_url": "https://api.discogs.com/artists/264175",
+     "role": "Saxophone [Tenor]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 343742,
+     "join": "",
+     "name": "Mike Smith (3)",
+     "resource_url": "https://api.discogs.com/artists/343742",
+     "role": "Saxophone [Tenor]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307875,
+     "join": "",
+     "name": "Neal Sugarman",
+     "resource_url": "https://api.discogs.com/artists/307875",
+     "role": "Saxophone [Tenor]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 263025,
+     "join": "",
+     "name": "Richard Edwards (2)",
+     "resource_url": "https://api.discogs.com/artists/263025",
+     "role": "Trombone [Tenor]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307872,
+     "join": "",
+     "name": "Dave Guy",
+     "resource_url": "https://api.discogs.com/artists/307872",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 112851,
+     "join": "",
+     "name": "Steve Sidwell",
+     "resource_url": "https://api.discogs.com/artists/112851",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274521,
+     "join": "",
+     "name": "Bruce White",
+     "resource_url": "https://api.discogs.com/artists/274521",
+     "role": "Viola",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2132251,
+     "join": "",
+     "name": "Jon Thorne (3)",
+     "resource_url": "https://api.discogs.com/artists/2132251",
+     "role": "Viola",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 359416,
+     "join": "",
+     "name": "Katie Wilkinson",
+     "resource_url": "https://api.discogs.com/artists/359416",
+     "role": "Viola",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 447081,
+     "join": "",
+     "name": "Rachel Bolt",
+     "resource_url": "https://api.discogs.com/artists/447081",
+     "role": "Viola",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 344538,
+     "join": "",
+     "name": "Boguslaw Kostecki",
+     "resource_url": "https://api.discogs.com/artists/344538",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274873,
+     "join": "",
+     "name": "Chris Tombling",
+     "resource_url": "https://api.discogs.com/artists/274873",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "Liz Edwards",
+     "id": 414920,
+     "join": "",
+     "name": "Elizabeth Edwards",
+     "resource_url": "https://api.discogs.com/artists/414920",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136888,
+     "join": "",
+     "name": "Everton Nelson",
+     "resource_url": "https://api.discogs.com/artists/136888",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 304509,
+     "join": "",
+     "name": "Jonathan Rees",
+     "resource_url": "https://api.discogs.com/artists/304509",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 320693,
+     "join": "",
+     "name": "Mark Berrow",
+     "resource_url": "https://api.discogs.com/artists/320693",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274701,
+     "join": "",
+     "name": "Perry Montague-Mason",
+     "resource_url": "https://api.discogs.com/artists/274701",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 499270,
+     "join": "",
+     "name": "Peter Hanson",
+     "resource_url": "https://api.discogs.com/artists/499270",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "Tom Piggot-Smith",
+     "id": 447074,
+     "join": "",
+     "name": "Tom Pigott-Smith",
+     "resource_url": "https://api.discogs.com/artists/447074",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392335,
+     "join": "",
+     "name": "Warren Zielinski",
+     "resource_url": "https://api.discogs.com/artists/392335",
+     "role": "Violin",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Rehab",
+   "type_": "track"
+  },
+  {
+   "duration": "4:17",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 307881,
+     "join": "",
+     "name": "Gabriel Roth",
+     "resource_url": "https://api.discogs.com/artists/307881",
+     "role": "Arranged By [Band]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151634,
+     "join": "",
+     "name": "Mark Ronson",
+     "resource_url": "https://api.discogs.com/artists/151634",
+     "role": "Arranged By [Band]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 308966,
+     "join": "",
+     "name": "Nick Movshon",
+     "resource_url": "https://api.discogs.com/artists/308966",
+     "role": "Bass Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307876,
+     "join": "",
+     "name": "Homer Steinweiss",
+     "resource_url": "https://api.discogs.com/artists/307876",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 482258,
+     "join": "",
+     "name": "Jesse Gladstone",
+     "resource_url": "https://api.discogs.com/artists/482258",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 680487,
+     "join": "",
+     "name": "Mike Makowski",
+     "resource_url": "https://api.discogs.com/artists/680487",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307877,
+     "join": "",
+     "name": "Binky Griptite",
+     "resource_url": "https://api.discogs.com/artists/307877",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392670,
+     "join": "",
+     "name": "Thomas Brenneck",
+     "resource_url": "https://api.discogs.com/artists/392670",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 309992,
+     "join": "",
+     "name": "Victor Axelrod",
+     "resource_url": "https://api.discogs.com/artists/309992",
+     "role": "Piano, Electric Piano [Wurlitzer], Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151634,
+     "join": "",
+     "name": "Mark Ronson",
+     "resource_url": "https://api.discogs.com/artists/151634",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 456903,
+     "join": "",
+     "name": "Vaughan Merrick",
+     "resource_url": "https://api.discogs.com/artists/456903",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 649064,
+     "join": "",
+     "name": "Ian Hendrickson-Smith",
+     "resource_url": "https://api.discogs.com/artists/649064",
+     "role": "Saxophone [Baritone]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307875,
+     "join": "",
+     "name": "Neal Sugarman",
+     "resource_url": "https://api.discogs.com/artists/307875",
+     "role": "Saxophone [Tenor]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307872,
+     "join": "",
+     "name": "Dave Guy",
+     "resource_url": "https://api.discogs.com/artists/307872",
+     "role": "Trumpet",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "You Know I'm No Good",
+   "type_": "track"
+  },
+  {
+   "duration": "2:33",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 10421,
+     "join": "",
+     "name": "Salaam Remi",
+     "resource_url": "https://api.discogs.com/artists/10421",
+     "role": "Double Bass [Upright Bass], Drums, Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151223,
+     "join": "",
+     "name": "Amy Winehouse",
+     "resource_url": "https://api.discogs.com/artists/151223",
+     "role": "Guitar, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 221266,
+     "join": "",
+     "name": "Vincent Henry",
+     "resource_url": "https://api.discogs.com/artists/221266",
+     "role": "Guitar, Saxophone [Baritone & Tenor]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 278648,
+     "join": "",
+     "name": "Bruce Purse",
+     "resource_url": "https://api.discogs.com/artists/278648",
+     "role": "Trumpet [Bass], Flugelhorn",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Me And Mr Jones",
+   "type_": "track"
+  },
+  {
+   "duration": "3:13",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 10421,
+     "join": "",
+     "name": "Salaam Remi",
+     "resource_url": "https://api.discogs.com/artists/10421",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 221266,
+     "join": "",
+     "name": "Vincent Henry",
+     "resource_url": "https://api.discogs.com/artists/221266",
+     "role": "Clarinet, Clarinet [Bass], Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 879304,
+     "join": "",
+     "name": "Troy Auxilly-Wilson",
+     "resource_url": "https://api.discogs.com/artists/879304",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151223,
+     "join": "",
+     "name": "Amy Winehouse",
+     "resource_url": "https://api.discogs.com/artists/151223",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "John Adams",
+     "id": 698707,
+     "join": "",
+     "name": "John F. Adams",
+     "resource_url": "https://api.discogs.com/artists/698707",
+     "role": "Organ, Electric Piano [Rhodes]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 278648,
+     "join": "",
+     "name": "Bruce Purse",
+     "resource_url": "https://api.discogs.com/artists/278648",
+     "role": "Trumpet, Trumpet [Bass], Flugelhorn",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Just Friends",
+   "type_": "track"
+  },
+  {
+   "duration": "4:01",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 307881,
+     "join": "",
+     "name": "Gabriel Roth",
+     "resource_url": "https://api.discogs.com/artists/307881",
+     "role": "Arranged By [Band]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 345341,
+     "join": "",
+     "name": "Chris Elliott",
+     "resource_url": "https://api.discogs.com/artists/345341",
+     "role": "Arranged By [Orchestra], Conductor",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 308966,
+     "join": "",
+     "name": "Nick Movshon",
+     "resource_url": "https://api.discogs.com/artists/308966",
+     "role": "Bass Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 338103,
+     "join": "",
+     "name": "Anthony Pleeth",
+     "resource_url": "https://api.discogs.com/artists/338103",
+     "role": "Cello",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 796602,
+     "join": "",
+     "name": "Joely Koos",
+     "resource_url": "https://api.discogs.com/artists/796602",
+     "role": "Cello",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 496516,
+     "join": "",
+     "name": "John Heley",
+     "resource_url": "https://api.discogs.com/artists/496516",
+     "role": "Cello",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 334733,
+     "join": "",
+     "name": "Isobel Griffiths",
+     "resource_url": "https://api.discogs.com/artists/334733",
+     "role": "Contractor",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307876,
+     "join": "",
+     "name": "Homer Steinweiss",
+     "resource_url": "https://api.discogs.com/artists/307876",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 482258,
+     "join": "",
+     "name": "Jesse Gladstone",
+     "resource_url": "https://api.discogs.com/artists/482258",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 680487,
+     "join": "",
+     "name": "Mike Makowski",
+     "resource_url": "https://api.discogs.com/artists/680487",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307877,
+     "join": "",
+     "name": "Binky Griptite",
+     "resource_url": "https://api.discogs.com/artists/307877",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392670,
+     "join": "",
+     "name": "Thomas Brenneck",
+     "resource_url": "https://api.discogs.com/artists/392670",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274701,
+     "join": "",
+     "name": "Perry Montague-Mason",
+     "resource_url": "https://api.discogs.com/artists/274701",
+     "role": "Leader [Orchestra]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 81857,
+     "join": "",
+     "name": "Frank Ricotti",
+     "resource_url": "https://api.discogs.com/artists/81857",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 309992,
+     "join": "",
+     "name": "Victor Axelrod",
+     "resource_url": "https://api.discogs.com/artists/309992",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151634,
+     "join": "",
+     "name": "Mark Ronson",
+     "resource_url": "https://api.discogs.com/artists/151634",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 456903,
+     "join": "",
+     "name": "Vaughan Merrick",
+     "resource_url": "https://api.discogs.com/artists/456903",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "Andy Macintosh",
+     "id": 416253,
+     "join": "",
+     "name": "Andy Mackintosh",
+     "resource_url": "https://api.discogs.com/artists/416253",
+     "role": "Saxophone [Alto]",
+     "tracks": ""
+    },
+    {
+     "anv": "Chris Davies",
+     "id": 59518,
+     "join": "",
+     "name": "Snake Davis",
+     "resource_url": "https://api.discogs.com/artists/59518",
+     "role": "Saxophone [Alto]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 338791,
+     "join": "",
+     "name": "Dave Bishop",
+     "resource_url": "https://api.discogs.com/artists/338791",
+     "role": "Saxophone [Baritone]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 264175,
+     "join": "",
+     "name": "Jamie Talbot",
+     "resource_url": "https://api.discogs.com/artists/264175",
+     "role": "Saxophone [Tenor]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274521,
+     "join": "",
+     "name": "Bruce White",
+     "resource_url": "https://api.discogs.com/artists/274521",
+     "role": "Viola",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2132251,
+     "join": "",
+     "name": "Jon Thorne (3)",
+     "resource_url": "https://api.discogs.com/artists/2132251",
+     "role": "Viola",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 359416,
+     "join": "",
+     "name": "Katie Wilkinson",
+     "resource_url": "https://api.discogs.com/artists/359416",
+     "role": "Viola",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 447081,
+     "join": "",
+     "name": "Rachel Bolt",
+     "resource_url": "https://api.discogs.com/artists/447081",
+     "role": "Viola",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 344538,
+     "join": "",
+     "name": "Boguslaw Kostecki",
+     "resource_url": "https://api.discogs.com/artists/344538",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274873,
+     "join": "",
+     "name": "Chris Tombling",
+     "resource_url": "https://api.discogs.com/artists/274873",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "Liz Edwards",
+     "id": 414920,
+     "join": "",
+     "name": "Elizabeth Edwards",
+     "resource_url": "https://api.discogs.com/artists/414920",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136888,
+     "join": "",
+     "name": "Everton Nelson",
+     "resource_url": "https://api.discogs.com/artists/136888",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 304509,
+     "join": "",
+     "name": "Jonathan Rees",
+     "resource_url": "https://api.discogs.com/artists/304509",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 320693,
+     "join": "",
+     "name": "Mark Berrow",
+     "resource_url": "https://api.discogs.com/artists/320693",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274701,
+     "join": "",
+     "name": "Perry Montague-Mason",
+     "resource_url": "https://api.discogs.com/artists/274701",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 499270,
+     "join": "",
+     "name": "Peter Hanson",
+     "resource_url": "https://api.discogs.com/artists/499270",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "Tom Piggot-Smith",
+     "id": 447074,
+     "join": "",
+     "name": "Tom Pigott-Smith",
+     "resource_url": "https://api.discogs.com/artists/447074",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392335,
+     "join": "",
+     "name": "Warren Zielinski",
+     "resource_url": "https://api.discogs.com/artists/392335",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151223,
+     "join": "",
+     "name": "Amy Winehouse",
+     "resource_url": "https://api.discogs.com/artists/151223",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151634,
+     "join": "",
+     "name": "Mark Ronson",
+     "resource_url": "https://api.discogs.com/artists/151634",
+     "role": "Written-By, Arranged By [Band], Tambourine",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Back To Black",
+   "type_": "track"
+  },
+  {
+   "duration": "2:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 307881,
+     "join": "",
+     "name": "Gabriel Roth",
+     "resource_url": "https://api.discogs.com/artists/307881",
+     "role": "Arranged By [Band]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151634,
+     "join": "",
+     "name": "Mark Ronson",
+     "resource_url": "https://api.discogs.com/artists/151634",
+     "role": "Arranged By [Band]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 345341,
+     "join": "",
+     "name": "Chris Elliott",
+     "resource_url": "https://api.discogs.com/artists/345341",
+     "role": "Arranged By [Orchestra], Conductor",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 308966,
+     "join": "",
+     "name": "Nick Movshon",
+     "resource_url": "https://api.discogs.com/artists/308966",
+     "role": "Bass Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 338103,
+     "join": "",
+     "name": "Anthony Pleeth",
+     "resource_url": "https://api.discogs.com/artists/338103",
+     "role": "Cello",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 796602,
+     "join": "",
+     "name": "Joely Koos",
+     "resource_url": "https://api.discogs.com/artists/796602",
+     "role": "Cello",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 496516,
+     "join": "",
+     "name": "John Heley",
+     "resource_url": "https://api.discogs.com/artists/496516",
+     "role": "Cello",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 334733,
+     "join": "",
+     "name": "Isobel Griffiths",
+     "resource_url": "https://api.discogs.com/artists/334733",
+     "role": "Contractor [Orchestra]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307876,
+     "join": "",
+     "name": "Homer Steinweiss",
+     "resource_url": "https://api.discogs.com/artists/307876",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 482258,
+     "join": "",
+     "name": "Jesse Gladstone",
+     "resource_url": "https://api.discogs.com/artists/482258",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 680487,
+     "join": "",
+     "name": "Mike Makowski",
+     "resource_url": "https://api.discogs.com/artists/680487",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307877,
+     "join": "",
+     "name": "Binky Griptite",
+     "resource_url": "https://api.discogs.com/artists/307877",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392670,
+     "join": "",
+     "name": "Thomas Brenneck",
+     "resource_url": "https://api.discogs.com/artists/392670",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 292742,
+     "join": "",
+     "name": "Helen Tunstall",
+     "resource_url": "https://api.discogs.com/artists/292742",
+     "role": "Harp",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274701,
+     "join": "",
+     "name": "Perry Montague-Mason",
+     "resource_url": "https://api.discogs.com/artists/274701",
+     "role": "Leader [Orchestra]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 81857,
+     "join": "",
+     "name": "Frank Ricotti",
+     "resource_url": "https://api.discogs.com/artists/81857",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 309992,
+     "join": "",
+     "name": "Victor Axelrod",
+     "resource_url": "https://api.discogs.com/artists/309992",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151634,
+     "join": "",
+     "name": "Mark Ronson",
+     "resource_url": "https://api.discogs.com/artists/151634",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 456903,
+     "join": "",
+     "name": "Vaughan Merrick",
+     "resource_url": "https://api.discogs.com/artists/456903",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "Andy Macintosh",
+     "id": 416253,
+     "join": "",
+     "name": "Andy Mackintosh",
+     "resource_url": "https://api.discogs.com/artists/416253",
+     "role": "Saxophone [Alto]",
+     "tracks": ""
+    },
+    {
+     "anv": "Chris Davies",
+     "id": 59518,
+     "join": "",
+     "name": "Snake Davis",
+     "resource_url": "https://api.discogs.com/artists/59518",
+     "role": "Saxophone [Alto]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 338791,
+     "join": "",
+     "name": "Dave Bishop",
+     "resource_url": "https://api.discogs.com/artists/338791",
+     "role": "Saxophone [Baritone]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 264175,
+     "join": "",
+     "name": "Jamie Talbot",
+     "resource_url": "https://api.discogs.com/artists/264175",
+     "role": "Saxophone [Tenor]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 343742,
+     "join": "",
+     "name": "Mike Smith (3)",
+     "resource_url": "https://api.discogs.com/artists/343742",
+     "role": "Saxophone [Tenor]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 263025,
+     "join": "",
+     "name": "Richard Edwards (2)",
+     "resource_url": "https://api.discogs.com/artists/263025",
+     "role": "Trombone [Tenor]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 112851,
+     "join": "",
+     "name": "Steve Sidwell",
+     "resource_url": "https://api.discogs.com/artists/112851",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274521,
+     "join": "",
+     "name": "Bruce White",
+     "resource_url": "https://api.discogs.com/artists/274521",
+     "role": "Viola",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2132251,
+     "join": "",
+     "name": "Jon Thorne (3)",
+     "resource_url": "https://api.discogs.com/artists/2132251",
+     "role": "Viola",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 359416,
+     "join": "",
+     "name": "Katie Wilkinson",
+     "resource_url": "https://api.discogs.com/artists/359416",
+     "role": "Viola",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 447081,
+     "join": "",
+     "name": "Rachel Bolt",
+     "resource_url": "https://api.discogs.com/artists/447081",
+     "role": "Viola",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 344538,
+     "join": "",
+     "name": "Boguslaw Kostecki",
+     "resource_url": "https://api.discogs.com/artists/344538",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274873,
+     "join": "",
+     "name": "Chris Tombling",
+     "resource_url": "https://api.discogs.com/artists/274873",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "Liz Edwards",
+     "id": 414920,
+     "join": "",
+     "name": "Elizabeth Edwards",
+     "resource_url": "https://api.discogs.com/artists/414920",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136888,
+     "join": "",
+     "name": "Everton Nelson",
+     "resource_url": "https://api.discogs.com/artists/136888",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 304509,
+     "join": "",
+     "name": "Jonathan Rees",
+     "resource_url": "https://api.discogs.com/artists/304509",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 320693,
+     "join": "",
+     "name": "Mark Berrow",
+     "resource_url": "https://api.discogs.com/artists/320693",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274701,
+     "join": "",
+     "name": "Perry Montague-Mason",
+     "resource_url": "https://api.discogs.com/artists/274701",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 499270,
+     "join": "",
+     "name": "Peter Hanson",
+     "resource_url": "https://api.discogs.com/artists/499270",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "Tom Piggot-Smith",
+     "id": 447074,
+     "join": "",
+     "name": "Tom Pigott-Smith",
+     "resource_url": "https://api.discogs.com/artists/447074",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392335,
+     "join": "",
+     "name": "Warren Zielinski",
+     "resource_url": "https://api.discogs.com/artists/392335",
+     "role": "Violin",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Love Is A Losing Game",
+   "type_": "track"
+  },
+  {
+   "duration": "3:06",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 151223,
+     "join": "",
+     "name": "Amy Winehouse",
+     "resource_url": "https://api.discogs.com/artists/151223",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10421,
+     "join": "",
+     "name": "Salaam Remi",
+     "resource_url": "https://api.discogs.com/artists/10421",
+     "role": "Bass, Piano, Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 879304,
+     "join": "",
+     "name": "Troy Auxilly-Wilson",
+     "resource_url": "https://api.discogs.com/artists/879304",
+     "role": "Drums, Tambourine",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 18984,
+     "join": "",
+     "name": "Marvin Gaye",
+     "resource_url": "https://api.discogs.com/artists/18984",
+     "role": "Performer [Uncredited, Sample Interpolation]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136220,
+     "join": "",
+     "name": "Tammi Terrell",
+     "resource_url": "https://api.discogs.com/artists/136220",
+     "role": "Performer [Uncredited, Sample Interpolation]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 221266,
+     "join": "",
+     "name": "Vincent Henry",
+     "resource_url": "https://api.discogs.com/artists/221266",
+     "role": "Saxophone [Baritone, Tenor, Alto], Flute, Clarinet, Piano, Strings [Celeste], Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 278648,
+     "join": "",
+     "name": "Bruce Purse",
+     "resource_url": "https://api.discogs.com/artists/278648",
+     "role": "Trumpet, Trumpet [Bass], Flugelhorn",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151223,
+     "join": "",
+     "name": "Amy Winehouse",
+     "resource_url": "https://api.discogs.com/artists/151223",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Nickolas Ashford and Valerie Simpson",
+     "id": 15875,
+     "join": "",
+     "name": "Ashford & Simpson",
+     "resource_url": "https://api.discogs.com/artists/15875",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Nickolas Ashford and Valerie Simpson",
+     "id": 15875,
+     "join": "",
+     "name": "Ashford & Simpson",
+     "resource_url": "https://api.discogs.com/artists/15875",
+     "role": "Written-By [Sample Interpolation]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Tears Dry On Their Own",
+   "type_": "track"
+  },
+  {
+   "duration": "3:42",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 307881,
+     "join": "",
+     "name": "Gabriel Roth",
+     "resource_url": "https://api.discogs.com/artists/307881",
+     "role": "Arranged By [Band]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151634,
+     "join": "",
+     "name": "Mark Ronson",
+     "resource_url": "https://api.discogs.com/artists/151634",
+     "role": "Arranged By [Band], Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 308966,
+     "join": "",
+     "name": "Nick Movshon",
+     "resource_url": "https://api.discogs.com/artists/308966",
+     "role": "Bass Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307876,
+     "join": "",
+     "name": "Homer Steinweiss",
+     "resource_url": "https://api.discogs.com/artists/307876",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 482258,
+     "join": "",
+     "name": "Jesse Gladstone",
+     "resource_url": "https://api.discogs.com/artists/482258",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 680487,
+     "join": "",
+     "name": "Mike Makowski",
+     "resource_url": "https://api.discogs.com/artists/680487",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307877,
+     "join": "",
+     "name": "Binky Griptite",
+     "resource_url": "https://api.discogs.com/artists/307877",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392670,
+     "join": "",
+     "name": "Thomas Brenneck",
+     "resource_url": "https://api.discogs.com/artists/392670",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 309992,
+     "join": "",
+     "name": "Victor Axelrod",
+     "resource_url": "https://api.discogs.com/artists/309992",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 456903,
+     "join": "",
+     "name": "Vaughan Merrick",
+     "resource_url": "https://api.discogs.com/artists/456903",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "Paul O'Duffy",
+     "id": 43152,
+     "join": "",
+     "name": "Paul Staveley O'Duffy",
+     "resource_url": "https://api.discogs.com/artists/43152",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Wake Up Alone",
+   "type_": "track"
+  },
+  {
+   "duration": "2:22",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 10421,
+     "join": "",
+     "name": "Salaam Remi",
+     "resource_url": "https://api.discogs.com/artists/10421",
+     "role": "Bass, Drums, Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 221266,
+     "join": "",
+     "name": "Vincent Henry",
+     "resource_url": "https://api.discogs.com/artists/221266",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151223,
+     "join": "",
+     "name": "Amy Winehouse",
+     "resource_url": "https://api.discogs.com/artists/151223",
+     "role": "Guitar, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "John Adams",
+     "id": 698707,
+     "join": "",
+     "name": "John F. Adams",
+     "resource_url": "https://api.discogs.com/artists/698707",
+     "role": "Organ",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Some Unholy War",
+   "type_": "track"
+  },
+  {
+   "duration": "2:46",
+   "extraartists": [
+    {
+     "anv": "Ade",
+     "id": 603567,
+     "join": "",
+     "name": "Ade Omotayo",
+     "resource_url": "https://api.discogs.com/artists/603567",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Zalon",
+     "id": 910845,
+     "join": "",
+     "name": "Zalon Thompson",
+     "resource_url": "https://api.discogs.com/artists/910845",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 308966,
+     "join": "",
+     "name": "Nick Movshon",
+     "resource_url": "https://api.discogs.com/artists/308966",
+     "role": "Bass Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307876,
+     "join": "",
+     "name": "Homer Steinweiss",
+     "resource_url": "https://api.discogs.com/artists/307876",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151634,
+     "join": "",
+     "name": "Mark Ronson",
+     "resource_url": "https://api.discogs.com/artists/151634",
+     "role": "Finger Snaps",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307877,
+     "join": "",
+     "name": "Binky Griptite",
+     "resource_url": "https://api.discogs.com/artists/307877",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392670,
+     "join": "",
+     "name": "Thomas Brenneck",
+     "resource_url": "https://api.discogs.com/artists/392670",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 649079,
+     "join": "",
+     "name": "Sam Koppelman",
+     "resource_url": "https://api.discogs.com/artists/649079",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1828960,
+     "join": "",
+     "name": "The Icemen (2)",
+     "resource_url": "https://api.discogs.com/artists/1828960",
+     "role": "Performer [Uncredited, Sample interpolation]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 309992,
+     "join": "",
+     "name": "Victor Axelrod",
+     "resource_url": "https://api.discogs.com/artists/309992",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208039,
+     "join": "",
+     "name": "P*Nut",
+     "resource_url": "https://api.discogs.com/artists/208039",
+     "role": "Producer [Original Demo]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 495622,
+     "join": "",
+     "name": "Derek Pacuk",
+     "resource_url": "https://api.discogs.com/artists/495622",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 280213,
+     "join": "",
+     "name": "Dom Morley",
+     "resource_url": "https://api.discogs.com/artists/280213",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307881,
+     "join": "",
+     "name": "Gabriel Roth",
+     "resource_url": "https://api.discogs.com/artists/307881",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 280212,
+     "join": "",
+     "name": "Matt Paul",
+     "resource_url": "https://api.discogs.com/artists/280212",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 456903,
+     "join": "",
+     "name": "Vaughan Merrick",
+     "resource_url": "https://api.discogs.com/artists/456903",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 297831,
+     "join": "",
+     "name": "Cochemea Gastelum",
+     "resource_url": "https://api.discogs.com/artists/297831",
+     "role": "Saxophone [Baritone]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307875,
+     "join": "",
+     "name": "Neal Sugarman",
+     "resource_url": "https://api.discogs.com/artists/307875",
+     "role": "Saxophone [Tenor]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307872,
+     "join": "",
+     "name": "Dave Guy",
+     "resource_url": "https://api.discogs.com/artists/307872",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151223,
+     "join": "",
+     "name": "Amy Winehouse",
+     "resource_url": "https://api.discogs.com/artists/151223",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 669649,
+     "join": "",
+     "name": "Richard Poindexter",
+     "resource_url": "https://api.discogs.com/artists/669649",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 669653,
+     "join": "",
+     "name": "Robert Poindexter",
+     "resource_url": "https://api.discogs.com/artists/669653",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 669653,
+     "join": "",
+     "name": "Robert Poindexter",
+     "resource_url": "https://api.discogs.com/artists/669653",
+     "role": "Written-By [Sample Interpolation]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 669649,
+     "join": "",
+     "name": "Richard Poindexter",
+     "resource_url": "https://api.discogs.com/artists/669649",
+     "role": "Written-By [Sample interpolation]",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "He Can Only Hold Her",
+   "type_": "track"
+  },
+  {
+   "duration": "2:45",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 10421,
+     "join": "",
+     "name": "Salaam Remi",
+     "resource_url": "https://api.discogs.com/artists/10421",
+     "role": "Bass, Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 879304,
+     "join": "",
+     "name": "Troy Auxilly-Wilson",
+     "resource_url": "https://api.discogs.com/artists/879304",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151223,
+     "join": "",
+     "name": "Amy Winehouse",
+     "resource_url": "https://api.discogs.com/artists/151223",
+     "role": "Guitar, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "John Adams",
+     "id": 698707,
+     "join": "",
+     "name": "John F. Adams",
+     "resource_url": "https://api.discogs.com/artists/698707",
+     "role": "Organ, Organ [Rhodes]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 221266,
+     "join": "",
+     "name": "Vincent Henry",
+     "resource_url": "https://api.discogs.com/artists/221266",
+     "role": "Saxophone, Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 278648,
+     "join": "",
+     "name": "Bruce Purse",
+     "resource_url": "https://api.discogs.com/artists/278648",
+     "role": "Trumpet, Trumpet [Bass], Flugelhorn",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Addicted",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "",
+   "title": "Bonus Album",
+   "type_": "heading"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "Valerie",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C2",
+   "title": "Cupid",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C3",
+   "title": "Monkey Man",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C4",
+   "title": "Some Unholy War",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D1",
+   "title": "Hey Little Rich Girl",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D2",
+   "title": "You're Wondering Now",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D3",
+   "title": "To Know Him Is To Love Him",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D4",
+   "title": "Love Is A Losing Game (Original Demo)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/9402988-Amy-Winehouse-Back-To-Black",
+ "year": 2016
+}

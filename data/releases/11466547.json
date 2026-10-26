@@ -1,0 +1,74 @@
+{
+ "artists": [
+  {
+   "anv": "Anna",
+   "id": 2448782,
+   "join": "",
+   "name": "DJ Anna",
+   "resource_url": "https://api.discogs.com/artists/2448782",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/0TUiK0R3Okv85iyYbZpEz0xmWF98uPkd-iFQnnUOyy4/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0NDg3/ODItMTM1ODk0NDUx/OC03NzI3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "Single"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11466547,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/sMWKd_8ZdFeQtLUprqb5gvbtT2WlVtUMAyf2iL3PLus/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDY2/NTQ3LTE1MTY4MjY5/MDEtMTc4My5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/sMWKd_8ZdFeQtLUprqb5gvbtT2WlVtUMAyf2iL3PLus/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDY2/NTQ3LTE1MTY4MjY5/MDEtMTc4My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/-R1yNseMnDT8az4_krJrO-hPdUSpX5sipVKbpz3z6LQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDY2/NTQ3LTE1MTY4MjY5/MDEtMTc4My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "KOM EX 101",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 19966,
+   "name": "Kompakt Extra",
+   "resource_url": "https://api.discogs.com/labels/19966",
+   "thumbnail_url": "https://i.discogs.com/ljHb59EJLrrriixGae2T3gfs20EZIq8QPTgPsPMJYq0/rs:fit/g:sm/q:90/h:283/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5OTY2/LTEwODA0Mjg1OTIu/Z2lm.jpeg"
+  }
+ ],
+ "notes": "Made In Europe\n\nRunout groove variants 2, 3, 4, 5 and 6, have \"[MPO logo]® NN ######\" laser etched, while the rest is hand etched.\n\nThe lacquer cut identifier appears as Λ_ (AL for Alex Nimmermann) in runouts.\n",
+ "released": "2018-01-26",
+ "styles": [
+  "Techno",
+  "Acid"
+ ],
+ "title": "Speicher 101",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Hidden Beauties",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "The Dansant",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11466547-Anna-Speicher-101",
+ "year": 2018
+}

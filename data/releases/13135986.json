@@ -1,0 +1,96 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 21315,
+   "join": "&",
+   "name": "Radical G",
+   "resource_url": "https://api.discogs.com/artists/21315",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/vWEH8MgJpnFabUdqjKORbhwRzBkCk4eHrhYm6y_eleQ/rs:fit/g:sm/q:90/h:600/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxMzE1/LTE1MTQwODI0OTUt/NTA5MC5qcGVn.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 4344,
+   "join": "",
+   "name": "The Horrorist",
+   "resource_url": "https://api.discogs.com/artists/4344",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/WyVptY7qcjBypsn3qRnHPmjGXVPKCCMYaiBN2l5ayIY/rs:fit/g:sm/q:90/h:600/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQzNDQt/MTM5NjI3NjI1My01/MzY1LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "10\"",
+    "33 ⅓ RPM",
+    "EP",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Red Print"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13135986,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/lRdsJfQ6Mt7VxFaWJixFQefNIbatAqOZfKRc1gPhRCA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTM1/OTg2LTE1NDg2OTA1/NDMtMjM2Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/lRdsJfQ6Mt7VxFaWJixFQefNIbatAqOZfKRc1gPhRCA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTM1/OTg2LTE1NDg2OTA1/NDMtMjM2Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/e2SjP36ixrMC6xI8Fp8M8xRPgLaJJVBR2EfTvAvRGd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTM1/OTg2LTE1NDg2OTA1/NDMtMjM2Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RR2",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1331257,
+   "name": "R - Label Group",
+   "resource_url": "https://api.discogs.com/labels/1331257",
+   "thumbnail_url": "https://i.discogs.com/8FcVFoRslVeMFmz8fq5NslgnvEU3RaSr_2uva98OzjA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMzEy/NTctMTU4MTk1NTg3/Ny04NjAyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "First pressing. \nLimited screen-printed sleeve edition, exclusive extended vinyl version of \"Here Comes The Storm (Kobosil 44 Terror Mix)\", exclusive vinyl remaster of \"Here Comes The Storm\".",
+ "released": "2019-01-28",
+ "styles": [
+  "Techno"
+ ],
+ "title": "RR2",
+ "tracklist": [
+  {
+   "duration": "6:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3123359,
+     "join": "",
+     "name": "Kobosil",
+     "resource_url": "https://api.discogs.com/artists/3123359",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A.1",
+   "title": "Here Comes The Storm (Kobosil 44 Terror Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "6:00",
+   "position": "AA.1",
+   "title": "Here Comes The Storm",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13135986-Radical-G-The-Horrorist-RR2",
+ "year": 2019
+}

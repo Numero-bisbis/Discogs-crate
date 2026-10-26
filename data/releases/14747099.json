@@ -1,0 +1,422 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 28384,
+   "join": "",
+   "name": "Thelma Houston",
+   "resource_url": "https://api.discogs.com/artists/28384",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/D0MsXfiC6RR0pO0M6CB9sZSor9WoDYt7QYz-jYNUhz0/rs:fit/g:sm/q:90/h:431/w:487/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4Mzg0/LTE1MDAxOTQ4Njct/NTE4Ny5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Mexico",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Funk / Soul"
+ ],
+ "id": 14747099,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/sS1mBvyzvDa2vHLGnJ4aZ7s-wAfVxmbc4XGZ7TEbrf4/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ3/MDk5LTE1ODA3ODYy/MjUtMjAzNy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/sS1mBvyzvDa2vHLGnJ4aZ7s-wAfVxmbc4XGZ7TEbrf4/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ3/MDk5LTE1ODA3ODYy/MjUtMjAzNy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/ibLd9XzEaoKHXEvkup_l_CPqrzxTDnNG8LKp5nrRvLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ3/MDk5LTE1ODA3ODYy/MjUtMjAzNy5qcGVn.jpeg",
+   "width": 593
+  }
+ ],
+ "labels": [
+  {
+   "catno": "STAM-710",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1723,
+   "name": "Motown",
+   "resource_url": "https://api.discogs.com/labels/1723",
+   "thumbnail_url": "https://i.discogs.com/jM1vQlRNLteMWR1T9z6Nlc5gvbNTn5H2fDJYNl6wSDI/rs:fit/g:sm/q:90/h:538/w:538/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3MjMt/MTM0Mzc4MTQ3OS0y/NzIxLmdpZg.jpeg"
+  }
+ ],
+ "notes": "(on back cover) ℗ © 1976, Motown Record Corporation\n(p) 1976 Motown Record, Corp.\n(on labels) (p) 1977 Motown Record, Corp. U.S.A.\n\nPublished by\nA1, B1, B2, B3 Jobete Music\nA2 Carlin Music Corp.\nA3 Jobete Music / Black Bull\nB4 Chappell\nB5 United Artists Music\n\nSimilar to [r=12219461] but extra text on back cover\n",
+ "released": "1977",
+ "styles": [
+  "Soul",
+  "Disco"
+ ],
+ "title": "Any Way You Like It",
+ "tracklist": [
+  {
+   "duration": "6:13",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 372501,
+     "join": "",
+     "name": "Michael L. Smith",
+     "resource_url": "https://api.discogs.com/artists/372501",
+     "role": "Producer, Arranged By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 372501,
+     "join": "",
+     "name": "Michael L. Smith",
+     "resource_url": "https://api.discogs.com/artists/372501",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 28384,
+     "join": "",
+     "name": "Thelma Houston",
+     "resource_url": "https://api.discogs.com/artists/28384",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Anthony D. Jones",
+     "id": 3286098,
+     "join": "",
+     "name": "Tony Jones (15)",
+     "resource_url": "https://api.discogs.com/artists/3286098",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Any Way You Like It = Como Tu Quieras",
+   "type_": "track"
+  },
+  {
+   "duration": "5:39",
+   "extraartists": [
+    {
+     "anv": "Art Wright",
+     "id": 390636,
+     "join": "",
+     "name": "Arthur Wright",
+     "resource_url": "https://api.discogs.com/artists/390636",
+     "role": "Arranged By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 160523,
+     "join": "",
+     "name": "Hal Davis",
+     "resource_url": "https://api.discogs.com/artists/160523",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Carry Gilbert",
+     "id": 540235,
+     "join": "",
+     "name": "Cary Gilbert",
+     "resource_url": "https://api.discogs.com/artists/540235",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Kenny Gamble - Leon Huff",
+     "id": 223460,
+     "join": "",
+     "name": "Gamble & Huff",
+     "resource_url": "https://api.discogs.com/artists/223460",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Don't Leave Me This Way = No Me Dejes Así",
+   "type_": "track"
+  },
+  {
+   "duration": "5:04",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 372501,
+     "join": "",
+     "name": "Michael L. Smith",
+     "resource_url": "https://api.discogs.com/artists/372501",
+     "role": "Producer, Arranged By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 284969,
+     "join": "",
+     "name": "Don Hunter",
+     "resource_url": "https://api.discogs.com/artists/284969",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 393140,
+     "join": "",
+     "name": "Lula Hardaway",
+     "resource_url": "https://api.discogs.com/artists/393140",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 267899,
+     "join": "",
+     "name": "Paul Riser",
+     "resource_url": "https://api.discogs.com/artists/267899",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 18956,
+     "join": "",
+     "name": "Stevie Wonder",
+     "resource_url": "https://api.discogs.com/artists/18956",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Don't Know Why I Love You = No Se Porque Te Amo",
+   "type_": "track"
+  },
+  {
+   "duration": "4:09",
+   "extraartists": [
+    {
+     "anv": "Art Wright",
+     "id": 390636,
+     "join": "",
+     "name": "Arthur Wright",
+     "resource_url": "https://api.discogs.com/artists/390636",
+     "role": "Arranged By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 160523,
+     "join": "",
+     "name": "Hal Davis",
+     "resource_url": "https://api.discogs.com/artists/160523",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Michael Sutton",
+     "id": 391752,
+     "join": "",
+     "name": "Michael B. Sutton",
+     "resource_url": "https://api.discogs.com/artists/391752",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 225486,
+     "join": "",
+     "name": "Don Daniels",
+     "resource_url": "https://api.discogs.com/artists/225486",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 17971,
+     "join": "",
+     "name": "Jermaine Jackson",
+     "resource_url": "https://api.discogs.com/artists/17971",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 280082,
+     "join": "",
+     "name": "Kathy Wakefield",
+     "resource_url": "https://api.discogs.com/artists/280082",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Come To Me = Ven A Mi",
+   "type_": "track"
+  },
+  {
+   "duration": "3:56",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 372501,
+     "join": "",
+     "name": "Michael L. Smith",
+     "resource_url": "https://api.discogs.com/artists/372501",
+     "role": "Producer, Written-By, Arranged By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Don't Make Me Pay (For Another Girl's Mistake) = No Me Des Problemas (Que Otra Lo Hizo)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:48",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 286792,
+     "join": "",
+     "name": "Harold Johnson",
+     "resource_url": "https://api.discogs.com/artists/286792",
+     "role": "Producer, Arranged By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 745919,
+     "join": "",
+     "name": "Andrew Porter",
+     "resource_url": "https://api.discogs.com/artists/745919",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 286792,
+     "join": "",
+     "name": "Harold Johnson",
+     "resource_url": "https://api.discogs.com/artists/286792",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Sharing Something Perfect Between Ourselves = Tenemos Algo Perfecto",
+   "type_": "track"
+  },
+  {
+   "duration": "3:06",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 267899,
+     "join": "",
+     "name": "Paul Riser",
+     "resource_url": "https://api.discogs.com/artists/267899",
+     "role": "Arranged By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 230025,
+     "join": "",
+     "name": "Joe Porter",
+     "resource_url": "https://api.discogs.com/artists/230025",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Cahn",
+     "id": 255312,
+     "join": "",
+     "name": "Sammy Cahn",
+     "resource_url": "https://api.discogs.com/artists/255312",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Chaplin",
+     "id": 695872,
+     "join": "",
+     "name": "Saul Chaplin",
+     "resource_url": "https://api.discogs.com/artists/695872",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "If It's The Last Thing I Do = Quizá Es Lo Último Que Haga",
+   "type_": "track"
+  },
+  {
+   "duration": "3:49",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 335443,
+     "join": "",
+     "name": "Clayton Ivey",
+     "resource_url": "https://api.discogs.com/artists/335443",
+     "role": "Arranged By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 458713,
+     "join": "",
+     "name": "Ted Stovall",
+     "resource_url": "https://api.discogs.com/artists/458713",
+     "role": "Arranged By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 287148,
+     "join": "",
+     "name": "Terry Woodford",
+     "resource_url": "https://api.discogs.com/artists/287148",
+     "role": "Arranged By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 335443,
+     "join": "",
+     "name": "Clayton Ivey",
+     "resource_url": "https://api.discogs.com/artists/335443",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 287148,
+     "join": "",
+     "name": "Terry Woodford",
+     "resource_url": "https://api.discogs.com/artists/287148",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 989621,
+     "join": "",
+     "name": "Ralph Graham",
+     "resource_url": "https://api.discogs.com/artists/989621",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Differently = De Otra Manera",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14747099-Thelma-Houston-Any-Way-You-Like-It",
+ "year": 1977
+}

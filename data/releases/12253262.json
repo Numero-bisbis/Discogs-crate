@@ -1,0 +1,244 @@
+{
+ "artists": [
+  {
+   "anv": "\"XXX\"",
+   "id": 5349997,
+   "join": "",
+   "name": "Xxxtentacion",
+   "resource_url": "https://api.discogs.com/artists/5349997",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/68FJlJ5fpxQb5G8G70Al6M16jLpDSujv5peyS3SXsK0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUzNDk5/OTctMTc0MTQyODA2/NC04NjU0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Hip Hop",
+  "Rock"
+ ],
+ "id": 12253262,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/178GzmSmqbXlZjeeJ96ULhJMoOABqybgVdpZoxPLYlU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjUz/MjYyLTE2MTAwNDU1/NDQtNDU2MC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/178GzmSmqbXlZjeeJ96ULhJMoOABqybgVdpZoxPLYlU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjUz/MjYyLTE2MTAwNDU1/NDQtNDU2MC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/uuucmOqPMVONtOsv_cQgcQB3uss5JtyZHwSnH-3i_08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjUz/MjYyLTE2MTAwNDU1/NDQtNDU2MC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "2812106729",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1354178,
+   "name": "Bad Vibes Forever",
+   "resource_url": "https://api.discogs.com/labels/1354178",
+   "thumbnail_url": "https://i.discogs.com/hSAOApLc42iNgDIJ3n0s9e1qtBTerH4DMo4FcDQtoSw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzNTQx/NzgtMTU2NzI5MDU0/Ni02MTMyLnBuZw.jpeg"
+  }
+ ],
+ "notes": "Ⓟ© 2018 Bad Vibes Forever\nMade In EU. 2812107276\n\nHoused In A Gatefold Jacket. \nBlack Inner Sleeve with Song Informations.\n",
+ "released": "2018-07-20",
+ "styles": [
+  "Alternative Rock",
+  "Emo",
+  "Trap"
+ ],
+ "title": "?",
+ "tracklist": [
+  {
+   "duration": "1:57",
+   "position": "A1",
+   "title": "Introduction (Instructions)",
+   "type_": "track"
+  },
+  {
+   "duration": "1:49",
+   "position": "A2",
+   "title": "Alone, Part 3",
+   "type_": "track"
+  },
+  {
+   "duration": "2:15",
+   "position": "A3",
+   "title": "Moonlight",
+   "type_": "track"
+  },
+  {
+   "duration": "2:46",
+   "position": "A4",
+   "title": "Sad!",
+   "type_": "track"
+  },
+  {
+   "duration": "2:40",
+   "position": "A5",
+   "title": "The Remedy For A Broken Heart (Why Am I So In Love)",
+   "type_": "track"
+  },
+  {
+   "duration": "1:33",
+   "position": "A6",
+   "title": "Floor 555",
+   "type_": "track"
+  },
+  {
+   "duration": "3:06",
+   "position": "A7",
+   "title": "Numb",
+   "type_": "track"
+  },
+  {
+   "duration": "2:56",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3057476,
+     "join": "",
+     "name": "Joey Bada$$",
+     "resource_url": "https://api.discogs.com/artists/3057476",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A8",
+   "title": "Infinity (888)",
+   "type_": "track"
+  },
+  {
+   "duration": "1:55",
+   "position": "A9",
+   "title": "Going Down!",
+   "type_": "track"
+  },
+  {
+   "duration": "1:41",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 341815,
+     "join": "",
+     "name": "Travis Barker",
+     "resource_url": "https://api.discogs.com/artists/341815",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Pain = Bestfriend",
+   "type_": "track"
+  },
+  {
+   "duration": "2:10",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6365678,
+     "join": "",
+     "name": "MATT OX",
+     "resource_url": "https://api.discogs.com/artists/6365678",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "$$$",
+   "type_": "track"
+  },
+  {
+   "duration": "0:48",
+   "position": "B3",
+   "title": "Love Yourself (Interlude)",
+   "type_": "track"
+  },
+  {
+   "duration": "1:49",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4180367,
+     "join": "",
+     "name": "PnB Rock",
+     "resource_url": "https://api.discogs.com/artists/4180367",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Smash!",
+   "type_": "track"
+  },
+  {
+   "duration": "3:12",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6739356,
+     "join": "",
+     "name": "Carlos Andrez",
+     "resource_url": "https://api.discogs.com/artists/6739356",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1262676,
+     "join": "",
+     "name": "Judah (5)",
+     "resource_url": "https://api.discogs.com/artists/1262676",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6729749,
+     "join": "",
+     "name": "Rio Santana",
+     "resource_url": "https://api.discogs.com/artists/6729749",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "I Don't Even Speak Spanish Lol",
+   "type_": "track"
+  },
+  {
+   "duration": "2:01",
+   "position": "B6",
+   "title": "Changes",
+   "type_": "track"
+  },
+  {
+   "duration": "1:50",
+   "position": "B7",
+   "title": "Hope",
+   "type_": "track"
+  },
+  {
+   "duration": "1:20",
+   "position": "B8",
+   "title": "Schizophrenia",
+   "type_": "track"
+  },
+  {
+   "duration": "1:39",
+   "position": "B9",
+   "title": "Before I Close My Eyes",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12253262-XXX-",
+ "year": 2018
+}

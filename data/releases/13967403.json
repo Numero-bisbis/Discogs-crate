@@ -1,0 +1,245 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3692394,
+   "join": "",
+   "name": "Jeen Bassa",
+   "resource_url": "https://api.discogs.com/artists/3692394",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/uhVOSEN376Q85B7xcsFQ5dQzYmKoLXrIenvqBmvPTec/rs:fit/g:sm/q:90/h:360/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM2OTIz/OTQtMTQ0MzYwNzk5/OS00NjkyLnBuZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Hip Hop",
+  "Funk / Soul"
+ ],
+ "id": 13967403,
+ "images": [
+  {
+   "height": 592,
+   "resource_url": "https://i.discogs.com/fDkOgVFqsRj5pl1QkJZ8PLWupY3cTC53ds8Cg7XTu6Y/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTY3/NDAzLTE1NjUxMTAz/NjItNjI5Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/fDkOgVFqsRj5pl1QkJZ8PLWupY3cTC53ds8Cg7XTu6Y/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTY3/NDAzLTE1NjUxMTAz/NjItNjI5Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/SlFL47WdA3M8m7rQjixWLFpH9NOtop0v_aFhgil0yI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTY3/NDAzLTE1NjUxMTAz/NjItNjI5Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "22a 029",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 617182,
+   "name": "22a",
+   "resource_url": "https://api.discogs.com/labels/617182",
+   "thumbnail_url": "https://i.discogs.com/RRT7dYOBWtp0r4wSmUKNVD_MYL_Euv2BhNjvS0En3Gg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYxNzE4/Mi0xNTI5MzM3ODE4/LTEyNjkucG5n.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-08-06",
+ "styles": [
+  "Instrumental"
+ ],
+ "title": "Cassava Pone",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Microphone Hunt (Jeen Trio)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2246813,
+     "join": "",
+     "name": "Mo Kolours",
+     "resource_url": "https://api.discogs.com/artists/2246813",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Crunked Funk ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Blunt Talking",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "James Creole",
+     "id": 5329488,
+     "join": "",
+     "name": "James 'Creole' Thomas",
+     "resource_url": "https://api.discogs.com/artists/5329488",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Reginald Omas",
+     "id": 3845793,
+     "join": "",
+     "name": "Reginald Omas Mamode IV",
+     "resource_url": "https://api.discogs.com/artists/3845793",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Every Day",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "Play This Game (Money)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A6",
+   "title": "Cassava Pone",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Reginald Omas",
+     "id": 3845793,
+     "join": "",
+     "name": "Reginald Omas Mamode IV",
+     "resource_url": "https://api.discogs.com/artists/3845793",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A7",
+   "title": "We Can Change Now ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A8",
+   "title": "The Thing (To Do)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "How I Do It",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3558831,
+     "join": "",
+     "name": "Al Dobson Jr.",
+     "resource_url": "https://api.discogs.com/artists/3558831",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Roots Now ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Get You (I Say)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Music Through The Night",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Sheperd Manyika",
+     "id": 5329485,
+     "join": "",
+     "name": "Shepherd Manyika",
+     "resource_url": "https://api.discogs.com/artists/5329485",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Hold You Down ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B6",
+   "title": "Latin Sisters",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B7",
+   "title": "Ancestral Rivers",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Reginald Omas",
+     "id": 3845793,
+     "join": "",
+     "name": "Reginald Omas Mamode IV",
+     "resource_url": "https://api.discogs.com/artists/3845793",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B8",
+   "title": "A Phone Call Away ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B9",
+   "title": "Real Diggers Only",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B10",
+   "title": "The Moon Revolution",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13967403-Jeen-Bassa-Cassava-Pone",
+ "year": 2019
+}

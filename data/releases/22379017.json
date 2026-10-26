@@ -1,0 +1,114 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1626911,
+   "join": "&",
+   "name": "Maceo Plex",
+   "resource_url": "https://api.discogs.com/artists/1626911",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/MYe6ichecMmR4D5Bb_r7ZH72cLewLJSmYOhyDdhpxt0/rs:fit/g:sm/q:90/h:380/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2MjY5/MTEtMTM5MzUwNzc4/Ny05MDQzLmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 20119,
+   "join": "",
+   "name": "Gabriel Ananda",
+   "resource_url": "https://api.discogs.com/artists/20119",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/k79yHSdKUPxU1nJE6KR7QMvdbNdO8E6R-Mu4xtKDY-s/rs:fit/g:sm/q:90/h:587/w:528/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwMTE5/LTE1NTAwNTA4NzUt/NzQ0Mi5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "Reissue",
+    "Repress"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Clear"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 22379017,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/JoctQ8vR0Pobo74a3PZgqVEz-EIYVTInTkxWU9yJwSM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc5/MDE3LTE2NDYzNzMx/MTMtMTU3Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/JoctQ8vR0Pobo74a3PZgqVEz-EIYVTInTkxWU9yJwSM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc5/MDE3LTE2NDYzNzMx/MTMtMTU3Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/hd_1_jrgcRiN2AiYqBfZLgLNmqGy5V3KybEnjbayOjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc5/MDE3LTE2NDYzNzMx/MTMtMTU3Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ELL025",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 313193,
+   "name": "Ellum Audio",
+   "resource_url": "https://api.discogs.com/labels/313193",
+   "thumbnail_url": "https://i.discogs.com/Ak13Goz5yzGixucX7MsIpZAjc7gDAFctR8EKEWlRluo/rs:fit/g:sm/q:90/h:150/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMzE5/My0xMzQ4MDU5NzE3/LTQwMzcuanBlZw.jpeg"
+  }
+ ],
+ "notes": "On label B:\n©2014 Ellum Audio\n℗2014 Ellum Audio \nMade in France.",
+ "released": "2022-03-04",
+ "styles": [
+  "Tech House",
+  "Techno"
+ ],
+ "title": "Solitary Daze",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Solitary Daze (Original)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1751757,
+     "join": "",
+     "name": "North Lake",
+     "resource_url": "https://api.discogs.com/artists/1751757",
+     "role": "Remix, Producer [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Solitary Daze (North Lake Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1908766,
+     "join": "",
+     "name": "Barnt",
+     "resource_url": "https://api.discogs.com/artists/1908766",
+     "role": "Remix, Producer [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Solitary Daze (Barnt Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/22379017-Maceo-Plex-Gabriel-Ananda-Solitary-Daze",
+ "year": 2022
+}

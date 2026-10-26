@@ -1,0 +1,88 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6248991,
+   "join": "",
+   "name": "Kokoroko",
+   "resource_url": "https://api.discogs.com/artists/6248991",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/azkLK-V5dsoprETcUC_dPnxULq95U9721_hgAhz4NP4/rs:fit/g:sm/q:90/h:514/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYyNDg5/OTEtMTcyNjcxODc0/Ny00NzQ4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Funk / Soul"
+ ],
+ "id": 13308241,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/fZiQdB54LCP5xZvKK6LR_omvHnCjtNpda4ZA-jHTWPk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA4/MjQxLTE1NTI1MDU1/NTMtNjY2NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/fZiQdB54LCP5xZvKK6LR_omvHnCjtNpda4ZA-jHTWPk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA4/MjQxLTE1NTI1MDU1/NTMtNjY2NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/V0Awredb0OOoZjDOg5OxQQRjNKWQ-TDkcI0Y7Pji5iM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA4/MjQxLTE1NTI1MDU1/NTMtNjY2NC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BWOOD0199EP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 62136,
+   "name": "Brownswood Recordings",
+   "resource_url": "https://api.discogs.com/labels/62136",
+   "thumbnail_url": "https://i.discogs.com/udXpMPeMKu_TSb4VTKwXY3ICFOvikTMwNAymitHJSEM/rs:fit/g:sm/q:90/h:268/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYyMTM2/LTE2NjM4Nzg5MTAt/OTk4Ni5wbmc.jpeg"
+  }
+ ],
+ "notes": "Runout codes are etched.\n\nSide A runout, Variant 3,  '1 ❘' mirrored.",
+ "released": "2019-03-08",
+ "styles": [
+  "Afrobeat",
+  "Contemporary Jazz"
+ ],
+ "title": "Kokoroko",
+ "tracklist": [
+  {
+   "duration": "5:56",
+   "position": "A1",
+   "title": "Adwa",
+   "type_": "track"
+  },
+  {
+   "duration": "6:12",
+   "position": "A2",
+   "title": "Ti-de",
+   "type_": "track"
+  },
+  {
+   "duration": "5:12",
+   "position": "B1",
+   "title": "Uman",
+   "type_": "track"
+  },
+  {
+   "duration": "7:04",
+   "position": "B2",
+   "title": "Abusey Junction",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13308241-Kokoroko-Kokoroko",
+ "year": 2019
+}

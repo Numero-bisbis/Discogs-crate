@@ -1,0 +1,1099 @@
+{
+ "artists": [
+  {
+   "anv": "Big Pun",
+   "id": 133768,
+   "join": "",
+   "name": "Big Punisher",
+   "resource_url": "https://api.discogs.com/artists/133768",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/b0oDpZqo2q6QSa1q6FfABaJ4iakqr7PVCmhD91aHgfg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzMzc2/OC0xNTAwNzExNzgz/LTc2NjMuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK & Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 28492594,
+ "images": [
+  {
+   "height": 594,
+   "resource_url": "https://i.discogs.com/-9U21ln-D2EaxenSZTZ1iXs7CSeJwi4uMjhs3klGONs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDky/NTk0LTE2OTY4NjE3/MzQtMjQ0Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/-9U21ln-D2EaxenSZTZ1iXs7CSeJwi4uMjhs3klGONs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDky/NTk0LTE2OTY4NjE3/MzQtMjQ0Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/zsaVFJCm7JwEOeWyxV7m3m1KTAiTrPz7UfSq6YXUxOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDky/NTk0LTE2OTY4NjE3/MzQtMjQ0Ny5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "19658810351",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 8984,
+   "name": "Loud Records",
+   "resource_url": "https://api.discogs.com/labels/8984",
+   "thumbnail_url": "https://i.discogs.com/TmiA7zFIh05gGz872Aje0rTCXWWYMc4RLyoVq4hUsFU/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5ODQt/MTczMzk3Mzg2OC04/MzgzLnBuZw.jpeg"
+  },
+  {
+   "catno": "19658810351",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 895,
+   "name": "RCA",
+   "resource_url": "https://api.discogs.com/labels/895",
+   "thumbnail_url": "https://i.discogs.com/q-zL2IXAAZL18V9Ova8MTy7NXCoGMloDEKM1yaHpays/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5NS0x/NzY4MDgxMjYxLTMw/NDIuanBlZw.jpeg"
+  },
+  {
+   "catno": "19658810351",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 15491,
+   "name": "Legacy",
+   "resource_url": "https://api.discogs.com/labels/15491",
+   "thumbnail_url": "https://i.discogs.com/jk2im_GXsDlf_1qNdX0KOoZUX6ivAIvgJH0TEBVW7ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDkx/LTE0OTg4MzQ3MDgt/NzQwOS5wbmc.jpeg"
+  },
+  {
+   "catno": "19658810351",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  }
+ ],
+ "notes": "Hype Sticker:\n\n\"Hip Hop 50\n1RAW10639S1\"\n\nMade in the EU",
+ "released": "2023-10-06",
+ "styles": [
+  "Gangsta",
+  "Boom Bap"
+ ],
+ "title": "Capital Punishment",
+ "tracklist": [
+  {
+   "duration": "0:33",
+   "position": "A1",
+   "title": "Intro",
+   "type_": "track"
+  },
+  {
+   "duration": "3:15",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 103863,
+     "join": "",
+     "name": "Chris Conway",
+     "resource_url": "https://api.discogs.com/artists/103863",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 493125,
+     "join": "",
+     "name": "Nikos Teneketzis",
+     "resource_url": "https://api.discogs.com/artists/493125",
+     "role": "Mixed By [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "Ju-Ju",
+     "id": 237480,
+     "join": "",
+     "name": "JuJu (3)",
+     "resource_url": "https://api.discogs.com/artists/237480",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Ken \"Duro\" Ifil",
+     "id": 234027,
+     "join": "",
+     "name": "Ken \"Duro\" Ifill",
+     "resource_url": "https://api.discogs.com/artists/234027",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 473446,
+     "join": "",
+     "name": "Paul Gregory",
+     "resource_url": "https://api.discogs.com/artists/473446",
+     "role": "Recorded By [Assistant]",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Beware",
+   "type_": "track"
+  },
+  {
+   "duration": "3:28",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 12466,
+     "join": "",
+     "name": "Black Thought",
+     "resource_url": "https://api.discogs.com/artists/12466",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 170701,
+     "join": "",
+     "name": "Troy Hightower",
+     "resource_url": "https://api.discogs.com/artists/170701",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 62572,
+     "join": "",
+     "name": "Rockwilder",
+     "resource_url": "https://api.discogs.com/artists/62572",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 54978,
+     "join": "",
+     "name": "Adam Kudzin",
+     "resource_url": "https://api.discogs.com/artists/54978",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 510857,
+     "join": "",
+     "name": "Denise Barbarita",
+     "resource_url": "https://api.discogs.com/artists/510857",
+     "role": "Recorded By [Assistant]",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Super Lyrical",
+   "type_": "track"
+  },
+  {
+   "duration": "1:20",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 256903,
+     "join": "",
+     "name": "Nastee",
+     "resource_url": "https://api.discogs.com/artists/256903",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Taster's Choice - Skit",
+   "type_": "track"
+  },
+  {
+   "duration": "3:56",
+   "extraartists": [
+    {
+     "anv": "Dahoud",
+     "id": 125156,
+     "join": "",
+     "name": "Dahoud Darien",
+     "resource_url": "https://api.discogs.com/artists/125156",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 176563,
+     "join": "",
+     "name": "Nomad (5)",
+     "resource_url": "https://api.discogs.com/artists/176563",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 77522,
+     "join": "",
+     "name": "Joe",
+     "resource_url": "https://api.discogs.com/artists/77522",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Dahoud",
+     "id": 125156,
+     "join": "",
+     "name": "Dahoud Darien",
+     "resource_url": "https://api.discogs.com/artists/125156",
+     "role": "Keyboards, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 290048,
+     "join": "",
+     "name": "Ted Wohlsen",
+     "resource_url": "https://api.discogs.com/artists/290048",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 103399,
+     "join": "",
+     "name": "Knobody",
+     "resource_url": "https://api.discogs.com/artists/103399",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 458127,
+     "join": "",
+     "name": "Soundboy (2)",
+     "resource_url": "https://api.discogs.com/artists/458127",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Still Not A Player [Clean]",
+   "type_": "track"
+  },
+  {
+   "duration": "0:21",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 233919,
+     "join": "",
+     "name": "Mike Zulu",
+     "resource_url": "https://api.discogs.com/artists/233919",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 458127,
+     "join": "",
+     "name": "Soundboy (2)",
+     "resource_url": "https://api.discogs.com/artists/458127",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Intermission",
+   "type_": "track"
+  },
+  {
+   "duration": "3:33",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 345170,
+     "join": "",
+     "name": "Cus (2)",
+     "resource_url": "https://api.discogs.com/artists/345170",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 152272,
+     "join": "",
+     "name": "Domingo",
+     "resource_url": "https://api.discogs.com/artists/152272",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 256903,
+     "join": "",
+     "name": "Nastee",
+     "resource_url": "https://api.discogs.com/artists/256903",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "A7",
+   "title": "The Dream Shatterer",
+   "type_": "track"
+  },
+  {
+   "duration": "4:15",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 232827,
+     "join": "",
+     "name": "Miss Jones (2)",
+     "resource_url": "https://api.discogs.com/artists/232827",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 103863,
+     "join": "",
+     "name": "Chris Conway",
+     "resource_url": "https://api.discogs.com/artists/103863",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 493125,
+     "join": "",
+     "name": "Nikos Teneketzis",
+     "resource_url": "https://api.discogs.com/artists/493125",
+     "role": "Mixed By [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 152268,
+     "join": "",
+     "name": "Frank Nitty",
+     "resource_url": "https://api.discogs.com/artists/152268",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Ken \"Duro\" Ifil",
+     "id": 234027,
+     "join": "",
+     "name": "Ken \"Duro\" Ifill",
+     "resource_url": "https://api.discogs.com/artists/234027",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 473446,
+     "join": "",
+     "name": "Paul Gregory",
+     "resource_url": "https://api.discogs.com/artists/473446",
+     "role": "Recorded By [Assistant]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Punish Me",
+   "type_": "track"
+  },
+  {
+   "duration": "1:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 256903,
+     "join": "",
+     "name": "Nastee",
+     "resource_url": "https://api.discogs.com/artists/256903",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Pakinamac Pt. I - Skit",
+   "type_": "track"
+  },
+  {
+   "duration": "4:14",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 186514,
+     "join": "",
+     "name": "Young Lord",
+     "resource_url": "https://api.discogs.com/artists/186514",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 170204,
+     "join": "",
+     "name": "Tony Smalios",
+     "resource_url": "https://api.discogs.com/artists/170204",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "You Ain't A Killer",
+   "type_": "track"
+  },
+  {
+   "duration": "0:57",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 256903,
+     "join": "",
+     "name": "Nastee",
+     "resource_url": "https://api.discogs.com/artists/256903",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Pakinamac Pt. II - Skit",
+   "type_": "track"
+  },
+  {
+   "duration": "3:23",
+   "extraartists": [
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 186514,
+     "join": "",
+     "name": "Young Lord",
+     "resource_url": "https://api.discogs.com/artists/186514",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 458127,
+     "join": "",
+     "name": "Soundboy (2)",
+     "resource_url": "https://api.discogs.com/artists/458127",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Caribbean Connection",
+   "type_": "track"
+  },
+  {
+   "duration": "4:43",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 175116,
+     "join": "",
+     "name": "Armageddon (3)",
+     "resource_url": "https://api.discogs.com/artists/175116",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 134871,
+     "join": "",
+     "name": "Cuban Link",
+     "resource_url": "https://api.discogs.com/artists/134871",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 51988,
+     "join": "",
+     "name": "Fat Joe",
+     "resource_url": "https://api.discogs.com/artists/51988",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 83056,
+     "join": "",
+     "name": "Triple Seis",
+     "resource_url": "https://api.discogs.com/artists/83056",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 103863,
+     "join": "",
+     "name": "Chris Conway",
+     "resource_url": "https://api.discogs.com/artists/103863",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 493125,
+     "join": "",
+     "name": "Nikos Teneketzis",
+     "resource_url": "https://api.discogs.com/artists/493125",
+     "role": "Mixed By [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 167542,
+     "join": "",
+     "name": "L.E.S.",
+     "resource_url": "https://api.discogs.com/artists/167542",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Ken \"Duro\" Ifil",
+     "id": 234027,
+     "join": "",
+     "name": "Ken \"Duro\" Ifill",
+     "resource_url": "https://api.discogs.com/artists/234027",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 473446,
+     "join": "",
+     "name": "Paul Gregory",
+     "resource_url": "https://api.discogs.com/artists/473446",
+     "role": "Recorded By [Assistant]",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Glamourlife",
+   "type_": "track"
+  },
+  {
+   "duration": "4:19",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 210318,
+     "join": "",
+     "name": "Prospect",
+     "resource_url": "https://api.discogs.com/artists/210318",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 170701,
+     "join": "",
+     "name": "Troy Hightower",
+     "resource_url": "https://api.discogs.com/artists/170701",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 177835,
+     "join": "",
+     "name": "Jugrnaut",
+     "resource_url": "https://api.discogs.com/artists/177835",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Trauma",
+     "id": 177836,
+     "join": "",
+     "name": "Mike \"Trauma\" D",
+     "resource_url": "https://api.discogs.com/artists/177836",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 458127,
+     "join": "",
+     "name": "Soundboy (2)",
+     "resource_url": "https://api.discogs.com/artists/458127",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Capital Punishment",
+   "type_": "track"
+  },
+  {
+   "duration": "2:12",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 26246,
+     "join": "",
+     "name": "Funkmaster Flex",
+     "resource_url": "https://api.discogs.com/artists/26246",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 116376,
+     "join": "",
+     "name": "Kieran Walsh",
+     "resource_url": "https://api.discogs.com/artists/116376",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Uncensored - Skit",
+   "type_": "track"
+  },
+  {
+   "duration": "3:41",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 103863,
+     "join": "",
+     "name": "Chris Conway",
+     "resource_url": "https://api.discogs.com/artists/103863",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 175681,
+     "join": "",
+     "name": "Minnesota (2)",
+     "resource_url": "https://api.discogs.com/artists/175681",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Ken \"Duro\" Ifil",
+     "id": 234027,
+     "join": "",
+     "name": "Ken \"Duro\" Ifill",
+     "resource_url": "https://api.discogs.com/artists/234027",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 510856,
+     "join": "",
+     "name": "Gregory \"Gold\" Wilson",
+     "resource_url": "https://api.discogs.com/artists/510856",
+     "role": "Recorded By [Assistant]",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "I'm Not A Player",
+   "type_": "track"
+  },
+  {
+   "duration": "3:49",
+   "extraartists": [
+    {
+     "anv": "Ken \"Duro\" Ifil",
+     "id": 234027,
+     "join": "",
+     "name": "Ken \"Duro\" Ifill",
+     "resource_url": "https://api.discogs.com/artists/234027",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 51988,
+     "join": "",
+     "name": "Fat Joe",
+     "resource_url": "https://api.discogs.com/artists/51988",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 103863,
+     "join": "",
+     "name": "Chris Conway",
+     "resource_url": "https://api.discogs.com/artists/103863",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "Niko Teneketzis",
+     "id": 493125,
+     "join": "",
+     "name": "Nikos Teneketzis",
+     "resource_url": "https://api.discogs.com/artists/493125",
+     "role": "Mixed By [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 133768,
+     "join": "",
+     "name": "Big Punisher",
+     "resource_url": "https://api.discogs.com/artists/133768",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 51988,
+     "join": "",
+     "name": "Fat Joe",
+     "resource_url": "https://api.discogs.com/artists/51988",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Twinz (Deep Cover 98)",
+   "type_": "track"
+  },
+  {
+   "duration": "1:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 47309,
+     "join": "",
+     "name": "Dead Prez",
+     "resource_url": "https://api.discogs.com/artists/47309",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 210318,
+     "join": "",
+     "name": "Prospect",
+     "resource_url": "https://api.discogs.com/artists/210318",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 47309,
+     "join": "",
+     "name": "Dead Prez",
+     "resource_url": "https://api.discogs.com/artists/47309",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 256903,
+     "join": "",
+     "name": "Nastee",
+     "resource_url": "https://api.discogs.com/artists/256903",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "C5",
+   "title": "The Rain & The Sun (Interlude)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:35",
+   "extraartists": [
+    {
+     "anv": "Vic",
+     "id": 167478,
+     "join": "",
+     "name": "V.I.C.",
+     "resource_url": "https://api.discogs.com/artists/167478",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 103863,
+     "join": "",
+     "name": "Chris Conway",
+     "resource_url": "https://api.discogs.com/artists/103863",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    }
+   ],
+   "position": "C6",
+   "title": "Boomerang",
+   "type_": "track"
+  },
+  {
+   "duration": "3:54",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4617,
+     "join": "",
+     "name": "Noreaga",
+     "resource_url": "https://api.discogs.com/artists/4617",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 170701,
+     "join": "",
+     "name": "Troy Hightower",
+     "resource_url": "https://api.discogs.com/artists/170701",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 62572,
+     "join": "",
+     "name": "Rockwilder",
+     "resource_url": "https://api.discogs.com/artists/62572",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 458127,
+     "join": "",
+     "name": "Soundboy (2)",
+     "resource_url": "https://api.discogs.com/artists/458127",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "You Came Up",
+   "type_": "track"
+  },
+  {
+   "duration": "4:19",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 134136,
+     "join": "",
+     "name": "Prodigy",
+     "resource_url": "https://api.discogs.com/artists/134136",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2537107,
+     "join": "",
+     "name": "Rebel INS",
+     "resource_url": "https://api.discogs.com/artists/2537107",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 40234,
+     "join": "",
+     "name": "Carlos Bess",
+     "resource_url": "https://api.discogs.com/artists/40234",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 25495,
+     "join": "",
+     "name": "RZA",
+     "resource_url": "https://api.discogs.com/artists/25495",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 256903,
+     "join": "",
+     "name": "Nastee",
+     "resource_url": "https://api.discogs.com/artists/256903",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 51158,
+     "join": "",
+     "name": "Roc Raida",
+     "resource_url": "https://api.discogs.com/artists/51158",
+     "role": "Scratches",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Tres Leches (Triboro Trilogy)",
+   "type_": "track"
+  },
+  {
+   "duration": "0:26",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 256903,
+     "join": "",
+     "name": "Nastee",
+     "resource_url": "https://api.discogs.com/artists/256903",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Charlie Rock Shout - Skit",
+   "type_": "track"
+  },
+  {
+   "duration": "3:48",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 103863,
+     "join": "",
+     "name": "Chris Conway",
+     "resource_url": "https://api.discogs.com/artists/103863",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 493125,
+     "join": "",
+     "name": "Nikos Teneketzis",
+     "resource_url": "https://api.discogs.com/artists/493125",
+     "role": "Mixed By [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 233918,
+     "join": "",
+     "name": "Danny O",
+     "resource_url": "https://api.discogs.com/artists/233918",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 233917,
+     "join": "",
+     "name": "EQ (7)",
+     "resource_url": "https://api.discogs.com/artists/233917",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Ken \"Duro\" Ifil",
+     "id": 234027,
+     "join": "",
+     "name": "Ken \"Duro\" Ifill",
+     "resource_url": "https://api.discogs.com/artists/234027",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2664137,
+     "join": "",
+     "name": "Kevin Stone (3)",
+     "resource_url": "https://api.discogs.com/artists/2664137",
+     "role": "Recorded By [Assistant]",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Fast Money",
+   "type_": "track"
+  },
+  {
+   "duration": "4:33",
+   "extraartists": [
+    {
+     "anv": "Ken \"Duro\" Ifil",
+     "id": 234027,
+     "join": "",
+     "name": "Ken \"Duro\" Ifill",
+     "resource_url": "https://api.discogs.com/artists/234027",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 510855,
+     "join": "",
+     "name": "Tom Hughes",
+     "resource_url": "https://api.discogs.com/artists/510855",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 37906,
+     "join": "",
+     "name": "Busta Rhymes",
+     "resource_url": "https://api.discogs.com/artists/37906",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 103863,
+     "join": "",
+     "name": "Chris Conway",
+     "resource_url": "https://api.discogs.com/artists/103863",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 493125,
+     "join": "",
+     "name": "Nikos Teneketzis",
+     "resource_url": "https://api.discogs.com/artists/493125",
+     "role": "Mixed By [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 16659,
+     "join": "",
+     "name": "Showbiz",
+     "resource_url": "https://api.discogs.com/artists/16659",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D5",
+   "title": "Parental Discretion",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/28492594-Big-Pun-Capital-Punishment",
+ "year": 2023
+}

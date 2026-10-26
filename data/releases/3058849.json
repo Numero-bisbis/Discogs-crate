@@ -1,0 +1,93 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 30958,
+   "join": "",
+   "name": "Floorplan",
+   "resource_url": "https://api.discogs.com/artists/30958",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Fhfy3VoCd6BBt6pK26B4tWmwq20lcD92MPg8jXdt89c/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMwOTU4/LTE3Njc0OTM4Mjct/Nzk4NC5wbmc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 3058849,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/6hW5s8AHItRdSuMTVbmDL_6hcCLgWOh9vIOh9F1TrzI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTg4/NDktMTQ1MDE2MDA0/NC04ODU5LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/6hW5s8AHItRdSuMTVbmDL_6hcCLgWOh9vIOh9F1TrzI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTg4/NDktMTQ1MDE2MDA0/NC04ODU5LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/cNpR4y_8oakV4r3P1IBEk_nAkA0p4ZGHzmJsGxYoo7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTg4/NDktMTQ1MDE2MDA0/NC04ODU5LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "M.PM13",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 399,
+   "name": "M-Plant",
+   "resource_url": "https://api.discogs.com/labels/399",
+   "thumbnail_url": "https://i.discogs.com/dFqTzreefpixoBAwDdMslAZDWBjyJqTK7u0vw0T8qVk/rs:fit/g:sm/q:90/h:46/w:277/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM5OS0x/MjU0MTk4Mjc4LnBu/Zw.jpeg"
+  }
+ ],
+ "notes": "Repressed several times since Nov. 2016.",
+ "released": "2011-08-22",
+ "styles": [
+  "House",
+  "Techno",
+  "Garage House"
+ ],
+ "title": "Sanctified EP",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "",
+   "title": "This Side",
+   "type_": "heading"
+  },
+  {
+   "duration": "",
+   "position": "A",
+   "title": "We Magnify His Name",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "",
+   "title": "That Side",
+   "type_": "heading"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Baby Baby",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Basic Principle",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/3058849-Floorplan-Sanctified-EP",
+ "year": 2011
+}

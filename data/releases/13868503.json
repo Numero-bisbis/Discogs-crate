@@ -1,0 +1,113 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 750,
+   "join": "&",
+   "name": "Laurent Garnier",
+   "resource_url": "https://api.discogs.com/artists/750",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/KYhG25JKsGiQwIZKcT5A6iEr6VInZ2gp1dVSgdEJF7k/rs:fit/g:sm/q:90/h:600/w:459/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1MC0x/NjQ0NTYxNDM1LTUx/NjYuanBlZw.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 2861279,
+   "join": "",
+   "name": "Chambray",
+   "resource_url": "https://api.discogs.com/artists/2861279",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/m9q6D2Gw0pWgxM8vzeqc9pQ4af8DNyeDNGs10eMxMjA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4NjEy/NzktMTQwODA1MDg2/NC0yNzAyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM",
+    "Single"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13868503,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/lOTqC65QG2E259fPsQSi9QpFoHk01QhK6PkbmnYEDyI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODY4/NTAzLTE2MDEyMzQ5/ODMtOTM5My5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/lOTqC65QG2E259fPsQSi9QpFoHk01QhK6PkbmnYEDyI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODY4/NTAzLTE2MDEyMzQ5/ODMtOTM5My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/nXrW7dfdcTbWme-BwI9XcG2iwQfAbkx-aHS6fN4mLUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODY4/NTAzLTE2MDEyMzQ5/ODMtOTM5My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "REKIDS141",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 58500,
+   "name": "REKIDS",
+   "resource_url": "https://api.discogs.com/labels/58500",
+   "thumbnail_url": "https://i.discogs.com/w40lEhAP12Fa57pagXBDloWhiokqZ5OnALhl6r2L23Q/rs:fit/g:sm/q:90/h:250/w:236/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4NTAw/LTExNTIxMjM0NzMu/anBlZw.jpeg"
+  }
+ ],
+ "notes": "℗ & © 2019 Rekids Ltd.\nMade in France\n\nSide A plays at 45 RPM, side B at 33 ⅓ RPM.",
+ "released": "2019-07-12",
+ "styles": [
+  "Techno",
+  "Tech House"
+ ],
+ "title": "Feelin’ Good",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Feelin’ Good",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 29782,
+     "join": "",
+     "name": "Radio Slave",
+     "resource_url": "https://api.discogs.com/artists/29782",
+     "role": "Remix, Producer [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Feelin’ Good (Radio Slave Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 29782,
+     "join": "",
+     "name": "Radio Slave",
+     "resource_url": "https://api.discogs.com/artists/29782",
+     "role": "Remix, Producer [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Feelin’ Good (Radio Slave Revenge Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13868503-Laurent-Garnier-Chambray-Feelin-Good",
+ "year": 2019
+}

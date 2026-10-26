@@ -1,0 +1,99 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 8254008,
+   "join": "",
+   "name": "Margee (2)",
+   "resource_url": "https://api.discogs.com/artists/8254008",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/jebB6Tno2Qy_AtgWiGIGHPuSyjn-KWwCCkPTeslhxgg/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgyNTQw/MDgtMTc0NzAzNDI3/Ni05MTIyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": null,
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 20159635,
+ "images": [],
+ "labels": [
+  {
+   "catno": "OGOOD003",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1897329,
+   "name": "Other Goodness",
+   "resource_url": "https://api.discogs.com/labels/1897329",
+   "thumbnail_url": "https://i.discogs.com/EkDxYOz89ISTP6ivGZ1ALFajPBcl7WszJEePEa57YK4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4OTcz/MjktMTU5OTczNDMw/Ny04NzA0LmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2021",
+ "styles": [
+  "House",
+  "Deep House",
+  "Downtempo"
+ ],
+ "title": "In My Sleep",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "In My Sleep",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1098715,
+     "join": "",
+     "name": "DJ Nature",
+     "resource_url": "https://api.discogs.com/artists/1098715",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "In My Sleep (DJ Nature Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Wrong Dream",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1118413,
+     "join": "",
+     "name": "Hardway Brothers",
+     "resource_url": "https://api.discogs.com/artists/1118413",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Wrong Dream (Hardway Bros Cosmic Intervention)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/20159635-Margee-2-In-My-Sleep",
+ "year": 2021
+}

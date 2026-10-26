@@ -1,0 +1,71 @@
+{
+ "artists": [
+  {
+   "anv": "Rebuke",
+   "id": 6619611,
+   "join": "",
+   "name": "Rebūke",
+   "resource_url": "https://api.discogs.com/artists/6619611",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Tgzlk8BjXr-ZaF-NCIINhZsf1lcaNXNc0UcpeC_ciFw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY2MTk2/MTEtMTU0NTYxMzg5/MC0xNDUyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\""
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12930998,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/JQ19hLDVjZPGGngaamcArwWtvKITU5WLyE0ljLdMU2k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMw/OTk4LTE1NDUzMTg1/NzEtNTg5My5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/JQ19hLDVjZPGGngaamcArwWtvKITU5WLyE0ljLdMU2k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMw/OTk4LTE1NDUzMTg1/NzEtNTg5My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/UPd4X7GODsZQK6eZXmtwRyqj86W8SPDLD5wqKX6o8SA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMw/OTk4LTE1NDUzMTg1/NzEtNTg5My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "HOTC126",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 192936,
+   "name": "Hot Creations",
+   "resource_url": "https://api.discogs.com/labels/192936",
+   "thumbnail_url": "https://i.discogs.com/qtgixzWlAQJiAzHWhsJg-ySTVNFuLhHKZ-e4q1LOPVs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5Mjkz/Ni0xNDk3NTYwNzIx/LTQ4MjUucG5n.jpeg"
+  }
+ ],
+ "notes": "℗ & © 2018 Hot Creations\nMade in France",
+ "released": "2018-12-07",
+ "styles": [
+  "Tech House"
+ ],
+ "title": "Along Came Polly",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Along Came Polly",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Rolo",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12930998-Rebuke-Along-Came-Polly",
+ "year": 2018
+}

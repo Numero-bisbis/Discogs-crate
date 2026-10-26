@@ -1,0 +1,107 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2447,
+   "join": "",
+   "name": "Frankie Knuckles",
+   "resource_url": "https://api.discogs.com/artists/2447",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/3afiX4kfQMA1e00bjIupr8EU_IJ57guSV7V1NP21Y48/rs:fit/g:sm/q:90/h:600/w:494/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0NDct/MTUxMTg5OTkzNi0y/OTM5LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "Reissue",
+    "Remastered",
+    "Repress"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Red"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 14955499,
+ "images": [
+  {
+   "height": 381,
+   "resource_url": "https://i.discogs.com/lG8a-7wA_en9bq3zdK_C4vmekA2oJrPsixY_bt5csyI/rs:fit/g:sm/q:90/h:381/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU1/NDk5LTE1ODQ3MzUw/NzgtMjMwMi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/lG8a-7wA_en9bq3zdK_C4vmekA2oJrPsixY_bt5csyI/rs:fit/g:sm/q:90/h:381/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU1/NDk5LTE1ODQ3MzUw/NzgtMjMwMi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Bl_pSAqEed1AJ8knd-vtTi2Z2jhvOqx0R24Im-pvyns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU1/NDk5LTE1ODQ3MzUw/NzgtMjMwMi5qcGVn.jpeg",
+   "width": 350
+  }
+ ],
+ "labels": [
+  {
+   "catno": "TX150",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 267,
+   "name": "Trax Records",
+   "resource_url": "https://api.discogs.com/labels/267",
+   "thumbnail_url": "https://i.discogs.com/RfPniiTqugh8jfJkgvo9zTYrCY88HUQQyONi5VAHVJ4/rs:fit/g:sm/q:90/h:282/w:564/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Ny0x/NDg5Mjg1OTY1LTU0/MjAuanBlZw.jpeg"
+  }
+ ],
+ "notes": "Red vinyl repress based on the 2015 re-issue & re-master of \"Baby Wants To Ride/Your Love\" (TX150) using replicas of the original labels.\nHence why the label states the release is distributed by Precision Records which is not the case.\n\nThe durations on the labels state Side A at 5:25 and Side B at 5:20. \nThe correct durations are 8:32 for Side A & 6:46 for Side B.\nLabel also states play at 33.3 RPM but actually plays at 45 RPM. \n\nOriginally released in 1987.",
+ "released": "2020-03-20",
+ "styles": [
+  "House"
+ ],
+ "title": "Baby Wants To Ride / Your Love",
+ "tracklist": [
+  {
+   "duration": "8:32",
+   "extraartists": [
+    {
+     "anv": "Walton",
+     "id": 362476,
+     "join": "",
+     "name": "Byron Walton",
+     "resource_url": "https://api.discogs.com/artists/362476",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Knuckles",
+     "id": 2447,
+     "join": "",
+     "name": "Frankie Knuckles",
+     "resource_url": "https://api.discogs.com/artists/2447",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "Baby Wants To Ride",
+   "type_": "track"
+  },
+  {
+   "duration": "6:46",
+   "extraartists": [
+    {
+     "anv": "Walton",
+     "id": 362476,
+     "join": "",
+     "name": "Byron Walton",
+     "resource_url": "https://api.discogs.com/artists/362476",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B",
+   "title": "Your Love",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14955499-Frankie-Knuckles-Baby-Wants-To-Ride-Your-Love",
+ "year": 2020
+}

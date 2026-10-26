@@ -1,0 +1,766 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation",
+    "Repress"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Reggae",
+  "Latin",
+  "Funk / Soul"
+ ],
+ "id": 11010709,
+ "images": [
+  {
+   "height": 250,
+   "resource_url": "https://i.discogs.com/qpZ0HbMHDQ6OEJWCZ9Q31yn0oBrIn34PDfaUWikNSTs/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDEw/NzA5LTE1MDgxNzkx/NjEtNDQ0Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/qpZ0HbMHDQ6OEJWCZ9Q31yn0oBrIn34PDfaUWikNSTs/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDEw/NzA5LTE1MDgxNzkx/NjEtNDQ0Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/GOF-MMRyMWZd44htmA5YdVuoayPUXZkkKvmm5ObIN6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDEw/NzA5LTE1MDgxNzkx/NjEtNDQ0Mi5qcGVn.jpeg",
+   "width": 250
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SNDWLP018",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 32575,
+   "name": "Soundway",
+   "resource_url": "https://api.discogs.com/labels/32575",
+   "thumbnail_url": "https://i.discogs.com/W28PrZN1MStO3sfOn5PDIBbxBu1RHKflaPE5qDlGOSw/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyNTc1/LTE0NDE4MzE2MDct/NjAzNC5qcGVn.jpeg"
+  }
+ ],
+ "notes": "\nThis 2017 re-issue has extra matrix numbers included & the layout on the inside of the gatefold sleeve is different\n\nSubtitle: Calypso Panameño, Guajira Jazz & Cumbia Típica On The Isthmus 1960-1975\n\n\nArtwork and design at Reesycle Design.\nMastering and vinyl restoration at Sound Mastering, London.\nPressed at MPO.\n\n\n",
+ "released": "2017-08-24",
+ "styles": [
+  "Calypso",
+  "Boogaloo",
+  "Salsa",
+  "Descarga",
+  "Guaguancó",
+  "Funk"
+ ],
+ "title": "Panama! 3 Calypso Panameño, Guajira Jazz & Cumbia Típica On The Isthmus 1960-1975 ",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1628843,
+     "join": "",
+     "name": "Lord Panama And The Stickers",
+     "resource_url": "https://api.discogs.com/artists/1628843",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:00",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3587449,
+     "join": "",
+     "name": "George Allen (10)",
+     "resource_url": "https://api.discogs.com/artists/3587449",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Fire Down Below",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2901659,
+     "join": "Con",
+     "name": "Orquesta De Armando Boza",
+     "resource_url": "https://api.discogs.com/artists/2901659",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494612,
+     "join": "",
+     "name": "Manito Johnson",
+     "resource_url": "https://api.discogs.com/artists/1494612",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:41",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1662116,
+     "join": "",
+     "name": "Red George",
+     "resource_url": "https://api.discogs.com/artists/1662116",
+     "role": "Clarinet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494612,
+     "join": "",
+     "name": "Manito Johnson",
+     "resource_url": "https://api.discogs.com/artists/1494612",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1662128,
+     "join": "",
+     "name": "Armando Boza",
+     "resource_url": "https://api.discogs.com/artists/1662128",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Samba Calypso",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 479135,
+     "join": "",
+     "name": "Papi Brandao Y Sus Ejecutivos",
+     "resource_url": "https://api.discogs.com/artists/479135",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:08",
+   "extraartists": [
+    {
+     "anv": "Rodriguez Fife",
+     "id": 1535976,
+     "join": "",
+     "name": "Guillermo Rodríguez Fiffe",
+     "resource_url": "https://api.discogs.com/artists/1535976",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Bilongo",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1473762,
+     "join": "",
+     "name": "Ceferino Nieto",
+     "resource_url": "https://api.discogs.com/artists/1473762",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:55",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1473762,
+     "join": "",
+     "name": "Ceferino Nieto",
+     "resource_url": "https://api.discogs.com/artists/1473762",
+     "role": "Accordion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1662122,
+     "join": "",
+     "name": "Papi Arosemena",
+     "resource_url": "https://api.discogs.com/artists/1662122",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "El Pajaro Zum Zum",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1628841,
+     "join": "",
+     "name": "Little Francisco Greaves",
+     "resource_url": "https://api.discogs.com/artists/1628841",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:57",
+   "extraartists": [
+    {
+     "anv": "Franklyn Greaves",
+     "id": 1662115,
+     "join": "",
+     "name": "Franklin Greaves",
+     "resource_url": "https://api.discogs.com/artists/1662115",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1662115,
+     "join": "",
+     "name": "Franklin Greaves",
+     "resource_url": "https://api.discogs.com/artists/1662115",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Moving-Grooving",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 479137,
+     "join": "",
+     "name": "Los Silvertones",
+     "resource_url": "https://api.discogs.com/artists/479137",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:18",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1494648,
+     "join": "",
+     "name": "Ricardo Bermudez",
+     "resource_url": "https://api.discogs.com/artists/1494648",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Up Tight",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1662119,
+     "join": "Con",
+     "name": "Orquesta Los Embajadores",
+     "resource_url": "https://api.discogs.com/artists/1662119",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1473760,
+     "join": "",
+     "name": "Camilo Azuquita",
+     "resource_url": "https://api.discogs.com/artists/1473760",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:55",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1473760,
+     "join": "",
+     "name": "Camilo Azuquita",
+     "resource_url": "https://api.discogs.com/artists/1473760",
+     "role": "Written-By, Lead Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Shingalin En Panama",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1662129,
+     "join": "With",
+     "name": "Soul Apolla",
+     "resource_url": "https://api.discogs.com/artists/1662129",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1662124,
+     "join": "",
+     "name": "Fredrick Clarke",
+     "resource_url": "https://api.discogs.com/artists/1662124",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:15",
+   "extraartists": [
+    {
+     "anv": "Frederick Clarke",
+     "id": 1662124,
+     "join": "",
+     "name": "Fredrick Clarke",
+     "resource_url": "https://api.discogs.com/artists/1662124",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Chombo Pa' La Tienda",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1662121,
+     "join": "Con",
+     "name": "Amalia Delgado",
+     "resource_url": "https://api.discogs.com/artists/1662121",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1662123,
+     "join": "",
+     "name": "El Conjunto Inspiracion Santeña",
+     "resource_url": "https://api.discogs.com/artists/1662123",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:58",
+   "position": "B3",
+   "title": "Carretera Al Canajagua",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1662117,
+     "join": "",
+     "name": "Yin Carrizo",
+     "resource_url": "https://api.discogs.com/artists/1662117",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:54",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1662117,
+     "join": "",
+     "name": "Yin Carrizo",
+     "resource_url": "https://api.discogs.com/artists/1662117",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "20 De Enero En Ocu",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Maximo Rodriguez Y Las Estrellas Panameños",
+     "id": 1494541,
+     "join": "",
+     "name": "Maximo Rodriguez Y Sus Estrellas Panameñas",
+     "resource_url": "https://api.discogs.com/artists/1494541",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1662126,
+     "join": "",
+     "name": "Carlos Guerra",
+     "resource_url": "https://api.discogs.com/artists/1662126",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Chevere Que Chevere",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1444069,
+     "join": "With",
+     "name": "Ralph Weeks",
+     "resource_url": "https://api.discogs.com/artists/1444069",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1662112,
+     "join": "",
+     "name": "The Telecasters",
+     "resource_url": "https://api.discogs.com/artists/1662112",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:54",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1662114,
+     "join": "",
+     "name": "Felix Wilkins",
+     "resource_url": "https://api.discogs.com/artists/1662114",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Gua-Jazz",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Beby Castor",
+     "id": 6448904,
+     "join": "Con",
+     "name": "Beby Castorina",
+     "resource_url": "https://api.discogs.com/artists/6448904",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4870312,
+     "join": "",
+     "name": "Los Juveniles (2)",
+     "resource_url": "https://api.discogs.com/artists/4870312",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:26",
+   "position": "C1",
+   "title": "Lloraras",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1628845,
+     "join": "",
+     "name": "Los Salvajes Del Ritmo",
+     "resource_url": "https://api.discogs.com/artists/1628845",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:46",
+   "extraartists": [
+    {
+     "anv": "Vladimir Vassilief",
+     "id": 1086476,
+     "join": "",
+     "name": "Vladimir Vassilieff",
+     "resource_url": "https://api.discogs.com/artists/1086476",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "St. John's Guaguanco",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 892028,
+     "join": "",
+     "name": "Black Czar",
+     "resource_url": "https://api.discogs.com/artists/892028",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:59",
+   "position": "C3",
+   "title": "Bamboo Dance",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1494645,
+     "join": "",
+     "name": "Lord Cobra",
+     "resource_url": "https://api.discogs.com/artists/1494645",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:03",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1662132,
+     "join": "",
+     "name": "Wilfred Berry",
+     "resource_url": "https://api.discogs.com/artists/1662132",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Colón, Colón",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1628842,
+     "join": "",
+     "name": "Conjunto Panama",
+     "resource_url": "https://api.discogs.com/artists/1628842",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1662122,
+     "join": "",
+     "name": "Papi Arosemena",
+     "resource_url": "https://api.discogs.com/artists/1662122",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C5",
+   "title": "Trigueñito Y Solo",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1628837,
+     "join": "",
+     "name": "Lord Cobra And His Sugar Tone Band",
+     "resource_url": "https://api.discogs.com/artists/1628837",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:02",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1662132,
+     "join": "",
+     "name": "Wilfred Berry",
+     "resource_url": "https://api.discogs.com/artists/1662132",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C6",
+   "title": "Partido Calpysonian",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 479130,
+     "join": "",
+     "name": "Los Mozambiques",
+     "resource_url": "https://api.discogs.com/artists/479130",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:42",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1662113,
+     "join": "",
+     "name": "Ernesto Atherley",
+     "resource_url": "https://api.discogs.com/artists/1662113",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Llegamos Ya",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1628839,
+     "join": "",
+     "name": "Panaswing",
+     "resource_url": "https://api.discogs.com/artists/1628839",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:29",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 354707,
+     "join": "",
+     "name": "Ismael Rivera",
+     "resource_url": "https://api.discogs.com/artists/354707",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Me Lo Dijo Una Gitana",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1662127,
+     "join": "Con",
+     "name": "Sir Valentino",
+     "resource_url": "https://api.discogs.com/artists/1662127",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1662125,
+     "join": "",
+     "name": "Combo Esclavos Alegres",
+     "resource_url": "https://api.discogs.com/artists/1662125",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:19",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1662130,
+     "join": "",
+     "name": "Val Reid",
+     "resource_url": "https://api.discogs.com/artists/1662130",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Masters Are Gone",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3342010,
+     "join": "",
+     "name": "Los Invasores (2)",
+     "resource_url": "https://api.discogs.com/artists/3342010",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:27",
+   "position": "D4",
+   "title": "El Raton",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 479137,
+     "join": "",
+     "name": "Los Silvertones",
+     "resource_url": "https://api.discogs.com/artists/479137",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1662122,
+     "join": "",
+     "name": "Papi Arosemena",
+     "resource_url": "https://api.discogs.com/artists/1662122",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D5",
+   "title": "Carmen",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11010709-Various-Panama-3-Calypso-Panameño-Guajira-Jazz-Cumbia-Típica-On-The-Isthmus-1960-1975-",
+ "year": 2017
+}

@@ -1,0 +1,113 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 19599,
+   "join": "",
+   "name": "Ray Barretto",
+   "resource_url": "https://api.discogs.com/artists/19599",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/5u-7z7xDfytfblGhd_a5aQZ5EMXODw0_h6dpwu9cOtc/rs:fit/g:sm/q:90/h:600/w:416/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5NTk5/LTE3NjM5OTc5MjMt/NDU2Ny5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Latin",
+  "Funk / Soul"
+ ],
+ "id": 2659391,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/dEpHFBqNMNk5wetAbHbwnZq8CoFr3OVnxyVloEj4oJk/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTkz/OTEtMTc2ODA3NTA4/Mi01ODM5LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/dEpHFBqNMNk5wetAbHbwnZq8CoFr3OVnxyVloEj4oJk/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTkz/OTEtMTc2ODA3NTA4/Mi01ODM5LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/XSEraFNWwAIgVKRU1_UNDeB-veRkQwZfubx-ikcQbSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTkz/OTEtMTc2ODA3NTA4/Mi01ODM5LmpwZWc.jpeg",
+   "width": 592
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SLP 346",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 36950,
+   "name": "Fania Records",
+   "resource_url": "https://api.discogs.com/labels/36950",
+   "thumbnail_url": "https://i.discogs.com/y5-U-nukJzqSWFonI3oqT9GwaRESk_qCkHiIFePJ5aw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2OTUw/LTE1NzcyOTc0MzEt/Mzg4My5wbmc.jpeg"
+  }
+ ],
+ "notes": "2002 or later reissue as identified by Rainbo S-numbers in runouts and the cover construction (bright white inside) and quality of the printing (copied from an original LP cover).\n\nLabel A with typo. Actual duration of A1 is 5:49, not 6:49 as printed on release. ",
+ "released": null,
+ "styles": [
+  "Boogaloo",
+  "Latin Jazz"
+ ],
+ "title": "Acid",
+ "tracklist": [
+  {
+   "duration": "5:49",
+   "position": "A1",
+   "title": "El Nuevo Baretto",
+   "type_": "track"
+  },
+  {
+   "duration": "2:42",
+   "position": "A2",
+   "title": "Mercy, Mercy, Baby",
+   "type_": "track"
+  },
+  {
+   "duration": "5:05",
+   "position": "A3",
+   "title": "Acid",
+   "type_": "track"
+  },
+  {
+   "duration": "2:42",
+   "position": "A4",
+   "title": "A Deeper Shade Of Soul",
+   "type_": "track"
+  },
+  {
+   "duration": "3:46",
+   "position": "B1",
+   "title": "The Soul Drummers",
+   "type_": "track"
+  },
+  {
+   "duration": "3:48",
+   "position": "B2",
+   "title": "Sola Te Dejare",
+   "type_": "track"
+  },
+  {
+   "duration": "2:26",
+   "position": "B3",
+   "title": "Teacher Of Love",
+   "type_": "track"
+  },
+  {
+   "duration": "8:25",
+   "position": "B4",
+   "title": "Espiritu Libre",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/2659391-Ray-Barretto-Acid",
+ "year": 0
+}

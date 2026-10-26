@@ -1,0 +1,331 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 66916,
+   "join": "",
+   "name": "The Alan Parsons Project",
+   "resource_url": "https://api.discogs.com/artists/66916",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/9KI64wMWFiSm4xOmDBZEk0-0okRbrHeRoa7PrBs5ZjE/rs:fit/g:sm/q:90/h:387/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY2OTE2/LTE1MTc2Njk5MDct/NTEyMS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "180 gram"
+  }
+ ],
+ "genres": [
+  "Rock"
+ ],
+ "id": 9763329,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/-dHIglYpwfA6krkFFuNNSHLMJxuZWVmOVIfJ-lBomSM/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjMz/MjktMTQ4ODM2MjYz/MS03OTg5LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/-dHIglYpwfA6krkFFuNNSHLMJxuZWVmOVIfJ-lBomSM/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjMz/MjktMTQ4ODM2MjYz/MS03OTg5LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/7DZuvZMAMvwojLv6cSndBKu3Y3NkrC2SUyp-RVCHwvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjMz/MjktMTQ4ODM2MjYz/MS03OTg5LmpwZWc.jpeg",
+   "width": 591
+  }
+ ],
+ "labels": [
+  {
+   "catno": "88985375411",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 362,
+   "name": "Arista",
+   "resource_url": "https://api.discogs.com/labels/362",
+   "thumbnail_url": "https://i.discogs.com/LtFQ5vk9L_iX2QuscmOFE0TAcLtsQB7olAcijyQUZdA/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2Mi0x/NTUwNzg3ODg4LTc0/ODguanBlZw.jpeg"
+  },
+  {
+   "catno": "88985375411",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  },
+  {
+   "catno": "88985375411",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 15491,
+   "name": "Legacy",
+   "resource_url": "https://api.discogs.com/labels/15491",
+   "thumbnail_url": "https://i.discogs.com/jk2im_GXsDlf_1qNdX0KOoZUX6ivAIvgJH0TEBVW7ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDkx/LTE0OTg4MzQ3MDgt/NzQwOS5wbmc.jpeg"
+  }
+ ],
+ "notes": "I Robot...\nThe story of the rise of the machine and the decline of man, which paradoxically coincided with his discovery of the wheel... And a warning that his brief dominance of this planet will probably end, because man tried to create robot in his own image.\n\nThe album was recorded and mixed at Abbey Road Studios, London, between December 1976 and March 1977.\n\n℗ 1977 Arista Records LLC © 1977, 2016 Arista Records LLC / Made in the EU.\n\nSteve Harley and Duncan MacKay appear by courtesy of E.M.I. Records Ltd.\nAllan Clarke appear by courtesy of Chigreen Ltd.\nPeter Straker appear by courtesy of Goose Productions Ltd. \n\n180-gram Superior Audio Quality\nGatefold, sticker.\n\nThe runout is identical to the 2011 [url=https://www.discogs.com/The-Alan-Parsons-Project-I-Robot/release/3131556]Music On Vinyl release[/url].",
+ "released": "2017-02-01",
+ "styles": [
+  "Prog Rock"
+ ],
+ "title": "I Robot",
+ "tracklist": [
+  {
+   "duration": "6:06",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 157075,
+     "join": "",
+     "name": "Alan Parsons",
+     "resource_url": "https://api.discogs.com/artists/157075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 218601,
+     "join": "",
+     "name": "Eric Woolfson",
+     "resource_url": "https://api.discogs.com/artists/218601",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "I Robot",
+   "type_": "track"
+  },
+  {
+   "duration": "3:19",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 157075,
+     "join": "",
+     "name": "Alan Parsons",
+     "resource_url": "https://api.discogs.com/artists/157075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 218601,
+     "join": "",
+     "name": "Eric Woolfson",
+     "resource_url": "https://api.discogs.com/artists/218601",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "I Wouldn't Want To Be Like You",
+   "type_": "track"
+  },
+  {
+   "duration": "4:05",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 157075,
+     "join": "",
+     "name": "Alan Parsons",
+     "resource_url": "https://api.discogs.com/artists/157075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 218601,
+     "join": "",
+     "name": "Eric Woolfson",
+     "resource_url": "https://api.discogs.com/artists/218601",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Some Other Time",
+   "type_": "track"
+  },
+  {
+   "duration": "3:50",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 157075,
+     "join": "",
+     "name": "Alan Parsons",
+     "resource_url": "https://api.discogs.com/artists/157075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 218601,
+     "join": "",
+     "name": "Eric Woolfson",
+     "resource_url": "https://api.discogs.com/artists/218601",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Breakdown",
+   "type_": "track"
+  },
+  {
+   "duration": "4:21",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 157075,
+     "join": "",
+     "name": "Alan Parsons",
+     "resource_url": "https://api.discogs.com/artists/157075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 218601,
+     "join": "",
+     "name": "Eric Woolfson",
+     "resource_url": "https://api.discogs.com/artists/218601",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Don't Let It Show",
+   "type_": "track"
+  },
+  {
+   "duration": "5:21",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 157075,
+     "join": "",
+     "name": "Alan Parsons",
+     "resource_url": "https://api.discogs.com/artists/157075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 218601,
+     "join": "",
+     "name": "Eric Woolfson",
+     "resource_url": "https://api.discogs.com/artists/218601",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "The Voice",
+   "type_": "track"
+  },
+  {
+   "duration": "3:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 157075,
+     "join": "",
+     "name": "Alan Parsons",
+     "resource_url": "https://api.discogs.com/artists/157075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 218601,
+     "join": "",
+     "name": "Eric Woolfson",
+     "resource_url": "https://api.discogs.com/artists/218601",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Nucleus",
+   "type_": "track"
+  },
+  {
+   "duration": "3:43",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 157075,
+     "join": "",
+     "name": "Alan Parsons",
+     "resource_url": "https://api.discogs.com/artists/157075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 218601,
+     "join": "",
+     "name": "Eric Woolfson",
+     "resource_url": "https://api.discogs.com/artists/218601",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Day After Day (The Show Must Go On)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:05",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 217456,
+     "join": "",
+     "name": "Andrew Powell",
+     "resource_url": "https://api.discogs.com/artists/217456",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Total Eclipse",
+   "type_": "track"
+  },
+  {
+   "duration": "3:37",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 157075,
+     "join": "",
+     "name": "Alan Parsons",
+     "resource_url": "https://api.discogs.com/artists/157075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 218601,
+     "join": "",
+     "name": "Eric Woolfson",
+     "resource_url": "https://api.discogs.com/artists/218601",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Genesis CH.1. V.32",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/9763329-The-Alan-Parsons-Project-I-Robot",
+ "year": 2017
+}

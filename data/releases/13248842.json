@@ -1,0 +1,107 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3796577,
+   "join": " &",
+   "name": "Paul Rudder",
+   "resource_url": "https://api.discogs.com/artists/3796577",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/sisCqafiKSR_w5ZjlIqjEtr44D0_oJ0XqdKBCx79fyY/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM3OTY1/NzctMTY4OTY5NTk0/OS0yNTA5LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 3443884,
+   "join": "",
+   "name": "Hurlee",
+   "resource_url": "https://api.discogs.com/artists/3443884",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/BClb0YvbPMf4-xhcZd2TkSwtdgQLyP_hacbQD2bLQeM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM0NDM4/ODQtMTU0OTA1ODYx/Mi04OTcyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13248842,
+ "images": [
+  {
+   "height": 465,
+   "resource_url": "https://i.discogs.com/Geya7S7HU-coaBqm3FEm5JK4nCCviKUfidy1BBz8qyk/rs:fit/g:sm/q:90/h:465/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQ4/ODQyLTE1NTA2OTU1/MTEtMTA0NS5wbmc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Geya7S7HU-coaBqm3FEm5JK4nCCviKUfidy1BBz8qyk/rs:fit/g:sm/q:90/h:465/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQ4/ODQyLTE1NTA2OTU1/MTEtMTA0NS5wbmc.jpeg",
+   "uri150": "https://i.discogs.com/NxgMNDA7tO4NziVH6Awpmb6PzmTaYUTm0peChOjbfKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQ4/ODQyLTE1NTA2OTU1/MTEtMTA0NS5wbmc.jpeg",
+   "width": 466
+  }
+ ],
+ "labels": [
+  {
+   "catno": "FW003",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1719668,
+   "name": "Flat White Records (2)",
+   "resource_url": "https://api.discogs.com/labels/1719668",
+   "thumbnail_url": "https://i.discogs.com/CCa3nJIr8jk3_HT7jE7D87gTVaNaQaXLFKU3b3Dvehk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3MTk2/NjgtMTU3MzI0NzIw/MS0yOTI4LmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-02-22",
+ "styles": [
+  "House",
+  "Deep House",
+  "Disco"
+ ],
+ "title": "Got To Be EP",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Got To Be",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Three Hours Until Midnight",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Les Belles Dames",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4551585,
+     "join": "",
+     "name": "Danvers",
+     "resource_url": "https://api.discogs.com/artists/4551585",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Les Belles Dames (Danvers Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13248842-Paul-Rudder-Hurlee-Got-To-Be-EP",
+ "year": 2019
+}

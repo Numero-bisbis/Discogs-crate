@@ -1,0 +1,155 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 48393,
+   "join": "",
+   "name": "Digable Planets",
+   "resource_url": "https://api.discogs.com/artists/48393",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/051Pb4smcgXkQONhXfxiksAUV2PsMbBH7vXALYmg4M4/rs:fit/g:sm/q:90/h:338/w:526/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4Mzkz/LTE1MDI1NDY2NTIt/OTE3My5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "USA & Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Limited Edition",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 11634867,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/GfZPx4BM1E5rndfU3S9Dee0gg-igeTMnuqntT4hqprY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM0/ODY3LTE1MjAwMDU4/ODUtMjI0Ni5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/GfZPx4BM1E5rndfU3S9Dee0gg-igeTMnuqntT4hqprY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM0/ODY3LTE1MjAwMDU4/ODUtMjI0Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/OBuC0VILb-7y1tDSiOgigYixn9ZXA49zi0euRmS0Jj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM0/ODY3LTE1MjAwMDU4/ODUtMjI0Ni5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "MCR 924",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 303009,
+   "name": "Modern Classics Recordings",
+   "resource_url": "https://api.discogs.com/labels/303009",
+   "thumbnail_url": "https://i.discogs.com/Fbdi1w0pOqZrFo_1LieO8tya4SfasenyuLHMw_P_vD0/rs:fit/g:sm/q:90/h:381/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMzAw/OS0xMzcyMzYzODc0/LTYxMzAuanBlZw.jpeg"
+  },
+  {
+   "catno": "MCR 924",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 654,
+   "name": "Capitol Records",
+   "resource_url": "https://api.discogs.com/labels/654",
+   "thumbnail_url": "https://i.discogs.com/jOm50Ncnop3VOhKg0rYbdvq7epxn5mnXdOWfVQNjOBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1NC0x/NzgxODU0Mzk3LTU2/MzcuanBlZw.jpeg"
+  }
+ ],
+ "notes": "Sticker on shrink wrap:\n•First vinyl reissue\n•Expanded as a double LP for improved sound\n•Deep liner notes by Larry Mizell Jr. interviewing Ishmael “Butterfly” Butler\n•Lyrics included for the first time\n•2xLP housed in a deluxe wide spine jacket with booklet and inner sleeves\n• 25th Anniversary Edition",
+ "released": "2018-02-23",
+ "styles": [
+  "Jazzy Hip-Hop"
+ ],
+ "title": "Reachin' (A New Refutation Of Time And Space)",
+ "tracklist": [
+  {
+   "duration": "5:06",
+   "position": "A1",
+   "title": "It's Good To Be Here",
+   "type_": "track"
+  },
+  {
+   "duration": "4:31",
+   "position": "A2",
+   "title": "Pacifics (from the soundtrack to the motion picture \"N.Y. Is Red Hot\")",
+   "type_": "track"
+  },
+  {
+   "duration": "4:35",
+   "position": "A3",
+   "title": "Where I'm From",
+   "type_": "track"
+  },
+  {
+   "duration": "3:21",
+   "position": "B1",
+   "title": "What Cool Breezes Do",
+   "type_": "track"
+  },
+  {
+   "duration": "3:32",
+   "position": "B2",
+   "title": "Time & Space (A New Refutation Of)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:21",
+   "position": "B3",
+   "title": "Rebirth Of Slick (Cool Like That)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:27",
+   "position": "B4",
+   "title": "Last Of The Spiddyocks",
+   "type_": "track"
+  },
+  {
+   "duration": "3:41",
+   "position": "C1",
+   "title": "Jimmi Diggin' Cats",
+   "type_": "track"
+  },
+  {
+   "duration": "4:35",
+   "position": "C2",
+   "title": "La Femme Fétal",
+   "type_": "track"
+  },
+  {
+   "duration": "3:24",
+   "position": "C3",
+   "title": "Escapsim (Gettin' Free)",
+   "type_": "track"
+  },
+  {
+   "duration": "2:58",
+   "position": "C4",
+   "title": "Appointment At The Fat Clinic",
+   "type_": "track"
+  },
+  {
+   "duration": "3:18",
+   "position": "D1",
+   "title": "Nickel Bags",
+   "type_": "track"
+  },
+  {
+   "duration": "4:00",
+   "position": "D2",
+   "title": "Swoon Units",
+   "type_": "track"
+  },
+  {
+   "duration": "4:43",
+   "position": "D3",
+   "title": "Examination Of What",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11634867-Digable-Planets-Reachin-A-New-Refutation-Of-Time-And-Space",
+ "year": 2018
+}

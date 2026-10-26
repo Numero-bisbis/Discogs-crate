@@ -1,0 +1,171 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 9858,
+   "join": "&",
+   "name": "Quantic",
+   "resource_url": "https://api.discogs.com/artists/9858",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/6-Fs2Gmdhe_2hPDYbDKcC3Blusk1C0Qyg5lu5rxgSZ4/rs:fit/g:sm/q:90/h:600/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk4NTgt/MTUxODU0OTg0Ni05/MzUxLmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "Nidia Góngora",
+   "id": 1178008,
+   "join": "",
+   "name": "Nidia Sophia Gongora Bonilla",
+   "resource_url": "https://api.discogs.com/artists/1178008",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/G9yv4oHZgrNlfseMvsyrsvTETwRnPyYEkz-TdU29Eec/rs:fit/g:sm/q:90/h:417/w:414/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExNzgw/MDgtMTQyNDk1OTAz/NS02MzgyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Reggae",
+  "Latin",
+  "Funk / Soul"
+ ],
+ "id": 10302121,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/JtAOJuHmblORHxebGo2LGRf_sgpd1pM6UkS311ZXx44/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MTIxLTE0OTY4ODcy/NzYtNzUzMC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/JtAOJuHmblORHxebGo2LGRf_sgpd1pM6UkS311ZXx44/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MTIxLTE0OTY4ODcy/NzYtNzUzMC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/EjORe2QZbq1ZvKK1nnZpWowae_QIHV3NXrc7yZm9cj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MTIxLTE0OTY4ODcy/NzYtNzUzMC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "TRULP342",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2125,
+   "name": "Tru Thoughts",
+   "resource_url": "https://api.discogs.com/labels/2125",
+   "thumbnail_url": "https://i.discogs.com/nqFOwnvVBPaARwJdH_at29ZPGtgYIx2AxHg5xZ0ZXR8/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMjUt/MTU4NzY1OTQ0OS00/OTEyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Gatefold sleeve with download code.\nTrack A1, C3, D1, D5: \"Field Recording Made In Timbiqui\".\nTracks C1, D2, C3 and D5 are traditionals, there are no writing credits.",
+ "released": "2017-05-12",
+ "styles": [
+  "Soul",
+  "Funk",
+  "Cumbia"
+ ],
+ "title": "Curao",
+ "tracklist": [
+  {
+   "duration": "0:42",
+   "position": "A1",
+   "title": "Intro",
+   "type_": "track"
+  },
+  {
+   "duration": "6:39",
+   "position": "A2",
+   "title": "E Ye Ye",
+   "type_": "track"
+  },
+  {
+   "duration": "6:42",
+   "position": "A3",
+   "title": "Que Me Duele?",
+   "type_": "track"
+  },
+  {
+   "duration": "4:47",
+   "position": "B1",
+   "title": "Dub Del Pacifico (Version)",
+   "type_": "track"
+  },
+  {
+   "duration": "1:39",
+   "position": "B2",
+   "title": "Dios Promete (Edit)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:44",
+   "position": "B3",
+   "title": "Se Lo Ví",
+   "type_": "track"
+  },
+  {
+   "duration": "5:28",
+   "position": "B4",
+   "title": "Muévelo Negro (Edit)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:30",
+   "position": "C1",
+   "title": "Amor En Francia",
+   "type_": "track"
+  },
+  {
+   "duration": "4:27",
+   "position": "C2",
+   "title": "Ojos Vicheros",
+   "type_": "track"
+  },
+  {
+   "duration": "0:39",
+   "position": "C3",
+   "title": "Interludio III",
+   "type_": "track"
+  },
+  {
+   "duration": "5:22",
+   "position": "C4",
+   "title": "Ñanguita (Edit)",
+   "type_": "track"
+  },
+  {
+   "duration": "0:40",
+   "position": "D1",
+   "title": "Interludio II",
+   "type_": "track"
+  },
+  {
+   "duration": "4:31",
+   "position": "D2",
+   "title": "María No Me Llevo",
+   "type_": "track"
+  },
+  {
+   "duration": "5:33",
+   "position": "D3",
+   "title": "Un Canto A Mi Tierra (Edit)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:25",
+   "position": "D4",
+   "title": "No Soy Del Valle (Version)",
+   "type_": "track"
+  },
+  {
+   "duration": "1:30",
+   "position": "D5",
+   "title": "Interludio IV",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10302121-Quantic-Nidia-Góngora-Curao",
+ "year": 2017
+}

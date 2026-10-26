@@ -1,0 +1,219 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3358,
+   "join": "",
+   "name": "Cassius",
+   "resource_url": "https://api.discogs.com/artists/3358",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/GRgnPfcxW1fSRnD499JHaf5O4awBg7XAPVuL1zqB59I/rs:fit/g:sm/q:90/h:513/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzNTgt/MTYxMzg1NzY0MS00/ODY3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "GZ Pressing"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13700483,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/URDW4M0S5ZwW15WfHIkthM9wIq7Icf6mJ-Gk4rv17Lo/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzAw/NDgzLTE1NjAyNDE5/ODktODI0Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/URDW4M0S5ZwW15WfHIkthM9wIq7Icf6mJ-Gk4rv17Lo/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzAw/NDgzLTE1NjAyNDE5/ODktODI0Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/IgyRQyN1OqGYV3iwNfDMtjO2n3lxnXwZtWtgJDaWpr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzAw/NDgzLTE1NjAyNDE5/ODktODI0Ny5qcGVn.jpeg",
+   "width": 590
+  }
+ ],
+ "labels": [
+  {
+   "catno": "none",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 952,
+   "name": "Caroline Records",
+   "resource_url": "https://api.discogs.com/labels/952",
+   "thumbnail_url": "https://i.discogs.com/ecOuq05QxNKnHwjLES7LnJqR-7HGsu3-ZC1Bf-ucvsQ/rs:fit/g:sm/q:90/h:310/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk1Mi0x/NDczNTU3NDc0LTUx/MjcuanBlZw.jpeg"
+  }
+ ],
+ "notes": "Comes with a poster.\n\n℗ & © 2019 Love Supreme/Justice",
+ "released": "2019-06-21",
+ "styles": [
+  "House",
+  "Disco",
+  "Synth-pop"
+ ],
+ "title": "Dreems",
+ "tracklist": [
+  {
+   "duration": "3:00",
+   "position": "A1",
+   "title": "Summer",
+   "type_": "track"
+  },
+  {
+   "duration": "4:19",
+   "extraartists": [
+    {
+     "anv": "John Gourley",
+     "id": 642193,
+     "join": "",
+     "name": "John Baldwin Gourley",
+     "resource_url": "https://api.discogs.com/artists/642193",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Nothing About You",
+   "type_": "track"
+  },
+  {
+   "duration": "2:36",
+   "position": "B1",
+   "title": "Vedra",
+   "type_": "track"
+  },
+  {
+   "duration": "4:08",
+   "position": "B2",
+   "title": "Fame",
+   "type_": "track"
+  },
+  {
+   "duration": "3:03",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2649342,
+     "join": "",
+     "name": "Owlle",
+     "resource_url": "https://api.discogs.com/artists/2649342",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Don't Let Me Be",
+   "type_": "track"
+  },
+  {
+   "duration": "4:04",
+   "position": "B4",
+   "title": "Chuffed",
+   "type_": "track"
+  },
+  {
+   "duration": "5:11",
+   "position": "C1",
+   "title": "Rock Non Stop",
+   "type_": "track"
+  },
+  {
+   "duration": "2:20",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4852,
+     "join": "",
+     "name": "Mike D",
+     "resource_url": "https://api.discogs.com/artists/4852",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Cause Oui !",
+   "type_": "track"
+  },
+  {
+   "duration": "4:46",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2253679,
+     "join": "",
+     "name": "Joe Rogers (4)",
+     "resource_url": "https://api.discogs.com/artists/2253679",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 433941,
+     "join": "",
+     "name": "Luke Jenner",
+     "resource_url": "https://api.discogs.com/artists/433941",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2649342,
+     "join": "",
+     "name": "Owlle",
+     "resource_url": "https://api.discogs.com/artists/2649342",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Dreams",
+   "type_": "track"
+  },
+  {
+   "duration": "6:03",
+   "position": "D1",
+   "title": "Calliope",
+   "type_": "track"
+  },
+  {
+   "duration": "5:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 293100,
+     "join": "",
+     "name": "Vula Malinga",
+     "resource_url": "https://api.discogs.com/artists/293100",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "W18",
+   "type_": "track"
+  },
+  {
+   "duration": "5:17",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2649342,
+     "join": "",
+     "name": "Owlle",
+     "resource_url": "https://api.discogs.com/artists/2649342",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Walking In The Sunshine",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13700483-Cassius-Dreems",
+ "year": 2019
+}

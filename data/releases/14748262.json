@@ -1,0 +1,88 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 460266,
+   "join": "",
+   "name": "Schwefelgelb",
+   "resource_url": "https://api.discogs.com/artists/460266",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/h62oCSgUV5vbCX60Yx3OMQ753rpmnyX-E27hNZX3Amk/rs:fit/g:sm/q:90/h:437/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ2MDI2/Ni0xNzE5OTk3Nzk5/LTU3NTguanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "EP",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Yellow Fluorescent"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 14748262,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/h216ZSBK-HuyiPmMD63D8fM4y_lT24ScRKs_sHw_BcE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ4/MjYyLTE2NTg0ODYy/MzItMjU3OS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/h216ZSBK-HuyiPmMD63D8fM4y_lT24ScRKs_sHw_BcE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ4/MjYyLTE2NTg0ODYy/MzItMjU3OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Nb1dMcyjCM9Ue0mkCtPSGBrk8wGdRvPYy236EoC2_6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ4/MjYyLTE2NTg0ODYy/MzItMjU3OS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "CITI027",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 117372,
+   "name": "Cititrax",
+   "resource_url": "https://api.discogs.com/labels/117372",
+   "thumbnail_url": "https://i.discogs.com/z6voZd3ger_xfDknaAH-7biM8J8GTcBmO5joeNw0KSI/rs:fit/g:sm/q:90/h:201/w:504/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNzM3/Mi0xMjE1OTc1NTg0/LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Limited to 500 copies. Housed in transparent PVC sleeve with outer flap.\n\nMade in CZ / Pirates Press sticker.\n",
+ "released": "2020-02-11",
+ "styles": [
+  "Techno",
+  "EBM"
+ ],
+ "title": "Die Stimme Drängt",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Die Dünne Hand",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Auf Die Erde",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Die Augen Gehen",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Das Bild Das Wiederkehrt",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14748262-Schwefelgelb-Die-Stimme-Drängt",
+ "year": 2020
+}

@@ -1,0 +1,86 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4898814,
+   "join": "",
+   "name": "Felipe Gordon",
+   "resource_url": "https://api.discogs.com/artists/4898814",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/iTUbmuqB-_O6pGotrilmBK3zvV6FxTu1OOkyD-FuRqo/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4OTg4/MTQtMTY3MDIzMjQ2/MC01NTA2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": null,
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Jazz"
+ ],
+ "id": 15389587,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/d18L8xs2YYZ8ULMxUc5JBpxJgjqOOTM_nOAcSb7P4RE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg5/NTg3LTE2NDE1MDI0/MTItMTUyNS5wbmc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/d18L8xs2YYZ8ULMxUc5JBpxJgjqOOTM_nOAcSb7P4RE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg5/NTg3LTE2NDE1MDI0/MTItMTUyNS5wbmc.jpeg",
+   "uri150": "https://i.discogs.com/w8R4AFEPRC23QaWB2Lfe71paLEVvzM0PwY9nK5cH7bU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg5/NTg3LTE2NDE1MDI0/MTItMTUyNS5wbmc.jpeg",
+   "width": 599
+  }
+ ],
+ "labels": [
+  {
+   "catno": "PALMS 028",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1125646,
+   "name": "Lost Palms",
+   "resource_url": "https://api.discogs.com/labels/1125646",
+   "thumbnail_url": "https://i.discogs.com/EVM-vfOQjudZb3T5a8FgGHpilUQL6zFc-KT3dm9A1hM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMjU2/NDYtMTU3MTgyNzY3/NS01NTgwLnBuZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2020-05-28",
+ "styles": [
+  "Deep House"
+ ],
+ "title": "Jupiter EP",
+ "tracklist": [
+  {
+   "duration": "7:31",
+   "position": "A1",
+   "title": "The Jupiter Song",
+   "type_": "track"
+  },
+  {
+   "duration": "6:53",
+   "position": "A2",
+   "title": "Hey, Keep Going",
+   "type_": "track"
+  },
+  {
+   "duration": "6:07",
+   "position": "B1",
+   "title": "Acid Horizontal Polka",
+   "type_": "track"
+  },
+  {
+   "duration": "7:15",
+   "position": "B2",
+   "title": "Snake Jazz",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15389587-Felipe-Gordon-Jupiter-EP",
+ "year": 2020
+}

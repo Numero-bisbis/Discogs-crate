@@ -1,0 +1,185 @@
+{
+ "artists": [
+  {
+   "anv": "Raúl Monsalve y Los Forajidos",
+   "id": 5663658,
+   "join": "",
+   "name": "Monsalve Y Los Forajidos",
+   "resource_url": "https://api.discogs.com/artists/5663658",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/FcWFu1W-j9d8IJlofgqpGwE00HgfG4b2__6Uyu5urUg/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU2NjM2/NTgtMTQ5Mzk4NDUy/My0zMTk2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Latin",
+  "Funk / Soul",
+  "Folk, World, & Country"
+ ],
+ "id": 16424160,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/-H6StMdcfJmTFL9olPDlcg_DMHxwauR4_i2IE7Zsr0A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI0/MTYwLTE2MDc2NjI1/MzEtODUzMS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/-H6StMdcfJmTFL9olPDlcg_DMHxwauR4_i2IE7Zsr0A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI0/MTYwLTE2MDc2NjI1/MzEtODUzMS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/5HcNrGUm3I3Ef1oQzRaVhh6lABoWpXUf_i4w7TxrE-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI0/MTYwLTE2MDc2NjI1/MzEtODUzMS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ORLP006",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1201075,
+   "name": "Olindo",
+   "resource_url": "https://api.discogs.com/labels/1201075",
+   "thumbnail_url": "https://i.discogs.com/pryKL7oKGTCu3pYEouzkcvIoKdXW7iM9hlGsngj3Q5w/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMDEw/NzUtMTQ5MTMyMDQy/My00NTcyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Ancestral Afro-Venezuelan rhythms meet futuristic Latin jazz, raw funk and Afrobeat on Raúl Monsalve y Los Forajidos’ exhilarating new ‘Bichos’ album for Olindo Records. Venezuelan bassist Raúl Monsalve leads an all-star ensemble of musical trailblazers including “the voice of Venezuela” Betsayda Machado, singer Luzmira Zerpa (Family Atlantica) and drummer Dave De Rose (Agile Experiments, Moloko, Mark Ronson).\n\nRaúl Monsalve has dedicated much of his life to understanding and learning traditional Afro-Venezuelan music, and studying under some of its greatest proponents among the percussionists of his home country, whilst at the same time taking as much interest in the sounds emanating from the fearless edges of jazz, rock, African and early electronic music.\n\nWith producer/engineer/drummer Malcolm Catto (Heliocentrics, Quantic, Yussef Kamaal) behind the recording and mixing desk, Raul brought together a like-minded cast of friends from Venezuela, Paris and London, to help him create a fresh sound, capturing the essence of both the African and indigenous roots of Venezuelan music, and the forward-looking sounds of afrobeat, gritty Latin jazz and experimental electronic music. ‘Bichos’, Spanish for ‘vermin’, ‘bugs’, ‘beasts’ but also used in Venezuela to refer to someone as a “nasty piece of work”, draws all these strands together. The album uses a variety of animals, such as the mosquito, butterfly, pig, snake, rooster and flea, to represent a wide range of human qualities, like greed, hate, love & compassion, and their impact on Venezuelan and worldwide corruption & division, the strengths of friendship, family, collaboration, rebellion and survival.\n\n“Bichos” is not only a superb introduction to Raúl Monsalve, but also to a swathe of incredible musicians you might still be unfamiliar with. It’s also a brilliant window into the rich musical seam of Venezuelan music, and an excellent look at how it might interconnect with wider musical parallels.",
+ "released": "2020",
+ "styles": [
+  "Latin Jazz",
+  "Funk",
+  "Afrobeat"
+ ],
+ "title": "Bichos",
+ "tracklist": [
+  {
+   "duration": "1:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2245845,
+     "join": "",
+     "name": "Vasallos Del Sol",
+     "resource_url": "https://api.discogs.com/artists/2245845",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Malembe",
+   "type_": "track"
+  },
+  {
+   "duration": "5:07",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1119903,
+     "join": "",
+     "name": "Luzmira Zerpa",
+     "resource_url": "https://api.discogs.com/artists/1119903",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Bocón",
+   "type_": "track"
+  },
+  {
+   "duration": "4:09",
+   "position": "A3",
+   "title": "Cafunga",
+   "type_": "track"
+  },
+  {
+   "duration": "4:39",
+   "position": "A4",
+   "title": "La Pulga",
+   "type_": "track"
+  },
+  {
+   "duration": "2:12",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 8358762,
+     "join": "",
+     "name": "Afrocódigos",
+     "resource_url": "https://api.discogs.com/artists/8358762",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Palo De Agua",
+   "type_": "track"
+  },
+  {
+   "duration": "6:05",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5159628,
+     "join": "",
+     "name": "Betsayda Machado",
+     "resource_url": "https://api.discogs.com/artists/5159628",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Mosquito",
+   "type_": "track"
+  },
+  {
+   "duration": "3:37",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 8358759,
+     "join": "",
+     "name": "Lya Bonilla",
+     "resource_url": "https://api.discogs.com/artists/8358759",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "La Mariposa",
+   "type_": "track"
+  },
+  {
+   "duration": "2:37",
+   "extraartists": [
+    {
+     "anv": "Rafa Pino",
+     "id": 5270316,
+     "join": "",
+     "name": "Rafael Pino",
+     "resource_url": "https://api.discogs.com/artists/5270316",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Los Tres Venenos",
+   "type_": "track"
+  },
+  {
+   "duration": "5:20",
+   "position": "B4",
+   "title": "Pa' Los Maestros",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/16424160-Raúl-Monsalve-y-Los-Forajidos-Bichos",
+ "year": 2020
+}

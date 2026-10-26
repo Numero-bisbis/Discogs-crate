@@ -1,0 +1,90 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2384129,
+   "join": "",
+   "name": "Dusky (2)",
+   "resource_url": "https://api.discogs.com/artists/2384129",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/yMazp91elQL78Rf5qU5ep-0x_vm5nFad1MkcNor-GoM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIzODQx/MjktMTc0ODg3MDU2/OC03MjkxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\""
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12593047,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/dx8a0JnQHN5FEPkM6oFo7YUR9KqpeLbtPI_bzbF82CM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTkz/MDQ3LTE1MzgyMzQ5/ODMtNzExNS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/dx8a0JnQHN5FEPkM6oFo7YUR9KqpeLbtPI_bzbF82CM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTkz/MDQ3LTE1MzgyMzQ5/ODMtNzExNS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/ZGmtQ--8QNEVx8IbQdRMSSyrwXHfRhJapdDqe2hCknc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTkz/MDQ3LTE1MzgyMzQ5/ODMtNzExNS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "17STEPS021",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 726365,
+   "name": "17 Steps",
+   "resource_url": "https://api.discogs.com/labels/726365",
+   "thumbnail_url": "https://i.discogs.com/buDSoQ7Mj9gYcxp-aiFhYJHTscxlWq4Bny9yWDKNSZo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcyNjM2/NS0xNzQ2MTIyMTEy/LTMyMjQuanBlZw.jpeg"
+  }
+ ],
+ "notes": "\n",
+ "released": "2018-09-28",
+ "styles": [
+  "House",
+  "Techno"
+ ],
+ "title": "Aset Forever EP",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Amongst The Gods",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "The Ace",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Staunch",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Angles",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "The Captain",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12593047-Dusky-2-Aset-Forever-EP",
+ "year": 2018
+}

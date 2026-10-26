@@ -1,0 +1,103 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6680133,
+   "join": "&",
+   "name": "Ed Longo",
+   "resource_url": "https://api.discogs.com/artists/6680133",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/7vCcBJxSzKgcFnnCTaYE6obsutQ70zZLrYIbbIHszFo/rs:fit/g:sm/q:90/h:498/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY2ODAx/MzMtMTc4NzY1MDIy/NS03NjY0LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "Applied Arts Ensemble",
+   "id": 6849623,
+   "join": "",
+   "name": "The Applied Arts Ensemble",
+   "resource_url": "https://api.discogs.com/artists/6849623",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Italy",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "Mini-Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Funk / Soul"
+ ],
+ "id": 12890235,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/DgXDIhaAr1IZKdUDaUwNNjMFVqKTES3prWk-BsTfxMM/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODkw/MjM1LTE1NDM5MzU3/MTItMjkyNS5wbmc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/DgXDIhaAr1IZKdUDaUwNNjMFVqKTES3prWk-BsTfxMM/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODkw/MjM1LTE1NDM5MzU3/MTItMjkyNS5wbmc.jpeg",
+   "uri150": "https://i.discogs.com/JzPciTqYLhzRVw8tXApvFroT-RjGAnidxFiDGZFwtQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODkw/MjM1LTE1NDM5MzU3/MTItMjkyNS5wbmc.jpeg",
+   "width": 585
+  }
+ ],
+ "labels": [
+  {
+   "catno": "EAS020",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 320885,
+   "name": "Early Sounds Recordings",
+   "resource_url": "https://api.discogs.com/labels/320885",
+   "thumbnail_url": "https://i.discogs.com/qje5hePJwo3ySEJegiW5zmEJQapHX7WBgDQhgWd2Duo/rs:fit/g:sm/q:90/h:425/w:385/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyMDg4/NS0xNTc0NDY4NzY5/LTcwNTAucG5n.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-02-00",
+ "styles": [
+  "Jazz-Funk",
+  "Boogie",
+  "Fusion",
+  "Disco"
+ ],
+ "title": "The Other Fantasy",
+ "tracklist": [
+  {
+   "duration": "6:21",
+   "position": "A1",
+   "title": "Love On The Line",
+   "type_": "track"
+  },
+  {
+   "duration": "5:42",
+   "position": "A2",
+   "title": "Arcadian Dream",
+   "type_": "track"
+  },
+  {
+   "duration": "5:53",
+   "position": "B1",
+   "title": "New Life",
+   "type_": "track"
+  },
+  {
+   "duration": "5:00",
+   "position": "B2",
+   "title": "A Palm In The Closet",
+   "type_": "track"
+  },
+  {
+   "duration": "3:13",
+   "position": "B3",
+   "title": "Trouble In Paradise",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12890235-Ed-Longo-Applied-Arts-Ensemble-The-Other-Fantasy",
+ "year": 2019
+}

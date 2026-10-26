@@ -1,0 +1,149 @@
+{
+ "artists": [
+  {
+   "anv": "The John Coltrane Quartette",
+   "id": 255386,
+   "join": "",
+   "name": "The John Coltrane Quartet",
+   "resource_url": "https://api.discogs.com/artists/255386",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/qa6ar8ll0YveU8IVqxoFsphXr5N-xOcaVGboOb2WLHc/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1NTM4/Ni0xNDM3MDQ4NTUy/LTE1NDQuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Mono"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Ampar, Gatefold"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 875495,
+ "images": [
+  {
+   "height": 597,
+   "resource_url": "https://i.discogs.com/P7OgPm-h9iek36qfg3Lz7Zoq3Sy2I8ulZjigJ-FV7lk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTQ5/NS0xNzY2NzU1NzI5/LTY4NzguanBlZw.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/P7OgPm-h9iek36qfg3Lz7Zoq3Sy2I8ulZjigJ-FV7lk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTQ5/NS0xNzY2NzU1NzI5/LTY4NzguanBlZw.jpeg",
+   "uri150": "https://i.discogs.com/16lPYmzshyomF5w1a1NjAXqeROnHHpqnBTPYwc25_sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTQ5/NS0xNzY2NzU1NzI5/LTY4NzguanBlZw.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "A-21",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 26557,
+   "name": "Impulse!",
+   "resource_url": "https://api.discogs.com/labels/26557",
+   "thumbnail_url": "https://i.discogs.com/VxE3oj0Ev8PD2LXI_QobC-ZHHKY0y4oNkIQ4DwsAxEY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTU3/LTE1ODkxNTM2MDUt/NzgzNS5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Recorded at Van Gelder Studio, Englewood Cliffs, NJ at April 11, 1962 (B1), June 19, 1962 (A1, A2), June 20, 1962 (B3) and June 29, 1962 (B2) [jazzdisco.org].\n\nPrinted on labels:\nA product of Am-Par Record Corp.\nPrinted in U.S.A.\n\nPlease do not mix up with [r5602571]; this release has 'A product of Ampar Records Corp.' at the bottom of center labels, the other one 'A product of ABC-Paramount Records, Inc.'\n\nPrinted on back cover:\nPrinted in U.S.A.\nA product of ABC-Paramount Records, Inc.\n\nPublishers:\nA1: E. H. Morris-ASCAP\nA2: Prestige Music-BMI\nB1: Frank Music-ASCAP\nB2: Jowcol Music-BMI\nB3: Jowcol Music-BMI",
+ "released": "1962",
+ "styles": [
+  "Free Jazz",
+  "Post Bop",
+  "Modal"
+ ],
+ "title": "Coltrane",
+ "tracklist": [
+  {
+   "duration": "14:02",
+   "extraartists": [
+    {
+     "anv": "H. Arlen-J. Mercer",
+     "id": 647193,
+     "join": "",
+     "name": "Harold Arlen & Johnny Mercer",
+     "resource_url": "https://api.discogs.com/artists/647193",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Out Of This World",
+   "type_": "track"
+  },
+  {
+   "duration": "5:22",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 260727,
+     "join": "",
+     "name": "Mal Waldron",
+     "resource_url": "https://api.discogs.com/artists/260727",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Soul Eyes",
+   "type_": "track"
+  },
+  {
+   "duration": "6:14",
+   "extraartists": [
+    {
+     "anv": "F. Loesser",
+     "id": 439662,
+     "join": "",
+     "name": "Frank Loesser",
+     "resource_url": "https://api.discogs.com/artists/439662",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "The Inch Worm",
+   "type_": "track"
+  },
+  {
+   "duration": "6:33",
+   "extraartists": [
+    {
+     "anv": "J. Coltrane",
+     "id": 97545,
+     "join": "",
+     "name": "John Coltrane",
+     "resource_url": "https://api.discogs.com/artists/97545",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Tunji (Toon-Gee)",
+   "type_": "track"
+  },
+  {
+   "duration": "7:30",
+   "extraartists": [
+    {
+     "anv": "Coltrane",
+     "id": 97545,
+     "join": "",
+     "name": "John Coltrane",
+     "resource_url": "https://api.discogs.com/artists/97545",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Miles' Mode",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/875495-The-John-Coltrane-Quartette-Coltrane",
+ "year": 1962
+}

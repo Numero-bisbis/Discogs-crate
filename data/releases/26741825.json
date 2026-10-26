@@ -1,0 +1,447 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 18839,
+   "join": "",
+   "name": "Metallica",
+   "resource_url": "https://api.discogs.com/artists/18839",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/hDRTa2gbOic6JYKtjzTydCIKPaXHYqNzSnMpLZzNPgc/rs:fit/g:sm/q:90/h:393/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4ODM5/LTE1MDk0MTkyNjAt/MjU0MC5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Violet [Midnight Violet]"
+  }
+ ],
+ "genres": [
+  "Rock"
+ ],
+ "id": 26741825,
+ "images": [
+  {
+   "height": 592,
+   "resource_url": "https://i.discogs.com/ysjC-1ku_xBl8dnBkUj9RdNFSyMkBb19u6RpcIkntzI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzQx/ODI1LTE2ODE4NDQ4/MjQtNTc4OS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/ysjC-1ku_xBl8dnBkUj9RdNFSyMkBb19u6RpcIkntzI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzQx/ODI1LTE2ODE4NDQ4/MjQtNTc4OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/F_wR8WfvUgd53fLvNWfrUD8wNi3cKN2dLRhc1cMq1nk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzQx/ODI1LTE2ODE4NDQ4/MjQtNTc4OS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BLCKND055-1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1319428,
+   "name": "Blackened",
+   "resource_url": "https://api.discogs.com/labels/1319428",
+   "thumbnail_url": "https://i.discogs.com/o6mUyeti0Ij1Tsa-DOdoTd53HSlENmXv2kVNgihsZ_Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMTk0/MjgtMTYyOTExODYw/My05MzYxLmpwZWc.jpeg"
+  },
+  {
+   "catno": "BLCKND055-1i",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1319428,
+   "name": "Blackened",
+   "resource_url": "https://api.discogs.com/labels/1319428",
+   "thumbnail_url": "https://i.discogs.com/o6mUyeti0Ij1Tsa-DOdoTd53HSlENmXv2kVNgihsZ_Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMTk0/MjgtMTYyOTExODYw/My05MzYxLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "[Transparent hype sticker:]\nMETALLICA 72 SEASONS\nTHE NEW ALBUM\n42 YEARS OF METALLICA IN OVER 77 MINUTES\nFEATURING\n\"LUX ÆTERNA\"\n\"SCREAMING SUICIDE\"\n\"IF DARKNESS HAD A SON\"\nLIMITED EDITION\nINDIE RETAIL MIDNIGHT VINYL\nDOWNLOAD INCLUDED\n\nDie-cut inner gatefold sleeve, 4-page lyric insert and download code included.\n\nCatalog # 'BLCKND055-1' - on back cover and on gatefold spine\nCatalog # 'BLCKND055-1i' - on barcode sticker and on label side A, B, C, D\n\nMatrix runout:  '-61296-' (side A, B) and '-61297-' (side C, D) are stamped\n\nDon't confuse with similar US version [r=26769293].",
+ "released": "2023-04-14",
+ "styles": [
+  "Heavy Metal",
+  "Thrash"
+ ],
+ "title": "72 Seasons",
+ "tracklist": [
+  {
+   "duration": "7:59",
+   "extraartists": [
+    {
+     "anv": "Hetfield",
+     "id": 251874,
+     "join": "",
+     "name": "James Hetfield",
+     "resource_url": "https://api.discogs.com/artists/251874",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Hammett",
+     "id": 18836,
+     "join": "",
+     "name": "Kirk Hammett",
+     "resource_url": "https://api.discogs.com/artists/18836",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Ulrich",
+     "id": 251550,
+     "join": "",
+     "name": "Lars Ulrich",
+     "resource_url": "https://api.discogs.com/artists/251550",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "72 Seasons",
+   "type_": "track"
+  },
+  {
+   "duration": "6:12",
+   "extraartists": [
+    {
+     "anv": "Hetfield",
+     "id": 251874,
+     "join": "",
+     "name": "James Hetfield",
+     "resource_url": "https://api.discogs.com/artists/251874",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Ulrich",
+     "id": 251550,
+     "join": "",
+     "name": "Lars Ulrich",
+     "resource_url": "https://api.discogs.com/artists/251550",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Shadows Follow",
+   "type_": "track"
+  },
+  {
+   "duration": "5:31",
+   "extraartists": [
+    {
+     "anv": "Hetfield",
+     "id": 251874,
+     "join": "",
+     "name": "James Hetfield",
+     "resource_url": "https://api.discogs.com/artists/251874",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Ulrich",
+     "id": 251550,
+     "join": "",
+     "name": "Lars Ulrich",
+     "resource_url": "https://api.discogs.com/artists/251550",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Trujillo",
+     "id": 490079,
+     "join": "",
+     "name": "Robert Trujillo",
+     "resource_url": "https://api.discogs.com/artists/490079",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Screaming Suicide",
+   "type_": "track"
+  },
+  {
+   "duration": "6:56",
+   "extraartists": [
+    {
+     "anv": "Hetfield",
+     "id": 251874,
+     "join": "",
+     "name": "James Hetfield",
+     "resource_url": "https://api.discogs.com/artists/251874",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Ulrich",
+     "id": 251550,
+     "join": "",
+     "name": "Lars Ulrich",
+     "resource_url": "https://api.discogs.com/artists/251550",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Trujillo",
+     "id": 490079,
+     "join": "",
+     "name": "Robert Trujillo",
+     "resource_url": "https://api.discogs.com/artists/490079",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Sleepwalk My Life Away",
+   "type_": "track"
+  },
+  {
+   "duration": "7:03",
+   "extraartists": [
+    {
+     "anv": "Hetfield",
+     "id": 251874,
+     "join": "",
+     "name": "James Hetfield",
+     "resource_url": "https://api.discogs.com/artists/251874",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Ulrich",
+     "id": 251550,
+     "join": "",
+     "name": "Lars Ulrich",
+     "resource_url": "https://api.discogs.com/artists/251550",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Trujillo",
+     "id": 490079,
+     "join": "",
+     "name": "Robert Trujillo",
+     "resource_url": "https://api.discogs.com/artists/490079",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "You Must Burn!",
+   "type_": "track"
+  },
+  {
+   "duration": "3:22",
+   "extraartists": [
+    {
+     "anv": "Hetfield",
+     "id": 251874,
+     "join": "",
+     "name": "James Hetfield",
+     "resource_url": "https://api.discogs.com/artists/251874",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Ulrich",
+     "id": 251550,
+     "join": "",
+     "name": "Lars Ulrich",
+     "resource_url": "https://api.discogs.com/artists/251550",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Lux Æterna",
+   "type_": "track"
+  },
+  {
+   "duration": "5:59",
+   "extraartists": [
+    {
+     "anv": "Hetfield",
+     "id": 251874,
+     "join": "",
+     "name": "James Hetfield",
+     "resource_url": "https://api.discogs.com/artists/251874",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Hammett",
+     "id": 18836,
+     "join": "",
+     "name": "Kirk Hammett",
+     "resource_url": "https://api.discogs.com/artists/18836",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Ulrich",
+     "id": 251550,
+     "join": "",
+     "name": "Lars Ulrich",
+     "resource_url": "https://api.discogs.com/artists/251550",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Crown Of Barbed Wire",
+   "type_": "track"
+  },
+  {
+   "duration": "6:45",
+   "extraartists": [
+    {
+     "anv": "Hetfield",
+     "id": 251874,
+     "join": "",
+     "name": "James Hetfield",
+     "resource_url": "https://api.discogs.com/artists/251874",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Hammett",
+     "id": 18836,
+     "join": "",
+     "name": "Kirk Hammett",
+     "resource_url": "https://api.discogs.com/artists/18836",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Ulrich",
+     "id": 251550,
+     "join": "",
+     "name": "Lars Ulrich",
+     "resource_url": "https://api.discogs.com/artists/251550",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Chasing Light",
+   "type_": "track"
+  },
+  {
+   "duration": "6:36",
+   "extraartists": [
+    {
+     "anv": "Hetfield",
+     "id": 251874,
+     "join": "",
+     "name": "James Hetfield",
+     "resource_url": "https://api.discogs.com/artists/251874",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Hammett",
+     "id": 18836,
+     "join": "",
+     "name": "Kirk Hammett",
+     "resource_url": "https://api.discogs.com/artists/18836",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Ulrich",
+     "id": 251550,
+     "join": "",
+     "name": "Lars Ulrich",
+     "resource_url": "https://api.discogs.com/artists/251550",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "If Darkness Had A Son",
+   "type_": "track"
+  },
+  {
+   "duration": "4:34",
+   "extraartists": [
+    {
+     "anv": "Hetfield",
+     "id": 251874,
+     "join": "",
+     "name": "James Hetfield",
+     "resource_url": "https://api.discogs.com/artists/251874",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Ulrich",
+     "id": 251550,
+     "join": "",
+     "name": "Lars Ulrich",
+     "resource_url": "https://api.discogs.com/artists/251550",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Too Far Gone?",
+   "type_": "track"
+  },
+  {
+   "duration": "5:34",
+   "extraartists": [
+    {
+     "anv": "Hetfield",
+     "id": 251874,
+     "join": "",
+     "name": "James Hetfield",
+     "resource_url": "https://api.discogs.com/artists/251874",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Ulrich",
+     "id": 251550,
+     "join": "",
+     "name": "Lars Ulrich",
+     "resource_url": "https://api.discogs.com/artists/251550",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Room Of Mirrors",
+   "type_": "track"
+  },
+  {
+   "duration": "11:10",
+   "extraartists": [
+    {
+     "anv": "Hetfield",
+     "id": 251874,
+     "join": "",
+     "name": "James Hetfield",
+     "resource_url": "https://api.discogs.com/artists/251874",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Ulrich",
+     "id": 251550,
+     "join": "",
+     "name": "Lars Ulrich",
+     "resource_url": "https://api.discogs.com/artists/251550",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Inamorata",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/26741825-Metallica-72-Seasons",
+ "year": 2023
+}

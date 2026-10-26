@@ -1,0 +1,127 @@
+{
+ "artists": [
+  {
+   "anv": "Vicente Fernández",
+   "id": 419130,
+   "join": "",
+   "name": "Vicente Fernandez",
+   "resource_url": "https://api.discogs.com/artists/419130",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/S3-_l_y4-k0DPyiaY4_z7c__tsmdN6-BETXC5bWnY-c/rs:fit/g:sm/q:90/h:439/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQxOTEz/MC0xNjYxODMxNjgx/LTg4NjAuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Mexico",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Latin"
+ ],
+ "id": 9806558,
+ "images": [
+  {
+   "height": 595,
+   "resource_url": "https://i.discogs.com/pJVRMWFHW3w4ZQYv2rujJyJAluy-eMjWzIIu7BMUsAw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDY1/NTgtMTY4NDk1ODI1/Mi05MDM3LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/pJVRMWFHW3w4ZQYv2rujJyJAluy-eMjWzIIu7BMUsAw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDY1/NTgtMTY4NDk1ODI1/Mi05MDM3LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/iu8lzZBbRijlWAQc1DrGGxhQ0H85T-z20O7QRL6C1pg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDY1/NTgtMTY4NDk1ODI1/Mi05MDM3LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DCS 591",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3072,
+   "name": "CBS",
+   "resource_url": "https://api.discogs.com/labels/3072",
+   "thumbnail_url": "https://i.discogs.com/hdVZgS3PfiBkq73WsshirotfASFz8DqOTLbenaLJ--I/rs:fit/g:sm/q:90/h:428/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNzIt/MTIzNTE0NjI5My5q/cGVn.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "1969",
+ "styles": [
+  "Bolero"
+ ],
+ "title": "Palabra De Rey",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Palabra De Rey",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Cuanto Te Debo",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Vas  A Llorar",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Sabor De Mujer",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "A Donde Vas Que Mas Valgas",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A6",
+   "title": "Amor En Sombras",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Con Una Copa De Vino",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Cantando",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Tu Camino Y El Mio",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Llevame Contigo",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "Yo Quiero Ser",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/9806558-Vicente-Fernández-Palabra-De-Rey",
+ "year": 1969
+}

@@ -1,0 +1,338 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 843457,
+   "join": "",
+   "name": "Session Victim",
+   "resource_url": "https://api.discogs.com/artists/843457",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/IDc8DpkYn_isy9uKSVJk7pYNKzk61alBYI-xDV2jYRc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg0MzQ1/Ny0xNjk5MTMzMDUw/LTQ0MzkuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 28789117,
+ "images": [
+  {
+   "height": 594,
+   "resource_url": "https://i.discogs.com/hV-fWdEAXq7lc_4oECji7kBcoHzinEW9qsLmWH0m26U/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg5/MTE3LTE3MDQyODUx/MjYtNTM2MS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/hV-fWdEAXq7lc_4oECji7kBcoHzinEW9qsLmWH0m26U/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg5/MTE3LTE3MDQyODUx/MjYtNTM2MS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/zjDDdPbdYYJbrcTCtr3Qy3yvmlP-3t73-q8UbpJH7u8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg5/MTE3LTE3MDQyODUx/MjYtNTM2MS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ALNLP65",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1409593,
+   "name": "Night Time Stories",
+   "resource_url": "https://api.discogs.com/labels/1409593",
+   "thumbnail_url": "https://i.discogs.com/IiQgOazURv03pqA0bK_ve6XDNQAKxScbNjeLuGK4h_o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0MDk1/OTMtMTUxNzA3NzEz/My05MDUzLnBuZw.jpeg"
+  }
+ ],
+ "notes": "Includes download code.",
+ "released": "2023-11-03",
+ "styles": [
+  "Downtempo"
+ ],
+ "title": "Low Key, Low Pressure",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "H. Freer",
+     "id": 818342,
+     "join": "",
+     "name": "Hauke Freer",
+     "resource_url": "https://api.discogs.com/artists/818342",
+     "role": "Written By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Reiling",
+     "id": 1226047,
+     "join": "",
+     "name": "Matthias Reiling",
+     "resource_url": "https://api.discogs.com/artists/1226047",
+     "role": "Written By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Enlightenment",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 68710,
+     "join": "",
+     "name": "Carsten Meyer",
+     "resource_url": "https://api.discogs.com/artists/68710",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "H. Freer",
+     "id": 818342,
+     "join": "",
+     "name": "Hauke Freer",
+     "resource_url": "https://api.discogs.com/artists/818342",
+     "role": "Written By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Reiling",
+     "id": 1226047,
+     "join": "",
+     "name": "Matthias Reiling",
+     "resource_url": "https://api.discogs.com/artists/1226047",
+     "role": "Written By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Soft Landing",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "H. Freer",
+     "id": 818342,
+     "join": "",
+     "name": "Hauke Freer",
+     "resource_url": "https://api.discogs.com/artists/818342",
+     "role": "Written By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Reiling",
+     "id": 1226047,
+     "join": "",
+     "name": "Matthias Reiling",
+     "resource_url": "https://api.discogs.com/artists/1226047",
+     "role": "Written By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Jazzbeat",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "H. Freer",
+     "id": 818342,
+     "join": "",
+     "name": "Hauke Freer",
+     "resource_url": "https://api.discogs.com/artists/818342",
+     "role": "Written By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Reiling",
+     "id": 1226047,
+     "join": "",
+     "name": "Matthias Reiling",
+     "resource_url": "https://api.discogs.com/artists/1226047",
+     "role": "Written By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "The Hidden Trail",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "H. Freer",
+     "id": 818342,
+     "join": "",
+     "name": "Hauke Freer",
+     "resource_url": "https://api.discogs.com/artists/818342",
+     "role": "Written By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Reiling",
+     "id": 1226047,
+     "join": "",
+     "name": "Matthias Reiling",
+     "resource_url": "https://api.discogs.com/artists/1226047",
+     "role": "Written By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Porchless",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "H. Freer",
+     "id": 818342,
+     "join": "",
+     "name": "Hauke Freer",
+     "resource_url": "https://api.discogs.com/artists/818342",
+     "role": "Written By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Reiling",
+     "id": 1226047,
+     "join": "",
+     "name": "Matthias Reiling",
+     "resource_url": "https://api.discogs.com/artists/1226047",
+     "role": "Written By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Mycelium Dub",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "H. Freer",
+     "id": 818342,
+     "join": "",
+     "name": "Hauke Freer",
+     "resource_url": "https://api.discogs.com/artists/818342",
+     "role": "Written By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Reiling",
+     "id": 1226047,
+     "join": "",
+     "name": "Matthias Reiling",
+     "resource_url": "https://api.discogs.com/artists/1226047",
+     "role": "Written By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Walk In The Park",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "H. Freer",
+     "id": 818342,
+     "join": "",
+     "name": "Hauke Freer",
+     "resource_url": "https://api.discogs.com/artists/818342",
+     "role": "Written By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Reiling",
+     "id": 1226047,
+     "join": "",
+     "name": "Matthias Reiling",
+     "resource_url": "https://api.discogs.com/artists/1226047",
+     "role": "Written By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Assembler",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "H. Freer",
+     "id": 818342,
+     "join": "",
+     "name": "Hauke Freer",
+     "resource_url": "https://api.discogs.com/artists/818342",
+     "role": "Written By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Reiling",
+     "id": 1226047,
+     "join": "",
+     "name": "Matthias Reiling",
+     "resource_url": "https://api.discogs.com/artists/1226047",
+     "role": "Written By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "One Trick Ponies",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "H. Freer",
+     "id": 818342,
+     "join": "",
+     "name": "Hauke Freer",
+     "resource_url": "https://api.discogs.com/artists/818342",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Reiling",
+     "id": 1226047,
+     "join": "",
+     "name": "Matthias Reiling",
+     "resource_url": "https://api.discogs.com/artists/1226047",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 845450,
+     "join": "",
+     "name": "Instra:mental",
+     "resource_url": "https://api.discogs.com/artists/845450",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Photograph",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/28789117-Session-Victim-Low-Key-Low-Pressure",
+ "year": 2023
+}

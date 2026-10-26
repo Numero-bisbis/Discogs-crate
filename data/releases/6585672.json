@@ -1,0 +1,72 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1626911,
+   "join": "",
+   "name": "Maceo Plex",
+   "resource_url": "https://api.discogs.com/artists/1626911",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/MYe6ichecMmR4D5Bb_r7ZH72cLewLJSmYOhyDdhpxt0/rs:fit/g:sm/q:90/h:380/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2MjY5/MTEtMTM5MzUwNzc4/Ny05MDQzLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Sweden",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 6585672,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/RLMjXkpoW6SGaVomNqbAJRV1AI42Mde3uA39P3uJp6k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODU2/NzItMTQyNzgzNjQ2/My04OTUzLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/RLMjXkpoW6SGaVomNqbAJRV1AI42Mde3uA39P3uJp6k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODU2/NzItMTQyNzgzNjQ2/My04OTUzLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/a_BxCYBAKjIXbdYCqg1ZIzl2Gzbx_6OMMHR2f_N_rtw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODU2/NzItMTQyNzgzNjQ2/My04OTUzLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DC136",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 237,
+   "name": "Drumcode",
+   "resource_url": "https://api.discogs.com/labels/237",
+   "thumbnail_url": "https://i.discogs.com/1rrViQveJmRumM48FWYOYNsJD3-iahuaYprtxJgsAQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNy0x/NjkyOTkxNjY2LTg2/NjgucG5n.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2015-01-00",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Conjure Infinity",
+ "tracklist": [
+  {
+   "duration": "7:21",
+   "position": "A",
+   "title": "Conjure Dreams",
+   "type_": "track"
+  },
+  {
+   "duration": "6:13",
+   "position": "B",
+   "title": "Conjure Floyd",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/6585672-Maceo-Plex-Conjure-Infinity",
+ "year": 2015
+}

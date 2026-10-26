@@ -1,0 +1,162 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3299730,
+   "join": "",
+   "name": "Harvey Sutherland",
+   "resource_url": "https://api.discogs.com/artists/3299730",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/QDtNAhu67V4aml9eTKhC39k_1_oVwWegCvzxLvzHtkA/rs:fit/g:sm/q:90/h:457/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyOTk3/MzAtMTYzOTg2MTQz/Ny00MzI1LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Australia",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Jazz"
+ ],
+ "id": 12675255,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/DQKM9JzrWHkHkry-nZNJY-hGtgAZAF6V9Q6rzIK6U4Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc1/MjU1LTE1Mzk4MjMx/NDgtNjkzOC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/DQKM9JzrWHkHkry-nZNJY-hGtgAZAF6V9Q6rzIK6U4Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc1/MjU1LTE1Mzk4MjMx/NDgtNjkzOC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/cGiZNaJw_XwUMMD3p3-ZVXpfViXFH0krhiN0jWoWF-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc1/MjU1LTE1Mzk4MjMx/NDgtNjkzOC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "CRC-03",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1080650,
+   "name": "Clarity Recordings (2)",
+   "resource_url": "https://api.discogs.com/labels/1080650",
+   "thumbnail_url": "https://i.discogs.com/2aE9vPu4s93479Y8Q3ZpfA9l7Ffi78Bpy4D3nH1aP4Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwODA2/NTAtMTUzOTgzOTE4/MS0yODg4LnBuZw.jpeg"
+  }
+ ],
+ "notes": "A Clarity Recordings Release.\n\nSide A: 33 ⅓ RPM.\nSide B: 45 RPM.",
+ "released": "2018-11-09",
+ "styles": [
+  "Broken Beat",
+  "Acid Jazz",
+  "Drum n Bass",
+  "Future Jazz",
+  "Fusion"
+ ],
+ "title": "Amethyst",
+ "tracklist": [
+  {
+   "duration": "6:01",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4083347,
+     "join": "",
+     "name": "Michael Shrimpling",
+     "resource_url": "https://api.discogs.com/artists/4083347",
+     "role": "Double Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6762638,
+     "join": "",
+     "name": "Kahlil Memphis",
+     "resource_url": "https://api.discogs.com/artists/6762638",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3299730,
+     "join": "",
+     "name": "Harvey Sutherland",
+     "resource_url": "https://api.discogs.com/artists/3299730",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5261803,
+     "join": "",
+     "name": "Nubya Garcia",
+     "resource_url": "https://api.discogs.com/artists/5261803",
+     "role": "Tenor Saxophone, Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Amethyst",
+   "type_": "track"
+  },
+  {
+   "duration": "6:50",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6762638,
+     "join": "",
+     "name": "Kahlil Memphis",
+     "resource_url": "https://api.discogs.com/artists/6762638",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5354931,
+     "join": "",
+     "name": "Mansur Brown",
+     "resource_url": "https://api.discogs.com/artists/5354931",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3299730,
+     "join": "",
+     "name": "Harvey Sutherland",
+     "resource_url": "https://api.discogs.com/artists/3299730",
+     "role": "Keyboards",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "I Can See",
+   "type_": "track"
+  },
+  {
+   "duration": "9:12",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4266127,
+     "join": "",
+     "name": "Rings Around Saturn (2)",
+     "resource_url": "https://api.discogs.com/artists/4266127",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "I Can See (Rings Around Saturn Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12675255-Harvey-Sutherland-Amethyst",
+ "year": 2018
+}

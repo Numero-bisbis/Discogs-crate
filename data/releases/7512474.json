@@ -1,0 +1,72 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4626094,
+   "join": "",
+   "name": "Klanken",
+   "resource_url": "https://api.discogs.com/artists/4626094",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Belgium",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 7512474,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/4yKXQ7OWm9jMwGLG9gBE6FdoqhYuTaJCLob4O7u3jrY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTI0/NzQtMTQ0MzAxNzU0/NS0yMzg5LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/4yKXQ7OWm9jMwGLG9gBE6FdoqhYuTaJCLob4O7u3jrY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTI0/NzQtMTQ0MzAxNzU0/NS0yMzg5LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/qlYhjU8TvYa5sft2DcwxmYPtwX2CuLY_mGztUcJ7YL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTI0/NzQtMTQ0MzAxNzU0/NS0yMzg5LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DEEWEE002",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 901323,
+   "name": "Deewee",
+   "resource_url": "https://api.discogs.com/labels/901323",
+   "thumbnail_url": "https://i.discogs.com/43iFaH5jTGcKif0DoJFbOk5ajpAmXmRmxUuuphfCAks/rs:fit/g:sm/q:90/h:600/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwMTMy/My0xNTE1NzI4ODk3/LTgxMjYucG5n.jpeg"
+  }
+ ],
+ "notes": "Both sides start with a narration:\n\"DeeWee 002, Kant ...(A or B)\".\n\nBoth sides end in a locked inner groove.",
+ "released": "2015-09-00",
+ "styles": [
+  "Tech House",
+  "Minimal"
+ ],
+ "title": "Drie/Twee",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Drie",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Twee",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/7512474-Klanken-DrieTwee",
+ "year": 2015
+}

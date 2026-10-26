@@ -1,0 +1,114 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4851477,
+   "join": "",
+   "name": "Footshooter",
+   "resource_url": "https://api.discogs.com/artists/4851477",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/vyCK5lQ-s0xVXk62fy_5II58CZWYAIhUZJEdaEmSiTY/rs:fit/g:sm/q:90/h:600/w:398/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4NTE0/NzctMTY5OTMxMzU5/My0yMjMyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Jazz"
+ ],
+ "id": 20705146,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/zK4a90Xz1C4KlwtNmxNqMjxg2m3dnKhQC4w_PLcZEU8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzA1/MTQ2LTE2MzUwMjE1/OTAtMzc3Ni5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/zK4a90Xz1C4KlwtNmxNqMjxg2m3dnKhQC4w_PLcZEU8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzA1/MTQ2LTE2MzUwMjE1/OTAtMzc3Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/OIqUwSgD-szwuwEF30ulVcWTaFlIqnI47mCSLEHPgYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzA1/MTQ2LTE2MzUwMjE1/OTAtMzc3Ni5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "AST039",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 496792,
+   "name": "Astral Black",
+   "resource_url": "https://api.discogs.com/labels/496792",
+   "thumbnail_url": "https://i.discogs.com/inGwCN9ddrX9xVQJTLbDTF8wjXGj-xHNHgDO7hf15Ms/rs:fit/g:sm/q:90/h:267/w:260/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ5Njc5/Mi0xMzg5NzU2MTkw/LTI3NDkuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2021-10-15",
+ "styles": [
+  "House"
+ ],
+ "title": "Southside Hymns",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Hymn 1",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Passing Clouds",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Juno Cafe",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Hymn 2",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Twilight",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Bloom",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Unntether",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Blood Moon",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "Hymn 3",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/20705146-Footshooter-Southside-Hymns",
+ "year": 2021
+}

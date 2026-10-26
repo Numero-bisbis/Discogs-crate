@@ -1,0 +1,209 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1597485,
+   "join": "",
+   "name": "Myd",
+   "resource_url": "https://api.discogs.com/artists/1597485",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/3BftKHOE6gtgMW6YrapWohpsXm3AJOUkoncL9rtQv-E/rs:fit/g:sm/q:90/h:600/w:397/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1OTc0/ODUtMTU5NTQyNTQx/Ny0xODE4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Pink"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 15818101,
+ "images": [
+  {
+   "height": 585,
+   "resource_url": "https://i.discogs.com/MgBC5E-T0Ub32q3npIdkJteyvfjd7F9CWSzYfkaBTJo/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE4/MTAxLTE2MDE1NDE1/MDQtNjU5NS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/MgBC5E-T0Ub32q3npIdkJteyvfjd7F9CWSzYfkaBTJo/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE4/MTAxLTE2MDE1NDE1/MDQtNjU5NS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/OHtx_YOV_frMkToBHKNhxK3mg7BDU5nSNP7NXMhRBkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE4/MTAxLTE2MDE1NDE1/MDQtNjU5NS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ED120",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 19066,
+   "name": "Ed Banger Records",
+   "resource_url": "https://api.discogs.com/labels/19066",
+   "thumbnail_url": "https://i.discogs.com/ZIJtV-Fc7H03Z1Atc_JmDZbn1Jp7Oks35_nDxkjY7i0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5MDY2/LTE2NDgzNDM5NjYt/NjE0Ni5qcGVn.jpeg"
+  },
+  {
+   "catno": "BEC5676213",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 54379,
+   "name": "Because Music",
+   "resource_url": "https://api.discogs.com/labels/54379",
+   "thumbnail_url": "https://i.discogs.com/hCnQ7eINYuhslt-dC2Ub26qjZl4Y5QgXKDWslpAIL6E/rs:fit/g:sm/q:90/h:338/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU0Mzc5/LTE2MzE4NzIxOTMt/NDQ5Ny5qcGVn.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2020-10-01",
+ "styles": [
+  "House"
+ ],
+ "title": "Together We Stand",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6072417,
+     "join": "",
+     "name": "Anouk Amati",
+     "resource_url": "https://api.discogs.com/artists/6072417",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 166504,
+     "join": "",
+     "name": "Irfane",
+     "resource_url": "https://api.discogs.com/artists/166504",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1597485,
+     "join": "",
+     "name": "Myd",
+     "resource_url": "https://api.discogs.com/artists/1597485",
+     "role": "Composed By, Written By, Producer, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 69650,
+     "join": "",
+     "name": "David Wrench",
+     "resource_url": "https://api.discogs.com/artists/69650",
+     "role": "Mixed By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Together We Stand (Club Edit)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1660455,
+     "join": "",
+     "name": "Bastien Doremus",
+     "resource_url": "https://api.discogs.com/artists/1660455",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1132875,
+     "join": "",
+     "name": "Bullion",
+     "resource_url": "https://api.discogs.com/artists/1132875",
+     "role": "Remix, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Together We Stand (Bullion Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3537319,
+     "join": "",
+     "name": "Peter Ferguson",
+     "resource_url": "https://api.discogs.com/artists/3537319",
+     "role": "Producer, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5235521,
+     "join": "",
+     "name": "Wuh Oh",
+     "resource_url": "https://api.discogs.com/artists/5235521",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Together We Stand (Wuh Oh Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 29782,
+     "join": "",
+     "name": "Radio Slave",
+     "resource_url": "https://api.discogs.com/artists/29782",
+     "role": "Remix",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2247084,
+     "join": "",
+     "name": "Thomas Gandey",
+     "resource_url": "https://api.discogs.com/artists/2247084",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Together We Stand (Radio Slave & Thomas Gandey Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1750055,
+     "join": "",
+     "name": "Sam Tiba",
+     "resource_url": "https://api.discogs.com/artists/1750055",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Together We Stand (Sam Tiba Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15818101-Myd-Together-We-Stand",
+ "year": 2020
+}

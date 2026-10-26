@@ -1,0 +1,102 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 22315,
+   "join": "Presents:",
+   "name": "Rheji Burrell",
+   "resource_url": "https://api.discogs.com/artists/22315",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/1qh32ZrnCFuEDdTe-Z9BgUZvng2pAxjZaBAkZ-wBL1g/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIyMzE1/LTE1OTE2NTI2NzAt/NzQzNC5qcGVn.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 5726,
+   "join": "",
+   "name": "The Utopia Project",
+   "resource_url": "https://api.discogs.com/artists/5726",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 15453638,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/nEqF-s4xzt_1FoKJ4Yaf3lYkY7snY5EaznwDG9MNOHg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDUz/NjM4LTE1OTY0ODU0/MjMtNjM5NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/nEqF-s4xzt_1FoKJ4Yaf3lYkY7snY5EaznwDG9MNOHg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDUz/NjM4LTE1OTY0ODU0/MjMtNjM5NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/LCOHvtpvurq-ZzfEF4e0VZ3go1dC43QxeKXu3rqNjbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDUz/NjM4LTE1OTY0ODU0/MjMtNjM5NC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RB091",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 9291,
+   "name": "Running Back",
+   "resource_url": "https://api.discogs.com/labels/9291",
+   "thumbnail_url": "https://i.discogs.com/h5ShM2GP3ACRjacbkGh1IIK_C0-P16zg2v9Vws0d4l8/rs:fit/g:sm/q:90/h:157/w:314/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkyOTEt/MTE0MjIzODk2MC5q/cGVn.jpeg"
+  }
+ ],
+ "notes": "Side A: 45 RPM.\nSide B: 33 ⅓ RPM.\n\nLabel design imitates [r=4573].",
+ "released": "2020-06-05",
+ "styles": [
+  "House",
+  "Deep House"
+ ],
+ "title": "The \"V\" EP",
+ "tracklist": [
+  {
+   "duration": "4:16",
+   "position": "A1",
+   "title": "Destiny",
+   "type_": "track"
+  },
+  {
+   "duration": "4:17",
+   "position": "A2",
+   "title": "Epiphany",
+   "type_": "track"
+  },
+  {
+   "duration": "4:22",
+   "position": "B1",
+   "title": "Euphoria",
+   "type_": "track"
+  },
+  {
+   "duration": "4:08",
+   "position": "B2",
+   "title": "Gifted",
+   "type_": "track"
+  },
+  {
+   "duration": "4:09",
+   "position": "B3",
+   "title": "Karma",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15453638-Rheji-Burrell-Presents-The-Utopia-Project-The-V-EP",
+ "year": 2020
+}

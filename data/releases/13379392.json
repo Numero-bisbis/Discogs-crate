@@ -1,0 +1,145 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4764481,
+   "join": "",
+   "name": "The Comet Is Coming",
+   "resource_url": "https://api.discogs.com/artists/4764481",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/JkKwGbpD1sth6ctkt2CRzFpMKkj4PfX-dzkfLxqbb74/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ3NjQ0/ODEtMTQ0OTk2Mzcx/OC00ODg3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Repress"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Jazz"
+ ],
+ "id": 13379392,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/B2H2gJxRe9AZhl5S8Y2-wyxZVPG0cKrRvA7MCvmBXDs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc5/MzkyLTE2MjUzNjEx/NDMtMjE4OC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/B2H2gJxRe9AZhl5S8Y2-wyxZVPG0cKrRvA7MCvmBXDs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc5/MzkyLTE2MjUzNjEx/NDMtMjE4OC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Z7ZFebFqE7Zc-He49AGBNp5uW5VlQ39xESkfSNHayk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc5/MzkyLTE2MjUzNjEx/NDMtMjE4OC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BAY 104V",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 202,
+   "name": "Leaf",
+   "resource_url": "https://api.discogs.com/labels/202",
+   "thumbnail_url": "https://i.discogs.com/2XkFjqsXjGxgK60_dg-pT6Zk2MhPLou7tdkA3D_a-5E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIwMi0x/NzU0NjUyMzkyLTU1/MDMuanBlZw.jpeg"
+  }
+ ],
+ "notes": "2019 black vinyl repress with no CD. Includes download code",
+ "released": "2019-04-00",
+ "styles": [
+  "Contemporary Jazz"
+ ],
+ "title": "Channel The Spirits",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "The Prophecy",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Space Carnival",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Journey Through The Asteroid Belt",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Nano",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "New Age",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A6",
+   "title": "Slam Dunk In A Black Hole",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Cosmic Dust",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Star Furnace",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Channel The Spirits",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Deep Within The Engine Deck",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2859814,
+     "join": "",
+     "name": "Joshua Idehen",
+     "resource_url": "https://api.discogs.com/artists/2859814",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Lightyears",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B6",
+   "title": "End Of Earth",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13379392-The-Comet-Is-Coming-Channel-The-Spirits",
+ "year": 2019
+}

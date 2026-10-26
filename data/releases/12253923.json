@@ -1,0 +1,244 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4106352,
+   "join": "",
+   "name": "Polo & Pan",
+   "resource_url": "https://api.discogs.com/artists/4106352",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-ql3PcJut3wTjHHup4BVGq01OfAf3CjycFneJiBmEik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQxMDYz/NTItMTUxMDE0MDc3/MS0yNDY2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Deluxe Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Pop"
+ ],
+ "id": 12253923,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/a9zj9G0sc6-vHwWBgjZGW4k-0UcudTp3_8KSdXtVEHw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjUz/OTIzLTE1MzE1MDEx/MDAtNzc4NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/a9zj9G0sc6-vHwWBgjZGW4k-0UcudTp3_8KSdXtVEHw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjUz/OTIzLTE1MzE1MDEx/MDAtNzc4NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/FwHjt3zfBC_1iQXYQNYw5kKm9n6GnWurXeDRqUnB74E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjUz/OTIzLTE1MzE1MDEx/MDAtNzc4NC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "HAMBLP01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 31497,
+   "name": "Hamburger Records",
+   "resource_url": "https://api.discogs.com/labels/31497",
+   "thumbnail_url": "https://i.discogs.com/LdJnBSOgmgJtAwQkR7Hj3PSNe3Nj3xuIRrFEcg7HQj8/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNDk3/LTE0NjY1ODgxNDIt/MjcwOC5wbmc.jpeg"
+  },
+  {
+   "catno": "6768265",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 68513,
+   "name": "Ekler'O'ShocK",
+   "resource_url": "https://api.discogs.com/labels/68513",
+   "thumbnail_url": "https://i.discogs.com/z8DJozUMFveB5OIvn5bj-deS2YNHgnnBBs6gn51WuA4/rs:fit/g:sm/q:90/h:600/w:565/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4NTEz/LTE3OTA1ODQyODAt/NjEwOS5wbmc.jpeg"
+  }
+ ],
+ "notes": "Caravelle Deluxe Edition\nIncl. Bonus Tracks\nJacquadi, Baraka, Cœur d’Artichaut, Arc-en-Ciel.\nMP3 Download",
+ "released": "2018-07-13",
+ "styles": [
+  "Tropical House",
+  "Synth-pop"
+ ],
+ "title": "Caravelle",
+ "tracklist": [
+  {
+   "duration": "2:41",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4714557,
+     "join": "",
+     "name": "Alexandre Grynszpan",
+     "resource_url": "https://api.discogs.com/artists/4714557",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4714561,
+     "join": "",
+     "name": "Paul Armand-Delille",
+     "resource_url": "https://api.discogs.com/artists/4714561",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Abysse",
+   "type_": "track"
+  },
+  {
+   "duration": "4:17",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3074528,
+     "join": "",
+     "name": "Marguerite Bartherotte",
+     "resource_url": "https://api.discogs.com/artists/3074528",
+     "role": "Lead Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5845683,
+     "join": "",
+     "name": "Victoria Lafaurie",
+     "resource_url": "https://api.discogs.com/artists/5845683",
+     "role": "Lead Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3074528,
+     "join": "",
+     "name": "Marguerite Bartherotte",
+     "resource_url": "https://api.discogs.com/artists/3074528",
+     "role": "Lyrics By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Aqualand",
+   "type_": "track"
+  },
+  {
+   "duration": "4:36",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5786690,
+     "join": "",
+     "name": "Armand Penicaut",
+     "resource_url": "https://api.discogs.com/artists/5786690",
+     "role": "Guitar",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Canopée ",
+   "type_": "track"
+  },
+  {
+   "duration": "3:23",
+   "position": "B1",
+   "title": "Coeur Croisé",
+   "type_": "track"
+  },
+  {
+   "duration": "3:29",
+   "position": "B2",
+   "title": "Zoom Zoom",
+   "type_": "track"
+  },
+  {
+   "duration": "3:10",
+   "position": "B3",
+   "title": "Nanã",
+   "type_": "track"
+  },
+  {
+   "duration": "5:06",
+   "position": "C1",
+   "title": "Kirghiz",
+   "type_": "track"
+  },
+  {
+   "duration": "5:16",
+   "position": "C2",
+   "title": "Dorothy",
+   "type_": "track"
+  },
+  {
+   "duration": "3:52",
+   "position": "C3",
+   "title": "Plage Isolée (Soleil Levant)",
+   "type_": "track"
+  },
+  {
+   "duration": "6:13",
+   "position": "D1",
+   "title": "Mexicali",
+   "type_": "track"
+  },
+  {
+   "duration": "5:11",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4714557,
+     "join": "",
+     "name": "Alexandre Grynszpan",
+     "resource_url": "https://api.discogs.com/artists/4714557",
+     "role": "Lead Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5951,
+     "join": "",
+     "name": "Serge Gainsbourg",
+     "resource_url": "https://api.discogs.com/artists/5951",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 175267,
+     "join": "",
+     "name": "Alain Chamfort",
+     "resource_url": "https://api.discogs.com/artists/175267",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Chasseur D'Ivoire (Polo & Pan Reprise)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:51",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 96123,
+     "join": "",
+     "name": "Claude Debussy",
+     "resource_url": "https://api.discogs.com/artists/96123",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Pays Imaginaire",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12253923-Polo-Pan-Caravelle",
+ "year": 2018
+}

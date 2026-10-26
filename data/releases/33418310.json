@@ -1,0 +1,2207 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4091,
+   "join": "",
+   "name": "De La Soul",
+   "resource_url": "https://api.discogs.com/artists/4091",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-VX--C0HsKgb3X2BrpSBn_3_2DSUsUQrpu5c-Zj9ouE/rs:fit/g:sm/q:90/h:383/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwOTEt/MTY3OTQ3MzE4OS02/OTY5LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Limited Edition",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Silver with Blue and Yellow Splatter, 20th Anniversary Edition"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 33418310,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/giG7l-selHGMCE0Y0EOeW32C5DjdbtAcZ5VBiOTsGg4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDE4/MzEwLTE3NDI4NzI2/NjAtNDAzMi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/giG7l-selHGMCE0Y0EOeW32C5DjdbtAcZ5VBiOTsGg4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDE4/MzEwLTE3NDI4NzI2/NjAtNDAzMi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/xZNOWe4JQFNmHe6qtuuZmXyBPS00cOhnGzepAKuGHmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDE4/MzEwLTE3NDI4NzI2/NjAtNDAzMi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BMGCAT414DLP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1003,
+   "name": "BMG",
+   "resource_url": "https://api.discogs.com/labels/1003",
+   "thumbnail_url": "https://i.discogs.com/tKJHQPwXsc89D7Qdroz_xWKPK42T7HYmDaLu6N-mlw4/rs:fit/g:sm/q:90/h:211/w:179/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDMt/MTc5MjA5MDE2MC05/NDM1LmpwZWc.jpeg"
+  },
+  {
+   "catno": "BMGCAT414DLP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 20971,
+   "name": "AOI Records",
+   "resource_url": "https://api.discogs.com/labels/20971",
+   "thumbnail_url": "https://i.discogs.com/4jAdOgFuBC2we1KEfEmE5j1TSTDjoARgpXVfpL4JO-0/rs:fit/g:sm/q:90/h:276/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIwOTcx/LTEyNzI2NjgzMjQu/anBlZw.jpeg"
+  },
+  {
+   "catno": "BMGCAT414DLPX",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1003,
+   "name": "BMG",
+   "resource_url": "https://api.discogs.com/labels/1003",
+   "thumbnail_url": "https://i.discogs.com/tKJHQPwXsc89D7Qdroz_xWKPK42T7HYmDaLu6N-mlw4/rs:fit/g:sm/q:90/h:211/w:179/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDMt/MTc5MjA5MDE2MC05/NDM1LmpwZWc.jpeg"
+  },
+  {
+   "catno": "BMGCAT414DLPX",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 20971,
+   "name": "AOI Records",
+   "resource_url": "https://api.discogs.com/labels/20971",
+   "thumbnail_url": "https://i.discogs.com/4jAdOgFuBC2we1KEfEmE5j1TSTDjoARgpXVfpL4JO-0/rs:fit/g:sm/q:90/h:276/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIwOTcx/LTEyNzI2NjgzMjQu/anBlZw.jpeg"
+  }
+ ],
+ "notes": "Hype stickers on shrink-wrap:\n\"Featuring \n\"The Grind Date\", \"Shopping Bags\" and \"It's Like That\"\nGuest Appearances By\nGhostface, MF Doom, Carl Thomas and Common\"\n\n\"Limited Edition\n20th Anniversary\nSplatter Vinyl\"\n\nTitle on spine:\nDe la Soul // The Grind Date 2LP\n\nIssued in wide pocket cover with \"Parental Advisory\" printed on the cover. Records are in picture sleeves with opening on right.\n\nTrack A1, A2, A4 to C1, and C3 mixed for Loreal Inc. at Baseline Studios, NYC. \n\nCarl Thomas appears courtesy of Bad Boy Records.\nGhostface appears courtesy of Def Jam / Starks Enterprises.\nFlava Flav appears courtesy of Xecutiv Music Group.\nButta Verses appears courtesy of Bear Mountain Entertainment.\nMF Doom appears courtesy of Metal Face Records.\n\nTracks A1 to C4: \n℗ & © 2004 Daisy Age Inc./Sanctuary Records Group Ltd., a BMG Company.\n\nTracks D1 to D4: \n ℗ & © 2020 Daisy Age Inc./Sanctuary Records Group Ltd., a BMG Company.\n\nRunouts are stamped.",
+ "released": "2025-03-21",
+ "styles": [
+  "Conscious"
+ ],
+ "title": "The Grind Date",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Dave Brown",
+     "id": 381528,
+     "join": "",
+     "name": "David Brown (7)",
+     "resource_url": "https://api.discogs.com/artists/381528",
+     "role": "Engineer [Assistant Engineer, Mix]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 658158,
+     "join": "",
+     "name": "Justin Shturtz",
+     "resource_url": "https://api.discogs.com/artists/658158",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4732892,
+     "join": "",
+     "name": "Music Resources, Inc.",
+     "resource_url": "https://api.discogs.com/artists/4732892",
+     "role": "Legal [Sample Clearance Services]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208571,
+     "join": "",
+     "name": "Gimel \"Young Guru\" Keaton",
+     "resource_url": "https://api.discogs.com/artists/208571",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 253606,
+     "join": "",
+     "name": "Switch (6)",
+     "resource_url": "https://api.discogs.com/artists/253606",
+     "role": "Performer [Contains Elements From \"A Brighter Tomorrow\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 95532,
+     "join": "",
+     "name": "Supa Dave West",
+     "resource_url": "https://api.discogs.com/artists/95532",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 177094,
+     "join": "",
+     "name": "Brian Garten",
+     "resource_url": "https://api.discogs.com/artists/177094",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "David Jolicoeur",
+     "id": 89975,
+     "join": "",
+     "name": "Dave Jolicoeur",
+     "resource_url": "https://api.discogs.com/artists/89975",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 297026,
+     "join": "",
+     "name": "Kelvin Mercer",
+     "resource_url": "https://api.discogs.com/artists/297026",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 318912,
+     "join": "",
+     "name": "Vincent Mason",
+     "resource_url": "https://api.discogs.com/artists/318912",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4091,
+     "join": "",
+     "name": "De La Soul",
+     "resource_url": "https://api.discogs.com/artists/4091",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 413480,
+     "join": "",
+     "name": "Eddie Fluellen",
+     "resource_url": "https://api.discogs.com/artists/413480",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Hazel Jackson",
+     "id": 586248,
+     "join": "",
+     "name": "Hazel G. Jackson",
+     "resource_url": "https://api.discogs.com/artists/586248",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 17971,
+     "join": "",
+     "name": "Jermaine Jackson",
+     "resource_url": "https://api.discogs.com/artists/17971",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Dave West",
+     "id": 95532,
+     "join": "",
+     "name": "Supa Dave West",
+     "resource_url": "https://api.discogs.com/artists/95532",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Fluellen",
+     "id": 413480,
+     "join": "",
+     "name": "Eddie Fluellen",
+     "resource_url": "https://api.discogs.com/artists/413480",
+     "role": "Written-By [Contains Elements From \"A Brighter Tomorrow\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Jackson",
+     "id": 586248,
+     "join": "",
+     "name": "Hazel G. Jackson",
+     "resource_url": "https://api.discogs.com/artists/586248",
+     "role": "Written-By [Contains Elements From \"A Brighter Tomorrow\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Jackson",
+     "id": 17971,
+     "join": "",
+     "name": "Jermaine Jackson",
+     "resource_url": "https://api.discogs.com/artists/17971",
+     "role": "Written-By [Contains Elements From \"A Brighter Tomorrow\"]",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "The Future",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Dave Brown",
+     "id": 381528,
+     "join": "",
+     "name": "David Brown (7)",
+     "resource_url": "https://api.discogs.com/artists/381528",
+     "role": "Engineer [Assistant Engineer, Mix]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 658158,
+     "join": "",
+     "name": "Justin Shturtz",
+     "resource_url": "https://api.discogs.com/artists/658158",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4732892,
+     "join": "",
+     "name": "Music Resources, Inc.",
+     "resource_url": "https://api.discogs.com/artists/4732892",
+     "role": "Legal [Sample Clearance Services]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208571,
+     "join": "",
+     "name": "Gimel \"Young Guru\" Keaton",
+     "resource_url": "https://api.discogs.com/artists/208571",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 19587,
+     "join": "",
+     "name": "Peech Boys",
+     "resource_url": "https://api.discogs.com/artists/19587",
+     "role": "Performer [\"Dance Sister\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 98381,
+     "join": "",
+     "name": "Mountain",
+     "resource_url": "https://api.discogs.com/artists/98381",
+     "role": "Performer [\"Long Red\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 149420,
+     "join": "",
+     "name": "Rick Wakeman",
+     "resource_url": "https://api.discogs.com/artists/149420",
+     "role": "Performer [Contains Elements From \"Catherine Of Aragon\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "J-Dilla",
+     "id": 324866,
+     "join": "",
+     "name": "J Dilla",
+     "resource_url": "https://api.discogs.com/artists/324866",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 177094,
+     "join": "",
+     "name": "Brian Garten",
+     "resource_url": "https://api.discogs.com/artists/177094",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2104099,
+     "join": "",
+     "name": "Carlos Cano (2)",
+     "resource_url": "https://api.discogs.com/artists/2104099",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "David Jolicoeur",
+     "id": 89975,
+     "join": "",
+     "name": "Dave Jolicoeur",
+     "resource_url": "https://api.discogs.com/artists/89975",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 297026,
+     "join": "",
+     "name": "Kelvin Mercer",
+     "resource_url": "https://api.discogs.com/artists/297026",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 14400,
+     "join": "",
+     "name": "Bernard Fowler",
+     "resource_url": "https://api.discogs.com/artists/14400",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 890883,
+     "join": "",
+     "name": "Daryl Short",
+     "resource_url": "https://api.discogs.com/artists/890883",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4091,
+     "join": "",
+     "name": "De La Soul",
+     "resource_url": "https://api.discogs.com/artists/4091",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 259877,
+     "join": "",
+     "name": "Felix Pappalardi",
+     "resource_url": "https://api.discogs.com/artists/259877",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "J-Dilla",
+     "id": 324866,
+     "join": "",
+     "name": "J Dilla",
+     "resource_url": "https://api.discogs.com/artists/324866",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 641096,
+     "join": "",
+     "name": "John Ventura",
+     "resource_url": "https://api.discogs.com/artists/641096",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2156613,
+     "join": "",
+     "name": "Leslie Weinstein",
+     "resource_url": "https://api.discogs.com/artists/2156613",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 860823,
+     "join": "",
+     "name": "Norman Landsberg",
+     "resource_url": "https://api.discogs.com/artists/860823",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 149420,
+     "join": "",
+     "name": "Rick Wakeman",
+     "resource_url": "https://api.discogs.com/artists/149420",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Fowler",
+     "id": 14400,
+     "join": "",
+     "name": "Bernard Fowler",
+     "resource_url": "https://api.discogs.com/artists/14400",
+     "role": "Written-By [\"Dance Sister\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Short",
+     "id": 890883,
+     "join": "",
+     "name": "Daryl Short",
+     "resource_url": "https://api.discogs.com/artists/890883",
+     "role": "Written-By [\"Dance Sister\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Pappalardi",
+     "id": 259877,
+     "join": "",
+     "name": "Felix Pappalardi",
+     "resource_url": "https://api.discogs.com/artists/259877",
+     "role": "Written-By [\"Long Red\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Ventura",
+     "id": 641096,
+     "join": "",
+     "name": "John Ventura",
+     "resource_url": "https://api.discogs.com/artists/641096",
+     "role": "Written-By [\"Long Red\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Weinstein",
+     "id": 2156613,
+     "join": "",
+     "name": "Leslie Weinstein",
+     "resource_url": "https://api.discogs.com/artists/2156613",
+     "role": "Written-By [\"Long Red\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Landsberg",
+     "id": 860823,
+     "join": "",
+     "name": "Norman Landsberg",
+     "resource_url": "https://api.discogs.com/artists/860823",
+     "role": "Written-By [\"Long Red\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Wakeman",
+     "id": 149420,
+     "join": "",
+     "name": "Rick Wakeman",
+     "resource_url": "https://api.discogs.com/artists/149420",
+     "role": "Written-By [Contains Elements From \"Catherine Of Aragon\"]",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Verbal Clap",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Yummy",
+     "id": 48745,
+     "join": "",
+     "name": "Elizabeth \"Yummy\" Bingham",
+     "resource_url": "https://api.discogs.com/artists/48745",
+     "role": "Featuring [Feat.]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4732892,
+     "join": "",
+     "name": "Music Resources, Inc.",
+     "resource_url": "https://api.discogs.com/artists/4732892",
+     "role": "Legal [Sample Clearance Services]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 170701,
+     "join": "",
+     "name": "Troy Hightower",
+     "resource_url": "https://api.discogs.com/artists/170701",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "LTD",
+     "id": 189430,
+     "join": "",
+     "name": "L.T.D.",
+     "resource_url": "https://api.discogs.com/artists/189430",
+     "role": "Performer [Contains Elements From \"Love Ballad\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "J-Dilla",
+     "id": 324866,
+     "join": "",
+     "name": "J Dilla",
+     "resource_url": "https://api.discogs.com/artists/324866",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 390379,
+     "join": "",
+     "name": "Ryan West",
+     "resource_url": "https://api.discogs.com/artists/390379",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "David Jolicoeur",
+     "id": 89975,
+     "join": "",
+     "name": "Dave Jolicoeur",
+     "resource_url": "https://api.discogs.com/artists/89975",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 297026,
+     "join": "",
+     "name": "Kelvin Mercer",
+     "resource_url": "https://api.discogs.com/artists/297026",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 48745,
+     "join": "",
+     "name": "Elizabeth \"Yummy\" Bingham",
+     "resource_url": "https://api.discogs.com/artists/48745",
+     "role": "Vocals [Additional Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4091,
+     "join": "",
+     "name": "De La Soul",
+     "resource_url": "https://api.discogs.com/artists/4091",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "J-Dilla",
+     "id": 324866,
+     "join": "",
+     "name": "J Dilla",
+     "resource_url": "https://api.discogs.com/artists/324866",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5493,
+     "join": "",
+     "name": "Shuggie Otis",
+     "resource_url": "https://api.discogs.com/artists/5493",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 211631,
+     "join": "",
+     "name": "Skip Scarborough",
+     "resource_url": "https://api.discogs.com/artists/211631",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Scarborough",
+     "id": 211631,
+     "join": "",
+     "name": "Skip Scarborough",
+     "resource_url": "https://api.discogs.com/artists/211631",
+     "role": "Written-By [Contains Elements From \"Love Ballad\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Otis",
+     "id": 5493,
+     "join": "",
+     "name": "Shuggie Otis",
+     "resource_url": "https://api.discogs.com/artists/5493",
+     "role": "Written-By [Contains Replayed Elements Of \"Strawberry Letter 23\"]",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Much More",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Dave Brown",
+     "id": 381528,
+     "join": "",
+     "name": "David Brown (7)",
+     "resource_url": "https://api.discogs.com/artists/381528",
+     "role": "Engineer [Assistant Engineer, Mix]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 658158,
+     "join": "",
+     "name": "Justin Shturtz",
+     "resource_url": "https://api.discogs.com/artists/658158",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208571,
+     "join": "",
+     "name": "Gimel \"Young Guru\" Keaton",
+     "resource_url": "https://api.discogs.com/artists/208571",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 16508,
+     "join": "",
+     "name": "Madlib",
+     "resource_url": "https://api.discogs.com/artists/16508",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 177094,
+     "join": "",
+     "name": "Brian Garten",
+     "resource_url": "https://api.discogs.com/artists/177094",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "David Jolicoeur",
+     "id": 89975,
+     "join": "",
+     "name": "Dave Jolicoeur",
+     "resource_url": "https://api.discogs.com/artists/89975",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 297026,
+     "join": "",
+     "name": "Kelvin Mercer",
+     "resource_url": "https://api.discogs.com/artists/297026",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1484752,
+     "join": "",
+     "name": "Daniel Wallace",
+     "resource_url": "https://api.discogs.com/artists/1484752",
+     "role": "Vocals [Additional Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4091,
+     "join": "",
+     "name": "De La Soul",
+     "resource_url": "https://api.discogs.com/artists/4091",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 16508,
+     "join": "",
+     "name": "Madlib",
+     "resource_url": "https://api.discogs.com/artists/16508",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Shopping Bags (She Got From You)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Dave Brown",
+     "id": 381528,
+     "join": "",
+     "name": "David Brown (7)",
+     "resource_url": "https://api.discogs.com/artists/381528",
+     "role": "Engineer [Assistant Engineer, Mix]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 658158,
+     "join": "",
+     "name": "Justin Shturtz",
+     "resource_url": "https://api.discogs.com/artists/658158",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4732892,
+     "join": "",
+     "name": "Music Resources, Inc.",
+     "resource_url": "https://api.discogs.com/artists/4732892",
+     "role": "Legal [Sample Clearance Services]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208571,
+     "join": "",
+     "name": "Gimel \"Young Guru\" Keaton",
+     "resource_url": "https://api.discogs.com/artists/208571",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50263,
+     "join": "",
+     "name": "Yes",
+     "resource_url": "https://api.discogs.com/artists/50263",
+     "role": "Performer [Contains Elements From \"Nous Sommes De Soleil\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 95532,
+     "join": "",
+     "name": "Supa Dave West",
+     "resource_url": "https://api.discogs.com/artists/95532",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 177094,
+     "join": "",
+     "name": "Brian Garten",
+     "resource_url": "https://api.discogs.com/artists/177094",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "David Jolicoeur",
+     "id": 89975,
+     "join": "",
+     "name": "Dave Jolicoeur",
+     "resource_url": "https://api.discogs.com/artists/89975",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 297026,
+     "join": "",
+     "name": "Kelvin Mercer",
+     "resource_url": "https://api.discogs.com/artists/297026",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 184915,
+     "join": "",
+     "name": "Bonz Malone",
+     "resource_url": "https://api.discogs.com/artists/184915",
+     "role": "Vocals [Additional Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 288990,
+     "join": "",
+     "name": "Alan White",
+     "resource_url": "https://api.discogs.com/artists/288990",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 294163,
+     "join": "",
+     "name": "Chris Squire",
+     "resource_url": "https://api.discogs.com/artists/294163",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4091,
+     "join": "",
+     "name": "De La Soul",
+     "resource_url": "https://api.discogs.com/artists/4091",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5083,
+     "join": "",
+     "name": "Jon Anderson",
+     "resource_url": "https://api.discogs.com/artists/5083",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 149420,
+     "join": "",
+     "name": "Rick Wakeman",
+     "resource_url": "https://api.discogs.com/artists/149420",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 253110,
+     "join": "",
+     "name": "Steve Howe",
+     "resource_url": "https://api.discogs.com/artists/253110",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Dave West",
+     "id": 95532,
+     "join": "",
+     "name": "Supa Dave West",
+     "resource_url": "https://api.discogs.com/artists/95532",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "White",
+     "id": 288990,
+     "join": "",
+     "name": "Alan White",
+     "resource_url": "https://api.discogs.com/artists/288990",
+     "role": "Written-By [Contains Elements From \"Nous Sommes De Soleil\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Squire",
+     "id": 294163,
+     "join": "",
+     "name": "Chris Squire",
+     "resource_url": "https://api.discogs.com/artists/294163",
+     "role": "Written-By [Contains Elements From \"Nous Sommes De Soleil\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Anderson",
+     "id": 5083,
+     "join": "",
+     "name": "Jon Anderson",
+     "resource_url": "https://api.discogs.com/artists/5083",
+     "role": "Written-By [Contains Elements From \"Nous Sommes De Soleil\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Wakeman",
+     "id": 149420,
+     "join": "",
+     "name": "Rick Wakeman",
+     "resource_url": "https://api.discogs.com/artists/149420",
+     "role": "Written-By [Contains Elements From \"Nous Sommes De Soleil\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Howe",
+     "id": 253110,
+     "join": "",
+     "name": "Steve Howe",
+     "resource_url": "https://api.discogs.com/artists/253110",
+     "role": "Written-By [Contains Elements From \"Nous Sommes De Soleil\"]",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "The Grind Date",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Dave Brown",
+     "id": 381528,
+     "join": "",
+     "name": "David Brown (7)",
+     "resource_url": "https://api.discogs.com/artists/381528",
+     "role": "Engineer [Assistant Engineer, Mix]",
+     "tracks": ""
+    },
+    {
+     "anv": "Brian Shturtz",
+     "id": 658158,
+     "join": "",
+     "name": "Justin Shturtz",
+     "resource_url": "https://api.discogs.com/artists/658158",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4732892,
+     "join": "",
+     "name": "Music Resources, Inc.",
+     "resource_url": "https://api.discogs.com/artists/4732892",
+     "role": "Legal [Sample Clearance Services]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208571,
+     "join": "",
+     "name": "Gimel \"Young Guru\" Keaton",
+     "resource_url": "https://api.discogs.com/artists/208571",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 131969,
+     "join": "",
+     "name": "Pleasure (4)",
+     "resource_url": "https://api.discogs.com/artists/131969",
+     "role": "Performer [Contains Elements From \"Reality\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Ninth Wonder",
+     "id": 186837,
+     "join": "",
+     "name": "9th Wonder",
+     "resource_url": "https://api.discogs.com/artists/186837",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 177094,
+     "join": "",
+     "name": "Brian Garten",
+     "resource_url": "https://api.discogs.com/artists/177094",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2104099,
+     "join": "",
+     "name": "Carlos Cano (2)",
+     "resource_url": "https://api.discogs.com/artists/2104099",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "David Jolicoeur",
+     "id": 89975,
+     "join": "",
+     "name": "Dave Jolicoeur",
+     "resource_url": "https://api.discogs.com/artists/89975",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 297026,
+     "join": "",
+     "name": "Kelvin Mercer",
+     "resource_url": "https://api.discogs.com/artists/297026",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 240015,
+     "join": "",
+     "name": "Spike Lee",
+     "resource_url": "https://api.discogs.com/artists/240015",
+     "role": "Voice [Introduction By]",
+     "tracks": ""
+    },
+    {
+     "anv": "Ninth Wonder",
+     "id": 186837,
+     "join": "",
+     "name": "9th Wonder",
+     "resource_url": "https://api.discogs.com/artists/186837",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4091,
+     "join": "",
+     "name": "De La Soul",
+     "resource_url": "https://api.discogs.com/artists/4091",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 250628,
+     "join": "",
+     "name": "Marlon McClain",
+     "resource_url": "https://api.discogs.com/artists/250628",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "McClain",
+     "id": 250628,
+     "join": "",
+     "name": "Marlon McClain",
+     "resource_url": "https://api.discogs.com/artists/250628",
+     "role": "Written-By [Contains Elements From \"Reality\"]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Church",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Dave Brown",
+     "id": 381528,
+     "join": "",
+     "name": "David Brown (7)",
+     "resource_url": "https://api.discogs.com/artists/381528",
+     "role": "Engineer [Assistant Engineer, Mix]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 658158,
+     "join": "",
+     "name": "Justin Shturtz",
+     "resource_url": "https://api.discogs.com/artists/658158",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 54813,
+     "join": "",
+     "name": "Carl Thomas",
+     "resource_url": "https://api.discogs.com/artists/54813",
+     "role": "Featuring [Feat.]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208571,
+     "join": "",
+     "name": "Gimel \"Young Guru\" Keaton",
+     "resource_url": "https://api.discogs.com/artists/208571",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 95532,
+     "join": "",
+     "name": "Supa Dave West",
+     "resource_url": "https://api.discogs.com/artists/95532",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 177094,
+     "join": "",
+     "name": "Brian Garten",
+     "resource_url": "https://api.discogs.com/artists/177094",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "David Jolicoeur",
+     "id": 89975,
+     "join": "",
+     "name": "Dave Jolicoeur",
+     "resource_url": "https://api.discogs.com/artists/89975",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 297026,
+     "join": "",
+     "name": "Kelvin Mercer",
+     "resource_url": "https://api.discogs.com/artists/297026",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 54813,
+     "join": "",
+     "name": "Carl Thomas",
+     "resource_url": "https://api.discogs.com/artists/54813",
+     "role": "Vocals [Additional Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 54813,
+     "join": "",
+     "name": "Carl Thomas",
+     "resource_url": "https://api.discogs.com/artists/54813",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4091,
+     "join": "",
+     "name": "De La Soul",
+     "resource_url": "https://api.discogs.com/artists/4091",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Dave West",
+     "id": 95532,
+     "join": "",
+     "name": "Supa Dave West",
+     "resource_url": "https://api.discogs.com/artists/95532",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "It's Like That",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Dave Brown",
+     "id": 381528,
+     "join": "",
+     "name": "David Brown (7)",
+     "resource_url": "https://api.discogs.com/artists/381528",
+     "role": "Engineer [Assistant Engineer, Mix]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 658158,
+     "join": "",
+     "name": "Justin Shturtz",
+     "resource_url": "https://api.discogs.com/artists/658158",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "Ghostface",
+     "id": 44958,
+     "join": "",
+     "name": "Ghostface Killah",
+     "resource_url": "https://api.discogs.com/artists/44958",
+     "role": "Featuring [Feat.]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4732892,
+     "join": "",
+     "name": "Music Resources, Inc.",
+     "resource_url": "https://api.discogs.com/artists/4732892",
+     "role": "Legal [Sample Clearance Services]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208571,
+     "join": "",
+     "name": "Gimel \"Young Guru\" Keaton",
+     "resource_url": "https://api.discogs.com/artists/208571",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 180227,
+     "join": "",
+     "name": "Eugene Record",
+     "resource_url": "https://api.discogs.com/artists/180227",
+     "role": "Performer [Contains Elements From \"Here Comes The Sun\"], Producer [Contains Elements From \"Here Comes The Sun\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 95532,
+     "join": "",
+     "name": "Supa Dave West",
+     "resource_url": "https://api.discogs.com/artists/95532",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "Joe Nardones",
+     "id": 419161,
+     "join": "",
+     "name": "Joe Nardone",
+     "resource_url": "https://api.discogs.com/artists/419161",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "Steve \"Spidey\" Glicken",
+     "id": 412092,
+     "join": "",
+     "name": "Stephen \"Spidey\" Glicken",
+     "resource_url": "https://api.discogs.com/artists/412092",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "David Jolicoeur",
+     "id": 89975,
+     "join": "",
+     "name": "Dave Jolicoeur",
+     "resource_url": "https://api.discogs.com/artists/89975",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 606576,
+     "join": "",
+     "name": "Dennis Coles",
+     "resource_url": "https://api.discogs.com/artists/606576",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 297026,
+     "join": "",
+     "name": "Kelvin Mercer",
+     "resource_url": "https://api.discogs.com/artists/297026",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4091,
+     "join": "",
+     "name": "De La Soul",
+     "resource_url": "https://api.discogs.com/artists/4091",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 180227,
+     "join": "",
+     "name": "Eugene Record",
+     "resource_url": "https://api.discogs.com/artists/180227",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Ghostface",
+     "id": 44958,
+     "join": "",
+     "name": "Ghostface Killah",
+     "resource_url": "https://api.discogs.com/artists/44958",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Dave West",
+     "id": 95532,
+     "join": "",
+     "name": "Supa Dave West",
+     "resource_url": "https://api.discogs.com/artists/95532",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Record",
+     "id": 180227,
+     "join": "",
+     "name": "Eugene Record",
+     "resource_url": "https://api.discogs.com/artists/180227",
+     "role": "Written-By [Contains Elements From \"Here Comes The Sun\"]",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "He Comes",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Dave Brown",
+     "id": 381528,
+     "join": "",
+     "name": "David Brown (7)",
+     "resource_url": "https://api.discogs.com/artists/381528",
+     "role": "Engineer [Assistant Engineer, Mix]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 658158,
+     "join": "",
+     "name": "Justin Shturtz",
+     "resource_url": "https://api.discogs.com/artists/658158",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 14014,
+     "join": "",
+     "name": "Common",
+     "resource_url": "https://api.discogs.com/artists/14014",
+     "role": "Featuring [Feat.]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4732892,
+     "join": "",
+     "name": "Music Resources, Inc.",
+     "resource_url": "https://api.discogs.com/artists/4732892",
+     "role": "Legal [Sample Clearance Services]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208571,
+     "join": "",
+     "name": "Gimel \"Young Guru\" Keaton",
+     "resource_url": "https://api.discogs.com/artists/208571",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 48413,
+     "join": "",
+     "name": "Ohio Players",
+     "resource_url": "https://api.discogs.com/artists/48413",
+     "role": "Performer [Contains Elements From \"My Life\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 89475,
+     "join": "",
+     "name": "Jake One",
+     "resource_url": "https://api.discogs.com/artists/89475",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 177094,
+     "join": "",
+     "name": "Brian Garten",
+     "resource_url": "https://api.discogs.com/artists/177094",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 329405,
+     "join": "",
+     "name": "Carlos Warlick",
+     "resource_url": "https://api.discogs.com/artists/329405",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "David Jolicoeur",
+     "id": 89975,
+     "join": "",
+     "name": "Dave Jolicoeur",
+     "resource_url": "https://api.discogs.com/artists/89975",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 297026,
+     "join": "",
+     "name": "Kelvin Mercer",
+     "resource_url": "https://api.discogs.com/artists/297026",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Lonnie Lynn",
+     "id": 737750,
+     "join": "",
+     "name": "Lonnie Rashid Lynn",
+     "resource_url": "https://api.discogs.com/artists/737750",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "William Beck",
+     "id": 273346,
+     "join": "",
+     "name": "Billy Beck",
+     "resource_url": "https://api.discogs.com/artists/273346",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 302237,
+     "join": "",
+     "name": "Clarence Satchell",
+     "resource_url": "https://api.discogs.com/artists/302237",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 14014,
+     "join": "",
+     "name": "Common",
+     "resource_url": "https://api.discogs.com/artists/14014",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4091,
+     "join": "",
+     "name": "De La Soul",
+     "resource_url": "https://api.discogs.com/artists/4091",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 89475,
+     "join": "",
+     "name": "Jake One",
+     "resource_url": "https://api.discogs.com/artists/89475",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "James Williams",
+     "id": 422689,
+     "join": "",
+     "name": "James \"Diamond\" Williams",
+     "resource_url": "https://api.discogs.com/artists/422689",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Leroy Bonner",
+     "id": 168235,
+     "join": "",
+     "name": "Leroy \"Sugarfoot\" Bonner",
+     "resource_url": "https://api.discogs.com/artists/168235",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 312244,
+     "join": "",
+     "name": "Marshall Jones",
+     "resource_url": "https://api.discogs.com/artists/312244",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Marvin Pierce",
+     "id": 422683,
+     "join": "",
+     "name": "Marvin \"Merv\" Pierce",
+     "resource_url": "https://api.discogs.com/artists/422683",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Ralph Middlebrooks",
+     "id": 422686,
+     "join": "",
+     "name": "Ralph \"Pee Wee\" Middlebrooks",
+     "resource_url": "https://api.discogs.com/artists/422686",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Beck",
+     "id": 273346,
+     "join": "",
+     "name": "Billy Beck",
+     "resource_url": "https://api.discogs.com/artists/273346",
+     "role": "Written-By [Contains Elements From \"My Life\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Satchell",
+     "id": 302237,
+     "join": "",
+     "name": "Clarence Satchell",
+     "resource_url": "https://api.discogs.com/artists/302237",
+     "role": "Written-By [Contains Elements From \"My Life\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Williams",
+     "id": 422689,
+     "join": "",
+     "name": "James \"Diamond\" Williams",
+     "resource_url": "https://api.discogs.com/artists/422689",
+     "role": "Written-By [Contains Elements From \"My Life\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Bonner",
+     "id": 168235,
+     "join": "",
+     "name": "Leroy \"Sugarfoot\" Bonner",
+     "resource_url": "https://api.discogs.com/artists/168235",
+     "role": "Written-By [Contains Elements From \"My Life\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Jones",
+     "id": 312244,
+     "join": "",
+     "name": "Marshall Jones",
+     "resource_url": "https://api.discogs.com/artists/312244",
+     "role": "Written-By [Contains Elements From \"My Life\"]",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Days Of Our Lives",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Dave Brown",
+     "id": 381528,
+     "join": "",
+     "name": "David Brown (7)",
+     "resource_url": "https://api.discogs.com/artists/381528",
+     "role": "Engineer [Assistant Engineer, Mix]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 658158,
+     "join": "",
+     "name": "Justin Shturtz",
+     "resource_url": "https://api.discogs.com/artists/658158",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "Flava Flav",
+     "id": 22484,
+     "join": "",
+     "name": "Flavor Flav",
+     "resource_url": "https://api.discogs.com/artists/22484",
+     "role": "Featuring [Feat.]",
+     "tracks": ""
+    },
+    {
+     "anv": "Gimel \"Young Guru\"",
+     "id": 208571,
+     "join": "",
+     "name": "Gimel \"Young Guru\" Keaton",
+     "resource_url": "https://api.discogs.com/artists/208571",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 16508,
+     "join": "",
+     "name": "Madlib",
+     "resource_url": "https://api.discogs.com/artists/16508",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2104099,
+     "join": "",
+     "name": "Carlos Cano (2)",
+     "resource_url": "https://api.discogs.com/artists/2104099",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 214896,
+     "join": "",
+     "name": "Dave Dar",
+     "resource_url": "https://api.discogs.com/artists/214896",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "David Jolicoeur",
+     "id": 89975,
+     "join": "",
+     "name": "Dave Jolicoeur",
+     "resource_url": "https://api.discogs.com/artists/89975",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 297026,
+     "join": "",
+     "name": "Kelvin Mercer",
+     "resource_url": "https://api.discogs.com/artists/297026",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Flava Flav",
+     "id": 22484,
+     "join": "",
+     "name": "Flavor Flav",
+     "resource_url": "https://api.discogs.com/artists/22484",
+     "role": "Vocals [Additional Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4091,
+     "join": "",
+     "name": "De La Soul",
+     "resource_url": "https://api.discogs.com/artists/4091",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 16508,
+     "join": "",
+     "name": "Madlib",
+     "resource_url": "https://api.discogs.com/artists/16508",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Come On Down",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 658158,
+     "join": "",
+     "name": "Justin Shturtz",
+     "resource_url": "https://api.discogs.com/artists/658158",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 240016,
+     "join": "",
+     "name": "Butta Verses",
+     "resource_url": "https://api.discogs.com/artists/240016",
+     "role": "Featuring [Feat.]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4732892,
+     "join": "",
+     "name": "Music Resources, Inc.",
+     "resource_url": "https://api.discogs.com/artists/4732892",
+     "role": "Legal [Sample Clearance Services]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 170701,
+     "join": "",
+     "name": "Troy Hightower",
+     "resource_url": "https://api.discogs.com/artists/170701",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 41157,
+     "join": "",
+     "name": "The Jackson 5",
+     "resource_url": "https://api.discogs.com/artists/41157",
+     "role": "Performer [Contains Elements From \"Never Can Say Goodbye\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 95532,
+     "join": "",
+     "name": "Supa Dave West",
+     "resource_url": "https://api.discogs.com/artists/95532",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 419161,
+     "join": "",
+     "name": "Joe Nardone",
+     "resource_url": "https://api.discogs.com/artists/419161",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "David Jolicoeur",
+     "id": 89975,
+     "join": "",
+     "name": "Dave Jolicoeur",
+     "resource_url": "https://api.discogs.com/artists/89975",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "John Cullen",
+     "id": 3089317,
+     "join": "",
+     "name": "John Joseph Cullen",
+     "resource_url": "https://api.discogs.com/artists/3089317",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 297026,
+     "join": "",
+     "name": "Kelvin Mercer",
+     "resource_url": "https://api.discogs.com/artists/297026",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 48745,
+     "join": "",
+     "name": "Elizabeth \"Yummy\" Bingham",
+     "resource_url": "https://api.discogs.com/artists/48745",
+     "role": "Vocals [Additional Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 240016,
+     "join": "",
+     "name": "Butta Verses",
+     "resource_url": "https://api.discogs.com/artists/240016",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 618724,
+     "join": "",
+     "name": "Clifton Davis",
+     "resource_url": "https://api.discogs.com/artists/618724",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4091,
+     "join": "",
+     "name": "De La Soul",
+     "resource_url": "https://api.discogs.com/artists/4091",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Dave West",
+     "id": 95532,
+     "join": "",
+     "name": "Supa Dave West",
+     "resource_url": "https://api.discogs.com/artists/95532",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Davis",
+     "id": 618724,
+     "join": "",
+     "name": "Clifton Davis",
+     "resource_url": "https://api.discogs.com/artists/618724",
+     "role": "Written-By [Contains Elements From \"Never Can Say Goodbye\"]",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "No",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Dave Brown",
+     "id": 381528,
+     "join": "",
+     "name": "David Brown (7)",
+     "resource_url": "https://api.discogs.com/artists/381528",
+     "role": "Engineer [Assistant Engineer, Mix]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 658158,
+     "join": "",
+     "name": "Justin Shturtz",
+     "resource_url": "https://api.discogs.com/artists/658158",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 25058,
+     "join": "",
+     "name": "MF Doom",
+     "resource_url": "https://api.discogs.com/artists/25058",
+     "role": "Featuring [Feat.]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4732892,
+     "join": "",
+     "name": "Music Resources, Inc.",
+     "resource_url": "https://api.discogs.com/artists/4732892",
+     "role": "Legal [Sample Clearance Services]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208571,
+     "join": "",
+     "name": "Gimel \"Young Guru\" Keaton",
+     "resource_url": "https://api.discogs.com/artists/208571",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5705,
+     "join": "",
+     "name": "Space",
+     "resource_url": "https://api.discogs.com/artists/5705",
+     "role": "Performer [Contains Elements From \"Deliverance\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 89475,
+     "join": "",
+     "name": "Jake One",
+     "resource_url": "https://api.discogs.com/artists/89475",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 177094,
+     "join": "",
+     "name": "Brian Garten",
+     "resource_url": "https://api.discogs.com/artists/177094",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 701676,
+     "join": "",
+     "name": "Daniel Dumile",
+     "resource_url": "https://api.discogs.com/artists/701676",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "David Jolicoeur",
+     "id": 89975,
+     "join": "",
+     "name": "Dave Jolicoeur",
+     "resource_url": "https://api.discogs.com/artists/89975",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 297026,
+     "join": "",
+     "name": "Kelvin Mercer",
+     "resource_url": "https://api.discogs.com/artists/297026",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4091,
+     "join": "",
+     "name": "De La Soul",
+     "resource_url": "https://api.discogs.com/artists/4091",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 69225,
+     "join": "",
+     "name": "Didier Marouani",
+     "resource_url": "https://api.discogs.com/artists/69225",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 89475,
+     "join": "",
+     "name": "Jake One",
+     "resource_url": "https://api.discogs.com/artists/89475",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 25058,
+     "join": "",
+     "name": "MF Doom",
+     "resource_url": "https://api.discogs.com/artists/25058",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Paul Greedos",
+     "id": 87385,
+     "join": "",
+     "name": "Paul Greedus",
+     "resource_url": "https://api.discogs.com/artists/87385",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 211826,
+     "join": "",
+     "name": "Roland Romanelli",
+     "resource_url": "https://api.discogs.com/artists/211826",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Marouani",
+     "id": 69225,
+     "join": "",
+     "name": "Didier Marouani",
+     "resource_url": "https://api.discogs.com/artists/69225",
+     "role": "Written-By [Contains Elements From \"Deliverance\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Greedos",
+     "id": 87385,
+     "join": "",
+     "name": "Paul Greedus",
+     "resource_url": "https://api.discogs.com/artists/87385",
+     "role": "Written-By [Contains Elements From \"Deliverance\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "Romanelli",
+     "id": 211826,
+     "join": "",
+     "name": "Roland Romanelli",
+     "resource_url": "https://api.discogs.com/artists/211826",
+     "role": "Written-By [Contains Elements From \"Deliverance\"]",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Rock Co.Kane Flow",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 111502,
+     "join": "",
+     "name": "Sean Paul",
+     "resource_url": "https://api.discogs.com/artists/111502",
+     "role": "Featuring [Feat.]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 55902,
+     "join": "",
+     "name": "Adrian Belew",
+     "resource_url": "https://api.discogs.com/artists/55902",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Christopher Frantz",
+     "id": 47110,
+     "join": "",
+     "name": "Chris Frantz",
+     "resource_url": "https://api.discogs.com/artists/47110",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4091,
+     "join": "",
+     "name": "De La Soul",
+     "resource_url": "https://api.discogs.com/artists/4091",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "James Dewitt Yancey",
+     "id": 246270,
+     "join": "",
+     "name": "James Yancey",
+     "resource_url": "https://api.discogs.com/artists/246270",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Paul E Huston",
+     "id": 222087,
+     "join": "",
+     "name": "Paul Huston",
+     "resource_url": "https://api.discogs.com/artists/222087",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Sean Paul Henriques",
+     "id": 244633,
+     "join": "",
+     "name": "Sean Henriques",
+     "resource_url": "https://api.discogs.com/artists/244633",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Steven JC Stanley",
+     "id": 15826,
+     "join": "",
+     "name": "Steven Stanley",
+     "resource_url": "https://api.discogs.com/artists/15826",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 47111,
+     "join": "",
+     "name": "Tina Weymouth",
+     "resource_url": "https://api.discogs.com/artists/47111",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Shoomp",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D1",
+   "title": "The Grind Date (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D2",
+   "title": "Verbal Clap (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D3",
+   "title": "Shopping Bags (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D4",
+   "title": "Days Of Our Lives (Instrumental)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/33418310-De-La-Soul-The-Grind-Date",
+ "year": 2025
+}

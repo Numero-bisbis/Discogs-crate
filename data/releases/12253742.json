@@ -1,0 +1,145 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 30700,
+   "join": "",
+   "name": "Jorge Ben",
+   "resource_url": "https://api.discogs.com/artists/30700",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/YrZrtcgzr7JXAas6dF4203qngvIOGZc5V7SUFf-mGOk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMwNzAw/LTE2NjM5NTAwOTQt/NTg3OC5wbmc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "180 Gram"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Latin"
+ ],
+ "id": 12253742,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/ElwLhBpTN7NO94UOjMmrYRaJaJfqbPAVQdRtAYv6uoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjUz/NzQyLTE1MzE0OTg4/MDEtNzMzNy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/ElwLhBpTN7NO94UOjMmrYRaJaJfqbPAVQdRtAYv6uoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjUz/NzQyLTE1MzE0OTg4/MDEtNzMzNy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/cyhuRchzaTSlHtwHgnjSQ1C1Jc9tqD9COnDi9Qa4R6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjUz/NzQyLTE1MzE0OTg4/MDEtNzMzNy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "700133",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 7704,
+   "name": "Philips",
+   "resource_url": "https://api.discogs.com/labels/7704",
+   "thumbnail_url": "https://i.discogs.com/BY7mNngwEuD3bNOAGPUYtjO9qCpDys2iwpP8hwhnWLk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc3MDQt/MTU5Njc0Mjg3Mi0y/MzQ1LmpwZWc.jpeg"
+  },
+  {
+   "catno": "700133",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 58690,
+   "name": "Elemental Music",
+   "resource_url": "https://api.discogs.com/labels/58690",
+   "thumbnail_url": "https://i.discogs.com/Nq2-VJPTpeWUktB4xOoEKmdj-v6ZI1DzL82MjCoIj-0/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4Njkw/LTE0MzAyMjI4OTkt/OTYzOC5wbmc.jpeg"
+  }
+ ],
+ "notes": "Originally released by Philips in 1974.\n",
+ "released": "2018",
+ "styles": [
+  "MPB",
+  "Samba"
+ ],
+ "title": "A Tábua De Esmeralda",
+ "tracklist": [
+  {
+   "duration": "3:15",
+   "position": "A1",
+   "title": "Os Alquimistas Estão Chegando Os Alquimistas",
+   "type_": "track"
+  },
+  {
+   "duration": "3:05",
+   "position": "A2",
+   "title": "O Homem Da Gravata Florida (A Gravata Florida De Paracelso)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:50",
+   "position": "A3",
+   "title": "Errare Humanum Est",
+   "type_": "track"
+  },
+  {
+   "duration": "2:57",
+   "position": "A4",
+   "title": "Menina Mulher Da Pele Preta",
+   "type_": "track"
+  },
+  {
+   "duration": "3:15",
+   "position": "A5",
+   "title": "Eu Vou Torcer",
+   "type_": "track"
+  },
+  {
+   "duration": "3:14",
+   "position": "A6",
+   "title": "Magnólia",
+   "type_": "track"
+  },
+  {
+   "duration": "2:41",
+   "position": "B1",
+   "title": "Minha Teimosia, Uma Arma Pra Te Conquistar",
+   "type_": "track"
+  },
+  {
+   "duration": "3:31",
+   "position": "B2",
+   "title": "Zumbi",
+   "type_": "track"
+  },
+  {
+   "duration": "2:54",
+   "position": "B3",
+   "title": "Brother",
+   "type_": "track"
+  },
+  {
+   "duration": "2:03",
+   "position": "B4",
+   "title": "O Namorado Da Viúva",
+   "type_": "track"
+  },
+  {
+   "duration": "5:30",
+   "position": "B5",
+   "title": "Hermes Trismegisto E Sua Celeste Tábua De Esmeralda (Tratado Hermético Escrito Pelo Faraó Egipcio Hermes Trismegisto E Traduzido Por Fulcanelli)",
+   "type_": "track"
+  },
+  {
+   "duration": "2:57",
+   "position": "B6",
+   "title": "Cinco Minutos (5 Minutos)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12253742-Jorge-Ben-A-Tábua-De-Esmeralda",
+ "year": 2018
+}

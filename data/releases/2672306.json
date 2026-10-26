@@ -1,0 +1,188 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 238359,
+   "join": "",
+   "name": "Art Webb",
+   "resource_url": "https://api.discogs.com/artists/238359",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/3H3UDFWsfa0lfGVdIJSwrNMfFtoNnszxuZTY1JowEug/rs:fit/g:sm/q:90/h:493/w:457/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIzODM1/OS0xNTk5OTE4ODEx/LTIyNjIucG5n.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "PRC Pressing"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Funk / Soul"
+ ],
+ "id": 2672306,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/9ReDzll4cmElrUNEGCLrnEcoaINWmHFi8KCFUBQPYfE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzIz/MDYtMTUwMzk1MjIy/NC0yMzQwLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/9ReDzll4cmElrUNEGCLrnEcoaINWmHFi8KCFUBQPYfE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzIz/MDYtMTUwMzk1MjIy/NC0yMzQwLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/xK5kcIvKmS9ho7Lhx532NJb0CQq193ley5jj3JJotDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzIz/MDYtMTUwMzk1MjIy/NC0yMzQwLmpwZWc.jpeg",
+   "width": 598
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SD 18212",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 681,
+   "name": "Atlantic",
+   "resource_url": "https://api.discogs.com/labels/681",
+   "thumbnail_url": "https://i.discogs.com/PvGehzQPvOW9qMVS-EDAeOmU6qODkqTEQ5bW03gpVyo/rs:fit/g:sm/q:90/h:426/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MS0x/NTEwNjgyMTM0LTgz/NTAucG5n.jpeg"
+  }
+ ],
+ "notes": "[l408779] pressing per RI suffix in label matrix and PRC etched in runout.\n\nRecorded at Sound Ideas Studios, New York.",
+ "released": "1977",
+ "styles": [
+  "Jazz-Funk",
+  "Disco"
+ ],
+ "title": "Mr. Flute",
+ "tracklist": [
+  {
+   "duration": "3:16",
+   "position": "A1",
+   "title": "Mr. Flute",
+   "type_": "track"
+  },
+  {
+   "duration": "4:03",
+   "position": "A2",
+   "title": "Dobie",
+   "type_": "track"
+  },
+  {
+   "duration": "4:16",
+   "position": "A3",
+   "title": "Good Times In Life",
+   "type_": "track"
+  },
+  {
+   "duration": "4:14",
+   "position": "A4",
+   "title": "Sweet Thing",
+   "type_": "track"
+  },
+  {
+   "duration": "5:00",
+   "position": "B1",
+   "title": "Come And Get Some Of This",
+   "type_": "track"
+  },
+  {
+   "duration": "6:23",
+   "position": "B2",
+   "title": "Smile",
+   "type_": "track"
+  },
+  {
+   "duration": "6:23",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1055853,
+     "join": "",
+     "name": "Raices",
+     "resource_url": "https://api.discogs.com/artists/1055853",
+     "role": "Accompanied By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 255174,
+     "join": "",
+     "name": "Dennis Davis",
+     "resource_url": "https://api.discogs.com/artists/255174",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "Carlos Melendez",
+     "id": 821528,
+     "join": "",
+     "name": "Carlos \"Kiko\" Melendez",
+     "resource_url": "https://api.discogs.com/artists/821528",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "Edward Rivera",
+     "id": 676418,
+     "join": "",
+     "name": "Eddie Rivera",
+     "resource_url": "https://api.discogs.com/artists/676418",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1409082,
+     "join": "",
+     "name": "Gonchi Sifre",
+     "resource_url": "https://api.discogs.com/artists/1409082",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1060451,
+     "join": "",
+     "name": "Juan Melendez",
+     "resource_url": "https://api.discogs.com/artists/1060451",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 440551,
+     "join": "",
+     "name": "Mark Gray (2)",
+     "resource_url": "https://api.discogs.com/artists/440551",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "Rafael Cruz",
+     "id": 409977,
+     "join": "",
+     "name": "Raphael Cruz",
+     "resource_url": "https://api.discogs.com/artists/409977",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 253339,
+     "join": "",
+     "name": "Sammy Figueroa",
+     "resource_url": "https://api.discogs.com/artists/253339",
+     "role": "Performer",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Melon Grove",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/2672306-Art-Webb-Mr-Flute",
+ "year": 1977
+}

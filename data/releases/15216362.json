@@ -1,0 +1,941 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3814795,
+   "join": "&",
+   "name": "Tom Misch",
+   "resource_url": "https://api.discogs.com/artists/3814795",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/faWX-yLXyuBEnNqA5JLDK9zQ1SSW48l8twPT6Q-Un-g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4MTQ3/OTUtMTU3ODA3OTU4/OC04MTQ2LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 3464319,
+   "join": "",
+   "name": "Yussef Dayes",
+   "resource_url": "https://api.discogs.com/artists/3464319",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/7pUtKaGTF1g9Sbcpzu9M7WbZBkcrWZSFvX084fl1QO4/rs:fit/g:sm/q:90/h:438/w:265/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM0NjQz/MTktMTQ3NDI4NzQ2/Ni0xNTk4LnBuZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "180 Gram, Gatefold"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Jazz"
+ ],
+ "id": 15216362,
+ "images": [
+  {
+   "height": 594,
+   "resource_url": "https://i.discogs.com/KZF4muGPYBWrma1qMJM_8EAnXIjgHNskI1yiS7esixo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjE2/MzYyLTE1ODgyNDEw/MDUtMzA4OC5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/KZF4muGPYBWrma1qMJM_8EAnXIjgHNskI1yiS7esixo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjE2/MzYyLTE1ODgyNDEw/MDUtMzA4OC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/hoaAtI_EDYQ1L8Tfwo4lxh_PdGsOn67DFQDoVYx_5hI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjE2/MzYyLTE1ODgyNDEw/MDUtMzA4OC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "2812123108",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 281,
+   "name": "Blue Note",
+   "resource_url": "https://api.discogs.com/labels/281",
+   "thumbnail_url": "https://i.discogs.com/3HpIGTTfcLBKDF0WKsdSygbdfgirR7shFM3kGhgArBI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MS0x/NTAyNjQwNjY3LTQ4/MzMucG5n.jpeg"
+  },
+  {
+   "catno": "2812123108",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 773641,
+   "name": "Beyond The Groove",
+   "resource_url": "https://api.discogs.com/labels/773641"
+  }
+ ],
+ "notes": "℗ & © 2020 Beyond The Groove. Distributed by Blue Note Records / Caroline. All rights reserved. Unauthorised copying, reproduction, hiring, lending, public performance and broadcasting prohibited. Made in Czech Republic. BIEM / SDRM. Cat. 2812123108 \n\nIn addition to the regular catalog number, there is a second number shown in a few locations:\n",
+ "released": "2020-04-24",
+ "styles": [
+  "Contemporary Jazz"
+ ],
+ "title": "What Kinda Music",
+ "tracklist": [
+  {
+   "duration": "3:50",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Drums, Programmed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5164417,
+     "join": "",
+     "name": "Tobie Tripp",
+     "resource_url": "https://api.discogs.com/artists/5164417",
+     "role": "Strings",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Vocals, Synth",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "What Kinda Music",
+   "type_": "track"
+  },
+  {
+   "duration": "4:42",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Guitar, Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4886407,
+     "join": "",
+     "name": "Miles James (2)",
+     "resource_url": "https://api.discogs.com/artists/4886407",
+     "role": "Producer [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5360760,
+     "join": "",
+     "name": "Kaidi Akinnibi",
+     "resource_url": "https://api.discogs.com/artists/5360760",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5164417,
+     "join": "",
+     "name": "Tobie Tripp",
+     "resource_url": "https://api.discogs.com/artists/5164417",
+     "role": "Strings",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4886407,
+     "join": "",
+     "name": "Miles James (2)",
+     "resource_url": "https://api.discogs.com/artists/4886407",
+     "role": "Synth [Synth Bass]",
+     "tracks": ""
+    },
+    {
+     "anv": "Francis Anthony White",
+     "id": 592057,
+     "join": "",
+     "name": "Francis White",
+     "resource_url": "https://api.discogs.com/artists/592057",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Festival",
+   "type_": "track"
+  },
+  {
+   "duration": "5:00",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3914757,
+     "join": "",
+     "name": "Jordan Rakei",
+     "resource_url": "https://api.discogs.com/artists/3914757",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1638200,
+     "join": "",
+     "name": "Freddie Gibbs",
+     "resource_url": "https://api.discogs.com/artists/1638200",
+     "role": "Featuring, Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4886407,
+     "join": "",
+     "name": "Miles James (2)",
+     "resource_url": "https://api.discogs.com/artists/4886407",
+     "role": "Guitar [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5164417,
+     "join": "",
+     "name": "Tobie Tripp",
+     "resource_url": "https://api.discogs.com/artists/5164417",
+     "role": "Strings",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Vocals, Guitar, Synth",
+     "tracks": ""
+    },
+    {
+     "anv": "Syed Adam Jaffrey",
+     "id": 2587679,
+     "join": "",
+     "name": "Adam Jaffrey",
+     "resource_url": "https://api.discogs.com/artists/2587679",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1638200,
+     "join": "",
+     "name": "Freddie Gibbs",
+     "resource_url": "https://api.discogs.com/artists/1638200",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3914757,
+     "join": "",
+     "name": "Jordan Rakei",
+     "resource_url": "https://api.discogs.com/artists/3914757",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4886407,
+     "join": "",
+     "name": "Miles James (2)",
+     "resource_url": "https://api.discogs.com/artists/4886407",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1033474,
+     "join": "",
+     "name": "Tom Driessler",
+     "resource_url": "https://api.discogs.com/artists/1033474",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Nightrider",
+   "type_": "track"
+  },
+  {
+   "duration": "4:09",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 345205,
+     "join": "",
+     "name": "Joel Culpepper",
+     "resource_url": "https://api.discogs.com/artists/345205",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6719555,
+     "join": "",
+     "name": "Rocco Palladino",
+     "resource_url": "https://api.discogs.com/artists/6719555",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Drums, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Vocals, Synth",
+     "tracks": ""
+    },
+    {
+     "anv": "Francis Anthony White",
+     "id": 592057,
+     "join": "",
+     "name": "Francis White",
+     "resource_url": "https://api.discogs.com/artists/592057",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6719555,
+     "join": "",
+     "name": "Rocco Palladino",
+     "resource_url": "https://api.discogs.com/artists/6719555",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Tidal Wave",
+   "type_": "track"
+  },
+  {
+   "duration": "1:24",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5164417,
+     "join": "",
+     "name": "Tobie Tripp",
+     "resource_url": "https://api.discogs.com/artists/5164417",
+     "role": "Strings",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6719555,
+     "join": "",
+     "name": "Rocco Palladino",
+     "resource_url": "https://api.discogs.com/artists/6719555",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Sensational",
+   "type_": "track"
+  },
+  {
+   "duration": "2:41",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Drums, Synth",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Vocals, Guitar, Synth",
+     "tracks": ""
+    },
+    {
+     "anv": "Ashford/Simpson",
+     "id": 15875,
+     "join": "",
+     "name": "Ashford & Simpson",
+     "resource_url": "https://api.discogs.com/artists/15875",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Francis Anthony White",
+     "id": 592057,
+     "join": "",
+     "name": "Francis White",
+     "resource_url": "https://api.discogs.com/artists/592057",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "The Real",
+   "type_": "track"
+  },
+  {
+   "duration": "5:18",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6719555,
+     "join": "",
+     "name": "Rocco Palladino",
+     "resource_url": "https://api.discogs.com/artists/6719555",
+     "role": "Featuring, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6719555,
+     "join": "",
+     "name": "Rocco Palladino",
+     "resource_url": "https://api.discogs.com/artists/6719555",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Lift Off",
+   "type_": "track"
+  },
+  {
+   "duration": "4:01",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Vocals, Guitar, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "I Did It For You",
+   "type_": "track"
+  },
+  {
+   "duration": "4:00",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 85597,
+     "join": "",
+     "name": "Vula",
+     "resource_url": "https://api.discogs.com/artists/85597",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Drums, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Vocals, Guitar, Bass, Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "Francis Anthony White",
+     "id": 592057,
+     "join": "",
+     "name": "Francis White",
+     "resource_url": "https://api.discogs.com/artists/592057",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Last 100",
+   "type_": "track"
+  },
+  {
+   "duration": "3:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6719555,
+     "join": "",
+     "name": "Rocco Palladino",
+     "resource_url": "https://api.discogs.com/artists/6719555",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6719555,
+     "join": "",
+     "name": "Rocco Palladino",
+     "resource_url": "https://api.discogs.com/artists/6719555",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Kyiv",
+   "type_": "track"
+  },
+  {
+   "duration": "3:17",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6719555,
+     "join": "",
+     "name": "Rocco Palladino",
+     "resource_url": "https://api.discogs.com/artists/6719555",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6719555,
+     "join": "",
+     "name": "Rocco Palladino",
+     "resource_url": "https://api.discogs.com/artists/6719555",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1033474,
+     "join": "",
+     "name": "Tom Driessler",
+     "resource_url": "https://api.discogs.com/artists/1033474",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Julie Mangos",
+   "type_": "track"
+  },
+  {
+   "duration": "3:05",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5360760,
+     "join": "",
+     "name": "Kaidi Akinnibi",
+     "resource_url": "https://api.discogs.com/artists/5360760",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Piano, Synth, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5360760,
+     "join": "",
+     "name": "Kaidi Akinnibi",
+     "resource_url": "https://api.discogs.com/artists/5360760",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5360760,
+     "join": "",
+     "name": "Kaidi Akinnibi",
+     "resource_url": "https://api.discogs.com/artists/5360760",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3464319,
+     "join": "",
+     "name": "Yussef Dayes",
+     "resource_url": "https://api.discogs.com/artists/3464319",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Storm Before The Calm",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15216362-Tom-Misch-Yussef-Dayes-What-Kinda-Music",
+ "year": 2020
+}

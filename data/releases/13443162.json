@@ -1,0 +1,91 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4898814,
+   "join": "&",
+   "name": "Felipe Gordon",
+   "resource_url": "https://api.discogs.com/artists/4898814",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/iTUbmuqB-_O6pGotrilmBK3zvV6FxTu1OOkyD-FuRqo/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4OTg4/MTQtMTY3MDIzMjQ2/MC01NTA2LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 5599270,
+   "join": "",
+   "name": "Vagabundo Club Social",
+   "resource_url": "https://api.discogs.com/artists/5599270",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/N_6T4GxoCOC28u4EJI7JVcemXjjgY0LP8uxvHUc5dXU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU1OTky/NzAtMTU4NDMyNzQ2/OS04MzA4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Funk / Soul",
+  "Folk, World, & Country"
+ ],
+ "id": 13443162,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/8ipOmPu4Cq2tK45NdeX-X3HcCH7ne3fMk14G2TRaNvI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQz/MTYyLTE1NTQzMTQy/MzMtODI0Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/8ipOmPu4Cq2tK45NdeX-X3HcCH7ne3fMk14G2TRaNvI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQz/MTYyLTE1NTQzMTQy/MzMtODI0Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/OAnp_dis_COUj4jiht4A3XX_-AcH2HgPIAj-qa-qM2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQz/MTYyLTE1NTQzMTQy/MzMtODI0Ny5qcGVn.jpeg",
+   "width": 593
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RNT046",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3164471,
+   "name": "Razor-N-Tape",
+   "resource_url": "https://api.discogs.com/labels/3164471",
+   "thumbnail_url": "https://i.discogs.com/f-wlf6geO4UdrroOqUDKawckRUUPz7FhLCXawWRX-Lw/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNjQ0/NzEtMTY3ODM3Njg2/NS0yNjQ3LnBuZw.jpeg"
+  }
+ ],
+ "notes": "A side plays at 45 RPM.\nB side plays at 33 ⅓ RPM.",
+ "released": "2019-04-03",
+ "styles": [
+  "Disco",
+  "Afrobeat"
+ ],
+ "title": "Felipe Gordon & Vagabundo Club Social Edits",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Shakala",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Los Bareteros",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "El Cateter",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13443162-Felipe-Gordon-Vagabundo-Club-Social-Felipe-Gordon-Vagabundo-Club-Social-Edits",
+ "year": 2019
+}

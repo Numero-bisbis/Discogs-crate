@@ -1,0 +1,133 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 30958,
+   "join": "v",
+   "name": "Floorplan",
+   "resource_url": "https://api.discogs.com/artists/30958",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Fhfy3VoCd6BBt6pK26B4tWmwq20lcD92MPg8jXdt89c/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMwOTU4/LTE3Njc0OTM4Mjct/Nzk4NC5wbmc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 459,
+   "join": "",
+   "name": "Mark Broom",
+   "resource_url": "https://api.discogs.com/artists/459",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/bZ_jlVDHLKQTWsL-WlwTMa77IpE9hKyxxNuK82yadOg/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ1OS0x/Njc1NzE3NTAwLTk1/NDQuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Netherlands",
+ "formats": [
+  {
+   "descriptions": [
+    "MP3",
+    "EP"
+   ],
+   "name": "File",
+   "qty": "3",
+   "text": "320 kbps"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13546857,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/v9Lu__dSpmN4P3CehucHXc_hpRzFeZJWDzuPu18vjoI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQ2/ODU3LTE2MDE2MTk3/NjUtNDQ1OS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/v9Lu__dSpmN4P3CehucHXc_hpRzFeZJWDzuPu18vjoI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQ2/ODU3LTE2MDE2MTk3/NjUtNDQ1OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/ChPao3a9dfcOBmsoWU_01l3ziwJkprcN7IfttzA2x4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQ2/ODU3LTE2MDE2MTk3/NjUtNDQ1OS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "EPM72",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 123159,
+   "name": "Epm Music",
+   "resource_url": "https://api.discogs.com/labels/123159",
+   "thumbnail_url": "https://i.discogs.com/B6vdP0ZcZha8mooFixy3blVf8JY7e5pyKsP7yKIY5NA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMzE1/OS0xNjY0MzExMzg2/LTgzNTMucG5n.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-06-10",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Floorplan v Mark Broom",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 30958,
+     "join": "",
+     "name": "Floorplan",
+     "resource_url": "https://api.discogs.com/artists/30958",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "5:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 459,
+     "join": "",
+     "name": "Mark Broom",
+     "resource_url": "https://api.discogs.com/artists/459",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "1",
+   "title": "Never Grow Old (Mark Broom Dubplate Mix)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 459,
+     "join": "",
+     "name": "Mark Broom",
+     "resource_url": "https://api.discogs.com/artists/459",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "5:12",
+   "position": "2",
+   "title": "Jungle",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 30958,
+     "join": "",
+     "name": "Floorplan",
+     "resource_url": "https://api.discogs.com/artists/30958",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "8:51",
+   "position": "3",
+   "title": "He Can Save You (Re-Plant)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13546857-Floorplan-v-Mark-Broom-Floorplan-v-Mark-Broom",
+ "year": 2019
+}

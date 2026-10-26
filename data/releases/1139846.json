@@ -1,0 +1,105 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 100752,
+   "join": "Feat",
+   "name": "2Pac",
+   "resource_url": "https://api.discogs.com/artists/100752",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ezIfBKb1NFY4gAc9DE67-N9mH-TTALR3DlCAVxzCujg/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwMDc1/Mi0xNzM1OTUxNzk1/LTcyNzIuanBlZw.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 50513,
+   "join": "&",
+   "name": "Dr. Dre",
+   "resource_url": "https://api.discogs.com/artists/50513",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-hTQT66Sompi1kOVm0-uujRto-W4ycfx5c9zcFI6bLw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwNTEz/LTE3NzY0MTAyODYt/MzcyNy5qcGVn.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 73142,
+   "join": "",
+   "name": "Roger Troutman",
+   "resource_url": "https://api.discogs.com/artists/73142",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/OrBLfCYxEMrJr3hGYnBMyDRiN7ciZjskgUaQsZ4TKII/rs:fit/g:sm/q:90/h:600/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTczMTQy/LTE1MzUwNDIxOTct/NDc3NS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 1139846,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/0rae96LhTUPUtT5TSO52RH1n0Are1461Gce6dc81DQE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk4/NDYtMTc4MTg4NzQ4/Mi0zMDQ2LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/0rae96LhTUPUtT5TSO52RH1n0Are1461Gce6dc81DQE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk4/NDYtMTc4MTg4NzQ4/Mi0zMDQ2LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/xnR3ZN5_K-7w5mWLH4p2zpguMU5N5-LcsCkVBoIPirg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk4/NDYtMTc4MTg4NzQ4/Mi0zMDQ2LmpwZWc.jpeg",
+   "width": 599
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DRR 7003",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 19737,
+   "name": "Death Row Records (2)",
+   "resource_url": "https://api.discogs.com/labels/19737",
+   "thumbnail_url": "https://i.discogs.com/CbItUXOCWEMFvIW_D77Qf8VXJBrXCussU4fqzQcrjFE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5NzM3/LTE2MjQyMTAyMjkt/ODU2Mi5qcGVn.jpeg"
+  }
+ ],
+ "notes": "(T. Shakur, Dr. Dre, R. Troutman, J. Cocker, Stainton)\r\n\r\nJoshua's Dream/Interscope Pearl Music/Warner-Tamerlane Publ. Corp./Saja Music/Songs of Lastrade (BMI)/Ain't Nuthin'Goin On But Fu_kin'/Stonsee Music (ASCAP)/Onward Music Ltd. (PRS).\r\n\"California Love\" contains interpolations of \"So Ruff So Tuff\" (R. Troutman, L. Troutman), \"Woman To Woman\" (Cocker, Stainton) and \"Intimate Connection\" (N. Durham, W. Cunningham)\r\n",
+ "released": "1995",
+ "styles": [
+  "Gangsta",
+  "G-Funk"
+ ],
+ "title": "California Love",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "California Love (Album Version)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "California Love (Album Version Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "California Love (Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "California Love (Remix Instrumental)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/1139846-2Pac-Feat-Dr-Dre-Roger-Troutman-California-Love",
+ "year": 1995
+}

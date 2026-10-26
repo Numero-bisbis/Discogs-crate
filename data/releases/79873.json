@@ -1,0 +1,106 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5371,
+   "join": "",
+   "name": "Blockster",
+   "resource_url": "https://api.discogs.com/artists/5371",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\""
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 79873,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/WvlKwNYE0PvvQJVk5vEAjR53CT6nQmLKxRDY1G3HhPw/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODcz/LTE2NTk1NTcwNjAt/NjE0Ni5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/WvlKwNYE0PvvQJVk5vEAjR53CT6nQmLKxRDY1G3HhPw/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODcz/LTE2NTk1NTcwNjAt/NjE0Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/OI6HeaBKezXKV-i2Yygxlxa3KZoShmrwbYES0X09R5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODcz/LTE2NTk1NTcwNjAt/NjE0Ni5qcGVn.jpeg",
+   "width": 595
+  }
+ ],
+ "labels": [
+  {
+   "catno": "MOS128",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1169,
+   "name": "Ministry Of Sound",
+   "resource_url": "https://api.discogs.com/labels/1169",
+   "thumbnail_url": "https://i.discogs.com/zcHJxxWHbDKHHof4hQVOY0_G3u3fJyKGAoKNvcUxZBQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNjkt/MTQ3Nzc5MDA0OC03/NTY5LnBuZw.jpeg"
+  }
+ ],
+ "notes": "Contains a sample of the Bee Gee's \"You Should Be Dancing.\"\n\nMade in the EU\n\nAll matrix / runout information is machine stamped apart from WALLY C. MASTERPIECE which is hand-etched.",
+ "released": "1999",
+ "styles": [
+  "House",
+  "Disco"
+ ],
+ "title": "You Should Be...",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "You Should Be... (Blockster Club Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5956,
+     "join": "",
+     "name": "Lisa Marie Experience",
+     "resource_url": "https://api.discogs.com/artists/5956",
+     "role": "Remix",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 182123,
+     "join": "",
+     "name": "Dean Marriott",
+     "resource_url": "https://api.discogs.com/artists/182123",
+     "role": "Remix [Remix By], Producer [Additional Production By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 85853,
+     "join": "",
+     "name": "Neil Hinde",
+     "resource_url": "https://api.discogs.com/artists/85853",
+     "role": "Remix [Remix By], Producer [Additional Production By]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "You Should Be... (Lisa Marie Experience Club Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "You Should Be... (Blockster's Groove)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/79873-Blockster-You-Should-Be",
+ "year": 1999
+}

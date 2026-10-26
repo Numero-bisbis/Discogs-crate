@@ -1,0 +1,93 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 28209,
+   "join": "",
+   "name": "Public Enemy",
+   "resource_url": "https://api.discogs.com/artists/28209",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/dZg_R8kXIFXoio9h1EJGah0yyTKFB6O72i1RR_o2A6M/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4MjA5/LTE3MjkxNDMwMTct/MTYwMy5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK & Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 156530,
+ "images": [
+  {
+   "height": 436,
+   "resource_url": "https://i.discogs.com/i5ktz_03Fa3PuBUVxfo5gcs_s3xHZKbQnEHd9Fy7fiw/rs:fit/g:sm/q:90/h:436/w:437/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUz/MC0xMjYzMzA1MTMz/LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/i5ktz_03Fa3PuBUVxfo5gcs_s3xHZKbQnEHd9Fy7fiw/rs:fit/g:sm/q:90/h:436/w:437/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUz/MC0xMjYzMzA1MTMz/LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/RWxpDwABPJlULmbCe4UZk0oEDfLDRyFxXgbArrTohMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUz/MC0xMjYzMzA1MTMz/LmpwZWc.jpeg",
+   "width": 437
+  }
+ ],
+ "labels": [
+  {
+   "catno": "652833 6",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 4241,
+   "name": "Def Jam Recordings",
+   "resource_url": "https://api.discogs.com/labels/4241",
+   "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+  },
+  {
+   "catno": "652833 6",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3072,
+   "name": "CBS",
+   "resource_url": "https://api.discogs.com/labels/3072",
+   "thumbnail_url": "https://i.discogs.com/hdVZgS3PfiBkq73WsshirotfASFz8DqOTLbenaLJ--I/rs:fit/g:sm/q:90/h:428/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNzIt/MTIzNTE0NjI5My5q/cGVn.jpeg"
+  }
+ ],
+ "notes": "© 1988 CBS Records\r\n℗ 1988 Def Jam Recordings Inc.\r\n\r\nNote on rear sleeve: “Freedom is a road seldom travelled by the multitudes”\r\n\r\nMade in England.\r\n\r\nTrack durations are slightly different to those stated on release and have been entered correctly above.",
+ "released": "1988",
+ "styles": [
+  "Conscious"
+ ],
+ "title": "Don't Believe The Hype",
+ "tracklist": [
+  {
+   "duration": "5:19",
+   "position": "A1",
+   "title": "Don't Believe The Hype",
+   "type_": "track"
+  },
+  {
+   "duration": "1:09",
+   "position": "A2",
+   "title": "The Rhythm, The Rebel (Acapella)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:21",
+   "position": "B1",
+   "title": "Prophets Of Rage (Vocal)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:19",
+   "position": "B2",
+   "title": "Prophets Of Rage (Power Version)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/156530-Public-Enemy-Dont-Believe-The-Hype",
+ "year": 1988
+}

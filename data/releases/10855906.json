@@ -1,0 +1,82 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1632091,
+   "join": "+",
+   "name": "Victor Ruiz (2)",
+   "resource_url": "https://api.discogs.com/artists/1632091",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/zlORktiesgXL4E3voltvFg_c187AnsV_Cwgq262mBxc/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2MzIw/OTEtMTY5NjY5OTAw/Ny00MTA3LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 1538,
+   "join": "",
+   "name": "Thomas Schumacher",
+   "resource_url": "https://api.discogs.com/artists/1538",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/8ZYaGkBBc3_1Wx5mjzZVFkvtRcmEXKn6rFv1eosN724/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1Mzgt/MTYwODc2MjA3MC03/NTQyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 10855906,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/else5XkxYSZjr-4LtWjTDRVRJbMr0v_CwboKqSAxKE0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODU1/OTA2LTE1MDU0MjM0/MzUtMjg4Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/else5XkxYSZjr-4LtWjTDRVRJbMr0v_CwboKqSAxKE0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODU1/OTA2LTE1MDU0MjM0/MzUtMjg4Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/ILu2OLDpDOSpJAPWfevU3BSIfraaVDKKBsL88wsztLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODU1/OTA2LTE1MDU0MjM0/MzUtMjg4Ny5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "EBM014",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 426525,
+   "name": "Electric Ballroom (2)",
+   "resource_url": "https://api.discogs.com/labels/426525",
+   "thumbnail_url": "https://i.discogs.com/q7eq3kOvy4ZBDF1-q3pF-qDTtrJcktLXPGNXh8ezI7Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNjUy/NS0xMzQ0MTkwMjk1/LTY5MDAuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2017-08-29",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Soulforce EP",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Tumbleweed",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Soulforce",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10855906-Victor-Ruiz-2-Thomas-Schumacher-Soulforce-EP",
+ "year": 2017
+}

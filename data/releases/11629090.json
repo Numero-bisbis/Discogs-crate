@@ -1,0 +1,91 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 9031924,
+   "join": "",
+   "name": "Black Bones (5)",
+   "resource_url": "https://api.discogs.com/artists/9031924",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/u9HtTzK111u7nnWrBtOvEbAcj-0IuzHRSVOkfrnoHUg/rs:fit/g:sm/q:90/h:397/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTkwMzE5/MjQtMTYxNjc4MzYw/Ni00ODEyLnBuZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "Limited Edition",
+    "White Label"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Hand-Stamped "
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Folk, World, & Country"
+ ],
+ "id": 11629090,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/HkGusfkBDdFHuMZ0ZiqsaYco-E2Fvgn7T1UTOaZUELI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI5/MDkwLTE1MTk2Nzk2/MzItODE4Mi5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/HkGusfkBDdFHuMZ0ZiqsaYco-E2Fvgn7T1UTOaZUELI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI5/MDkwLTE1MTk2Nzk2/MzItODE4Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/XvU9eisgOd4xTDsdis76kpzTpOoSbI9CoAwWSBCJfEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI5/MDkwLTE1MTk2Nzk2/MzItODE4Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BLACKBONES003",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1178608,
+   "name": "Black Bones",
+   "resource_url": "https://api.discogs.com/labels/1178608",
+   "thumbnail_url": "https://i.discogs.com/kGhRrao05LyTelyIFqfUz_lp_QJNrIOUnmrPdZVHH_g/rs:fit/g:sm/q:90/h:191/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNzg2/MDgtMTU1MTc4MjM1/Ni0zODMzLnBuZw.jpeg"
+  }
+ ],
+ "notes": "Comes with a black poly lined inner sleeve.",
+ "released": "2018-03-02",
+ "styles": [
+  "African",
+  "House",
+  "Acid",
+  "Disco"
+ ],
+ "title": "Black Bones 3",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Love Sick",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Desert Flower",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "She Should Know (Dub 3)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Lion Of Judah",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11629090-Black-Bones-5-Black-Bones-3",
+ "year": 2018
+}

@@ -1,0 +1,207 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "Compilation"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12326287,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/yFEeUzqFZWsGg-PHT-ml25tX25Rf6iY_MZrBQMg38VU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/Mjg3LTE1MzQxOTcz/MDgtOTkyNC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/yFEeUzqFZWsGg-PHT-ml25tX25Rf6iY_MZrBQMg38VU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/Mjg3LTE1MzQxOTcz/MDgtOTkyNC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/u-dWNzXgiJP4m-vzcn-U5aifnOMzFAk9XqFEH2y-7mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/Mjg3LTE1MzQxOTcz/MDgtOTkyNC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "quintessentials 60",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 122633,
+   "name": "Quintessentials",
+   "resource_url": "https://api.discogs.com/labels/122633",
+   "thumbnail_url": "https://i.discogs.com/-2ldmftOwxJrfB1fuQNtA9OZzguGrCSEDQ2ybB8uNjM/rs:fit/g:sm/q:90/h:100/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMjYz/My0xMjIwNjIxNzc2/LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Big thanks: Wordandsound Distribution, Schnittstelle Mastering,...\n...Rand Muzik, Lopetz Büro Destruct, all Quintessentials artists...\n...and remixers past and present,...\n...all multistyle supporters and real copy buyers, you're essential!...\n...the first 10 years are over, let's go for the next decade...\n...deep, raw and real. Quintessentials.\n\nComes with a Quintessentials sticker",
+ "released": "2018-09-07",
+ "styles": [
+  "Deep House",
+  "House",
+  "Techno"
+ ],
+ "title": "Ten Years Quintessentials",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2785317,
+     "join": "",
+     "name": "Borrowed Identity",
+     "resource_url": "https://api.discogs.com/artists/2785317",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A1",
+   "title": "For You",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1523605,
+     "join": "",
+     "name": "OOFT!",
+     "resource_url": "https://api.discogs.com/artists/1523605",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A2",
+   "title": "Freak-e Groove",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1492705,
+     "join": "",
+     "name": "KRL",
+     "resource_url": "https://api.discogs.com/artists/1492705",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B1",
+   "title": "Baltimore",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2336665,
+     "join": "",
+     "name": "Mat Chiavaroli",
+     "resource_url": "https://api.discogs.com/artists/2336665",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B2",
+   "title": "Succo",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2157542,
+     "join": "",
+     "name": "S3A",
+     "resource_url": "https://api.discogs.com/artists/2157542",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C1",
+   "title": "Searching",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2451229,
+     "join": "&",
+     "name": "Ugly Drums",
+     "resource_url": "https://api.discogs.com/artists/2451229",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1066057,
+     "join": "",
+     "name": "Chesney",
+     "resource_url": "https://api.discogs.com/artists/1066057",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C2",
+   "title": "Feelz",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3788362,
+     "join": "",
+     "name": "4004",
+     "resource_url": "https://api.discogs.com/artists/3788362",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D1",
+   "title": "Continuous Dialogue",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2885237,
+     "join": "",
+     "name": "Loz Goddard",
+     "resource_url": "https://api.discogs.com/artists/2885237",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D2",
+   "title": "Leaves",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12326287-Various-Ten-Years-Quintessentials",
+ "year": 2018
+}

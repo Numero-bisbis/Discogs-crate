@@ -1,0 +1,129 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11926069,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/AxekF654SX8PogxzHxslzTt9VIm_ob-jkwxhHKqSV8Y/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI2/MDY5LTE1MjQ4Njkx/OTAtNzgyOS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/AxekF654SX8PogxzHxslzTt9VIm_ob-jkwxhHKqSV8Y/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI2/MDY5LTE1MjQ4Njkx/OTAtNzgyOS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/mORVbBhkulY0j022Ef7duD_kl2-6da8hZmlDi9xUepg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI2/MDY5LTE1MjQ4Njkx/OTAtNzgyOS5qcGVn.jpeg",
+   "width": 592
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SBEDITZ003",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1498417,
+   "name": "SlothBoogie Editz",
+   "resource_url": "https://api.discogs.com/labels/1498417",
+   "thumbnail_url": "https://i.discogs.com/AppyeF-gRQQx9LNPWAqtu07VQ2v3AAP0vp_wRynQgWA/rs:fit/g:sm/q:90/h:200/w:209/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0OTg0/MTctMTUzMjg3MjQ1/OC03ODQwLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Limited to 300 copies",
+ "released": "2018-04-00",
+ "styles": [
+  "Deep House",
+  "Nu-Disco",
+  "Disco"
+ ],
+ "title": "SBEDITZ003",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "Jad & The",
+     "id": 2429547,
+     "join": "",
+     "name": "Jad & The Ladyboy",
+     "resource_url": "https://api.discogs.com/artists/2429547",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "5:13",
+   "position": "A1",
+   "title": "Debbie Does Delay",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3876433,
+     "join": "",
+     "name": "Tender Games",
+     "resource_url": "https://api.discogs.com/artists/3876433",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "5:38",
+   "position": "A2",
+   "title": "So Hot",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 6451578,
+     "join": "",
+     "name": "Swales (2)",
+     "resource_url": "https://api.discogs.com/artists/6451578",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:53",
+   "position": "B1",
+   "title": "Feel This Way",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 6259677,
+     "join": "",
+     "name": "SlothBoogie",
+     "resource_url": "https://api.discogs.com/artists/6259677",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:34",
+   "position": "B2",
+   "title": "Acid Fantasy",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11926069-Various-SBEDITZ003",
+ "year": 2018
+}

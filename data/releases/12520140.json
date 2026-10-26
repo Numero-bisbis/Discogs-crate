@@ -1,0 +1,164 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Austria",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP",
+    "White Label"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12520140,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/7YYPh-By0xGnBo_K3TzEiobhB-1PnENETOaQkVYyNe8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTIw/MTQwLTE1MzY5MjA4/NTYtMTg2Ni5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/7YYPh-By0xGnBo_K3TzEiobhB-1PnENETOaQkVYyNe8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTIw/MTQwLTE1MzY5MjA4/NTYtMTg2Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/5HkcZmidzLWNozjsKvgilWoME_XXPPzObz6uB11T3NQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTIw/MTQwLTE1MzY5MjA4/NTYtMTg2Ni5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SBT003",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1119610,
+   "name": "Step Back Trax",
+   "resource_url": "https://api.discogs.com/labels/1119610",
+   "thumbnail_url": "https://i.discogs.com/u_PrJM3B49F4fDB-QqNLc1z-HbIKXwRhmJobVOREfns/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMTk2/MTAtMTUzNTczOTMy/Ny0zMzMwLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Handle with care.",
+ "released": "2018-09-01",
+ "styles": [
+  "House",
+  "Techno"
+ ],
+ "title": "Step Back Trax 003",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5433366,
+     "join": "",
+     "name": "Subjoi",
+     "resource_url": "https://api.discogs.com/artists/5433366",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:59",
+   "position": "A1",
+   "title": "Treat You Right",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 6573204,
+     "join": "",
+     "name": "Etur Usheo",
+     "resource_url": "https://api.discogs.com/artists/6573204",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "5:04",
+   "position": "A2",
+   "title": "Dreamin For You ",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4507489,
+     "join": "",
+     "name": "Interplanetary Criminal",
+     "resource_url": "https://api.discogs.com/artists/4507489",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "5:31",
+   "position": "A3",
+   "title": "What Would I Do (Without Your Love) ",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5845442,
+     "join": "",
+     "name": "Slim Hustla",
+     "resource_url": "https://api.discogs.com/artists/5845442",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:17",
+   "position": "B1",
+   "title": "Remain Unseen ",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5837576,
+     "join": "",
+     "name": "Slamb",
+     "resource_url": "https://api.discogs.com/artists/5837576",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:26",
+   "position": "B2",
+   "title": "SOS ",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5433362,
+     "join": "",
+     "name": "Paperkraft",
+     "resource_url": "https://api.discogs.com/artists/5433362",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:17",
+   "position": "B3",
+   "title": "Please Step Back",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12520140-Various-Step-Back-Trax-003",
+ "year": 2018
+}

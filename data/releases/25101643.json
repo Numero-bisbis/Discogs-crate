@@ -1,0 +1,352 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation",
+    "Limited Edition",
+    "Special Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Paul Smith Alternate Cover"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 25101643,
+ "images": [
+  {
+   "height": 564,
+   "resource_url": "https://i.discogs.com/422k2W5Duq6MwhMTSF9rbTNrE_4q9t2CmbaNfX0J2Lo/rs:fit/g:sm/q:90/h:564/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTAx/NjQzLTE3MzkzNzIz/NTMtMjM0Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/422k2W5Duq6MwhMTSF9rbTNrE_4q9t2CmbaNfX0J2Lo/rs:fit/g:sm/q:90/h:564/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTAx/NjQzLTE3MzkzNzIz/NTMtMjM0Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Wd6_2zENJxW81gzhM_MdA9uwqlmrhNuUvVqsidsej-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTAx/NjQzLTE3MzkzNzIz/NTMtMjM0Ny5qcGVn.jpeg",
+   "width": 574
+  }
+ ],
+ "labels": [
+  {
+   "catno": "4538244",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 281,
+   "name": "Blue Note",
+   "resource_url": "https://api.discogs.com/labels/281",
+   "thumbnail_url": "https://i.discogs.com/3HpIGTTfcLBKDF0WKsdSygbdfgirR7shFM3kGhgArBI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MS0x/NTAyNjQwNjY3LTQ4/MzMucG5n.jpeg"
+  }
+ ],
+ "notes": "Special edition with alternate sleeve art designed by Paul Smith inspired by his print collections and personal photographs.\n\nMade in Germany",
+ "released": "2022-09-30",
+ "styles": [
+  "Contemporary Jazz"
+ ],
+ "title": "Blue Note Re:imagined II",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2176495,
+     "join": "",
+     "name": "Yazz Ahmed",
+     "resource_url": "https://api.discogs.com/artists/2176495",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A1",
+   "title": "It",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 9101029,
+     "join": "",
+     "name": "Conor Albert",
+     "resource_url": "https://api.discogs.com/artists/9101029",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A2",
+   "title": "You Make Me Feel So Good",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Parthenope",
+     "id": 8683099,
+     "join": "",
+     "name": "Parthenope Wald-Harding",
+     "resource_url": "https://api.discogs.com/artists/8683099",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A3",
+   "title": "Don't Know Why",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 391417,
+     "join": "",
+     "name": "Swindle (2)",
+     "resource_url": "https://api.discogs.com/artists/391417",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A4",
+   "title": "Miss Kane",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5071926,
+     "join": "",
+     "name": "Nubiyan Twist",
+     "resource_url": "https://api.discogs.com/artists/5071926",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B1",
+   "title": "Through The Noise (Chant No.2)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3807577,
+     "join": "",
+     "name": "Ego Ella May",
+     "resource_url": "https://api.discogs.com/artists/3807577",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B2",
+   "title": "Morning Side Of Love",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5902664,
+     "join": "&",
+     "name": "Oscar Jerome",
+     "resource_url": "https://api.discogs.com/artists/5902664",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "Oscar #Worldpeace",
+     "id": 4695628,
+     "join": "",
+     "name": "Oscar Worldpeace",
+     "resource_url": "https://api.discogs.com/artists/4695628",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B3",
+   "title": "(Why You So) Green With Envy",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5556396,
+     "join": "Ft.",
+     "name": "Daniel Casimir (2)",
+     "resource_url": "https://api.discogs.com/artists/5556396",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2981472,
+     "join": "",
+     "name": "Ria Moran",
+     "resource_url": "https://api.discogs.com/artists/2981472",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B4",
+   "title": "Lost",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2676404,
+     "join": "",
+     "name": "Theon Cross",
+     "resource_url": "https://api.discogs.com/artists/2676404",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C1",
+   "title": "Epistrophy",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 11874890,
+     "join": "",
+     "name": "Maya Delilah",
+     "resource_url": "https://api.discogs.com/artists/11874890",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C2",
+   "title": "Harvest Moon",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1949549,
+     "join": "",
+     "name": "Kay Young",
+     "resource_url": "https://api.discogs.com/artists/1949549",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C3",
+   "title": "Feel Like Making Love",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 11634455,
+     "join": "",
+     "name": "Venna & Marco",
+     "resource_url": "https://api.discogs.com/artists/11634455",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C4",
+   "title": "Where Are We Going?",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2762993,
+     "join": "",
+     "name": "Reuben James",
+     "resource_url": "https://api.discogs.com/artists/2762993",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D1",
+   "title": "Infant Eyes",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2590111,
+     "join": "",
+     "name": "Binker Golding",
+     "resource_url": "https://api.discogs.com/artists/2590111",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D2",
+   "title": "Fort Worth",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 37857,
+     "join": "",
+     "name": "Cherise",
+     "resource_url": "https://api.discogs.com/artists/37857",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D3",
+   "title": "Sunrise",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5452284,
+     "join": "",
+     "name": "Franc Moody",
+     "resource_url": "https://api.discogs.com/artists/5452284",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D4",
+   "title": "Cristo Redentor",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/25101643-Various-Blue-Note-Reimagined-II",
+ "year": 2022
+}

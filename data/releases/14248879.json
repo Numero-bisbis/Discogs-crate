@@ -1,0 +1,176 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "Limited Edition",
+    "White Label"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Stamped"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Folk, World, & Country"
+ ],
+ "id": 14248879,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/YKXYcUFK9YPt8Msstzu52lOKVThzcULxBi50fvOQ1uo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ4/ODc5LTE1NzA3MTMx/NTEtODM0Mi5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/YKXYcUFK9YPt8Msstzu52lOKVThzcULxBi50fvOQ1uo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ4/ODc5LTE1NzA3MTMx/NTEtODM0Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/cKAjw8l8uYvL_O_jRDK9-hvUCFjGbNAJLWtXcWl8mts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ4/ODc5LTE1NzA3MTMx/NTEtODM0Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "REPSIES 002",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1539758,
+   "name": "Repsies",
+   "resource_url": "https://api.discogs.com/labels/1539758",
+   "thumbnail_url": "https://i.discogs.com/9ZkWvGjSvT2zHLJy5WpwA95Fw0cZfIKIlWAdjzQI9cM/rs:fit/g:sm/q:90/h:211/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Mzk3/NTgtMTU0MDg5MDEw/Ni0zODQxLmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019",
+ "styles": [
+  "Disco",
+  "African"
+ ],
+ "title": "Repsies 002",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 355,
+     "join": "",
+     "name": "Unknown Artist",
+     "resource_url": "https://api.discogs.com/artists/355",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6665194,
+     "join": "",
+     "name": "Partner Music",
+     "resource_url": "https://api.discogs.com/artists/6665194",
+     "role": "Edited By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Fatta Connection (Partner Music Edit)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 355,
+     "join": "",
+     "name": "Unknown Artist",
+     "resource_url": "https://api.discogs.com/artists/355",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6200279,
+     "join": "",
+     "name": "Joe Cleen",
+     "resource_url": "https://api.discogs.com/artists/6200279",
+     "role": "Edited By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Work It Baby (Joe Cleen Edit)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 355,
+     "join": "",
+     "name": "Unknown Artist",
+     "resource_url": "https://api.discogs.com/artists/355",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6255636,
+     "join": "",
+     "name": "Keith Lorraine",
+     "resource_url": "https://api.discogs.com/artists/6255636",
+     "role": "Edited By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Idris (Keith Lorraine Edit)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 355,
+     "join": "",
+     "name": "Unknown Artist",
+     "resource_url": "https://api.discogs.com/artists/355",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3450526,
+     "join": "",
+     "name": "Jus Nowhere",
+     "resource_url": "https://api.discogs.com/artists/3450526",
+     "role": "Edited By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Bala (Jus Nowhere Edit)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14248879-Various-Repsies-002",
+ "year": 2019
+}

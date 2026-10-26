@@ -1,0 +1,83 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 210358,
+   "join": "",
+   "name": "The Sound Of The Murray",
+   "resource_url": "https://api.discogs.com/artists/210358",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\""
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 297076,
+ "images": [
+  {
+   "height": 139,
+   "resource_url": "https://i.discogs.com/p2Zytfi2s2OSp0gywBoCNAlD4SXAuSt-WTstIKzrJak/rs:fit/g:sm/q:90/h:139/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzA3/Ni0xMjA2NDAyMTIz/LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/p2Zytfi2s2OSp0gywBoCNAlD4SXAuSt-WTstIKzrJak/rs:fit/g:sm/q:90/h:139/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzA3/Ni0xMjA2NDAyMTIz/LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/B79mAwQty1u4a6_ru_mzgddU6jClJMElnEP6UJwvMkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzA3/Ni0xMjA2NDAyMTIz/LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BUG014",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 375990,
+   "name": "Bugged Out! Recordings",
+   "resource_url": "https://api.discogs.com/labels/375990",
+   "thumbnail_url": "https://i.discogs.com/Co1k2X3iigZEpcSxLXrCe-7MZ0NQDG1mcj9hEFN4aeU/rs:fit/g:sm/q:90/h:150/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3NTk5/MC0xMzM0MTU5MjAw/LmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2004",
+ "styles": [
+  "Progressive House",
+  "Breaks"
+ ],
+ "title": "Sound Of The Murray",
+ "tracklist": [
+  {
+   "duration": "4:57",
+   "position": "A1",
+   "title": "Sound Of The Murray (Club Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "1:15",
+   "position": "A2",
+   "title": "Sound Of The Murray (Acapella)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:40",
+   "position": "B1",
+   "title": "Sound Of The Murray (Pub Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "6:19",
+   "position": "B2",
+   "title": "Bada Thing",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/297076-The-Sound-Of-The-Murray-Sound-Of-The-Murray",
+ "year": 2004
+}

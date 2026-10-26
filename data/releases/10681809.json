@@ -1,0 +1,77 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3166122,
+   "join": "",
+   "name": "Dense & Pika",
+   "resource_url": "https://api.discogs.com/artists/3166122",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/EfL_ot_8k_qjkByqBujpfWpng_Y9rIL6w8wmaOeLe4A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxNjYx/MjItMTc0MjExMzA3/My0xNDgxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Sweden",
+ "formats": [
+  {
+   "descriptions": [
+    "12\""
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 10681809,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/Ur668_gtq5GC_gE8wv2aPW3glY9oh6oHyAcrnN0JZPQ/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjgx/ODA5LTE1MTg1NTUw/MzItNjMxNS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Ur668_gtq5GC_gE8wv2aPW3glY9oh6oHyAcrnN0JZPQ/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjgx/ODA5LTE1MTg1NTUw/MzItNjMxNS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/nGPzwZuWUqTP45ZCavzJUNGsGld-dS-Yerwis9pTTfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjgx/ODA5LTE1MTg1NTUw/MzItNjMxNS5qcGVn.jpeg",
+   "width": 582
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DC177",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 237,
+   "name": "Drumcode",
+   "resource_url": "https://api.discogs.com/labels/237",
+   "thumbnail_url": "https://i.discogs.com/1rrViQveJmRumM48FWYOYNsJD3-iahuaYprtxJgsAQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNy0x/NjkyOTkxNjY2LTg2/NjgucG5n.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2017-08-07",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Suki",
+ "tracklist": [
+  {
+   "duration": "7:44",
+   "position": "A1",
+   "title": "Suki",
+   "type_": "track"
+  },
+  {
+   "duration": "6:57",
+   "position": "B1",
+   "title": "Little Sun",
+   "type_": "track"
+  },
+  {
+   "duration": "6:32",
+   "position": "B2",
+   "title": "Lanky",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10681809-Dense-Pika-Suki",
+ "year": 2017
+}

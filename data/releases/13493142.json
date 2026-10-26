@@ -1,0 +1,95 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5199007,
+   "join": "",
+   "name": "Trudge (3)",
+   "resource_url": "https://api.discogs.com/artists/5199007",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/YwPm5JtQ2Kz-cCYZnMtsT1dWIyCB6B5WkBIWE6mTZtI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUxOTkw/MDctMTU2NzE1NjQ5/My0zMzYwLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13493142,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/0Uwm_KMTOGlELHs45sTsb2I1wfgOQ53UYFH9Nultvu4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/MTQyLTE1NTUyNDQ1/MjgtMTgyMS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/0Uwm_KMTOGlELHs45sTsb2I1wfgOQ53UYFH9Nultvu4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/MTQyLTE1NTUyNDQ1/MjgtMTgyMS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/xPlbQfzEAttmP2lCPsAWqCUIKr8OY6A9kbsYQqHRtgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/MTQyLTE1NTUyNDQ1/MjgtMTgyMS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "1ØPILLS010",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 918122,
+   "name": "1Ø PILLS MATE",
+   "resource_url": "https://api.discogs.com/labels/918122",
+   "thumbnail_url": "https://i.discogs.com/vcgwQrwJ_gnocJXo-BCu2ZkV-GcHnE84iLVSwdATOMQ/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkxODEy/Mi0xNjAyNjAxMDE3/LTg2MzQuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-04-19",
+ "styles": [
+  "Techno",
+  "Ambient",
+  "Breakbeat",
+  "Acid House",
+  "Breaks"
+ ],
+ "title": "100",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "A",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "From Sorrow To Darkness",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Burning Inside",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Tool",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "страсть",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13493142-Trudge-3-100",
+ "year": 2019
+}

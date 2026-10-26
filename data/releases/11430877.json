@@ -1,0 +1,137 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Denmark",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11430877,
+ "images": [
+  {
+   "height": 595,
+   "resource_url": "https://i.discogs.com/ur5Lb2w53K56oxVlyJ9OVx8BJP2ZnQOZ_WAF-0ZCVC0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMw/ODc3LTE1MTY5MDMy/MTAtODAxMC5wbmc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/ur5Lb2w53K56oxVlyJ9OVx8BJP2ZnQOZ_WAF-0ZCVC0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMw/ODc3LTE1MTY5MDMy/MTAtODAxMC5wbmc.jpeg",
+   "uri150": "https://i.discogs.com/hazkKDOLHmVp-zOEsJqqMhLgaEPc75chD4eoJoYOKjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMw/ODc3LTE1MTY5MDMy/MTAtODAxMC5wbmc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "WXTFX007",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 971967,
+   "name": "Waxtefacts",
+   "resource_url": "https://api.discogs.com/labels/971967",
+   "thumbnail_url": "https://i.discogs.com/rL8iV3Qq2VFvxU2bIRZ1FT4UP2H25MaCfk2WsjOzRfM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk3MTk2/Ny0xNTA3MTE0NzQ4/LTE1MjYuanBlZw.jpeg"
+  }
+ ],
+ "notes": "All tracks recorded in studios and bedrooms around Copenhagen, Berlin, Bielefeld, Bordeaux, St. Petersburg.\n\nWax treatment done at Paul-Lincke-Ufer 44a, 10999 Berlin by Dubplates & Mastering.\n\nTrack B1 misspelled as \"Suspicios States\" on the labels.",
+ "released": "2018-03-02",
+ "styles": [
+  "House",
+  "Deep House"
+ ],
+ "title": "WXTFX007",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4910476,
+     "join": "And",
+     "name": "Librarian (4)",
+     "resource_url": "https://api.discogs.com/artists/4910476",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5643393,
+     "join": "",
+     "name": "Real J.",
+     "resource_url": "https://api.discogs.com/artists/5643393",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A1",
+   "title": "No Sense Of Groove",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 6250335,
+     "join": "",
+     "name": "Tommy Kaira",
+     "resource_url": "https://api.discogs.com/artists/6250335",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A2",
+   "title": "97",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5103942,
+     "join": "",
+     "name": "Interstate (12)",
+     "resource_url": "https://api.discogs.com/artists/5103942",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B1",
+   "title": "Suspicious States",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 988349,
+     "join": "",
+     "name": "Strip Steve",
+     "resource_url": "https://api.discogs.com/artists/988349",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B2",
+   "title": "Close 2 None",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11430877-Various-WXTFX007",
+ "year": 2018
+}

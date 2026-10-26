@@ -1,0 +1,150 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 642245,
+   "join": "Feat.",
+   "name": "Guts",
+   "resource_url": "https://api.discogs.com/artists/642245",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/9K75fNnz3oywQfnGXBt7tSUrs2O4ftYxQX7b7zXRvwM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY0MjI0/NS0xNzMyMDMzNDQ3/LTc5NDUuanBlZw.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 196024,
+   "join": ",",
+   "name": "Beat Assailant",
+   "resource_url": "https://api.discogs.com/artists/196024",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/V_rQWGxFzj1ouMpRD-UOPCIQCaVJdDbWoLn6zsaQpQo/rs:fit/g:sm/q:90/h:600/w:489/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5NjAy/NC0xNTA1MTQ0NjMy/LTg3NzcuanBlZw.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 4675221,
+   "join": "&",
+   "name": "Mary May (2)",
+   "resource_url": "https://api.discogs.com/artists/4675221",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/_KftXprk4MUwq7ZztLLtsk_ITG0JLBEZxuxaz6PSJ9A/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ2NzUy/MjEtMTU3MzU0NjE1/Mi05NjIxLmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "Wolfgang",
+   "id": 3796536,
+   "join": "",
+   "name": "Wolfgang Valbrun",
+   "resource_url": "https://api.discogs.com/artists/3796536",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ejNZewgeuZhy6t71483g6EuFmgWa3XjeIVj-EtrcnFg/rs:fit/g:sm/q:90/h:301/w:317/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM3OTY1/MzYtMTQ4MTc1MTI2/Mi05NDM4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop",
+  "Funk / Soul"
+ ],
+ "id": 10596337,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/ivI0uf6DdPiBo_T-AhV0rZAxRObZhpWL_Owx0hMiz9U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk2/MzM3LTE1MDA2Mzgz/NDktNTY5MC5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/ivI0uf6DdPiBo_T-AhV0rZAxRObZhpWL_Owx0hMiz9U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk2/MzM3LTE1MDA2Mzgz/NDktNTY5MC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/OOmJ-B_kcKHEqxvKVNTobbE02KSkv0YlUvOuxU5iERI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk2/MzM3LTE1MDA2Mzgz/NDktNTY5MC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "HS167LP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 64154,
+   "name": "Heavenly Sweetness",
+   "resource_url": "https://api.discogs.com/labels/64154",
+   "thumbnail_url": "https://i.discogs.com/irqPffAgXzrn1v7-ttEe0fd1xFuIRpdvuPo0-MXjx5k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY0MTU0/LTE1NjgzNjkxNTIt/ODYzNC5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Poster included",
+ "released": "2017-07-21",
+ "styles": [],
+ "title": "Stop The Violence",
+ "tracklist": [
+  {
+   "duration": "3:56",
+   "position": "A1",
+   "title": "Stop The Violence",
+   "type_": "track"
+  },
+  {
+   "duration": "6:22",
+   "position": "A2",
+   "title": "Pick Me Up",
+   "type_": "track"
+  },
+  {
+   "duration": "4:42",
+   "position": "B1",
+   "title": "Everybody Wants To Be A Star",
+   "type_": "track"
+  },
+  {
+   "duration": "4:45",
+   "position": "B2",
+   "title": "Ain't Perfect",
+   "type_": "track"
+  },
+  {
+   "duration": "3:34",
+   "position": "B3",
+   "title": "Drummer's Delight",
+   "type_": "track"
+  },
+  {
+   "duration": "3:56",
+   "position": "C1",
+   "title": "Stop The Violence (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "6:22",
+   "position": "C2",
+   "title": "Pick Me Up (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:42",
+   "position": "D1",
+   "title": "Everybody Wants To Be A Star (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:45",
+   "position": "D2",
+   "title": "Ain't Perfect (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:34",
+   "position": "D3",
+   "title": "Drummer's Delight (Instrumental)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10596337-Guts-Feat-Beat-Assailant-Mary-May-2-Wolfgang-Stop-The-Violence",
+ "year": 2017
+}

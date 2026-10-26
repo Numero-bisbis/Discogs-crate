@@ -1,0 +1,213 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6966182,
+   "join": "",
+   "name": "Dave (403)",
+   "resource_url": "https://api.discogs.com/artists/6966182",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/v3M09lgQKOATFu9ODYle5gAtnjLcaDbIYc9oeA0tQ5Q/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY5NjYx/ODItMTU1NjkwMzU1/Mi0yMTUxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "LP"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Crystal Clear"
+  },
+  {
+   "descriptions": [
+    "LP",
+    "Single Sided",
+    "Etched"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Crystal Clear"
+  },
+  {
+   "descriptions": [
+    "Album",
+    "Limited Edition",
+    "Special Edition"
+   ],
+   "name": "All Media",
+   "qty": "1",
+   "text": "Stone Island Sound"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 35492476,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/zSIbgvDsgOIXEVP-NQx7yFHhgfaDDWbg2pM_0LrrmmQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDky/NDc2LTE3NjY2Njc5/NzYtNDkzOS5wbmc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/zSIbgvDsgOIXEVP-NQx7yFHhgfaDDWbg2pM_0LrrmmQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDky/NDc2LTE3NjY2Njc5/NzYtNDkzOS5wbmc.jpeg",
+   "uri150": "https://i.discogs.com/vzK9VC-wLxuy_ehF2nLasgsJz1135vjjhswdtMqW3vQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDky/NDc2LTE3NjY2Njc5/NzYtNDkzOS5wbmc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "00602478964084",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1590757,
+   "name": "Neighbourhood Recordings",
+   "resource_url": "https://api.discogs.com/labels/1590757",
+   "thumbnail_url": "https://i.discogs.com/W-YNT3THqCXYDrnzIMPxvuNDtCYwbJOaEaFQSRSCH0g/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1OTA3/NTctMTYyNzA3OTc3/NS04MzE0LmpwZWc.jpeg"
+  },
+  {
+   "catno": "NBRHD007LPSESI",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1590757,
+   "name": "Neighbourhood Recordings",
+   "resource_url": "https://api.discogs.com/labels/1590757",
+   "thumbnail_url": "https://i.discogs.com/W-YNT3THqCXYDrnzIMPxvuNDtCYwbJOaEaFQSRSCH0g/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1OTA3/NTctMTYyNzA3OTc3/NS04MzE0LmpwZWc.jpeg"
+  },
+  {
+   "catno": "00602478964084",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 4639275,
+   "name": "Stone Island Sound",
+   "resource_url": "https://api.discogs.com/labels/4639275",
+   "thumbnail_url": "https://i.discogs.com/CJeOvGupBqBr_Jl6KpVTjS23XXrITCjGVW4w6gbi8dg/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ2Mzky/NzUtMTc4NDQwNDE2/NS01Mjk2LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Dave x Stone Island Special Collector Edition \nCould initially be pre-ordered from Daves website for residents in the UK. After that sold exclusively in the Stone Island Boutiques of Milan, New York City, Los Angeles, Stockholm, Paris, Munich, Toronto, Tokyo and Seoul.\n\nPressed on 2 crystal clear vinyl records with a particular etching and embossed craftsmanship, housed in a gatefold jacket.\nReflective Mirror Board with Camo Print\nSide D is etched. Tracks listed sequentially as they appear\n\nMade in the UK",
+ "released": "2025-10-24",
+ "styles": [
+  "Conscious"
+ ],
+ "title": "The Boy Who Played The Harp",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1500084,
+     "join": "",
+     "name": "James Blake",
+     "resource_url": "https://api.discogs.com/artists/1500084",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "History",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "175 Months",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 12048523,
+     "join": "",
+     "name": "Jim Legxacy",
+     "resource_url": "https://api.discogs.com/artists/12048523",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "No Weapons",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 193236,
+     "join": "",
+     "name": "Kano (4)",
+     "resource_url": "https://api.discogs.com/artists/193236",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Legacy",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 8035520,
+     "join": "",
+     "name": "Tems (2)",
+     "resource_url": "https://api.discogs.com/artists/8035520",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Raindance",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1500084,
+     "join": "",
+     "name": "James Blake",
+     "resource_url": "https://api.discogs.com/artists/1500084",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Selfish",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B7",
+   "title": "My 27th Birthday",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C8",
+   "title": "Marvellous",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C9",
+   "title": "Fairchild",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C10",
+   "title": "The Boy Who Played The Harp",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/35492476-Dave-403-The-Boy-Who-Played-The-Harp",
+ "year": 2025
+}

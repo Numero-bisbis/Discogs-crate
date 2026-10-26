@@ -1,0 +1,79 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3548354,
+   "join": "",
+   "name": "Ghost Culture",
+   "resource_url": "https://api.discogs.com/artists/3548354",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/j6ybpy_T5g0pfyRKkcrywZY1HstH_ZrTmeWZRPF3jeA/rs:fit/g:sm/q:90/h:591/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1NDgz/NTQtMTQ1MjM1MTE4/MS04NTU3LnBuZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "Single Sided",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 6426201,
+ "images": [
+  {
+   "height": 472,
+   "resource_url": "https://i.discogs.com/rI0RA2xtIouy3tjvf3SR6pi7AI6dR0h5iIVLLTT96CY/rs:fit/g:sm/q:90/h:472/w:472/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjYy/MDEtMTQxODkyNjk5/Mi05NTA3LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/rI0RA2xtIouy3tjvf3SR6pi7AI6dR0h5iIVLLTT96CY/rs:fit/g:sm/q:90/h:472/w:472/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjYy/MDEtMTQxODkyNjk5/Mi05NTA3LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/58D_i-SzsE9YmG0TPZYFPlNnCIEQMtiW2AYsAr5vgYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjYy/MDEtMTQxODkyNjk5/Mi05NTA3LmpwZWc.jpeg",
+   "width": 472
+  }
+ ],
+ "labels": [
+  {
+   "catno": "PH33RMX",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 94402,
+   "name": "Phantasy Sound",
+   "resource_url": "https://api.discogs.com/labels/94402",
+   "thumbnail_url": "https://i.discogs.com/Yl0O0DGfaIrgENd4gFIXZmngXiMznMrvFA6tw5_U6YQ/rs:fit/g:sm/q:90/h:221/w:221/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk0NDAy/LTEzNDMyMzk2MjYt/MTE2MS5qcGVn.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2014-12-15",
+ "styles": [
+  "Tech House"
+ ],
+ "title": "Giudecca",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Gabe Gurnsey",
+     "id": 1907829,
+     "join": "",
+     "name": "Gabriel Gurnsey",
+     "resource_url": "https://api.discogs.com/artists/1907829",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "Giudecca (Gabe Gurnsey / Factory Floor Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/6426201-Ghost-Culture-Giudecca",
+ "year": 2014
+}

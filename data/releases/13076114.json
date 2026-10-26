@@ -1,0 +1,137 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13076114,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/P88dFDlx1849j6o5QIuHXHCi1fzIDAbHCgA6wBK40kA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc2/MTE0LTE1NDkzNjk3/MTItNDI4Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/P88dFDlx1849j6o5QIuHXHCi1fzIDAbHCgA6wBK40kA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc2/MTE0LTE1NDkzNjk3/MTItNDI4Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/seOV7WNxe2ed2HSXNeZ814kPCF_nGQuqdmnFWcLLz5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc2/MTE0LTE1NDkzNjk3/MTItNDI4Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "TOYT 088",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 353749,
+   "name": "Toy Tonics",
+   "resource_url": "https://api.discogs.com/labels/353749",
+   "thumbnail_url": "https://i.discogs.com/EbDnjVaKLXIJJgIHa7rRvMM5eH6Epv43CzWnMxRzq8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM1Mzc0/OS0xNjk3MzYxNDYw/LTI1OTIuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-01-16",
+ "styles": [
+  "House",
+  "Deep House"
+ ],
+ "title": "Top Tracks Vol. 6",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5614736,
+     "join": "",
+     "name": "Jad & The",
+     "resource_url": "https://api.discogs.com/artists/5614736",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:47",
+   "position": "A1",
+   "title": "Strings That Never Win",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2693280,
+     "join": "",
+     "name": "Harry Wolfman",
+     "resource_url": "https://api.discogs.com/artists/2693280",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:24",
+   "position": "A2",
+   "title": "The Accord",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3464522,
+     "join": "Feat.",
+     "name": "Black Loops",
+     "resource_url": "https://api.discogs.com/artists/3464522",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4898814,
+     "join": "",
+     "name": "Felipe Gordon",
+     "resource_url": "https://api.discogs.com/artists/4898814",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:02",
+   "position": "B1",
+   "title": "Mia Negrita",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3212986,
+     "join": "",
+     "name": "Demuja",
+     "resource_url": "https://api.discogs.com/artists/3212986",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:02",
+   "position": "B2",
+   "title": "J On G",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13076114-Various-Top-Tracks-Vol-6",
+ "year": 2019
+}

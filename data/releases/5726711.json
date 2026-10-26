@@ -1,0 +1,403 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3862,
+   "join": "",
+   "name": "Guru",
+   "resource_url": "https://api.discogs.com/artists/3862",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/IdCoGmq2z3PbBQ3lnoyzlTyk7YtyyRnY2qArsIgvsas/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4NjIt/MTc4NDM2NTI3My03/OTg2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "180g"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Hip Hop",
+  "Jazz"
+ ],
+ "id": 5726711,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/4ZDN1VFKMWzKgsgZRfgzpBQbUr2k1S4xAicTy93PY2I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjY3/MTEtMTQwMjIxNjI1/MC0xNjgzLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/4ZDN1VFKMWzKgsgZRfgzpBQbUr2k1S4xAicTy93PY2I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjY3/MTEtMTQwMjIxNjI1/MC0xNjgzLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/CajwQhXhhmKJTRgNDYlL4SC7aPuobi4NkcLL5GudAVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjY3/MTEtMTQwMjIxNjI1/MC0xNjgzLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "MOVLP1111",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3208,
+   "name": "Cooltempo",
+   "resource_url": "https://api.discogs.com/labels/3208",
+   "thumbnail_url": "https://i.discogs.com/eVVHWD1d_Kc86QOIJPMJkQxV1UqVklm4AvyC8uVKe8c/rs:fit/g:sm/q:90/h:154/w:488/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyMDgt/MTIzMzIzNTkxOC5q/cGVn.jpeg"
+  },
+  {
+   "catno": "MOVLP1111",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3198,
+   "name": "Chrysalis",
+   "resource_url": "https://api.discogs.com/labels/3198",
+   "thumbnail_url": "https://i.discogs.com/4R9zV_8WYdi_hDTzFDEooGSsS0H_A0-g_2JpPMuInA0/rs:fit/g:sm/q:90/h:600/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxOTgt/MTYzOTI2NzA5NS0y/MTA1LmpwZWc.jpeg"
+  },
+  {
+   "catno": "MOVLP1111",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 169635,
+   "name": "Music On Vinyl",
+   "resource_url": "https://api.discogs.com/labels/169635",
+   "thumbnail_url": "https://i.discogs.com/o8FdZbFylxlL4Mc91n3DX9UWRbDRrqvX1oW98w-DPXA/rs:fit/g:sm/q:90/h:54/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTYz/NS0xMjU3MzIyODA5/LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "[url=http://www.discogs.com/Guru-Jazzmatazz-Volume-1/release/338291]Original Release ℗ 1993 Chrysalis Records, Inc.[/url] This Release ℗ & © 2014 Universal Music B.V. Manufactured & Distributed by Music On Vinyl B.V. for Universal Music B.V.\n\nMade in the EU.\n\nTwo repress from 2022 comes with a golden hype sticker (see images), matrix/runout ended by 2A/2B or 3A/3B.\nDeluxe sleeve printed on heavy cardboard with linen textured finish.",
+ "released": "2014-05-28",
+ "styles": [
+  "Jazzy Hip-Hop",
+  "Acid Jazz"
+ ],
+ "title": "Jazzmatazz (Volume 1)",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "",
+   "title": "This Side",
+   "type_": "heading"
+  },
+  {
+   "duration": "1:20",
+   "position": "A1",
+   "title": "Introduction",
+   "type_": "track"
+  },
+  {
+   "duration": "4:38",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 20956,
+     "join": "",
+     "name": "Donald Byrd",
+     "resource_url": "https://api.discogs.com/artists/20956",
+     "role": "Trumpet, Piano, Co-producer, Featuring [Featured Performance]",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Loungin'",
+   "type_": "track"
+  },
+  {
+   "duration": "4:02",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 27618,
+     "join": "",
+     "name": "Simon Law",
+     "resource_url": "https://api.discogs.com/artists/27618",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9708,
+     "join": "",
+     "name": "N'Dea Davenport",
+     "resource_url": "https://api.discogs.com/artists/9708",
+     "role": "Lead Vocals, Co-producer, Featuring [Featured Performance]",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "When You're Near",
+   "type_": "track"
+  },
+  {
+   "duration": "3:58",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 27803,
+     "join": "",
+     "name": "Branford Marsalis",
+     "resource_url": "https://api.discogs.com/artists/27803",
+     "role": "Alto Saxophone, Soprano Saxophone, Co-producer, Featuring [Featured Performance]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 198367,
+     "join": "",
+     "name": "Zachary Breaux",
+     "resource_url": "https://api.discogs.com/artists/198367",
+     "role": "Guitar",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Transit Ride",
+   "type_": "track"
+  },
+  {
+   "duration": "4:54",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7449,
+     "join": "",
+     "name": "Ronny Jordan",
+     "resource_url": "https://api.discogs.com/artists/7449",
+     "role": "Guitar, Co-producer, Featuring [Featured Performance]",
+     "tracks": ""
+    },
+    {
+     "anv": "DC Lee",
+     "id": 25395,
+     "join": "",
+     "name": "Dee C. Lee",
+     "resource_url": "https://api.discogs.com/artists/25395",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 27813,
+     "join": "",
+     "name": "Big Shug",
+     "resource_url": "https://api.discogs.com/artists/27813",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 18978,
+     "join": "",
+     "name": "Barry White",
+     "resource_url": "https://api.discogs.com/artists/18978",
+     "role": "Written-By [Portions Of \"Satin Soul\"], Performer [Satin Soul]",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "No Time To Play",
+   "type_": "track"
+  },
+  {
+   "duration": "4:47",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 183879,
+     "join": "",
+     "name": "Lil' Dap",
+     "resource_url": "https://api.discogs.com/artists/183879",
+     "role": "Drums [Live]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 15438,
+     "join": "",
+     "name": "Lonnie Liston Smith",
+     "resource_url": "https://api.discogs.com/artists/15438",
+     "role": "Piano [Acoustic], Electric Piano, Co-producer, Featuring [Featured Performance]",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Down The Backstreets",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "",
+   "title": "Other Side",
+   "type_": "heading"
+  },
+  {
+   "duration": "0:54",
+   "position": "B1",
+   "title": "Respectful Dedications",
+   "type_": "track"
+  },
+  {
+   "duration": "3:59",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2265,
+     "join": "",
+     "name": "Roy Ayers",
+     "resource_url": "https://api.discogs.com/artists/2265",
+     "role": "Vibraphone [Vibes], Co-producer, Featuring [Featured Performance]",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Take A Look (At Yourself)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:27",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 9708,
+     "join": "",
+     "name": "N'Dea Davenport",
+     "resource_url": "https://api.discogs.com/artists/9708",
+     "role": "Lead Vocals, Co-producer, Featuring [Featured Performance]",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Trust Me",
+   "type_": "track"
+  },
+  {
+   "duration": "2:36",
+   "extraartists": [
+    {
+     "anv": "Grover Washington",
+     "id": 236212,
+     "join": "",
+     "name": "Grover Washington, Jr.",
+     "resource_url": "https://api.discogs.com/artists/236212",
+     "role": "Performer [Portions Of \"It Feels So Good\", Material Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 55069,
+     "join": "",
+     "name": "Gary Barnacle",
+     "resource_url": "https://api.discogs.com/artists/55069",
+     "role": "Saxophone, Flute",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 251267,
+     "join": "",
+     "name": "The Cutthroats",
+     "resource_url": "https://api.discogs.com/artists/251267",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Slicker Than Most",
+   "type_": "track"
+  },
+  {
+   "duration": "3:21",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 16412,
+     "join": "",
+     "name": "MC Solaar",
+     "resource_url": "https://api.discogs.com/artists/16412",
+     "role": "Lead Vocals [Lead Vocals On French Rap], Co-producer, Featuring [Featured Performance]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 108699,
+     "join": "",
+     "name": "Black Jack",
+     "resource_url": "https://api.discogs.com/artists/108699",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "Mickey \"Mus Mus\"",
+     "id": 753715,
+     "join": "",
+     "name": "Mikey Mosman",
+     "resource_url": "https://api.discogs.com/artists/753715",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Le Bien, Le Mal",
+   "type_": "track"
+  },
+  {
+   "duration": "5:10",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 27805,
+     "join": "",
+     "name": "Courtney Pine",
+     "resource_url": "https://api.discogs.com/artists/27805",
+     "role": "Alto Saxophone, Soprano Saxophone, Flute",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 12318,
+     "join": "",
+     "name": "Carleen Anderson",
+     "resource_url": "https://api.discogs.com/artists/12318",
+     "role": "Co-producer, Featuring [Featured Performance]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 27805,
+     "join": "",
+     "name": "Courtney Pine",
+     "resource_url": "https://api.discogs.com/artists/27805",
+     "role": "Co-producer, Featuring [Featured Performance]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 27618,
+     "join": "",
+     "name": "Simon Law",
+     "resource_url": "https://api.discogs.com/artists/27618",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 12318,
+     "join": "",
+     "name": "Carleen Anderson",
+     "resource_url": "https://api.discogs.com/artists/12318",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Sights In The City",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/5726711-Guru-Jazzmatazz-Volume-1",
+ "year": 2014
+}

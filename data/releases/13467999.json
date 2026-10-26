@@ -1,0 +1,131 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 50513,
+   "join": "",
+   "name": "Dr. Dre",
+   "resource_url": "https://api.discogs.com/artists/50513",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-hTQT66Sompi1kOVm0-uujRto-W4ycfx5c9zcFI6bLw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwNTEz/LTE3NzY0MTAyODYt/MzcyNy5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "Record Store Day",
+    "Limited Edition",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 13467999,
+ "images": [
+  {
+   "height": 396,
+   "resource_url": "https://i.discogs.com/fuL8DEepCRrPPsnTp9_0P250kP5JKjGwW_eZTN-wBjM/rs:fit/g:sm/q:90/h:396/w:396/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY3/OTk5LTE1NTQ3NjU1/NzYtNDI0OC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/fuL8DEepCRrPPsnTp9_0P250kP5JKjGwW_eZTN-wBjM/rs:fit/g:sm/q:90/h:396/w:396/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY3/OTk5LTE1NTQ3NjU1/NzYtNDI0OC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/XwsZYDB85AIqLxXcWPdSid8W70HhgvYjdcJLxtm9nyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY3/OTk5LTE1NTQ3NjU1/NzYtNDI0OC5qcGVn.jpeg",
+   "width": 396
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DRR-SI-63107",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 19737,
+   "name": "Death Row Records (2)",
+   "resource_url": "https://api.discogs.com/labels/19737",
+   "thumbnail_url": "https://i.discogs.com/CbItUXOCWEMFvIW_D77Qf8VXJBrXCussU4fqzQcrjFE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5NzM3/LTE2MjQyMTAyMjkt/ODU2Mi5qcGVn.jpeg"
+  }
+ ],
+ "notes": "\"RSD First\" release.\n\nThe US Record Store Day website states that this release was released in a quantity of 2,400 copies.\n\n\"NUTHIN' BUT A \"G\" THANG\"\nPublished by Ain't Nuthin' Goin' On But Fu-kin', ASCAP.\nContains a sample of \"I Wanna Do Something Freaky To you\" written by L. Hayward\nand published by Jim-Edd Music, BMI.\n\n\"A NIGGA WITTA GUN\"\nPublished by Ain't Nuthin' Goin' On But Fu-kin', ASCAP.\nContains a sample of \"Master Plan\" written by R. Bell, K. Bell, D. White, W. Beckett,\nM. Cheek, C. Cheek, D. Duarte, K. Lassite and R. Wright and published by\nWarner/Chappell Music, Inc. and \"Big Sweet\" written by J. Hammond and published by\nCharliz Music, BMI.\n\n℗ & © 2019 Entertainment One U.S., LP. All rights reserved.\nUnauthorised duplication is a violation of applicable laws.\nMade in the U.S.A.  DRR-SI-63107",
+ "released": "2019-04-13",
+ "styles": [
+  "Gangsta",
+  "G-Funk"
+ ],
+ "title": "Nuthin' But A G Thang",
+ "tracklist": [
+  {
+   "duration": "3:56",
+   "position": "A1",
+   "title": "Nuthin' But A \"G\" Thang (Radio Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:58",
+   "position": "A2",
+   "title": "Nuthin' But A \"G\" Thang (LP Version)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:06",
+   "position": "A3",
+   "title": "Nuthin' But A \"G\" Thang (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:56",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 39155,
+     "join": "",
+     "name": "The D.O.C.",
+     "resource_url": "https://api.discogs.com/artists/39155",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "D.O.C.",
+     "id": 39155,
+     "join": "",
+     "name": "The D.O.C.",
+     "resource_url": "https://api.discogs.com/artists/39155",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "A Nigga Witta Gun (LP Version)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:38",
+   "position": "B2",
+   "title": "Nuthin' But A \"G\" Thang (Club Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:11",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 113497,
+     "join": "",
+     "name": "Tha Dogg Pound",
+     "resource_url": "https://api.discogs.com/artists/113497",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Nuthin But A \"G\" Thang (Freestyle Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13467999-Dr-Dre-Nuthin-But-A-G-Thang",
+ "year": 2019
+}

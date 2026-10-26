@@ -1,0 +1,75 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 8260,
+   "join": "",
+   "name": "DJ Koze",
+   "resource_url": "https://api.discogs.com/artists/8260",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/MBh1ogwrhaQopY5VpCIGK4QpXimBHTgOuctUPm2ICO0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgyNjAt/MTc0NzQ3NDMwMS0y/MzM4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "Single"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11854219,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/pMxFxe774m9MWyBN3ARDu7AxTkzYXY7nnvUiZT1Sp3U/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU0/MjE5LTE1MzE5NDc4/OTctOTE2OC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/pMxFxe774m9MWyBN3ARDu7AxTkzYXY7nnvUiZT1Sp3U/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU0/MjE5LTE1MzE5NDc4/OTctOTE2OC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/2lLEO_AyAAXkwjaKL0gjfR64hxbmMHbUJFK2kxxej2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU0/MjE5LTE1MzE5NDc4/OTctOTE2OC5qcGVn.jpeg",
+   "width": 591
+  }
+ ],
+ "labels": [
+  {
+   "catno": "PAMPA 031",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 169006,
+   "name": "Pampa Records",
+   "resource_url": "https://api.discogs.com/labels/169006",
+   "thumbnail_url": "https://i.discogs.com/p4vrkHV3_bskYPVdiNTySN_P2fQMMIEeBjAqHA1jEvg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTAw/Ni0xNDk2NTgwMTgy/LTE3MzMucG5n.jpeg"
+  }
+ ],
+ "notes": "Issued in a \"Pampa Records\" company outer sleeve.\n\n℗© Pampa Records 2018 \n\n\"Pick Up\" contains a sample of the recording \"Neither One Of Us (Wants To Be The First To Say Goodbye)\" as performed by [a30135]. Courtesy of [l61002], a division of [l272782]. Under license from Universal Music Enterprises. Published by Universal PolyGram Int. Publishing, Inc. (ASCAP).\n\nIt also contains a sample of the recording \"Pick Me Up, I'll Dance\" as performed by [a17962], used courtesy of [l29073]. Warner-Tamerlane Publishing Corp. (BMI).",
+ "released": "2018-04-12",
+ "styles": [
+  "House",
+  "Deep House",
+  "Disco"
+ ],
+ "title": "Pick Up",
+ "tracklist": [
+  {
+   "duration": "10:01",
+   "position": "A",
+   "title": "Pick Up (12\" Extended Disco Version)",
+   "type_": "track"
+  },
+  {
+   "duration": "9:50",
+   "position": "B",
+   "title": "The Love Truck",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11854219-DJ-Koze-Pick-Up",
+ "year": 2018
+}

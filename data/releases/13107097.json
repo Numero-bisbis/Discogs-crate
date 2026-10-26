@@ -1,0 +1,79 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1356200,
+   "join": "",
+   "name": "Dirty Channels",
+   "resource_url": "https://api.discogs.com/artists/1356200",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/XR11or0dxxUMYE_J665wwoaG5Mv8hu2cAZsTzDU8ch8/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNTYy/MDAtMTU2NzYzMjk2/My05Njk0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Italy",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13107097,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/SL1d2rAcsiii_QsfvzqGTbFCkdEFbp9tZ-GKiUuEmlI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA3/MDk3LTE1NDgxNzU4/MjQtNDA4MC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/SL1d2rAcsiii_QsfvzqGTbFCkdEFbp9tZ-GKiUuEmlI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA3/MDk3LTE1NDgxNzU4/MjQtNDA4MC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/MOQvcei-VEiZyChs8BdRH1HuN6KlBcVWCAMGT3rIcxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA3/MDk3LTE1NDgxNzU4/MjQtNDA4MC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "TIE001",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1585142,
+   "name": "Take It Easy (2)",
+   "resource_url": "https://api.discogs.com/labels/1585142",
+   "thumbnail_url": "https://i.discogs.com/4sACTEiDJQM1v_d-ZU0JL2uH2cwVtvogCnqMEkzIc-0/rs:fit/g:sm/q:90/h:352/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1ODUx/NDItMTU0ODI3NTA4/MC04NDgwLmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-01-21",
+ "styles": [
+  "Nu-Disco",
+  "House"
+ ],
+ "title": "Take It Easy 001",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Born In Douala",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Those Days",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "The Lord",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13107097-Dirty-Channels-Take-It-Easy-001",
+ "year": 2019
+}

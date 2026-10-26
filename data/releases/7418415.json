@@ -1,0 +1,80 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2794923,
+   "join": "",
+   "name": "Cowboy Rhythmbox",
+   "resource_url": "https://api.discogs.com/artists/2794923",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/AI_IsbpbRhs8f-02oZrdTRg3P07sjxL4qgcFBC3wGc8/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3OTQ5/MjMtMTUwMDg5ODQ5/Mi0xMDU0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 7418415,
+ "images": [
+  {
+   "height": 591,
+   "resource_url": "https://i.discogs.com/YDY-uh2Oy--csWQC3Wv6-VgrY8maH1DLEzoikjXF5dk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTg0/MTUtMTQ0MjgyNDg3/NC01ODMxLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/YDY-uh2Oy--csWQC3Wv6-VgrY8maH1DLEzoikjXF5dk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTg0/MTUtMTQ0MjgyNDg3/NC01ODMxLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/RiX_6cvok3SArXCBuEpqpdl229lJ6SUQfFGMj7yYtyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTg0/MTUtMTQ0MjgyNDg3/NC01ODMxLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "PH48",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 94402,
+   "name": "Phantasy Sound",
+   "resource_url": "https://api.discogs.com/labels/94402",
+   "thumbnail_url": "https://i.discogs.com/Yl0O0DGfaIrgENd4gFIXZmngXiMznMrvFA6tw5_U6YQ/rs:fit/g:sm/q:90/h:221/w:221/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk0NDAy/LTEzNDMyMzk2MjYt/MTE2MS5qcGVn.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2015-08-31",
+ "styles": [
+  "Techno",
+  "House"
+ ],
+ "title": "Fantasma",
+ "tracklist": [
+  {
+   "duration": "7:18",
+   "position": "A",
+   "title": "Fantasma",
+   "type_": "track"
+  },
+  {
+   "duration": "6:02",
+   "position": "B1",
+   "title": "The Natives Are Having Us For Dinner Tonight",
+   "type_": "track"
+  },
+  {
+   "duration": "5:06",
+   "position": "B2",
+   "title": "Latin Sex Change",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/7418415-Cowboy-Rhythmbox-Fantasma",
+ "year": 2015
+}

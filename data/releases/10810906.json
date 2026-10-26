@@ -1,0 +1,76 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1947958,
+   "join": "",
+   "name": "De Gama (2)",
+   "resource_url": "https://api.discogs.com/artists/1947958",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/pmzH-XUZwQ3w_EXDIJmMSycFYmpUD3iqK_2oJS6Ymp0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5NDc5/NTgtMTUwNDQ4NjIw/MC02Njc3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Italy",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "Repress"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "180 gram"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Funk / Soul"
+ ],
+ "id": 10810906,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/haaCyQWvjXcIMNDKUciAW9Dnb8ShklaQZ8a05xgXL0E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODEw/OTA2LTE1MDQ2OTcz/ODItNzM2OS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/haaCyQWvjXcIMNDKUciAW9Dnb8ShklaQZ8a05xgXL0E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODEw/OTA2LTE1MDQ2OTcz/ODItNzM2OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/WtxLZ3gspdyiFrRTwLqtwjH3q0sXZFG1Dhy3bamtoh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODEw/OTA2LTE1MDQ2OTcz/ODItNzM2OS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DV 718",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1842,
+   "name": "D:vision Records",
+   "resource_url": "https://api.discogs.com/labels/1842",
+   "thumbnail_url": "https://i.discogs.com/CVxwWIfbZ15tXYqJhU2qrqqljl8RYdNaFCOY0AS-QGg/rs:fit/g:sm/q:90/h:209/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NDIt/MTY1OTEzMzA3Mi04/ODUwLnBuZw.jpeg"
+  }
+ ],
+ "notes": "Repress with hype sticker on cover: same version, same label and barcode on both sides, different from[url=http://www.discogs.com/De-Gama-Afrika/release/2451393] the first pressing[/url]  that has info and barcode on A side only and also different from[url=http://www.discogs.com/De-Gama-Afrika/release/10524186] the second repress[/url]  that is a Numbered Limited edition.\n\n\n",
+ "released": "2017",
+ "styles": [
+  "House",
+  "Afrobeat"
+ ],
+ "title": "Afrika",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Afrika",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Afrika",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10810906-De-Gama-2-Afrika",
+ "year": 2017
+}

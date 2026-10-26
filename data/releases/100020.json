@@ -1,0 +1,148 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 37224,
+   "join": "",
+   "name": "Sister Sledge",
+   "resource_url": "https://api.discogs.com/artists/37224",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/IqgFJHy0uB2azqeG-BV849bxxvSiCnrnj4AchM75dfI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM3MjI0/LTEzMzY2NjUxNTIt/MTQ5Ny5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Funk / Soul"
+ ],
+ "id": 100020,
+ "images": [
+  {
+   "height": 594,
+   "resource_url": "https://i.discogs.com/-2gYHTFSwsfzmF0r43R8KdNS20WzB7DzVrFzWYtUoVw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDAy/MC0xNTM4NDkzNzgz/LTUwNzMuanBlZw.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/-2gYHTFSwsfzmF0r43R8KdNS20WzB7DzVrFzWYtUoVw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDAy/MC0xNTM4NDkzNzgz/LTUwNzMuanBlZw.jpeg",
+   "uri150": "https://i.discogs.com/Ylqh8DifiGR_n1GLBjcxfC4p_F2BSxPMVKf9H-JFyzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDAy/MC0xNTM4NDkzNzgz/LTUwNzMuanBlZw.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "COT 50 693",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 9638,
+   "name": "Cotillion",
+   "resource_url": "https://api.discogs.com/labels/9638",
+   "thumbnail_url": "https://i.discogs.com/RNOYM6nVFn4A0XF-TivufnKJ2datvpFMciasOFA-BJU/rs:fit/g:sm/q:90/h:261/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk2Mzgt/MTU4NDAzMDc0NS0z/MDk3LnBuZw.jpeg"
+  }
+ ],
+ "notes": "Produced for the Chic Organization, Ltd.\r\n℗ © 1980 Cotillion Records\r\n\r\nInner sleeve has group photo on one side and lyrics + credits on the other\r\n",
+ "released": "1980",
+ "styles": [
+  "Soul",
+  "Funk",
+  "Disco"
+ ],
+ "title": "Love Somebody Today",
+ "tracklist": [
+  {
+   "duration": "6:53",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 302654,
+     "join": "",
+     "name": "Alfa Anderson",
+     "resource_url": "https://api.discogs.com/artists/302654",
+     "role": "Backing Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 80725,
+     "join": "",
+     "name": "Fonzi Thornton",
+     "resource_url": "https://api.discogs.com/artists/80725",
+     "role": "Backing Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 210258,
+     "join": "",
+     "name": "Luci Martin",
+     "resource_url": "https://api.discogs.com/artists/210258",
+     "role": "Backing Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 294777,
+     "join": "",
+     "name": "Michelle Cobbs",
+     "resource_url": "https://api.discogs.com/artists/294777",
+     "role": "Backing Vocals [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Got To Love Somebody Today",
+   "type_": "track"
+  },
+  {
+   "duration": "4:28",
+   "position": "A2",
+   "title": "You Fooled Around",
+   "type_": "track"
+  },
+  {
+   "duration": "4:11",
+   "position": "A3",
+   "title": "I'm A Good Girl",
+   "type_": "track"
+  },
+  {
+   "duration": "4:34",
+   "position": "A4",
+   "title": "Easy Street",
+   "type_": "track"
+  },
+  {
+   "duration": "4:55",
+   "position": "B1",
+   "title": "Reach Your Peak",
+   "type_": "track"
+  },
+  {
+   "duration": "4:03",
+   "position": "B2",
+   "title": "Pretty Baby",
+   "type_": "track"
+  },
+  {
+   "duration": "4:32",
+   "position": "B3",
+   "title": "How To Love",
+   "type_": "track"
+  },
+  {
+   "duration": "5:08",
+   "position": "B4",
+   "title": "Let's Go On Vacation",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/100020-Sister-Sledge-Love-Somebody-Today",
+ "year": 1980
+}

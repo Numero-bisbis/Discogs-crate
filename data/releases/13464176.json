@@ -1,0 +1,148 @@
+{
+ "artists": [
+  {
+   "anv": "Fela Anikulapo Kuti",
+   "id": 19812,
+   "join": "And",
+   "name": "Fela Kuti",
+   "resource_url": "https://api.discogs.com/artists/19812",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Uax0rIyEObKMyBcKDKpvSS4__c5vEL46El6vufYE3Tg/rs:fit/g:sm/q:90/h:600/w:455/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5ODEy/LTE2MzkwMjIyNTgt/OTM1Ny5qcGVn.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 2265,
+   "join": "",
+   "name": "Roy Ayers",
+   "resource_url": "https://api.discogs.com/artists/2265",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/pWJm4wbqdUBV6IpE_7CBA4D5iVeJNiTrHIMXnxftMFM/rs:fit/g:sm/q:90/h:600/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIyNjUt/MTcxMzE4MTA4OS04/OTczLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "USA & Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Record Store Day",
+    "Limited Edition",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Rainbow Starburst"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Funk / Soul",
+  "Folk, World, & Country"
+ ],
+ "id": 13464176,
+ "images": [
+  {
+   "height": 589,
+   "resource_url": "https://i.discogs.com/-2AWH-idHzLE3iWViNCGkLTbBW6kKzkA-2hsxOteb2M/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY0/MTc2LTE1NTUwNzY3/MjktMTc3Ni5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/-2AWH-idHzLE3iWViNCGkLTbBW6kKzkA-2hsxOteb2M/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY0/MTc2LTE1NTUwNzY3/MjktMTc3Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/udguYNBjyJXJiEOERwU1jb7LPJFSfB47-OIaj1rKAKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY0/MTc2LTE1NTUwNzY3/MjktMTc3Ni5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "KFR1143-1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 145466,
+   "name": "Knitting Factory Records",
+   "resource_url": "https://api.discogs.com/labels/145466",
+   "thumbnail_url": "https://i.discogs.com/1aROnz-SQqGob4H21YQDKKWsqPJPXEKC8Hgc2Ek1Zdk/rs:fit/g:sm/q:90/h:550/w:558/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0NTQ2/Ni0xNTk2NjcwNjIy/LTc4NDkuanBlZw.jpeg"
+  },
+  {
+   "catno": "none",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 5195,
+   "name": "Celluloid",
+   "resource_url": "https://api.discogs.com/labels/5195",
+   "thumbnail_url": "https://i.discogs.com/L9Bm3htGwIT0Elx1n0i4zz51RT3yYR_M21-YztWkH_g/rs:fit/g:sm/q:90/h:166/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUxOTUt/MTMyOTE2NDcwMi5w/bmc.jpeg"
+  },
+  {
+   "catno": "none",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 140545,
+   "name": "Partisan Records",
+   "resource_url": "https://api.discogs.com/labels/140545",
+   "thumbnail_url": "https://i.discogs.com/WqGu9v1XuZSzx_ex22Swcv2zpxLBTMHRNvJGMRUDZy8/rs:fit/g:sm/q:90/h:384/w:362/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0MDU0/NS0xNjAzMTU0MTgz/LTc0MDcuanBlZw.jpeg"
+  },
+  {
+   "catno": "none",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 184958,
+   "name": "Kalakuta Sunrise",
+   "resource_url": "https://api.discogs.com/labels/184958",
+   "thumbnail_url": "https://i.discogs.com/nmZZPif5jiqhI3D2RLfiRFAk1mQDbKFxJqns2bnFnEE/rs:fit/g:sm/q:90/h:396/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NDk1/OC0xNDg5MjQ2Nzg1/LTY5MjYuanBlZw.jpeg"
+  }
+ ],
+ "notes": "\"RSD Exclusive\" release.\n\nThe US Record Store Day website states that this release was released in a quantity of 2,000 copies.\n\nIncludes a download code.",
+ "released": "2019-04-13",
+ "styles": [
+  "African",
+  "Afrobeat",
+  "Jazz-Funk"
+ ],
+ "title": "Music Of Many Colours",
+ "tracklist": [
+  {
+   "duration": "18:39",
+   "extraartists": [
+    {
+     "anv": "Cal Clay",
+     "id": 346490,
+     "join": "",
+     "name": "Carl Clay",
+     "resource_url": "https://api.discogs.com/artists/346490",
+     "role": "Composed By, Arranged By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 260901,
+     "join": "",
+     "name": "Wayne Garfield",
+     "resource_url": "https://api.discogs.com/artists/260901",
+     "role": "Composed By, Arranged By",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "2000 Blacks Got To Be Free",
+   "type_": "track"
+  },
+  {
+   "duration": "17:32",
+   "extraartists": [
+    {
+     "anv": "Fela Anikulapo Kuti",
+     "id": 19812,
+     "join": "",
+     "name": "Fela Kuti",
+     "resource_url": "https://api.discogs.com/artists/19812",
+     "role": "Composed By, Arranged By",
+     "tracks": ""
+    }
+   ],
+   "position": "B",
+   "title": "Africa - Center Of The World",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13464176-Fela-Anikulapo-Kuti-And-Roy-Ayers-Music-Of-Many-Colours",
+ "year": 2019
+}

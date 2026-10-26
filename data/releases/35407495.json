@@ -1,0 +1,137 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1245513,
+   "join": "",
+   "name": "Tame Impala",
+   "resource_url": "https://api.discogs.com/artists/1245513",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/_pZNESCaPzf9bTXRrZjabJO9w0spkDk0q2XRaSnihXY/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyNDU1/MTMtMTQ2NjQ5MTkz/OC04NDAxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Pop"
+ ],
+ "id": 35407495,
+ "images": [
+  {
+   "height": 583,
+   "resource_url": "https://i.discogs.com/0gly9BMBl2M7QfMKBPCMGmrpi2PK5XqEt2BtWcifmz0/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDA3/NDk1LTE3NjA3ODA4/MjgtNDU0My5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/0gly9BMBl2M7QfMKBPCMGmrpi2PK5XqEt2BtWcifmz0/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDA3/NDk1LTE3NjA3ODA4/MjgtNDU0My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/6Zjztt8KEIw9wrePA4NvfwyxI34YjuYd9ExjezDiku4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDA3/NDk1LTE3NjA3ODA4/MjgtNDU0My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "19802956001",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1866,
+   "name": "Columbia",
+   "resource_url": "https://api.discogs.com/labels/1866",
+   "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+  }
+ ],
+ "notes": "Regular black, Made in Europe on sticker on back cover.\nGatefold with 12 page lyrics and artwork booklet",
+ "released": "2025-10-17",
+ "styles": [
+  "House",
+  "Dance-pop",
+  "Tech House",
+  "Alt-Pop"
+ ],
+ "title": "Deadbeat",
+ "tracklist": [
+  {
+   "duration": "4:58",
+   "position": "A1",
+   "title": "My Old Ways",
+   "type_": "track"
+  },
+  {
+   "duration": "3:35",
+   "position": "A2",
+   "title": "No Reply",
+   "type_": "track"
+  },
+  {
+   "duration": "3:25",
+   "position": "A3",
+   "title": "Dracula",
+   "type_": "track"
+  },
+  {
+   "duration": "3:43",
+   "position": "B4",
+   "title": "Loser",
+   "type_": "track"
+  },
+  {
+   "duration": "4:28",
+   "position": "B5",
+   "title": "Oblivion",
+   "type_": "track"
+  },
+  {
+   "duration": "4:14",
+   "position": "B6",
+   "title": "Not My World",
+   "type_": "track"
+  },
+  {
+   "duration": "4:44",
+   "position": "C7",
+   "title": "Piece Of Heaven",
+   "type_": "track"
+  },
+  {
+   "duration": "4:23",
+   "position": "C8",
+   "title": "Obsolete",
+   "type_": "track"
+  },
+  {
+   "duration": "7:42",
+   "position": "C9",
+   "title": "Ethereal Connection",
+   "type_": "track"
+  },
+  {
+   "duration": "3:34",
+   "position": "D10",
+   "title": "See You On Monday (You're Lost)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:01",
+   "position": "D11",
+   "title": "Afterthought",
+   "type_": "track"
+  },
+  {
+   "duration": "7:14",
+   "position": "D12",
+   "title": "End Of Summer",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/35407495-Tame-Impala-Deadbeat",
+ "year": 2025
+}

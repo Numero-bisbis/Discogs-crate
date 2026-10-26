@@ -1,0 +1,82 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6109659,
+   "join": "",
+   "name": "Balako",
+   "resource_url": "https://api.discogs.com/artists/6109659",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/AqxQBFfOqcIG-JdYOe4NEQJ96wfquMuYycIkW_OPhtA/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYxMDk2/NTktMTU4MjY0MDI3/Ny02NTk5LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "White Label"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "180g"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Latin"
+ ],
+ "id": 12273734,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/807TDlhGUjImPmJZWSRAKFxCscE6R8E1UI1M6sDR1YQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcz/NzM0LTE1MzE5MjI1/NzYtODUzOS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/807TDlhGUjImPmJZWSRAKFxCscE6R8E1UI1M6sDR1YQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcz/NzM0LTE1MzE5MjI1/NzYtODUzOS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/KcLTc1A8gvjszpqFc9ZME8Y7zaVeujaAkQ1UU1Mguww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcz/NzM0LTE1MzE5MjI1/NzYtODUzOS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RNT039",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3164471,
+   "name": "Razor-N-Tape",
+   "resource_url": "https://api.discogs.com/labels/3164471",
+   "thumbnail_url": "https://i.discogs.com/f-wlf6geO4UdrroOqUDKawckRUUPz7FhLCXawWRX-Lw/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNjQ0/NzEtMTY3ODM3Njg2/NS0yNjQ3LnBuZw.jpeg"
+  }
+ ],
+ "notes": "Green stamped.",
+ "released": "2018-07-18",
+ "styles": [
+  "Disco",
+  "Nu-Disco"
+ ],
+ "title": "Balako Edits",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Batuque",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Deixa Acontecer",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Honey Honey Honey",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12273734-Balako-Balako-Edits",
+ "year": 2018
+}

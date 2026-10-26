@@ -1,0 +1,97 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2162644,
+   "join": "",
+   "name": "Yuri Shulgin",
+   "resource_url": "https://api.discogs.com/artists/2162644",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/H_62ZQn2Ffwo4uzCssivSAmgsO6rbs_UKwb7CjBcFIg/rs:fit/g:sm/q:90/h:368/w:402/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNjI2/NDQtMTM4MzI1ODQ5/MC02MDM0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 8192702,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/4cIDYmlHgf6cT-V8F6h5TkXs49tItdEgkA8BV8kdbPQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTI3/MDItMTQ3NjIxNzQy/Mi03MTU1LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/4cIDYmlHgf6cT-V8F6h5TkXs49tItdEgkA8BV8kdbPQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTI3/MDItMTQ3NjIxNzQy/Mi03MTU1LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/QhSbQcxS1FvHlu-FgRDTc96r7eRHj5vRmJY66nyMD38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTI3/MDItMTQ3NjIxNzQy/Mi03MTU1LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ESCP 001",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 975906,
+   "name": "Escapade Recordings",
+   "resource_url": "https://api.discogs.com/labels/975906",
+   "thumbnail_url": "https://i.discogs.com/s91BT7dCHDZH7BhkF0_eXj2V9RioyQSaoTI-F94tQKY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk3NTkw/Ni0xNDc2MjE3NzQ4/LTYyMzcucG5n.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2016-02-12",
+ "styles": [
+  "House",
+  "Deep House"
+ ],
+ "title": "Polyphonic Mind",
+ "tracklist": [
+  {
+   "duration": "6:00",
+   "position": "A1",
+   "title": "Nothing In The City",
+   "type_": "track"
+  },
+  {
+   "duration": "6:16",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1961361,
+     "join": "",
+     "name": "Victor Netesov",
+     "resource_url": "https://api.discogs.com/artists/1961361",
+     "role": "Trumpet",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Polyphonic Mind",
+   "type_": "track"
+  },
+  {
+   "duration": "7:20",
+   "position": "B1",
+   "title": "Livetrackrecording (Dubby)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:02",
+   "position": "B2",
+   "title": "#1Stereo (Analog Jam)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/8192702-Yuri-Shulgin-Polyphonic-Mind",
+ "year": 2016
+}

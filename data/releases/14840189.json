@@ -1,0 +1,84 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 7178127,
+   "join": ",",
+   "name": "DJ Gigola",
+   "resource_url": "https://api.discogs.com/artists/7178127",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/TLmplUUA0fPlKto6S5pdKgQItvVuup0zirCo2oW55WY/rs:fit/g:sm/q:90/h:415/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcxNzgx/MjctMTY2MjY0MjQw/Mi05Njk3LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 7218186,
+   "join": "",
+   "name": "Kev Koko",
+   "resource_url": "https://api.discogs.com/artists/7218186",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/CjixlghmReJMozy8ks4GaZawUOowqczM_XUxGFcvpv0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcyMTgx/ODYtMTU4MzY2NTgy/MC04NDA1LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP",
+    "Limited Edition",
+    "Numbered"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 14840189,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/8w5QnNn9plWwJP-W9vSZvXAkhLM2w5oaT_a3WjQ2yZQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQw/MTg5LTE1ODM0OTY5/NjMtOTA2Ni5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/8w5QnNn9plWwJP-W9vSZvXAkhLM2w5oaT_a3WjQ2yZQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQw/MTg5LTE1ODM0OTY5/NjMtOTA2Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/xDnMzogjYdLXR4wxgT3jvUgjhA1ZWQkuN_3VWp4UrNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQw/MTg5LTE1ODM0OTY5/NjMtOTA2Ni5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "LFEK006",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1582082,
+   "name": "Live From Earth Klub",
+   "resource_url": "https://api.discogs.com/labels/1582082",
+   "thumbnail_url": "https://i.discogs.com/VZgQYSRMWI4GAVMb_94bVx2GJIpHIZQE9SKtpTwk348/rs:fit/g:sm/q:90/h:368/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1ODIw/ODItMTcyOTcwMDUz/Ny0yNDU4LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Limited edition of 500 hand numbered copies.",
+ "released": "2020-02-14",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Sueño",
+ "tracklist": [
+  {
+   "duration": "5:11",
+   "position": "A",
+   "title": "Sueño",
+   "type_": "track"
+  },
+  {
+   "duration": "5:24",
+   "position": "B",
+   "title": "Blow",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14840189-DJ-Gigola-Kev-Koko-Sueño",
+ "year": 2020
+}

@@ -1,0 +1,87 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6231086,
+   "join": "",
+   "name": "Madcat (4)",
+   "resource_url": "https://api.discogs.com/artists/6231086",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-F1d11co43TIEBz_EAxlGElKpcck7-fiIokfSfbnLJg/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYyMzEw/ODYtMTU1NDA0NDAw/OC0xMDgwLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12896443,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/DmhQH9aiqxjaO_nPGdjhpAwlnUsPwDbbDidj8_sLpvY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk2/NDQzLTE1NDQwNTA0/ODktODQ2MS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/DmhQH9aiqxjaO_nPGdjhpAwlnUsPwDbbDidj8_sLpvY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk2/NDQzLTE1NDQwNTA0/ODktODQ2MS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/2YC6VENVR0tTzPi-WyaCxB76Pg6GDl6mKgzZR5bAuKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk2/NDQzLTE1NDQwNTA0/ODktODQ2MS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "PN008",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 902173,
+   "name": "Pont Neuf Records",
+   "resource_url": "https://api.discogs.com/labels/902173",
+   "thumbnail_url": "https://i.discogs.com/nxuXFE8QPfHHRKluT_i46qYbGfUAHxJqS56MBmHxJdQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwMjE3/My0xNjkyNTQyOTk4/LTU3ODMuanBlZw.jpeg"
+  }
+ ],
+ "notes": "℗ & © 2018 Pont Neuf Records",
+ "released": "2018-12-07",
+ "styles": [
+  "Disco",
+  "Deep House",
+  "House"
+ ],
+ "title": "The Doors Of Perception",
+ "tracklist": [
+  {
+   "duration": "5:11",
+   "position": "A1",
+   "title": "Le Jeu Du Roi D'Ur ",
+   "type_": "track"
+  },
+  {
+   "duration": "6:08",
+   "position": "A2",
+   "title": "Pardès",
+   "type_": "track"
+  },
+  {
+   "duration": "5:28",
+   "position": "B1",
+   "title": "Call Me Ishmael",
+   "type_": "track"
+  },
+  {
+   "duration": "6:29",
+   "position": "B2",
+   "title": "In-Yo",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12896443-Madcat-4-The-Doors-Of-Perception",
+ "year": 2018
+}

@@ -1,0 +1,1931 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3358032,
+   "join": "",
+   "name": "Chris Dave And The Drumhedz",
+   "resource_url": "https://api.discogs.com/artists/3358032",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/OZKl8orLbpYTaavigLTLQjg2nAd6q1k65bqP83krFuk/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzNTgw/MzItMTU0NDc2NDM1/OS01NDczLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop",
+  "Jazz",
+  "Funk / Soul"
+ ],
+ "id": 11506504,
+ "images": [
+  {
+   "height": 599,
+   "resource_url": "https://i.discogs.com/XgJI0y0M3oOO4yu_8IqmaMczO0BpEZSdxSPFxJofTNw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTA2/NTA0LTE1MjI2NjMy/NTgtODYyMy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/XgJI0y0M3oOO4yu_8IqmaMczO0BpEZSdxSPFxJofTNw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTA2/NTA0LTE1MjI2NjMy/NTgtODYyMy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/4pvrWlkLL9smGqqT6WwgdwWpDRLWgTots1vOd2QtKgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTA2/NTA0LTE1MjI2NjMy/NTgtODYyMy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "00602537794416",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 281,
+   "name": "Blue Note",
+   "resource_url": "https://api.discogs.com/labels/281",
+   "thumbnail_url": "https://i.discogs.com/3HpIGTTfcLBKDF0WKsdSygbdfgirR7shFM3kGhgArBI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MS0x/NTAyNjQwNjY3LTQ4/MzMucG5n.jpeg"
+  },
+  {
+   "catno": "00602537794416",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 972502,
+   "name": "Glow365",
+   "resource_url": "https://api.discogs.com/labels/972502"
+  }
+ ],
+ "notes": null,
+ "released": "2018-01-26",
+ "styles": [],
+ "title": "Chris Dave And The Drumhedz",
+ "tracklist": [
+  {
+   "duration": "2:21",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3293196,
+     "join": "",
+     "name": "Isaiah Sharkey",
+     "resource_url": "https://api.discogs.com/artists/3293196",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3950386,
+     "join": "",
+     "name": "Cleo Sample",
+     "resource_url": "https://api.discogs.com/artists/3950386",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "Savvy",
+     "id": 6097546,
+     "join": "",
+     "name": "Savvi",
+     "resource_url": "https://api.discogs.com/artists/6097546",
+     "role": "Vocals [Spoken Word]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3950386,
+     "join": "",
+     "name": "Cleo Sample",
+     "resource_url": "https://api.discogs.com/artists/3950386",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Rocks Crying",
+   "type_": "track"
+  },
+  {
+   "duration": "3:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 211939,
+     "join": "",
+     "name": "RC Williams",
+     "resource_url": "https://api.discogs.com/artists/211939",
+     "role": "Bass [Moog Bass]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3293196,
+     "join": "",
+     "name": "Isaiah Sharkey",
+     "resource_url": "https://api.discogs.com/artists/3293196",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3950386,
+     "join": "",
+     "name": "Cleo Sample",
+     "resource_url": "https://api.discogs.com/artists/3950386",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 340568,
+     "join": "",
+     "name": "Robert Glasper",
+     "resource_url": "https://api.discogs.com/artists/340568",
+     "role": "Piano, Electric Piano [Rhodes]",
+     "tracks": ""
+    },
+    {
+     "anv": "Donald Rose",
+     "id": 2133379,
+     "join": "",
+     "name": "D. Rose (3)",
+     "resource_url": "https://api.discogs.com/artists/2133379",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "KRNDN",
+     "id": 139644,
+     "join": "",
+     "name": "Krondon",
+     "resource_url": "https://api.discogs.com/artists/139644",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "Drumhedz",
+     "id": 3358032,
+     "join": "",
+     "name": "Chris Dave And The Drumhedz",
+     "resource_url": "https://api.discogs.com/artists/3358032",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "Sir Darryl Farris",
+     "id": 4082018,
+     "join": "",
+     "name": "Darryl \"SiR\" Farris",
+     "resource_url": "https://api.discogs.com/artists/4082018",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6388526,
+     "join": "",
+     "name": "Leolin Dockins III",
+     "resource_url": "https://api.discogs.com/artists/6388526",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1379933,
+     "join": "",
+     "name": "Marshall York",
+     "resource_url": "https://api.discogs.com/artists/1379933",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 801215,
+     "join": "",
+     "name": "Rozzi Daime",
+     "resource_url": "https://api.discogs.com/artists/801215",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 245421,
+     "join": "",
+     "name": "Shafiq Husayn",
+     "resource_url": "https://api.discogs.com/artists/245421",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 150927,
+     "join": "",
+     "name": "Sy Smith",
+     "resource_url": "https://api.discogs.com/artists/150927",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Donald Rose",
+     "id": 2133379,
+     "join": "",
+     "name": "D. Rose (3)",
+     "resource_url": "https://api.discogs.com/artists/2133379",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6388526,
+     "join": "",
+     "name": "Leolin Dockins III",
+     "resource_url": "https://api.discogs.com/artists/6388526",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 340568,
+     "join": "",
+     "name": "Robert Glasper",
+     "resource_url": "https://api.discogs.com/artists/340568",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 245421,
+     "join": "",
+     "name": "Shafiq Husayn",
+     "resource_url": "https://api.discogs.com/artists/245421",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 150927,
+     "join": "",
+     "name": "Sy Smith",
+     "resource_url": "https://api.discogs.com/artists/150927",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Universal Language",
+   "type_": "track"
+  },
+  {
+   "duration": "3:39",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3541303,
+     "join": "",
+     "name": "Keyon Harrold",
+     "resource_url": "https://api.discogs.com/artists/3541303",
+     "role": "Backing Vocals, Piano, Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 659990,
+     "join": "",
+     "name": "Marcus Strickland",
+     "resource_url": "https://api.discogs.com/artists/659990",
+     "role": "Bass Clarinet, Tenor Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Drums, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4613460,
+     "join": "",
+     "name": "SiR (12)",
+     "resource_url": "https://api.discogs.com/artists/4613460",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3293196,
+     "join": "",
+     "name": "Isaiah Sharkey",
+     "resource_url": "https://api.discogs.com/artists/3293196",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21363,
+     "join": "",
+     "name": "James Poyser",
+     "resource_url": "https://api.discogs.com/artists/21363",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3426972,
+     "join": "",
+     "name": "Marcus Hodge",
+     "resource_url": "https://api.discogs.com/artists/3426972",
+     "role": "Organ",
+     "tracks": ""
+    },
+    {
+     "anv": "Sir Darryl Farris",
+     "id": 4082018,
+     "join": "",
+     "name": "Darryl \"SiR\" Farris",
+     "resource_url": "https://api.discogs.com/artists/4082018",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2586211,
+     "join": "",
+     "name": "Tiffany Gouche",
+     "resource_url": "https://api.discogs.com/artists/2586211",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3541303,
+     "join": "",
+     "name": "Keyon Harrold",
+     "resource_url": "https://api.discogs.com/artists/3541303",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Dat Feelin'",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3426972,
+     "join": "",
+     "name": "Marcus Hodge",
+     "resource_url": "https://api.discogs.com/artists/3426972",
+     "role": "Organ",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Vocals [Spoken Word (Church Member)]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4613460,
+     "join": "",
+     "name": "SiR (12)",
+     "resource_url": "https://api.discogs.com/artists/4613460",
+     "role": "Vocals [Spoken Word (Church Member)]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1977410,
+     "join": "",
+     "name": "Ali Siddiq",
+     "resource_url": "https://api.discogs.com/artists/1977410",
+     "role": "Vocals [Spoken Word (Pastor)]",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "\"Give It Up\" (Skit)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:34",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3293205,
+     "join": "",
+     "name": "Nicholas McNack",
+     "resource_url": "https://api.discogs.com/artists/3293205",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4003501,
+     "join": "",
+     "name": "Anderson .Paak",
+     "resource_url": "https://api.discogs.com/artists/4003501",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3293196,
+     "join": "",
+     "name": "Isaiah Sharkey",
+     "resource_url": "https://api.discogs.com/artists/3293196",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 282089,
+     "join": "",
+     "name": "Stokley Williams",
+     "resource_url": "https://api.discogs.com/artists/282089",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Melvin Watson",
+     "id": 272819,
+     "join": "",
+     "name": "Melvin \"Wah Wah\" Watson",
+     "resource_url": "https://api.discogs.com/artists/272819",
+     "role": "Guitar, Sitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3541303,
+     "join": "",
+     "name": "Keyon Harrold",
+     "resource_url": "https://api.discogs.com/artists/3541303",
+     "role": "Horn",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5710082,
+     "join": "",
+     "name": "Brandon Paak Anderson",
+     "resource_url": "https://api.discogs.com/artists/5710082",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3541303,
+     "join": "",
+     "name": "Keyon Harrold",
+     "resource_url": "https://api.discogs.com/artists/3541303",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Black Hole ",
+   "type_": "track"
+  },
+  {
+   "duration": "1:02",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3293196,
+     "join": "",
+     "name": "Isaiah Sharkey",
+     "resource_url": "https://api.discogs.com/artists/3293196",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 175597,
+     "join": "",
+     "name": "Andre Harris (2)",
+     "resource_url": "https://api.discogs.com/artists/175597",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 175597,
+     "join": "",
+     "name": "Andre Harris (2)",
+     "resource_url": "https://api.discogs.com/artists/175597",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3293196,
+     "join": "",
+     "name": "Isaiah Sharkey",
+     "resource_url": "https://api.discogs.com/artists/3293196",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "2N1",
+   "type_": "track"
+  },
+  {
+   "duration": "5:23",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 17040,
+     "join": "",
+     "name": "Bilal",
+     "resource_url": "https://api.discogs.com/artists/17040",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 39454,
+     "join": "",
+     "name": "Tweet",
+     "resource_url": "https://api.discogs.com/artists/39454",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3293196,
+     "join": "",
+     "name": "Isaiah Sharkey",
+     "resource_url": "https://api.discogs.com/artists/3293196",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21363,
+     "join": "",
+     "name": "James Poyser",
+     "resource_url": "https://api.discogs.com/artists/21363",
+     "role": "Keyboards, Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 373265,
+     "join": "",
+     "name": "Charmelle Cofield",
+     "resource_url": "https://api.discogs.com/artists/373265",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "Sir Darryl Farris",
+     "id": 4082018,
+     "join": "",
+     "name": "Darryl \"SiR\" Farris",
+     "resource_url": "https://api.discogs.com/artists/4082018",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2722559,
+     "join": "",
+     "name": "Bilal Oliver",
+     "resource_url": "https://api.discogs.com/artists/2722559",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 539992,
+     "join": "",
+     "name": "Charlene Keys",
+     "resource_url": "https://api.discogs.com/artists/539992",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 373265,
+     "join": "",
+     "name": "Charmelle Cofield",
+     "resource_url": "https://api.discogs.com/artists/373265",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Sir Darryl Farris",
+     "id": 4082018,
+     "join": "",
+     "name": "Darryl \"SiR\" Farris",
+     "resource_url": "https://api.discogs.com/artists/4082018",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21363,
+     "join": "",
+     "name": "James Poyser",
+     "resource_url": "https://api.discogs.com/artists/21363",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Spread Her Wings",
+   "type_": "track"
+  },
+  {
+   "duration": "2:17",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Drums, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3293196,
+     "join": "",
+     "name": "Isaiah Sharkey",
+     "resource_url": "https://api.discogs.com/artists/3293196",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1516334,
+     "join": "",
+     "name": "Tim Stewart (3)",
+     "resource_url": "https://api.discogs.com/artists/1516334",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "Drumhedz",
+     "id": 3358032,
+     "join": "",
+     "name": "Chris Dave And The Drumhedz",
+     "resource_url": "https://api.discogs.com/artists/3358032",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6388527,
+     "join": "",
+     "name": "Kent Morrison (2)",
+     "resource_url": "https://api.discogs.com/artists/6388527",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1379933,
+     "join": "",
+     "name": "Marshall York",
+     "resource_url": "https://api.discogs.com/artists/1379933",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 801215,
+     "join": "",
+     "name": "Rozzi Daime",
+     "resource_url": "https://api.discogs.com/artists/801215",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 245421,
+     "join": "",
+     "name": "Shafiq Husayn",
+     "resource_url": "https://api.discogs.com/artists/245421",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 245421,
+     "join": "",
+     "name": "Shafiq Husayn",
+     "resource_url": "https://api.discogs.com/artists/245421",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1516334,
+     "join": "",
+     "name": "Tim Stewart (3)",
+     "resource_url": "https://api.discogs.com/artists/1516334",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Whatever",
+   "type_": "track"
+  },
+  {
+   "duration": "3:42",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 246572,
+     "join": "",
+     "name": "Kendra Foster",
+     "resource_url": "https://api.discogs.com/artists/246572",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3293196,
+     "join": "",
+     "name": "Isaiah Sharkey",
+     "resource_url": "https://api.discogs.com/artists/3293196",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 267981,
+     "join": "",
+     "name": "Aaron Draper",
+     "resource_url": "https://api.discogs.com/artists/267981",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 425637,
+     "join": "",
+     "name": "Sharief Hobley",
+     "resource_url": "https://api.discogs.com/artists/425637",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 246572,
+     "join": "",
+     "name": "Kendra Foster",
+     "resource_url": "https://api.discogs.com/artists/246572",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Sensitive Granite",
+   "type_": "track"
+  },
+  {
+   "duration": "5:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3293205,
+     "join": "",
+     "name": "Nicholas McNack",
+     "resource_url": "https://api.discogs.com/artists/3293205",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 282089,
+     "join": "",
+     "name": "Stokley Williams",
+     "resource_url": "https://api.discogs.com/artists/282089",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3293196,
+     "join": "",
+     "name": "Isaiah Sharkey",
+     "resource_url": "https://api.discogs.com/artists/3293196",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 614957,
+     "join": "",
+     "name": "Luke Austin",
+     "resource_url": "https://api.discogs.com/artists/614957",
+     "role": "Organ, Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "Miguel Ferguson",
+     "id": 506443,
+     "join": "",
+     "name": "Miguel Atwood-Ferguson",
+     "resource_url": "https://api.discogs.com/artists/506443",
+     "role": "Strings",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274807,
+     "join": "",
+     "name": "Casey Benjamin",
+     "resource_url": "https://api.discogs.com/artists/274807",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274807,
+     "join": "",
+     "name": "Casey Benjamin",
+     "resource_url": "https://api.discogs.com/artists/274807",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 282089,
+     "join": "",
+     "name": "Stokley Williams",
+     "resource_url": "https://api.discogs.com/artists/282089",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Cosmic Intercourse",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3426972,
+     "join": "",
+     "name": "Marcus Hodge",
+     "resource_url": "https://api.discogs.com/artists/3426972",
+     "role": "Organ",
+     "tracks": ""
+    },
+    {
+     "anv": "Leolin \"Doc\" Dockins III",
+     "id": 6388526,
+     "join": "",
+     "name": "Leolin Dockins III",
+     "resource_url": "https://api.discogs.com/artists/6388526",
+     "role": "Vocals [Spoken Word (Deacon Difficult)]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1977410,
+     "join": "",
+     "name": "Ali Siddiq",
+     "resource_url": "https://api.discogs.com/artists/1977410",
+     "role": "Vocals [Spoken Word (Pastor)]",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "\"Selling Sweatshirts\" (Skit)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:45",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 110393,
+     "join": "",
+     "name": "Goapele",
+     "resource_url": "https://api.discogs.com/artists/110393",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 245421,
+     "join": "",
+     "name": "Shafiq Husayn",
+     "resource_url": "https://api.discogs.com/artists/245421",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 354177,
+     "join": "",
+     "name": "Kebbi Williams",
+     "resource_url": "https://api.discogs.com/artists/354177",
+     "role": "Flute, Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3293196,
+     "join": "",
+     "name": "Isaiah Sharkey",
+     "resource_url": "https://api.discogs.com/artists/3293196",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1516334,
+     "join": "",
+     "name": "Tim Stewart (3)",
+     "resource_url": "https://api.discogs.com/artists/1516334",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Grégoire Maret",
+     "id": 316508,
+     "join": "",
+     "name": "Gregoire Maret",
+     "resource_url": "https://api.discogs.com/artists/316508",
+     "role": "Harmonica",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3426972,
+     "join": "",
+     "name": "Marcus Hodge",
+     "resource_url": "https://api.discogs.com/artists/3426972",
+     "role": "Organ",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 110393,
+     "join": "",
+     "name": "Goapele",
+     "resource_url": "https://api.discogs.com/artists/110393",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 245421,
+     "join": "",
+     "name": "Shafiq Husayn",
+     "resource_url": "https://api.discogs.com/artists/245421",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Sir Darryl Farris",
+     "id": 4082018,
+     "join": "",
+     "name": "Darryl \"SiR\" Farris",
+     "resource_url": "https://api.discogs.com/artists/4082018",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2586211,
+     "join": "",
+     "name": "Tiffany Gouche",
+     "resource_url": "https://api.discogs.com/artists/2586211",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 801215,
+     "join": "",
+     "name": "Rozzi Daime",
+     "resource_url": "https://api.discogs.com/artists/801215",
+     "role": "Vocals [Spoken Word]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Goapele K Mohlabane",
+     "id": 2877440,
+     "join": "",
+     "name": "Goapele Mohlabane",
+     "resource_url": "https://api.discogs.com/artists/2877440",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 354177,
+     "join": "",
+     "name": "Kebbi Williams",
+     "resource_url": "https://api.discogs.com/artists/354177",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 245421,
+     "join": "",
+     "name": "Shafiq Husayn",
+     "resource_url": "https://api.discogs.com/artists/245421",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Atlanta, Texas",
+   "type_": "track"
+  },
+  {
+   "duration": "3:49",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3950386,
+     "join": "",
+     "name": "Cleo Sample",
+     "resource_url": "https://api.discogs.com/artists/3950386",
+     "role": "Bass [Moog Bass]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Drums, Flute, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "Glenn Piper",
+     "id": 162063,
+     "join": "",
+     "name": "Mr. Glenn Piper",
+     "resource_url": "https://api.discogs.com/artists/162063",
+     "role": "Effects [Sound Effects]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 80570,
+     "join": "",
+     "name": "Elzhi",
+     "resource_url": "https://api.discogs.com/artists/80570",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 190963,
+     "join": "",
+     "name": "Eric Roberson",
+     "resource_url": "https://api.discogs.com/artists/190963",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 198893,
+     "join": "",
+     "name": "Phonte Coleman",
+     "resource_url": "https://api.discogs.com/artists/198893",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3541303,
+     "join": "",
+     "name": "Keyon Harrold",
+     "resource_url": "https://api.discogs.com/artists/3541303",
+     "role": "Horn",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 267981,
+     "join": "",
+     "name": "Aaron Draper",
+     "resource_url": "https://api.discogs.com/artists/267981",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 59176,
+     "join": "",
+     "name": "DJ Jazzy Jeff",
+     "resource_url": "https://api.discogs.com/artists/59176",
+     "role": "Turntables [DJ]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 376347,
+     "join": "",
+     "name": "Preservation",
+     "resource_url": "https://api.discogs.com/artists/376347",
+     "role": "Turntables [DJ]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3950386,
+     "join": "",
+     "name": "Cleo Sample",
+     "resource_url": "https://api.discogs.com/artists/3950386",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 190963,
+     "join": "",
+     "name": "Eric Roberson",
+     "resource_url": "https://api.discogs.com/artists/190963",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1746431,
+     "join": "",
+     "name": "Jason Powers (2)",
+     "resource_url": "https://api.discogs.com/artists/1746431",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 198893,
+     "join": "",
+     "name": "Phonte Coleman",
+     "resource_url": "https://api.discogs.com/artists/198893",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Destiny N Stereo",
+   "type_": "track"
+  },
+  {
+   "duration": "6:27",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3293205,
+     "join": "",
+     "name": "Nicholas McNack",
+     "resource_url": "https://api.discogs.com/artists/3293205",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4003501,
+     "join": "",
+     "name": "Anderson .Paak",
+     "resource_url": "https://api.discogs.com/artists/4003501",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4613460,
+     "join": "",
+     "name": "SiR (12)",
+     "resource_url": "https://api.discogs.com/artists/4613460",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Michael Feingold",
+     "id": 1517692,
+     "join": "",
+     "name": "Mike Feingold",
+     "resource_url": "https://api.discogs.com/artists/1517692",
+     "role": "Glass Harmonica [Glass], Bells, Celesta",
+     "tracks": ""
+    },
+    {
+     "anv": "Fink Greenall",
+     "id": 592699,
+     "join": "",
+     "name": "Fin Greenall",
+     "resource_url": "https://api.discogs.com/artists/592699",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3293196,
+     "join": "",
+     "name": "Isaiah Sharkey",
+     "resource_url": "https://api.discogs.com/artists/3293196",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3950386,
+     "join": "",
+     "name": "Cleo Sample",
+     "resource_url": "https://api.discogs.com/artists/3950386",
+     "role": "Organ",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4151242,
+     "join": "",
+     "name": "Jermaine Holmes",
+     "resource_url": "https://api.discogs.com/artists/4151242",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5710082,
+     "join": "",
+     "name": "Brandon Paak Anderson",
+     "resource_url": "https://api.discogs.com/artists/5710082",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Sir Darryl Farris",
+     "id": 4082018,
+     "join": "",
+     "name": "Darryl \"SiR\" Farris",
+     "resource_url": "https://api.discogs.com/artists/4082018",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 592699,
+     "join": "",
+     "name": "Fin Greenall",
+     "resource_url": "https://api.discogs.com/artists/592699",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Clear View",
+   "type_": "track"
+  },
+  {
+   "duration": "4:37",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3293205,
+     "join": "",
+     "name": "Nicholas McNack",
+     "resource_url": "https://api.discogs.com/artists/3293205",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Drums, Percussion, Effects [Sound Effects]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2171755,
+     "join": "",
+     "name": "Anna Wise",
+     "resource_url": "https://api.discogs.com/artists/2171755",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4613460,
+     "join": "",
+     "name": "SiR (12)",
+     "resource_url": "https://api.discogs.com/artists/4613460",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3293196,
+     "join": "",
+     "name": "Isaiah Sharkey",
+     "resource_url": "https://api.discogs.com/artists/3293196",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Michael Feingold",
+     "id": 1517692,
+     "join": "",
+     "name": "Mike Feingold",
+     "resource_url": "https://api.discogs.com/artists/1517692",
+     "role": "Sitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2171755,
+     "join": "",
+     "name": "Anna Wise",
+     "resource_url": "https://api.discogs.com/artists/2171755",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Sir Darryl Farris",
+     "id": 4082018,
+     "join": "",
+     "name": "Darryl \"SiR\" Farris",
+     "resource_url": "https://api.discogs.com/artists/4082018",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Michael Feingold",
+     "id": 1517692,
+     "join": "",
+     "name": "Mike Feingold",
+     "resource_url": "https://api.discogs.com/artists/1517692",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "chris dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Job Well Done",
+   "type_": "track"
+  },
+  {
+   "duration": "5:39",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3293196,
+     "join": "",
+     "name": "Isaiah Sharkey",
+     "resource_url": "https://api.discogs.com/artists/3293196",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3950386,
+     "join": "",
+     "name": "Cleo Sample",
+     "resource_url": "https://api.discogs.com/artists/3950386",
+     "role": "Organ, Piano, Electric Piano [Rhodes]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274676,
+     "join": "",
+     "name": "Alan Pasqua",
+     "resource_url": "https://api.discogs.com/artists/274676",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Lady Jane",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Vocals [Spoken Word (Church Member)]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4613460,
+     "join": "",
+     "name": "SiR (12)",
+     "resource_url": "https://api.discogs.com/artists/4613460",
+     "role": "Vocals [Spoken Word (Church Member)]",
+     "tracks": ""
+    },
+    {
+     "anv": "Leolin \"Doc\" Dockins III",
+     "id": 6388526,
+     "join": "",
+     "name": "Leolin Dockins III",
+     "resource_url": "https://api.discogs.com/artists/6388526",
+     "role": "Vocals [Spoken Word (Deacon Difficult)]",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "\"Title Check\" (Skit)",
+   "type_": "track"
+  },
+  {
+   "duration": "2:26",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 659990,
+     "join": "",
+     "name": "Marcus Strickland",
+     "resource_url": "https://api.discogs.com/artists/659990",
+     "role": "Bass Clarinet, Tenor Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Drums, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3293196,
+     "join": "",
+     "name": "Isaiah Sharkey",
+     "resource_url": "https://api.discogs.com/artists/3293196",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21363,
+     "join": "",
+     "name": "James Poyser",
+     "resource_url": "https://api.discogs.com/artists/21363",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3541303,
+     "join": "",
+     "name": "Keyon Harrold",
+     "resource_url": "https://api.discogs.com/artists/3541303",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 661928,
+     "join": "",
+     "name": "Chris Dave",
+     "resource_url": "https://api.discogs.com/artists/661928",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3293196,
+     "join": "",
+     "name": "Isaiah Sharkey",
+     "resource_url": "https://api.discogs.com/artists/3293196",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Trippy Tipsy",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11506504-Chris-Dave-And-The-Drumhedz-Chris-Dave-And-The-Drumhedz",
+ "year": 2018
+}

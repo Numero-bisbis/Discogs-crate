@@ -1,0 +1,1228 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 9824716,
+   "join": "",
+   "name": "Nia Archives",
+   "resource_url": "https://api.discogs.com/artists/9824716",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/cyGai9ADaa8tRtYFFjuzusyqG3xmrryLLhWS-YCvmfU/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk4MjQ3/MTYtMTY3NTI5MTMz/NS00OTg4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Pop"
+ ],
+ "id": 30424517,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/H6M0LaIDc-FRrk2KHDXqVzVfFMEC3gJ697oMMMoiU-s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDI0/NTE3LTE3MTMzNjgy/NjMtNDExMy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/H6M0LaIDc-FRrk2KHDXqVzVfFMEC3gJ697oMMMoiU-s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDI0/NTE3LTE3MTMzNjgy/NjMtNDExMy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/xY0YsFDmmuK6U18xVQoB85ikOajuYXu5AePnNXxuqPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDI0/NTE3LTE3MTMzNjgy/NjMtNDExMy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "6500353",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2680925,
+   "name": "Hijinxx",
+   "resource_url": "https://api.discogs.com/labels/2680925"
+  },
+  {
+   "catno": "6500353",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 8377,
+   "name": "Island Records",
+   "resource_url": "https://api.discogs.com/labels/8377",
+   "thumbnail_url": "https://i.discogs.com/Fxrre24n1gnsNRrmjrwjMC79o2Sp-rGzcuYQ-yqUyUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzNzct/MTYzNjU4Mjc0NC04/MDg5LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Made in Czech Republic.\nComes in a gatefold Cover.\n",
+ "released": "2024-04-12",
+ "styles": [
+  "Jungle",
+  "Drum n Bass",
+  "Bubblegum"
+ ],
+ "title": "Silence Is Loud",
+ "tracklist": [
+  {
+   "duration": "2:37",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Bass Guitar, Electric Guitar, Synthesizer, Keyboards, Synth [Bass Synth]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 393350,
+     "join": "",
+     "name": "Matt Colton",
+     "resource_url": "https://api.discogs.com/artists/393350",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10891831,
+     "join": "",
+     "name": "Lilian Nuthall",
+     "resource_url": "https://api.discogs.com/artists/10891831",
+     "role": "Mixed By [Assisted]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Producer [Additional production], Programmed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Vocals, Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Silence Is Loud",
+   "type_": "track"
+  },
+  {
+   "duration": "2:56",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Bass Guitar, Electric Guitar, Acoustic Guitar, Slide Guitar, Keyboards, Organ, Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 393350,
+     "join": "",
+     "name": "Matt Colton",
+     "resource_url": "https://api.discogs.com/artists/393350",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10891831,
+     "join": "",
+     "name": "Lilian Nuthall",
+     "resource_url": "https://api.discogs.com/artists/10891831",
+     "role": "Mixed By [Assisted]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Vocals, Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Card On The Table",
+   "type_": "track"
+  },
+  {
+   "duration": "3:16",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Acoustic Guitar, Synthesizer, Keyboards, Organ, Clavinet, Synth [Bass]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 393350,
+     "join": "",
+     "name": "Matt Colton",
+     "resource_url": "https://api.discogs.com/artists/393350",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10891831,
+     "join": "",
+     "name": "Lilian Nuthall",
+     "resource_url": "https://api.discogs.com/artists/10891831",
+     "role": "Mixed By [Assisted]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Producer [Additional production], Programmed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Vocals, Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Unfinished Business",
+   "type_": "track"
+  },
+  {
+   "duration": "2:52",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Bass Guitar, Clavinet, Electric Guitar, Keyboards, Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 393350,
+     "join": "",
+     "name": "Matt Colton",
+     "resource_url": "https://api.discogs.com/artists/393350",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10891831,
+     "join": "",
+     "name": "Lilian Nuthall",
+     "resource_url": "https://api.discogs.com/artists/10891831",
+     "role": "Mixed By [Assisted]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Producer [Additional production], Programmed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Crowded Roomz",
+   "type_": "track"
+  },
+  {
+   "duration": "2:46",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1485397,
+     "join": "",
+     "name": "Jakwob",
+     "resource_url": "https://api.discogs.com/artists/1485397",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Forbidden Feelingz",
+   "type_": "track"
+  },
+  {
+   "duration": "1:47",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Electric Guitar, Keyboards, Synthesizer, Mellotron, Synth [Bass]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 393350,
+     "join": "",
+     "name": "Matt Colton",
+     "resource_url": "https://api.discogs.com/artists/393350",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10891831,
+     "join": "",
+     "name": "Lilian Nuthall",
+     "resource_url": "https://api.discogs.com/artists/10891831",
+     "role": "Mixed By [Assisted]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Vocals, Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Blind Devotion",
+   "type_": "track"
+  },
+  {
+   "duration": "3:10",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Bass Guitar, Electric Guitar, Acoustic Guitar, Bouzouki, Keyboards, Synthesizer, Clavinet, Synth [Bass]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 393350,
+     "join": "",
+     "name": "Matt Colton",
+     "resource_url": "https://api.discogs.com/artists/393350",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10891831,
+     "join": "",
+     "name": "Lilian Nuthall",
+     "resource_url": "https://api.discogs.com/artists/10891831",
+     "role": "Mixed By [Assisted]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Producer [Additional production], Programmed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Vocals, Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A7",
+   "title": "Tell Me What It's Like?",
+   "type_": "track"
+  },
+  {
+   "duration": "2:42",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Electric Guitar, Keyboards, Piano, Synthesizer, Backing Vocals, Synth [Bass]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 393350,
+     "join": "",
+     "name": "Matt Colton",
+     "resource_url": "https://api.discogs.com/artists/393350",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10891831,
+     "join": "",
+     "name": "Lilian Nuthall",
+     "resource_url": "https://api.discogs.com/artists/10891831",
+     "role": "Mixed By [Assisted]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Vocals, Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Nightmares",
+   "type_": "track"
+  },
+  {
+   "duration": "2:39",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7523143,
+     "join": "",
+     "name": "Felix Stephens",
+     "resource_url": "https://api.discogs.com/artists/7523143",
+     "role": "Cello",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Electric Guitar, Keyboards, Clavinet, Organ, Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 393350,
+     "join": "",
+     "name": "Matt Colton",
+     "resource_url": "https://api.discogs.com/artists/393350",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10891831,
+     "join": "",
+     "name": "Lilian Nuthall",
+     "resource_url": "https://api.discogs.com/artists/10891831",
+     "role": "Mixed By [Assisted]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Producer [Additional production], Programmed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Vocals, Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "F.A.M.I.L.Y",
+   "type_": "track"
+  },
+  {
+   "duration": "2:08",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Bass Guitar, Keyboards, Piano, Synthesizer, Synth [Bass]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 393350,
+     "join": "",
+     "name": "Matt Colton",
+     "resource_url": "https://api.discogs.com/artists/393350",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10891831,
+     "join": "",
+     "name": "Lilian Nuthall",
+     "resource_url": "https://api.discogs.com/artists/10891831",
+     "role": "Mixed By [Assisted]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Vocals, Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Out Of Options",
+   "type_": "track"
+  },
+  {
+   "duration": "2:28",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Electric Guitar, Keyboards, Piano, Synthesizer, Synth [Bass]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 393350,
+     "join": "",
+     "name": "Matt Colton",
+     "resource_url": "https://api.discogs.com/artists/393350",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10891831,
+     "join": "",
+     "name": "Lilian Nuthall",
+     "resource_url": "https://api.discogs.com/artists/10891831",
+     "role": "Mixed By [Assistant Mixer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Mixed By [Mixer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Silence Is Loud (Reprise)",
+   "type_": "track"
+  },
+  {
+   "duration": "2:07",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Bass Guitar, Keyboards, Electric Piano, Synthesizer, Synth [Bass]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 393350,
+     "join": "",
+     "name": "Matt Colton",
+     "resource_url": "https://api.discogs.com/artists/393350",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10891831,
+     "join": "",
+     "name": "Lilian Nuthall",
+     "resource_url": "https://api.discogs.com/artists/10891831",
+     "role": "Mixed By [Assisted]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65692,
+     "join": "",
+     "name": "Nathan Boddy",
+     "resource_url": "https://api.discogs.com/artists/65692",
+     "role": "Producer [Additional production], Programmed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Vocals, Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7491000,
+     "join": "",
+     "name": "Ethan P. Flynn",
+     "resource_url": "https://api.discogs.com/artists/7491000",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Killjoy !",
+   "type_": "track"
+  },
+  {
+   "duration": "3:47",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Drum Programming, Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2494674,
+     "join": "",
+     "name": "Ed Thomas (4)",
+     "resource_url": "https://api.discogs.com/artists/2494674",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 300468,
+     "join": "",
+     "name": "Stuart Hawkes",
+     "resource_url": "https://api.discogs.com/artists/300468",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1485397,
+     "join": "",
+     "name": "Jakwob",
+     "resource_url": "https://api.discogs.com/artists/1485397",
+     "role": "Mixed By [Mixer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1485397,
+     "join": "",
+     "name": "Jakwob",
+     "resource_url": "https://api.discogs.com/artists/1485397",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2494674,
+     "join": "",
+     "name": "Ed Thomas (4)",
+     "resource_url": "https://api.discogs.com/artists/2494674",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1929916,
+     "join": "",
+     "name": "James Jacob (2)",
+     "resource_url": "https://api.discogs.com/artists/1929916",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9824716,
+     "join": "",
+     "name": "Nia Archives",
+     "resource_url": "https://api.discogs.com/artists/9824716",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "So Tell Me...",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/30424517-Nia-Archives-Silence-Is-Loud",
+ "year": 2024
+}

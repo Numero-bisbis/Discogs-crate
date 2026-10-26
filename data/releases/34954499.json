@@ -1,0 +1,1195 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4669649,
+   "join": "",
+   "name": "Parcels",
+   "resource_url": "https://api.discogs.com/artists/4669649",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/yUTLrh2k8NmiTbJxvgQLa4QK9wm-Zd9mTUkpzkxG7as/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ2Njk2/NDktMTYzNjIxMDcz/MC00MDExLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Rock",
+  "Pop"
+ ],
+ "id": 34954499,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/ntd-p4blB_fGXUDmBB6QvJfbY7OGdC_sk10yGUjQqyU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTU0/NDk5LTE3NTY0NzY1/ODktMjExNC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/ntd-p4blB_fGXUDmBB6QvJfbY7OGdC_sk10yGUjQqyU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTU0/NDk5LTE3NTY0NzY1/ODktMjExNC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/rik0nBcav5q_NjTbM1DdGhOrfcTpud1HM57KDONHjFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTU0/NDk5LTE3NTY0NzY1/ODktMjExNC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BEC5615758",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 54379,
+   "name": "Because Music",
+   "resource_url": "https://api.discogs.com/labels/54379",
+   "thumbnail_url": "https://i.discogs.com/hCnQ7eINYuhslt-dC2Ub26qjZl4Y5QgXKDWslpAIL6E/rs:fit/g:sm/q:90/h:338/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU0Mzc5/LTE2MzE4NzIxOTMt/NDQ5Ny5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Orders via Recordstore & The Sound of Vinyl included a signed art card.",
+ "released": "2025-09-12",
+ "styles": [
+  "Synth-pop",
+  "Disco"
+ ],
+ "title": "Loved",
+ "tracklist": [
+  {
+   "duration": "4:05",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058621,
+     "join": "",
+     "name": "Anatole Serret",
+     "resource_url": "https://api.discogs.com/artists/5058621",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058626,
+     "join": "",
+     "name": "Louie Swain",
+     "resource_url": "https://api.discogs.com/artists/5058626",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Tobeloved",
+   "type_": "track"
+  },
+  {
+   "duration": "4:01",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058621,
+     "join": "",
+     "name": "Anatole Serret",
+     "resource_url": "https://api.discogs.com/artists/5058621",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058626,
+     "join": "",
+     "name": "Louie Swain",
+     "resource_url": "https://api.discogs.com/artists/5058626",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Ifyoucall",
+   "type_": "track"
+  },
+  {
+   "duration": "4:36",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058621,
+     "join": "",
+     "name": "Anatole Serret",
+     "resource_url": "https://api.discogs.com/artists/5058621",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058626,
+     "join": "",
+     "name": "Louie Swain",
+     "resource_url": "https://api.discogs.com/artists/5058626",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Safeandsound",
+   "type_": "track"
+  },
+  {
+   "duration": "3:17",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058621,
+     "join": "",
+     "name": "Anatole Serret",
+     "resource_url": "https://api.discogs.com/artists/5058621",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058626,
+     "join": "",
+     "name": "Louie Swain",
+     "resource_url": "https://api.discogs.com/artists/5058626",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Sorry",
+   "type_": "track"
+  },
+  {
+   "duration": "3:03",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058621,
+     "join": "",
+     "name": "Anatole Serret",
+     "resource_url": "https://api.discogs.com/artists/5058621",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058626,
+     "join": "",
+     "name": "Louie Swain",
+     "resource_url": "https://api.discogs.com/artists/5058626",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Yougotmefeeling",
+   "type_": "track"
+  },
+  {
+   "duration": "3:41",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058621,
+     "join": "",
+     "name": "Anatole Serret",
+     "resource_url": "https://api.discogs.com/artists/5058621",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058626,
+     "join": "",
+     "name": "Louie Swain",
+     "resource_url": "https://api.discogs.com/artists/5058626",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Leaves",
+   "type_": "track"
+  },
+  {
+   "duration": "3:38",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058621,
+     "join": "",
+     "name": "Anatole Serret",
+     "resource_url": "https://api.discogs.com/artists/5058621",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058626,
+     "join": "",
+     "name": "Louie Swain",
+     "resource_url": "https://api.discogs.com/artists/5058626",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Everybodyelse",
+   "type_": "track"
+  },
+  {
+   "duration": "4:31",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058621,
+     "join": "",
+     "name": "Anatole Serret",
+     "resource_url": "https://api.discogs.com/artists/5058621",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058626,
+     "join": "",
+     "name": "Louie Swain",
+     "resource_url": "https://api.discogs.com/artists/5058626",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Summerinlove",
+   "type_": "track"
+  },
+  {
+   "duration": "3:51",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058626,
+     "join": "",
+     "name": "Louie Swain",
+     "resource_url": "https://api.discogs.com/artists/5058626",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058621,
+     "join": "",
+     "name": "Anatole Serret",
+     "resource_url": "https://api.discogs.com/artists/5058621",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058626,
+     "join": "",
+     "name": "Louie Swain",
+     "resource_url": "https://api.discogs.com/artists/5058626",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Leaveyourlove",
+   "type_": "track"
+  },
+  {
+   "duration": "2:51",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058621,
+     "join": "",
+     "name": "Anatole Serret",
+     "resource_url": "https://api.discogs.com/artists/5058621",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058626,
+     "join": "",
+     "name": "Louie Swain",
+     "resource_url": "https://api.discogs.com/artists/5058626",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058621,
+     "join": "",
+     "name": "Anatole Serret",
+     "resource_url": "https://api.discogs.com/artists/5058621",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058626,
+     "join": "",
+     "name": "Louie Swain",
+     "resource_url": "https://api.discogs.com/artists/5058626",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Thinkaboutit",
+   "type_": "track"
+  },
+  {
+   "duration": "3:11",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058621,
+     "join": "",
+     "name": "Anatole Serret",
+     "resource_url": "https://api.discogs.com/artists/5058621",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058626,
+     "join": "",
+     "name": "Louie Swain",
+     "resource_url": "https://api.discogs.com/artists/5058626",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Finallyover",
+   "type_": "track"
+  },
+  {
+   "duration": "5:02",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5058628,
+     "join": "",
+     "name": "Noah Hill",
+     "resource_url": "https://api.discogs.com/artists/5058628",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058621,
+     "join": "",
+     "name": "Anatole Serret",
+     "resource_url": "https://api.discogs.com/artists/5058621",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058624,
+     "join": "",
+     "name": "Jules Crommelin",
+     "resource_url": "https://api.discogs.com/artists/5058624",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058626,
+     "join": "",
+     "name": "Louie Swain",
+     "resource_url": "https://api.discogs.com/artists/5058626",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5058625,
+     "join": "",
+     "name": "Patrick Hetherington",
+     "resource_url": "https://api.discogs.com/artists/5058625",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Iwanttobeyourlightagain",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/34954499-Parcels-Loved",
+ "year": 2025
+}

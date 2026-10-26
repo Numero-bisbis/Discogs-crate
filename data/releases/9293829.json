@@ -1,0 +1,277 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 23755,
+   "join": "",
+   "name": "Miles Davis",
+   "resource_url": "https://api.discogs.com/artists/23755",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-ov32suDuJlZACym6tbwfcu4dFWYrGXmvlnWi1qrwh0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIzNzU1/LTE3NTY0ODc2NjMt/NDA3My5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation",
+    "Reissue",
+    "Mono"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "180 Gram"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 9293829,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/Ae6XWRYSaqZfAGf3pWvZveilb0BHNsJvYJkqXlYeKZ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTM4/MjktMTQ3ODEwMzM4/Ni0yMTQ0LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Ae6XWRYSaqZfAGf3pWvZveilb0BHNsJvYJkqXlYeKZ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTM4/MjktMTQ3ODEwMzM4/Ni0yMTQ0LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/caQ6iERj42C0ssLM1eH1aNPRK7KAoZoVTA3kqmRVFDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTM4/MjktMTQ3ODEwMzM4/Ni0yMTQ0LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "T762",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 654,
+   "name": "Capitol Records",
+   "resource_url": "https://api.discogs.com/labels/654",
+   "thumbnail_url": "https://i.discogs.com/jOm50Ncnop3VOhKg0rYbdvq7epxn5mnXdOWfVQNjOBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1NC0x/NzgxODU0Mzk3LTU2/MzcuanBlZw.jpeg"
+  },
+  {
+   "catno": "00602547972972",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 138199,
+   "name": "Universal Music Group International",
+   "resource_url": "https://api.discogs.com/labels/138199",
+   "thumbnail_url": "https://i.discogs.com/lSH1OPzDIQXxluBPhUbFGdZ2INrs_fcTUpVb_4787n0/rs:fit/g:sm/q:90/h:99/w:190/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzODE5/OS0xMjk5NzUzNzc4/LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Back to Black sticker on vinyl - Includes a voucher to download MP3 version of the album.\nOn Cover and Labels: ℗ 2013 © 2016 CAPITOL RECORDS 00602547972972\n",
+ "released": "2016-10-07",
+ "styles": [
+  "Cool Jazz"
+ ],
+ "title": "Birth Of The Cool",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 259091,
+     "join": "",
+     "name": "Denzil Best",
+     "resource_url": "https://api.discogs.com/artists/259091",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Move",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 37733,
+     "join": "",
+     "name": "Gerry Mulligan",
+     "resource_url": "https://api.discogs.com/artists/37733",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Jeru",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 254885,
+     "join": "",
+     "name": "Chummy McGregor",
+     "resource_url": "https://api.discogs.com/artists/254885",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 164574,
+     "join": "",
+     "name": "Johnny Mercer",
+     "resource_url": "https://api.discogs.com/artists/164574",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Moon Dreams",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 37733,
+     "join": "",
+     "name": "Gerry Mulligan",
+     "resource_url": "https://api.discogs.com/artists/37733",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Venus De Milo",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 29992,
+     "join": "",
+     "name": "Bud Powell",
+     "resource_url": "https://api.discogs.com/artists/29992",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 23755,
+     "join": "",
+     "name": "Miles Davis",
+     "resource_url": "https://api.discogs.com/artists/23755",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Budo",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 23755,
+     "join": "",
+     "name": "Miles Davis",
+     "resource_url": "https://api.discogs.com/artists/23755",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Deception",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 261287,
+     "join": "",
+     "name": "George Wallington",
+     "resource_url": "https://api.discogs.com/artists/261287",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Godchild",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1028079,
+     "join": "",
+     "name": "Cleo Henry",
+     "resource_url": "https://api.discogs.com/artists/1028079",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Boplicity",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 37733,
+     "join": "",
+     "name": "Gerry Mulligan",
+     "resource_url": "https://api.discogs.com/artists/37733",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Rocker",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Johnny Carisi",
+     "id": 271036,
+     "join": "",
+     "name": "John Carisi",
+     "resource_url": "https://api.discogs.com/artists/271036",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Israel",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 267675,
+     "join": "",
+     "name": "John Lewis (2)",
+     "resource_url": "https://api.discogs.com/artists/267675",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Rouge",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/9293829-Miles-Davis-Birth-Of-The-Cool",
+ "year": 2016
+}

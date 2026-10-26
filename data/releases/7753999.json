@@ -1,0 +1,310 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 17900,
+   "join": "",
+   "name": "Mobb Deep",
+   "resource_url": "https://api.discogs.com/artists/17900",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/kW19gKnN56oXKdt2Z7eaxhAP7ZZerHEWCyUmFpiIJBA/rs:fit/g:sm/q:90/h:488/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE3OTAw/LTE0MDU3Mzc2MDQt/OTc2OS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "180 Gram"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 7753999,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/_KEoMSjeQZyPbEHdt7hNO1eTvooQGNEs4oqlqbZl94A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTM5/OTktMTQ0ODA5Mjg5/Ni04ODI3LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/_KEoMSjeQZyPbEHdt7hNO1eTvooQGNEs4oqlqbZl94A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTM5/OTktMTQ0ODA5Mjg5/Ni04ODI3LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/q4x2BhbHHnxEBFPCLlnw9YFvWbWdqAptxN6eqLTmAYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTM5/OTktMTQ0ODA5Mjg5/Ni04ODI3LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "MOVLP1463",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 169635,
+   "name": "Music On Vinyl",
+   "resource_url": "https://api.discogs.com/labels/169635",
+   "thumbnail_url": "https://i.discogs.com/o8FdZbFylxlL4Mc91n3DX9UWRbDRrqvX1oW98w-DPXA/rs:fit/g:sm/q:90/h:54/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTYz/NS0xMjU3MzIyODA5/LmpwZWc.jpeg"
+  },
+  {
+   "catno": "MOVLP1463",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 8984,
+   "name": "Loud Records",
+   "resource_url": "https://api.discogs.com/labels/8984",
+   "thumbnail_url": "https://i.discogs.com/TmiA7zFIh05gGz872Aje0rTCXWWYMc4RLyoVq4hUsFU/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5ODQt/MTczMzk3Mzg2OC04/MzgzLnBuZw.jpeg"
+  },
+  {
+   "catno": "MOVLP1463",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 895,
+   "name": "RCA",
+   "resource_url": "https://api.discogs.com/labels/895",
+   "thumbnail_url": "https://i.discogs.com/q-zL2IXAAZL18V9Ova8MTy7NXCoGMloDEKM1yaHpays/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5NS0x/NzY4MDgxMjYxLTMw/NDIuanBlZw.jpeg"
+  },
+  {
+   "catno": "MOVLP1463",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  }
+ ],
+ "notes": "Track 6 contains excerpts from \"That's Alright With Me\" by Ester Phillips\nTrack 7 contains excerpts from \"Where There Is Love\" by Patrice Rushen\nTrack 9 contains excerpts from \"You Are My Starship\" by Norman Connors\nTrack 11 contains excerpts from \"Benjamin\" by Les McCann\nTrack 14 contains excerpts from \"I Remember I Made You Cry\" by The Headhunters\n\nOriginally released ℗ & © 1995 Sony Music Entertainment\nThis release ℗ & © 2015 Sony Music Entertainment\nManufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment\n\nMade in the Netherlands [Back cover]\nMade in the EU [Labels]",
+ "released": "2015-09-07",
+ "styles": [
+  "Hardcore Hip-Hop",
+  "Boom Bap",
+  "Gangsta"
+ ],
+ "title": "The Infamous",
+ "tracklist": [
+  {
+   "duration": "4:24",
+   "position": "A1",
+   "title": "The Start Of Your Ending (41st Side)",
+   "type_": "track"
+  },
+  {
+   "duration": "2:12",
+   "position": "A2",
+   "title": "[The Infamous Prelude]",
+   "type_": "track"
+  },
+  {
+   "duration": "3:43",
+   "position": "A3",
+   "title": "Survival Of The Fittest",
+   "type_": "track"
+  },
+  {
+   "duration": "4:54",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 50997,
+     "join": "",
+     "name": "Nas",
+     "resource_url": "https://api.discogs.com/artists/50997",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 100558,
+     "join": "",
+     "name": "Raekwon",
+     "resource_url": "https://api.discogs.com/artists/100558",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Eye For A Eye (Your Beef Is Mines)",
+   "type_": "track"
+  },
+  {
+   "duration": "1:06",
+   "position": "B1",
+   "title": "[Just Step Prelude]",
+   "type_": "track"
+  },
+  {
+   "duration": "4:02",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 120527,
+     "join": "",
+     "name": "Big Noyd",
+     "resource_url": "https://api.discogs.com/artists/120527",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Give Up The Goods (Just Step)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:00",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 17900,
+     "join": "",
+     "name": "Mobb Deep",
+     "resource_url": "https://api.discogs.com/artists/17900",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 170201,
+     "join": "",
+     "name": "Crystal Johnson",
+     "resource_url": "https://api.discogs.com/artists/170201",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Temperature's Rising",
+   "type_": "track"
+  },
+  {
+   "duration": "4:58",
+   "position": "B4",
+   "title": "Up North Trip",
+   "type_": "track"
+  },
+  {
+   "duration": "5:19",
+   "position": "C1",
+   "title": "Trife Life",
+   "type_": "track"
+  },
+  {
+   "duration": "4:55",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 170204,
+     "join": "",
+     "name": "Tony Smalios",
+     "resource_url": "https://api.discogs.com/artists/170204",
+     "role": "Programmed By [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Q.U. -- Hectic",
+   "type_": "track"
+  },
+  {
+   "duration": "4:52",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 170202,
+     "join": "",
+     "name": "Schott Free",
+     "resource_url": "https://api.discogs.com/artists/170202",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 44958,
+     "join": "",
+     "name": "Ghostface Killah",
+     "resource_url": "https://api.discogs.com/artists/44958",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 100558,
+     "join": "",
+     "name": "Raekwon",
+     "resource_url": "https://api.discogs.com/artists/100558",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Right Back At You",
+   "type_": "track"
+  },
+  {
+   "duration": "0:30",
+   "position": "D1",
+   "title": "[The Grave Prelude]",
+   "type_": "track"
+  },
+  {
+   "duration": "5:16",
+   "position": "D2",
+   "title": "Cradle To The Grave",
+   "type_": "track"
+  },
+  {
+   "duration": "4:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 17900,
+     "join": "",
+     "name": "Mobb Deep",
+     "resource_url": "https://api.discogs.com/artists/17900",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Drink Away The Pain (Situations)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:24",
+   "position": "D4",
+   "title": "Shook Ones Pt. II",
+   "type_": "track"
+  },
+  {
+   "duration": "5:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 170203,
+     "join": "",
+     "name": "Matt Life",
+     "resource_url": "https://api.discogs.com/artists/170203",
+     "role": "Co-producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D5",
+   "title": "Party Over",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/7753999-Mobb-Deep-The-Infamous",
+ "year": 2015
+}

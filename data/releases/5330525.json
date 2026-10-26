@@ -1,0 +1,475 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 254768,
+   "join": "",
+   "name": "Benny Goodman",
+   "resource_url": "https://api.discogs.com/artists/254768",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/4hTy9ihL8vrW1dWY3JedAx_SkbBlX2eeJYa3yqFUd18/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1NDc2/OC0xNzU4NzE3NjAz/LTgxMzAuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Netherlands",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Mono"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 5330525,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/BM3ulXOb4m5aO-gsOjEgT_nea11-4LWytV16fA7LhD4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzA1/MjUtMTY1ODc0Mzgx/NC0xNjI2LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/BM3ulXOb4m5aO-gsOjEgT_nea11-4LWytV16fA7LhD4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzA1/MjUtMTY1ODc0Mzgx/NC0xNjI2LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/wFVyyWutgyXNu27Up3pb3go1Gptgh9vgCyrFP5xMuiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzA1/MjUtMTY1ODc0Mzgx/NC0xNjI2LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "B 07519 L",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 7704,
+   "name": "Philips",
+   "resource_url": "https://api.discogs.com/labels/7704",
+   "thumbnail_url": "https://i.discogs.com/BY7mNngwEuD3bNOAGPUYtjO9qCpDys2iwpP8hwhnWLk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc3MDQt/MTU5Njc0Mjg3Mi0y/MzQ1LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Title on frontcover reads \"The New Benny Goodman 4 5 6\"",
+ "released": null,
+ "styles": [
+  "Swing"
+ ],
+ "title": "The New Benny Goodman Four, Five And Six",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "Quartet",
+     "id": 270025,
+     "join": "",
+     "name": "The Benny Goodman Quartet",
+     "resource_url": "https://api.discogs.com/artists/270025",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 63006,
+     "join": "",
+     "name": "Grey",
+     "resource_url": "https://api.discogs.com/artists/63006",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 111884,
+     "join": "",
+     "name": "Robin",
+     "resource_url": "https://api.discogs.com/artists/111884",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 648365,
+     "join": "",
+     "name": "Youmans",
+     "resource_url": "https://api.discogs.com/artists/648365",
+     "role": "Written By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Hallelujah",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Quintet",
+     "id": 314166,
+     "join": "",
+     "name": "The Benny Goodman Quintet",
+     "resource_url": "https://api.discogs.com/artists/314166",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 927250,
+     "join": "",
+     "name": "Dubin",
+     "resource_url": "https://api.discogs.com/artists/927250",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 636,
+     "join": "",
+     "name": "Herbert",
+     "resource_url": "https://api.discogs.com/artists/636",
+     "role": "Written By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Indian Summer",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Sextet",
+     "id": 311730,
+     "join": "",
+     "name": "Benny Goodman Sextet",
+     "resource_url": "https://api.discogs.com/artists/311730",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 89292,
+     "join": "",
+     "name": "King",
+     "resource_url": "https://api.discogs.com/artists/89292",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 79408,
+     "join": "",
+     "name": "Parker",
+     "resource_url": "https://api.discogs.com/artists/79408",
+     "role": "Written By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "How Am I To Know?",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Quartet",
+     "id": 270025,
+     "join": "",
+     "name": "The Benny Goodman Quartet",
+     "resource_url": "https://api.discogs.com/artists/270025",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 648366,
+     "join": "",
+     "name": "Eliscu",
+     "resource_url": "https://api.discogs.com/artists/648366",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 60705,
+     "join": "",
+     "name": "Rose",
+     "resource_url": "https://api.discogs.com/artists/60705",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 648365,
+     "join": "",
+     "name": "Youmans",
+     "resource_url": "https://api.discogs.com/artists/648365",
+     "role": "Written By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "More Than You Know",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Sextet",
+     "id": 311730,
+     "join": "",
+     "name": "Benny Goodman Sextet",
+     "resource_url": "https://api.discogs.com/artists/311730",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 942371,
+     "join": "",
+     "name": "Bowman",
+     "resource_url": "https://api.discogs.com/artists/942371",
+     "role": "Written By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "East Of The Sun",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Quartet",
+     "id": 270025,
+     "join": "",
+     "name": "The Benny Goodman Quartet",
+     "resource_url": "https://api.discogs.com/artists/270025",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 29511,
+     "join": "",
+     "name": "Blake",
+     "resource_url": "https://api.discogs.com/artists/29511",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 151199,
+     "join": "",
+     "name": "Drake",
+     "resource_url": "https://api.discogs.com/artists/151199",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1580820,
+     "join": "",
+     "name": "Razaf",
+     "resource_url": "https://api.discogs.com/artists/1580820",
+     "role": "Written By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Memories Of You",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Quintet",
+     "id": 314166,
+     "join": "",
+     "name": "The Benny Goodman Quintet",
+     "resource_url": "https://api.discogs.com/artists/314166",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 511909,
+     "join": "",
+     "name": "Fields",
+     "resource_url": "https://api.discogs.com/artists/511909",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 983549,
+     "join": "",
+     "name": "McHugh",
+     "resource_url": "https://api.discogs.com/artists/983549",
+     "role": "Written By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Diga Diga Doo",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Sextet",
+     "id": 311730,
+     "join": "",
+     "name": "Benny Goodman Sextet",
+     "resource_url": "https://api.discogs.com/artists/311730",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1755241,
+     "join": "",
+     "name": "Levinson",
+     "resource_url": "https://api.discogs.com/artists/1755241",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2156409,
+     "join": "",
+     "name": "Neiburg",
+     "resource_url": "https://api.discogs.com/artists/2156409",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1238418,
+     "join": "",
+     "name": "Symes",
+     "resource_url": "https://api.discogs.com/artists/1238418",
+     "role": "Written By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Under A Blanket Of Blue",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Quartet",
+     "id": 270025,
+     "join": "",
+     "name": "The Benny Goodman Quartet",
+     "resource_url": "https://api.discogs.com/artists/270025",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 169291,
+     "join": "",
+     "name": "Lockhart",
+     "resource_url": "https://api.discogs.com/artists/169291",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 692269,
+     "join": "",
+     "name": "Seitz",
+     "resource_url": "https://api.discogs.com/artists/692269",
+     "role": "Written By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "The World Is Waiting For The Sunrise",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Sextet",
+     "id": 311730,
+     "join": "",
+     "name": "Benny Goodman Sextet",
+     "resource_url": "https://api.discogs.com/artists/311730",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 46361,
+     "join": "",
+     "name": "Bennett",
+     "resource_url": "https://api.discogs.com/artists/46361",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 8990,
+     "join": "",
+     "name": "Gray",
+     "resource_url": "https://api.discogs.com/artists/8990",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 721935,
+     "join": "",
+     "name": "Hamm",
+     "resource_url": "https://api.discogs.com/artists/721935",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4110317,
+     "join": "",
+     "name": "Lown",
+     "resource_url": "https://api.discogs.com/artists/4110317",
+     "role": "Written By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Bye Bye Blues",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/5330525-Benny-Goodman-The-New-Benny-Goodman-Four-Five-And-Six",
+ "year": 0
+}

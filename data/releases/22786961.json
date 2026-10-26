@@ -1,0 +1,306 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1967268,
+   "join": "",
+   "name": "Tyler, The Creator",
+   "resource_url": "https://api.discogs.com/artists/1967268",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-wyQjw_vvgKo4DAiU82_JbPZt-Do6F-RGT4dZ6jiavQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5Njcy/NjgtMTMwNTA5NjIy/OC5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "GZ Pressing, Alternate Cover"
+  }
+ ],
+ "genres": [
+  "Hip Hop",
+  "Funk / Soul"
+ ],
+ "id": 22786961,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/FV4pY--w-zYmB_K6riDf1C22sSRMxX76ApApTS0iZrU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg2/OTYxLTE2NDk5OTQ4/NTMtNzU1My5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/FV4pY--w-zYmB_K6riDf1C22sSRMxX76ApApTS0iZrU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg2/OTYxLTE2NDk5OTQ4/NTMtNzU1My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/6vqAXU7kCWW3aJNDncEQXSHPi1Mg8RXS41PrkXrB2nI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg2/OTYxLTE2NDk5OTQ4/NTMtNzU1My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "19439916641",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1866,
+   "name": "Columbia",
+   "resource_url": "https://api.discogs.com/labels/1866",
+   "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+  },
+  {
+   "catno": "19439916641",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  },
+  {
+   "catno": "C-277700",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1866,
+   "name": "Columbia",
+   "resource_url": "https://api.discogs.com/labels/1866",
+   "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+  }
+ ],
+ "notes": "Made in the EU\n\nThis edition with sticker on back featuring both Columbia and Sony Music logos and Sony Music Entertainment International Services GmbH address.\n\n©&℗ 2021 Columbia Records, a division of Sony Music Entertainment.\n\nGatefold.\nIncludes OIS.\n\nRunouts are stamped.",
+ "released": "2022-04-15",
+ "styles": [
+  "Trap",
+  "Jazzy Hip-Hop",
+  "Contemporary R&B",
+  "Neo Soul",
+  "Hardcore Hip-Hop"
+ ],
+ "title": "Call Me If You Get Lost",
+ "tracklist": [
+  {
+   "duration": "1:28",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 383281,
+     "join": "",
+     "name": "DJ Drama",
+     "resource_url": "https://api.discogs.com/artists/383281",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Sir Baudelaire ",
+   "type_": "track"
+  },
+  {
+   "duration": "2:26",
+   "position": "A2",
+   "title": "Corso ",
+   "type_": "track"
+  },
+  {
+   "duration": "2:10",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6290369,
+     "join": "",
+     "name": "42 Dugg",
+     "resource_url": "https://api.discogs.com/artists/6290369",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Lemonhead  ",
+   "type_": "track"
+  },
+  {
+   "duration": "2:01",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3895048,
+     "join": "",
+     "name": "Ty Dolla $ign",
+     "resource_url": "https://api.discogs.com/artists/3895048",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5616567,
+     "join": "",
+     "name": "Youngboy Never Broke Again",
+     "resource_url": "https://api.discogs.com/artists/5616567",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Wusyaname  ",
+   "type_": "track"
+  },
+  {
+   "duration": "2:18",
+   "position": "A5",
+   "title": "Lumberjack ",
+   "type_": "track"
+  },
+  {
+   "duration": "2:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1065010,
+     "join": "",
+     "name": "Lil Wayne",
+     "resource_url": "https://api.discogs.com/artists/1065010",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Hot Wind Blows ",
+   "type_": "track"
+  },
+  {
+   "duration": "3:43",
+   "position": "B2",
+   "title": "Massa",
+   "type_": "track"
+  },
+  {
+   "duration": "3:49",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 9565078,
+     "join": "",
+     "name": "Teezo Touchdown",
+     "resource_url": "https://api.discogs.com/artists/9565078",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Runitup ",
+   "type_": "track"
+  },
+  {
+   "duration": "2:55",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1967266,
+     "join": "",
+     "name": "Domo Genesis",
+     "resource_url": "https://api.discogs.com/artists/1967266",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Manifesto ",
+   "type_": "track"
+  },
+  {
+   "duration": "9:48",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5741331,
+     "join": "",
+     "name": "Brent Faiyaz",
+     "resource_url": "https://api.discogs.com/artists/5741331",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9565081,
+     "join": "",
+     "name": "Fana Hues",
+     "resource_url": "https://api.discogs.com/artists/9565081",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Sweet / I Thought You Wanted To Dance  ",
+   "type_": "track"
+  },
+  {
+   "duration": "1:10",
+   "position": "C2",
+   "title": "Momma Talk",
+   "type_": "track"
+  },
+  {
+   "duration": "3:23",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 9566176,
+     "join": "",
+     "name": "Daisy World (4)",
+     "resource_url": "https://api.discogs.com/artists/9566176",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Rise!  ",
+   "type_": "track"
+  },
+  {
+   "duration": "0:57",
+   "position": "D1",
+   "title": "Blessed",
+   "type_": "track"
+  },
+  {
+   "duration": "2:56",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3946211,
+     "join": "",
+     "name": "Lil Uzi Vert",
+     "resource_url": "https://api.discogs.com/artists/3946211",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 90037,
+     "join": "",
+     "name": "Pharrell Williams",
+     "resource_url": "https://api.discogs.com/artists/90037",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Juggernaut  ",
+   "type_": "track"
+  },
+  {
+   "duration": "8:35",
+   "position": "D3",
+   "title": "Wilshire",
+   "type_": "track"
+  },
+  {
+   "duration": "2:57",
+   "position": "D4",
+   "title": "Safari",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/22786961-TylerCreator-Call-Me-If-You-Get-Lost",
+ "year": 2022
+}

@@ -1,0 +1,121 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2579452,
+   "join": "Meets",
+   "name": "Makoto Terashita",
+   "resource_url": "https://api.discogs.com/artists/2579452",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/aeyecayWzAUa-S_SXAAkLRGeKjceEwYt_NJEoNiTMKo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1Nzk0/NTItMTYyOTczNjg5/Ny05MzI4LnBuZw.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 259079,
+   "join": "",
+   "name": "Harold Land",
+   "resource_url": "https://api.discogs.com/artists/259079",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/TcmQ1adiMtM4SRIjlzJ0DnPiasd8hAbjVe-y5qCCLHA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1OTA3/OS0xNzcyMzA2OTM4/LTE3NDYuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "45 RPM",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "180g"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 14130502,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/Bi7UQoGZJr2TBBevASAO2j-nk4iTk-swE62-bO6K77k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTMw/NTAyLTE1NzA3MDg4/MzQtNTc5NS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Bi7UQoGZJr2TBBevASAO2j-nk4iTk-swE62-bO6K77k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTMw/NTAyLTE1NzA3MDg4/MzQtNTc5NS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/dAdj8kGIxtAm_qpswYwTO9AqFqYA4XQl0PgpO5elSc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTMw/NTAyLTE1NzA3MDg4/MzQtNTc5NS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BBE504ALP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1006,
+   "name": "BBE",
+   "resource_url": "https://api.discogs.com/labels/1006",
+   "thumbnail_url": "https://i.discogs.com/ZlbWqowIJ3R0Th3TQHuiFGgXTfqb_VfLholMfpaxnJ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDYt/MTUwMzM2MDAwOS0y/MDYwLmpwZWc.jpeg"
+  },
+  {
+   "catno": "AD-16",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 91323,
+   "name": "Aketa's Disk",
+   "resource_url": "https://api.discogs.com/labels/91323",
+   "thumbnail_url": "https://i.discogs.com/BgsgMW0IGihMTLrnU-QhMYKNJIt3YFujsNkEf1vO2TU/rs:fit/g:sm/q:90/h:439/w:522/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkxMzIz/LTE0OTIzNTQ0NjIt/NzAxMS5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Recorded June 11, 1984.\n\nGatefold jacket\n\nReproduction of the original obi strip plus English translation of the original Japanese sleeve notes by Kensuke Hidaka. Additional sleeve notes by Tony Higgins includes interviews with Makoto Terashita and Shoji Aketagawa. ",
+ "released": "2019-09-13",
+ "styles": [
+  "Modal",
+  "Post Bop",
+  "Hard Bop",
+  "Spiritual Jazz"
+ ],
+ "title": "Topology",
+ "tracklist": [
+  {
+   "duration": "12:35",
+   "position": "A",
+   "title": "Dragon Dance",
+   "type_": "track"
+  },
+  {
+   "duration": "7:47",
+   "position": "B1",
+   "title": "World Peace",
+   "type_": "track"
+  },
+  {
+   "duration": "3:50",
+   "position": "B2",
+   "title": "Dear Friends",
+   "type_": "track"
+  },
+  {
+   "duration": "7:49",
+   "position": "C1",
+   "title": "Takeuma",
+   "type_": "track"
+  },
+  {
+   "duration": "6:17",
+   "position": "C2",
+   "title": "I-Ha-To-Bo",
+   "type_": "track"
+  },
+  {
+   "duration": "9:04",
+   "position": "D",
+   "title": "Crossing",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14130502-Makoto-Terashita-Meets-Harold-Land-Topology",
+ "year": 2019
+}

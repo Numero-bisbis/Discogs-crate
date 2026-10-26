@@ -1,0 +1,95 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5674323,
+   "join": "",
+   "name": "Waaju",
+   "resource_url": "https://api.discogs.com/artists/5674323",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/zJGV23AraLS3PiWtPHHwli1_pHdYB1H7eI_MC0vwfWM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU2NzQz/MjMtMTUzMDc5NTk5/NS04NjYyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Latin",
+  "Folk, World, & Country"
+ ],
+ "id": 11912257,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/PNj6yU63G1PvQ-P4t0zjBvT56ORd-dDVIdg7Tyu0sF8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEy/MjU3LTE1MjQ2MDUy/NDAtMTc2Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/PNj6yU63G1PvQ-P4t0zjBvT56ORd-dDVIdg7Tyu0sF8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEy/MjU3LTE1MjQ2MDUy/NDAtMTc2Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/iEQQ6ANj1UwNfzSCqbhTh_3fpfEb5YT9pgPuQVRCHrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEy/MjU3LTE1MjQ2MDUy/NDAtMTc2Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ORLP001",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1201075,
+   "name": "Olindo",
+   "resource_url": "https://api.discogs.com/labels/1201075",
+   "thumbnail_url": "https://i.discogs.com/pryKL7oKGTCu3pYEouzkcvIoKdXW7iM9hlGsngj3Q5w/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMDEw/NzUtMTQ5MTMyMDQy/My00NTcyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Track durations are not printed on vinyl release.\n\nEdition of 500",
+ "released": "2018-05-04",
+ "styles": [
+  "Fusion",
+  "African",
+  "Contemporary Jazz"
+ ],
+ "title": "Waaju",
+ "tracklist": [
+  {
+   "duration": "8:20",
+   "position": "A1",
+   "title": "Ali's Mali",
+   "type_": "track"
+  },
+  {
+   "duration": "7:02",
+   "position": "A2",
+   "title": "Kaolack",
+   "type_": "track"
+  },
+  {
+   "duration": "5:55",
+   "position": "B1",
+   "title": "Neleh",
+   "type_": "track"
+  },
+  {
+   "duration": "6:30",
+   "position": "B2",
+   "title": "Waaju",
+   "type_": "track"
+  },
+  {
+   "duration": "6:24",
+   "position": "B3",
+   "title": "Maroc",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11912257-Waaju-Waaju",
+ "year": 2018
+}

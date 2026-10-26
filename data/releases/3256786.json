@@ -1,0 +1,161 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 21742,
+   "join": "",
+   "name": "Jay-Z",
+   "resource_url": "https://api.discogs.com/artists/21742",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/q0WUbzWIiZoGCOTbHesKo_rDMXcaSWnU1GKd3QJg7fY/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzQy/LTE3NjQxMDE4NzEt/NDAyMC5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK & Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 3256786,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/69nMG1f6rPOpQtj1w2jFfTkMHPo82j4_0LBThVwmHns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTY3/ODYtMTUyMTgxMzc2/Mi05MjI4LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/69nMG1f6rPOpQtj1w2jFfTkMHPo82j4_0LBThVwmHns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTY3/ODYtMTUyMTgxMzc2/Mi05MjI4LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/fTVfk_xLFMjykdBUXGBh8SqJWpCsYcKpBqgHqRPhcMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTY3/ODYtMTUyMTgxMzc2/Mi05MjI4LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "0600753353479",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 9433,
+   "name": "Roc-A-Fella Records",
+   "resource_url": "https://api.discogs.com/labels/9433",
+   "thumbnail_url": "https://i.discogs.com/bcmmY9COdum4qSUKRiV2iCkteKLRa3qbjTZhyY4XTgw/rs:fit/g:sm/q:90/h:370/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk0MzMt/MTYwNDMyMTAzNS00/NzUzLnBuZw.jpeg"
+  }
+ ],
+ "notes": "a repress with different matrix can be found here: [r12746055]\n\nD2 and D3 are not credited on the sleeve\n\nIncludes a voucher to download an MP3 version of the album.\n\n180 gram heavyweight vinyl.\n\n(p) 2001 Roc-A-Fella Records, L.L.C. (c) 2001 Roc-A-Fella Records, L.L.C. a division of UMG Recordings, Inc. Roc-A-Fella Records is exclusively licensed to Mercury Records Woldwide excluding France. Marketed & distributed in France by Barclay SA. \n",
+ "released": "2011-10-30",
+ "styles": [],
+ "title": "The Blueprint",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "The Ruler's Back",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Takeover",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Izzo (H.O.V.A.)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Girls, Girls, Girls",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Jigga That Nigga",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "U Don't Know",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Hola' Hovito",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Heart Of The City (Ain't No Love)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "Never Change",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C2",
+   "title": "Song Cry",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C3",
+   "title": "All I Need",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Renegade",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D1",
+   "title": "Blueprint (Momma Loves Me)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D2",
+   "title": "Breathe Easy (Lyrical Exercise)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D3",
+   "title": "Girls, Girls, Girls (Part 2)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/3256786-Jay-Z-The-Blueprint",
+ "year": 2011
+}

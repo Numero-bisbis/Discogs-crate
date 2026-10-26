@@ -1,0 +1,73 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3775,
+   "join": "",
+   "name": "Thomas Bangalter",
+   "resource_url": "https://api.discogs.com/artists/3775",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/5yW1lfQTDqLaFG9ZN_wlgVMBXP9QhoT3IslKSugu5wE/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM3NzUt/MTcwNzYxOTY3MC02/MDgwLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 3804,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/P_fL8pXC7VXJJhy0B43V6NAPQJ5MRXF9tNCNE53U93A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDQt/MTIyOTc4MDY1OC5q/cGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/P_fL8pXC7VXJJhy0B43V6NAPQJ5MRXF9tNCNE53U93A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDQt/MTIyOTc4MDY1OC5q/cGVn.jpeg",
+   "uri150": "https://i.discogs.com/qQjNx-qfYiL-d8dydY_jtjeQl88UvEtUmeONAyZXQYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDQt/MTIyOTc4MDY1OC5q/cGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "Roulé 302",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 783,
+   "name": "Roulé",
+   "resource_url": "https://api.discogs.com/labels/783",
+   "thumbnail_url": "https://i.discogs.com/7eG9W2ee7b-zlYHNZ9frmuEmq0rww6S-A-V6ubDnWrI/rs:fit/g:sm/q:90/h:143/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc4My0x/MDg0NDU3OTc2Lmpw/Zw.jpeg"
+  }
+ ],
+ "notes": "Recorded @ Daft House in Paris France\nShouts to my co-pilot [url=http://www.discogs.com/artist/Guy-Manuel+de+Homem-Christo]Guy-Man[/url] for his support.\np&© 1996 Roulé Music\nPublished by Zomba Music for World\nDelabel Editions / Daft Music for France\nFunkytown Distribution \nfax: 33(0)146061665\nMade in France\n\nDCNI Imprimerie 02 3762 86\n\nSamples [url=https://www.discogs.com/release/1517810]George Benson - The World Is a Ghetto[/url].",
+ "released": "1996",
+ "styles": [
+  "House",
+  "French House"
+ ],
+ "title": "Spinal Scratch",
+ "tracklist": [
+  {
+   "duration": "7:10",
+   "position": "A",
+   "title": "Spinal Scratch",
+   "type_": "track"
+  },
+  {
+   "duration": "4:27",
+   "position": "B",
+   "title": "Spinal Beats",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/3804-Thomas-Bangalter-Spinal-Scratch",
+ "year": 1996
+}

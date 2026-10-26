@@ -1,0 +1,104 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 682,
+   "join": "/",
+   "name": "DJ Deep",
+   "resource_url": "https://api.discogs.com/artists/682",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/w5lwygROacDfOqcyHWWhC6RZBEauHdfOn0tgKu6ZwRk/rs:fit/g:sm/q:90/h:283/w:196/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY4Mi0w/MDEuanBn.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 1453529,
+   "join": "",
+   "name": "Traumer",
+   "resource_url": "https://api.discogs.com/artists/1453529",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/wbwuBKuSLT_kv__7ECa4gNqtigieGMHK6_SFywxOWFw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0NTM1/MjktMTQzMjA0MjEw/Ni05ODk4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 19299820,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/ee6_d8JgUFEwzsf5b9xJzILhp1nUl-kz_0i6T4Kulls/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk5/ODIwLTE2MjUxNDcx/NzMtODM2Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/ee6_d8JgUFEwzsf5b9xJzILhp1nUl-kz_0i6T4Kulls/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk5/ODIwLTE2MjUxNDcx/NzMtODM2Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/ivlKIOZxoFU83iukP_x5lMBHQetTZK1Nd6hEdZAWQ8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk5/ODIwLTE2MjUxNDcx/NzMtODM2Mi5qcGVn.jpeg",
+   "width": 598
+  }
+ ],
+ "labels": [
+  {
+   "catno": "TTM002",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2028603,
+   "name": "Tatum (2)",
+   "resource_url": "https://api.discogs.com/labels/2028603"
+  }
+ ],
+ "notes": null,
+ "released": "2021-06-22",
+ "styles": [
+  "Minimal",
+  "Tech House"
+ ],
+ "title": "Grugru",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 682,
+     "join": "",
+     "name": "DJ Deep",
+     "resource_url": "https://api.discogs.com/artists/682",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A1",
+   "title": "Grugru",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1453529,
+     "join": "",
+     "name": "Traumer",
+     "resource_url": "https://api.discogs.com/artists/1453529",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B1",
+   "title": "Grugru",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/19299820-DJ-Deep-Traumer-Grugru",
+ "year": 2021
+}

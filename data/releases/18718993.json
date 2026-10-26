@@ -1,0 +1,83 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 7033242,
+   "join": "",
+   "name": "Kander (2)",
+   "resource_url": "https://api.discogs.com/artists/7033242",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/8qB8PTNjBDe5A4eImp8xOSg1TrgV_COJS7whukkaTPM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcwMzMy/NDItMTYzMTAwNjU1/NC03MDE1LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\""
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 18718993,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/__42CeH0L9nTEZLQVmJD1FpMKKdJRjIY8Ezze1oF1no/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzE4/OTkzLTE2MjA5Nzc0/NDItNDU1MC5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/__42CeH0L9nTEZLQVmJD1FpMKKdJRjIY8Ezze1oF1no/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzE4/OTkzLTE2MjA5Nzc0/NDItNDU1MC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/kBUB9BTSpVVP4Ugf2ckajF7mZ73H1sC6no1teAN7_TQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzE4/OTkzLTE2MjA5Nzc0/NDItNDU1MC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RKR1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1331257,
+   "name": "R - Label Group",
+   "resource_url": "https://api.discogs.com/labels/1331257",
+   "thumbnail_url": "https://i.discogs.com/8FcVFoRslVeMFmz8fq5NslgnvEU3RaSr_2uva98OzjA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMzEy/NTctMTU4MTk1NTg3/Ny04NjAyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2021-05-14",
+ "styles": [
+  "Techno"
+ ],
+ "title": "RKR1",
+ "tracklist": [
+  {
+   "duration": "5:23",
+   "position": "A1",
+   "title": "To My Face",
+   "type_": "track"
+  },
+  {
+   "duration": "5:21",
+   "position": "A2",
+   "title": "Born To Fail",
+   "type_": "track"
+  },
+  {
+   "duration": "5:26",
+   "position": "B1",
+   "title": "Hostile",
+   "type_": "track"
+  },
+  {
+   "duration": "4:31",
+   "position": "B2",
+   "title": "Red Brick ",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/18718993-Kander-2-RKR1",
+ "year": 2021
+}

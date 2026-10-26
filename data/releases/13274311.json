@@ -1,0 +1,106 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 791,
+   "join": "",
+   "name": "Mr. Oizo",
+   "resource_url": "https://api.discogs.com/artists/791",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/fWAhnyjmeztEQM3W94Z7436s4ZLq2quUX-2erkEuvNw/rs:fit/g:sm/q:90/h:533/w:535/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc5MS0x/Nzg3MDkyNjk3LTEz/NTUuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13274311,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/XOAXjJatPku7kuTSrOx78JOH905XP3rQCnqmFMoaIA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc0/MzExLTE2NDUyMjM1/MDQtMTI4MC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/XOAXjJatPku7kuTSrOx78JOH905XP3rQCnqmFMoaIA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc0/MzExLTE2NDUyMjM1/MDQtMTI4MC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/k3F4r-PKFE6rxI4NMisYC2mlaTTpaWE6JCkis3NOKLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc0/MzExLTE2NDUyMjM1/MDQtMTI4MC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ED 114",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 19066,
+   "name": "Ed Banger Records",
+   "resource_url": "https://api.discogs.com/labels/19066",
+   "thumbnail_url": "https://i.discogs.com/ZIJtV-Fc7H03Z1Atc_JmDZbn1Jp7Oks35_nDxkjY7i0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5MDY2/LTE2NDgzNDM5NjYt/NjE0Ni5qcGVn.jpeg"
+  },
+  {
+   "catno": "BEC5543906",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 54379,
+   "name": "Because Music",
+   "resource_url": "https://api.discogs.com/labels/54379",
+   "thumbnail_url": "https://i.discogs.com/hCnQ7eINYuhslt-dC2Ub26qjZl4Y5QgXKDWslpAIL6E/rs:fit/g:sm/q:90/h:338/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU0Mzc5/LTE2MzE4NzIxOTMt/NDQ5Ny5qcGVn.jpeg"
+  }
+ ],
+ "notes": "All tracks written, produced and mixed [...] in a studio somewhere \n℗ & © 2019 Ed Banger Records under exclusive licence to Because Music\n\nHype sticker on shrink wrap:\nMR OIZO\nRYTHME PLAT\nIncludes\nDOLCE VITA feat. PHRA\n\nTrack times not mentioned on release.",
+ "released": "2019-03-22",
+ "styles": [
+  "Electro",
+  "Hip Hop"
+ ],
+ "title": "Rythme Plat",
+ "tracklist": [
+  {
+   "duration": "2:43",
+   "position": "A1",
+   "title": "Rythme Plat",
+   "type_": "track"
+  },
+  {
+   "duration": "2:26",
+   "position": "A2",
+   "title": "Viandes Légumes Véhicules",
+   "type_": "track"
+  },
+  {
+   "duration": "3:00",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 828954,
+     "join": "",
+     "name": "Phra",
+     "resource_url": "https://api.discogs.com/artists/828954",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Dolce Vita",
+   "type_": "track"
+  },
+  {
+   "duration": "2:35",
+   "position": "B2",
+   "title": "Nuque",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13274311-Mr-Oizo-Rythme-Plat",
+ "year": 2019
+}

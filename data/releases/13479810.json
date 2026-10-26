@@ -1,0 +1,231 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2265,
+   "join": "",
+   "name": "Roy Ayers",
+   "resource_url": "https://api.discogs.com/artists/2265",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/pWJm4wbqdUBV6IpE_7CBA4D5iVeJNiTrHIMXnxftMFM/rs:fit/g:sm/q:90/h:600/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIyNjUt/MTcxMzE4MTA4OS04/OTczLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Record Store Day",
+    "Limited Edition",
+    "Numbered",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Funk / Soul"
+ ],
+ "id": 13479810,
+ "images": [
+  {
+   "height": 370,
+   "resource_url": "https://i.discogs.com/TKD2hghne4J5AoIrqSIz9-6dSqXUVhPc9hJkSbYgtqA/rs:fit/g:sm/q:90/h:370/w:370/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDc5/ODEwLTE1NTUyNDgz/NzktODczNS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/TKD2hghne4J5AoIrqSIz9-6dSqXUVhPc9hJkSbYgtqA/rs:fit/g:sm/q:90/h:370/w:370/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDc5/ODEwLTE1NTUyNDgz/NzktODczNS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/hW6tFF2cRlDz7vOk2ZpdIiWFUN0VRR4YjzOMA_6oC8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDc5/ODEwLTE1NTUyNDgz/NzktODczNS5qcGVn.jpeg",
+   "width": 370
+  }
+ ],
+ "labels": [
+  {
+   "catno": "EXRSDLP 64",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 9974,
+   "name": "Expansion",
+   "resource_url": "https://api.discogs.com/labels/9974",
+   "thumbnail_url": "https://i.discogs.com/EWtKB4mhHO-6nmlGyN73AQnsx8S8_elmQS7Ry5OGS8E/rs:fit/g:sm/q:90/h:500/w:493/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk5NzQt/MTM3Mjg2ODExMi0z/OTg4LmpwZWc.jpeg"
+  },
+  {
+   "catno": "EXRSDLP 64",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 12536,
+   "name": "Uno Melodic Records",
+   "resource_url": "https://api.discogs.com/labels/12536",
+   "thumbnail_url": "https://i.discogs.com/NNar0V6rFp7X0dxwrcaq8pZWh4CYkFLAH22SKJrzqaA/rs:fit/g:sm/q:90/h:267/w:459/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyNTM2/LTE1ODQ2OTcyNzAt/Mjg4OC5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Record Store Day 2019 release.\n\nLimited to 850 copies.",
+ "released": "2019-04-13",
+ "styles": [
+  "Disco",
+  "Funk",
+  "Jazz-Funk"
+ ],
+ "title": "Silver Vibrations",
+ "tracklist": [
+  {
+   "duration": "7:18",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2265,
+     "join": "",
+     "name": "Roy Ayers",
+     "resource_url": "https://api.discogs.com/artists/2265",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Chicago",
+   "type_": "track"
+  },
+  {
+   "duration": "8:00",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1412408,
+     "join": "",
+     "name": "Luther Wilson",
+     "resource_url": "https://api.discogs.com/artists/1412408",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2265,
+     "join": "",
+     "name": "Roy Ayers",
+     "resource_url": "https://api.discogs.com/artists/2265",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1412407,
+     "join": "",
+     "name": "Tanya Woods",
+     "resource_url": "https://api.discogs.com/artists/1412407",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Lots Of Love",
+   "type_": "track"
+  },
+  {
+   "duration": "6:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1412409,
+     "join": "",
+     "name": "M. Tume Ayers",
+     "resource_url": "https://api.discogs.com/artists/1412409",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2265,
+     "join": "",
+     "name": "Roy Ayers",
+     "resource_url": "https://api.discogs.com/artists/2265",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Keep On Movin'",
+   "type_": "track"
+  },
+  {
+   "duration": "5:53",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2265,
+     "join": "",
+     "name": "Roy Ayers",
+     "resource_url": "https://api.discogs.com/artists/2265",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 692123,
+     "join": "",
+     "name": "Travis Milner",
+     "resource_url": "https://api.discogs.com/artists/692123",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Silver Vibrations",
+   "type_": "track"
+  },
+  {
+   "duration": "4:48",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 168537,
+     "join": "",
+     "name": "William Allen",
+     "resource_url": "https://api.discogs.com/artists/168537",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Smiling With Our Eyes",
+   "type_": "track"
+  },
+  {
+   "duration": "5:45",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2265,
+     "join": "",
+     "name": "Roy Ayers",
+     "resource_url": "https://api.discogs.com/artists/2265",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "D.C. City",
+   "type_": "track"
+  },
+  {
+   "duration": "5:50",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2265,
+     "join": "",
+     "name": "Roy Ayers",
+     "resource_url": "https://api.discogs.com/artists/2265",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Good Good Music",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13479810-Roy-Ayers-Silver-Vibrations",
+ "year": 2019
+}

@@ -1,0 +1,660 @@
+{
+ "artists": [
+  {
+   "anv": "Miller BigBand Orchestra",
+   "id": 276034,
+   "join": "",
+   "name": "The Glenn Miller Orchestra",
+   "resource_url": "https://api.discogs.com/artists/276034",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/zh78663-fL8kbZdVZ-2bg1CdHMBsjgjbRX0WFwIqWn0/rs:fit/g:sm/q:90/h:396/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3NjAz/NC0xMjU3NzAwNTA3/LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Blues"
+ ],
+ "id": 1091633,
+ "images": [
+  {
+   "height": 598,
+   "resource_url": "https://i.discogs.com/TKjU-eyQfcc4UHA5N17HsnnXqxRPUC-hMxDdpcUfpUQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE2/MzMtMTU1ODU5NTU0/MS05Mzg2LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/TKjU-eyQfcc4UHA5N17HsnnXqxRPUC-hMxDdpcUfpUQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE2/MzMtMTU1ODU5NTU0/MS05Mzg2LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/ZdyQk4_FrveyL_YJE18d3dJ3o4J8SMegCeYxvySyTS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE2/MzMtMTU1ODU5NTU0/MS05Mzg2LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ALBUM 149",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 34349,
+   "name": "Disques Festival",
+   "resource_url": "https://api.discogs.com/labels/34349",
+   "thumbnail_url": "https://i.discogs.com/sQn_MERrGHM7UQUhYbgxxedTiZrAQV3ztGQX6_myISg/rs:fit/g:sm/q:90/h:183/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM0MzQ5/LTEyMTI3NDM1MzAu/anBlZw.jpeg"
+  }
+ ],
+ "notes": "Printed in France\nMade in France\n\n[url=https://www.discogs.com/fr/fr/release/5985584]Also exists with a green sleeve[/url]",
+ "released": null,
+ "styles": [
+  "Big Band"
+ ],
+ "title": "A Memorial For Glenn Miller Vol.1",
+ "tracklist": [
+  {
+   "duration": "3:50",
+   "extraartists": [
+    {
+     "anv": "Razaf",
+     "id": 301998,
+     "join": "",
+     "name": "Andy Razaf",
+     "resource_url": "https://api.discogs.com/artists/301998",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Garland",
+     "id": 254897,
+     "join": "",
+     "name": "Joe Garland",
+     "resource_url": "https://api.discogs.com/artists/254897",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "In The Mood",
+   "type_": "track"
+  },
+  {
+   "duration": "3:10",
+   "extraartists": [
+    {
+     "anv": "Miller",
+     "id": 77991,
+     "join": "",
+     "name": "Glenn Miller",
+     "resource_url": "https://api.discogs.com/artists/77991",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Parish",
+     "id": 521962,
+     "join": "",
+     "name": "Mitchell Parish",
+     "resource_url": "https://api.discogs.com/artists/521962",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Moonlight Serenade",
+   "type_": "track"
+  },
+  {
+   "duration": "3:25",
+   "extraartists": [
+    {
+     "anv": "Feyne",
+     "id": 706277,
+     "join": "",
+     "name": "Buddy Feyne",
+     "resource_url": "https://api.discogs.com/artists/706277",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Hawkins",
+     "id": 270238,
+     "join": "",
+     "name": "Erskine Hawkins",
+     "resource_url": "https://api.discogs.com/artists/270238",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Dash",
+     "id": 335466,
+     "join": "",
+     "name": "Julian Dash",
+     "resource_url": "https://api.discogs.com/artists/335466",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Johnson",
+     "id": 696861,
+     "join": "",
+     "name": "William Johnson",
+     "resource_url": "https://api.discogs.com/artists/696861",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Tuxedo Junction",
+   "type_": "track"
+  },
+  {
+   "duration": "3:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 695875,
+     "join": "",
+     "name": "Ben Homer",
+     "resource_url": "https://api.discogs.com/artists/695875",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 695873,
+     "join": "",
+     "name": "Bud Green",
+     "resource_url": "https://api.discogs.com/artists/695873",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 403579,
+     "join": "",
+     "name": "Les Brown",
+     "resource_url": "https://api.discogs.com/artists/403579",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Sentimental Journey",
+   "type_": "track"
+  },
+  {
+   "duration": "2:15",
+   "extraartists": [
+    {
+     "anv": "Gibbs",
+     "id": 750487,
+     "join": "",
+     "name": "Arthur Gibbs",
+     "resource_url": "https://api.discogs.com/artists/750487",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Grey",
+     "id": 750488,
+     "join": "",
+     "name": "Joe Grey",
+     "resource_url": "https://api.discogs.com/artists/750488",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Wood",
+     "id": 705280,
+     "join": "",
+     "name": "Leo Wood",
+     "resource_url": "https://api.discogs.com/artists/705280",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Runnin' Wild",
+   "type_": "track"
+  },
+  {
+   "duration": "2:20",
+   "extraartists": [
+    {
+     "anv": "Dubin",
+     "id": 628267,
+     "join": "",
+     "name": "Al Dubin",
+     "resource_url": "https://api.discogs.com/artists/628267",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Herbert",
+     "id": 706601,
+     "join": "",
+     "name": "Victor Herbert",
+     "resource_url": "https://api.discogs.com/artists/706601",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Indian Summer",
+   "type_": "track"
+  },
+  {
+   "duration": "4:05",
+   "extraartists": [
+    {
+     "anv": "Handy",
+     "id": 782861,
+     "join": "",
+     "name": "W. C. Handy",
+     "resource_url": "https://api.discogs.com/artists/782861",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Saint-Louis Blues",
+   "type_": "track"
+  },
+  {
+   "duration": "2:45",
+   "extraartists": [
+    {
+     "anv": "Woods",
+     "id": 728698,
+     "join": "",
+     "name": "Eddie Woods",
+     "resource_url": "https://api.discogs.com/artists/728698",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Madriguera",
+     "id": 728699,
+     "join": "",
+     "name": "Enric Madriguera",
+     "resource_url": "https://api.discogs.com/artists/728699",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Adios",
+   "type_": "track"
+  },
+  {
+   "duration": "3:15",
+   "extraartists": [
+    {
+     "anv": "Gray",
+     "id": 254906,
+     "join": "",
+     "name": "Jerry Gray",
+     "resource_url": "https://api.discogs.com/artists/254906",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "A String Of Pearls",
+   "type_": "track"
+  },
+  {
+   "duration": "2:45",
+   "extraartists": [
+    {
+     "anv": "Davis",
+     "id": 693653,
+     "join": "",
+     "name": "Benny Davis",
+     "resource_url": "https://api.discogs.com/artists/693653",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Shapiro",
+     "id": 740183,
+     "join": "",
+     "name": "Ted Shapiro",
+     "resource_url": "https://api.discogs.com/artists/740183",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Dorsey",
+     "id": 229639,
+     "join": "",
+     "name": "Tommy Dorsey",
+     "resource_url": "https://api.discogs.com/artists/229639",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "To You",
+   "type_": "track"
+  },
+  {
+   "duration": "2:30",
+   "extraartists": [
+    {
+     "anv": "Pestalozza",
+     "id": 525465,
+     "join": "",
+     "name": "Alberto Pestalozza",
+     "resource_url": "https://api.discogs.com/artists/525465",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "James",
+     "id": 313097,
+     "join": "",
+     "name": "Harry James (2)",
+     "resource_url": "https://api.discogs.com/artists/313097",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Lawrence",
+     "id": 638169,
+     "join": "",
+     "name": "Jack Lawrence (2)",
+     "resource_url": "https://api.discogs.com/artists/638169",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Ciribiribin",
+   "type_": "track"
+  },
+  {
+   "duration": "3:07",
+   "extraartists": [
+    {
+     "anv": "Carmichaël",
+     "id": 301368,
+     "join": "",
+     "name": "Hoagy Carmichael",
+     "resource_url": "https://api.discogs.com/artists/301368",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Stardust",
+   "type_": "track"
+  },
+  {
+   "duration": "3:15",
+   "extraartists": [
+    {
+     "anv": "Finegan",
+     "id": 254898,
+     "join": "",
+     "name": "Bill Finegan",
+     "resource_url": "https://api.discogs.com/artists/254898",
+     "role": "Arranged By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Little Brown Jug",
+   "type_": "track"
+  },
+  {
+   "duration": "3:15",
+   "extraartists": [
+    {
+     "anv": "Carle",
+     "id": 619769,
+     "join": "",
+     "name": "Frankie Carle",
+     "resource_url": "https://api.discogs.com/artists/619769",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Sunrise Serenade",
+   "type_": "track"
+  },
+  {
+   "duration": "3:30",
+   "extraartists": [
+    {
+     "anv": "Finegan",
+     "id": 254898,
+     "join": "",
+     "name": "Bill Finegan",
+     "resource_url": "https://api.discogs.com/artists/254898",
+     "role": "Arranged By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Song Of The Volga Boatmen",
+   "type_": "track"
+  },
+  {
+   "duration": "3:15",
+   "extraartists": [
+    {
+     "anv": "Clinton",
+     "id": 334345,
+     "join": "",
+     "name": "Larry Clinton",
+     "resource_url": "https://api.discogs.com/artists/334345",
+     "role": "Arranged By",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "My Reverie",
+   "type_": "track"
+  },
+  {
+   "duration": "3:15",
+   "extraartists": [
+    {
+     "anv": "Sigman",
+     "id": 583802,
+     "join": "",
+     "name": "Carl Sigman",
+     "resource_url": "https://api.discogs.com/artists/583802",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Gray",
+     "id": 254906,
+     "join": "",
+     "name": "Jerry Gray",
+     "resource_url": "https://api.discogs.com/artists/254906",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C5",
+   "title": "Pennsylvania Six-Five Thousand",
+   "type_": "track"
+  },
+  {
+   "duration": "2:25",
+   "extraartists": [
+    {
+     "anv": "Warren",
+     "id": 601710,
+     "join": "",
+     "name": "Harry Warren (2)",
+     "resource_url": "https://api.discogs.com/artists/601710",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Gordon",
+     "id": 623105,
+     "join": "",
+     "name": "Mack Gordon",
+     "resource_url": "https://api.discogs.com/artists/623105",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C6",
+   "title": "Chattanooga Choo-Choo",
+   "type_": "track"
+  },
+  {
+   "duration": "3:20",
+   "extraartists": [
+    {
+     "anv": "Freed",
+     "id": 555147,
+     "join": "",
+     "name": "Arthur Freed",
+     "resource_url": "https://api.discogs.com/artists/555147",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Brown",
+     "id": 555146,
+     "join": "",
+     "name": "Nacio Herb Brown",
+     "resource_url": "https://api.discogs.com/artists/555146",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Pagan Love Song",
+   "type_": "track"
+  },
+  {
+   "duration": "2:15",
+   "extraartists": [
+    {
+     "anv": "Jurgens",
+     "id": 785558,
+     "join": "",
+     "name": "Dick Jurgens",
+     "resource_url": "https://api.discogs.com/artists/785558",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Albrecht",
+     "id": 785559,
+     "join": "",
+     "name": "Elmer Albrecht",
+     "resource_url": "https://api.discogs.com/artists/785559",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Gallop",
+     "id": 785555,
+     "join": "",
+     "name": "Sammy Gallop",
+     "resource_url": "https://api.discogs.com/artists/785555",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Elmer's Tune",
+   "type_": "track"
+  },
+  {
+   "duration": "3:35",
+   "extraartists": [
+    {
+     "anv": "Meacham",
+     "id": 696846,
+     "join": "",
+     "name": "F. W. Meacham",
+     "resource_url": "https://api.discogs.com/artists/696846",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "American Patrol",
+   "type_": "track"
+  },
+  {
+   "duration": "3:20",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 687519,
+     "join": "",
+     "name": "Sid Lippman",
+     "resource_url": "https://api.discogs.com/artists/687519",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 687518,
+     "join": "",
+     "name": "Sylvia Dee",
+     "resource_url": "https://api.discogs.com/artists/687518",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "I'm Thrilled",
+   "type_": "track"
+  },
+  {
+   "duration": "5:10",
+   "extraartists": [
+    {
+     "anv": "Hall",
+     "id": 845398,
+     "join": "",
+     "name": "Guy Hall",
+     "resource_url": "https://api.discogs.com/artists/845398",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Kleinkauf",
+     "id": 845396,
+     "join": "",
+     "name": "Henry Kleinkauf",
+     "resource_url": "https://api.discogs.com/artists/845396",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Lawrence",
+     "id": 638169,
+     "join": "",
+     "name": "Jack Lawrence (2)",
+     "resource_url": "https://api.discogs.com/artists/638169",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D5",
+   "title": "Johnson Rag",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/1091633-Miller-BigBand-Orchestra-A-Memorial-For-Glenn-Miller-Vol1",
+ "year": 0
+}

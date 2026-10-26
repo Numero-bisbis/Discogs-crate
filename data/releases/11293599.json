@@ -1,0 +1,199 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Sweden",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11293599,
+ "images": [
+  {
+   "height": 597,
+   "resource_url": "https://i.discogs.com/dhr6mkm9Ljw3K-QwPXBiZUwfygFcrdc2mgzBYSGAw2E/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjkz/NTk5LTE1MTczNzkz/OTMtOTA0Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/dhr6mkm9Ljw3K-QwPXBiZUwfygFcrdc2mgzBYSGAw2E/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjkz/NTk5LTE1MTczNzkz/OTMtOTA0Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/dm4a7rT_JUZceoSNylT9fNmSnQPOMK8zfnRzPVzhVzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjkz/NTk5LTE1MTczNzkz/OTMtOTA0Ny5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DC178.2",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 237,
+   "name": "Drumcode",
+   "resource_url": "https://api.discogs.com/labels/237",
+   "thumbnail_url": "https://i.discogs.com/1rrViQveJmRumM48FWYOYNsJD3-iahuaYprtxJgsAQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNy0x/NjkyOTkxNjY2LTg2/NjgucG5n.jpeg"
+  }
+ ],
+ "notes": "On label side B:\n[A1] ℗ Ultra Music Publishing Europe, Dipiu.\n[A2] ℗ Cloud 9 Holland Music Publishing.\n[B1] ℗ Defensive Music.\n[B2] ℗ Copyright Control.\nPressing & Distribution by primedirectdist.co.uk.\n© 2017 Drumcode Records.\n\nAdditional information:\nThe pressing plant is derived from the typical inner-rings stamped on the labels and the runouts.",
+ "released": "2017-12-00",
+ "styles": [
+  "Techno",
+  "Tech House"
+ ],
+ "title": "A-Sides Vol.6 Vinyl Two Of Four",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1360,
+     "join": "&",
+     "name": "Adam Beyer",
+     "resource_url": "https://api.discogs.com/artists/1360",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1684763,
+     "join": "",
+     "name": "Enrico Sangiuliano",
+     "resource_url": "https://api.discogs.com/artists/1684763",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1360,
+     "join": "",
+     "name": "Adam Beyer",
+     "resource_url": "https://api.discogs.com/artists/1360",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1684763,
+     "join": "",
+     "name": "Enrico Sangiuliano",
+     "resource_url": "https://api.discogs.com/artists/1684763",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Present Heaven",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 994946,
+     "join": "",
+     "name": "Timmo",
+     "resource_url": "https://api.discogs.com/artists/994946",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1642747,
+     "join": "",
+     "name": "Valeri Ivanov",
+     "resource_url": "https://api.discogs.com/artists/1642747",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Muzik",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 184400,
+     "join": "",
+     "name": "Pig & Dan",
+     "resource_url": "https://api.discogs.com/artists/184400",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 484878,
+     "join": "",
+     "name": "Dan Duncan",
+     "resource_url": "https://api.discogs.com/artists/484878",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 525431,
+     "join": "",
+     "name": "Igor Tchkotoua",
+     "resource_url": "https://api.discogs.com/artists/525431",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "La Bruja",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 714621,
+     "join": "",
+     "name": "Julian Jeweil",
+     "resource_url": "https://api.discogs.com/artists/714621",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 714621,
+     "join": "",
+     "name": "Julian Jeweil",
+     "resource_url": "https://api.discogs.com/artists/714621",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Nasa",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11293599-Various-A-Sides-Vol6-Vinyl-Two-Of-Four",
+ "year": 2017
+}

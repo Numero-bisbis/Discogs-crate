@@ -1,0 +1,120 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 117051,
+   "join": "",
+   "name": "Erol Alkan",
+   "resource_url": "https://api.discogs.com/artists/117051",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/nUsgyJVPHn7U-I4EAzAGrcKL2YpfOBOFCJBayqb4-V4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExNzA1/MS0xNTU0OTEwMDIx/LTg4ODcuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Rock"
+ ],
+ "id": 11083628,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/7LviR2xvEy8duGjD4WeuLNEd0oXcT940RP7tn-nroYs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgz/NjI4LTE2MTM5MjA3/MjQtODcxMC5wbmc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/7LviR2xvEy8duGjD4WeuLNEd0oXcT940RP7tn-nroYs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgz/NjI4LTE2MTM5MjA3/MjQtODcxMC5wbmc.jpeg",
+   "uri150": "https://i.discogs.com/WMRApg_HjZB7FAKK5D5Q1OnmNJ90Fk0iUNRZUiXQ-I4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgz/NjI4LTE2MTM5MjA3/MjQtODcxMC5wbmc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "PH64",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 94402,
+   "name": "Phantasy Sound",
+   "resource_url": "https://api.discogs.com/labels/94402",
+   "thumbnail_url": "https://i.discogs.com/Yl0O0DGfaIrgENd4gFIXZmngXiMznMrvFA6tw5_U6YQ/rs:fit/g:sm/q:90/h:221/w:221/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk0NDAy/LTEzNDMyMzk2MjYt/MTE2MS5qcGVn.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2017-11-03",
+ "styles": [
+  "Psychedelic Rock",
+  "House",
+  "Electro",
+  "Techno"
+ ],
+ "title": "Reworks Volume 1 - Part 4",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 170994,
+     "join": "",
+     "name": "Franz Ferdinand",
+     "resource_url": "https://api.discogs.com/artists/170994",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 117051,
+     "join": "",
+     "name": "Erol Alkan",
+     "resource_url": "https://api.discogs.com/artists/117051",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "Do You Want To (Erol Alkan's Glam Racket)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 95405,
+     "join": "",
+     "name": "Yeah Yeah Yeahs",
+     "resource_url": "https://api.discogs.com/artists/95405",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 117051,
+     "join": "",
+     "name": "Erol Alkan",
+     "resource_url": "https://api.discogs.com/artists/117051",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B",
+   "title": "Zero (Erol Alkan Rework)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11083628-Erol-Alkan-Reworks-Volume-1-Part-4",
+ "year": 2017
+}

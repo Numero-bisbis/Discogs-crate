@@ -1,0 +1,221 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 433179,
+   "join": "",
+   "name": "Kavinsky",
+   "resource_url": "https://api.discogs.com/artists/433179",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/9kjDDQ3SGCgK7ezUgGiEFkIbqITjJ3ffJ_ORqRlENKA/rs:fit/g:sm/q:90/h:600/w:394/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQzMzE3/OS0xMTczOTEyODk3/LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11247130,
+ "images": [
+  {
+   "height": 595,
+   "resource_url": "https://i.discogs.com/8cbhs7YGhSUe3xl3b0i6taWVXXrsWP1c46QziOmogqY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTMwLTE3NjYxNzk4/NDItNzkyNC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/8cbhs7YGhSUe3xl3b0i6taWVXXrsWP1c46QziOmogqY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTMwLTE3NjYxNzk4/NDItNzkyNC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/P7S0CM7uW4jE6dKGIPV9mkTrdPOGY6eTX1rWOg3Ger4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTMwLTE3NjYxNzk4/NDItNzkyNC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "REC 65",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 5692,
+   "name": "Record Makers",
+   "resource_url": "https://api.discogs.com/labels/5692",
+   "thumbnail_url": "https://i.discogs.com/m1sbCeFZURB0TSQ7mJwau5vUcNeliZ4kjd8LEDZiSp0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU2OTIt/MTc0NTg0NTYxNS02/NjgyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "℗ & © 2010 Record Makers.\nMade in France\n\nThanks to : Guyman, Seb Tellier, Sebastian, Luisa, Jacko, Dustin, Chris Chow, Alex, Clement, Thomas, Paul, Florian, Pedro, So-me, Gaspard, Harald, Marc & Stephane, Rightback, Audrey, Studio la truite\n\nTrack 1 & 3:\nCo-published by Imagem Music & Draft Music (France) Imagem Draft life sub-published by Imagem Music (Rest of the World)\n\nTrack 2 & 4:\nPublished by Imagem Music",
+ "released": "2010",
+ "styles": [
+  "House",
+  "Electro",
+  "Synth-pop"
+ ],
+ "title": "Nightcall",
+ "tracklist": [
+  {
+   "duration": "4:19",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 266264,
+     "join": "",
+     "name": "SebastiAn (6)",
+     "resource_url": "https://api.discogs.com/artists/266264",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 424278,
+     "join": "",
+     "name": "Guy-Manuel de Homem-Christo",
+     "resource_url": "https://api.discogs.com/artists/424278",
+     "role": "Music By, Lyrics By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 433179,
+     "join": "",
+     "name": "Kavinsky",
+     "resource_url": "https://api.discogs.com/artists/433179",
+     "role": "Music By, Lyrics By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 433179,
+     "join": "",
+     "name": "Kavinsky",
+     "resource_url": "https://api.discogs.com/artists/433179",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 577623,
+     "join": "",
+     "name": "Lovefoxxx",
+     "resource_url": "https://api.discogs.com/artists/577623",
+     "role": "Performer",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Nightcall",
+   "type_": "track"
+  },
+  {
+   "duration": "6:21",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 433179,
+     "join": "",
+     "name": "Kavinsky",
+     "resource_url": "https://api.discogs.com/artists/433179",
+     "role": "Composed By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 33382,
+     "join": "",
+     "name": "Jackson",
+     "resource_url": "https://api.discogs.com/artists/33382",
+     "role": "Mixed By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Pacific Coast Highway",
+   "type_": "track"
+  },
+  {
+   "duration": "3:34",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 424278,
+     "join": "",
+     "name": "Guy-Manuel de Homem-Christo",
+     "resource_url": "https://api.discogs.com/artists/424278",
+     "role": "Music By, Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 433179,
+     "join": "",
+     "name": "Kavinsky",
+     "resource_url": "https://api.discogs.com/artists/433179",
+     "role": "Music By, Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 433179,
+     "join": "",
+     "name": "Kavinsky",
+     "resource_url": "https://api.discogs.com/artists/433179",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 577623,
+     "join": "",
+     "name": "Lovefoxxx",
+     "resource_url": "https://api.discogs.com/artists/577623",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1764522,
+     "join": "",
+     "name": "Dustin N'Guyen",
+     "resource_url": "https://api.discogs.com/artists/1764522",
+     "role": "Remix, Producer [Additional Production]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Nightcall (Dustin N'Guyen Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "8:24",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 433179,
+     "join": "",
+     "name": "Kavinsky",
+     "resource_url": "https://api.discogs.com/artists/433179",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 33382,
+     "join": "",
+     "name": "Jackson",
+     "resource_url": "https://api.discogs.com/artists/33382",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Pacific Coast Highway (Jackson Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11247130-Kavinsky-Nightcall",
+ "year": 2010
+}

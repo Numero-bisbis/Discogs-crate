@@ -1,0 +1,180 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 591268,
+   "join": "",
+   "name": "Grand Corps Malade",
+   "resource_url": "https://api.discogs.com/artists/591268",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/PS56CXnKgSplbI92s_DY4DcuZeHT_65pQTto3Zc9zQE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU5MTI2/OC0xNzgzNzA1MjI4/LTU3MjEuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 11615204,
+ "images": [
+  {
+   "height": 591,
+   "resource_url": "https://i.discogs.com/-Muqk442V-EDay1P9S3CsZ-lvTcyD5nIAF0cl-FEZzo/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE1/MjA0LTE2MTExNzU5/NzctOTI1NS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/-Muqk442V-EDay1P9S3CsZ-lvTcyD5nIAF0cl-FEZzo/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE1/MjA0LTE2MTExNzU5/NzctOTI1NS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/35zEy5PX4ljA7AYY9xjaZav4M0g_Y2_tPhL6ToQ6Zhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE1/MjA0LTE2MTExNzU5/NzctOTI1NS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "6731684",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 285575,
+   "name": "Anouche Productions",
+   "resource_url": "https://api.discogs.com/labels/285575"
+  }
+ ],
+ "notes": null,
+ "released": "2018-02-16",
+ "styles": [],
+ "title": "Plan B",
+ "tracklist": [
+  {
+   "duration": "2:16",
+   "position": "A1",
+   "title": "Plan B",
+   "type_": "track"
+  },
+  {
+   "duration": "3:35",
+   "position": "A2",
+   "title": "Acouphènes",
+   "type_": "track"
+  },
+  {
+   "duration": "4:13",
+   "position": "A3",
+   "title": "Au Feu Rouge ",
+   "type_": "track"
+  },
+  {
+   "duration": "4:05",
+   "position": "A4",
+   "title": "Tu Peux Déjà",
+   "type_": "track"
+  },
+  {
+   "duration": "3:34",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6535383,
+     "join": "",
+     "name": "Ehla",
+     "resource_url": "https://api.discogs.com/artists/6535383",
+     "role": "Vocals [En duo avec]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Poker",
+   "type_": "track"
+  },
+  {
+   "duration": "3:27",
+   "position": "B2",
+   "title": "La Syllabe Au Rebond",
+   "type_": "track"
+  },
+  {
+   "duration": "3:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6535382,
+     "join": "",
+     "name": "Rachid Taxi",
+     "resource_url": "https://api.discogs.com/artists/6535382",
+     "role": "Vocals [En duo avec]",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Je suis Pas Rentré",
+   "type_": "track"
+  },
+  {
+   "duration": "4:12",
+   "position": "B4",
+   "title": "Charades",
+   "type_": "track"
+  },
+  {
+   "duration": "4:02",
+   "position": "C1",
+   "title": "Dimanche Soir",
+   "type_": "track"
+  },
+  {
+   "duration": "3:21",
+   "position": "C2",
+   "title": "1000 Vies",
+   "type_": "track"
+  },
+  {
+   "duration": "3:47",
+   "position": "C3",
+   "title": "Le Langage Du Corps ",
+   "type_": "track"
+  },
+  {
+   "duration": "3:57",
+   "position": "C4",
+   "title": "Patrick",
+   "type_": "track"
+  },
+  {
+   "duration": "3:19",
+   "position": "D1",
+   "title": "Ensemble ",
+   "type_": "track"
+  },
+  {
+   "duration": "1:53",
+   "position": "D2",
+   "title": "Issam",
+   "type_": "track"
+  },
+  {
+   "duration": "3:19",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4474660,
+     "join": "",
+     "name": "Anna Kova",
+     "resource_url": "https://api.discogs.com/artists/4474660",
+     "role": "Vocals [En duo avec]",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Espoir Adapté",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11615204-Grand-Corps-Malade-Plan-B",
+ "year": 2018
+}

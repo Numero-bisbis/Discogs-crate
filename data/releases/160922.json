@@ -1,0 +1,65 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 66960,
+   "join": "",
+   "name": "Cuban Sluts",
+   "resource_url": "https://api.discogs.com/artists/66960",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": null,
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "Single Sided",
+    "White Label"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 160922,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/fJJx-RgMgBtv9FffjGsH35KMTZllawr-DJayAU8UxV4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/Mi0xNjA0NDg3Mzc0/LTE2NTEuanBlZw.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/fJJx-RgMgBtv9FffjGsH35KMTZllawr-DJayAU8UxV4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/Mi0xNjA0NDg3Mzc0/LTE2NTEuanBlZw.jpeg",
+   "uri150": "https://i.discogs.com/nz40Wnhtj2mFVBJkYzOcXXHiSxkPTCLN49X4B-nD_gI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/Mi0xNjA0NDg3Mzc0/LTE2NTEuanBlZw.jpeg",
+   "width": 594
+  }
+ ],
+ "labels": [
+  {
+   "catno": "WAV 002",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1818,
+   "name": "Not On Label",
+   "resource_url": "https://api.discogs.com/labels/1818"
+  }
+ ],
+ "notes": null,
+ "released": "2000",
+ "styles": [
+  "Hard House"
+ ],
+ "title": "Bossa Nova Baby",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Untitled",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/160922-Cuban-Sluts-Bossa-Nova-Baby",
+ "year": 2000
+}

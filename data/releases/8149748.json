@@ -1,0 +1,132 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3565949,
+   "join": "",
+   "name": "Khruangbin",
+   "resource_url": "https://api.discogs.com/artists/3565949",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/MWcHVMl1eaqk4vOdX0K4olas_qZ9pYxWeaoCg4o_7_Q/rs:fit/g:sm/q:90/h:436/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1NjU5/NDktMTUyNDEwNDYy/OS04NTc3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Repress"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "180g"
+  }
+ ],
+ "genres": [
+  "Rock",
+  "Funk / Soul",
+  "Folk, World, & Country"
+ ],
+ "id": 8149748,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/C4CxAImvZGielsMcG6CelPgkl6J6tuzkuZ_xi0aS4jI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDk3/NDgtMTQ1NzExMDQx/NS00NDU0LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/C4CxAImvZGielsMcG6CelPgkl6J6tuzkuZ_xi0aS4jI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDk3/NDgtMTQ1NzExMDQx/NS00NDU0LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/4ieUM-GAR5FL5L9LKvhM2e1qxxxKhueg6E-L-d1C0a8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDk3/NDgtMTQ1NzExMDQx/NS00NDU0LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ALNLP40R",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1409593,
+   "name": "Night Time Stories",
+   "resource_url": "https://api.discogs.com/labels/1409593",
+   "thumbnail_url": "https://i.discogs.com/IiQgOazURv03pqA0bK_ve6XDNQAKxScbNjeLuGK4h_o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0MDk1/OTMtMTUxNzA3NzEz/My05MDUzLnBuZw.jpeg"
+  }
+ ],
+ "notes": "Black vinyl reissue.\n\nTrack B6, Bin Bin X, is a hidden track found after the locked groove.",
+ "released": "2016-02-00",
+ "styles": [
+  "Psychedelic",
+  "Funk"
+ ],
+ "title": "The Universe Smiles Upon You",
+ "tracklist": [
+  {
+   "duration": "4:58",
+   "position": "A1",
+   "title": "Mr. White",
+   "type_": "track"
+  },
+  {
+   "duration": "3:33",
+   "position": "A2",
+   "title": "Two Fish And An Elephant",
+   "type_": "track"
+  },
+  {
+   "duration": "3:39",
+   "position": "A3",
+   "title": "Dern Kala",
+   "type_": "track"
+  },
+  {
+   "duration": "5:08",
+   "position": "A4",
+   "title": "Little Joe And Mary",
+   "type_": "track"
+  },
+  {
+   "duration": "3:38",
+   "position": "A5",
+   "title": "White Gloves",
+   "type_": "track"
+  },
+  {
+   "duration": "2:39",
+   "position": "B1",
+   "title": "People Everywhere (Still Alive)",
+   "type_": "track"
+  },
+  {
+   "duration": "2:13",
+   "position": "B2",
+   "title": "The Man Who Took My Sunglasses",
+   "type_": "track"
+  },
+  {
+   "duration": "6:13",
+   "position": "B3",
+   "title": "August Twelve",
+   "type_": "track"
+  },
+  {
+   "duration": "3:28",
+   "position": "B4",
+   "title": "Balls And Pins",
+   "type_": "track"
+  },
+  {
+   "duration": "4:11",
+   "position": "B5",
+   "title": "Zionsville",
+   "type_": "track"
+  },
+  {
+   "duration": "2:51",
+   "position": "B6",
+   "title": "Bin Bin X",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/8149748-Khruangbin-The-Universe-Smiles-Upon-You",
+ "year": 2016
+}

@@ -1,0 +1,162 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Colombia",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11326382,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/3Wh0eeb63ZvzW5df7rFWFFFTKJNukljKistznD7hB7I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI2/MzgyLTE1MTQ2NTAz/NTQtMTIxNy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/3Wh0eeb63ZvzW5df7rFWFFFTKJNukljKistznD7hB7I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI2/MzgyLTE1MTQ2NTAz/NTQtMTIxNy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/-FAd34iV4M8euDUu05AvgklJEO-0atTdqGmmCi1teEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI2/MzgyLTE1MTQ2NTAz/NTQtMTIxNy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "NMD025",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 971278,
+   "name": "Nómada Records",
+   "resource_url": "https://api.discogs.com/labels/971278",
+   "thumbnail_url": "https://i.discogs.com/H46eEIAKbUtw1IEkEXLF_m2jsbvnFmX4MgBSJGCmXk0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk3MTI3/OC0xNDU2MDk5NzQ3/LTc5MTcuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2017-12-18",
+ "styles": [
+  "House",
+  "Deep House"
+ ],
+ "title": "Nomada White",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4898814,
+     "join": "",
+     "name": "Felipe Gordon",
+     "resource_url": "https://api.discogs.com/artists/4898814",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A1",
+   "title": "Damn, I'm Smooth",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 6206444,
+     "join": "",
+     "name": "Jonahlo",
+     "resource_url": "https://api.discogs.com/artists/6206444",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A2",
+   "title": "Crudo",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4898812,
+     "join": "",
+     "name": "Lucien Magual",
+     "resource_url": "https://api.discogs.com/artists/4898812",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A3",
+   "title": "Lluvia",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3788362,
+     "join": "",
+     "name": "4004",
+     "resource_url": "https://api.discogs.com/artists/3788362",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B1",
+   "title": "Part1, Part 2_More",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 6206443,
+     "join": "",
+     "name": "Nico Saav",
+     "resource_url": "https://api.discogs.com/artists/6206443",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B2",
+   "title": "Can't Do My Thing",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4898816,
+     "join": "",
+     "name": "Discoholycs",
+     "resource_url": "https://api.discogs.com/artists/4898816",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B3",
+   "title": "Anje Uiatbasq",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11326382-Various-Nomada-White",
+ "year": 2017
+}

@@ -1,0 +1,306 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3446218,
+   "join": "",
+   "name": "Sons Of Kemet",
+   "resource_url": "https://api.discogs.com/artists/3446218",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/6Lx6X-uxjV1ML1F9DKiDlqUqb3cuv6L63T6VsTHOf7o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM0NDYy/MTgtMTU1MTE3MjQy/NC05MTE5LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": null,
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 11770803,
+ "images": [
+  {
+   "height": 597,
+   "resource_url": "https://i.discogs.com/TEMicZvLzJfYoS9_Joia7p8MtGnzv6H2Y87emhtJXsc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzcw/ODAzLTE1MjM4ODYz/OTgtMjQ3NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/TEMicZvLzJfYoS9_Joia7p8MtGnzv6H2Y87emhtJXsc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzcw/ODAzLTE1MjM4ODYz/OTgtMjQ3NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/9jO1r4UQiok8pK_u-DFs6gb__0QqVJk_Ohg22kAWx54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzcw/ODAzLTE1MjM4ODYz/OTgtMjQ3NC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "B0027970-01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 26557,
+   "name": "Impulse!",
+   "resource_url": "https://api.discogs.com/labels/26557",
+   "thumbnail_url": "https://i.discogs.com/VxE3oj0Ev8PD2LXI_QobC-ZHHKY0y4oNkIQ4DwsAxEY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTU3/LTE1ODkxNTM2MDUt/NzgzNS5qcGVn.jpeg"
+  },
+  {
+   "catno": "B0027970-01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 5041,
+   "name": "Verve Records",
+   "resource_url": "https://api.discogs.com/labels/5041",
+   "thumbnail_url": "https://i.discogs.com/StaPAeok9YUVPpJJ6pknP4YjM-B6keqW7xwnlYUhq8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUwNDEt/MTYwMDc3NjI3OC0x/MTIyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Packaged in a gatefold sleeve. Includes download code (16/44.1 WAV). Limited copies purchased via Resident are signed. \n(The labels for side A or side B are switched on some copies.) \n\nRecorded at Total Refreshment Centre, London, UK (tracks A1, A2, B2, B3, C1, & D2), and Livingstone Studios, London, UK (tracks B1, C2, & D1). \nMixed at The Crush E14, London, UK. Mastered at Electric Mastering, London, UK. \n\nⓅ © 2018 Verve Label Group, a division of UMG Recordings, Inc.",
+ "released": "2018-03-30",
+ "styles": [
+  "Afrobeat",
+  "Contemporary Jazz",
+  "Free Improvisation",
+  "Avant-garde Jazz"
+ ],
+ "title": "Your Queen Is A Reptile",
+ "tracklist": [
+  {
+   "duration": "6:41",
+   "extraartists": [
+    {
+     "anv": "Seb Rochford",
+     "id": 368046,
+     "join": "",
+     "name": "Sebastian Rochford",
+     "resource_url": "https://api.discogs.com/artists/368046",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2859814,
+     "join": "",
+     "name": "Joshua Idehen",
+     "resource_url": "https://api.discogs.com/artists/2859814",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "My Queen Is Ada Eastman",
+   "type_": "track"
+  },
+  {
+   "duration": "5:31",
+   "extraartists": [
+    {
+     "anv": "Seb Rochford",
+     "id": 368046,
+     "join": "",
+     "name": "Sebastian Rochford",
+     "resource_url": "https://api.discogs.com/artists/368046",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 36180,
+     "join": "",
+     "name": "Congo Natty",
+     "resource_url": "https://api.discogs.com/artists/36180",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "My Queen Is Mamie Phipps Clark",
+   "type_": "track"
+  },
+  {
+   "duration": "5:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2815332,
+     "join": "",
+     "name": "Eddie Hick",
+     "resource_url": "https://api.discogs.com/artists/2815332",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4316913,
+     "join": "",
+     "name": "Moses Boyd",
+     "resource_url": "https://api.discogs.com/artists/4316913",
+     "role": "Drums",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "My Queen Is Harriet Tubman",
+   "type_": "track"
+  },
+  {
+   "duration": "5:07",
+   "extraartists": [
+    {
+     "anv": "Seb Rochford",
+     "id": 368046,
+     "join": "",
+     "name": "Sebastian Rochford",
+     "resource_url": "https://api.discogs.com/artists/368046",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 416553,
+     "join": "",
+     "name": "Pete Wareham",
+     "resource_url": "https://api.discogs.com/artists/416553",
+     "role": "Saxophone",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "My Queen Is Anna Julia Cooper",
+   "type_": "track"
+  },
+  {
+   "duration": "6:35",
+   "extraartists": [
+    {
+     "anv": "Seb Rochford",
+     "id": 368046,
+     "join": "",
+     "name": "Sebastian Rochford",
+     "resource_url": "https://api.discogs.com/artists/368046",
+     "role": "Drums",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "My Queen Is Angela Davis",
+   "type_": "track"
+  },
+  {
+   "duration": "6:44",
+   "extraartists": [
+    {
+     "anv": "Seb Rochford",
+     "id": 368046,
+     "join": "",
+     "name": "Sebastian Rochford",
+     "resource_url": "https://api.discogs.com/artists/368046",
+     "role": "Drums",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "My Queen Is Nanny Of The Maroons",
+   "type_": "track"
+  },
+  {
+   "duration": "7:04",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2815332,
+     "join": "",
+     "name": "Eddie Hick",
+     "resource_url": "https://api.discogs.com/artists/2815332",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4316913,
+     "join": "",
+     "name": "Moses Boyd",
+     "resource_url": "https://api.discogs.com/artists/4316913",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5261803,
+     "join": "",
+     "name": "Nubya Garcia",
+     "resource_url": "https://api.discogs.com/artists/5261803",
+     "role": "Saxophone",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "My Queen Is Yaa Asantewaa",
+   "type_": "track"
+  },
+  {
+   "duration": "5:20",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2815332,
+     "join": "",
+     "name": "Eddie Hick",
+     "resource_url": "https://api.discogs.com/artists/2815332",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4316913,
+     "join": "",
+     "name": "Moses Boyd",
+     "resource_url": "https://api.discogs.com/artists/4316913",
+     "role": "Drums",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "My Queen Is Albertina Sisulu",
+   "type_": "track"
+  },
+  {
+   "duration": "6:52",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2490062,
+     "join": "",
+     "name": "Maxwell Hallett",
+     "resource_url": "https://api.discogs.com/artists/2490062",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "Seb Rochford",
+     "id": 368046,
+     "join": "",
+     "name": "Sebastian Rochford",
+     "resource_url": "https://api.discogs.com/artists/368046",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2859814,
+     "join": "",
+     "name": "Joshua Idehen",
+     "resource_url": "https://api.discogs.com/artists/2859814",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "My Queen Is Doreen Lawrence",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11770803-Sons-Of-Kemet-Your-Queen-Is-A-Reptile",
+ "year": 2018
+}

@@ -1,0 +1,131 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4819528,
+   "join": "",
+   "name": "Joe Armon-Jones",
+   "resource_url": "https://api.discogs.com/artists/4819528",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/F-b_CvsEG1mOfxXu3XQeGGtYNjm4RMAU1Iwsqxj-S0I/rs:fit/g:sm/q:90/h:600/w:398/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4MTk1/MjgtMTU0MDAyNDI5/OC0xNzM0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "10\"",
+    "45 RPM",
+    "Single",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Funk / Soul"
+ ],
+ "id": 13798110,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/9xkhQepV8RDRR3doOd86_NL8RefQHUUk4ojkIUm_2aI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk4/MTEwLTE1NjEzODQ3/NzItNzEwMy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/9xkhQepV8RDRR3doOd86_NL8RefQHUUk4ojkIUm_2aI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk4/MTEwLTE1NjEzODQ3/NzItNzEwMy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/V2a6gTkaurhQZ9P2CEElo2FSR2wdKCGhtN2oFZFT4cQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk4/MTEwLTE1NjEzODQ3/NzItNzEwMy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BWOOD0211",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 62136,
+   "name": "Brownswood Recordings",
+   "resource_url": "https://api.discogs.com/labels/62136",
+   "thumbnail_url": "https://i.discogs.com/udXpMPeMKu_TSb4VTKwXY3ICFOvikTMwNAymitHJSEM/rs:fit/g:sm/q:90/h:268/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYyMTM2/LTE2NjM4Nzg5MTAt/OTk4Ni5wbmc.jpeg"
+  }
+ ],
+ "notes": "Limited edition of 2000. \"Aquarius\" is exclusive to the 10\" vinyl.",
+ "released": "2019-06-04",
+ "styles": [],
+ "title": "Icy Roads (Stacked)",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6264167,
+     "join": "",
+     "name": "Mutale Chashi",
+     "resource_url": "https://api.discogs.com/artists/6264167",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3899522,
+     "join": "",
+     "name": "Kwake Bass",
+     "resource_url": "https://api.discogs.com/artists/3899522",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4819528,
+     "join": "",
+     "name": "Joe Armon-Jones",
+     "resource_url": "https://api.discogs.com/artists/4819528",
+     "role": "Organ [Wurlitzer], Piano, Synthesizer, Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6019671,
+     "join": "",
+     "name": "Maxwell Owin",
+     "resource_url": "https://api.discogs.com/artists/6019671",
+     "role": "Producer [Additional Production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6919242,
+     "join": "",
+     "name": "Luke Newman",
+     "resource_url": "https://api.discogs.com/artists/6919242",
+     "role": "Vocals [Additional Outro Vocals]",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "Icy Roads (Stacked)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4819528,
+     "join": "",
+     "name": "Joe Armon-Jones",
+     "resource_url": "https://api.discogs.com/artists/4819528",
+     "role": "Producer, Keyboards, Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B",
+   "title": "Aquarius",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13798110-Joe-Armon-Jones-Icy-Roads-Stacked",
+ "year": 2019
+}

@@ -1,0 +1,253 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 48439,
+   "join": "",
+   "name": "Skull Snaps",
+   "resource_url": "https://api.discogs.com/artists/48439",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/p14darZzver_MEiSwqUTcSdnlPpjsx71fFBdRrMW62g/rs:fit/g:sm/q:90/h:500/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4NDM5/LTE1ODI2NDYwNzAt/Mjk0MC5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Funk / Soul"
+ ],
+ "id": 1165115,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/U4O-j1vOWTfmTAAwT5yqrrrWL91bhBv7zE6Xo5JHbH4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUx/MTUtMTQxMzI4ODEw/MC03NTgwLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/U4O-j1vOWTfmTAAwT5yqrrrWL91bhBv7zE6Xo5JHbH4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUx/MTUtMTQxMzI4ODEw/MC03NTgwLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/ax7pvPdxtnHxfzRqGKoHYMXYFes5IyzDcdKH4Pskv0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUx/MTUtMTQxMzI4ODEw/MC03NTgwLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "GSF-S-1011",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 51074,
+   "name": "GSF Records",
+   "resource_url": "https://api.discogs.com/labels/51074",
+   "thumbnail_url": "https://i.discogs.com/k6pkAxkMdU7FuKXFfBwG6jw9mjdJXbe1ozNDzxc2ozo/rs:fit/g:sm/q:90/h:158/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUxMDc0/LTEzNDI4NTkyMTkt/MjY0Mi5qcGVn.jpeg"
+  }
+ ],
+ "notes": "\n\nRecorded at Venture Sound Studios, Somerville, NJ.\n\nPublishers:\nA1, B1: Access Music Corp. - Lori Joy Music - Wesaline Music (BMI)\nA2, A5: Gambi Music (BMI)\nA3, A4, B2, B4: Access Music Corp. - Mark Shawn Music (BMI)\nB3: Cudda-Pane (BMI)\n\nGatefold sleeve",
+ "released": null,
+ "styles": [
+  "Soul",
+  "Funk",
+  "Psychedelic"
+ ],
+ "title": "Skull Snaps",
+ "tracklist": [
+  {
+   "duration": "4:02",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1082290,
+     "join": "",
+     "name": "Wesaline Kerr",
+     "resource_url": "https://api.discogs.com/artists/1082290",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "My Hang Up Is You",
+   "type_": "track"
+  },
+  {
+   "duration": "4:30",
+   "extraartists": [
+    {
+     "anv": "D. Smith",
+     "id": 403098,
+     "join": "",
+     "name": "Dawson Smith",
+     "resource_url": "https://api.discogs.com/artists/403098",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Having You Around",
+   "type_": "track"
+  },
+  {
+   "duration": "3:15",
+   "extraartists": [
+    {
+     "anv": "E. Waters",
+     "id": 1389929,
+     "join": "",
+     "name": "Ervan Waters",
+     "resource_url": "https://api.discogs.com/artists/1389929",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Culley",
+     "id": 272613,
+     "join": "",
+     "name": "Samm Culley",
+     "resource_url": "https://api.discogs.com/artists/272613",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Didn't I Do It To You",
+   "type_": "track"
+  },
+  {
+   "duration": "3:23",
+   "extraartists": [
+    {
+     "anv": "E. Waters",
+     "id": 1389929,
+     "join": "",
+     "name": "Ervan Waters",
+     "resource_url": "https://api.discogs.com/artists/1389929",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Culley",
+     "id": 272613,
+     "join": "",
+     "name": "Samm Culley",
+     "resource_url": "https://api.discogs.com/artists/272613",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "All Of A Sudden",
+   "type_": "track"
+  },
+  {
+   "duration": "3:04",
+   "extraartists": [
+    {
+     "anv": "I. Woods",
+     "id": 1671801,
+     "join": "",
+     "name": "Ineffie Woods",
+     "resource_url": "https://api.discogs.com/artists/1671801",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "It's A New Day",
+   "type_": "track"
+  },
+  {
+   "duration": "4:03",
+   "extraartists": [
+    {
+     "anv": "G. Kerr",
+     "id": 189456,
+     "join": "",
+     "name": "George Kerr",
+     "resource_url": "https://api.discogs.com/artists/189456",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "I'm Your Pimp",
+   "type_": "track"
+  },
+  {
+   "duration": "2:45",
+   "extraartists": [
+    {
+     "anv": "E. Waters",
+     "id": 1389929,
+     "join": "",
+     "name": "Ervan Waters",
+     "resource_url": "https://api.discogs.com/artists/1389929",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Culley",
+     "id": 272613,
+     "join": "",
+     "name": "Samm Culley",
+     "resource_url": "https://api.discogs.com/artists/272613",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "I Turn My Back On Love",
+   "type_": "track"
+  },
+  {
+   "duration": "4:03",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 230597,
+     "join": "",
+     "name": "Dutch Robinson",
+     "resource_url": "https://api.discogs.com/artists/230597",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Trespassing",
+   "type_": "track"
+  },
+  {
+   "duration": "2:46",
+   "extraartists": [
+    {
+     "anv": "E. Waters",
+     "id": 1389929,
+     "join": "",
+     "name": "Ervan Waters",
+     "resource_url": "https://api.discogs.com/artists/1389929",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Culley",
+     "id": 272613,
+     "join": "",
+     "name": "Samm Culley",
+     "resource_url": "https://api.discogs.com/artists/272613",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "I'm Falling Out Of Love",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/1165115-Skull-Snaps-Skull-Snaps",
+ "year": 0
+}

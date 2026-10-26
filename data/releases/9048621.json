@@ -1,0 +1,98 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1332877,
+   "join": "",
+   "name": "Rufus (6)",
+   "resource_url": "https://api.discogs.com/artists/1332877",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/SVU-gSbOUe8b0UVGuEohOyg2Fe1mEoz3M2OTSSlHwHY/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzMzI4/NzctMTM5MTQ1ODkw/OC00MTUxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Handmade Sleeve"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 9048621,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/prtEvIxFX3ZegQIEx1wN7hE-GVhLcfcHmElSYtPbC8w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDg2/MjEtMTQ3NDI5MTgy/MC03MTM0LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/prtEvIxFX3ZegQIEx1wN7hE-GVhLcfcHmElSYtPbC8w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDg2/MjEtMTQ3NDI5MTgy/MC03MTM0LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/H1AV2AkXf5AT894d93wFTNyYzUpLIJe0SX82cOhAaAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDg2/MjEtMTQ3NDI5MTgy/MC03MTM0LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BR002",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 977392,
+   "name": "Basse Resolution",
+   "resource_url": "https://api.discogs.com/labels/977392",
+   "thumbnail_url": "https://i.discogs.com/wBSSPajdCK_oKB5nkhzIf1n44Sh66ArqV5zwCx9U20c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk3NzM5/Mi0xNDU3MTI4NjQw/LTkwNDEuanBlZw.jpeg"
+  }
+ ],
+ "notes": "Limited Edition - 300 copies\n\nComes with original handmade sleeve and 16-page booklet.",
+ "released": "2016-11-04",
+ "styles": [
+  "House"
+ ],
+ "title": "Wildflowers",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Wildflowers",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Rodha's Groove",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3908126,
+     "join": "",
+     "name": "Leo Pol",
+     "resource_url": "https://api.discogs.com/artists/3908126",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Wildflowers (Leo Pol Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Out the Numbers",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/9048621-Rufus-6-Wildflowers",
+ "year": 2016
+}

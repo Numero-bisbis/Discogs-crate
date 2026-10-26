@@ -1,0 +1,211 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 25058,
+   "join": "",
+   "name": "MF Doom",
+   "resource_url": "https://api.discogs.com/artists/25058",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/UXQdslMrhvvxcry9erdk_iLoTW-IKoQApZglKpNf5is/rs:fit/g:sm/q:90/h:600/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MDU4/LTE2MjQ4MjAxMzAt/MTY5Ni5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Green"
+  },
+  {
+   "descriptions": [
+    "LP"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Pink"
+  },
+  {
+   "descriptions": [
+    "Album",
+    "Reissue",
+    "Repress"
+   ],
+   "name": "All Media",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 15724598,
+ "images": [
+  {
+   "height": 596,
+   "resource_url": "https://i.discogs.com/IZ_duZiWeqpXB0kHH71LNodDec-aQFlj6BvViHWAWgM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI0/NTk4LTE2MjgyMzI3/NjAtOTIzMi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/IZ_duZiWeqpXB0kHH71LNodDec-aQFlj6BvViHWAWgM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI0/NTk4LTE2MjgyMzI3/NjAtOTIzMi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/woZC4wTICrZBIyp6cqxSzUodQhmiKHW8CXO58lzLX6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI0/NTk4LTE2MjgyMzI3/NjAtOTIzMi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RSE0084-1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 8201,
+   "name": "Rhymesayers Entertainment",
+   "resource_url": "https://api.discogs.com/labels/8201",
+   "thumbnail_url": "https://i.discogs.com/zjzf9PQj6pk8i-4nm_lgl8TpZa76pHWPCd2nMnHXLwU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgyMDEt/MTUwMjYyOTQ3MC02/NTI4LnBuZw.jpeg"
+  }
+ ],
+ "notes": "Packaged in a tip-on gatefold sleeve. LP1 is pressed on green & LP2 is pressed on pink coloured vinyl. Includes download card.\n\nRe-pressed with masters previously used for [r=12114726]\n\nTracks numbered sequentially.\n\nRunouts are stamped.",
+ "released": "2020",
+ "styles": [
+  "Conscious",
+  "Jazzy Hip-Hop",
+  "Boom Bap"
+ ],
+ "title": "MM..Food",
+ "tracklist": [
+  {
+   "duration": "4:39",
+   "position": "A1",
+   "title": "Beef Rapp",
+   "type_": "track"
+  },
+  {
+   "duration": "3:54",
+   "position": "A2",
+   "title": "Hoe Cakes",
+   "type_": "track"
+  },
+  {
+   "duration": "3:20",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 104746,
+     "join": "",
+     "name": "Count Bass D",
+     "resource_url": "https://api.discogs.com/artists/104746",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Potholderz",
+   "type_": "track"
+  },
+  {
+   "duration": "4:18",
+   "position": "B4",
+   "title": "One Beer",
+   "type_": "track"
+  },
+  {
+   "duration": "4:59",
+   "position": "B5",
+   "title": "Deep Fried Frenz",
+   "type_": "track"
+  },
+  {
+   "duration": "1:13",
+   "position": "B6",
+   "title": "Poo-Putt Platter",
+   "type_": "track"
+  },
+  {
+   "duration": "1:03",
+   "position": "B7",
+   "title": "Fillet-O-Rapper",
+   "type_": "track"
+  },
+  {
+   "duration": "0:49",
+   "position": "B8",
+   "title": "Gumbo",
+   "type_": "track"
+  },
+  {
+   "duration": "3:19",
+   "position": "C9",
+   "title": "Fig Leaf Bi-Carbonate",
+   "type_": "track"
+  },
+  {
+   "duration": "2:51",
+   "position": "C10",
+   "title": "Kon Karne",
+   "type_": "track"
+  },
+  {
+   "duration": "4:41",
+   "extraartists": [
+    {
+     "anv": "4ize",
+     "id": 133868,
+     "join": "",
+     "name": "4-Ize",
+     "resource_url": "https://api.discogs.com/artists/133868",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 241044,
+     "join": "",
+     "name": "Angelika",
+     "resource_url": "https://api.discogs.com/artists/241044",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C11",
+   "title": "Guinnesses",
+   "type_": "track"
+  },
+  {
+   "duration": "4:00",
+   "position": "D12",
+   "title": "Kon Queso",
+   "type_": "track"
+  },
+  {
+   "duration": "2:52",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 117240,
+     "join": "",
+     "name": "Mr. Fantastik",
+     "resource_url": "https://api.discogs.com/artists/117240",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D13",
+   "title": "Rapp Snitch Knishes",
+   "type_": "track"
+  },
+  {
+   "duration": "2:48",
+   "position": "D14",
+   "title": "Vomitspit",
+   "type_": "track"
+  },
+  {
+   "duration": "4:02",
+   "position": "D15",
+   "title": "Kookies",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15724598-MF-Doom-MMFood",
+ "year": 2020
+}

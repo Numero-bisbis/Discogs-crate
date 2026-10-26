@@ -1,0 +1,1706 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 9686557,
+   "join": "",
+   "name": "Olivia Dean",
+   "resource_url": "https://api.discogs.com/artists/9686557",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/S1qbJbzJMxBu0DY7kzwehm5Uies7g5LKmHR2KSR40n0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk2ODY1/NTctMTczNTkwNjQz/Mi01MDc5LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Funk / Soul",
+  "Pop"
+ ],
+ "id": 35207368,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/jkcr-JFQkbkDb2y6T-a2OJunee2x1bxjv34TiN6qEDk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA3/MzY4LTE3NjA3OTk5/MzgtNjU1MC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/jkcr-JFQkbkDb2y6T-a2OJunee2x1bxjv34TiN6qEDk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA3/MzY4LTE3NjA3OTk5/MzgtNjU1MC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/frlDG9neALJDb2dYjGHD-t_HE5fy2cDpj0ltqT763WI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA3/MzY4LTE3NjA3OTk5/MzgtNjU1MC5qcGVn.jpeg",
+   "width": 596
+  }
+ ],
+ "labels": [
+  {
+   "catno": "602478163326-A",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 654,
+   "name": "Capitol Records",
+   "resource_url": "https://api.discogs.com/labels/654",
+   "thumbnail_url": "https://i.discogs.com/jOm50Ncnop3VOhKg0rYbdvq7epxn5mnXdOWfVQNjOBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1NC0x/NzgxODU0Mzk3LTU2/MzcuanBlZw.jpeg"
+  }
+ ],
+ "notes": "Includes a 14-page booklet with lyrics and photographs of the recording process.\n\nSticker on wrapper says “Made in Germany”. ",
+ "released": "2025-09-26",
+ "styles": [
+  "Indie Pop",
+  "Neo Soul"
+ ],
+ "title": "The Art Of Loving",
+ "tracklist": [
+  {
+   "duration": "0:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Effects, Programmed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4906083,
+     "join": "",
+     "name": "Bastian Langebæk",
+     "resource_url": "https://api.discogs.com/artists/4906083",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4906083,
+     "join": "",
+     "name": "Bastian Langebæk",
+     "resource_url": "https://api.discogs.com/artists/4906083",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Producer [Additional production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Producer [Additional production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4906083,
+     "join": "",
+     "name": "Bastian Langebæk",
+     "resource_url": "https://api.discogs.com/artists/4906083",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "The Art of Loving",
+   "type_": "track"
+  },
+  {
+   "duration": "3:29",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 10964651,
+     "join": "",
+     "name": "Daniel Rogerson",
+     "resource_url": "https://api.discogs.com/artists/10964651",
+     "role": "Acoustic Guitar, Electric Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10964651,
+     "join": "",
+     "name": "Daniel Rogerson",
+     "resource_url": "https://api.discogs.com/artists/10964651",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 13315386,
+     "join": "",
+     "name": "Finn Zeferino-Birchall",
+     "resource_url": "https://api.discogs.com/artists/13315386",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6537600,
+     "join": "",
+     "name": "Joel Waters",
+     "resource_url": "https://api.discogs.com/artists/6537600",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 13315386,
+     "join": "",
+     "name": "Finn Zeferino-Birchall",
+     "resource_url": "https://api.discogs.com/artists/13315386",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Bass, Electric Guitar, Lap Steel Guitar, Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6414829,
+     "join": "",
+     "name": "Dan Ewins",
+     "resource_url": "https://api.discogs.com/artists/6414829",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 11037281,
+     "join": "",
+     "name": "Adele Phillips",
+     "resource_url": "https://api.discogs.com/artists/11037281",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 16099713,
+     "join": "",
+     "name": "Jan Trafas",
+     "resource_url": "https://api.discogs.com/artists/16099713",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6537600,
+     "join": "",
+     "name": "Joel Waters",
+     "resource_url": "https://api.discogs.com/artists/6537600",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7353011,
+     "join": "",
+     "name": "Deschanel Gordon",
+     "resource_url": "https://api.discogs.com/artists/7353011",
+     "role": "Piano, Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Vocals, Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 195541,
+     "join": "",
+     "name": "Matt Hales",
+     "resource_url": "https://api.discogs.com/artists/195541",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Nice To Each Other",
+   "type_": "track"
+  },
+  {
+   "duration": "3:29",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 13315386,
+     "join": "",
+     "name": "Finn Zeferino-Birchall",
+     "resource_url": "https://api.discogs.com/artists/13315386",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 308964,
+     "join": "",
+     "name": "Leon Michels",
+     "resource_url": "https://api.discogs.com/artists/308964",
+     "role": "Bass, Guitar, Acoustic Guitar, Keyboards, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307876,
+     "join": "",
+     "name": "Homer Steinweiss",
+     "resource_url": "https://api.discogs.com/artists/307876",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Drums [Additional], Percussion [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 13336143,
+     "join": "",
+     "name": "Austin Christy",
+     "resource_url": "https://api.discogs.com/artists/13336143",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 16099713,
+     "join": "",
+     "name": "Jan Trafas",
+     "resource_url": "https://api.discogs.com/artists/16099713",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 195541,
+     "join": "",
+     "name": "Matt Hales",
+     "resource_url": "https://api.discogs.com/artists/195541",
+     "role": "Keyboards, Synth, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 308964,
+     "join": "",
+     "name": "Leon Michels",
+     "resource_url": "https://api.discogs.com/artists/308964",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 195541,
+     "join": "",
+     "name": "Matt Hales",
+     "resource_url": "https://api.discogs.com/artists/195541",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Producer [Additional production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Producer [Vocal production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 8683105,
+     "join": "",
+     "name": "Jermaine Amissah",
+     "resource_url": "https://api.discogs.com/artists/8683105",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6975325,
+     "join": "",
+     "name": "Joe Bristow",
+     "resource_url": "https://api.discogs.com/artists/6975325",
+     "role": "Trombone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6734886,
+     "join": "",
+     "name": "Jack Banjo Courtney",
+     "resource_url": "https://api.discogs.com/artists/6734886",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Vocals, Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307876,
+     "join": "",
+     "name": "Homer Steinweiss",
+     "resource_url": "https://api.discogs.com/artists/307876",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 308964,
+     "join": "",
+     "name": "Leon Michels",
+     "resource_url": "https://api.discogs.com/artists/308964",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 195541,
+     "join": "",
+     "name": "Matt Hales",
+     "resource_url": "https://api.discogs.com/artists/195541",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Lady Lady",
+   "type_": "track"
+  },
+  {
+   "duration": "3:15",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 10964651,
+     "join": "",
+     "name": "Daniel Rogerson",
+     "resource_url": "https://api.discogs.com/artists/10964651",
+     "role": "Acoustic Guitar, Electric Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4906083,
+     "join": "",
+     "name": "Bastian Langebæk",
+     "resource_url": "https://api.discogs.com/artists/4906083",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10964651,
+     "join": "",
+     "name": "Daniel Rogerson",
+     "resource_url": "https://api.discogs.com/artists/10964651",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7353011,
+     "join": "",
+     "name": "Deschanel Gordon",
+     "resource_url": "https://api.discogs.com/artists/7353011",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 13315386,
+     "join": "",
+     "name": "Finn Zeferino-Birchall",
+     "resource_url": "https://api.discogs.com/artists/13315386",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6537600,
+     "join": "",
+     "name": "Joel Waters",
+     "resource_url": "https://api.discogs.com/artists/6537600",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 13315386,
+     "join": "",
+     "name": "Finn Zeferino-Birchall",
+     "resource_url": "https://api.discogs.com/artists/13315386",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7235933,
+     "join": "",
+     "name": "Matt Zara",
+     "resource_url": "https://api.discogs.com/artists/7235933",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6537600,
+     "join": "",
+     "name": "Joel Waters",
+     "resource_url": "https://api.discogs.com/artists/6537600",
+     "role": "Congas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7235933,
+     "join": "",
+     "name": "Matt Zara",
+     "resource_url": "https://api.discogs.com/artists/7235933",
+     "role": "Drums [Additional], Percussion, Bass, Electric Guitar, Piano, Flute, Vibraphone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Drums, Synth",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 16099713,
+     "join": "",
+     "name": "Jan Trafas",
+     "resource_url": "https://api.discogs.com/artists/16099713",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7353011,
+     "join": "",
+     "name": "Deschanel Gordon",
+     "resource_url": "https://api.discogs.com/artists/7353011",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Organ",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4906083,
+     "join": "",
+     "name": "Bastian Langebæk",
+     "resource_url": "https://api.discogs.com/artists/4906083",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3280675,
+     "join": "",
+     "name": "John Ryan (17)",
+     "resource_url": "https://api.discogs.com/artists/3280675",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 425997,
+     "join": "",
+     "name": "Julian Bunetta",
+     "resource_url": "https://api.discogs.com/artists/425997",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7235933,
+     "join": "",
+     "name": "Matt Zara",
+     "resource_url": "https://api.discogs.com/artists/7235933",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4906083,
+     "join": "",
+     "name": "Bastian Langebæk",
+     "resource_url": "https://api.discogs.com/artists/4906083",
+     "role": "Producer [Additional production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Producer [Additional production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Producer [Vocal Production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 8683105,
+     "join": "",
+     "name": "Jermaine Amissah",
+     "resource_url": "https://api.discogs.com/artists/8683105",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6975325,
+     "join": "",
+     "name": "Joe Bristow",
+     "resource_url": "https://api.discogs.com/artists/6975325",
+     "role": "Trombone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6734886,
+     "join": "",
+     "name": "Jack Banjo Courtney",
+     "resource_url": "https://api.discogs.com/artists/6734886",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4906083,
+     "join": "",
+     "name": "Bastian Langebæk",
+     "resource_url": "https://api.discogs.com/artists/4906083",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Close Up",
+   "type_": "track"
+  },
+  {
+   "duration": "2:49",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 425997,
+     "join": "",
+     "name": "Julian Bunetta",
+     "resource_url": "https://api.discogs.com/artists/425997",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Drums [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3280675,
+     "join": "",
+     "name": "John Ryan (17)",
+     "resource_url": "https://api.discogs.com/artists/3280675",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3280675,
+     "join": "",
+     "name": "John Ryan (17)",
+     "resource_url": "https://api.discogs.com/artists/3280675",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 425997,
+     "join": "",
+     "name": "Julian Bunetta",
+     "resource_url": "https://api.discogs.com/artists/425997",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6537357,
+     "join": "",
+     "name": "Amy Allen (3)",
+     "resource_url": "https://api.discogs.com/artists/6537357",
+     "role": "Producer [Additional Production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Producer [Vocal Production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Vocals, Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6537357,
+     "join": "",
+     "name": "Amy Allen (3)",
+     "resource_url": "https://api.discogs.com/artists/6537357",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3280675,
+     "join": "",
+     "name": "John Ryan (17)",
+     "resource_url": "https://api.discogs.com/artists/3280675",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "So Easy (To Fall In Love)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:06",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7353011,
+     "join": "",
+     "name": "Deschanel Gordon",
+     "resource_url": "https://api.discogs.com/artists/7353011",
+     "role": "Arranged By [Piano Arrangement]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10964651,
+     "join": "",
+     "name": "Daniel Rogerson",
+     "resource_url": "https://api.discogs.com/artists/10964651",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7353011,
+     "join": "",
+     "name": "Deschanel Gordon",
+     "resource_url": "https://api.discogs.com/artists/7353011",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 13315386,
+     "join": "",
+     "name": "Finn Zeferino-Birchall",
+     "resource_url": "https://api.discogs.com/artists/13315386",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6537600,
+     "join": "",
+     "name": "Joel Waters",
+     "resource_url": "https://api.discogs.com/artists/6537600",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 13315386,
+     "join": "",
+     "name": "Finn Zeferino-Birchall",
+     "resource_url": "https://api.discogs.com/artists/13315386",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7467631,
+     "join": "",
+     "name": "Eric Hagstrom",
+     "resource_url": "https://api.discogs.com/artists/7467631",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7353011,
+     "join": "",
+     "name": "Deschanel Gordon",
+     "resource_url": "https://api.discogs.com/artists/7353011",
+     "role": "Electric Piano [Wurlitzer], Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 16099713,
+     "join": "",
+     "name": "Jan Trafas",
+     "resource_url": "https://api.discogs.com/artists/16099713",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10964651,
+     "join": "",
+     "name": "Daniel Rogerson",
+     "resource_url": "https://api.discogs.com/artists/10964651",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3280675,
+     "join": "",
+     "name": "John Ryan (17)",
+     "resource_url": "https://api.discogs.com/artists/3280675",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 425997,
+     "join": "",
+     "name": "Julian Bunetta",
+     "resource_url": "https://api.discogs.com/artists/425997",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7235933,
+     "join": "",
+     "name": "Matt Zara",
+     "resource_url": "https://api.discogs.com/artists/7235933",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Producer [Vocal Production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Programmed By [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 8683105,
+     "join": "",
+     "name": "Jermaine Amissah",
+     "resource_url": "https://api.discogs.com/artists/8683105",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6537600,
+     "join": "",
+     "name": "Joel Waters",
+     "resource_url": "https://api.discogs.com/artists/6537600",
+     "role": "Tambourine",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6975325,
+     "join": "",
+     "name": "Joe Bristow",
+     "resource_url": "https://api.discogs.com/artists/6975325",
+     "role": "Trombone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6734886,
+     "join": "",
+     "name": "Jack Banjo Courtney",
+     "resource_url": "https://api.discogs.com/artists/6734886",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4906083,
+     "join": "",
+     "name": "Bastian Langebæk",
+     "resource_url": "https://api.discogs.com/artists/4906083",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7353011,
+     "join": "",
+     "name": "Deschanel Gordon",
+     "resource_url": "https://api.discogs.com/artists/7353011",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Let Alone The One You Love",
+   "type_": "track"
+  },
+  {
+   "duration": "3:04",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4486100,
+     "join": "",
+     "name": "Tobias Jesso Jr.",
+     "resource_url": "https://api.discogs.com/artists/4486100",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Bass, Electric Guitar, Synth, Drums, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Producer, Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Vocals, Piano, Keyboards, Synth",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4486100,
+     "join": "",
+     "name": "Tobias Jesso Jr.",
+     "resource_url": "https://api.discogs.com/artists/4486100",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Man I Need",
+   "type_": "track"
+  },
+  {
+   "duration": "2:32",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 13315386,
+     "join": "",
+     "name": "Finn Zeferino-Birchall",
+     "resource_url": "https://api.discogs.com/artists/13315386",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10964651,
+     "join": "",
+     "name": "Daniel Rogerson",
+     "resource_url": "https://api.discogs.com/artists/10964651",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Producer [Vocal Production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Producer, Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Synth, Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Vocals, Backing Vocals, Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2796291,
+     "join": "",
+     "name": "Nolan Lambroza",
+     "resource_url": "https://api.discogs.com/artists/2796291",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4486100,
+     "join": "",
+     "name": "Tobias Jesso Jr.",
+     "resource_url": "https://api.discogs.com/artists/4486100",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Something Inbetween",
+   "type_": "track"
+  },
+  {
+   "duration": "3:04",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 10246006,
+     "join": "",
+     "name": "Ollie Clark (2)",
+     "resource_url": "https://api.discogs.com/artists/10246006",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Piano, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4906083,
+     "join": "",
+     "name": "Bastian Langebæk",
+     "resource_url": "https://api.discogs.com/artists/4906083",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Producer [Additional production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4906083,
+     "join": "",
+     "name": "Bastian Langebæk",
+     "resource_url": "https://api.discogs.com/artists/4906083",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Loud",
+   "type_": "track"
+  },
+  {
+   "duration": "3:17",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Congas, Percussion, Piano, Bass, Electric Guitar, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4906083,
+     "join": "",
+     "name": "Bastian Langebæk",
+     "resource_url": "https://api.discogs.com/artists/4906083",
+     "role": "Drum Programming, Electric Piano [Wurlitzer], Electric Piano [Rhodes], Organ, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Guitar, Effects",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4906083,
+     "join": "",
+     "name": "Bastian Langebæk",
+     "resource_url": "https://api.discogs.com/artists/4906083",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Producer [Additional production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Producer [Additional production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Vocals, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4906083,
+     "join": "",
+     "name": "Bastian Langebæk",
+     "resource_url": "https://api.discogs.com/artists/4906083",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Baby Steps",
+   "type_": "track"
+  },
+  {
+   "duration": "3:32",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Drums, Sampler [Programming]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Producer, Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1901700,
+     "join": "",
+     "name": "Maverick Sabre",
+     "resource_url": "https://api.discogs.com/artists/1901700",
+     "role": "Vocals [Additional], Backing Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Vocals, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "James A. Hawkins",
+     "id": 1014932,
+     "join": "",
+     "name": "Gus Hawkins",
+     "resource_url": "https://api.discogs.com/artists/1014932",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Louis E. Ragland",
+     "id": 391210,
+     "join": "",
+     "name": "Lou Ragland",
+     "resource_url": "https://api.discogs.com/artists/391210",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1901700,
+     "join": "",
+     "name": "Maverick Sabre",
+     "resource_url": "https://api.discogs.com/artists/1901700",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "A Couple Minutes",
+   "type_": "track"
+  },
+  {
+   "duration": "2:06",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4694349,
+     "join": "",
+     "name": "Zach Nahome",
+     "resource_url": "https://api.discogs.com/artists/4694349",
+     "role": "Effects [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Guitar, Synth",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4906083,
+     "join": "",
+     "name": "Bastian Langebæk",
+     "resource_url": "https://api.discogs.com/artists/4906083",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4906083,
+     "join": "",
+     "name": "Bastian Langebæk",
+     "resource_url": "https://api.discogs.com/artists/4906083",
+     "role": "Synth",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4906083,
+     "join": "",
+     "name": "Bastian Langebæk",
+     "resource_url": "https://api.discogs.com/artists/4906083",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6943551,
+     "join": "",
+     "name": "Max Wolfgang",
+     "resource_url": "https://api.discogs.com/artists/6943551",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9686557,
+     "join": "",
+     "name": "Olivia Dean",
+     "resource_url": "https://api.discogs.com/artists/9686557",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "I've Seen It",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/35207368-Olivia-Dean-The-Art-Of-Loving",
+ "year": 2025
+}

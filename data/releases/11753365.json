@@ -1,0 +1,93 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6231086,
+   "join": "",
+   "name": "madcat (4)",
+   "resource_url": "https://api.discogs.com/artists/6231086",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-F1d11co43TIEBz_EAxlGElKpcck7-fiIokfSfbnLJg/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYyMzEw/ODYtMTU1NDA0NDAw/OC0xMDgwLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Funk / Soul"
+ ],
+ "id": 11753365,
+ "images": [
+  {
+   "height": 589,
+   "resource_url": "https://i.discogs.com/Re6V-VXeA5pTAiROwdIj_aNPsmgiLp4tZKY0gwMy-SI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzUz/MzY1LTE1Mjg0MTcz/MzEtODg0OC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Re6V-VXeA5pTAiROwdIj_aNPsmgiLp4tZKY0gwMy-SI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzUz/MzY1LTE1Mjg0MTcz/MzEtODg0OC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/R36TeppGqEETKC95rx9Gi2yVwxDzlRtMhsCtq_c0gxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzUz/MzY1LTE1Mjg0MTcz/MzEtODg0OC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "FHUO008",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1071042,
+   "name": "FHUO Records",
+   "resource_url": "https://api.discogs.com/labels/1071042",
+   "thumbnail_url": "https://i.discogs.com/01BCSmFchHfwQRtbOf1gd-n3LsARCDpT6-K5qp4rIq0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwNzEw/NDItMTUyOTQyNTgz/Ni0xNjM5LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "B1 & B2 are [A=Paul Brown] Edits\n",
+ "released": "2018-05-25",
+ "styles": [
+  "House",
+  "Deep House"
+ ],
+ "title": "Petite Musique De Chanvre",
+ "tracklist": [
+  {
+   "duration": "5:03",
+   "position": "A1",
+   "title": "Get Ya Under My Skin",
+   "type_": "track"
+  },
+  {
+   "duration": "5:24",
+   "position": "A2",
+   "title": "G.A.O.T.U (Great Architect Of The Universe)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:30",
+   "position": "B1",
+   "title": "Sunset",
+   "type_": "track"
+  },
+  {
+   "duration": "4:14",
+   "position": "B2",
+   "title": "Es Vedra (The Mystical Island)",
+   "type_": "track"
+  },
+  {
+   "duration": "6:36",
+   "position": "B3",
+   "title": "Astro Pulvis",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11753365-madcat-4-Petite-Musique-De-Chanvre",
+ "year": 2018
+}

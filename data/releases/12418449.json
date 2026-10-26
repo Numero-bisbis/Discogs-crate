@@ -1,0 +1,164 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 65049,
+   "join": "",
+   "name": "Notorious B.I.G.",
+   "resource_url": "https://api.discogs.com/artists/65049",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/jwMwWsYQMRXEtPETPFqfOCm0o8bKX33Btk9pQwxpWco/rs:fit/g:sm/q:90/h:455/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY1MDQ5/LTE2OTc4NzczMzEt/MjY5NS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 12418449,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/U6VRTSqhQcTc_dEZD48D8FyXE0qrY-WHrgMdfgfHdEk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDE4/NDQ5LTE1MzQ4ODgx/OTAtNjM2OS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/U6VRTSqhQcTc_dEZD48D8FyXE0qrY-WHrgMdfgfHdEk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDE4/NDQ5LTE1MzQ4ODgx/OTAtNjM2OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/HCSsbzahPhPCjHPUPJmEElKlm_nhrWVFiG9en441W2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDE4/NDQ5LTE1MzQ4ODgx/OTAtNjM2OS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "R1 101830",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 119820,
+   "name": "Bad Boy Records (5)",
+   "resource_url": "https://api.discogs.com/labels/119820",
+   "thumbnail_url": "https://i.discogs.com/uDVTBdc_5NTBmg_wYPGvYf0tJLPa-KzZM06xeC-UIbE/rs:fit/g:sm/q:90/h:152/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExOTgy/MC0xMzAxNTExMzA1/LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "US Rhino Edition ",
+ "released": "2018-08-24",
+ "styles": [
+  "Gangsta",
+  "Hardcore Hip-Hop"
+ ],
+ "title": "Greatest Hits",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Juicy",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Big Poppa",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Hypnotize",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "One More Chance/Stay With Me Remix",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Get Money",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Warning",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Dead Wrong",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Who Shot Ya",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "Ten Crack Commandments",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C2",
+   "title": "Notorious Thugs",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C3",
+   "title": "Notorious B.I.G.",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C4",
+   "title": "Nasty Girl",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D1",
+   "title": "Unbelievable",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D2",
+   "title": "N***As Bleed",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D3",
+   "title": "Running Your Mouth",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D4",
+   "title": "Want That Old Thing Back",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D5",
+   "title": "#!*@ You Tonight",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12418449-Notorious-BIG-Greatest-Hits",
+ "year": 2018
+}

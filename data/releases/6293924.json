@@ -1,0 +1,336 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 9786,
+   "join": "",
+   "name": "Tony Allen",
+   "resource_url": "https://api.discogs.com/artists/9786",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/b8zz7AqCRKsDdYZ8HxeKJDkwq6wQnb5QujpEAQuzGmA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk3ODYt/MTY0MDM3NzYzMy0x/NTk0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Gatefold Sleeve"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Funk / Soul",
+  "Folk, World, & Country"
+ ],
+ "id": 6293924,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/avEWlZ_SXJgnLbRJJQg3tt3zemWMEF6TctW6BZpNqq4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTM5/MjQtMTQxNTc3OTMz/NC00OTQyLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/avEWlZ_SXJgnLbRJJQg3tt3zemWMEF6TctW6BZpNqq4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTM5/MjQtMTQxNTc3OTMz/NC00OTQyLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/ztzcrGWe7faaDiQvilJ9lkln6pLUCe-ZpTCxGE2sM-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTM5/MjQtMTQxNTc3OTMz/NC00OTQyLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "JV 33570032.33",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 411266,
+   "name": "Jazz Village",
+   "resource_url": "https://api.discogs.com/labels/411266",
+   "thumbnail_url": "https://i.discogs.com/mv6ucwSb0ATuRNPmE448X1lUOsKoCIRlENB1jP2PaBk/rs:fit/g:sm/q:90/h:191/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQxMTI2/Ni0xNDI1Mjg3MDU4/LTYwNTAuanBlZw.jpeg"
+  }
+ ],
+ "notes": "℗ & © 2014 Harmonia Mundi s.a./JAZZVILLAGE A LABEL OF HARMONIA MUNDI\r\nGatefold\r\nMade in France on sleeve.\r\nMade in Austria on media.\r\n\r\nIncluding 3 Bonus Tracks on Side Four.\r\n180g. superfidelity Vinyl + digital Download (.wav CD Master Quality).",
+ "released": "2014-10-00",
+ "styles": [
+  "Afrobeat"
+ ],
+ "title": "Film Of Life",
+ "tracklist": [
+  {
+   "duration": "6:41",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 9786,
+     "join": "",
+     "name": "Tony Allen",
+     "resource_url": "https://api.discogs.com/artists/9786",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Moving On",
+   "type_": "track"
+  },
+  {
+   "duration": "4:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 9786,
+     "join": "",
+     "name": "Tony Allen",
+     "resource_url": "https://api.discogs.com/artists/9786",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Boat Journey",
+   "type_": "track"
+  },
+  {
+   "duration": "3:51",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3882,
+     "join": "",
+     "name": "Damon Albarn",
+     "resource_url": "https://api.discogs.com/artists/3882",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9786,
+     "join": "",
+     "name": "Tony Allen",
+     "resource_url": "https://api.discogs.com/artists/9786",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Tiger's Skip",
+   "type_": "track"
+  },
+  {
+   "duration": "4:11",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 9786,
+     "join": "",
+     "name": "Tony Allen",
+     "resource_url": "https://api.discogs.com/artists/9786",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Ewa",
+   "type_": "track"
+  },
+  {
+   "duration": "6:07",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 9786,
+     "join": "",
+     "name": "Tony Allen",
+     "resource_url": "https://api.discogs.com/artists/9786",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Afro Kungfu Beat",
+   "type_": "track"
+  },
+  {
+   "duration": "6:38",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 9786,
+     "join": "",
+     "name": "Tony Allen",
+     "resource_url": "https://api.discogs.com/artists/9786",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Koko Dance",
+   "type_": "track"
+  },
+  {
+   "duration": "5:36",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3882,
+     "join": "",
+     "name": "Damon Albarn",
+     "resource_url": "https://api.discogs.com/artists/3882",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3882,
+     "join": "",
+     "name": "Damon Albarn",
+     "resource_url": "https://api.discogs.com/artists/3882",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9786,
+     "join": "",
+     "name": "Tony Allen",
+     "resource_url": "https://api.discogs.com/artists/9786",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Go Back",
+   "type_": "track"
+  },
+  {
+   "duration": "5:06",
+   "extraartists": [
+    {
+     "anv": "Nefretitti",
+     "id": 3983538,
+     "join": "",
+     "name": "Nefretiti",
+     "resource_url": "https://api.discogs.com/artists/3983538",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Adunni",
+     "id": 1504478,
+     "join": "",
+     "name": "Orobiyi Adunni",
+     "resource_url": "https://api.discogs.com/artists/1504478",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3983538,
+     "join": "",
+     "name": "Nefretiti",
+     "resource_url": "https://api.discogs.com/artists/3983538",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Ayo Adunni",
+     "id": 1504478,
+     "join": "",
+     "name": "Orobiyi Adunni",
+     "resource_url": "https://api.discogs.com/artists/1504478",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Ire Omo",
+   "type_": "track"
+  },
+  {
+   "duration": "5:03",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 9786,
+     "join": "",
+     "name": "Tony Allen",
+     "resource_url": "https://api.discogs.com/artists/9786",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "African Man",
+   "type_": "track"
+  },
+  {
+   "duration": "6:05",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3983539,
+     "join": "",
+     "name": "Kuku (4)",
+     "resource_url": "https://api.discogs.com/artists/3983539",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3983539,
+     "join": "",
+     "name": "Kuku (4)",
+     "resource_url": "https://api.discogs.com/artists/3983539",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Tony Wood",
+   "type_": "track"
+  },
+  {
+   "duration": "5:04",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 955950,
+     "join": "",
+     "name": "Sandra Nkaké",
+     "resource_url": "https://api.discogs.com/artists/955950",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Na Bangui",
+   "type_": "track"
+  },
+  {
+   "duration": "4:33",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 20560,
+     "join": "",
+     "name": "Manu Dibango",
+     "resource_url": "https://api.discogs.com/artists/20560",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Mojo",
+   "type_": "track"
+  },
+  {
+   "duration": "5:06",
+   "position": "D3",
+   "title": "Insider",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/6293924-Tony-Allen-Film-Of-Life",
+ "year": 2014
+}

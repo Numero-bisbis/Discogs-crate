@@ -1,0 +1,73 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 7557745,
+   "join": "",
+   "name": "Bugs Bunny (7)",
+   "resource_url": "https://api.discogs.com/artists/7557745",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/g4adz2-ZuEtHOfIA7YIlS5KRZORscaaG2MEExXLf-n0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTc3/NDUtMTcxNDkzMTEx/My05ODE5LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Romania",
+ "formats": [
+  {
+   "descriptions": [
+    "12\""
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "180gr"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12979988,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/rl4nVUgf6f5Einatu7RRnYn6yrjU5m1qMOA0t5r40-U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc5/OTg4LTE1NDU4MTEz/NDEtNTczOS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/rl4nVUgf6f5Einatu7RRnYn6yrjU5m1qMOA0t5r40-U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc5/OTg4LTE1NDU4MTEz/NDEtNTczOS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/IhsuIC8_IwAHhNQPIa43vBhMs-hUe5uaTjpndcSt074/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc5/OTg4LTE1NDU4MTEz/NDEtNTczOS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "tooneylunes001",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1570438,
+   "name": "Tooney Lunes",
+   "resource_url": "https://api.discogs.com/labels/1570438",
+   "thumbnail_url": "https://i.discogs.com/AQQOwQAnApMcVyHMh_ozofRiKraej28Z2U1sb3rEljQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NzA0/MzgtMTU0NzIxOTE1/NS01NTM3LnBuZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-12-21",
+ "styles": [
+  "Minimal",
+  "Tech House"
+ ],
+ "title": "001",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "001A",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "001B",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12979988-Bugs-Bunny-7-001",
+ "year": 2018
+}

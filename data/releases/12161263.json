@@ -1,0 +1,84 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4386818,
+   "join": "",
+   "name": "Billy Turner (2)",
+   "resource_url": "https://api.discogs.com/artists/4386818",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/DFMX7osvyP8avl6T4a6SentHuk5NQ962p4_06kOtQ2A/rs:fit/g:sm/q:90/h:171/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQzODY4/MTgtMTc4NDk3MDQ3/Ny00MDgyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Sweden",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12161263,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/pQBsDAO-eqObhAGXM7AEy7BHylMQmQC-mXhrrlT93tg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTYx/MjYzLTE1Mjk3Njgx/NjUtMTE1MC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/pQBsDAO-eqObhAGXM7AEy7BHylMQmQC-mXhrrlT93tg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTYx/MjYzLTE1Mjk3Njgx/NjUtMTE1MC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Yr7eZB2Z6SHKzvCn1C08aIt7eo5O-7_p-SZsWwz7-A8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTYx/MjYzLTE1Mjk3Njgx/NjUtMTE1MC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DCLTD.022",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 237,
+   "name": "Drumcode",
+   "resource_url": "https://api.discogs.com/labels/237",
+   "thumbnail_url": "https://i.discogs.com/1rrViQveJmRumM48FWYOYNsJD3-iahuaYprtxJgsAQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNy0x/NjkyOTkxNjY2LTg2/NjgucG5n.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-06-00",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Don't Talk To Me About Style ",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Don't Talk To Me About Style",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Escape",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Diodes",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Tunnel",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12161263-Billy-Turner-2-Dont-Talk-To-Me-About-Style-",
+ "year": 2018
+}

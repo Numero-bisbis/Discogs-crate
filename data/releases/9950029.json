@@ -1,0 +1,1525 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2837764,
+   "join": "",
+   "name": "Ondatrópica",
+   "resource_url": "https://api.discogs.com/artists/2837764",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/HoYzjTNrr43JUKj_J72ll_WgWai3o_L7cYAR3krwqS8/rs:fit/g:sm/q:90/h:500/w:333/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4Mzc3/NjQtMTM0NjUwNjk0/NS0yMTM0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Reggae",
+  "Latin"
+ ],
+ "id": 9950029,
+ "images": [
+  {
+   "height": 589,
+   "resource_url": "https://i.discogs.com/itM74PCXg0AoCfYZvbERz9DspBdFtB2XyLcdFtTvMh0/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTAw/MjktMTQ5MzA1Nzg2/Ni0xOTMxLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/itM74PCXg0AoCfYZvbERz9DspBdFtB2XyLcdFtTvMh0/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTAw/MjktMTQ5MzA1Nzg2/Ni0xOTMxLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/CVIv1BHzgHItv18vNCkXFS0T9tfE2aRfrLIeysExENc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTAw/MjktMTQ5MzA1Nzg2/Ni0xOTMxLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SNDWLP092",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 32575,
+   "name": "Soundway",
+   "resource_url": "https://api.discogs.com/labels/32575",
+   "thumbnail_url": "https://i.discogs.com/W28PrZN1MStO3sfOn5PDIBbxBu1RHKflaPE5qDlGOSw/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyNTc1/LTE0NDE4MzE2MDct/NjAzNC5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Recorded in Providence Island (Isla de Providencia) and Bogotá from October 27 to November 6, 2015.",
+ "released": "2017",
+ "styles": [
+  "Cumbia",
+  "Dancehall",
+  "Calypso",
+  "Soca"
+ ],
+ "title": "Baile Bucanero",
+ "tracklist": [
+  {
+   "duration": "2:55",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5712096,
+     "join": "",
+     "name": "Katia Bowie",
+     "resource_url": "https://api.discogs.com/artists/5712096",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4396479,
+     "join": "",
+     "name": "Jorge \"Kepe\" Hyman",
+     "resource_url": "https://api.discogs.com/artists/4396479",
+     "role": "Bass [Tub Bass], Maracas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 949416,
+     "join": "",
+     "name": "Freddy Colorado",
+     "resource_url": "https://api.discogs.com/artists/949416",
+     "role": "Congas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1892005,
+     "join": "",
+     "name": "Wilson Viveros",
+     "resource_url": "https://api.discogs.com/artists/1892005",
+     "role": "Drums, Cowbell",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4396478,
+     "join": "",
+     "name": "Carlos Robinson \"Shala Boom\"",
+     "resource_url": "https://api.discogs.com/artists/4396478",
+     "role": "Lead Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4396482,
+     "join": "",
+     "name": "Sénen Rivera",
+     "resource_url": "https://api.discogs.com/artists/4396482",
+     "role": "Percussion [Quijada]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1501313,
+     "join": "",
+     "name": "Michi Sarmiento",
+     "resource_url": "https://api.discogs.com/artists/1501313",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1655287,
+     "join": "",
+     "name": "Mario Galeano Toro",
+     "resource_url": "https://api.discogs.com/artists/1655287",
+     "role": "Synthesizer [Moog], Bass, Claves",
+     "tracks": ""
+    },
+    {
+     "anv": "Jorge \"El León\" Pardo",
+     "id": 7079348,
+     "join": "",
+     "name": "El León Pardo",
+     "resource_url": "https://api.discogs.com/artists/7079348",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 161443,
+     "join": "",
+     "name": "Will Holland",
+     "resource_url": "https://api.discogs.com/artists/161443",
+     "role": "Written-By, Guitar",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Commotion",
+   "type_": "track"
+  },
+  {
+   "duration": "4:12",
+   "extraartists": [
+    {
+     "anv": "Markitos Mikolta",
+     "id": 2385126,
+     "join": "",
+     "name": "Markkitos Micolta",
+     "resource_url": "https://api.discogs.com/artists/2385126",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1178008,
+     "join": "",
+     "name": "Nidia Sophia Gongora Bonilla",
+     "resource_url": "https://api.discogs.com/artists/1178008",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1655287,
+     "join": "",
+     "name": "Mario Galeano Toro",
+     "resource_url": "https://api.discogs.com/artists/1655287",
+     "role": "Bass, Synthesizer [Moog]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 949416,
+     "join": "",
+     "name": "Freddy Colorado",
+     "resource_url": "https://api.discogs.com/artists/949416",
+     "role": "Congas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1892005,
+     "join": "",
+     "name": "Wilson Viveros",
+     "resource_url": "https://api.discogs.com/artists/1892005",
+     "role": "Drums, Cowbell",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 161443,
+     "join": "",
+     "name": "Will Holland",
+     "resource_url": "https://api.discogs.com/artists/161443",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Jorge \"El León\" Pardo",
+     "id": 7079348,
+     "join": "",
+     "name": "El León Pardo",
+     "resource_url": "https://api.discogs.com/artists/7079348",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1501313,
+     "join": "",
+     "name": "Michi Sarmiento",
+     "resource_url": "https://api.discogs.com/artists/1501313",
+     "role": "Written-By, Lead Vocals, Saxophone, Backing Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "La Naranja Madura",
+   "type_": "track"
+  },
+  {
+   "duration": "4:28",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4396478,
+     "join": "",
+     "name": "Carlos Robinson \"Shala Boom\"",
+     "resource_url": "https://api.discogs.com/artists/4396478",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5712096,
+     "join": "",
+     "name": "Katia Bowie",
+     "resource_url": "https://api.discogs.com/artists/5712096",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1178008,
+     "join": "",
+     "name": "Nidia Sophia Gongora Bonilla",
+     "resource_url": "https://api.discogs.com/artists/1178008",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1655287,
+     "join": "",
+     "name": "Mario Galeano Toro",
+     "resource_url": "https://api.discogs.com/artists/1655287",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "Juan Carlos \"Chongo\" Puello",
+     "id": 2853133,
+     "join": "",
+     "name": "Juan Carlos Puello",
+     "resource_url": "https://api.discogs.com/artists/2853133",
+     "role": "Drum [Alegre]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2784271,
+     "join": "",
+     "name": "Pedro Ojeda",
+     "resource_url": "https://api.discogs.com/artists/2784271",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1996585,
+     "join": "",
+     "name": "Kike Egurrola",
+     "resource_url": "https://api.discogs.com/artists/1996585",
+     "role": "Electronic Drums [Octopad]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4396479,
+     "join": "",
+     "name": "Jorge \"Kepe\" Hyman",
+     "resource_url": "https://api.discogs.com/artists/4396479",
+     "role": "Maracas",
+     "tracks": ""
+    },
+    {
+     "anv": "Luis Fernando \"Tomate\" Mesa",
+     "id": 4232887,
+     "join": "",
+     "name": "Luis Fernando Mesa",
+     "resource_url": "https://api.discogs.com/artists/4232887",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1501313,
+     "join": "",
+     "name": "Michi Sarmiento",
+     "resource_url": "https://api.discogs.com/artists/1501313",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2771390,
+     "join": "",
+     "name": "Gustavo Garcia (3)",
+     "resource_url": "https://api.discogs.com/artists/2771390",
+     "role": "Trombone",
+     "tracks": ""
+    },
+    {
+     "anv": "José Miguel \"El Profe\" Vega",
+     "id": 2853130,
+     "join": "",
+     "name": "José Miguel Vega",
+     "resource_url": "https://api.discogs.com/artists/2853130",
+     "role": "Trombone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2390956,
+     "join": "",
+     "name": "Adolfo Castro",
+     "resource_url": "https://api.discogs.com/artists/2390956",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 161443,
+     "join": "",
+     "name": "Will Holland",
+     "resource_url": "https://api.discogs.com/artists/161443",
+     "role": "Written-By, Guitar",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Hummingbird",
+   "type_": "track"
+  },
+  {
+   "duration": "4:25",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4396476,
+     "join": "",
+     "name": "Elkin Robinson",
+     "resource_url": "https://api.discogs.com/artists/4396476",
+     "role": "Acoustic Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4396479,
+     "join": "",
+     "name": "Jorge \"Kepe\" Hyman",
+     "resource_url": "https://api.discogs.com/artists/4396479",
+     "role": "Backing Vocals, Handclaps, Maracas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5712102,
+     "join": "",
+     "name": "Avelino Whitaker",
+     "resource_url": "https://api.discogs.com/artists/5712102",
+     "role": "Bass [Tub Bass]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1892005,
+     "join": "",
+     "name": "Wilson Viveros",
+     "resource_url": "https://api.discogs.com/artists/1892005",
+     "role": "Drums, Bells, Claves",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 161443,
+     "join": "",
+     "name": "Will Holland",
+     "resource_url": "https://api.discogs.com/artists/161443",
+     "role": "Electric Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5712097,
+     "join": "",
+     "name": "Jerdy Figueredo",
+     "resource_url": "https://api.discogs.com/artists/5712097",
+     "role": "Lap Steel Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4396482,
+     "join": "",
+     "name": "Sénen Rivera",
+     "resource_url": "https://api.discogs.com/artists/4396482",
+     "role": "Percussion [Quijada]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1501313,
+     "join": "",
+     "name": "Michi Sarmiento",
+     "resource_url": "https://api.discogs.com/artists/1501313",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "Jorge \"El León\" Pardo",
+     "id": 7079348,
+     "join": "",
+     "name": "El León Pardo",
+     "resource_url": "https://api.discogs.com/artists/7079348",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1178008,
+     "join": "",
+     "name": "Nidia Sophia Gongora Bonilla",
+     "resource_url": "https://api.discogs.com/artists/1178008",
+     "role": "Written-By, Lead Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "De Mar A Mar",
+   "type_": "track"
+  },
+  {
+   "duration": "3:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 161443,
+     "join": "",
+     "name": "Will Holland",
+     "resource_url": "https://api.discogs.com/artists/161443",
+     "role": "Accordion, Guitar [Fuzz Guitar]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1178008,
+     "join": "",
+     "name": "Nidia Sophia Gongora Bonilla",
+     "resource_url": "https://api.discogs.com/artists/1178008",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4503951,
+     "join": "",
+     "name": "Juan David Castaño",
+     "resource_url": "https://api.discogs.com/artists/4503951",
+     "role": "Congas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2784271,
+     "join": "",
+     "name": "Pedro Ojeda",
+     "resource_url": "https://api.discogs.com/artists/2784271",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "Luis Fernando \"Tomate\" Mesa",
+     "id": 4232887,
+     "join": "",
+     "name": "Luis Fernando Mesa",
+     "resource_url": "https://api.discogs.com/artists/4232887",
+     "role": "Electric Piano [Fender Rhodes]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1501313,
+     "join": "",
+     "name": "Michi Sarmiento",
+     "resource_url": "https://api.discogs.com/artists/1501313",
+     "role": "Lead Vocals, Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "Gustavo García \"Pantera\"",
+     "id": 2771390,
+     "join": "",
+     "name": "Gustavo Garcia (3)",
+     "resource_url": "https://api.discogs.com/artists/2771390",
+     "role": "Trombone",
+     "tracks": ""
+    },
+    {
+     "anv": "José Miguel \"Profe\" Vega",
+     "id": 2853130,
+     "join": "",
+     "name": "José Miguel Vega",
+     "resource_url": "https://api.discogs.com/artists/2853130",
+     "role": "Trombone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2390956,
+     "join": "",
+     "name": "Adolfo Castro",
+     "resource_url": "https://api.discogs.com/artists/2390956",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1655287,
+     "join": "",
+     "name": "Mario Galeano Toro",
+     "resource_url": "https://api.discogs.com/artists/1655287",
+     "role": "Written-By, Bass, Guacharaca",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Malaria",
+   "type_": "track"
+  },
+  {
+   "duration": "3:33",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1178008,
+     "join": "",
+     "name": "Nidia Sophia Gongora Bonilla",
+     "resource_url": "https://api.discogs.com/artists/1178008",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 949416,
+     "join": "",
+     "name": "Freddy Colorado",
+     "resource_url": "https://api.discogs.com/artists/949416",
+     "role": "Congas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1892005,
+     "join": "",
+     "name": "Wilson Viveros",
+     "resource_url": "https://api.discogs.com/artists/1892005",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 161443,
+     "join": "",
+     "name": "Will Holland",
+     "resource_url": "https://api.discogs.com/artists/161443",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Willy B",
+     "id": 5712092,
+     "join": "",
+     "name": "Wilberson Archbold",
+     "resource_url": "https://api.discogs.com/artists/5712092",
+     "role": "Mandolin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4396479,
+     "join": "",
+     "name": "Jorge \"Kepe\" Hyman",
+     "resource_url": "https://api.discogs.com/artists/4396479",
+     "role": "Maracas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4396482,
+     "join": "",
+     "name": "Sénen Rivera",
+     "resource_url": "https://api.discogs.com/artists/4396482",
+     "role": "Percussion [Quijada]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1501313,
+     "join": "",
+     "name": "Michi Sarmiento",
+     "resource_url": "https://api.discogs.com/artists/1501313",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "Jorge \"El León\" Pardo",
+     "id": 7079348,
+     "join": "",
+     "name": "El León Pardo",
+     "resource_url": "https://api.discogs.com/artists/7079348",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4396478,
+     "join": "",
+     "name": "Carlos Robinson \"Shala Boom\"",
+     "resource_url": "https://api.discogs.com/artists/4396478",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1655287,
+     "join": "",
+     "name": "Mario Galeano Toro",
+     "resource_url": "https://api.discogs.com/artists/1655287",
+     "role": "Written-By, Bass, Backing Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Lazalypso",
+   "type_": "track"
+  },
+  {
+   "duration": "3:14",
+   "extraartists": [
+    {
+     "anv": "Juan Carlos \"Chongo\" Puello",
+     "id": 2853133,
+     "join": "",
+     "name": "Juan Carlos Puello",
+     "resource_url": "https://api.discogs.com/artists/2853133",
+     "role": "Drum [Alegre]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1892005,
+     "join": "",
+     "name": "Wilson Viveros",
+     "resource_url": "https://api.discogs.com/artists/1892005",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4137419,
+     "join": "",
+     "name": "Santiago Mejia",
+     "resource_url": "https://api.discogs.com/artists/4137419",
+     "role": "Electric Piano [Fender Rhodes]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 161443,
+     "join": "",
+     "name": "Will Holland",
+     "resource_url": "https://api.discogs.com/artists/161443",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4396479,
+     "join": "",
+     "name": "Jorge \"Kepe\" Hyman",
+     "resource_url": "https://api.discogs.com/artists/4396479",
+     "role": "Maracas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1924981,
+     "join": "",
+     "name": "Urián Sarmiento",
+     "resource_url": "https://api.discogs.com/artists/1924981",
+     "role": "Percussion [Gaita]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1501313,
+     "join": "",
+     "name": "Michi Sarmiento",
+     "resource_url": "https://api.discogs.com/artists/1501313",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5712095,
+     "join": "",
+     "name": "María José Salgado",
+     "resource_url": "https://api.discogs.com/artists/5712095",
+     "role": "Tambora",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1655287,
+     "join": "",
+     "name": "Mario Galeano Toro",
+     "resource_url": "https://api.discogs.com/artists/1655287",
+     "role": "Written-By, Bass, Synthesizer [Moog]",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Caldo Parao",
+   "type_": "track"
+  },
+  {
+   "duration": "5:10",
+   "extraartists": [
+    {
+     "anv": "Haaydee Barros",
+     "id": 5970429,
+     "join": "",
+     "name": "Haydee Barros",
+     "resource_url": "https://api.discogs.com/artists/5970429",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1655287,
+     "join": "",
+     "name": "Mario Galeano Toro",
+     "resource_url": "https://api.discogs.com/artists/1655287",
+     "role": "Bass [Rheem Bass]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2784271,
+     "join": "",
+     "name": "Pedro Ojeda",
+     "resource_url": "https://api.discogs.com/artists/2784271",
+     "role": "Congas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5712103,
+     "join": "",
+     "name": "Guillermo Navas",
+     "resource_url": "https://api.discogs.com/artists/5712103",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1996585,
+     "join": "",
+     "name": "Kike Egurrola",
+     "resource_url": "https://api.discogs.com/artists/1996585",
+     "role": "Electronic Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 161443,
+     "join": "",
+     "name": "Will Holland",
+     "resource_url": "https://api.discogs.com/artists/161443",
+     "role": "Synth",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4998782,
+     "join": "",
+     "name": "Julio Valdéz",
+     "resource_url": "https://api.discogs.com/artists/4998782",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Estar Contigo",
+   "type_": "track"
+  },
+  {
+   "duration": "3:28",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 161443,
+     "join": "",
+     "name": "Will Holland",
+     "resource_url": "https://api.discogs.com/artists/161443",
+     "role": "Drum Machine",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4396476,
+     "join": "",
+     "name": "Elkin Robinson",
+     "resource_url": "https://api.discogs.com/artists/4396476",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5712098,
+     "join": "",
+     "name": "Nitchman Robinson",
+     "resource_url": "https://api.discogs.com/artists/5712098",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5712094,
+     "join": "",
+     "name": "Jordan Bwoy",
+     "resource_url": "https://api.discogs.com/artists/5712094",
+     "role": "Lead Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1501313,
+     "join": "",
+     "name": "Michi Sarmiento",
+     "resource_url": "https://api.discogs.com/artists/1501313",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2784271,
+     "join": "",
+     "name": "Pedro Ojeda",
+     "resource_url": "https://api.discogs.com/artists/2784271",
+     "role": "Timbales",
+     "tracks": ""
+    },
+    {
+     "anv": "Jorge \"El León\" Pardo",
+     "id": 7079348,
+     "join": "",
+     "name": "El León Pardo",
+     "resource_url": "https://api.discogs.com/artists/7079348",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5712105,
+     "join": "",
+     "name": "Victor Daril McLean",
+     "resource_url": "https://api.discogs.com/artists/5712105",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1655287,
+     "join": "",
+     "name": "Mario Galeano Toro",
+     "resource_url": "https://api.discogs.com/artists/1655287",
+     "role": "Written-By, Bass [Moog]",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Come Back Again",
+   "type_": "track"
+  },
+  {
+   "duration": "4:23",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 161443,
+     "join": "",
+     "name": "Will Holland",
+     "resource_url": "https://api.discogs.com/artists/161443",
+     "role": "Accordion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1178008,
+     "join": "",
+     "name": "Nidia Sophia Gongora Bonilla",
+     "resource_url": "https://api.discogs.com/artists/1178008",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1655287,
+     "join": "",
+     "name": "Mario Galeano Toro",
+     "resource_url": "https://api.discogs.com/artists/1655287",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 949416,
+     "join": "",
+     "name": "Freddy Colorado",
+     "resource_url": "https://api.discogs.com/artists/949416",
+     "role": "Congas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4396476,
+     "join": "",
+     "name": "Elkin Robinson",
+     "resource_url": "https://api.discogs.com/artists/4396476",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5712097,
+     "join": "",
+     "name": "Jerdy Figueredo",
+     "resource_url": "https://api.discogs.com/artists/5712097",
+     "role": "Lap Steel Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4396482,
+     "join": "",
+     "name": "Sénen Rivera",
+     "resource_url": "https://api.discogs.com/artists/4396482",
+     "role": "Percussion [Quijada]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1501313,
+     "join": "",
+     "name": "Michi Sarmiento",
+     "resource_url": "https://api.discogs.com/artists/1501313",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1892005,
+     "join": "",
+     "name": "Wilson Viveros",
+     "resource_url": "https://api.discogs.com/artists/1892005",
+     "role": "Timbales",
+     "tracks": ""
+    },
+    {
+     "anv": "Jorge \"El León\" Pardo",
+     "id": 7079348,
+     "join": "",
+     "name": "El León Pardo",
+     "resource_url": "https://api.discogs.com/artists/7079348",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "Markitos Mikolta",
+     "id": 2385126,
+     "join": "",
+     "name": "Markkitos Micolta",
+     "resource_url": "https://api.discogs.com/artists/2385126",
+     "role": "Written-By, Lead Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Soy Campesino",
+   "type_": "track"
+  },
+  {
+   "duration": "4:21",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1178008,
+     "join": "",
+     "name": "Nidia Sophia Gongora Bonilla",
+     "resource_url": "https://api.discogs.com/artists/1178008",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1655287,
+     "join": "",
+     "name": "Mario Galeano Toro",
+     "resource_url": "https://api.discogs.com/artists/1655287",
+     "role": "Bass, Synth",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4503951,
+     "join": "",
+     "name": "Juan David Castaño",
+     "resource_url": "https://api.discogs.com/artists/4503951",
+     "role": "Congas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2784271,
+     "join": "",
+     "name": "Pedro Ojeda",
+     "resource_url": "https://api.discogs.com/artists/2784271",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "Luis Fernando \"Tomate\" Mesa",
+     "id": 4232887,
+     "join": "",
+     "name": "Luis Fernando Mesa",
+     "resource_url": "https://api.discogs.com/artists/4232887",
+     "role": "Electric Piano [Fender Rhodes]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 161443,
+     "join": "",
+     "name": "Will Holland",
+     "resource_url": "https://api.discogs.com/artists/161443",
+     "role": "Guitar, Guitar [Fuzz Guitar]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5712100,
+     "join": "",
+     "name": "Wilmar Holman",
+     "resource_url": "https://api.discogs.com/artists/5712100",
+     "role": "Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1892005,
+     "join": "",
+     "name": "Wilson Viveros",
+     "resource_url": "https://api.discogs.com/artists/1892005",
+     "role": "Kalimba [Coco]",
+     "tracks": ""
+    },
+    {
+     "anv": "Markitos Micolta",
+     "id": 2385126,
+     "join": "",
+     "name": "Markkitos Micolta",
+     "resource_url": "https://api.discogs.com/artists/2385126",
+     "role": "Lead Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Gustavo \"Pantera\" García",
+     "id": 2771390,
+     "join": "",
+     "name": "Gustavo Garcia (3)",
+     "resource_url": "https://api.discogs.com/artists/2771390",
+     "role": "Trombone",
+     "tracks": ""
+    },
+    {
+     "anv": "José Miguel \"Profe\" Vega",
+     "id": 2853130,
+     "join": "",
+     "name": "José Miguel Vega",
+     "resource_url": "https://api.discogs.com/artists/2853130",
+     "role": "Trombone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2390956,
+     "join": "",
+     "name": "Adolfo Castro",
+     "resource_url": "https://api.discogs.com/artists/2390956",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1892005,
+     "join": "",
+     "name": "Wilson Viveros",
+     "resource_url": "https://api.discogs.com/artists/1892005",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Boga Canoero",
+   "type_": "track"
+  },
+  {
+   "duration": "5:32",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1178008,
+     "join": "",
+     "name": "Nidia Sophia Gongora Bonilla",
+     "resource_url": "https://api.discogs.com/artists/1178008",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1655287,
+     "join": "",
+     "name": "Mario Galeano Toro",
+     "resource_url": "https://api.discogs.com/artists/1655287",
+     "role": "Bass, Synth",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4503951,
+     "join": "",
+     "name": "Juan David Castaño",
+     "resource_url": "https://api.discogs.com/artists/4503951",
+     "role": "Congas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2784271,
+     "join": "",
+     "name": "Pedro Ojeda",
+     "resource_url": "https://api.discogs.com/artists/2784271",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "Luis Fernando \"Tomate\" Mesa",
+     "id": 4232887,
+     "join": "",
+     "name": "Luis Fernando Mesa",
+     "resource_url": "https://api.discogs.com/artists/4232887",
+     "role": "Electric Piano [Fender Rhodes]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 161443,
+     "join": "",
+     "name": "Will Holland",
+     "resource_url": "https://api.discogs.com/artists/161443",
+     "role": "Guitar, Guitar [Fuzz Guitar]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5712100,
+     "join": "",
+     "name": "Wilmar Holman",
+     "resource_url": "https://api.discogs.com/artists/5712100",
+     "role": "Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1892005,
+     "join": "",
+     "name": "Wilson Viveros",
+     "resource_url": "https://api.discogs.com/artists/1892005",
+     "role": "Kalimba [Coco]",
+     "tracks": ""
+    },
+    {
+     "anv": "Gustavo \"Pantera\" Garcia",
+     "id": 2771390,
+     "join": "",
+     "name": "Gustavo Garcia (3)",
+     "resource_url": "https://api.discogs.com/artists/2771390",
+     "role": "Trombone",
+     "tracks": ""
+    },
+    {
+     "anv": "José Miguel \"Profe\" Vega",
+     "id": 2853130,
+     "join": "",
+     "name": "José Miguel Vega",
+     "resource_url": "https://api.discogs.com/artists/2853130",
+     "role": "Trombone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2390956,
+     "join": "",
+     "name": "Adolfo Castro",
+     "resource_url": "https://api.discogs.com/artists/2390956",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1501313,
+     "join": "",
+     "name": "Michi Sarmiento",
+     "resource_url": "https://api.discogs.com/artists/1501313",
+     "role": "Written-By, Lead Vocals, Saxophone, Backing Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Bogota",
+   "type_": "track"
+  },
+  {
+   "duration": "4:21",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1655287,
+     "join": "",
+     "name": "Mario Galeano Toro",
+     "resource_url": "https://api.discogs.com/artists/1655287",
+     "role": "Bass [Korg], Maracas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 161443,
+     "join": "",
+     "name": "Will Holland",
+     "resource_url": "https://api.discogs.com/artists/161443",
+     "role": "Drum Machine",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4396476,
+     "join": "",
+     "name": "Elkin Robinson",
+     "resource_url": "https://api.discogs.com/artists/4396476",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5712098,
+     "join": "",
+     "name": "Nitchman Robinson",
+     "resource_url": "https://api.discogs.com/artists/5712098",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "Babba",
+     "id": 5712105,
+     "join": "",
+     "name": "Victor Daril McLean",
+     "resource_url": "https://api.discogs.com/artists/5712105",
+     "role": "Lead Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4396482,
+     "join": "",
+     "name": "Sénen Rivera",
+     "resource_url": "https://api.discogs.com/artists/4396482",
+     "role": "Percussion [Quijada]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1501313,
+     "join": "",
+     "name": "Michi Sarmiento",
+     "resource_url": "https://api.discogs.com/artists/1501313",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2784271,
+     "join": "",
+     "name": "Pedro Ojeda",
+     "resource_url": "https://api.discogs.com/artists/2784271",
+     "role": "Timbales",
+     "tracks": ""
+    },
+    {
+     "anv": "Jorge \"El León\" Pardo",
+     "id": 7079348,
+     "join": "",
+     "name": "El León Pardo",
+     "resource_url": "https://api.discogs.com/artists/7079348",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 0,
+     "join": "",
+     "name": "Will Holland",
+     "resource_url": "",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "Jordan Bwoy",
+     "id": 5712099,
+     "join": "",
+     "name": "Jordan Archbold",
+     "resource_url": "https://api.discogs.com/artists/5712099",
+     "role": "Written-By, Lead Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Trustin´",
+   "type_": "track"
+  },
+  {
+   "duration": "3:01",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1655287,
+     "join": "",
+     "name": "Mario Galeano Toro",
+     "resource_url": "https://api.discogs.com/artists/1655287",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "Juan Carlos \"Chongo\" Puello",
+     "id": 2853133,
+     "join": "",
+     "name": "Juan Carlos Puello",
+     "resource_url": "https://api.discogs.com/artists/2853133",
+     "role": "Drum [Alegre]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5712093,
+     "join": "",
+     "name": "Guilermo Navas",
+     "resource_url": "https://api.discogs.com/artists/5712093",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1924981,
+     "join": "",
+     "name": "Urián Sarmiento",
+     "resource_url": "https://api.discogs.com/artists/1924981",
+     "role": "Percussion [Gaita]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5712095,
+     "join": "",
+     "name": "María José Salgado",
+     "resource_url": "https://api.discogs.com/artists/5712095",
+     "role": "Tambora",
+     "tracks": ""
+    },
+    {
+     "anv": "Jorge \"El León\" Pardo",
+     "id": 7079348,
+     "join": "",
+     "name": "El León Pardo",
+     "resource_url": "https://api.discogs.com/artists/7079348",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1501313,
+     "join": "",
+     "name": "Michi Sarmiento",
+     "resource_url": "https://api.discogs.com/artists/1501313",
+     "role": "Voice [Guapirreo]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 161443,
+     "join": "",
+     "name": "Will Holland",
+     "resource_url": "https://api.discogs.com/artists/161443",
+     "role": "Written-By, Accordion",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Cumbia Bucanera",
+   "type_": "track"
+  },
+  {
+   "duration": "3:21",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1655287,
+     "join": "",
+     "name": "Mario Galeano Toro",
+     "resource_url": "https://api.discogs.com/artists/1655287",
+     "role": "Bass, Claves",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 949416,
+     "join": "",
+     "name": "Freddy Colorado",
+     "resource_url": "https://api.discogs.com/artists/949416",
+     "role": "Congas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1892005,
+     "join": "",
+     "name": "Wilson Viveros",
+     "resource_url": "https://api.discogs.com/artists/1892005",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5712097,
+     "join": "",
+     "name": "Jerdy Figueredo",
+     "resource_url": "https://api.discogs.com/artists/5712097",
+     "role": "Lap Steel Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Jorge \"El León\" Pardo",
+     "id": 7079348,
+     "join": "",
+     "name": "El León Pardo",
+     "resource_url": "https://api.discogs.com/artists/7079348",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 161443,
+     "join": "",
+     "name": "Will Holland",
+     "resource_url": "https://api.discogs.com/artists/161443",
+     "role": "Written-By, Guitar",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Just A Moment",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/9950029-Ondatrópica-Baile-Bucanero",
+ "year": 2017
+}

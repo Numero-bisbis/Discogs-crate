@@ -1,0 +1,353 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3464319,
+   "join": "",
+   "name": "Yussef Dayes",
+   "resource_url": "https://api.discogs.com/artists/3464319",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/7pUtKaGTF1g9Sbcpzu9M7WbZBkcrWZSFvX084fl1QO4/rs:fit/g:sm/q:90/h:438/w:265/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM0NjQz/MTktMTQ3NDI4NzQ2/Ni0xNTk4LnBuZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "White"
+  }
+ ],
+ "genres": [
+  "Hip Hop",
+  "Jazz"
+ ],
+ "id": 28199671,
+ "images": [
+  {
+   "height": 599,
+   "resource_url": "https://i.discogs.com/gtGJq0NffoyZxny67XrHeAGyyYAGd8wboa8qSkqKEtY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTk5/NjcxLTE3MDI3MjAw/MDMtOTg1Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/gtGJq0NffoyZxny67XrHeAGyyYAGd8wboa8qSkqKEtY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTk5/NjcxLTE3MDI3MjAw/MDMtOTg1Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/1pFcu1WUlWjEdoZE0t2WfC2UaC6ynpqsxxj0PXOHehA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTk5/NjcxLTE3MDI3MjAw/MDMtOTg1Ny5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BWOOD0310LP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 62136,
+   "name": "Brownswood Recordings",
+   "resource_url": "https://api.discogs.com/labels/62136",
+   "thumbnail_url": "https://i.discogs.com/udXpMPeMKu_TSb4VTKwXY3ICFOvikTMwNAymitHJSEM/rs:fit/g:sm/q:90/h:268/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYyMTM2/LTE2NjM4Nzg5MTAt/OTk4Ni5wbmc.jpeg"
+  },
+  {
+   "catno": "5054197580444",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 652,
+   "name": "Nonesuch",
+   "resource_url": "https://api.discogs.com/labels/652",
+   "thumbnail_url": "https://i.discogs.com/E8N2npmxxN-snphC3JN9mO0RRzxj6dNSOFZjjUAD-vQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1Mi0x/NDcyMTczMzQzLTI1/MTkuanBlZw.jpeg"
+  },
+  {
+   "catno": "5054197580444",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2345,
+   "name": "Warner Music Group",
+   "resource_url": "https://api.discogs.com/labels/2345",
+   "thumbnail_url": "https://i.discogs.com/95s0HdOCUU8FyLsHNEDnOWp4uyplgYi8soEbgIdX1dY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNDUt/MTc4MTM2Mjc2MS0x/OTYyLmpwZWc.jpeg"
+  },
+  {
+   "catno": "BWOOD0310LP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1904033,
+   "name": "Cashmere Thoughts Recordings",
+   "resource_url": "https://api.discogs.com/labels/1904033"
+  },
+  {
+   "catno": "BWOOD0310",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 62136,
+   "name": "Brownswood Recordings",
+   "resource_url": "https://api.discogs.com/labels/62136",
+   "thumbnail_url": "https://i.discogs.com/udXpMPeMKu_TSb4VTKwXY3ICFOvikTMwNAymitHJSEM/rs:fit/g:sm/q:90/h:268/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYyMTM2/LTE2NjM4Nzg5MTAt/OTk4Ni5wbmc.jpeg"
+  }
+ ],
+ "notes": "6000 available worldwide, 1000 available D2C\n\nGatefold Sleeve, with embossing and printed inner sleeves\n\nRunouts are etched.",
+ "released": "2023-09-08",
+ "styles": [
+  "Afrobeat",
+  "Contemporary Jazz",
+  "Jazz-Funk"
+ ],
+ "title": "Black Classical Music",
+ "tracklist": [
+  {
+   "duration": "5:19",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7048324,
+     "join": "",
+     "name": "Charlie Stacey",
+     "resource_url": "https://api.discogs.com/artists/7048324",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Venna",
+     "id": 7652134,
+     "join": "",
+     "name": "Malik Venner",
+     "resource_url": "https://api.discogs.com/artists/7652134",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Black Classical Music",
+   "type_": "track"
+  },
+  {
+   "duration": "2:45",
+   "position": "A2",
+   "title": "Afro Cubanism",
+   "type_": "track"
+  },
+  {
+   "duration": "4:31",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1419450,
+     "join": "",
+     "name": "Shabaka Hutchings",
+     "resource_url": "https://api.discogs.com/artists/1419450",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Raisins Under The Sun",
+   "type_": "track"
+  },
+  {
+   "duration": "3:58",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3814795,
+     "join": "",
+     "name": "Tom Misch",
+     "resource_url": "https://api.discogs.com/artists/3814795",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Rust",
+   "type_": "track"
+  },
+  {
+   "duration": "3:11",
+   "position": "A5",
+   "title": "Turquoise Galaxy",
+   "type_": "track"
+  },
+  {
+   "duration": "5:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 13488829,
+     "join": "",
+     "name": "Bahia Dayes",
+     "resource_url": "https://api.discogs.com/artists/13488829",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "The Light",
+   "type_": "track"
+  },
+  {
+   "duration": "3:49",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2616778,
+     "join": "",
+     "name": "Chronixx",
+     "resource_url": "https://api.discogs.com/artists/2616778",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Pon Di Plaza",
+   "type_": "track"
+  },
+  {
+   "duration": "1:37",
+   "position": "B3",
+   "title": "Magnolia Symphony",
+   "type_": "track"
+  },
+  {
+   "duration": "0:34",
+   "position": "B4",
+   "title": "Early Days",
+   "type_": "track"
+  },
+  {
+   "duration": "5:40",
+   "position": "B5",
+   "title": "Chasing The Drum",
+   "type_": "track"
+  },
+  {
+   "duration": "4:46",
+   "position": "C1",
+   "title": "Birds Of Paradise",
+   "type_": "track"
+  },
+  {
+   "duration": "4:46",
+   "position": "C2",
+   "title": "Gelato",
+   "type_": "track"
+  },
+  {
+   "duration": "4:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4879388,
+     "join": "",
+     "name": "Masego",
+     "resource_url": "https://api.discogs.com/artists/4879388",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Marching Band",
+   "type_": "track"
+  },
+  {
+   "duration": "2:32",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7176609,
+     "join": "",
+     "name": "Elijah Fox",
+     "resource_url": "https://api.discogs.com/artists/7176609",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Crystal Palace Park",
+   "type_": "track"
+  },
+  {
+   "duration": "2:42",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3984811,
+     "join": "",
+     "name": "Jahaan Sweet",
+     "resource_url": "https://api.discogs.com/artists/3984811",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C5",
+   "title": "Presidential",
+   "type_": "track"
+  },
+  {
+   "duration": "2:39",
+   "position": "D1",
+   "title": "Jukebox",
+   "type_": "track"
+  },
+  {
+   "duration": "3:31",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 13488832,
+     "join": "",
+     "name": "Jamilah Barry",
+     "resource_url": "https://api.discogs.com/artists/13488832",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Woman's Touch",
+   "type_": "track"
+  },
+  {
+   "duration": "7:56",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6719555,
+     "join": "",
+     "name": "Rocco Palladino",
+     "resource_url": "https://api.discogs.com/artists/6719555",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Tioga Pass",
+   "type_": "track"
+  },
+  {
+   "duration": "3:51",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 14530513,
+     "join": "",
+     "name": "Barbara Hicks (4)",
+     "resource_url": "https://api.discogs.com/artists/14530513",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Leon Thomas",
+     "id": 1394112,
+     "join": "",
+     "name": "Leon Thomas III",
+     "resource_url": "https://api.discogs.com/artists/1394112",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Cowrie Charms",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/28199671-Yussef-Dayes-Black-Classical-Music",
+ "year": 2023
+}

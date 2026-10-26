@@ -1,0 +1,153 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 130782,
+   "join": "",
+   "name": "Tim Maia",
+   "resource_url": "https://api.discogs.com/artists/130782",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/tAO_9R2gzS_DT6MH3x-4sXaxQyrQSGVXnWXF1BIlk2c/rs:fit/g:sm/q:90/h:600/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzMDc4/Mi0xNjM3NzM5MTYy/LTI4NjIuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation",
+    "Remastered",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Latin",
+  "Funk / Soul"
+ ],
+ "id": 14122521,
+ "images": [
+  {
+   "height": 591,
+   "resource_url": "https://i.discogs.com/p9qNp-jLFj3Vu-FlVGTEAVTqLqBYFNmwJOmQlkLOVOQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTIy/NTIxLTE1NjgyNjIz/NzAtMjM3MC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/p9qNp-jLFj3Vu-FlVGTEAVTqLqBYFNmwJOmQlkLOVOQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTIy/NTIxLTE1NjgyNjIz/NzAtMjM3MC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/zhduRocJ3pIb2FWDmTMuSTKIff8gKjW3j2g3tLeobs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTIy/NTIxLTE1NjgyNjIz/NzAtMjM3MC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "6 80899 0067-1-2",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3264,
+   "name": "Luaka Bop",
+   "resource_url": "https://api.discogs.com/labels/3264",
+   "thumbnail_url": "https://i.discogs.com/8AQ-K6w3JKaFyEpwySx-vLwywQLEuy-_lOYmLiimZLw/rs:fit/g:sm/q:90/h:600/w:508/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyNjQt/MTQ5NjE1NzU1OC04/OTQ3LnBuZw.jpeg"
+  }
+ ],
+ "notes": "Yellow hype sticker on front cover.\n\nRunouts are etched except -33879- and -33880- are stamped.",
+ "released": "2012",
+ "styles": [
+  "Psychedelic"
+ ],
+ "title": "Nobody Can Live Forever (The Existential Soul Of Tim Maia)",
+ "tracklist": [
+  {
+   "duration": "3:29",
+   "position": "A1",
+   "title": "Que Beleza",
+   "type_": "track"
+  },
+  {
+   "duration": "5:11",
+   "position": "A2",
+   "title": "Let's Have A Ball Tonight",
+   "type_": "track"
+  },
+  {
+   "duration": "6:08",
+   "position": "A3",
+   "title": "O Caminho Do Bem",
+   "type_": "track"
+  },
+  {
+   "duration": "4:40",
+   "position": "B1",
+   "title": "Ela Partiu",
+   "type_": "track"
+  },
+  {
+   "duration": "4:52",
+   "position": "B2",
+   "title": "Quer Queira, Quer Não Queira",
+   "type_": "track"
+  },
+  {
+   "duration": "3:21",
+   "position": "B3",
+   "title": "Brother Father Mother Sister",
+   "type_": "track"
+  },
+  {
+   "duration": "3:14",
+   "position": "B4",
+   "title": "Do Leme Ao Pontal",
+   "type_": "track"
+  },
+  {
+   "duration": "2:54",
+   "position": "C1",
+   "title": "Nobody Can Live Forever",
+   "type_": "track"
+  },
+  {
+   "duration": "2:57",
+   "position": "C2",
+   "title": "I Don't Care",
+   "type_": "track"
+  },
+  {
+   "duration": "5:09",
+   "position": "C3",
+   "title": "Bom Senso",
+   "type_": "track"
+  },
+  {
+   "duration": "4:02",
+   "position": "C4",
+   "title": "Where Is My Other Half",
+   "type_": "track"
+  },
+  {
+   "duration": "3:23",
+   "position": "C5",
+   "title": "Over Again",
+   "type_": "track"
+  },
+  {
+   "duration": "2:32",
+   "position": "D1",
+   "title": "The Dance Is Over",
+   "type_": "track"
+  },
+  {
+   "duration": "0:34",
+   "position": "D2",
+   "title": "You Don't Know What I Know",
+   "type_": "track"
+  },
+  {
+   "duration": "12:19",
+   "position": "D3",
+   "title": "Rational Culture",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14122521-Tim-Maia-Nobody-Can-Live-Forever-The-Existential-Soul-Of-Tim-Maia",
+ "year": 2012
+}

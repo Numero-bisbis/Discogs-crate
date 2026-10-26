@@ -1,0 +1,123 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4751065,
+   "join": "",
+   "name": "Alfa Mist",
+   "resource_url": "https://api.discogs.com/artists/4751065",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/p8iuDKpLfALAHg4DNPyktPY24MScxIzJcluzB9pBgRM/rs:fit/g:sm/q:90/h:222/w:222/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ3NTEw/NjUtMTU4ODIyMzE2/Ny03NjM2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Hip Hop",
+  "Jazz",
+  "Funk / Soul"
+ ],
+ "id": 17016147,
+ "images": [
+  {
+   "height": 597,
+   "resource_url": "https://i.discogs.com/xj9BTJLnC12RDLMIQzeG4-ybSmnnoUD3bmLV7lHl0LE/rs:fit/g:sm/q:90/h:597/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDE2/MTQ3LTE2MTExNTAz/OTMtMjM1NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/xj9BTJLnC12RDLMIQzeG4-ybSmnnoUD3bmLV7lHl0LE/rs:fit/g:sm/q:90/h:597/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDE2/MTQ3LTE2MTExNTAz/OTMtMjM1NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/nPuVLqTa_5jJszgG0ASgJcFNZMGpLAGfvIAJ-KQs3yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDE2/MTQ3LTE2MTExNTAz/OTMtMjM1NC5qcGVn.jpeg",
+   "width": 599
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SEKITO004V",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1630805,
+   "name": "Sekito",
+   "resource_url": "https://api.discogs.com/labels/1630805",
+   "thumbnail_url": "https://i.discogs.com/mXhF03dsbPFFjVWFdHhbSg3QB7ynGPXQ7HxO-K8Ym9Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MzA4/MDUtMTU5NzY2NzA1/NC02NTQ1LnBuZw.jpeg"
+  }
+ ],
+ "notes": "5th Pressing. No indication as to how many copies pressed.\n\n(C) 2017 Alfa Mist (P) 2020 Sekito on rear of sleeve.\n\nWas made available via Bandcamp and Sekito's website in January 2021",
+ "released": "2021",
+ "styles": [
+  "Contemporary Jazz"
+ ],
+ "title": "Antiphon",
+ "tracklist": [
+  {
+   "duration": "10:46",
+   "position": "A1",
+   "title": "Keep On",
+   "type_": "track"
+  },
+  {
+   "duration": "5:08",
+   "position": "A2",
+   "title": "Potential",
+   "type_": "track"
+  },
+  {
+   "duration": "10:00",
+   "position": "B1",
+   "title": "Errors",
+   "type_": "track"
+  },
+  {
+   "duration": "7:26",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5634270,
+     "join": "",
+     "name": "Kaya Thomas-Dyke",
+     "resource_url": "https://api.discogs.com/artists/5634270",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Breathe",
+   "type_": "track"
+  },
+  {
+   "duration": "4:08",
+   "position": "C1",
+   "title": "7th October",
+   "type_": "track"
+  },
+  {
+   "duration": "6:05",
+   "position": "C2",
+   "title": "Kyoki",
+   "type_": "track"
+  },
+  {
+   "duration": "6:41",
+   "position": "D1",
+   "title": "Nucleus",
+   "type_": "track"
+  },
+  {
+   "duration": "2:34",
+   "position": "D2",
+   "title": "Brian",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/17016147-Alfa-Mist-Antiphon",
+ "year": 2021
+}

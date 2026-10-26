@@ -1,0 +1,87 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 716,
+   "join": "Featuring",
+   "name": "Joe Claussell",
+   "resource_url": "https://api.discogs.com/artists/716",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/_UA2avV2gqB5pAW6IpKflmhZEuSTVDNTmguXn7pg1VY/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcxNi0x/NzAzNjIyMTcwLTI3/NzQuanBlZw.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 4142464,
+   "join": "",
+   "name": "Daymé Arocena",
+   "resource_url": "https://api.discogs.com/artists/4142464",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/wpTlvHJFAyg_YSGZH9NGfuVBC3u2PGlHX_lmChkv8vo/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQxNDI0/NjQtMTQzMTA2NTI4/My03NDc1LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "Single Sided"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11445252,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/4lgSsJ3Vz0a777BYl_WU3YtaLSyCeaeR29CdCbmqzD0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ1/MjUyLTE1MTY0NjUz/NDMtMjQ5Ni5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/4lgSsJ3Vz0a777BYl_WU3YtaLSyCeaeR29CdCbmqzD0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ1/MjUyLTE1MTY0NjUz/NDMtMjQ5Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/wVXoOXU1hAmw2k_ERZ2uFqmSfnzvJu38MhJeUzH-6ak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ1/MjUyLTE1MTY0NjUz/NDMtMjQ5Ni5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BWOOD 170LP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 62136,
+   "name": "Brownswood Recordings",
+   "resource_url": "https://api.discogs.com/labels/62136",
+   "thumbnail_url": "https://i.discogs.com/udXpMPeMKu_TSb4VTKwXY3ICFOvikTMwNAymitHJSEM/rs:fit/g:sm/q:90/h:268/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYyMTM2/LTE2NjM4Nzg5MTAt/OTk4Ni5wbmc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-01-00",
+ "styles": [
+  "Deep House"
+ ],
+ "title": "Yambu (Sacred Rhythm Mix) ",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4142464,
+     "join": "",
+     "name": "Daymé Arocena",
+     "resource_url": "https://api.discogs.com/artists/4142464",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "Yambu (Sacred Rhythm Mix) ",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11445252-Joe-Claussell-Featuring-Daymé-Arocena-Yambu-Sacred-Rhythm-Mix-",
+ "year": 2018
+}

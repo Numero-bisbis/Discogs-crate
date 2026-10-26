@@ -1,0 +1,191 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5760932,
+   "join": "",
+   "name": "Moses Boyd Exodus",
+   "resource_url": "https://api.discogs.com/artists/5760932",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/TZxNaSAYVnhIEixnKLFzZb-YpFvF1CNHvRQkFmhyLtM/rs:fit/g:sm/q:90/h:183/w:275/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU3NjA5/MzItMTQ5NDg1NzAz/Ni0xODI4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 12652166,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/vZQAvhERxjpj-VZbO8BPX18a09i9khS-5V6836GLr-w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUy/MTY2LTE1MzkzNzMy/NzQtMzk0Ni5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/vZQAvhERxjpj-VZbO8BPX18a09i9khS-5V6836GLr-w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUy/MTY2LTE1MzkzNzMy/NzQtMzk0Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/mpR8BGBy83Wxz4kuEa48JkkGyCmeeSnzJfMFXcj3wk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUy/MTY2LTE1MzkzNzMy/NzQtMzk0Ni5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "XOLP002",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 791557,
+   "name": "Exodus (8)",
+   "resource_url": "https://api.discogs.com/labels/791557",
+   "thumbnail_url": "https://i.discogs.com/M0duK-CIL2lxpZkn67HebH1Z73MxcUtRhWYDRSF1fgI/rs:fit/g:sm/q:90/h:429/w:429/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc5MTU1/Ny0xNjQ5ODEwMDkw/LTQ5NjkuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-09-28",
+ "styles": [
+  "Fusion",
+  "Contemporary Jazz"
+ ],
+ "title": "Displaced Diaspora",
+ "tracklist": [
+  {
+   "duration": "3:06",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6766070,
+     "join": "",
+     "name": "Kevin Haynes Grupo Elegua",
+     "resource_url": "https://api.discogs.com/artists/6766070",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Rush Hour / Elegua",
+   "type_": "track"
+  },
+  {
+   "duration": "6:15",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6766070,
+     "join": "",
+     "name": "Kevin Haynes Grupo Elegua",
+     "resource_url": "https://api.discogs.com/artists/6766070",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Frontline",
+   "type_": "track"
+  },
+  {
+   "duration": "4:26",
+   "position": "A3",
+   "title": "Rye Lane Shuffle",
+   "type_": "track"
+  },
+  {
+   "duration": "5:14",
+   "position": "A4",
+   "title": "Drum Dance",
+   "type_": "track"
+  },
+  {
+   "duration": "5:10",
+   "position": "A5",
+   "title": "Axis Blue",
+   "type_": "track"
+  },
+  {
+   "duration": "4:37",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1349447,
+     "join": "",
+     "name": "Zara McFarlane",
+     "resource_url": "https://api.discogs.com/artists/1349447",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "City Nocturne",
+   "type_": "track"
+  },
+  {
+   "duration": "5:36",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6121460,
+     "join": "",
+     "name": "Louis Vi",
+     "resource_url": "https://api.discogs.com/artists/6121460",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 45503,
+     "join": "",
+     "name": "Terri Walker",
+     "resource_url": "https://api.discogs.com/artists/45503",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Waiting On The Night Bus",
+   "type_": "track"
+  },
+  {
+   "duration": "4:48",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6766070,
+     "join": "",
+     "name": "Kevin Haynes Grupo Elegua",
+     "resource_url": "https://api.discogs.com/artists/6766070",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Marooned In S.E.6",
+   "type_": "track"
+  },
+  {
+   "duration": "3:10",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6766070,
+     "join": "",
+     "name": "Kevin Haynes Grupo Elegua",
+     "resource_url": "https://api.discogs.com/artists/6766070",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Ancestors",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12652166-Moses-Boyd-Exodus-Displaced-Diaspora",
+ "year": 2018
+}

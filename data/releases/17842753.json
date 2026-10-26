@@ -1,0 +1,99 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 247496,
+   "join": "",
+   "name": "Henry Grimes Trio",
+   "resource_url": "https://api.discogs.com/artists/247496",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/s4Lavh7I_BY_wxKbWArD4fhOoemH8rDkcmnOCk2LeM4/rs:fit/g:sm/q:90/h:333/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0NzQ5/Ni0xMTI4MzgxMDYw/LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Limited Edition",
+    "Reissue",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 17842753,
+ "images": [
+  {
+   "height": 592,
+   "resource_url": "https://i.discogs.com/jRX8zctW98nw5h7AwQ-KycFJRhL2p2sj_GOGclGXEDE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODQy/NzUzLTE2MTg3Nzcw/OTYtNjY1OC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/jRX8zctW98nw5h7AwQ-KycFJRhL2p2sj_GOGclGXEDE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODQy/NzUzLTE2MTg3Nzcw/OTYtNjY1OC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/jey0mq1YWKffMoGLRbDkFux7SXxachWE4oVo5CDACnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODQy/NzUzLTE2MTg3Nzcw/OTYtNjY1OC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "1026",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 33952,
+   "name": "ESP-Disk'",
+   "resource_url": "https://api.discogs.com/labels/33952",
+   "thumbnail_url": "https://i.discogs.com/Bx8gjhiwbtiWkAZTR9YWpW5fP4GlENZaJbdMH3_PM3E/rs:fit/g:sm/q:90/h:125/w:230/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMzOTUy/LTE3MjM3NTUxNjct/ODgwOC5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Recorded on December 28, 1965 in NYC. \n\nLimited edition of 500. Original artwork, 180-gram black vinyl with white labels.",
+ "released": "2021",
+ "styles": [
+  "Free Jazz"
+ ],
+ "title": "The Call",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Fish Story",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "For Django",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Walk On",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Saturday Nite What Th'",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "The Call",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Son Of Alfalfa",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/17842753-Henry-Grimes-Trio-The-Call",
+ "year": 2021
+}

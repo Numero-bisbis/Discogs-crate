@@ -1,0 +1,97 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 9786,
+   "join": "",
+   "name": "Tony Allen",
+   "resource_url": "https://api.discogs.com/artists/9786",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/b8zz7AqCRKsDdYZ8HxeKJDkwq6wQnb5QujpEAQuzGmA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk3ODYt/MTY0MDM3NzYzMy0x/NTk0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Funk / Soul"
+ ],
+ "id": 12126315,
+ "images": [
+  {
+   "height": 590,
+   "resource_url": "https://i.discogs.com/X6fFREGY_d7eUONL-V0KDlS26oP0MEU17pZsbl5noEM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MzE1LTE1Mjg4MjQx/MjUtMzEzMS5wbmc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/X6fFREGY_d7eUONL-V0KDlS26oP0MEU17pZsbl5noEM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MzE1LTE1Mjg4MjQx/MjUtMzEzMS5wbmc.jpeg",
+   "uri150": "https://i.discogs.com/ze0USW27je5N6peu2TMe0szJw91y494rEuEUbZO7I24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI2/MzE1LTE1Mjg4MjQx/MjUtMzEzMS5wbmc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "Comet 083",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2160,
+   "name": "Comet Records",
+   "resource_url": "https://api.discogs.com/labels/2160",
+   "thumbnail_url": "https://i.discogs.com/0Cc8YTAbUdVbHUNSvavwb3p2fgUUvlYVWf5j9PoDDhg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxNjAt/MTUxNjMwNjU1My03/ODE5LnBuZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018",
+ "styles": [
+  "Afrobeat",
+  "House",
+  "Disco"
+ ],
+ "title": "Black Voices Remixes",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1509589,
+     "join": "",
+     "name": "Folamour",
+     "resource_url": "https://api.discogs.com/artists/1509589",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "Get Together (Folamour In Harmony Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2515821,
+     "join": "",
+     "name": "Nit",
+     "resource_url": "https://api.discogs.com/artists/2515821",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B",
+   "title": "The Same Blood (NIT Cosmic Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12126315-Tony-Allen-Black-Voices-Remixes",
+ "year": 2018
+}

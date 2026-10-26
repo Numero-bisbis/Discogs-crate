@@ -1,0 +1,84 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2384157,
+   "join": "",
+   "name": "Karenn",
+   "resource_url": "https://api.discogs.com/artists/2384157",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Nq73ldtmCPgawbmEi8vcHFzSFq1ar82TGqJks-Pt3ZA/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIzODQx/NTctMTU4NzcyNTM5/OC01ODM0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13541581,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/MSMnJU8Wri-am19aG2tl_11SyTnuDVrD8hpmtdQevV4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQx/NTgxLTE1NTYxODQ3/MDQtNTMzNS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/MSMnJU8Wri-am19aG2tl_11SyTnuDVrD8hpmtdQevV4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQx/NTgxLTE1NTYxODQ3/MDQtNTMzNS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/hMbz8ioDurH-NP8zwRjzjXrRfZwxTF0memP7D8sNnFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQx/NTgxLTE1NTYxODQ3/MDQtNTMzNS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "VOAM001",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1630319,
+   "name": "Voam",
+   "resource_url": "https://api.discogs.com/labels/1630319",
+   "thumbnail_url": "https://i.discogs.com/Nui4BitQrp7UO_s7K-yBwfrXpRI21YlFMjvGv7AZpFU/rs:fit/g:sm/q:90/h:600/w:368/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MzAz/MTktMTU1NjE4NTA2/Mi03OTcwLmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-04-24",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Kind Of Green",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Rek",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Kind Of Green",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Salz",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Newt",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13541581-Karenn-Kind-Of-Green",
+ "year": 2019
+}

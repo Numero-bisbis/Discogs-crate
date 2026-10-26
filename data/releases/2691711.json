@@ -1,0 +1,1537 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 18231,
+   "join": "",
+   "name": "Fugees",
+   "resource_url": "https://api.discogs.com/artists/18231",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/mh6J9RIzKBkHsZ8makNUuJXbEuzdH-2Y-LN0E77Efl4/rs:fit/g:sm/q:90/h:380/w:325/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4MjMx/LTE3MDUwNjU1ODIt/MzgxMy5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Repress"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "180 Gram"
+  }
+ ],
+ "genres": [
+  "Hip Hop",
+  "Funk / Soul"
+ ],
+ "id": 2691711,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/bEGaJQ6WokCJwUHNJdYuxN6Ez8iM0xqEwCzIkij09sI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTE3/MTEtMTM5NjU1MjYx/NC02Nzk3LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/bEGaJQ6WokCJwUHNJdYuxN6Ez8iM0xqEwCzIkij09sI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTE3/MTEtMTM5NjU1MjYx/NC02Nzk3LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/SJ9k2vomhpu2MMoCclkrenH70CFeFVHYnjsLNLM3nnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTE3/MTEtMTM5NjU1MjYx/NC02Nzk3LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "MOVLP068",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 169635,
+   "name": "Music On Vinyl",
+   "resource_url": "https://api.discogs.com/labels/169635",
+   "thumbnail_url": "https://i.discogs.com/o8FdZbFylxlL4Mc91n3DX9UWRbDRrqvX1oW98w-DPXA/rs:fit/g:sm/q:90/h:54/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTYz/NS0xMjU3MzIyODA5/LmpwZWc.jpeg"
+  },
+  {
+   "catno": "88697665071",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1866,
+   "name": "Columbia",
+   "resource_url": "https://api.discogs.com/labels/1866",
+   "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+  },
+  {
+   "catno": "88697665071",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 6,
+   "name": "Ruffhouse Records",
+   "resource_url": "https://api.discogs.com/labels/6",
+   "thumbnail_url": "https://i.discogs.com/g0izyiyvu5i_ij9pya1vvZUO3EMIZS80PzoR-jcAlWo/rs:fit/g:sm/q:90/h:503/w:469/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYtMTQ4/NDIxMDIzNS01MDY1/LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Incl. printed insert.\n\nMade in the EU.",
+ "released": "2010-08-19",
+ "styles": [
+  "Pop Rap",
+  "Conscious"
+ ],
+ "title": "The Score",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 50036,
+     "join": "",
+     "name": "Ras Baraka",
+     "resource_url": "https://api.discogs.com/artists/50036",
+     "role": "Featuring, Voice",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 31518,
+     "join": "",
+     "name": "Red Alert",
+     "resource_url": "https://api.discogs.com/artists/31518",
+     "role": "Featuring, Voice",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Red Intro",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Jerry \"Te Bass\" Duplessis",
+     "id": 60965,
+     "join": "",
+     "name": "Jerry Duplessis",
+     "resource_url": "https://api.discogs.com/artists/60965",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Prakazrel \"Pras\"",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 193095,
+     "join": "",
+     "name": "Shawn King (2)",
+     "resource_url": "https://api.discogs.com/artists/193095",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Hill",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Michel",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "N. Jean",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "How Many Mics",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Jerry \"Te Bass\" Duplessis",
+     "id": 60965,
+     "join": "",
+     "name": "Jerry Duplessis",
+     "resource_url": "https://api.discogs.com/artists/60965",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Prakazrel \"Pras\"",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 177774,
+     "join": "",
+     "name": "Bassy Bob Brockmann",
+     "resource_url": "https://api.discogs.com/artists/177774",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Hill",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Michel",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Bell",
+     "id": 164262,
+     "join": "",
+     "name": "Thom Bell",
+     "resource_url": "https://api.discogs.com/artists/164262",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Hart",
+     "id": 442945,
+     "join": "",
+     "name": "William Hart",
+     "resource_url": "https://api.discogs.com/artists/442945",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "N. Jean",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Bell",
+     "id": 164262,
+     "join": "",
+     "name": "Thom Bell",
+     "resource_url": "https://api.discogs.com/artists/164262",
+     "role": "Written-By [Sample]",
+     "tracks": ""
+    },
+    {
+     "anv": "Hart",
+     "id": 442945,
+     "join": "",
+     "name": "William Hart",
+     "resource_url": "https://api.discogs.com/artists/442945",
+     "role": "Written-By [Sample]",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Ready Or Not",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Jerry \"Te Bass\" Duplessis",
+     "id": 60965,
+     "join": "",
+     "name": "Jerry Duplessis",
+     "resource_url": "https://api.discogs.com/artists/60965",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Prakazrel \"Pras\"",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Hill",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Michel",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "N. Jean",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Dubin",
+     "id": 628267,
+     "join": "",
+     "name": "Al Dubin",
+     "resource_url": "https://api.discogs.com/artists/628267",
+     "role": "Written-By [Elements]",
+     "tracks": ""
+    },
+    {
+     "anv": "Warren",
+     "id": 601710,
+     "join": "",
+     "name": "Harry Warren (2)",
+     "resource_url": "https://api.discogs.com/artists/601710",
+     "role": "Written-By [Elements]",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Zealots",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Jerry \"Te Bass\" Duplessis",
+     "id": 60965,
+     "join": "",
+     "name": "Jerry Duplessis",
+     "resource_url": "https://api.discogs.com/artists/60965",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Prakazrel \"Pras\"",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 177774,
+     "join": "",
+     "name": "Bassy Bob Brockmann",
+     "resource_url": "https://api.discogs.com/artists/177774",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 384459,
+     "join": "",
+     "name": "Backspin (2)",
+     "resource_url": "https://api.discogs.com/artists/384459",
+     "role": "Scratches",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Hill",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Michel",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "N. Jean",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "The Beast",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Gary \"Mon\" Noble",
+     "id": 195856,
+     "join": "",
+     "name": "Gary Noble",
+     "resource_url": "https://api.discogs.com/artists/195856",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10421,
+     "join": "",
+     "name": "Salaam Remi",
+     "resource_url": "https://api.discogs.com/artists/10421",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "A. McGrier",
+     "id": 284727,
+     "join": "",
+     "name": "Allen McGrier",
+     "resource_url": "https://api.discogs.com/artists/284727",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Hill",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Michel",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Remi",
+     "id": 10421,
+     "join": "",
+     "name": "Salaam Remi",
+     "resource_url": "https://api.discogs.com/artists/10421",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Marie",
+     "id": 32520,
+     "join": "",
+     "name": "Teena Marie",
+     "resource_url": "https://api.discogs.com/artists/32520",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "N. Jean",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "McGrier",
+     "id": 284727,
+     "join": "",
+     "name": "Allen McGrier",
+     "resource_url": "https://api.discogs.com/artists/284727",
+     "role": "Written-By [Sample]",
+     "tracks": ""
+    },
+    {
+     "anv": "Marie",
+     "id": 32520,
+     "join": "",
+     "name": "Teena Marie",
+     "resource_url": "https://api.discogs.com/artists/32520",
+     "role": "Written-By [Sample]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Fu-gee La",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Jerry \"Te Bass\" Duplessis",
+     "id": 60965,
+     "join": "",
+     "name": "Jerry Duplessis",
+     "resource_url": "https://api.discogs.com/artists/60965",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Prakazrel \"Pras\"",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "Forte",
+     "id": 693161,
+     "join": "",
+     "name": "John Forté",
+     "resource_url": "https://api.discogs.com/artists/693161",
+     "role": "Featuring, Guest",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 121180,
+     "join": "",
+     "name": "Omega (2)",
+     "resource_url": "https://api.discogs.com/artists/121180",
+     "role": "Featuring, Guest",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "John Forte",
+     "id": 693161,
+     "join": "",
+     "name": "John Forté",
+     "resource_url": "https://api.discogs.com/artists/693161",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "Forte",
+     "id": 693161,
+     "join": "",
+     "name": "John Forté",
+     "resource_url": "https://api.discogs.com/artists/693161",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Hill",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 121180,
+     "join": "",
+     "name": "Omega (2)",
+     "resource_url": "https://api.discogs.com/artists/121180",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Michel",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "N. Jean",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Family Business",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Backing Vocals, Arranged By [Vocals Arrangement]",
+     "tracks": ""
+    },
+    {
+     "anv": "Jerry \"Te Bass\" Duplessis",
+     "id": 60965,
+     "join": "",
+     "name": "Jerry Duplessis",
+     "resource_url": "https://api.discogs.com/artists/60965",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Prakazrel \"Pras\"",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Fox",
+     "id": 252672,
+     "join": "",
+     "name": "Charles Fox",
+     "resource_url": "https://api.discogs.com/artists/252672",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "N. Gimbel",
+     "id": 566915,
+     "join": "",
+     "name": "Norman Gimbel",
+     "resource_url": "https://api.discogs.com/artists/566915",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Killing Me Softly",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Jerry \"Te Bass\" Duplessis",
+     "id": 60965,
+     "join": "",
+     "name": "Jerry Duplessis",
+     "resource_url": "https://api.discogs.com/artists/60965",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Prakazrel \"Pras\"",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 25777,
+     "join": "",
+     "name": "Diamond D",
+     "resource_url": "https://api.discogs.com/artists/25777",
+     "role": "Featuring, Guest",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 25777,
+     "join": "",
+     "name": "Diamond D",
+     "resource_url": "https://api.discogs.com/artists/25777",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 25777,
+     "join": "",
+     "name": "Diamond D",
+     "resource_url": "https://api.discogs.com/artists/25777",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 25777,
+     "join": "",
+     "name": "Diamond D",
+     "resource_url": "https://api.discogs.com/artists/25777",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Hill",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Michel",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "N. Jean",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "The Score",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Jerry \"Te Bass\" Duplessis",
+     "id": 60965,
+     "join": "",
+     "name": "Jerry Duplessis",
+     "resource_url": "https://api.discogs.com/artists/60965",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Prakazrel \"Pras\"",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 177774,
+     "join": "",
+     "name": "Bassy Bob Brockmann",
+     "resource_url": "https://api.discogs.com/artists/177774",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Recorded By, Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Recorded By, Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Hill",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Michel",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "N. Jean",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "The Mask",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Jerry \"Te Bass\" Duplessis",
+     "id": 60965,
+     "join": "",
+     "name": "Jerry Duplessis",
+     "resource_url": "https://api.discogs.com/artists/60965",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Prakazrel \"Pras\"",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "Pace 1",
+     "id": 49292,
+     "join": "",
+     "name": "Pacewon",
+     "resource_url": "https://api.discogs.com/artists/49292",
+     "role": "Featuring, Guest",
+     "tracks": ""
+    },
+    {
+     "anv": "Ra Digga",
+     "id": 105456,
+     "join": "",
+     "name": "Rah Digga",
+     "resource_url": "https://api.discogs.com/artists/105456",
+     "role": "Featuring, Guest",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 83097,
+     "join": "",
+     "name": "Young Zee",
+     "resource_url": "https://api.discogs.com/artists/83097",
+     "role": "Featuring, Guest",
+     "tracks": ""
+    },
+    {
+     "anv": "John Forte",
+     "id": 693161,
+     "join": "",
+     "name": "John Forté",
+     "resource_url": "https://api.discogs.com/artists/693161",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "Forte",
+     "id": 693161,
+     "join": "",
+     "name": "John Forté",
+     "resource_url": "https://api.discogs.com/artists/693161",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Hill",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Pace 1",
+     "id": 49292,
+     "join": "",
+     "name": "Pacewon",
+     "resource_url": "https://api.discogs.com/artists/49292",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Michel",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Ra Digga",
+     "id": 105456,
+     "join": "",
+     "name": "Rah Digga",
+     "resource_url": "https://api.discogs.com/artists/105456",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "N. Jean",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 83097,
+     "join": "",
+     "name": "Young Zee",
+     "resource_url": "https://api.discogs.com/artists/83097",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Cowboys",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Jerry \"Te Bass\" Duplessis",
+     "id": 60965,
+     "join": "",
+     "name": "Jerry Duplessis",
+     "resource_url": "https://api.discogs.com/artists/60965",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Prakazrel \"Pras\"",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "John Forte",
+     "id": 693161,
+     "join": "",
+     "name": "John Forté",
+     "resource_url": "https://api.discogs.com/artists/693161",
+     "role": "Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "V. Ford",
+     "id": 541794,
+     "join": "",
+     "name": "Vincent Ford",
+     "resource_url": "https://api.discogs.com/artists/541794",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "No Woman, No Cry",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Jerry \"Te Bass\" Duplessis",
+     "id": 60965,
+     "join": "",
+     "name": "Jerry Duplessis",
+     "resource_url": "https://api.discogs.com/artists/60965",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Prakazrel \"Pras\"",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 31518,
+     "join": "",
+     "name": "Red Alert",
+     "resource_url": "https://api.discogs.com/artists/31518",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136534,
+     "join": "",
+     "name": "Warren Riker",
+     "resource_url": "https://api.discogs.com/artists/136534",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "Wyclef",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "DJ Scribble",
+     "id": 16627,
+     "join": "",
+     "name": "DJ Skribble",
+     "resource_url": "https://api.discogs.com/artists/16627",
+     "role": "Scratches",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 31518,
+     "join": "",
+     "name": "Red Alert",
+     "resource_url": "https://api.discogs.com/artists/31518",
+     "role": "Voice",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Hill",
+     "id": 42627,
+     "join": "",
+     "name": "Lauryn Hill",
+     "resource_url": "https://api.discogs.com/artists/42627",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Michel",
+     "id": 356428,
+     "join": "",
+     "name": "Pras Michel",
+     "resource_url": "https://api.discogs.com/artists/356428",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "N. Jean",
+     "id": 50200,
+     "join": "",
+     "name": "Wyclef Jean",
+     "resource_url": "https://api.discogs.com/artists/50200",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Manifest / Outro",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/2691711-Fugees-The-Score",
+ "year": 2010
+}

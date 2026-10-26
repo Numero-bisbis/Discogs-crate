@@ -1,0 +1,86 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1622339,
+   "join": "",
+   "name": "Blawan",
+   "resource_url": "https://api.discogs.com/artists/1622339",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/myOxPADf3PaC_WH4mRy6scaIlArFDyA4_ozMIvDpdgE/rs:fit/g:sm/q:90/h:600/w:525/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2MjIz/MzktMTcxNzc2MzIy/MS01NDk2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Belgium",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 3127881,
+ "images": [
+  {
+   "height": 550,
+   "resource_url": "https://i.discogs.com/6KgJmNpHzggZTVz2U05rsKKjgVB-wS7LedpJNKko8B8/rs:fit/g:sm/q:90/h:550/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjc4/ODEtMTMxNzE0Njcy/Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/6KgJmNpHzggZTVz2U05rsKKjgVB-wS7LedpJNKko8B8/rs:fit/g:sm/q:90/h:550/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjc4/ODEtMTMxNzE0Njcy/Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/k3AocHbz09OnvQ4OxnUFYemtapZcajPxNneJihY4LFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjc4/ODEtMTMxNzE0Njcy/Ny5qcGVn.jpeg",
+   "width": 561
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RS 1108",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 245,
+   "name": "R & S Records",
+   "resource_url": "https://api.discogs.com/labels/245",
+   "thumbnail_url": "https://i.discogs.com/_N2CVV8Zx5dgxcfBExsvfC7yHaXzr5KTnwwQSRTwJHQ/rs:fit/g:sm/q:90/h:600/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI0NS0x/NjEyNTM1NDYzLTI4/NjUuanBlZw.jpeg"
+  }
+ ],
+ "notes": "Voice of KDJ taken from a lecture at Red Bull Academy London.\r\n\r\nTrack durations and BPM are not provided on the record.\r\nBPM:\r\nA: 128\r\nB: 124",
+ "released": "2011-09-26",
+ "styles": [
+  "House",
+  "Techno",
+  "Tech House",
+  "Acid"
+ ],
+ "title": "What You Do With What You Have",
+ "tracklist": [
+  {
+   "duration": "6:31",
+   "extraartists": [
+    {
+     "anv": "KDJ",
+     "id": 126,
+     "join": "",
+     "name": "Kenny Dixon Jr.",
+     "resource_url": "https://api.discogs.com/artists/126",
+     "role": "Voice",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "What You Do With What You Have",
+   "type_": "track"
+  },
+  {
+   "duration": "5:11",
+   "position": "B",
+   "title": "Vibe Decorium",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/3127881-Blawan-What-You-Do-With-What-You-Have",
+ "year": 2011
+}

@@ -1,0 +1,176 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4015142,
+   "join": "",
+   "name": "Fatnotronic",
+   "resource_url": "https://api.discogs.com/artists/4015142",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/1Nd0VqctN3_5KUrZpNrA7srsIvjmD5D0pzrMoySLap8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwMTUx/NDItMTQyNDYxOTE3/Ni0xMTUzLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  },
+  {
+   "descriptions": [
+    "7\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  },
+  {
+   "descriptions": [
+    "Record Store Day"
+   ],
+   "name": "All Media",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Funk / Soul"
+ ],
+ "id": 8403745,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/QSvOWVHNiZ_BLjDeR2AsGqIBGMw0UruUk-lrW8eS2W8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDM3/NDUtMTQ2MzA1NTc5/NC0xMjY3LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/QSvOWVHNiZ_BLjDeR2AsGqIBGMw0UruUk-lrW8eS2W8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDM3/NDUtMTQ2MzA1NTc5/NC0xMjY3LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/Qqz9Z6mk4o3J6JhF1bdwLxH2PZsKBkAhOiDa91qfViM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDM3/NDUtMTQ2MzA1NTc5/NC0xMjY3LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RNTR009",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3164477,
+   "name": "Razor-N-Tape Reserve",
+   "resource_url": "https://api.discogs.com/labels/3164477",
+   "thumbnail_url": "https://i.discogs.com/ba54sBh5ICFg5AZUj9rv6kJp8XRXpihne4hYtuk0PCQ/rs:fit/g:sm/q:90/h:187/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNjQ0/NzctMTY3ODM3NzA0/Ni05MzY5LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Record Store Day 2016 release.\n\nGatefold sleeve.\n\nA1 is an edit of [r3093369].\nA2 is an edit of [m1415172].\nA3 samples [m27533].\nB3 is a remix of [r16373673].\nSide A of the bonus 7\" is an edit of [m955716] and a cover of Pino [m72284].",
+ "released": "2016-04-16",
+ "styles": [
+  "Disco",
+  "Beatdown",
+  "Funk"
+ ],
+ "title": "Onde Anda",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "7, 8 e 1",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 47715,
+     "join": "",
+     "name": "In Flagranti",
+     "resource_url": "https://api.discogs.com/artists/47715",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Botoque",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 475249,
+     "join": "",
+     "name": "Felipe Sá",
+     "resource_url": "https://api.discogs.com/artists/475249",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Formula 1",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 47715,
+     "join": "",
+     "name": "In Flagranti",
+     "resource_url": "https://api.discogs.com/artists/47715",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Me Diga",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "É Um Barato",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 475249,
+     "join": "",
+     "name": "Felipe Sá",
+     "resource_url": "https://api.discogs.com/artists/475249",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Onde Anda",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "",
+   "title": "Bonus 7\"",
+   "type_": "heading"
+  },
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Margarida",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Blaus",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/8403745-Fatnotronic-Onde-Anda",
+ "year": 2016
+}

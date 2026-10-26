@@ -1,0 +1,213 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 274623,
+   "join": "",
+   "name": "Ebo Taylor",
+   "resource_url": "https://api.discogs.com/artists/274623",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/vYvUvHTQCogCv8pl7RqZ_3TLLrw2s2qu1s8hCmlM3Mg/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3NDYy/My0xNTM4NzA5MDg4/LTQ3MDMuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Folk, World, & Country"
+ ],
+ "id": 11807925,
+ "images": [
+  {
+   "height": 598,
+   "resource_url": "https://i.discogs.com/owKR-jh-RLHvZe7LB5QklWM5-uCbbCBJlAepY762los/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA3/OTI1LTE1MjI3MjI5/MDItODY1MS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/owKR-jh-RLHvZe7LB5QklWM5-uCbbCBJlAepY762los/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA3/OTI1LTE1MjI3MjI5/MDItODY1MS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/8qxfc7P3PJfp-Yv6h1mQziCdQsGONflS5uTfhnJZnd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA3/OTI1LTE1MjI3MjI5/MDItODY1MS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "MRBLP155",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 847,
+   "name": "Mr Bongo",
+   "resource_url": "https://api.discogs.com/labels/847",
+   "thumbnail_url": "https://i.discogs.com/04S28F7TucD5YIhFMBar317xk_eH9Ou4YClnS8X8IL4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg0Ny0x/NTAxMDE2NTAxLTU1/ODQucG5n.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-04-06",
+ "styles": [
+  "Highlife"
+ ],
+ "title": "Yen Ara",
+ "tracklist": [
+  {
+   "duration": "4:33",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5357408,
+     "join": "",
+     "name": "Henry Taylor (6)",
+     "resource_url": "https://api.discogs.com/artists/5357408",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Poverty No Good",
+   "type_": "track"
+  },
+  {
+   "duration": "4:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 274623,
+     "join": "",
+     "name": "Ebo Taylor",
+     "resource_url": "https://api.discogs.com/artists/274623",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Mumudey Mumudey",
+   "type_": "track"
+  },
+  {
+   "duration": "3:36",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 274623,
+     "join": "",
+     "name": "Ebo Taylor",
+     "resource_url": "https://api.discogs.com/artists/274623",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Krumandey",
+   "type_": "track"
+  },
+  {
+   "duration": "5:08",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 274623,
+     "join": "",
+     "name": "Ebo Taylor",
+     "resource_url": "https://api.discogs.com/artists/274623",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Aboa Kyirbin",
+   "type_": "track"
+  },
+  {
+   "duration": "3:08",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 274623,
+     "join": "",
+     "name": "Ebo Taylor",
+     "resource_url": "https://api.discogs.com/artists/274623",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Yen Ara",
+   "type_": "track"
+  },
+  {
+   "duration": "5:13",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 274623,
+     "join": "",
+     "name": "Ebo Taylor",
+     "resource_url": "https://api.discogs.com/artists/274623",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Mind Your Own Business",
+   "type_": "track"
+  },
+  {
+   "duration": "5:19",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 274623,
+     "join": "",
+     "name": "Ebo Taylor",
+     "resource_url": "https://api.discogs.com/artists/274623",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Ankona'm",
+   "type_": "track"
+  },
+  {
+   "duration": "3:50",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 274623,
+     "join": "",
+     "name": "Ebo Taylor",
+     "resource_url": "https://api.discogs.com/artists/274623",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Abenkwan Puchaa",
+   "type_": "track"
+  },
+  {
+   "duration": "5:19",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 274623,
+     "join": "",
+     "name": "Ebo Taylor",
+     "resource_url": "https://api.discogs.com/artists/274623",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Aba Yaa",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11807925-Ebo-Taylor-Yen-Ara",
+ "year": 2018
+}

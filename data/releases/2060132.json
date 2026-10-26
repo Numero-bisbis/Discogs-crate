@@ -1,0 +1,293 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 98585,
+   "join": "",
+   "name": "Ray Bryant",
+   "resource_url": "https://api.discogs.com/artists/98585",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ph96AQhZo3pbnBb6DRi2eqsfQ52nWqlqpo_uOaMMQlo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk4NTg1/LTE3NTgzMTU2MjEt/ODc2NS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Funk / Soul"
+ ],
+ "id": 2060132,
+ "images": [
+  {
+   "height": 300,
+   "resource_url": "https://i.discogs.com/-uxg1odPMA7WTH0SAEiGKkKCmPRLpz5pnumm6B2lwIE/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjAx/MzItMTMxOTIyMDgx/NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/-uxg1odPMA7WTH0SAEiGKkKCmPRLpz5pnumm6B2lwIE/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjAx/MzItMTMxOTIyMDgx/NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/vGlqX4gMU5cYd1KZrVR0tsjCfSZ9pq_NEkgum6byiFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjAx/MzItMTMxOTIyMDgx/NC5qcGVn.jpeg",
+   "width": 300
+  }
+ ],
+ "labels": [
+  {
+   "catno": "LPS 801",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 36003,
+   "name": "Cadet",
+   "resource_url": "https://api.discogs.com/labels/36003",
+   "thumbnail_url": "https://i.discogs.com/m4iGFXcZIGM8Rp2FuEW6idI93BXdkb6UE6YF2MjIoiY/rs:fit/g:sm/q:90/h:380/w:361/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2MDAz/LTE2NDUzMzI5NDMt/MzYwNi5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Recorded August & November, 1967, at Ter Mar Studios, Chicago",
+ "released": "1967",
+ "styles": [
+  "Soul-Jazz"
+ ],
+ "title": "Take A Bryant-Step",
+ "tracklist": [
+  {
+   "duration": "3:05",
+   "extraartists": [
+    {
+     "anv": "Black",
+     "id": 383080,
+     "join": "",
+     "name": "Don Black",
+     "resource_url": "https://api.discogs.com/artists/383080",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "London",
+     "id": 251743,
+     "join": "",
+     "name": "Mark London",
+     "resource_url": "https://api.discogs.com/artists/251743",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "To Sir With Love",
+   "type_": "track"
+  },
+  {
+   "duration": "3:10",
+   "extraartists": [
+    {
+     "anv": "Coleman",
+     "id": 224506,
+     "join": "",
+     "name": "Ornette Coleman",
+     "resource_url": "https://api.discogs.com/artists/224506",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Ramblin",
+   "type_": "track"
+  },
+  {
+   "duration": "2:35",
+   "extraartists": [
+    {
+     "anv": "Goffin, King",
+     "id": 682663,
+     "join": "",
+     "name": "Goffin And King",
+     "resource_url": "https://api.discogs.com/artists/682663",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Wexler",
+     "id": 248847,
+     "join": "",
+     "name": "Jerry Wexler",
+     "resource_url": "https://api.discogs.com/artists/248847",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Natural Woman",
+   "type_": "track"
+  },
+  {
+   "duration": "3:13",
+   "extraartists": [
+    {
+     "anv": "Gentry",
+     "id": 295181,
+     "join": "",
+     "name": "Bobbie Gentry",
+     "resource_url": "https://api.discogs.com/artists/295181",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Ode To Billy Joe",
+   "type_": "track"
+  },
+  {
+   "duration": "3:18",
+   "extraartists": [
+    {
+     "anv": "Webb",
+     "id": 266406,
+     "join": "",
+     "name": "Jimmy Webb",
+     "resource_url": "https://api.discogs.com/artists/266406",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Up-Up And Away",
+   "type_": "track"
+  },
+  {
+   "duration": "3:17",
+   "extraartists": [
+    {
+     "anv": "Jagger & Richards",
+     "id": 845581,
+     "join": "",
+     "name": "Jagger-Richards",
+     "resource_url": "https://api.discogs.com/artists/845581",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Paint It Black",
+   "type_": "track"
+  },
+  {
+   "duration": "3:07",
+   "extraartists": [
+    {
+     "anv": "Ragavoy",
+     "id": 293080,
+     "join": "",
+     "name": "Jerry Ragovoy",
+     "resource_url": "https://api.discogs.com/artists/293080",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Makeba",
+     "id": 76040,
+     "join": "",
+     "name": "Miriam Makeba",
+     "resource_url": "https://api.discogs.com/artists/76040",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Pata Pata",
+   "type_": "track"
+  },
+  {
+   "duration": "3:07",
+   "extraartists": [
+    {
+     "anv": "Evans",
+     "id": 242317,
+     "join": "",
+     "name": "Richard Evans (2)",
+     "resource_url": "https://api.discogs.com/artists/242317",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Poochie",
+   "type_": "track"
+  },
+  {
+   "duration": "2:40",
+   "extraartists": [
+    {
+     "anv": "Lennon & McCartney",
+     "id": 779927,
+     "join": "",
+     "name": "Lennon-McCartney",
+     "resource_url": "https://api.discogs.com/artists/779927",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Yesterday",
+   "type_": "track"
+  },
+  {
+   "duration": "2:55",
+   "extraartists": [
+    {
+     "anv": "Webb",
+     "id": 266406,
+     "join": "",
+     "name": "Jimmy Webb",
+     "resource_url": "https://api.discogs.com/artists/266406",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Paper Cup",
+   "type_": "track"
+  },
+  {
+   "duration": "2:40",
+   "extraartists": [
+    {
+     "anv": "Evans",
+     "id": 242317,
+     "join": "",
+     "name": "Richard Evans (2)",
+     "resource_url": "https://api.discogs.com/artists/242317",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Doing My Thing",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "McGlohon",
+     "id": 1111200,
+     "join": "",
+     "name": "Loonis McGlohon",
+     "resource_url": "https://api.discogs.com/artists/1111200",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Dinner On The Grounds",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/2060132-Ray-Bryant-Take-A-Bryant-Step",
+ "year": 1967
+}

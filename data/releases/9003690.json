@@ -1,0 +1,76 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5268524,
+   "join": "",
+   "name": "Phillipi & Rodrigo",
+   "resource_url": "https://api.discogs.com/artists/5268524",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/m4L6Ag3CxsQjdPoeMXv4d2M8re1lM-StRvwjozmwA0k/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyNjg1/MjQtMTU1MDU4MTkx/Ni02OTI3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Belgium",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Folk, World, & Country"
+ ],
+ "id": 9003690,
+ "images": [
+  {
+   "height": 500,
+   "resource_url": "https://i.discogs.com/_AdUk2oHybQzrCHim1TawpwGfGos31ko0jLjkAh4Fas/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDM2/OTAtMTQ3MzA5NjM5/Ny00MTQ5LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/_AdUk2oHybQzrCHim1TawpwGfGos31ko0jLjkAh4Fas/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDM2/OTAtMTQ3MzA5NjM5/Ny00MTQ5LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/mNxjoK8IHSYEvHRw89U5NtB9RuJEoJyK8-bePTv_PVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDM2/OTAtMTQ3MzA5NjM5/Ny00MTQ5LmpwZWc.jpeg",
+   "width": 500
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DEEWEE017",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 901323,
+   "name": "Deewee",
+   "resource_url": "https://api.discogs.com/labels/901323",
+   "thumbnail_url": "https://i.discogs.com/43iFaH5jTGcKif0DoJFbOk5ajpAmXmRmxUuuphfCAks/rs:fit/g:sm/q:90/h:600/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwMTMy/My0xNTE1NzI4ODk3/LTgxMjYucG5n.jpeg"
+  }
+ ],
+ "notes": "Each side ends with a locked groove.",
+ "released": "2016-08-28",
+ "styles": [
+  "New Beat",
+  "Tribal",
+  "Psychedelic"
+ ],
+ "title": "Mantra / New Beach",
+ "tracklist": [
+  {
+   "duration": "5:20",
+   "position": "A",
+   "title": "Mantra",
+   "type_": "track"
+  },
+  {
+   "duration": "6:16",
+   "position": "B",
+   "title": "New Beach",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/9003690-Phillipi-Rodrigo-Mantra-New-Beach",
+ "year": 2016
+}

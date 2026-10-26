@@ -1,0 +1,158 @@
+{
+ "artists": [
+  {
+   "anv": "Pacheco",
+   "id": 271005,
+   "join": "Y",
+   "name": "Johnny Pacheco",
+   "resource_url": "https://api.discogs.com/artists/271005",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ewiu5Kh47BzZSATX1s4jyECCH2oz8T2c-N7xDoCAkOs/rs:fit/g:sm/q:90/h:600/w:477/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3MTAw/NS0xNTkxMTc3NTg4/LTk3NzcuanBlZw.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "Monguito El Unico",
+   "id": 2094336,
+   "join": "",
+   "name": "Monguito (2)",
+   "resource_url": "https://api.discogs.com/artists/2094336",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/nhbMwqCNn1_uBxJFSIuzygIr-j0tYoPk2KistQN-MZg/rs:fit/g:sm/q:90/h:250/w:243/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwOTQz/MzYtMTI5NTYyMzMw/Ny5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Latin"
+ ],
+ "id": 3450561,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/De8mvbAm7mJQaV5rjrxeGAK86F98GqsPNbC9Wk87B7A/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTA1/NjEtMTc2MzgzNTMw/OC01ODM4LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/De8mvbAm7mJQaV5rjrxeGAK86F98GqsPNbC9Wk87B7A/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTA1/NjEtMTc2MzgzNTMw/OC01ODM4LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/ETUaeKeqQNhS9LiT57mjO7HdhDi1L_LHr4bJE1PmlcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTA1/NjEtMTc2MzgzNTMw/OC01ODM4LmpwZWc.jpeg",
+   "width": 592
+  }
+ ],
+ "labels": [
+  {
+   "catno": "JM 567",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 36950,
+   "name": "Fania Records",
+   "resource_url": "https://api.discogs.com/labels/36950",
+   "thumbnail_url": "https://i.discogs.com/y5-U-nukJzqSWFonI3oqT9GwaRESk_qCkHiIFePJ5aw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2OTUw/LTE1NzcyOTc0MzEt/Mzg4My5wbmc.jpeg"
+  }
+ ],
+ "notes": "1980 US Fania Records release on their 1st Palm Tree label variation with Side A, and Side B written ABOVE JM 567. The 2nd Palm Tree label variation, which is not in this Data Base yet, will have the opposite with Side A, and Side B written BELOW JM 567.\n\nThese tracks are from various releases by both Monquito and Pachaco.",
+ "released": "1980",
+ "styles": [
+  "Salsa",
+  "Guaguancó",
+  "Cha-Cha",
+  "Bolero",
+  "Son"
+ ],
+ "title": "La Crema",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "El Diablo",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Se Me Fue",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "La Rebelion",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Esto Si Se Llama Querer",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "Chambelon",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A6",
+   "title": "Me Voy Contigo",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A7",
+   "title": "Ceunto Na' Ma",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "A Moron",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Quitate El Chaqueton",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "El Pajaro Y El Cazador",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Amanecer Guajiro",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "Oye Canuto",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B6",
+   "title": "Sasonando",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B7",
+   "title": "No Tienes Corazon",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/3450561-Pacheco-Y-Monguito-El-Unico-La-Crema",
+ "year": 1980
+}

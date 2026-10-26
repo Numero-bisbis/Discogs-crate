@@ -1,0 +1,71 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6676451,
+   "join": "",
+   "name": "SRVD",
+   "resource_url": "https://api.discogs.com/artists/6676451",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13792951,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/6FqrVSk2utur_ARvrXRBb-Gvi4SwYAWhbB5XQd1rNFM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzky/OTUxLTE1NjQzMTg4/NTItOTcxNi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/6FqrVSk2utur_ARvrXRBb-Gvi4SwYAWhbB5XQd1rNFM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzky/OTUxLTE1NjQzMTg4/NTItOTcxNi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/b8qRZDZP0JlsYgKBxO-C4UpPXCKA-HBvFXHa4fU0cDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzky/OTUxLTE1NjQzMTg4/NTItOTcxNi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RSPX14",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1419196,
+   "name": "Rekids Special Projects",
+   "resource_url": "https://api.discogs.com/labels/1419196",
+   "thumbnail_url": "https://i.discogs.com/n3_cYRV6PjZg_nA4iDkIkQRTltBVqc9wPU_tCKsgxUE/rs:fit/g:sm/q:90/h:324/w:314/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0MTkx/OTYtMTU5MzIwNTc5/Ny00ODYwLmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-06-25",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Talking 2 B Mad",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Talking 2 B Mad",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Twitch",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13792951-SRVD-Talking-2-B-Mad",
+ "year": 2019
+}

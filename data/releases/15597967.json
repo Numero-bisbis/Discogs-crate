@@ -1,0 +1,163 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 7289821,
+   "join": "",
+   "name": "ascendant vierge",
+   "resource_url": "https://api.discogs.com/artists/7289821",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/gpV98uvdbQdNeB9AF_R3pujORqW6U7LkTrTo8Sisvno/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcyODk4/MjEtMTY5ODUwOTc1/My03ODQwLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "EP",
+    "Limited Edition",
+    "Numbered",
+    "White Label"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 15597967,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/Pk77U5sA7COafbWyl2pepaXzcDYCfnUDUvDOArk6TbA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTk3/OTY3LTE1OTQzMDMy/ODUtMjkyNS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Pk77U5sA7COafbWyl2pepaXzcDYCfnUDUvDOArk6TbA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTk3/OTY3LTE1OTQzMDMy/ODUtMjkyNS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/kh6nlE-h0CkPpgLXBF41jM_xZY8hgMOy-lv4LZ3T4Ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTk3/OTY3LTE1OTQzMDMy/ODUtMjkyNS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "LFEK009",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1582082,
+   "name": "Live From Earth Klub",
+   "resource_url": "https://api.discogs.com/labels/1582082",
+   "thumbnail_url": "https://i.discogs.com/VZgQYSRMWI4GAVMb_94bVx2GJIpHIZQE9SKtpTwk348/rs:fit/g:sm/q:90/h:368/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1ODIw/ODItMTcyOTcwMDUz/Ny0yNDU4LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Limited to 350 records. Stamped white label housed in numbered picture sleeve.\n\n℗ & © Live From Earth Klub 2020",
+ "released": "2020-07-10",
+ "styles": [
+  "Dance-pop",
+  "Hardstyle",
+  "Hard House",
+  "Trance"
+ ],
+ "title": "Influenceur",
+ "tracklist": [
+  {
+   "duration": "3:31",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5240978,
+     "join": "",
+     "name": "Mathilde Fernandez",
+     "resource_url": "https://api.discogs.com/artists/5240978",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3399998,
+     "join": "",
+     "name": "Paul Seul",
+     "resource_url": "https://api.discogs.com/artists/3399998",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7289821,
+     "join": "",
+     "name": "ascendant vierge",
+     "resource_url": "https://api.discogs.com/artists/7289821",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Influenceur",
+   "type_": "track"
+  },
+  {
+   "duration": "4:20",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5240978,
+     "join": "",
+     "name": "Mathilde Fernandez",
+     "resource_url": "https://api.discogs.com/artists/5240978",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3399998,
+     "join": "",
+     "name": "Paul Seul",
+     "resource_url": "https://api.discogs.com/artists/3399998",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7289821,
+     "join": "",
+     "name": "ascendant vierge",
+     "resource_url": "https://api.discogs.com/artists/7289821",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Faire Et Refaire",
+   "type_": "track"
+  },
+  {
+   "duration": "6:37",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6132831,
+     "join": "",
+     "name": "Bauernfeind",
+     "resource_url": "https://api.discogs.com/artists/6132831",
+     "role": "Remix, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2887279,
+     "join": "",
+     "name": "Krampf (2)",
+     "resource_url": "https://api.discogs.com/artists/2887279",
+     "role": "Remix, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Influenceur (Bauernfeind & Krampf's LFEK Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15597967-ascendant-vierge-Influenceur",
+ "year": 2020
+}

@@ -1,0 +1,179 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Sweden",
+ "formats": [
+  {
+   "descriptions": [
+    "12\""
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11293446,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/hInHuRoR942IIVXAN46mPEvYOrMh1aux9lHYOOdgOeE/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjkz/NDQ2LTE1MTM1OTQ4/ODktNjU5Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/hInHuRoR942IIVXAN46mPEvYOrMh1aux9lHYOOdgOeE/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjkz/NDQ2LTE1MTM1OTQ4/ODktNjU5Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/5sIe5ZQTLTDi0Zj-ssX52Q_xnPDxFl6Hc64dksUik9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjkz/NDQ2LTE1MTM1OTQ4/ODktNjU5Ny5qcGVn.jpeg",
+   "width": 592
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DC178.1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 237,
+   "name": "Drumcode",
+   "resource_url": "https://api.discogs.com/labels/237",
+   "thumbnail_url": "https://i.discogs.com/1rrViQveJmRumM48FWYOYNsJD3-iahuaYprtxJgsAQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNy0x/NjkyOTkxNjY2LTg2/NjgucG5n.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2017-12-13",
+ "styles": [
+  "Techno"
+ ],
+ "title": "A-Sides Vol.6 Vinyl One Of Four",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5119514,
+     "join": "",
+     "name": "Amelie Lens",
+     "resource_url": "https://api.discogs.com/artists/5119514",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5119514,
+     "join": "",
+     "name": "Amelie Lens",
+     "resource_url": "https://api.discogs.com/artists/5119514",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "In Silence",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 660203,
+     "join": "",
+     "name": "Ambivalent",
+     "resource_url": "https://api.discogs.com/artists/660203",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 929056,
+     "join": "",
+     "name": "Kevin McHugh (2)",
+     "resource_url": "https://api.discogs.com/artists/929056",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Portmanteau",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1030737,
+     "join": "",
+     "name": "Marco Faraone",
+     "resource_url": "https://api.discogs.com/artists/1030737",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1030737,
+     "join": "",
+     "name": "Marco Faraone",
+     "resource_url": "https://api.discogs.com/artists/1030737",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Desert Crash",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3166122,
+     "join": "",
+     "name": "Dense & Pika",
+     "resource_url": "https://api.discogs.com/artists/3166122",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 825022,
+     "join": "",
+     "name": "Alex Jones (3)",
+     "resource_url": "https://api.discogs.com/artists/825022",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1509103,
+     "join": "",
+     "name": "Christopher Spero",
+     "resource_url": "https://api.discogs.com/artists/1509103",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Just a Beat",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11293446-Various-A-Sides-Vol6-Vinyl-One-Of-Four",
+ "year": 2017
+}

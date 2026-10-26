@@ -1,0 +1,131 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 97664,
+   "join": "",
+   "name": "Bee Gees",
+   "resource_url": "https://api.discogs.com/artists/97664",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/xvyoCUTm_iLzUa3SbgWIWBvKFuT2Amywgd0ssRaf6LU/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk3NjY0/LTE2NjUxNjMyMTkt/NDk2NC5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 4496176,
+ "images": [
+  {
+   "height": 598,
+   "resource_url": "https://i.discogs.com/Zu85Otil7vFVARR9slQ9YfETQUrhGvT-PDAn2AzjJ-Y/rs:fit/g:sm/q:90/h:598/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTYx/NzYtMTM2OTE0NzI3/OS0zNDMwLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Zu85Otil7vFVARR9slQ9YfETQUrhGvT-PDAn2AzjJ-Y/rs:fit/g:sm/q:90/h:598/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTYx/NzYtMTM2OTE0NzI3/OS0zNDMwLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/VACUbXGfYeveislk6R5LzVWxJOWC0ZEg7Pq4q16LP-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTYx/NzYtMTM2OTE0NzI3/OS0zNDMwLmpwZWc.jpeg",
+   "width": 598
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RSBG 001",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 5811,
+   "name": "RSO",
+   "resource_url": "https://api.discogs.com/labels/5811",
+   "thumbnail_url": "https://i.discogs.com/emEe66Gp2XvOoHl6oPc_oLLCfpaBG0sJj0YfBdpXZgM/rs:fit/g:sm/q:90/h:357/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4MTEt/MTQ3NzA0Njg2OC0y/MTU0LnBuZw.jpeg"
+  },
+  {
+   "catno": "2479 222",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 5811,
+   "name": "RSO",
+   "resource_url": "https://api.discogs.com/labels/5811",
+   "thumbnail_url": "https://i.discogs.com/emEe66Gp2XvOoHl6oPc_oLLCfpaBG0sJj0YfBdpXZgM/rs:fit/g:sm/q:90/h:357/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4MTEt/MTQ3NzA0Njg2OC0y/MTU0LnBuZw.jpeg"
+  }
+ ],
+ "notes": "Gatefold with printed inner bag.\nRed RSO label, with catalogue number as per sleeve.\n\nBack cover:\n℗ © 1979 RSO Records, Inc.\nRecord manufactured and distributed in the U.K. by Polydor Ltd.\nSleeve printed and made in England by Howards Ltd.\n\nLabels:\nMade in France\n℗ 1979 RSO\nA2 ℗ 1978 RSO\nProduit pour Karlbhy Productions en accord avec The Robert Stigwood Organisation.\n\nAll tracks RSO/Chappel except A2 Music For Unicef.",
+ "released": "1979-02-05",
+ "styles": [
+  "Synth-pop",
+  "Disco"
+ ],
+ "title": "Spirits Having Flown",
+ "tracklist": [
+  {
+   "duration": "5:00",
+   "position": "A1",
+   "title": "Tragedy",
+   "type_": "track"
+  },
+  {
+   "duration": "4:54",
+   "position": "A2",
+   "title": "Too Much Heaven",
+   "type_": "track"
+  },
+  {
+   "duration": "4:08",
+   "position": "A3",
+   "title": "Love You Inside Out",
+   "type_": "track"
+  },
+  {
+   "duration": "4:04",
+   "position": "A4",
+   "title": "Reaching Out",
+   "type_": "track"
+  },
+  {
+   "duration": "5:17",
+   "position": "A5",
+   "title": "Spirits (Having Flown)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:11",
+   "position": "B1",
+   "title": "Search, Find",
+   "type_": "track"
+  },
+  {
+   "duration": "6:37",
+   "position": "B2",
+   "title": "Stop (Think Again)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:18",
+   "position": "B3",
+   "title": "Living Together",
+   "type_": "track"
+  },
+  {
+   "duration": "3:53",
+   "position": "B4",
+   "title": "I'm Satisfied",
+   "type_": "track"
+  },
+  {
+   "duration": "2:25",
+   "position": "B5",
+   "title": "Until",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/4496176-Bee-Gees-Spirits-Having-Flown",
+ "year": 1979
+}

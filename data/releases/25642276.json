@@ -1,0 +1,87 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4162879,
+   "join": "Feat.",
+   "name": "Loyle Carner",
+   "resource_url": "https://api.discogs.com/artists/4162879",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/OsNX_gAuQchB5Kod2UB-f-NNWhCe_KBbgbQ5VvKCWcs/rs:fit/g:sm/q:90/h:600/w:513/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQxNjI4/NzktMTU5NzQzNDEz/Ny01NDE2LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 2664971,
+   "join": "",
+   "name": "John Agard",
+   "resource_url": "https://api.discogs.com/artists/2664971",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/dpknp034VP4cwX0qICZTrxI7q56PBrtu1vbM-QQonEQ/rs:fit/g:sm/q:90/h:600/w:437/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI2NjQ5/NzEtMTQzMDg0OTkw/MS00MDU4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "7\"",
+    "Single Sided",
+    "Limited Edition"
+   ],
+   "name": "Flexi-disc",
+   "qty": "1",
+   "text": "Clear"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 25642276,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/dFx8eU6PyZzvixpIIXat2hGQQ0WG1OyXVN8MRemOBkg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjQy/Mjc2LTE2Nzk0MTQz/NjYtNzA5OC5wbmc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/dFx8eU6PyZzvixpIIXat2hGQQ0WG1OyXVN8MRemOBkg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjQy/Mjc2LTE2Nzk0MTQz/NjYtNzA5OC5wbmc.jpeg",
+   "uri150": "https://i.discogs.com/k1oQcvG3FxQymh2FZEEWVrJaX0LeVnkqPwdDpHSmnUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjQy/Mjc2LTE2Nzk0MTQz/NjYtNzA5OC5wbmc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "EMIVS 2071",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 26126,
+   "name": "EMI",
+   "resource_url": "https://api.discogs.com/labels/26126",
+   "thumbnail_url": "https://i.discogs.com/kyUkdCkRdB9c0UbyACsewybDBqUqAVAU6ndQAp2VII4/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2MTI2/LTEyMDY0Njg0NTEu/anBlZw.jpeg"
+  },
+  {
+   "catno": "00602448474407",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 26126,
+   "name": "EMI",
+   "resource_url": "https://api.discogs.com/labels/26126",
+   "thumbnail_url": "https://i.discogs.com/kyUkdCkRdB9c0UbyACsewybDBqUqAVAU6ndQAp2VII4/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2MTI2/LTEyMDY0Njg0NTEu/anBlZw.jpeg"
+  }
+ ],
+ "notes": "Limited to a 300 copies",
+ "released": "2022",
+ "styles": [
+  "Conscious"
+ ],
+ "title": "Georgetown",
+ "tracklist": [
+  {
+   "duration": "2:56",
+   "position": "A",
+   "title": "Georgetown",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/25642276-Loyle-Carner-Feat-John-Agard-Georgetown",
+ "year": 2022
+}

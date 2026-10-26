@@ -1,0 +1,107 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4527714,
+   "join": "",
+   "name": "Kapote",
+   "resource_url": "https://api.discogs.com/artists/4527714",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/yYRyeo1VDPAG9xc--On65wwMxhc9-qZU3urFF0Na0N4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ1Mjc3/MTQtMTY4MDgyMTUx/MC0yMDA3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Italy",
+ "formats": [
+  {
+   "descriptions": [
+    "12\""
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13181220,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/hpvYj7aWoJMhCbJD9yOaOM4ihMeSseyYzt1_8PoGllk/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTgx/MjIwLTE1NDk3MTI3/MjgtODM3Ni5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/hpvYj7aWoJMhCbJD9yOaOM4ihMeSseyYzt1_8PoGllk/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTgx/MjIwLTE1NDk3MTI3/MjgtODM3Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/j-aH2U7-PmjsJWt13kyK8GkpoZds92vNRl46wuxoWVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTgx/MjIwLTE1NDk3MTI3/MjgtODM3Ni5qcGVn.jpeg",
+   "width": 594
+  }
+ ],
+ "labels": [
+  {
+   "catno": "TOYT089",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 353749,
+   "name": "Toy Tonics",
+   "resource_url": "https://api.discogs.com/labels/353749",
+   "thumbnail_url": "https://i.discogs.com/EbDnjVaKLXIJJgIHa7rRvMM5eH6Epv43CzWnMxRzq8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM1Mzc0/OS0xNjk3MzYxNDYw/LTI1OTIuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-03-00",
+ "styles": [
+  "House",
+  "Nu-Disco",
+  "Deep House"
+ ],
+ "title": "Brasiliko",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Brasiliko",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1449063,
+     "join": "",
+     "name": "Giovanni Damico",
+     "resource_url": "https://api.discogs.com/artists/1449063",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Brasiliko (Giovanni Damico Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 953065,
+     "join": "",
+     "name": "Byron The Aquarius",
+     "resource_url": "https://api.discogs.com/artists/953065",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Brasiliko (Byron The Aquarius Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Salva Tion",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13181220-Kapote-Brasiliko",
+ "year": 2019
+}

@@ -1,0 +1,108 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 978010,
+   "join": ",",
+   "name": "Jon K",
+   "resource_url": "https://api.discogs.com/artists/978010",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/TSSGvHsODqUajienFB6ZRnDabGAUjkz4BPHK5xWIJ-U/rs:fit/g:sm/q:90/h:377/w:322/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk3ODAx/MC0xNjQ2NTY3NTAz/LTU5MzYucG5n.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 924762,
+   "join": "",
+   "name": "Pat Thomas (3)",
+   "resource_url": "https://api.discogs.com/artists/924762",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/QeEQfvJGFgsZ0BSBYM4H7cKG-W5pEmvj6gdhjtJ-Sbw/rs:fit/g:sm/q:90/h:400/w:489/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTkyNDc2/Mi0xNTc1MDQyMjE5/LTU0MDQuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Funk / Soul",
+  "Folk, World, & Country"
+ ],
+ "id": 12712993,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/YDFX9pBXMpDzoSgQiUbbfIAWpzg2A6OczClUXSCuMoU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEy/OTkzLTE1NDM3NjU2/ODUtNDI3NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/YDFX9pBXMpDzoSgQiUbbfIAWpzg2A6OczClUXSCuMoU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEy/OTkzLTE1NDM3NjU2/ODUtNDI3NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/ydX5AQaTec6JF-PCl8QNODkdJ9HfnbHebDzBFmOPi3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEy/OTkzLTE1NDM3NjU2/ODUtNDI3NC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SNDW12030",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 32575,
+   "name": "Soundway",
+   "resource_url": "https://api.discogs.com/labels/32575",
+   "thumbnail_url": "https://i.discogs.com/W28PrZN1MStO3sfOn5PDIBbxBu1RHKflaPE5qDlGOSw/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyNTc1/LTE0NDE4MzE2MDct/NjAzNC5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Side A: originally released in 1989 on [l211085]: [r5902446]\nSide B: originally released in 1988 on [l211085]: [r3952336]",
+ "released": "2018-11-30",
+ "styles": [
+  "Highlife",
+  "Boogie",
+  "Disco",
+  "African"
+ ],
+ "title": "Asafo / Enye Woa",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 978010,
+     "join": "",
+     "name": "Jon K",
+     "resource_url": "https://api.discogs.com/artists/978010",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:46",
+   "position": "A",
+   "title": "Asafo",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 924762,
+     "join": "",
+     "name": "Pat Thomas (3)",
+     "resource_url": "https://api.discogs.com/artists/924762",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:28",
+   "position": "B",
+   "title": "Enye Woa (Extended Intro)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12712993-Jon-K-Pat-Thomas-3-Asafo-Enye-Woa",
+ "year": 2018
+}

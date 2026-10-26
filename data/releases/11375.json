@@ -1,0 +1,100 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 750,
+   "join": "",
+   "name": "Laurent Garnier",
+   "resource_url": "https://api.discogs.com/artists/750",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/KYhG25JKsGiQwIZKcT5A6iEr6VInZ2gp1dVSgdEJF7k/rs:fit/g:sm/q:90/h:600/w:459/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1MC0x/NjQ0NTYxNDM1LTUx/NjYuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK & Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM",
+    "Misprint"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11375,
+ "images": [
+  {
+   "height": 578,
+   "resource_url": "https://i.discogs.com/F3pEl2qtIGbxM7-oFAjROK8Jx7cQ_LVOhQjmOonXNfQ/rs:fit/g:sm/q:90/h:578/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc1/LTEyMTU5NzUwNzAu/anBlZw.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/F3pEl2qtIGbxM7-oFAjROK8Jx7cQ_LVOhQjmOonXNfQ/rs:fit/g:sm/q:90/h:578/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc1/LTEyMTU5NzUwNzAu/anBlZw.jpeg",
+   "uri150": "https://i.discogs.com/e3vQND0rz1n2ltSH1ePe0qdfWy4vgPWaYvcTgT-5xok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc1/LTEyMTU5NzUwNzAu/anBlZw.jpeg",
+   "width": 586
+  }
+ ],
+ "labels": [
+  {
+   "catno": "F055T",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 14,
+   "name": "F Communications",
+   "resource_url": "https://api.discogs.com/labels/14",
+   "thumbnail_url": "https://i.discogs.com/HTO1s0tlfXOwJe2EKUVh1k88aHpdZDjVsnAhvkkiDmQ/rs:fit/g:sm/q:90/h:296/w:342/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0LTEx/ODEzNDA1NDcuanBl/Zw.jpeg"
+  }
+ ],
+ "notes": "Written and produced at The Wake Up Lab Around Paris, except A2 remixed at The Reverse. \n\nPressed in December 1996.\nDistribution in France & Benelux by  PIAS France 137 0055 31/80P. \nUK by PIAS UK distribution by Charged/Vital.\nGermany by Rough Trade RTD 372.7955.0 PC16.\nPublished by Basic Groove.\n\n(P) & (C) 1997 F Communications\n\nSide A plays at 33 ⅓ RPM, side B at 45 RPM.\nA2 sleeve and label show 5:30, actual duration is 7:05\n\nThe center label has a wrong label code \"LC 01347\", the track B duration is printed as 6:02 instead of 7:45, the name is misspelled as \"Nurthin' Mix\".\n\nThere are two Repress versions with correct track name, duration and label code: [r=6881019] and [r=6882994].",
+ "released": "1997-02-03",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Crispy Bacon (Part 1)",
+ "tracklist": [
+  {
+   "duration": "6:20",
+   "position": "A1",
+   "title": "Crispy Bacon (Original Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "7:05",
+   "extraartists": [
+    {
+     "anv": "Filippo \"Naughty\" Moscatello",
+     "id": 547677,
+     "join": "",
+     "name": "Filippo Moscatello",
+     "resource_url": "https://api.discogs.com/artists/547677",
+     "role": "Remix",
+     "tracks": ""
+    },
+    {
+     "anv": "DJ Hell",
+     "id": 114532,
+     "join": "",
+     "name": "Hell",
+     "resource_url": "https://api.discogs.com/artists/114532",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "The Hoe (DJ Gigolo Hell 3 Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "7:45",
+   "position": "B",
+   "title": "The Hoe (Nuthin' Mix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11375-Laurent-Garnier-Crispy-Bacon-Part-1",
+ "year": 1997
+}

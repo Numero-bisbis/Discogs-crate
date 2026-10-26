@@ -1,0 +1,167 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 642245,
+   "join": "Feat.",
+   "name": "Guts",
+   "resource_url": "https://api.discogs.com/artists/642245",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/9K75fNnz3oywQfnGXBt7tSUrs2O4ftYxQX7b7zXRvwM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY0MjI0/NS0xNzMyMDMzNDQ3/LTc5NDUuanBlZw.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 3199027,
+   "join": "",
+   "name": "Lorine Chia",
+   "resource_url": "https://api.discogs.com/artists/3199027",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/EtvLW8-ySzMKrAYenotXTiiKNu0L7wVEjejtnVXwSU8/rs:fit/g:sm/q:90/h:600/w:478/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxOTkw/MjctMTQ2ODQzNDQ4/NS03OTE5LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Hip Hop"
+ ],
+ "id": 5743691,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/CzavVwmtNs9pef9yB54U8N5fiMxEywF659M22Ohg2t4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDM2/OTEtMTQ1MDg4MjI3/OS02MTg2LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/CzavVwmtNs9pef9yB54U8N5fiMxEywF659M22Ohg2t4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDM2/OTEtMTQ1MDg4MjI3/OS02MTg2LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/BHpUHbJaGk1PYRv88FaBb4pqgLf_9czecKcudf_LV34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDM2/OTEtMTQ1MDg4MjI3/OS02MTg2LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "HS113VL",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 64154,
+   "name": "Heavenly Sweetness",
+   "resource_url": "https://api.discogs.com/labels/64154",
+   "thumbnail_url": "https://i.discogs.com/irqPffAgXzrn1v7-ttEe0fd1xFuIRpdvuPo0-MXjx5k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY0MTU0/LTE1NjgzNjkxNTIt/ODYzNC5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Issued with a sticker affixed on cover stating tracks A1, B1 are from the forthcoming album \"[m=731847]\" (to be released on September 2014). A2 & B2 are previously unreleased. Includes a download-card to get exclusive a capella versions.\n\n1000 copies pressed on 180grams vinyl.\n\nA1 was recorded on December 5 - 2013, Nelson Mandela's legacy live forever. Recorded @ Innovative Music Studios, NYC (USA).\nB1 recorded @ Paramount Recording Studios, Los Angeles (USA).\n\nAll tracks mixed @ Onetwopassit Studio, Bagnolet (FR).\nMastered @ Loud Mastering (UK).\n\nThanks to the Pura Vida Club support.\n\nBooking (France): www.bleucitron.net\nBooking (World): www.getyouractstogether.net\nLabel: www.heavenly-sweetness.com\n\n(P)&(C) 2014 Heavenly Sweetness",
+ "released": "2014-05-30",
+ "styles": [
+  "Electro",
+  "Downtempo"
+ ],
+ "title": "Open Wide",
+ "tracklist": [
+  {
+   "duration": "3:55",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3199027,
+     "join": "",
+     "name": "Lorine Chia",
+     "resource_url": "https://api.discogs.com/artists/3199027",
+     "role": "Featuring [Feat.]",
+     "tracks": ""
+    },
+    {
+     "anv": "L.Bihchia",
+     "id": 4061154,
+     "join": "",
+     "name": "L. Bihchia",
+     "resource_url": "https://api.discogs.com/artists/4061154",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Open Wide ",
+   "type_": "track"
+  },
+  {
+   "duration": "5:04",
+   "position": "A2",
+   "title": "The Only Thing I Have",
+   "type_": "track"
+  },
+  {
+   "duration": "3:36",
+   "position": "A3",
+   "title": "Open Wide (Instrumental Version)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:14",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1194826,
+     "join": "",
+     "name": "Denmark Vessey",
+     "resource_url": "https://api.discogs.com/artists/1194826",
+     "role": "Featuring [Feat.]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2561774,
+     "join": "",
+     "name": "Quelle Chris",
+     "resource_url": "https://api.discogs.com/artists/2561774",
+     "role": "Featuring [Feat.]",
+     "tracks": ""
+    },
+    {
+     "anv": "B.Allen Braceful",
+     "id": 4061157,
+     "join": "",
+     "name": "B. Allen Braceful",
+     "resource_url": "https://api.discogs.com/artists/4061157",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Q.Christopher",
+     "id": 2561774,
+     "join": "",
+     "name": "Quelle Chris",
+     "resource_url": "https://api.discogs.com/artists/2561774",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "The Forgotten (Don't Look Away)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:39",
+   "position": "B2",
+   "title": "Fuck The Luxury Life, I Want A Dream Life",
+   "type_": "track"
+  },
+  {
+   "duration": "3:56",
+   "position": "B3",
+   "title": "The Forgotten (Don't Look Away) (Instrumental Version) ",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/5743691-Guts-Feat-Lorine-Chia-Open-Wide",
+ "year": 2014
+}

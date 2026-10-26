@@ -1,0 +1,77 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4081944,
+   "join": "",
+   "name": "Denis Sulta",
+   "resource_url": "https://api.discogs.com/artists/4081944",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/FOHZjdKAqgsUjnEl4VCdC03ryNmt0ZEwB_iOOAaJjAs/rs:fit/g:sm/q:90/h:600/w:405/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwODE5/NDQtMTQzMzg2MDEy/NC0yNzI0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "Single"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11714403,
+ "images": [
+  {
+   "height": 262,
+   "resource_url": "https://i.discogs.com/aI5OKx9CeD2tE2cmlGpGqneGEyRrdtRX5EZ3IFayEJU/rs:fit/g:sm/q:90/h:262/w:262/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzE0/NDAzLTE1MjExMzE4/ODUtOTI5MS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/aI5OKx9CeD2tE2cmlGpGqneGEyRrdtRX5EZ3IFayEJU/rs:fit/g:sm/q:90/h:262/w:262/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzE0/NDAzLTE1MjExMzE4/ODUtOTI5MS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Qx_cvEJ5w5Crh6oQJA9xcQkLZdjICj2vRSLtsaC9QWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzE0/NDAzLTE1MjExMzE4/ODUtOTI5MS5qcGVn.jpeg",
+   "width": 262
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SULTASELECTS-3",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1161497,
+   "name": "Sulta Selects",
+   "resource_url": "https://api.discogs.com/labels/1161497"
+  }
+ ],
+ "notes": null,
+ "released": "2018-03-00",
+ "styles": [
+  "House"
+ ],
+ "title": "Sulta Selects Vol. 3",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "D_K_Y (But I Do)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "L_M_Y_S_A (Love Is Subjected Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "L_Y_A_R_S (Forever Mix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11714403-Denis-Sulta-Sulta-Selects-Vol-3",
+ "year": 2018
+}

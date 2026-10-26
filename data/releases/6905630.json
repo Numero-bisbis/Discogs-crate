@@ -1,0 +1,73 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 278905,
+   "join": "",
+   "name": "Oliver Koletzki",
+   "resource_url": "https://api.discogs.com/artists/278905",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/o8C8e2OYaOm7y2mxhnQoGRgh4LdSnbQ5yUHlCgelV48/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3ODkw/NS0xNTI4MTEzNTU2/LTc3MTUuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 6905630,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/OyBuYS-c0S6hYQ_MGUR31G1TynyD79N-popDMlKSfxo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDU2/MzAtMTQyOTI1MTY4/OC02MjY1LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/OyBuYS-c0S6hYQ_MGUR31G1TynyD79N-popDMlKSfxo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDU2/MzAtMTQyOTI1MTY4/OC02MjY1LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/I5PENRlWj7uWYO-LaeTRVTUaOwBesU8mVIDgEI4O6XY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDU2/MzAtMTQyOTI1MTY4/OC02MjY1LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SVT 149",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 46433,
+   "name": "Stil Vor Talent",
+   "resource_url": "https://api.discogs.com/labels/46433",
+   "thumbnail_url": "https://i.discogs.com/0ABSh4d-U2wiuLLd0emO_PeY7Cd4KGiQIDFe0gqgO-Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ2NDMz/LTE3Mzc0NzU3NzMt/NzYyNi5qcGVn.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2015-04-00",
+ "styles": [
+  "Tech House"
+ ],
+ "title": "Iyéwaye",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Iyéwaye",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Ipuza",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/6905630-Oliver-Koletzki-Iyéwaye",
+ "year": 2015
+}

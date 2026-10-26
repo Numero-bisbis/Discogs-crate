@@ -1,0 +1,105 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5431491,
+   "join": "",
+   "name": "Ezra Collective",
+   "resource_url": "https://api.discogs.com/artists/5431491",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/nWi40zvW_FTt5AKQ3NXb3dw5Yc118t0BqDJJlJvI9Gk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU0MzE0/OTEtMTQ4MTYyNDMz/MC01NTg3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "EP",
+    "Repress"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 11976992,
+ "images": [
+  {
+   "height": 500,
+   "resource_url": "https://i.discogs.com/K5Q4XFDYjvhEAQGgSpTYzgRVdAbckgbulQpJSbuut5A/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc2/OTkyLTE1MjU4Njc5/MTktNjk1NS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/K5Q4XFDYjvhEAQGgSpTYzgRVdAbckgbulQpJSbuut5A/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc2/OTkyLTE1MjU4Njc5/MTktNjk1NS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/8TcnAhgMUIO--c5rgE17agZEnAjbNJrsuZJ8ehOb6q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc2/OTkyLTE1MjU4Njc5/MTktNjk1NS5qcGVn.jpeg",
+   "width": 500
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ETJ001",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1378735,
+   "name": "Enter The Jungle Records",
+   "resource_url": "https://api.discogs.com/labels/1378735",
+   "thumbnail_url": "https://i.discogs.com/3xgEyE2R1H43G8ZoG44XLQp25qCXdAWOODaHZ_WE1CQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzNzg3/MzUtMTc5MTU1NTE0/OS05MTk2LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Second pressing, with the following differences from the first pressing: On the front cover there is no colon in the title, and '2nd Pressing' has been added to the credits on the rear cover.",
+ "released": "2018-05-00",
+ "styles": [
+  "Contemporary Jazz",
+  "Afrobeat"
+ ],
+ "title": "Juan Pablo The Philosopher",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Intro",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Juan Pablo",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "The Philosopher",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Dylan's Dilemma",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "People In Trouble",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "James Speaks To The Galaxy",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Space Is The Place",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11976992-Ezra-Collective-Juan-Pablo-The-Philosopher",
+ "year": 2018
+}

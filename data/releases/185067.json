@@ -1,0 +1,124 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 142142,
+   "join": "",
+   "name": "The Simpsons",
+   "resource_url": "https://api.discogs.com/artists/142142",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Gfe-XDqTytSpvs-JncIQFk4i9QSwmICs8LKGoSHOZL8/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0MjE0/Mi0xMzM1NzI5MzE0/LnBuZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "Single",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Pop"
+ ],
+ "id": 185067,
+ "images": [
+  {
+   "height": 595,
+   "resource_url": "https://i.discogs.com/gz2leTjL3GaUA_via9NjanYvno90230x23DrRR5L_0o/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTA2/Ny0xNjQwNjE5Mjg2/LTI1ODYuanBlZw.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/gz2leTjL3GaUA_via9NjanYvno90230x23DrRR5L_0o/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTA2/Ny0xNjQwNjE5Mjg2/LTI1ODYuanBlZw.jpeg",
+   "uri150": "https://i.discogs.com/b2kForBArwqXwt2bK3_nldmO7sWCbnDyrJmii3ZPvO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTA2/Ny0xNjQwNjE5Mjg2/LTI1ODYuanBlZw.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "7599-21629-0",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 821,
+   "name": "Geffen Records",
+   "resource_url": "https://api.discogs.com/labels/821",
+   "thumbnail_url": "https://i.discogs.com/vMl2XlWbLiwFc15tnFdFdDhrXIwTNHLUms1TMNKeP94/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgyMS0x/MzAwODc4NDM2Lmpw/ZWc.jpeg"
+  },
+  {
+   "catno": "GEF 87 T",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 821,
+   "name": "Geffen Records",
+   "resource_url": "https://api.discogs.com/labels/821",
+   "thumbnail_url": "https://i.discogs.com/vMl2XlWbLiwFc15tnFdFdDhrXIwTNHLUms1TMNKeP94/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgyMS0x/MzAwODc4NDM2Lmpw/ZWc.jpeg"
+  },
+  {
+   "catno": "GEF87T",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 821,
+   "name": "Geffen Records",
+   "resource_url": "https://api.discogs.com/labels/821",
+   "thumbnail_url": "https://i.discogs.com/vMl2XlWbLiwFc15tnFdFdDhrXIwTNHLUms1TMNKeP94/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgyMS0x/MzAwODc4NDM2Lmpw/ZWc.jpeg"
+  }
+ ],
+ "notes": "Labels:\nOriginal Version From The Album \"[m=19916]\" 7599-24308-1/-2/-4.\n℗ 1990 The David Geffen Company\n© 1991 The David Geffen Company\nMade in Germany by WEA Musik GmbH [Warner logo] A Warner Communications Company\n\nRear sleeve:\nOriginal version from the album \"[m=19916]\"\nThe Simpsons and Simpsons Characters TM and\n© 1990 Twentieth Century Fox Film Corporation\n℗ 1990 The David Geffen Company\n© 1991 The David Geffen Company\nThe copyright in this sound recording and artwork is owned by the David Geffen Company\nA Time Warner Company. Made in Germany\n[Debossed Warner logo]\n\nAdditional information:\nRunouts are stamped.\nThe incorrect speed \"33\" was overprinted to make it unrecognizable.",
+ "released": "1991",
+ "styles": [
+  "House",
+  "Pop Rap",
+  "Swingbeat",
+  "Novelty"
+ ],
+ "title": "Do The Bartman",
+ "tracklist": [
+  {
+   "duration": "4:49",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 40068,
+     "join": "",
+     "name": "Bryan Loren",
+     "resource_url": "https://api.discogs.com/artists/40068",
+     "role": "Remix [Remixed By]",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Do The Bartman (Bad Bart House Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:44",
+   "position": "A2",
+   "title": "Do The Bartman (A Cappella)",
+   "type_": "track"
+  },
+  {
+   "duration": "8:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 40068,
+     "join": "",
+     "name": "Bryan Loren",
+     "resource_url": "https://api.discogs.com/artists/40068",
+     "role": "Remix [Remixed By]",
+     "tracks": ""
+    }
+   ],
+   "position": "AA",
+   "title": "Do The Bartman (Swingin' In The House Mix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/185067-The-Simpsons-Do-The-Bartman",
+ "year": 1991
+}

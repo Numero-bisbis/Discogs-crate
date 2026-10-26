@@ -1,0 +1,81 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 337829,
+   "join": "",
+   "name": "Wehbba",
+   "resource_url": "https://api.discogs.com/artists/337829",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/kl0YFdXteIcVycIkmfL97oPoHdb7VJX6v_rwrhs7DEc/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzNzgy/OS0xNjAwMjUyMTI0/LTUxMzcuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 7774586,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/-C5-rKTNaazSX6hODzwLz7xbcly1HZxGWJf5GrHLGS8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzQ1/ODYtMTQ0ODQ5MjU2/MC0xNTE4LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/-C5-rKTNaazSX6hODzwLz7xbcly1HZxGWJf5GrHLGS8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzQ1/ODYtMTQ0ODQ5MjU2/MC0xNTE4LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/aYZZLN78cyHmOB8dBN4tkvvWizfA2NzGe37j8-IWIbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzQ1/ODYtMTQ0ODQ5MjU2/MC0xNTE4LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SYST0107-6",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 27358,
+   "name": "Systematic (3)",
+   "resource_url": "https://api.discogs.com/labels/27358",
+   "thumbnail_url": "https://i.discogs.com/_JuaPpAARJFeLU9dQALMHz1d36CD9gomoQxmEnJgE90/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MzU4/LTEyMTk3MDU4ODAu/anBlZw.jpeg"
+  }
+ ],
+ "notes": "Issued in a generic sleeve.",
+ "released": "2015-11-20",
+ "styles": [
+  "Techno",
+  "House"
+ ],
+ "title": "Systematic Shades Vol. 1",
+ "tracklist": [
+  {
+   "duration": "7:44",
+   "position": "A",
+   "title": "View Of Delft",
+   "type_": "track"
+  },
+  {
+   "duration": "6:14",
+   "position": "B1",
+   "title": "Um Den Kern",
+   "type_": "track"
+  },
+  {
+   "duration": "6:45",
+   "position": "B2",
+   "title": "Visage",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/7774586-Wehbba-Systematic-Shades-Vol-1",
+ "year": 2015
+}

@@ -1,0 +1,546 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3019921,
+   "join": "",
+   "name": "Lucas Arruda",
+   "resource_url": "https://api.discogs.com/artists/3019921",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/CB7xqHWBSzNidcUjahVR_ghAySOiYK82bvoyRYrIP_w/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMwMTk5/MjEtMTQ0NjExODIy/NS0xOTMxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Latin",
+  "Funk / Soul"
+ ],
+ "id": 7024997,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/ju89k-pGH8dENCZajMFc0bqJErVLDLLD9PPf8PI7PEs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjQ5/OTctMTQzMTk0MzIw/Ny05NzUyLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/ju89k-pGH8dENCZajMFc0bqJErVLDLLD9PPf8PI7PEs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjQ5/OTctMTQzMTk0MzIw/Ny05NzUyLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/0cI6M5zjTYpASCdu_Y3wUyTFiPUmz6mR_mmjxTDDy5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjQ5/OTctMTQzMTk0MzIw/Ny05NzUyLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "FVR100LP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 83572,
+   "name": "Favorite Recordings",
+   "resource_url": "https://api.discogs.com/labels/83572",
+   "thumbnail_url": "https://i.discogs.com/pVYhQBlsFfvoO7rkAgAUFiXVNa2uV94bUxOTlRPVgqI/rs:fit/g:sm/q:90/h:307/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzNTcy/LTE0NzY0NDU2MjYt/OTE0Mi5wbmc.jpeg"
+  }
+ ],
+ "notes": "Gatefold\n\n180g records",
+ "released": "2015-05-18",
+ "styles": [
+  "Jazz-Funk"
+ ],
+ "title": "SOLAR",
+ "tracklist": [
+  {
+   "duration": "2:05",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Vocals, Electric Piano, Synthesizer, Acoustic Guitar, Bass, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Solar (Intro Jam)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:05",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 300988,
+     "join": "",
+     "name": "Alex Malheiros",
+     "resource_url": "https://api.discogs.com/artists/300988",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2135928,
+     "join": "",
+     "name": "Jarkko Lepistö",
+     "resource_url": "https://api.discogs.com/artists/2135928",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4797554,
+     "join": "",
+     "name": "Thiago Arruda",
+     "resource_url": "https://api.discogs.com/artists/4797554",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Vocals, Electric Piano, Synthesizer, Acoustic Guitar, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Uma Onda",
+   "type_": "track"
+  },
+  {
+   "duration": "5:05",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2135928,
+     "join": "",
+     "name": "Jarkko Lepistö",
+     "resource_url": "https://api.discogs.com/artists/2135928",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2296533,
+     "join": "",
+     "name": "João Sabiá",
+     "resource_url": "https://api.discogs.com/artists/2296533",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Vocals, Electric Piano, Synthesizer, Guitar, Bass, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2296533,
+     "join": "",
+     "name": "João Sabiá",
+     "resource_url": "https://api.discogs.com/artists/2296533",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Vento Sul",
+   "type_": "track"
+  },
+  {
+   "duration": "5:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2135928,
+     "join": "",
+     "name": "Jarkko Lepistö",
+     "resource_url": "https://api.discogs.com/artists/2135928",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21259,
+     "join": "",
+     "name": "Leon Ware",
+     "resource_url": "https://api.discogs.com/artists/21259",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Vocals, Electric Piano, Guitar, Bass, Synth Bass, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21259,
+     "join": "",
+     "name": "Leon Ware",
+     "resource_url": "https://api.discogs.com/artists/21259",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Melt The Night",
+   "type_": "track"
+  },
+  {
+   "duration": "5:15",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2135928,
+     "join": "",
+     "name": "Jarkko Lepistö",
+     "resource_url": "https://api.discogs.com/artists/2135928",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4797554,
+     "join": "",
+     "name": "Thiago Arruda",
+     "resource_url": "https://api.discogs.com/artists/4797554",
+     "role": "Electric Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4458255,
+     "join": "",
+     "name": "Roger Rocha (2)",
+     "resource_url": "https://api.discogs.com/artists/4458255",
+     "role": "Tenor Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Vocals, Electric Piano, Synthesizer, Bass, Acoustic Guitar, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "Fabricio Di Monaco",
+     "id": 1885425,
+     "join": "",
+     "name": "Fabricio DiMonaco",
+     "resource_url": "https://api.discogs.com/artists/1885425",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Água",
+   "type_": "track"
+  },
+  {
+   "duration": "2:00",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Vocals, Electric Piano, Synthesizer, Bass, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Kalunga",
+   "type_": "track"
+  },
+  {
+   "duration": "6:45",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Vocals, Electric Piano, Guitar, Synthesizer, Bass, Acoustic Guitar, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Solar",
+   "type_": "track"
+  },
+  {
+   "duration": "6:05",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2135928,
+     "join": "",
+     "name": "Jarkko Lepistö",
+     "resource_url": "https://api.discogs.com/artists/2135928",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 975189,
+     "join": "",
+     "name": "Andre Solomko",
+     "resource_url": "https://api.discogs.com/artists/975189",
+     "role": "Soprano Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Vocals, Electric Piano, Synthesizer, Guitar, Bass, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Beyond The Sea",
+   "type_": "track"
+  },
+  {
+   "duration": "5:00",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2135928,
+     "join": "",
+     "name": "Jarkko Lepistö",
+     "resource_url": "https://api.discogs.com/artists/2135928",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "Anderson Paiva",
+     "id": 8972458,
+     "join": "",
+     "name": "Anderson Paiva (Xuxinha)",
+     "resource_url": "https://api.discogs.com/artists/8972458",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Vocals, Electric Piano, Synthesizer, Guitar, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "O Mar, O Samba E O Sol",
+   "type_": "track"
+  },
+  {
+   "duration": "4:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Backing Vocals, Electric Piano, Synthesizer, Guitar, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4797554,
+     "join": "",
+     "name": "Thiago Arruda",
+     "resource_url": "https://api.discogs.com/artists/4797554",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50619,
+     "join": "",
+     "name": "Guida De Palma",
+     "resource_url": "https://api.discogs.com/artists/50619",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21259,
+     "join": "",
+     "name": "Leon Ware",
+     "resource_url": "https://api.discogs.com/artists/21259",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 387498,
+     "join": "",
+     "name": "Linda Creed",
+     "resource_url": "https://api.discogs.com/artists/387498",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 164262,
+     "join": "",
+     "name": "Thom Bell",
+     "resource_url": "https://api.discogs.com/artists/164262",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Stop! Look, Listen (To Your Heart)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:07",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 708633,
+     "join": "",
+     "name": "Sergio Melo",
+     "resource_url": "https://api.discogs.com/artists/708633",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Vocals, Electric Piano, Guitar, Synthesizer, Bass, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3019921,
+     "join": "",
+     "name": "Lucas Arruda",
+     "resource_url": "https://api.discogs.com/artists/3019921",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Rio 82 (Live Version)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/7024997-Lucas-Arruda-SOLAR",
+ "year": 2015
+}

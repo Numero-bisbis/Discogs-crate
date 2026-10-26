@@ -1,0 +1,84 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1136,
+   "join": "",
+   "name": "Robert Hood",
+   "resource_url": "https://api.discogs.com/artists/1136",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/phQwnOcG4uBRffZES01L5WfvYvMwQ39vwseW4RYW-1s/rs:fit/g:sm/q:90/h:600/w:457/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExMzYt/MTI0NDA1MTg2OC5q/cGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 10737,
+ "images": [
+  {
+   "height": 500,
+   "resource_url": "https://i.discogs.com/Hz1WUwoyGXJrHXx67h7Q0NCjAu2uxiS9wZxZ9fkNh30/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzM3/LTExMTg1OTAzMDcu/anBn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/Hz1WUwoyGXJrHXx67h7Q0NCjAu2uxiS9wZxZ9fkNh30/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzM3/LTExMTg1OTAzMDcu/anBn.jpeg",
+   "uri150": "https://i.discogs.com/mxSTx24rUc3oH7cEBv0X2SKm96_c-fpzUqvEhVV-YUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzM3/LTExMTg1OTAzMDcu/anBn.jpeg",
+   "width": 500
+  }
+ ],
+ "labels": [
+  {
+   "catno": "M-P322",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 399,
+   "name": "M-Plant",
+   "resource_url": "https://api.discogs.com/labels/399",
+   "thumbnail_url": "https://i.discogs.com/dFqTzreefpixoBAwDdMslAZDWBjyJqTK7u0vw0T8qVk/rs:fit/g:sm/q:90/h:46/w:277/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM5OS0x/MjU0MTk4Mjc4LnBu/Zw.jpeg"
+  }
+ ],
+ "notes": "Samples Sister Sledge's \"[r=521019]\" ",
+ "released": "2001",
+ "styles": [
+  "Techno",
+  "Disco"
+ ],
+ "title": "The Greatest Dancer",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 343770,
+     "join": "",
+     "name": "Marlin Wilson-Threatt",
+     "resource_url": "https://api.discogs.com/artists/343770",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "The Greatest Dancer (Live At Motor)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "The Greatest Dancer (Studio Version)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10737-Robert-Hood-The-Greatest-Dancer",
+ "year": 2001
+}

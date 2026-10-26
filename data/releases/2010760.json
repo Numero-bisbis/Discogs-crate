@@ -1,0 +1,236 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 76894,
+   "join": "",
+   "name": "The Roots",
+   "resource_url": "https://api.discogs.com/artists/76894",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/bZV6gYp4KD6p64m-NgFlVEranOuKK-bAXULrvEg5tzA/rs:fit/g:sm/q:90/h:381/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc2ODk0/LTE2OTY5NTUyOTkt/MTYxNi5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 2010760,
+ "images": [
+  {
+   "height": 595,
+   "resource_url": "https://i.discogs.com/TCwTOOzLXmboEq64GuAYwxsM1A9vvwdFvf4V-Z7cTvs/rs:fit/g:sm/q:90/h:595/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA3/NjAtMTI1ODM3ODk1/OS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/TCwTOOzLXmboEq64GuAYwxsM1A9vvwdFvf4V-Z7cTvs/rs:fit/g:sm/q:90/h:595/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA3/NjAtMTI1ODM3ODk1/OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/vgBmNVzKo8FzEbVyfMaFaMmXYKDY0-HrVrxVUHvNn9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA3/NjAtMTI1ODM3ODk1/OS5qcGVn.jpeg",
+   "width": 599
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RRLP001",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 20205,
+   "name": "Remedy Recordings",
+   "resource_url": "https://api.discogs.com/labels/20205"
+  }
+ ],
+ "notes": "\"Essawhamah?\" Recorded live, Slovenia, Ugoslavia, May 19, 1993 at Soulshack.\r\n\r\nLate 90's reissue.",
+ "released": null,
+ "styles": [
+  "Conscious"
+ ],
+ "title": "Organix",
+ "tracklist": [
+  {
+   "duration": "1:17",
+   "position": "A1",
+   "title": "The Roots Is Comin'",
+   "type_": "track"
+  },
+  {
+   "duration": "5:28",
+   "position": "A2",
+   "title": "Pass The Popcorn",
+   "type_": "track"
+  },
+  {
+   "duration": "3:48",
+   "position": "A3",
+   "title": "The Anti-Circle",
+   "type_": "track"
+  },
+  {
+   "duration": "1:42",
+   "position": "A4",
+   "title": "Writers Block",
+   "type_": "track"
+  },
+  {
+   "duration": "1:01",
+   "position": "A5",
+   "title": "Good Music (Preclude)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:31",
+   "position": "A6",
+   "title": "Good Music",
+   "type_": "track"
+  },
+  {
+   "duration": "6:33",
+   "position": "B1",
+   "title": "Grits",
+   "type_": "track"
+  },
+  {
+   "duration": "4:03",
+   "position": "B2",
+   "title": "Leonard I-V",
+   "type_": "track"
+  },
+  {
+   "duration": "4:09",
+   "position": "B3",
+   "title": "I'm Out Deah",
+   "type_": "track"
+  },
+  {
+   "duration": "4:20",
+   "position": "C1",
+   "title": "Essawhamah? (Live At Soulshack)",
+   "type_": "track"
+  },
+  {
+   "duration": "0:12",
+   "position": "C2",
+   "title": "There's A Riot Going On",
+   "type_": "track"
+  },
+  {
+   "duration": "4:04",
+   "position": "C3",
+   "title": "Popcorn Revisited",
+   "type_": "track"
+  },
+  {
+   "duration": "1:14",
+   "position": "C4",
+   "title": "Peace",
+   "type_": "track"
+  },
+  {
+   "duration": "5:02",
+   "position": "C5",
+   "title": "Common Dust",
+   "type_": "track"
+  },
+  {
+   "duration": "12:43",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 98559,
+     "join": "",
+     "name": "A. J. Shine",
+     "resource_url": "https://api.discogs.com/artists/98559",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 484798,
+     "join": "",
+     "name": "Bo-Watt",
+     "resource_url": "https://api.discogs.com/artists/484798",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Lord Akil",
+     "id": 1118217,
+     "join": "",
+     "name": "Lord Aaqil",
+     "resource_url": "https://api.discogs.com/artists/1118217",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 27812,
+     "join": "",
+     "name": "Malik B.",
+     "resource_url": "https://api.discogs.com/artists/27812",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 484790,
+     "join": "",
+     "name": "Me, Myself And I",
+     "resource_url": "https://api.discogs.com/artists/484790",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 484793,
+     "join": "",
+     "name": "Mr. Manifest",
+     "resource_url": "https://api.discogs.com/artists/484793",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 484797,
+     "join": "",
+     "name": "Pazi Plant",
+     "resource_url": "https://api.discogs.com/artists/484797",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Shorty No Mas",
+     "id": 84793,
+     "join": "",
+     "name": "Shortie No Mass",
+     "resource_url": "https://api.discogs.com/artists/84793",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "The Session (The Longest Posse Cut In History)",
+   "type_": "track"
+  },
+  {
+   "duration": "0:43",
+   "position": "D2",
+   "title": "Syreeta's Having My Baby",
+   "type_": "track"
+  },
+  {
+   "duration": "1:26",
+   "position": "D3",
+   "title": "Carryin' On",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/2010760-The-Roots-Organix",
+ "year": 0
+}

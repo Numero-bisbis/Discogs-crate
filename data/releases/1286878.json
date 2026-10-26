@@ -1,0 +1,550 @@
+{
+ "artists": [
+  {
+   "anv": "Kenny Dope",
+   "id": 356288,
+   "join": "",
+   "name": "Kenny \"Dope\" Gonzalez",
+   "resource_url": "https://api.discogs.com/artists/356288",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Rx_pe5uJlWKaJAxQmNSXoZQNhikG4tHXS3WSL7KRXYI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1NjI4/OC0xNTE0NDEyOTAx/LTMxNzMuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation"
+   ],
+   "name": "Vinyl",
+   "qty": "4"
+  },
+  {
+   "descriptions": [],
+   "name": "Box Set",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 1286878,
+ "images": [
+  {
+   "height": 595,
+   "resource_url": "https://i.discogs.com/adlImQTXXia_wBwsHjKV8gooUYh_V94HIeCB9B9wIYw/rs:fit/g:sm/q:90/h:595/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY4/NzgtMTI1NTUzMjA2/NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/adlImQTXXia_wBwsHjKV8gooUYh_V94HIeCB9B9wIYw/rs:fit/g:sm/q:90/h:595/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY4/NzgtMTI1NTUzMjA2/NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Me78nmuTDOux5ZGp7ocW_BHWDXzgfEz27eOeFi7ibN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY4/NzgtMTI1NTUzMjA2/NC5qcGVn.jpeg",
+   "width": 599
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BBELP015",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1006,
+   "name": "BBE",
+   "resource_url": "https://api.discogs.com/labels/1006",
+   "thumbnail_url": "https://i.discogs.com/ZlbWqowIJ3R0Th3TQHuiFGgXTfqb_VfLholMfpaxnJ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDYt/MTUwMzM2MDAwOS0y/MDYwLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Compiled By Kenny Dope and BBE.",
+ "released": "1998",
+ "styles": [],
+ "title": "Hip Hop Forever",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 14742,
+     "join": "",
+     "name": "EPMD",
+     "resource_url": "https://api.discogs.com/artists/14742",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A1",
+   "title": "You Gots To Chill",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 14743,
+     "join": "",
+     "name": "Redman",
+     "resource_url": "https://api.discogs.com/artists/14743",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A2",
+   "title": "Tonight's Da Nite",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5669,
+     "join": "",
+     "name": "Basement Khemists",
+     "resource_url": "https://api.discogs.com/artists/5669",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A3",
+   "title": "Everybody",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4091,
+     "join": "",
+     "name": "De La Soul",
+     "resource_url": "https://api.discogs.com/artists/4091",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3268,
+     "join": "",
+     "name": "A Tribe Called Quest",
+     "resource_url": "https://api.discogs.com/artists/3268",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "She Fe MC's",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 16832,
+     "join": "",
+     "name": "The Beatnuts",
+     "resource_url": "https://api.discogs.com/artists/16832",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 133768,
+     "join": "",
+     "name": "Big Punisher",
+     "resource_url": "https://api.discogs.com/artists/133768",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 134871,
+     "join": "",
+     "name": "Cuban Link",
+     "resource_url": "https://api.discogs.com/artists/134871",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Off The Books",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 14745,
+     "join": "",
+     "name": "Breez Evahflowin'",
+     "resource_url": "https://api.discogs.com/artists/14745",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B3",
+   "title": "Forsaken",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 29058,
+     "join": "",
+     "name": "Gang Starr",
+     "resource_url": "https://api.discogs.com/artists/29058",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C1",
+   "title": "DWYCK",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 14747,
+     "join": "",
+     "name": "Sunz Of Man",
+     "resource_url": "https://api.discogs.com/artists/14747",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C2",
+   "title": "Shining Star",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 14748,
+     "join": "",
+     "name": "Special Ed",
+     "resource_url": "https://api.discogs.com/artists/14748",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C3",
+   "title": "I Got It Made",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1781,
+     "join": "",
+     "name": "Jungle Brothers",
+     "resource_url": "https://api.discogs.com/artists/1781",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D1",
+   "title": "Straight Out The Jungle",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Common Sense",
+     "id": 14014,
+     "join": "",
+     "name": "Common",
+     "resource_url": "https://api.discogs.com/artists/14014",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 40445,
+     "join": "",
+     "name": "Large Professor",
+     "resource_url": "https://api.discogs.com/artists/40445",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Resurrection '95 (Extra P Mix)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 14750,
+     "join": "",
+     "name": "Kool G Rap & D.J. Polo",
+     "resource_url": "https://api.discogs.com/artists/14750",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D3",
+   "title": "Ill Street Blues",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 14751,
+     "join": "",
+     "name": "Black Sheep",
+     "resource_url": "https://api.discogs.com/artists/14751",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "E1",
+   "title": "Flavor Of The Month",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3079,
+     "join": "",
+     "name": "YZ",
+     "resource_url": "https://api.discogs.com/artists/3079",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "E2",
+   "title": "Thinkin' Of A Masterplan",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 14752,
+     "join": "",
+     "name": "The Wascals",
+     "resource_url": "https://api.discogs.com/artists/14752",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "E3",
+   "title": "Hard Rhymes",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3081,
+     "join": "",
+     "name": "Jeru The Damaja",
+     "resource_url": "https://api.discogs.com/artists/3081",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "F1",
+   "title": "Come Clean",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 14753,
+     "join": "",
+     "name": "Xzibit",
+     "resource_url": "https://api.discogs.com/artists/14753",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "F2",
+   "title": "Los Angeles Times",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 14754,
+     "join": "",
+     "name": "Jamose",
+     "resource_url": "https://api.discogs.com/artists/14754",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "F3",
+   "title": "The Rhymthologist",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 53624,
+     "join": "",
+     "name": "Rawcotiks",
+     "resource_url": "https://api.discogs.com/artists/53624",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "G1",
+   "title": "Hardcore Hip-Hop",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 73255,
+     "join": "",
+     "name": "Reflection Eternal",
+     "resource_url": "https://api.discogs.com/artists/73255",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5648,
+     "join": "",
+     "name": "Mos Def",
+     "resource_url": "https://api.discogs.com/artists/5648",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 97116,
+     "join": "",
+     "name": "Mr. Man",
+     "resource_url": "https://api.discogs.com/artists/97116",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "G2",
+   "title": "Fortified Live (Dirty Original Mix)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 14757,
+     "join": "",
+     "name": "Black Moon",
+     "resource_url": "https://api.discogs.com/artists/14757",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "G3",
+   "title": "Who Got Da Props",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 7686,
+     "join": "",
+     "name": "Naughty By Nature",
+     "resource_url": "https://api.discogs.com/artists/7686",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "H1",
+   "title": "Uptown Anthem",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 239269,
+     "join": "",
+     "name": "Ed O.G & Da Bulldogs",
+     "resource_url": "https://api.discogs.com/artists/239269",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "H2",
+   "title": "I Got To Have It",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 17587,
+     "join": "",
+     "name": "Method Man",
+     "resource_url": "https://api.discogs.com/artists/17587",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "H3",
+   "title": "Bring The Pain",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 14759,
+     "join": "",
+     "name": "Tha Alkaholiks",
+     "resource_url": "https://api.discogs.com/artists/14759",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "H4",
+   "title": "Make Room",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/1286878-Kenny-Dope-Hip-Hop-Forever",
+ "year": 1998
+}

@@ -1,0 +1,115 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 14790539,
+   "join": "",
+   "name": "Ex Generation",
+   "resource_url": "https://api.discogs.com/artists/14790539",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/A9mhVLaGw4iUvzNBT8DhFLS2z3tMA80Fuy6gNJahoLM/rs:fit/g:sm/q:90/h:600/w:532/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0Nzkw/NTM5LTE3MTk5MjQ2/OTEtOTAxMy5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Funk / Soul"
+ ],
+ "id": 31114850,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/UIQcS5Z7TVVVqK4JZ_b-yAvSiST7oRSLAsBJ3SrovC8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTE0/ODUwLTE3MjMwMTYw/NTQtODQxNC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/UIQcS5Z7TVVVqK4JZ_b-yAvSiST7oRSLAsBJ3SrovC8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTE0/ODUwLTE3MjMwMTYw/NTQtODQxNC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/v-LR0b5fKTlUJLF3WPPYpKtrAF7fv78xxmOqMUYqLbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTE0/ODUwLTE3MjMwMTYw/NTQtODQxNC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "EXRECLP003",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3070120,
+   "name": "Energy Exchange Records",
+   "resource_url": "https://api.discogs.com/labels/3070120",
+   "thumbnail_url": "https://i.discogs.com/lcsJdh_IDLVrYpQzFM7zG3O8uRzEUJICvRn3koHOTbY/rs:fit/g:sm/q:90/h:424/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNzAx/MjAtMTY3Mjg0MDM2/MS00NTg4LnBuZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2024-06-21",
+ "styles": [
+  "Disco",
+  "Funk"
+ ],
+ "title": "The Napoli Exchange",
+ "tracklist": [
+  {
+   "duration": "4:20",
+   "position": "A1",
+   "title": "Juno, Minerva, Venus e Fortuna",
+   "type_": "track"
+  },
+  {
+   "duration": "4:35",
+   "position": "A2",
+   "title": "Che Fresco",
+   "type_": "track"
+  },
+  {
+   "duration": "3:47",
+   "position": "A3",
+   "title": "A Pusteggia",
+   "type_": "track"
+  },
+  {
+   "duration": "3:40",
+   "position": "A4",
+   "title": "Holding Your Heart",
+   "type_": "track"
+  },
+  {
+   "duration": "4:38",
+   "position": "B1",
+   "title": "Seratina",
+   "type_": "track"
+  },
+  {
+   "duration": "4:00",
+   "position": "B2",
+   "title": "Cavalluccio Rosso",
+   "type_": "track"
+  },
+  {
+   "duration": "4:43",
+   "position": "B3",
+   "title": "Hurting Lies",
+   "type_": "track"
+  },
+  {
+   "duration": "3:35",
+   "position": "B4",
+   "title": "Girovago",
+   "type_": "track"
+  },
+  {
+   "duration": "3:01",
+   "position": "B5",
+   "title": "Controra",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/31114850-Ex-Generation-The-Napoli-Exchange",
+ "year": 2024
+}

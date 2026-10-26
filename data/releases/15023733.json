@@ -1,0 +1,230 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5972815,
+   "join": ",",
+   "name": "Niki Istrefi",
+   "resource_url": "https://api.discogs.com/artists/5972815",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ECGlh1l089uiFvuMNCJPfQspBtTtmFYxgJq1ZMLLjbI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU5NzI4/MTUtMTUwNDE2ODA4/OS04Njk5LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 4712000,
+   "join": "&",
+   "name": "Anetha",
+   "resource_url": "https://api.discogs.com/artists/4712000",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/G4cVtHdNjSHlBCUj17K8hPqxoKnRv0pnqmb8hhMdmtE/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ3MTIw/MDAtMTU3MDYxODA0/Ni00MzI5LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 5645474,
+   "join": "",
+   "name": "Hadone",
+   "resource_url": "https://api.discogs.com/artists/5645474",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/tkH8m9KM3_7KGnbNsS3eoQkjN7lwau7z4s1l0cJETN4/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU2NDU0/NzQtMTYyMjkxMjg4/Ni02MzEwLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 15023733,
+ "images": [
+  {
+   "height": 594,
+   "resource_url": "https://i.discogs.com/RSs6Ogy2wNgHZqNo0Y3thq_-_6HmGKgfbu3YJgArbng/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDIz/NzMzLTE1ODU2NTE3/MTItODY5Ny5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/RSs6Ogy2wNgHZqNo0Y3thq_-_6HmGKgfbu3YJgArbng/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDIz/NzMzLTE1ODU2NTE3/MTItODY5Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/5NO23AU2j2lCSjUIwhzyD4NNG67Xdc2W0sLmBsNDfjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDIz/NzMzLTE1ODU2NTE3/MTItODY5Ny5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "MTY 002",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1706125,
+   "name": "Mama Told Ya",
+   "resource_url": "https://api.discogs.com/labels/1706125",
+   "thumbnail_url": "https://i.discogs.com/85rpZ0UYsUfCcX9OiQ8YzkwH3qdjJCl0GKfI7db2td0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3MDYx/MjUtMTU3MDcxNzgz/MC0yNDExLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "℗ & © 2020 Mama told ya",
+ "released": "2020-05-15",
+ "styles": [
+  "Techno",
+  "IDM"
+ ],
+ "title": "Body Changes Are Natural",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5972815,
+     "join": "",
+     "name": "Niki Istrefi",
+     "resource_url": "https://api.discogs.com/artists/5972815",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "7:39",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5972815,
+     "join": "",
+     "name": "Niki Istrefi",
+     "resource_url": "https://api.discogs.com/artists/5972815",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "No Ordinary Love",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5972815,
+     "join": "&",
+     "name": "Niki Istrefi",
+     "resource_url": "https://api.discogs.com/artists/5972815",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4712000,
+     "join": "",
+     "name": "Anetha",
+     "resource_url": "https://api.discogs.com/artists/4712000",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:08",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4712000,
+     "join": "",
+     "name": "Anetha",
+     "resource_url": "https://api.discogs.com/artists/4712000",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5972815,
+     "join": "",
+     "name": "Niki Istrefi",
+     "resource_url": "https://api.discogs.com/artists/5972815",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "One More Cartoon, Please",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5645474,
+     "join": "&",
+     "name": "Hadone",
+     "resource_url": "https://api.discogs.com/artists/5645474",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4712000,
+     "join": "",
+     "name": "Anetha",
+     "resource_url": "https://api.discogs.com/artists/4712000",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:08",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4712000,
+     "join": "",
+     "name": "Anetha",
+     "resource_url": "https://api.discogs.com/artists/4712000",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5645474,
+     "join": "",
+     "name": "Hadone",
+     "resource_url": "https://api.discogs.com/artists/5645474",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "4pm Snacks",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5645474,
+     "join": "",
+     "name": "Hadone",
+     "resource_url": "https://api.discogs.com/artists/5645474",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "5:39",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5645474,
+     "join": "",
+     "name": "Hadone",
+     "resource_url": "https://api.discogs.com/artists/5645474",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Hiding My Machine",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15023733-Niki-Istrefi-Anetha-Hadone-Body-Changes-Are-Natural",
+ "year": 2020
+}

@@ -1,0 +1,74 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 214348,
+   "join": "",
+   "name": "Darondo",
+   "resource_url": "https://api.discogs.com/artists/214348",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Y5UWNZOEmxKlW5o021nrYyeMDu6IRj-LV4RliHYG08o/rs:fit/g:sm/q:90/h:480/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNDM0/OC0xNzYxMTY3ODQ1/LTc3MTMucG5n.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "7\"",
+    "45 RPM",
+    "Reissue",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Funk / Soul"
+ ],
+ "id": 14259217,
+ "images": [
+  {
+   "height": 596,
+   "resource_url": "https://i.discogs.com/RxiJRWT3DZOs5c1Ov0cntObu-5_T9pgkuSFIukjC2Es/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU5/MjE3LTE1OTEyNjgz/NTAtODM1My5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/RxiJRWT3DZOs5c1Ov0cntObu-5_T9pgkuSFIukjC2Es/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU5/MjE3LTE1OTEyNjgz/NTAtODM1My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/DDt6x549G9XWs5KI_txfJffYGu3k-LVAoMBN2P1TB9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU5/MjE3LTE1OTEyNjgz/NTAtODM1My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "LH7090",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 6995,
+   "name": "Luv N' Haight",
+   "resource_url": "https://api.discogs.com/labels/6995",
+   "thumbnail_url": "https://i.discogs.com/rtZRJr2z1IWnSu_j5_OtnF1mPdDnEWSxzMrahJy4otU/rs:fit/g:sm/q:90/h:220/w:488/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY5OTUt/MDAxLmdpZg.jpeg"
+  }
+ ],
+ "notes": "The B side \"Didn't I\" is undoubtedly the most recognizable track, featured in TV's cult-classic \"Breaking Bad\".\n\n℗ & © 2006 Ubiquity Recordings, Inc.",
+ "released": "2019",
+ "styles": [
+  "Soul"
+ ],
+ "title": "Listen To My Song",
+ "tracklist": [
+  {
+   "duration": "3:29",
+   "position": "A",
+   "title": "Listen To My Song ",
+   "type_": "track"
+  },
+  {
+   "duration": "4:17",
+   "position": "B",
+   "title": "Didn't I",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14259217-Darondo-Listen-To-My-Song",
+ "year": 2019
+}

@@ -1,0 +1,368 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3385805,
+   "join": "",
+   "name": "Jessy Lanza",
+   "resource_url": "https://api.discogs.com/artists/3385805",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/KFwGloi0d8L9n2UFlYrdQVFjeHxAmBR7uuR4GlEUEmU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzODU4/MDUtMTY4MzczMTM4/NS0yNzE3LnBuZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 22017571,
+ "images": [
+  {
+   "height": 572,
+   "resource_url": "https://i.discogs.com/zqQD63Z6clal74D9swkYwOdB4l8BWNnnKE3dStkd1SI/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDE3/NTcxLTE2NDM5NjE2/MzItOTU2My5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/zqQD63Z6clal74D9swkYwOdB4l8BWNnnKE3dStkd1SI/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDE3/NTcxLTE2NDM5NjE2/MzItOTU2My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/6-9Bvipq-xnQgbeRTsqF636veTvVlCQFqj3zjSdTRN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDE3/NTcxLTE2NDM5NjE2/MzItOTU2My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "K7407LP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 29377,
+   "name": "!K7 Records",
+   "resource_url": "https://api.discogs.com/labels/29377",
+   "thumbnail_url": "https://i.discogs.com/aw3_u_a2TqqK8HE9zbXS7ym6sd8uvWhxq628dlsjT1U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5Mzc3/LTE2NTAzNjM2MTEt/MTIyNy5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Made in Austria",
+ "released": "2021-11-26",
+ "styles": [
+  "Footwork",
+  "House",
+  "Juke",
+  "Techno"
+ ],
+ "title": "DJ-Kicks",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3385805,
+     "join": "",
+     "name": "Jessy Lanza",
+     "resource_url": "https://api.discogs.com/artists/3385805",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A1",
+   "title": "Guess What",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3385805,
+     "join": "",
+     "name": "Jessy Lanza",
+     "resource_url": "https://api.discogs.com/artists/3385805",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6858444,
+     "join": "",
+     "name": "Loraine James",
+     "resource_url": "https://api.discogs.com/artists/6858444",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Seven 55",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3385805,
+     "join": "",
+     "name": "Jessy Lanza",
+     "resource_url": "https://api.discogs.com/artists/3385805",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3805569,
+     "join": "",
+     "name": "Taraval",
+     "resource_url": "https://api.discogs.com/artists/3805569",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Wet x3",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 6490157,
+     "join": "",
+     "name": "Oyubi",
+     "resource_url": "https://api.discogs.com/artists/6490157",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A4",
+   "title": "140yaku",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3562700,
+     "join": "",
+     "name": "Jim C. Nedd",
+     "resource_url": "https://api.discogs.com/artists/3562700",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B1",
+   "title": "Maleka",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3385805,
+     "join": "",
+     "name": "Jessy Lanza",
+     "resource_url": "https://api.discogs.com/artists/3385805",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3805569,
+     "join": "",
+     "name": "Taraval",
+     "resource_url": "https://api.discogs.com/artists/3805569",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Heaving",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Dee Jay Nehpets",
+     "id": 1995,
+     "join": "",
+     "name": "DJ Nehpets",
+     "resource_url": "https://api.discogs.com/artists/1995",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B3",
+   "title": "Na Na Na",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "DJ Swisha",
+     "id": 5021965,
+     "join": "",
+     "name": "Swisha (2)",
+     "resource_url": "https://api.discogs.com/artists/5021965",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B4",
+   "title": "If The Shoe Fits",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1669870,
+     "join": "",
+     "name": "CN",
+     "resource_url": "https://api.discogs.com/artists/1669870",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C1",
+   "title": "Anubis",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4304488,
+     "join": "",
+     "name": "Lolina (2)",
+     "resource_url": "https://api.discogs.com/artists/4304488",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C2",
+   "title": "A Path Of Weeds & Flowers",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5178280,
+     "join": "",
+     "name": "Mafia Boyz",
+     "resource_url": "https://api.discogs.com/artists/5178280",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C3",
+   "title": "Teaspoon La Qoh",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1656156,
+     "join": "",
+     "name": "The Raining Heart",
+     "resource_url": "https://api.discogs.com/artists/1656156",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C4",
+   "title": "Raining Heart",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 7330954,
+     "join": "",
+     "name": "Michael J. Blood",
+     "resource_url": "https://api.discogs.com/artists/7330954",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D1",
+   "title": "Lip Biter",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 10313674,
+     "join": "",
+     "name": "Markus Mann",
+     "resource_url": "https://api.discogs.com/artists/10313674",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D2",
+   "title": "I'm Losing",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2008555,
+     "join": "",
+     "name": "Mr. Ho (2)",
+     "resource_url": "https://api.discogs.com/artists/2008555",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D3",
+   "title": "Bail-E",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2634057,
+     "join": "",
+     "name": "Golden Donna",
+     "resource_url": "https://api.discogs.com/artists/2634057",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D4",
+   "title": "Foaming",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/22017571-Jessy-Lanza-DJ-Kicks",
+ "year": 2021
+}

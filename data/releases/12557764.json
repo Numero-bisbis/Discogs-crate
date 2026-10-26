@@ -1,0 +1,97 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 9786,
+   "join": ",",
+   "name": "Tony Allen",
+   "resource_url": "https://api.discogs.com/artists/9786",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/b8zz7AqCRKsDdYZ8HxeKJDkwq6wQnb5QujpEAQuzGmA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk3ODYt/MTY0MDM3NzYzMy0x/NTk0LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 205,
+   "join": "",
+   "name": "Jeff Mills",
+   "resource_url": "https://api.discogs.com/artists/205",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/LVjJVQKS5I9rXGT-sAdGmfVfFyoLYDH0ssfFpxDhyEg/rs:fit/g:sm/q:90/h:600/w:455/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwNS0x/NTA1ODA5NzQ5LTc5/MTAuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "10\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Jazz",
+  "Folk, World, & Country"
+ ],
+ "id": 12557764,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/HKIZIkhA-NI9Cam-DxW47mCh--OhLxj5pU46adg2zFM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU3/NzY0LTE1Mzc1NzIy/NDMtMzY0NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/HKIZIkhA-NI9Cam-DxW47mCh--OhLxj5pU46adg2zFM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU3/NzY0LTE1Mzc1NzIy/NDMtMzY0NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/nzaU2M4CS8NzqwUSu885sFw1OKjz7aIqstL7b9YE7Kc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU3/NzY0LTE1Mzc1NzIy/NDMtMzY0NC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "778630 6",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1532501,
+   "name": "Blue Note Lab",
+   "resource_url": "https://api.discogs.com/labels/1532501"
+  }
+ ],
+ "notes": "Recorded live in Paris at CBE Studio, mixed in New York.",
+ "released": "2018",
+ "styles": [
+  "Future Jazz",
+  "Afrobeat"
+ ],
+ "title": "Tomorrow Comes The Harvest",
+ "tracklist": [
+  {
+   "duration": "7:46",
+   "position": "A1",
+   "title": "Locked And Loaded",
+   "type_": "track"
+  },
+  {
+   "duration": "7:03",
+   "position": "A2",
+   "title": "Altitudes",
+   "type_": "track"
+  },
+  {
+   "duration": "8:07",
+   "position": "B1",
+   "title": "On The Run",
+   "type_": "track"
+  },
+  {
+   "duration": "7:11",
+   "position": "B2",
+   "title": "The Seed",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12557764-Tony-Allen-Jeff-Mills-Tomorrow-Comes-The-Harvest",
+ "year": 2018
+}

@@ -1,0 +1,71 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2569,
+   "join": "",
+   "name": "Stardust",
+   "resource_url": "https://api.discogs.com/artists/2569",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Sp2OnwXl6dhLY5LnMHrjCnI13GfDEb2L10TpWu3xolc/rs:fit/g:sm/q:90/h:600/w:564/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1Njkt/MTUxNzQ3MTg1NC0x/MzAxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "Single Sided",
+    "Single",
+    "Etched",
+    "Repress"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 4087,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/O5klxSKsUSHBuPhdqE9_GVoHm3T7eCc3lIfjPY8kB28/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODct/MTIzMDA1NzQ4NC5q/cGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/O5klxSKsUSHBuPhdqE9_GVoHm3T7eCc3lIfjPY8kB28/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODct/MTIzMDA1NzQ4NC5q/cGVn.jpeg",
+   "uri150": "https://i.discogs.com/lqVoOMWuLoJjK3ygnQ_XqFWjqAxJ_5k79LgP2Q9vu4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODct/MTIzMDA1NzQ4NC5q/cGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "Roulé 305",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 783,
+   "name": "Roulé",
+   "resource_url": "https://api.discogs.com/labels/783",
+   "thumbnail_url": "https://i.discogs.com/7eG9W2ee7b-zlYHNZ9frmuEmq0rww6S-A-V6ubDnWrI/rs:fit/g:sm/q:90/h:143/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc4My0x/MDg0NDU3OTc2Lmpw/Zw.jpeg"
+  }
+ ],
+ "notes": "[Info label:]\nRecorded @ Daft House in Paris\n\nFeaturing samples from [a=Chaka Khan] recording “[url=http://www.discogs.com/release/297531]Fate[/url]” (Musker / King) EMI Publishing.\nProduced under license from Warner Bros Records Inc.\nBy arrangement with Warner Special Products. Used by permission. \n\n℗ & © 1998 Roulé Music\nDistribution: 33 (0) 1 46 06 16 65 (fax)\nMade in France\n_______________\n\nRepress of [r=6559465] with slightly different text on label, which is the one used in the next remixes or reissues.\nAlso there are reissues with different runout, fax number and \"Made in the E.U.\"\n\nTrack duration is timed and does not appear on this release. Includes an insert with the label's other releases.\n\nRunout on side A is stamped except  'THE EXCHANGE - NiLZ.' that is etched.\nSide B has a text etched.",
+ "released": "1998-07-20",
+ "styles": [
+  "House",
+  "French House"
+ ],
+ "title": "Music Sounds Better With You",
+ "tracklist": [
+  {
+   "duration": "6:50",
+   "position": "A",
+   "title": "Music Sounds Better With You",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/4087-Stardust-Music-Sounds-Better-With-You",
+ "year": 1998
+}

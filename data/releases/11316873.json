@@ -1,0 +1,236 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 18606,
+   "join": "",
+   "name": "Lords Of The Underground",
+   "resource_url": "https://api.discogs.com/artists/18606",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/LHxPQH2W_tKJTlwVxYS6tCT8z3nE0pGuETOilufVhmU/rs:fit/g:sm/q:90/h:452/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4NjA2/LTEzMTg3ODg2MzQu/anBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Limited Edition",
+    "Numbered",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Green, 180 Gram"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 11316873,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/Onkpen3vcBtST2N3HhTQNfHqoOee2J86lBY8IbAxgcs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE2/ODczLTE1MTg4ODM0/NDEtNTY0Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Onkpen3vcBtST2N3HhTQNfHqoOee2J86lBY8IbAxgcs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE2/ODczLTE1MTg4ODM0/NDEtNTY0Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/RBeZcHrI1ClFTGYQjKw77R4ykLH1qzsimIc041HvcUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE2/ODczLTE1MTg4ODM0/NDEtNTY0Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "MOVLP1975",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 11424,
+   "name": "Pendulum Records",
+   "resource_url": "https://api.discogs.com/labels/11424",
+   "thumbnail_url": "https://i.discogs.com/yoC7-C-YMV57ZiWx2AX2mUICYwDNJ8gFWV0HndOxsEM/rs:fit/g:sm/q:90/h:600/w:483/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNDI0/LTE3ODgzODk4MzEt/NjMxOC5qcGVn.jpeg"
+  },
+  {
+   "catno": "MOVLP1975",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 169635,
+   "name": "Music On Vinyl",
+   "resource_url": "https://api.discogs.com/labels/169635",
+   "thumbnail_url": "https://i.discogs.com/o8FdZbFylxlL4Mc91n3DX9UWRbDRrqvX1oW98w-DPXA/rs:fit/g:sm/q:90/h:54/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTYz/NS0xMjU3MzIyODA5/LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Reissue of [r242701].\n\n180 gram audiophile vinyl.\nIncludes insert with producer credits.\n25th Anniversary Edition.\nFirst limited pressing of 1.000 individually numbered copies on green vinyl",
+ "released": "2018-01-26",
+ "styles": [],
+ "title": "Here Come The Lords",
+ "tracklist": [
+  {
+   "duration": "4:18",
+   "position": "A1",
+   "title": "Here Come The Lords",
+   "type_": "track"
+  },
+  {
+   "duration": "4:20",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 217173,
+     "join": "",
+     "name": "Jam-C",
+     "resource_url": "https://api.discogs.com/artists/217173",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "From Da Bricks",
+   "type_": "track"
+  },
+  {
+   "duration": "4:31",
+   "position": "A3",
+   "title": "Funky Child",
+   "type_": "track"
+  },
+  {
+   "duration": "4:08",
+   "position": "B1",
+   "title": "Keep It Underground",
+   "type_": "track"
+  },
+  {
+   "duration": "4:24",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 13873,
+     "join": "",
+     "name": "Marley Marl",
+     "resource_url": "https://api.discogs.com/artists/13873",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Check It (Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:06",
+   "position": "B3",
+   "title": "Grave Digga",
+   "type_": "track"
+  },
+  {
+   "duration": "4:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 168693,
+     "join": "",
+     "name": "K-Def",
+     "resource_url": "https://api.discogs.com/artists/168693",
+     "role": "Co-producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Lords Prayer",
+   "type_": "track"
+  },
+  {
+   "duration": "4:25",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 217172,
+     "join": "",
+     "name": "Kid Deleon",
+     "resource_url": "https://api.discogs.com/artists/217172",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 217169,
+     "join": "",
+     "name": "Sah-B",
+     "resource_url": "https://api.discogs.com/artists/217169",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Flow On (New Symphony)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:03",
+   "position": "C2",
+   "title": "Madd Skillz",
+   "type_": "track"
+  },
+  {
+   "duration": "4:08",
+   "position": "C3",
+   "title": "Psycho",
+   "type_": "track"
+  },
+  {
+   "duration": "4:07",
+   "position": "C4",
+   "title": "Chief Rocka",
+   "type_": "track"
+  },
+  {
+   "duration": "5:16",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 13873,
+     "join": "",
+     "name": "Marley Marl",
+     "resource_url": "https://api.discogs.com/artists/13873",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Sleep For Dinner (Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:26",
+   "position": "D2",
+   "title": "L.O.T.U.G. (Lords Of The Underground)",
+   "type_": "track"
+  },
+  {
+   "duration": "2:46",
+   "extraartists": [
+    {
+     "anv": "Lord Jazz",
+     "id": 190917,
+     "join": "",
+     "name": "DJ Lord Jazz",
+     "resource_url": "https://api.discogs.com/artists/190917",
+     "role": "Scratches [All Cuts]",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Lord Jazz Hit Me One Time (Make It Funky)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:38",
+   "position": "D4",
+   "title": "What's Goin' On",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11316873-Lords-Of-The-Underground-Here-Come-The-Lords",
+ "year": 2018
+}

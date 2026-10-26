@@ -1,0 +1,73 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5049052,
+   "join": "",
+   "name": "Bolis Pupul",
+   "resource_url": "https://api.discogs.com/artists/5049052",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/lNPBgCwJ990heAb3YpFdkN84GiQizvfDO-IqqQrIgrM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwNDkw/NTItMTY0MTMzNTY4/MC03NDM3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Belgium",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 9891801,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/vu7-Bd9VDtTA9JMSL3T7GqYdR6qm9NDZ1K8azp32lEg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTE4/MDEtMTUyOTUxNjI2/Ny05NjUxLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/vu7-Bd9VDtTA9JMSL3T7GqYdR6qm9NDZ1K8azp32lEg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTE4/MDEtMTUyOTUxNjI2/Ny05NjUxLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/yO6v8bxKDRaOE1qm2mzWpxUfJvOvAXDDoNABlyP4NzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTE4/MDEtMTUyOTUxNjI2/Ny05NjUxLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DEEWEE020",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 901323,
+   "name": "Deewee",
+   "resource_url": "https://api.discogs.com/labels/901323",
+   "thumbnail_url": "https://i.discogs.com/43iFaH5jTGcKif0DoJFbOk5ajpAmXmRmxUuuphfCAks/rs:fit/g:sm/q:90/h:600/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwMTMy/My0xNTE1NzI4ODk3/LTgxMjYucG5n.jpeg"
+  }
+ ],
+ "notes": "Both sides start with a narration from Bolis Pupul in Mandarin Chinese: \"Deewee 020, (A or B) mìan\".\nBoth sides end in a locked inner groove.",
+ "released": "2017-01-30",
+ "styles": [
+  "House",
+  "Electro"
+ ],
+ "title": "Wèi? / Teknow",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Wèi?",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Teknow",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/9891801-Bolis-Pupul-Wèi-Teknow",
+ "year": 2017
+}

@@ -1,0 +1,80 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5377372,
+   "join": "",
+   "name": "Future Sound Of Antwerp",
+   "resource_url": "https://api.discogs.com/artists/5377372",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Zi0owENvNi8WuV38iMfUMZtDbVgTeRsn49-WMo7m_lQ/rs:fit/g:sm/q:90/h:433/w:306/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUzNzcz/NzItMTU0NzQ4NDY2/OS0yNDMyLnBuZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Belgium",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 9364772,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/7UbyHCH6eXPryXxPM-rpG48EBMRU_OLRb_MDrUTp4MM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjQ3/NzItMTQ3OTMwNDAy/NS01ODEyLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/7UbyHCH6eXPryXxPM-rpG48EBMRU_OLRb_MDrUTp4MM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjQ3/NzItMTQ3OTMwNDAy/NS01ODEyLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/qczXLy793g5MIppCFJbnsAbfEsBlsqPhjtKSb49sIp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjQ3/NzItMTQ3OTMwNDAy/NS01ODEyLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DEEWEE018",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 901323,
+   "name": "Deewee",
+   "resource_url": "https://api.discogs.com/labels/901323",
+   "thumbnail_url": "https://i.discogs.com/43iFaH5jTGcKif0DoJFbOk5ajpAmXmRmxUuuphfCAks/rs:fit/g:sm/q:90/h:600/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwMTMy/My0xNTE1NzI4ODk3/LTgxMjYucG5n.jpeg"
+  }
+ ],
+ "notes": "Both sides start with a narration from one of the members of Future Sound of Antwerp: \"Deewee 018, Kant...(A or B)\".\nBoth sides end in a locked inner groove.",
+ "released": "2016-11-00",
+ "styles": [
+  "Techno",
+  "Electro"
+ ],
+ "title": "Tom Cruise, Scientologist",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Tom Cruise, Scientologist  ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Schöne Augen",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Volium",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/9364772-Future-Sound-Of-Antwerp-Tom-Cruise-Scientologist",
+ "year": 2016
+}

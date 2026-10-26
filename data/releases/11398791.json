@@ -1,0 +1,189 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Sweden",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11398791,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/_adu9dVj6SPDeJEVNjY8CVgfMg_PVgB0NIV_QEoSPMs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk4/NzkxLTE1MTU2MTkw/MjctMjgzMC5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/_adu9dVj6SPDeJEVNjY8CVgfMg_PVgB0NIV_QEoSPMs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk4/NzkxLTE1MTU2MTkw/MjctMjgzMC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/aQJ3XgAz8YQNwfemfWfQoKqtyppZGTQzPRVHE5_sZw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk4/NzkxLTE1MTU2MTkw/MjctMjgzMC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DC178.4",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 237,
+   "name": "Drumcode",
+   "resource_url": "https://api.discogs.com/labels/237",
+   "thumbnail_url": "https://i.discogs.com/1rrViQveJmRumM48FWYOYNsJD3-iahuaYprtxJgsAQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNy0x/NjkyOTkxNjY2LTg2/NjgucG5n.jpeg"
+  }
+ ],
+ "notes": " © 2017 Drumcode Records.\n\nPressing and distribution by primedirectdist.co.uk\n\nThe pressing plant is derived from the typical inner-rings stamped on the labels.",
+ "released": "2018-01-00",
+ "styles": [
+  "Techno"
+ ],
+ "title": "A-Sides Vol.6 Vinyl Four Of Four",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 456782,
+     "join": "",
+     "name": "Luca Agnelli",
+     "resource_url": "https://api.discogs.com/artists/456782",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 456782,
+     "join": "",
+     "name": "Luca Agnelli",
+     "resource_url": "https://api.discogs.com/artists/456782",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Hypericum",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 845854,
+     "join": "",
+     "name": "Arjun Vagale",
+     "resource_url": "https://api.discogs.com/artists/845854",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 845854,
+     "join": "",
+     "name": "Arjun Vagale",
+     "resource_url": "https://api.discogs.com/artists/845854",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Liquid",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 868944,
+     "join": "",
+     "name": "Vinicius Honorio",
+     "resource_url": "https://api.discogs.com/artists/868944",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "V. Honorio",
+     "id": 868944,
+     "join": "",
+     "name": "Vinicius Honorio",
+     "resource_url": "https://api.discogs.com/artists/868944",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Diamond Dust",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1215774,
+     "join": "&",
+     "name": "Luigi Madonna",
+     "resource_url": "https://api.discogs.com/artists/1215774",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 948339,
+     "join": "",
+     "name": "Roberto Capuano",
+     "resource_url": "https://api.discogs.com/artists/948339",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1215774,
+     "join": "",
+     "name": "Luigi Madonna",
+     "resource_url": "https://api.discogs.com/artists/1215774",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 948339,
+     "join": "",
+     "name": "Roberto Capuano",
+     "resource_url": "https://api.discogs.com/artists/948339",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Limitless",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11398791-Various-A-Sides-Vol6-Vinyl-Four-Of-Four",
+ "year": 2018
+}

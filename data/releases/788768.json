@@ -1,0 +1,622 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 15875,
+   "join": "",
+   "name": "Ashford & Simpson",
+   "resource_url": "https://api.discogs.com/artists/15875",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/6VXTbvzSpT7VwFDN8rCPofLvNvjq7pxZs3vGFJTTMuc/rs:fit/g:sm/q:90/h:600/w:492/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1ODc1/LTE2NjUwNjM1OTkt/NDk3Ni5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Winchester Pressing"
+  }
+ ],
+ "genres": [
+  "Funk / Soul"
+ ],
+ "id": 788768,
+ "images": [
+  {
+   "height": 596,
+   "resource_url": "https://i.discogs.com/M7gevre0kNga1giedQ5eJauSTQhYLbKCeWWMRXnLgRA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODc2/OC0xMTU5MDQzNzA5/LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/M7gevre0kNga1giedQ5eJauSTQhYLbKCeWWMRXnLgRA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODc2/OC0xMTU5MDQzNzA5/LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/Vjga6nLZudYGg6FuLkYIL7MKL_aEQ_inDvl1R_eJtd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODc2/OC0xMTU5MDQzNzA5/LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "HS 3357",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1000,
+   "name": "Warner Bros. Records",
+   "resource_url": "https://api.discogs.com/labels/1000",
+   "thumbnail_url": "https://i.discogs.com/GO-baqlieZvkZypxRJOHC9sgGPzAinoiWBc7_LwuZ10/rs:fit/g:sm/q:90/h:358/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDAt/MTY0NDg3NDIwMS01/ODI0LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "\"WW\" & \"--◁\" in runouts denotes a [l313656] pressing.\n\nComes with a printed inner sleeve with thanks and picture of Ashford and Simpson on front, and lyrics on back.",
+ "released": "1979",
+ "styles": [
+  "Soul",
+  "Disco"
+ ],
+ "title": "Stay Free",
+ "tracklist": [
+  {
+   "duration": "6:59",
+   "extraartists": [
+    {
+     "anv": "Nickolas Ashford & Valerie Simpson",
+     "id": 15875,
+     "join": "",
+     "name": "Ashford & Simpson",
+     "resource_url": "https://api.discogs.com/artists/15875",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 255791,
+     "join": "",
+     "name": "Ullanda McCullough",
+     "resource_url": "https://api.discogs.com/artists/255791",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 299480,
+     "join": "",
+     "name": "Francisco Centeno",
+     "resource_url": "https://api.discogs.com/artists/299480",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 311107,
+     "join": "",
+     "name": "Chris Parker (2)",
+     "resource_url": "https://api.discogs.com/artists/311107",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 135850,
+     "join": "",
+     "name": "Eric Gale",
+     "resource_url": "https://api.discogs.com/artists/135850",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 253349,
+     "join": "",
+     "name": "Rob Mounsey",
+     "resource_url": "https://api.discogs.com/artists/253349",
+     "role": "Horns, Strings",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136198,
+     "join": "",
+     "name": "Ralph MacDonald",
+     "resource_url": "https://api.discogs.com/artists/136198",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 268169,
+     "join": "",
+     "name": "Valerie Simpson",
+     "resource_url": "https://api.discogs.com/artists/268169",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 245039,
+     "join": "",
+     "name": "Ray Chew",
+     "resource_url": "https://api.discogs.com/artists/245039",
+     "role": "Synthesizer [Minimoog]",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Found A Cure",
+   "type_": "track"
+  },
+  {
+   "duration": "5:27",
+   "extraartists": [
+    {
+     "anv": "Nickolas Ashford & Valerie Simpson",
+     "id": 15875,
+     "join": "",
+     "name": "Ashford & Simpson",
+     "resource_url": "https://api.discogs.com/artists/15875",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 255791,
+     "join": "",
+     "name": "Ullanda McCullough",
+     "resource_url": "https://api.discogs.com/artists/255791",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 299480,
+     "join": "",
+     "name": "Francisco Centeno",
+     "resource_url": "https://api.discogs.com/artists/299480",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 311107,
+     "join": "",
+     "name": "Chris Parker (2)",
+     "resource_url": "https://api.discogs.com/artists/311107",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 135850,
+     "join": "",
+     "name": "Eric Gale",
+     "resource_url": "https://api.discogs.com/artists/135850",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 253349,
+     "join": "",
+     "name": "Rob Mounsey",
+     "resource_url": "https://api.discogs.com/artists/253349",
+     "role": "Horns, Strings",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136198,
+     "join": "",
+     "name": "Ralph MacDonald",
+     "resource_url": "https://api.discogs.com/artists/136198",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 268169,
+     "join": "",
+     "name": "Valerie Simpson",
+     "resource_url": "https://api.discogs.com/artists/268169",
+     "role": "Piano",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Stay Free",
+   "type_": "track"
+  },
+  {
+   "duration": "5:48",
+   "extraartists": [
+    {
+     "anv": "Nickolas Ashford & Valerie Simpson",
+     "id": 15875,
+     "join": "",
+     "name": "Ashford & Simpson",
+     "resource_url": "https://api.discogs.com/artists/15875",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 223189,
+     "join": "",
+     "name": "Chandra Armstead",
+     "resource_url": "https://api.discogs.com/artists/223189",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 223377,
+     "join": "",
+     "name": "Frank Floyd",
+     "resource_url": "https://api.discogs.com/artists/223377",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Joshie Armstead",
+     "id": 381635,
+     "join": "",
+     "name": "Jo Armstead",
+     "resource_url": "https://api.discogs.com/artists/381635",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 255791,
+     "join": "",
+     "name": "Ullanda McCullough",
+     "resource_url": "https://api.discogs.com/artists/255791",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 135848,
+     "join": "",
+     "name": "Anthony Jackson",
+     "resource_url": "https://api.discogs.com/artists/135848",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136198,
+     "join": "",
+     "name": "Ralph MacDonald",
+     "resource_url": "https://api.discogs.com/artists/136198",
+     "role": "Drums [Syndrum], Congas, Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "Dave Carey",
+     "id": 211618,
+     "join": "",
+     "name": "David Carey",
+     "resource_url": "https://api.discogs.com/artists/211618",
+     "role": "Drums [Timpani]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 135850,
+     "join": "",
+     "name": "Eric Gale",
+     "resource_url": "https://api.discogs.com/artists/135850",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 255469,
+     "join": "",
+     "name": "Steve Khan",
+     "resource_url": "https://api.discogs.com/artists/255469",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 253349,
+     "join": "",
+     "name": "Rob Mounsey",
+     "resource_url": "https://api.discogs.com/artists/253349",
+     "role": "Horns, Strings",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 245039,
+     "join": "",
+     "name": "Ray Chew",
+     "resource_url": "https://api.discogs.com/artists/245039",
+     "role": "Piano, Electric Piano [Fender Rhodes]",
+     "tracks": ""
+    },
+    {
+     "anv": "John Curico",
+     "id": 906731,
+     "join": "",
+     "name": "John Curcio",
+     "resource_url": "https://api.discogs.com/artists/906731",
+     "role": "Recorded By [Rhythm]",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Dance Forever",
+   "type_": "track"
+  },
+  {
+   "duration": "6:33",
+   "extraartists": [
+    {
+     "anv": "Nickolas Ashford & Valerie Simpson",
+     "id": 15875,
+     "join": "",
+     "name": "Ashford & Simpson",
+     "resource_url": "https://api.discogs.com/artists/15875",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 299480,
+     "join": "",
+     "name": "Francisco Centeno",
+     "resource_url": "https://api.discogs.com/artists/299480",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 258118,
+     "join": "",
+     "name": "Steve Gadd",
+     "resource_url": "https://api.discogs.com/artists/258118",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 135850,
+     "join": "",
+     "name": "Eric Gale",
+     "resource_url": "https://api.discogs.com/artists/135850",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 267899,
+     "join": "",
+     "name": "Paul Riser",
+     "resource_url": "https://api.discogs.com/artists/267899",
+     "role": "Horns, Strings",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136198,
+     "join": "",
+     "name": "Ralph MacDonald",
+     "resource_url": "https://api.discogs.com/artists/136198",
+     "role": "Percussion, Drums [Syndrum]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 268169,
+     "join": "",
+     "name": "Valerie Simpson",
+     "resource_url": "https://api.discogs.com/artists/268169",
+     "role": "Piano",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Nobody Knows",
+   "type_": "track"
+  },
+  {
+   "duration": "3:39",
+   "extraartists": [
+    {
+     "anv": "Nickolas Ashford & Valerie Simpson",
+     "id": 15875,
+     "join": "",
+     "name": "Ashford & Simpson",
+     "resource_url": "https://api.discogs.com/artists/15875",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 299480,
+     "join": "",
+     "name": "Francisco Centeno",
+     "resource_url": "https://api.discogs.com/artists/299480",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 311107,
+     "join": "",
+     "name": "Chris Parker (2)",
+     "resource_url": "https://api.discogs.com/artists/311107",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 245039,
+     "join": "",
+     "name": "Ray Chew",
+     "resource_url": "https://api.discogs.com/artists/245039",
+     "role": "Electric Piano [Fender Rhodes]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 135850,
+     "join": "",
+     "name": "Eric Gale",
+     "resource_url": "https://api.discogs.com/artists/135850",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 384596,
+     "join": "",
+     "name": "John Davis (5)",
+     "resource_url": "https://api.discogs.com/artists/384596",
+     "role": "Horns, Strings",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 268169,
+     "join": "",
+     "name": "Valerie Simpson",
+     "resource_url": "https://api.discogs.com/artists/268169",
+     "role": "Piano",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Crazy",
+   "type_": "track"
+  },
+  {
+   "duration": "4:40",
+   "extraartists": [
+    {
+     "anv": "Nickolas Ashford & Valerie Simpson",
+     "id": 15875,
+     "join": "",
+     "name": "Ashford & Simpson",
+     "resource_url": "https://api.discogs.com/artists/15875",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 299480,
+     "join": "",
+     "name": "Francisco Centeno",
+     "resource_url": "https://api.discogs.com/artists/299480",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 217246,
+     "join": "",
+     "name": "Jimmy Young",
+     "resource_url": "https://api.discogs.com/artists/217246",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 135850,
+     "join": "",
+     "name": "Eric Gale",
+     "resource_url": "https://api.discogs.com/artists/135850",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 384596,
+     "join": "",
+     "name": "John Davis (5)",
+     "resource_url": "https://api.discogs.com/artists/384596",
+     "role": "Horns, Strings",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 268169,
+     "join": "",
+     "name": "Valerie Simpson",
+     "resource_url": "https://api.discogs.com/artists/268169",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 245039,
+     "join": "",
+     "name": "Ray Chew",
+     "resource_url": "https://api.discogs.com/artists/245039",
+     "role": "Synthesizer [Minimoog]",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Finally Got To Me",
+   "type_": "track"
+  },
+  {
+   "duration": "4:46",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 200783,
+     "join": "",
+     "name": "Eddie Daniels",
+     "resource_url": "https://api.discogs.com/artists/200783",
+     "role": "Flute",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 264569,
+     "join": "",
+     "name": "George Young (2)",
+     "resource_url": "https://api.discogs.com/artists/264569",
+     "role": "Flute",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 267899,
+     "join": "",
+     "name": "Paul Riser",
+     "resource_url": "https://api.discogs.com/artists/267899",
+     "role": "Horns, Strings",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 268169,
+     "join": "",
+     "name": "Valerie Simpson",
+     "resource_url": "https://api.discogs.com/artists/268169",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 245039,
+     "join": "",
+     "name": "Ray Chew",
+     "resource_url": "https://api.discogs.com/artists/245039",
+     "role": "Synthesizer [Minimoog]",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Follow Your Heart",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/788768-Ashford-Simpson-Stay-Free",
+ "year": 1979
+}

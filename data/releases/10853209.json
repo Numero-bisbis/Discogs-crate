@@ -1,0 +1,72 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1684763,
+   "join": "",
+   "name": "Enrico Sangiuliano",
+   "resource_url": "https://api.discogs.com/artists/1684763",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/TLnGxVQybH9SdZIGQUg2DTGAt5PiwiuvbkIRVlpwaG4/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2ODQ3/NjMtMTc3NTU3OTY5/My03NDUxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Sweden",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 10853209,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/OuEJFQZR0EDt7hq5YeejLDGnzXFMYcBbg1RKKiaSeKE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODUz/MjA5LTE1MDU1Nzk2/MzUtODgzMi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/OuEJFQZR0EDt7hq5YeejLDGnzXFMYcBbg1RKKiaSeKE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODUz/MjA5LTE1MDU1Nzk2/MzUtODgzMi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/_bbf5FN8cZnKM18PvoLxFdKGl5ma40vo-9gV7jZ6yPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODUz/MjA5LTE1MDU1Nzk2/MzUtODgzMi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DC176",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 237,
+   "name": "Drumcode",
+   "resource_url": "https://api.discogs.com/labels/237",
+   "thumbnail_url": "https://i.discogs.com/1rrViQveJmRumM48FWYOYNsJD3-iahuaYprtxJgsAQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNy0x/NjkyOTkxNjY2LTg2/NjgucG5n.jpeg"
+  }
+ ],
+ "notes": "On label side B:\n℗ Dipiu\n© Drumcode 2017\n\nRunout information:\nRunouts are etched except for \"[MPO logo]® 20 187559\" which is stamped.",
+ "released": "2017-09-11",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Astral Projection",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Astral Projection",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Blooming Era",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10853209-Enrico-Sangiuliano-Astral-Projection",
+ "year": 2017
+}

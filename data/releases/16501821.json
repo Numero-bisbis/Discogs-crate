@@ -1,0 +1,82 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1489,
+   "join": "",
+   "name": "Octave One",
+   "resource_url": "https://api.discogs.com/artists/1489",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/DDA2nHxKnr3OgLI6oL3Sa-PbWcyBwbH6pOjINfEnzsY/rs:fit/g:sm/q:90/h:386/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0ODkt/MTQxNTEwNDQzNS02/MzA4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "Reissue",
+    "Remastered"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Clear"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 16501821,
+ "images": [
+  {
+   "height": 592,
+   "resource_url": "https://i.discogs.com/bt_nDYN2336O1SMzH3dhp1qrIN3wtLLh_W339q4Igu4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTAx/ODIxLTE3MjA3MjA0/ODQtMjY4My5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/bt_nDYN2336O1SMzH3dhp1qrIN3wtLLh_W339q4Igu4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTAx/ODIxLTE3MjA3MjA0/ODQtMjY4My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/HcGP2FSoomIVKC5BgOsFKKj7aViNBHwNB5XF_oihMRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTAx/ODIxLTE3MjA3MjA0/ODQtMjY4My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "4w-340",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 257,
+   "name": "430 West",
+   "resource_url": "https://api.discogs.com/labels/257",
+   "thumbnail_url": "https://i.discogs.com/zhxFKokwOVYO3FRa4DjBeZxsJLx-81CK2AsBoKdgo-8/rs:fit/g:sm/q:90/h:360/w:312/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1Ny0x/MTQwNjg2NTYzLmdp/Zg.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2020-12-00",
+ "styles": [
+  "Techno",
+  "House"
+ ],
+ "title": "Black Water",
+ "tracklist": [
+  {
+   "duration": "5:40",
+   "position": "A1",
+   "title": "Black Water",
+   "type_": "track"
+  },
+  {
+   "duration": "4:54",
+   "position": "A2",
+   "title": "Black Waters",
+   "type_": "track"
+  },
+  {
+   "duration": "5:43",
+   "position": "AA",
+   "title": "Untold",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/16501821-Octave-One-Black-Water",
+ "year": 2020
+}

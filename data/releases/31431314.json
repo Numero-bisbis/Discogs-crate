@@ -1,0 +1,371 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 38561,
+   "join": "",
+   "name": "OutKast",
+   "resource_url": "https://api.discogs.com/artists/38561",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/4dPQedPP7YrZBQXX4tyrxDJ0pmTQlq3Afgqau7kzN4c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4NTYx/LTE2NjE4MzU4NjUt/NTY5Ni5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop",
+  "Funk / Soul"
+ ],
+ "id": 31431314,
+ "images": [
+  {
+   "height": 594,
+   "resource_url": "https://i.discogs.com/ZP5ufYnEeQ3seqEB3KulbGdGk_RFqGXC40tIcEKy0zY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDMx/MzE0LTE3NjMyMjk5/NzktODQ1Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/ZP5ufYnEeQ3seqEB3KulbGdGk_RFqGXC40tIcEKy0zY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDMx/MzE0LTE3NjMyMjk5/NzktODQ1Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/bOpxjA_M7gY_7nhsQcOAktFF5oa5POvupUHkfKWGN9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDMx/MzE0LTE3NjMyMjk5/NzktODQ1Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "19658884861",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2927,
+   "name": "LaFace Records",
+   "resource_url": "https://api.discogs.com/labels/2927",
+   "thumbnail_url": "https://i.discogs.com/IJ008OhRH62IWKaG9wbS3WPM4383DhcKS3PPRV1vZK4/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5Mjct/MTYzOTYzMTU3MS01/NDEzLmpwZWc.jpeg"
+  },
+  {
+   "catno": "19658884861",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 362,
+   "name": "Arista",
+   "resource_url": "https://api.discogs.com/labels/362",
+   "thumbnail_url": "https://i.discogs.com/LtFQ5vk9L_iX2QuscmOFE0TAcLtsQB7olAcijyQUZdA/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2Mi0x/NTUwNzg3ODg4LTc0/ODguanBlZw.jpeg"
+  }
+ ],
+ "notes": "Runouts are etched, except for \"-64137-\"/ \"-64138-\" which are stamped.",
+ "released": "2024-08-09",
+ "styles": [
+  "Gangsta",
+  "Crunk",
+  "P.Funk",
+  "Conscious"
+ ],
+ "title": "Stankonia",
+ "tracklist": [
+  {
+   "duration": "1:10",
+   "position": "A1",
+   "title": "Intro",
+   "type_": "track"
+  },
+  {
+   "duration": "3:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 147024,
+     "join": "",
+     "name": "Khujo Goodie",
+     "resource_url": "https://api.discogs.com/artists/147024",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Gasoline Dreams",
+   "type_": "track"
+  },
+  {
+   "duration": "0:42",
+   "position": "A3",
+   "title": "I'm Cool (Interlude)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:00",
+   "position": "A4",
+   "title": "So Fresh, So Clean",
+   "type_": "track"
+  },
+  {
+   "duration": "4:32",
+   "position": "A5",
+   "title": "Ms. Jackson",
+   "type_": "track"
+  },
+  {
+   "duration": "4:20",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 143748,
+     "join": "",
+     "name": "J-Sweet (2)",
+     "resource_url": "https://api.discogs.com/artists/143748",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 53116,
+     "join": "",
+     "name": "Killer Mike",
+     "resource_url": "https://api.discogs.com/artists/53116",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Snappin' & Trappin'",
+   "type_": "track"
+  },
+  {
+   "duration": "0:27",
+   "position": "A7",
+   "title": "D.F. (Interlude)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:57",
+   "position": "B1",
+   "title": "Spaghetti Junction",
+   "type_": "track"
+  },
+  {
+   "duration": "1:13",
+   "position": "B2",
+   "title": "Kim & Cookie (Interlude)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:18",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 143750,
+     "join": "",
+     "name": "Eco (3)",
+     "resource_url": "https://api.discogs.com/artists/143750",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 143749,
+     "join": "",
+     "name": "Gangsta Boo",
+     "resource_url": "https://api.discogs.com/artists/143749",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "I'll Call Before I Come",
+   "type_": "track"
+  },
+  {
+   "duration": "5:04",
+   "position": "B4",
+   "title": "B.O.B.",
+   "type_": "track"
+  },
+  {
+   "duration": "4:09",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 53119,
+     "join": "",
+     "name": "B-Real",
+     "resource_url": "https://api.discogs.com/artists/53119",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Xplosion",
+   "type_": "track"
+  },
+  {
+   "duration": "0:15",
+   "position": "B6",
+   "title": "Good Hair (Interlude)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:10",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 53120,
+     "join": "",
+     "name": "BackBone",
+     "resource_url": "https://api.discogs.com/artists/53120",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 53121,
+     "join": "",
+     "name": "Big Gipp",
+     "resource_url": "https://api.discogs.com/artists/53121",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "We Luv Deez Hoez",
+   "type_": "track"
+  },
+  {
+   "duration": "4:51",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 10995,
+     "join": "",
+     "name": "Erykah Badu",
+     "resource_url": "https://api.discogs.com/artists/10995",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Humble Mumble",
+   "type_": "track"
+  },
+  {
+   "duration": "0:24",
+   "position": "C3",
+   "title": "Drinkin' Again (Interlude)",
+   "type_": "track"
+  },
+  {
+   "duration": "1:29",
+   "position": "C4",
+   "title": "?",
+   "type_": "track"
+  },
+  {
+   "duration": "3:54",
+   "position": "C5",
+   "title": "Red Velvet",
+   "type_": "track"
+  },
+  {
+   "duration": "0:19",
+   "position": "C6",
+   "title": "Cruisin' In The ATL (Interlude)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:57",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 53123,
+     "join": "",
+     "name": "C-Bone",
+     "resource_url": "https://api.discogs.com/artists/53123",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 143751,
+     "join": "",
+     "name": "Slimm Calhoun",
+     "resource_url": "https://api.discogs.com/artists/143751",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "T-Mo",
+     "id": 53124,
+     "join": "",
+     "name": "T-Mo Goodie",
+     "resource_url": "https://api.discogs.com/artists/53124",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Gangsta Sh*t",
+   "type_": "track"
+  },
+  {
+   "duration": "4:25",
+   "position": "D2",
+   "title": "Toilet Tisha",
+   "type_": "track"
+  },
+  {
+   "duration": "4:08",
+   "extraartists": [
+    {
+     "anv": "Cee-Lo Goodie",
+     "id": 57770,
+     "join": "",
+     "name": "Cee-Lo",
+     "resource_url": "https://api.discogs.com/artists/57770",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Slum Beautiful",
+   "type_": "track"
+  },
+  {
+   "duration": "0:27",
+   "position": "D4",
+   "title": "Pre-Nump (Interlude)",
+   "type_": "track"
+  },
+  {
+   "duration": "6:51",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 53126,
+     "join": "",
+     "name": "Big Rube",
+     "resource_url": "https://api.discogs.com/artists/53126",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 53127,
+     "join": "",
+     "name": "Sleepy Brown",
+     "resource_url": "https://api.discogs.com/artists/53127",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D5",
+   "title": "Stankonia (Stanklove)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/31431314-OutKast-Stankonia",
+ "year": 2024
+}

@@ -1,0 +1,86 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5701905,
+   "join": "",
+   "name": "Tim Tama",
+   "resource_url": "https://api.discogs.com/artists/5701905",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/qpkncKUbJsWGbu6PfKnC74aR8vULFSg3XDJp7Ws60zo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU3MDE5/MDUtMTU0NzY1Mjkw/Mi03MDg0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12822546,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/Q6B0HbF0h0sYSMd4u3Im93jFvZ0KPm-7yVSVZlsbOek/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODIy/NTQ2LTE1NDUzMjc5/NDEtNjMyMi5wbmc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Q6B0HbF0h0sYSMd4u3Im93jFvZ0KPm-7yVSVZlsbOek/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODIy/NTQ2LTE1NDUzMjc5/NDEtNjMyMi5wbmc.jpeg",
+   "uri150": "https://i.discogs.com/9c9AhD7oZBGOix51Tfjr7Ba2T2b069T_vEsxgzNlPj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODIy/NTQ2LTE1NDUzMjc5/NDEtNjMyMi5wbmc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ARTSCCV0028",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 760299,
+   "name": "Arts Collective",
+   "resource_url": "https://api.discogs.com/labels/760299",
+   "thumbnail_url": "https://i.discogs.com/_vficzwTrHmcasKvSjUclMDJHgeaK224mYB3ovr8V7A/rs:fit/g:sm/q:90/h:136/w:282/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc2MDI5/OS0xNTI3MTEwNjMw/LTkzNjQuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-11-23",
+ "styles": [
+  "Techno",
+  "Neo Trance"
+ ],
+ "title": "A Taste Of The Heart",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "The Wars Of The Roses",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Teflon Love",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Duality",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "The Gallows",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12822546-Tim-Tama-A-Taste-Of-The-Heart",
+ "year": 2018
+}

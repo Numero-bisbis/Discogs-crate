@@ -1,0 +1,79 @@
+{
+ "artists": [
+  {
+   "anv": "Obscure Shape & SHDW",
+   "id": 8608764,
+   "join": "",
+   "name": "SHDW & Obscure Shape",
+   "resource_url": "https://api.discogs.com/artists/8608764",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Pd83h4rI6JuP8X7wrhuneHsnBH3CPta7jWY7SJ0gd_w/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg2MDg3/NjQtMTYzMjg0MjQz/MC04NzY4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Yellow Marbled"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12730421,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/JGmxb7m88AlPOq_FUWlJvWx3xBXBB4trNEgJL3PoXWU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzMw/NDIxLTE1NDA4NTQ5/NzQtNTEwNi5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/JGmxb7m88AlPOq_FUWlJvWx3xBXBB4trNEgJL3PoXWU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzMw/NDIxLTE1NDA4NTQ5/NzQtNTEwNi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/DADhmlmkABmxohhPqvPh_BNzLc-K-JRuJEVuuwvEUGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzMw/NDIxLTE1NDA4NTQ5/NzQtNTEwNi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "REKIDS 128",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 58500,
+   "name": "REKIDS",
+   "resource_url": "https://api.discogs.com/labels/58500",
+   "thumbnail_url": "https://i.discogs.com/w40lEhAP12Fa57pagXBDloWhiokqZ5OnALhl6r2L23Q/rs:fit/g:sm/q:90/h:250/w:236/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4NTAw/LTExNTIxMjM0NzMu/anBlZw.jpeg"
+  }
+ ],
+ "notes": "Made in France",
+ "released": "2018-10-26",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Der Sturm",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Der Sturm",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Zeit Des Erwachens",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Tränen Der Sonne",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12730421-Obscure-Shape-SHDW-Der-Sturm",
+ "year": 2018
+}

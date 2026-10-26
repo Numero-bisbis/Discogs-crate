@@ -1,0 +1,101 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1600739,
+   "join": "",
+   "name": "Acid Mondays",
+   "resource_url": "https://api.discogs.com/artists/1600739",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/4UuAVuMGJUTNSz0Gz0IP09qcj16v2qnUkX9lllRNvZk/rs:fit/g:sm/q:90/h:350/w:374/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2MDA3/MzktMTMzMTM4NjQ4/MC5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Belgium",
+ "formats": [
+  {
+   "descriptions": [
+    "12\""
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11568084,
+ "images": [
+  {
+   "height": 500,
+   "resource_url": "https://i.discogs.com/cP17N2Rr6cXSoaoS3KeSObaYnOZu6THvKFAOGutIEJw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY4/MDg0LTE1MjAyNzMz/MDYtNDYzMi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/cP17N2Rr6cXSoaoS3KeSObaYnOZu6THvKFAOGutIEJw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY4/MDg0LTE1MjAyNzMz/MDYtNDYzMi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/p0RE6s9Nyn-C6XCK_Q_RG7xx3LS2GO8Rzkw20kgUkrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY4/MDg0LTE1MjAyNzMz/MDYtNDYzMi5qcGVn.jpeg",
+   "width": 500
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RS 1801",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 245,
+   "name": "R & S Records",
+   "resource_url": "https://api.discogs.com/labels/245",
+   "thumbnail_url": "https://i.discogs.com/_N2CVV8Zx5dgxcfBExsvfC7yHaXzr5KTnwwQSRTwJHQ/rs:fit/g:sm/q:90/h:600/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI0NS0x/NjEyNTM1NDYzLTI4/NjUuanBlZw.jpeg"
+  }
+ ],
+ "notes": "I feel this is also techno...",
+ "released": "2018-02-00",
+ "styles": [
+  "Deep House",
+  "Techno"
+ ],
+ "title": "Universal Rhythm",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "",
+   "title": "Black Side",
+   "type_": "heading"
+  },
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Universal Rhythm",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "",
+   "title": "Silver Side",
+   "type_": "heading"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3709519,
+     "join": "",
+     "name": "The Maghreban",
+     "resource_url": "https://api.discogs.com/artists/3709519",
+     "role": "Remix, Producer [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Universal Rhythm (The Maghreban Soul Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Universal Rhythm (Dub Mix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11568084-Acid-Mondays-Universal-Rhythm",
+ "year": 2018
+}

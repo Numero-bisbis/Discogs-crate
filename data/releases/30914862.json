@@ -1,0 +1,161 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1245513,
+   "join": "",
+   "name": "Tame Impala",
+   "resource_url": "https://api.discogs.com/artists/1245513",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/_pZNESCaPzf9bTXRrZjabJO9w0spkDk0q2XRaSnihXY/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyNDU1/MTMtMTQ2NjQ5MTkz/OC04NDAxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Repress"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Rock"
+ ],
+ "id": 30914862,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/L2OIl-RgG1-AbKpVr4f3LFxOjlHnSERcE2oMUFrLiF0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTE0/ODYyLTE3MTc5MzU3/NjAtOTkyMi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/L2OIl-RgG1-AbKpVr4f3LFxOjlHnSERcE2oMUFrLiF0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTE0/ODYyLTE3MTc5MzU3/NjAtOTkyMi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/xPLOoclWf8njsH86onKtTWmzKdsMXuWp0JwJmjlMOHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTE0/ODYyLTE3MTc5MzU3/NjAtOTkyMi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "4730367-7",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 5810,
+   "name": "Fiction Records",
+   "resource_url": "https://api.discogs.com/labels/5810",
+   "thumbnail_url": "https://i.discogs.com/O4V0SZZJFuTzHyqOsP-H3LKmYY3K7UDUzHEtV58TeHw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4MTAt/MTQ5NzE4MjUwNy02/MTExLmpwZWc.jpeg"
+  },
+  {
+   "catno": "4730367-7",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 674471,
+   "name": "Caroline International",
+   "resource_url": "https://api.discogs.com/labels/674471",
+   "thumbnail_url": "https://i.discogs.com/Nt3wM31d1nz3mQaLurCegsotqbezLfbcvP-ylDubZyc/rs:fit/g:sm/q:90/h:219/w:454/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY3NDQ3/MS0xNDczNTM4NDY1/LTkyODgucG5n.jpeg"
+  },
+  {
+   "catno": "4730367-7",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 23694,
+   "name": "Universal Music",
+   "resource_url": "https://api.discogs.com/labels/23694",
+   "thumbnail_url": "https://i.discogs.com/oDtwgSDoEISnEoPdpSQh3FPCoVmoMTWRbDrYa4KaRfA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNjk0/LTEzNzM1MzYzNjQt/NjEwMC5wbmc.jpeg"
+  }
+ ],
+ "notes": "2024 Repress for Europe. \nNo download code included.\n\"Made in France\" sticker on back of shrinkwrap.\n\nOn back:\n℗ & © 2015 Modular Recordings Pty, Under exclusive license to Universal Music Australia Pty Ltd. All rights of the owner of copyright in this sound recording reserved. Unauthorised copying, renting, lending, diffusion, public performance or broadcast of the recorded work prohibited. BIEM/SDRM. Made in EU. 473067-7",
+ "released": "2024",
+ "styles": [
+  "Indie Rock",
+  "Psychedelic Rock",
+  "Synth-pop"
+ ],
+ "title": "Currents",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Let It Happen",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Nangs",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "The Moment",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Yes I'm Changing",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Eventually",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Gossip",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "The Less I Know The Better",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C2",
+   "title": "Past Life",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C3",
+   "title": "Disciples",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C4",
+   "title": "Cause I'm A Man",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D1",
+   "title": "Reality In Motion",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D2",
+   "title": "Love/Paranoia",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D3",
+   "title": "New Person, Same Old Mistakes",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/30914862-Tame-Impala-Currents",
+ "year": 2024
+}

@@ -1,0 +1,75 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4838162,
+   "join": "",
+   "name": "Peggy Gou",
+   "resource_url": "https://api.discogs.com/artists/4838162",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/OMcgRRsT3VBx_ZkumD_pHAnE4K75Gx0wWLLOXsjSYTg/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4Mzgx/NjItMTcxODA3NzQ4/OS0zNjg1LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "Limited Edition",
+    "Repress",
+    "White Label"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11700047,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/PoJ5vdNhG_fZHLVM11CnCKKPcl8i-k60i-kFbrGudBc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAw/MDQ3LTE1MjA4Nzgz/MDUtNzU5OC5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/PoJ5vdNhG_fZHLVM11CnCKKPcl8i-k60i-kFbrGudBc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAw/MDQ3LTE1MjA4Nzgz/MDUtNzU5OC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/lxzGLoYnTnqPk-y7-wjLfN8vyaD_Hrf1UHSnTLNGlGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAw/MDQ3LTE1MjA4Nzgz/MDUtNzU5OC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "PHONICAWHITE015",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 171573,
+   "name": "Phonica White",
+   "resource_url": "https://api.discogs.com/labels/171573",
+   "thumbnail_url": "https://i.discogs.com/RYPYf5n8ctbJFdkyphJfNsEAc_GH6t5TQtvwepcNv5g/rs:fit/g:sm/q:90/h:600/w:391/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3MTU3/My0xMjU4NTY3NTc0/LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Limited hand-stamped repress",
+ "released": "2018-03-12",
+ "styles": [
+  "House",
+  "Techno"
+ ],
+ "title": "Day Without Yesterday / Six O Six",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Day Without Yesterday",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Six O Six",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11700047-Peggy-Gou-Day-Without-Yesterday-Six-O-Six",
+ "year": 2018
+}

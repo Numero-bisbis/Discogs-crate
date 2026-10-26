@@ -1,0 +1,71 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5734928,
+   "join": "",
+   "name": "Soul Reductions",
+   "resource_url": "https://api.discogs.com/artists/5734928",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 10240459,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/dkBShDBCrobPSnOBKbHuPjeQPGLTS1UYwagAvpjBVno/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQw/NDU5LTE0OTQwMDky/MzItOTk1Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/dkBShDBCrobPSnOBKbHuPjeQPGLTS1UYwagAvpjBVno/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQw/NDU5LTE0OTQwMDky/MzItOTk1Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/ahMBsHP8XvKVnRAMNuS1xZ_P7mOlQhhVCeYO3o1Tdyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQw/NDU5LTE0OTQwMDky/MzItOTk1Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "TA003",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1153014,
+   "name": "Take Away (3)",
+   "resource_url": "https://api.discogs.com/labels/1153014",
+   "thumbnail_url": "https://i.discogs.com/8gOlQFHdIHm1ia6iNw6YoziD7U3ZvEVvKSuzEhHRR2Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNTMw/MTQtMTQ4NTQyMDg4/MC04MzE1LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Thank You = Ophelia + Rye Wax Fam\n\nHawthorne Blvd, Torrance, CA 90503, USA",
+ "released": "2017-05-00",
+ "styles": [
+  "Disco"
+ ],
+ "title": "Got 2 Be Loved",
+ "tracklist": [
+  {
+   "duration": "7:14",
+   "position": "A",
+   "title": "Got 2 Be Loved",
+   "type_": "track"
+  },
+  {
+   "duration": "6:26",
+   "position": "B",
+   "title": "A Rose Is A Rose",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10240459-Soul-Reductions-Got-2-Be-Loved",
+ "year": 2017
+}

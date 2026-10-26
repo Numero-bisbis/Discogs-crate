@@ -1,0 +1,75 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5663658,
+   "join": "",
+   "name": "Monsalve Y Los Forajidos",
+   "resource_url": "https://api.discogs.com/artists/5663658",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/FcWFu1W-j9d8IJlofgqpGwE00HgfG4b2__6Uyu5urUg/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU2NjM2/NTgtMTQ5Mzk4NDUy/My0zMTk2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "7\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Latin"
+ ],
+ "id": 10069281,
+ "images": [
+  {
+   "height": 599,
+   "resource_url": "https://i.discogs.com/6HfarUYpCu_JfON4IFmzewI8o23vQ7_q-PJVMaHlc24/rs:fit/g:sm/q:90/h:599/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY5/MjgxLTE0OTYyNDc2/MDEtMjIyMy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/6HfarUYpCu_JfON4IFmzewI8o23vQ7_q-PJVMaHlc24/rs:fit/g:sm/q:90/h:599/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY5/MjgxLTE0OTYyNDc2/MDEtMjIyMy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/6LMH4k4OZFK8AqgLA6XmoR2EOkh6iE0evKO07BumNbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY5/MjgxLTE0OTYyNDc2/MDEtMjIyMy5qcGVn.jpeg",
+   "width": 588
+  }
+ ],
+ "labels": [
+  {
+   "catno": "OR001",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1201075,
+   "name": "Olindo",
+   "resource_url": "https://api.discogs.com/labels/1201075",
+   "thumbnail_url": "https://i.discogs.com/pryKL7oKGTCu3pYEouzkcvIoKdXW7iM9hlGsngj3Q5w/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMDEw/NzUtMTQ5MTMyMDQy/My00NTcyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "300 copies pressed.",
+ "released": "2017-04-28",
+ "styles": [
+  "Latin Jazz",
+  "Afro-Cuban",
+  "Afrobeat"
+ ],
+ "title": "Abeja /​ Black & Decker",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Abeja",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Black & Decker",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10069281-Monsalve-Y-Los-Forajidos-Abeja--Black-Decker",
+ "year": 2017
+}

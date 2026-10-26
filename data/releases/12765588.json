@@ -1,0 +1,99 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6200279,
+   "join": "",
+   "name": "Joe Cleen",
+   "resource_url": "https://api.discogs.com/artists/6200279",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/7A19sN6jo-RoIJROI7otDYvdq59rXlH7TJnmc0YyQQg/rs:fit/g:sm/q:90/h:509/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYyMDAy/NzktMTU5NTUxODk5/OS02MTY3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12765588,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/L5pz5paFxmNIw0P8iGD5sWOAKvOar8L5mH5GGd8pH_c/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY1/NTg4LTE1NDMxNzA1/NTAtMjk5NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/L5pz5paFxmNIw0P8iGD5sWOAKvOar8L5mH5GGd8pH_c/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY1/NTg4LTE1NDMxNzA1/NTAtMjk5NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/_SsByLm_czlUwKEs07EUNdH0LWi0XxyURjdLwDFNfJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY1/NTg4LTE1NDMxNzA1/NTAtMjk5NC5qcGVn.jpeg",
+   "width": 595
+  }
+ ],
+ "labels": [
+  {
+   "catno": "JCAB005",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1284778,
+   "name": "Jazz Cabbage",
+   "resource_url": "https://api.discogs.com/labels/1284778",
+   "thumbnail_url": "https://i.discogs.com/gHO8YKnvO3diWHWXK7ki8C92GI86a7-P9POcOIPCVTY/rs:fit/g:sm/q:90/h:467/w:546/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyODQ3/NzgtMTUwMzQzMzcy/Ni05MDcyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "P&D by www.primedirectdist.co.uk",
+ "released": "2018-11-05",
+ "styles": [
+  "House",
+  "Deep House",
+  "Jazzdance",
+  "Nu-Disco"
+ ],
+ "title": "Feeling Cute Dunno Might Delete Later EP",
+ "tracklist": [
+  {
+   "duration": "6:03",
+   "position": "A1",
+   "title": "Show Me Your Dimension",
+   "type_": "track"
+  },
+  {
+   "duration": "5:24",
+   "position": "A2",
+   "title": "And This Is",
+   "type_": "track"
+  },
+  {
+   "duration": "4:59",
+   "position": "B1",
+   "title": "We Need",
+   "type_": "track"
+  },
+  {
+   "duration": "5:26",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2440452,
+     "join": "",
+     "name": "Glenn Astro",
+     "resource_url": "https://api.discogs.com/artists/2440452",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "We Need (Glenn Astro Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12765588-Joe-Cleen-Feeling-Cute-Dunno-Might-Delete-Later-EP",
+ "year": 2018
+}

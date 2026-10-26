@@ -1,0 +1,137 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 750,
+   "join": "",
+   "name": "Laurent Garnier",
+   "resource_url": "https://api.discogs.com/artists/750",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/KYhG25JKsGiQwIZKcT5A6iEr6VInZ2gp1dVSgdEJF7k/rs:fit/g:sm/q:90/h:600/w:459/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1MC0x/NjQ0NTYxNDM1LTUx/NjYuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12994,
+ "images": [
+  {
+   "height": 589,
+   "resource_url": "https://i.discogs.com/_EVJwoXWZS-I7zoSJJXNowISEIOD5anuVHi-sXA4PWg/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTk0/LTE3MTQzOTkxMzQt/OTQwMS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/_EVJwoXWZS-I7zoSJJXNowISEIOD5anuVHi-sXA4PWg/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTk0/LTE3MTQzOTkxMzQt/OTQwMS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Ixp1JSUYGZRJDHNREJFONKDxL6UvYe4V6bvBSxy1Oqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTk0/LTE3MTQzOTkxMzQt/OTQwMS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "F 119",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 14,
+   "name": "F Communications",
+   "resource_url": "https://api.discogs.com/labels/14",
+   "thumbnail_url": "https://i.discogs.com/HTO1s0tlfXOwJe2EKUVh1k88aHpdZDjVsnAhvkkiDmQ/rs:fit/g:sm/q:90/h:296/w:342/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0LTEx/ODEzNDA1NDcuanBl/Zw.jpeg"
+  },
+  {
+   "catno": "137.0119.30",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 14,
+   "name": "F Communications",
+   "resource_url": "https://api.discogs.com/labels/14",
+   "thumbnail_url": "https://i.discogs.com/HTO1s0tlfXOwJe2EKUVh1k88aHpdZDjVsnAhvkkiDmQ/rs:fit/g:sm/q:90/h:296/w:342/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0LTEx/ODEzNDA1NDcuanBl/Zw.jpeg"
+  },
+  {
+   "catno": "137 0119 30",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 14,
+   "name": "F Communications",
+   "resource_url": "https://api.discogs.com/labels/14",
+   "thumbnail_url": "https://i.discogs.com/HTO1s0tlfXOwJe2EKUVh1k88aHpdZDjVsnAhvkkiDmQ/rs:fit/g:sm/q:90/h:296/w:342/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0LTEx/ODEzNDA1NDcuanBl/Zw.jpeg"
+  }
+ ],
+ "notes": "First Pressing Comes with a paper mask of the ghost, which is on the \"Unreasonable Behaviour\" album front cover.\n\nRelease Notes (excerpts):\n\nWritten & produced at the Wake Up Lab around Paris. Made in France.\nFrom the album \"[url=http://www.discogs.com/Laurent-Garnier-Unreasonable-Behaviour/master/9508]Unreasonable Behavior[/url]\"\nDuplication kills Creation\n",
+ "released": "2000-04-00",
+ "styles": [
+  "Techno",
+  "Deep House"
+ ],
+ "title": "The Man With The Red Face",
+ "tracklist": [
+  {
+   "duration": "9:15",
+   "position": "A1",
+   "title": "The Man With The Red Face",
+   "type_": "track"
+  },
+  {
+   "duration": "4:57",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 239,
+     "join": "",
+     "name": "Jesper Dahlbäck",
+     "resource_url": "https://api.discogs.com/artists/239",
+     "role": "Remix",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 674,
+     "join": "",
+     "name": "Stephan Grieder",
+     "resource_url": "https://api.discogs.com/artists/674",
+     "role": "Remix",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 25417,
+     "join": "",
+     "name": "Svek",
+     "resource_url": "https://api.discogs.com/artists/25417",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "The Man With The Red Face (Svek Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1019,
+     "join": "",
+     "name": "Funk D'Void",
+     "resource_url": "https://api.discogs.com/artists/1019",
+     "role": "Remix, Producer, Arranged By, Engineer",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "The Man With The Red Face (Funk D'Void Mix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12994-Laurent-Garnier-The-Man-With-The-Red-Face",
+ "year": 2000
+}

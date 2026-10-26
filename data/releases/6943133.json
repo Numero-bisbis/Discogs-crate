@@ -1,0 +1,199 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 409899,
+   "join": "With",
+   "name": "Etienne De Crécy",
+   "resource_url": "https://api.discogs.com/artists/409899",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/jNcJfUH-1IoH6qrJKS1--88tGZweqhX1n87GeUW1t-g/rs:fit/g:sm/q:90/h:386/w:389/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwOTg5/OS0xNTEyOTA0Njkw/LTUzMjMuanBlZw.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 2072129,
+   "join": "/",
+   "name": "Kilo Kish",
+   "resource_url": "https://api.discogs.com/artists/2072129",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/bHzUpibz3axrmJEWlj9s0JtkkEdEjdQOl7TaDD37R_8/rs:fit/g:sm/q:90/h:600/w:511/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwNzIx/MjktMTc0NzI3ODA0/Ny0yOTkzLmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 409899,
+   "join": "With",
+   "name": "Etienne De Crécy",
+   "resource_url": "https://api.discogs.com/artists/409899",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/jNcJfUH-1IoH6qrJKS1--88tGZweqhX1n87GeUW1t-g/rs:fit/g:sm/q:90/h:386/w:389/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwOTg5/OS0xNTEyOTA0Njkw/LTUzMjMuanBlZw.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 95411,
+   "join": "",
+   "name": "Baxter Dury",
+   "resource_url": "https://api.discogs.com/artists/95411",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/770KGER3EMhXJMzjv_gvZzaB7lPb-nQWlvBOOow-29Y/rs:fit/g:sm/q:90/h:424/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk1NDEx/LTExNDM1NjQwNzUu/anBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "10\"",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 6943133,
+ "images": [
+  {
+   "height": 592,
+   "resource_url": "https://i.discogs.com/-ckdWGnkK6l6sesmAc8vqZRaOUl_XmRdWY7HqEwxXg8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDMx/MzMtMTQzMDA1ODU1/MS05MjIzLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/-ckdWGnkK6l6sesmAc8vqZRaOUl_XmRdWY7HqEwxXg8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDMx/MzMtMTQzMDA1ODU1/MS05MjIzLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/3XmhCxZ_bmrbafQFndksA2vASFsT_n8Vi9Hs21I8TPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDMx/MzMtMTQzMDA1ODU1/MS05MjIzLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "PXC026EP4",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 663516,
+   "name": "A+LSO",
+   "resource_url": "https://api.discogs.com/labels/663516",
+   "thumbnail_url": "https://i.discogs.com/fMW1PBqOK_PeqpsRoIH0nRNGLXB6uGpHwzlhD2e3F9o/rs:fit/g:sm/q:90/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY2MzUx/Ni0xNDY2OTI5ODc1/LTY1MzYuanBlZw.jpeg"
+  },
+  {
+   "catno": "PXC026EP4",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  },
+  {
+   "catno": "PXC026EP4",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 100202,
+   "name": "Pixadelic",
+   "resource_url": "https://api.discogs.com/labels/100202"
+  }
+ ],
+ "notes": null,
+ "released": "2015-04-18",
+ "styles": [
+  "Electro House"
+ ],
+ "title": "Follow / Family",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 409899,
+     "join": "With",
+     "name": "Etienne De Crécy",
+     "resource_url": "https://api.discogs.com/artists/409899",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2072129,
+     "join": "",
+     "name": "Kilo Kish",
+     "resource_url": "https://api.discogs.com/artists/2072129",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:31",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2072129,
+     "join": "",
+     "name": "Kilo Kish",
+     "resource_url": "https://api.discogs.com/artists/2072129",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 409899,
+     "join": "",
+     "name": "Etienne De Crécy",
+     "resource_url": "https://api.discogs.com/artists/409899",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "Follow",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 409899,
+     "join": "With",
+     "name": "Etienne De Crécy",
+     "resource_url": "https://api.discogs.com/artists/409899",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 95411,
+     "join": "",
+     "name": "Baxter Dury",
+     "resource_url": "https://api.discogs.com/artists/95411",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:04",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 95411,
+     "join": "",
+     "name": "Baxter Dury",
+     "resource_url": "https://api.discogs.com/artists/95411",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 409899,
+     "join": "",
+     "name": "Etienne De Crécy",
+     "resource_url": "https://api.discogs.com/artists/409899",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "B",
+   "title": "Family",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/6943133-Etienne-De-Crécy-With-Kilo-Kish-Etienne-De-Crécy-With-Baxter-Dury-Follow-Family",
+ "year": 2015
+}

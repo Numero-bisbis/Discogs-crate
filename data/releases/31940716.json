@@ -1,0 +1,122 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6799892,
+   "join": "",
+   "name": "Soufflé Caramel",
+   "resource_url": "https://api.discogs.com/artists/6799892",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/G79v7bIjBr3cOIV5d2R4AJhesy5d6D8f6umw6IaAFmk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY3OTk4/OTItMTU0Mjg4MjM2/Mi05NjYzLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Jazz"
+ ],
+ "id": 31940716,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/iY51W8NdvCYiExBbPEyAS4rvNMIUQY215JbRO4gM8F8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQw/NzE2LTE3Mzc3MzYx/OTgtMTAxNy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/iY51W8NdvCYiExBbPEyAS4rvNMIUQY215JbRO4gM8F8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQw/NzE2LTE3Mzc3MzYx/OTgtMTAxNy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/duCe4XMpjgmTRpxKFNMNJB_X45oAlEK7fMkw5KqNAx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQw/NzE2LTE3Mzc3MzYx/OTgtMTAxNy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "A404007",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1606700,
+   "name": "Aurore 404",
+   "resource_url": "https://api.discogs.com/labels/1606700",
+   "thumbnail_url": "https://i.discogs.com/YyQnDkiEwoNBmR14NabEhD_cXJl8QQALHHXDktGtk_E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MDY3/MDAtMTU1MTkwMjg0/Ny02NTM3LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Published by Aurore 404, Paris, 2024.\nIllustration by Annabelle Buxton for La Vilette / EPPGHV.\n",
+ "released": "2024-09-13",
+ "styles": [
+  "Future Jazz",
+  "Deep House",
+  "Downtempo",
+  "Acid House",
+  "Breakbeat",
+  "Acid Jazz",
+  "House"
+ ],
+ "title": "Club De Jazz 2",
+ "tracklist": [
+  {
+   "duration": "7:48",
+   "position": "A1",
+   "title": "Sweet Mojito Dream",
+   "type_": "track"
+  },
+  {
+   "duration": "9:09",
+   "position": "A2",
+   "title": "The Salty Kiss",
+   "type_": "track"
+  },
+  {
+   "duration": "9:30",
+   "position": "B1",
+   "title": "Have You Ever Dream Of Nancy Plenozas?",
+   "type_": "track"
+  },
+  {
+   "duration": "7:35",
+   "position": "B2",
+   "title": "Beautiful Swimmers",
+   "type_": "track"
+  },
+  {
+   "duration": "6:43",
+   "position": "C1",
+   "title": "El Famoso Coco Lover",
+   "type_": "track"
+  },
+  {
+   "duration": "6:50",
+   "position": "C2",
+   "title": "Let's Funk Dat Shit (J'Adore Les Balances)",
+   "type_": "track"
+  },
+  {
+   "duration": "2:31",
+   "position": "C3",
+   "title": "I Just Want To Fuck You",
+   "type_": "track"
+  },
+  {
+   "duration": "12:38",
+   "position": "D1",
+   "title": "A Sentimental Journey Into The Abstract World",
+   "type_": "track"
+  },
+  {
+   "duration": "5:48",
+   "position": "D2",
+   "title": "La Jeune Pousse De Salade",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/31940716-Soufflé-Caramel-Club-De-Jazz-2",
+ "year": 2024
+}

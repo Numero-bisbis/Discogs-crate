@@ -1,0 +1,93 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2081898,
+   "join": "",
+   "name": "Charlotte Adigéry",
+   "resource_url": "https://api.discogs.com/artists/2081898",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/HF-s5S9eT7E1mEReL0EjZ8_C9K8bcdKOiTfo2M5XheQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwODE4/OTgtMTY0MTMzNzk1/Mi04NjE0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Belgium",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Pop"
+ ],
+ "id": 13183592,
+ "images": [
+  {
+   "height": 571,
+   "resource_url": "https://i.discogs.com/OuMIe5ChvxIuRwTgZn45rHwLhSnZOIREfXMITgxcxME/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTgz/NTkyLTE1NDk2OTkx/OTQtNjQ3NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/OuMIe5ChvxIuRwTgZn45rHwLhSnZOIREfXMITgxcxME/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTgz/NTkyLTE1NDk2OTkx/OTQtNjQ3NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/SrBiwtoiCcirZEx1wwyk5LIggPyIZWW3J0CKsykVB7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTgz/NTkyLTE1NDk2OTkx/OTQtNjQ3NC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DEEWEE029",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 901323,
+   "name": "Deewee",
+   "resource_url": "https://api.discogs.com/labels/901323",
+   "thumbnail_url": "https://i.discogs.com/43iFaH5jTGcKif0DoJFbOk5ajpAmXmRmxUuuphfCAks/rs:fit/g:sm/q:90/h:600/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwMTMy/My0xNTE1NzI4ODk3/LTgxMjYucG5n.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-02-08",
+ "styles": [
+  "Electro House",
+  "Synth-pop"
+ ],
+ "title": "Zandoli",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Paténipat",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Cursed And Cussed",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "High Lights",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "B B C",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Okashi",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13183592-Charlotte-Adigéry-Zandoli",
+ "year": 2019
+}

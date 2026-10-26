@@ -1,0 +1,130 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 139692,
+   "join": "",
+   "name": "Tube & Berger",
+   "resource_url": "https://api.discogs.com/artists/139692",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/JIBon7LYz0eD1yaTuhQ0Ch0XTZOh0uy_2Qm3RpQjTqg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzOTY5/Mi0xNTM3MzY4NTA4/LTE3NjAuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Spain",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 6080023,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/p-7fWdr2tz9-AeDilOwiLqfa04YDti9BHBChU8pAby4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODAw/MjMtMTQxMzAyNTk5/MS02NDc5LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/p-7fWdr2tz9-AeDilOwiLqfa04YDti9BHBChU8pAby4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODAw/MjMtMTQxMzAyNTk5/MS02NDc5LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/vgVCqrrcIWVonU2ksr_ORsdt-a1azQ0h2auP0SGCmq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODAw/MjMtMTQxMzAyNTk5/MS02NDc5LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "Suara 141",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 105227,
+   "name": "Suara",
+   "resource_url": "https://api.discogs.com/labels/105227",
+   "thumbnail_url": "https://i.discogs.com/bpHN9NeNzBnTpC-lkA83NjkRmKG0r449VOXrH6UTPMY/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwNTIy/Ny0xNDQ5NTA3MTgw/LTk0NjQuanBlZw.jpeg"
+  }
+ ],
+ "notes": "P & D with love from primedirectdist.co.uk\r\nArtwork by www.gaas-artwork.com",
+ "released": "2014-09-00",
+ "styles": [
+  "Deep House",
+  "Techno",
+  "Tech House"
+ ],
+ "title": "Imprint Of Pleasure Remixes",
+ "tracklist": [
+  {
+   "duration": "7:27",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2075497,
+     "join": "",
+     "name": "Monkey Safari",
+     "resource_url": "https://api.discogs.com/artists/2075497",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Imprint Of Pleasure (Monkey Safari Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "9:33",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1360,
+     "join": "",
+     "name": "Adam Beyer",
+     "resource_url": "https://api.discogs.com/artists/1360",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Imprint Of Pleasure (Adam Beyer Enhanced Dub Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "9:12",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1295680,
+     "join": "",
+     "name": "Coyu",
+     "resource_url": "https://api.discogs.com/artists/1295680",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Imprint Of Pleasure (Coyu Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "7:53",
+   "extraartists": [
+    {
+     "anv": "Rodriguez Jr",
+     "id": 485981,
+     "join": "",
+     "name": "Rodriguez Jr.",
+     "resource_url": "https://api.discogs.com/artists/485981",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Imprint Of Pleasure (Rodriguez Jr. Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/6080023-Tube-Berger-Imprint-Of-Pleasure-Remixes",
+ "year": 2014
+}

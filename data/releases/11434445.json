@@ -1,0 +1,131 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 177651,
+   "join": "",
+   "name": "Gwen McCrae",
+   "resource_url": "https://api.discogs.com/artists/177651",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Zywf2opxRv__qu2kchf7K99SPp716C8DbSdfAsJu__s/rs:fit/g:sm/q:90/h:588/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE3NzY1/MS0xNDk2NjcxMzI5/LTcyMTcuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Funk / Soul"
+ ],
+ "id": 11434445,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/-GRKmmXSTz0A43tZGHkjYJZ91ppmVMrFS-dsfLS1qjc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDM0/NDQ1LTE1MjM0NDMz/MDctNjE5MS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/-GRKmmXSTz0A43tZGHkjYJZ91ppmVMrFS-dsfLS1qjc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDM0/NDQ1LTE1MjM0NDMz/MDctNjE5MS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/OJj4dS5a4xwDoil8ueK9TXcUr5u6dv3NSJVP9CKk15U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDM0/NDQ1LTE1MjM0NDMz/MDctNjE5MS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "EXPAND 109",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 9974,
+   "name": "Expansion",
+   "resource_url": "https://api.discogs.com/labels/9974",
+   "thumbnail_url": "https://i.discogs.com/EWtKB4mhHO-6nmlGyN73AQnsx8S8_elmQS7Ry5OGS8E/rs:fit/g:sm/q:90/h:500/w:493/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk5NzQt/MTM3Mjg2ODExMi0z/OTg4LmpwZWc.jpeg"
+  },
+  {
+   "catno": "EXPAND 109",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 681,
+   "name": "Atlantic",
+   "resource_url": "https://api.discogs.com/labels/681",
+   "thumbnail_url": "https://i.discogs.com/PvGehzQPvOW9qMVS-EDAeOmU6qODkqTEQ5bW03gpVyo/rs:fit/g:sm/q:90/h:426/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MS0x/NTEwNjgyMTM0LTgz/NTAucG5n.jpeg"
+  }
+ ],
+ "notes": "© 2018 Expansion Records\nSide A: ℗ 1982 WEA International Inc.\nSide B: ℗ 1981 WEA International Inc.\n\n",
+ "released": "2018",
+ "styles": [
+  "Disco"
+ ],
+ "title": "Keep The Fire Burning / Funky Sensation",
+ "tracklist": [
+  {
+   "duration": "6:54",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 211643,
+     "join": "",
+     "name": "James Gadson",
+     "resource_url": "https://api.discogs.com/artists/211643",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 29827,
+     "join": "",
+     "name": "Webster Lewis",
+     "resource_url": "https://api.discogs.com/artists/29827",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7153,
+     "join": "",
+     "name": "Willie Hutch",
+     "resource_url": "https://api.discogs.com/artists/7153",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "Keep The Fire Burning",
+   "type_": "track"
+  },
+  {
+   "duration": "6:29",
+   "extraartists": [
+    {
+     "anv": "Henry Bahs",
+     "id": 183954,
+     "join": "",
+     "name": "Henry Batts",
+     "resource_url": "https://api.discogs.com/artists/183954",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 48722,
+     "join": "",
+     "name": "Kenton Nix",
+     "resource_url": "https://api.discogs.com/artists/48722",
+     "role": "Producer, Written-By, Arranged By",
+     "tracks": ""
+    }
+   ],
+   "position": "B",
+   "title": "Funky Sensation",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11434445-Gwen-McCrae-Keep-The-Fire-Burning-Funky-Sensation",
+ "year": 2018
+}

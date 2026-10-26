@@ -1,0 +1,96 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 418063,
+   "join": "",
+   "name": "Vance And Suzzanne",
+   "resource_url": "https://api.discogs.com/artists/418063",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/kf89tFLvoO05YUSEnWOI2XlEFmFs1rZ27FsFmJjKxb8/rs:fit/g:sm/q:90/h:600/w:445/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQxODA2/My0xNTY3ODYzNzk4/LTgzOTgucG5n.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Funk / Soul"
+ ],
+ "id": 14162212,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/8FMgqPuNUo84tTYBwiGTDAMcXAhBmpXS362ibkvgLuQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTYy/MjEyLTE1NjkwMDQx/OTItMTIyOS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/8FMgqPuNUo84tTYBwiGTDAMcXAhBmpXS362ibkvgLuQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTYy/MjEyLTE1NjkwMDQx/OTItMTIyOS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Naeikrba-2MruC3tMyZLL0lGaDhkOoWhu73QQ-PnnmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTYy/MjEyLTE1NjkwMDQx/OTItMTIyOS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "KALITA 12011",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1339009,
+   "name": "Kalita Records",
+   "resource_url": "https://api.discogs.com/labels/1339009",
+   "thumbnail_url": "https://i.discogs.com/ZuF6DATSPS6KcmwfiOOBtt_7NTwHEtr7ExFV5PuCvF0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMzkw/MDktMTUwNzAzOTQz/Mi05NzcyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Sticker on cellophane:\nVance and Suzzanne\nFirst ever official reissue of one of the most sought-after disco 12\" singles in existence.\nAccompanied by extensive liner notes and a never-before-seen press photo!\n\nExclusive licence courtesy of Vanton Records.\nAll rights reserved to Kalita Records.\nWith thanks to Susan Watson-Turner, Eleton Johns, Julien Minarro and The Mighty Zaf.\n\nManufactured in the EU.",
+ "released": "2019-10-11",
+ "styles": [
+  "Disco",
+  "Soul"
+ ],
+ "title": "I Can't Get Along Without You",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 418063,
+     "join": "",
+     "name": "Vance And Suzzanne",
+     "resource_url": "https://api.discogs.com/artists/418063",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:40",
+   "position": "A",
+   "title": "I Can't Get Along Without You",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 750500,
+     "join": "",
+     "name": "Apple Sauce",
+     "resource_url": "https://api.discogs.com/artists/750500",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:40",
+   "position": "B",
+   "title": "I Can't Get Along Without You (Instrumental)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14162212-Vance-And-Suzzanne-I-Cant-Get-Along-Without-You",
+ "year": 2019
+}

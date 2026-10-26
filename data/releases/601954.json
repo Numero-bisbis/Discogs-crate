@@ -1,0 +1,631 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 17546,
+   "join": "",
+   "name": "Quincy Jones",
+   "resource_url": "https://api.discogs.com/artists/17546",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/HqfuZ7UgWE90Jq4EKbZbTHlE3v9gsIOlWXX7s0KDJEA/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE3NTQ2/LTE1MDQyNzYyMzQt/MjU0MS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Terre Haute Pressing, Gatefold"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Rock",
+  "Funk / Soul",
+  "Stage & Screen"
+ ],
+ "id": 601954,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/9pLFteghbdQam17FfgKQUZ-KYcdhJ_E5TsPxDRoDWto/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTk1/NC0xNDYxOTI3NDI0/LTExNDMuanBlZw.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/9pLFteghbdQam17FfgKQUZ-KYcdhJ_E5TsPxDRoDWto/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTk1/NC0xNDYxOTI3NDI0/LTExNDMuanBlZw.jpeg",
+   "uri150": "https://i.discogs.com/suFFSlj9kzz9jQYGg4JqIoAwTJQ5Mg5Ye7VfI9JCHTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTk1/NC0xNDYxOTI3NDI0/LTExNDMuanBlZw.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SP-3037",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 904,
+   "name": "A&M Records",
+   "resource_url": "https://api.discogs.com/labels/904",
+   "thumbnail_url": "https://i.discogs.com/Q9MDIgi0APJGemq-xddyJB41sI-g172DIZ_xl628StE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwNC0x/Mzc5NTAyOTM2LTI1/MDcucG5n.jpeg"
+  }
+ ],
+ "notes": "\"T\" etched in runouts denotes [l=Columbia Records Pressing Plant, Terre Haute], pressing. Remainder of runouts mostly etched, mastering stamped.\n\nHubert Laws appears courtesy of CTI Records\nFreddie Hubbard appears courtesy of CTI Records\nValerie Simpson appears courtesy of Tamla Records\n\nRecorded at A&R Studios, New York City.\n\nPublished By\nA1, B1: Screen Gems/Columbia Music, Inc. BMI\nA2: Atzal Music Inc. BMI\nA3: Shamley Music Corp. ASCAP\nA4: Jobete Music Co. BMI\nB2, B4: Quicksand Music Co. BMI\nB3: Makalotta Music BMI",
+ "released": "1971",
+ "styles": [
+  "Blues Rock",
+  "Big Band",
+  "Jazz-Funk",
+  "Swing",
+  "Score",
+  "Soul",
+  "Funk",
+  "Vocal"
+ ],
+ "title": "Smackwater Jack",
+ "tracklist": [
+  {
+   "duration": "3:23",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 363550,
+     "join": "",
+     "name": "Barbara Massey",
+     "resource_url": "https://api.discogs.com/artists/363550",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Joshie Armstead",
+     "id": 381635,
+     "join": "",
+     "name": "Jo Armstead",
+     "resource_url": "https://api.discogs.com/artists/381635",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Maretha Stewart",
+     "id": 328202,
+     "join": "",
+     "name": "Maeretha Stewart",
+     "resource_url": "https://api.discogs.com/artists/328202",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 284117,
+     "join": "",
+     "name": "Marilyn Jackson",
+     "resource_url": "https://api.discogs.com/artists/284117",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 268169,
+     "join": "",
+     "name": "Valerie Simpson",
+     "resource_url": "https://api.discogs.com/artists/268169",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 17546,
+     "join": "",
+     "name": "Quincy Jones",
+     "resource_url": "https://api.discogs.com/artists/17546",
+     "role": "Solo Vocal [Vocal Solo]",
+     "tracks": ""
+    },
+    {
+     "anv": "Carole King - Gerry Goffin",
+     "id": 682663,
+     "join": "",
+     "name": "Goffin And King",
+     "resource_url": "https://api.discogs.com/artists/682663",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Smackwater Jack",
+   "type_": "track"
+  },
+  {
+   "duration": "4:25",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 200772,
+     "join": "",
+     "name": "Marvin Stamm",
+     "resource_url": "https://api.discogs.com/artists/200772",
+     "role": "Soloist, Flugelhorn",
+     "tracks": ""
+    },
+    {
+     "anv": "Eric Gayle",
+     "id": 135850,
+     "join": "",
+     "name": "Eric Gale",
+     "resource_url": "https://api.discogs.com/artists/135850",
+     "role": "Soloist, Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 301101,
+     "join": "",
+     "name": "Bobby Scott",
+     "resource_url": "https://api.discogs.com/artists/301101",
+     "role": "Soloist, Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 258298,
+     "join": "",
+     "name": "Vince Guaraldi",
+     "resource_url": "https://api.discogs.com/artists/258298",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Cast Your Fate To The Wind",
+   "type_": "track"
+  },
+  {
+   "duration": "3:53",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 55745,
+     "join": "",
+     "name": "Freddie Hubbard",
+     "resource_url": "https://api.discogs.com/artists/55745",
+     "role": "Soloist, Flugelhorn",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 40235,
+     "join": "",
+     "name": "Hubert Laws",
+     "resource_url": "https://api.discogs.com/artists/40235",
+     "role": "Soloist, Flute",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 72480,
+     "join": "",
+     "name": "Jerome Richardson",
+     "resource_url": "https://api.discogs.com/artists/72480",
+     "role": "Soloist, Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 17546,
+     "join": "",
+     "name": "Quincy Jones",
+     "resource_url": "https://api.discogs.com/artists/17546",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Ironside (Theme From \"Ironside\"; NBC-TV)",
+   "type_": "track"
+  },
+  {
+   "duration": "9:52",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 363550,
+     "join": "",
+     "name": "Barbara Massey",
+     "resource_url": "https://api.discogs.com/artists/363550",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Joshie Armstead",
+     "id": 381635,
+     "join": "",
+     "name": "Jo Armstead",
+     "resource_url": "https://api.discogs.com/artists/381635",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Maretha Stewart",
+     "id": 328202,
+     "join": "",
+     "name": "Maeretha Stewart",
+     "resource_url": "https://api.discogs.com/artists/328202",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 284117,
+     "join": "",
+     "name": "Marilyn Jackson",
+     "resource_url": "https://api.discogs.com/artists/284117",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 17546,
+     "join": "",
+     "name": "Quincy Jones",
+     "resource_url": "https://api.discogs.com/artists/17546",
+     "role": "Solo Vocal [Vocal Solos]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 268169,
+     "join": "",
+     "name": "Valerie Simpson",
+     "resource_url": "https://api.discogs.com/artists/268169",
+     "role": "Solo Vocal [Vocal Solos]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 55745,
+     "join": "",
+     "name": "Freddie Hubbard",
+     "resource_url": "https://api.discogs.com/artists/55745",
+     "role": "Soloist, Flugelhorn",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 40235,
+     "join": "",
+     "name": "Hubert Laws",
+     "resource_url": "https://api.discogs.com/artists/40235",
+     "role": "Soloist, Flute",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 257025,
+     "join": "",
+     "name": "Jim Hall",
+     "resource_url": "https://api.discogs.com/artists/257025",
+     "role": "Soloist, Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 120623,
+     "join": "",
+     "name": "Toots Thielemans",
+     "resource_url": "https://api.discogs.com/artists/120623",
+     "role": "Soloist, Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 120623,
+     "join": "",
+     "name": "Toots Thielemans",
+     "resource_url": "https://api.discogs.com/artists/120623",
+     "role": "Soloist, Harmonica, Whistling [Whistler]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 149254,
+     "join": "",
+     "name": "Milt Jackson",
+     "resource_url": "https://api.discogs.com/artists/149254",
+     "role": "Soloist, Vibraphone [Vibes]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 135849,
+     "join": "",
+     "name": "Harry Lookofsky",
+     "resource_url": "https://api.discogs.com/artists/135849",
+     "role": "Soloist, Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 391755,
+     "join": "",
+     "name": "Al Cleveland",
+     "resource_url": "https://api.discogs.com/artists/391755",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 18984,
+     "join": "",
+     "name": "Marvin Gaye",
+     "resource_url": "https://api.discogs.com/artists/18984",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 270445,
+     "join": "",
+     "name": "Renaldo Benson",
+     "resource_url": "https://api.discogs.com/artists/270445",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "What's Going On?",
+   "type_": "track"
+  },
+  {
+   "duration": "5:16",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 55745,
+     "join": "",
+     "name": "Freddie Hubbard",
+     "resource_url": "https://api.discogs.com/artists/55745",
+     "role": "Soloist, Flugelhorn",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 120623,
+     "join": "",
+     "name": "Toots Thielemans",
+     "resource_url": "https://api.discogs.com/artists/120623",
+     "role": "Soloist, Guitar, Harmonica",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 301101,
+     "join": "",
+     "name": "Bobby Scott",
+     "resource_url": "https://api.discogs.com/artists/301101",
+     "role": "Soloist, Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 363548,
+     "join": "",
+     "name": "Edd Kalehoff",
+     "resource_url": "https://api.discogs.com/artists/363548",
+     "role": "Soloist, Synthesizer [Moog]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 149254,
+     "join": "",
+     "name": "Milt Jackson",
+     "resource_url": "https://api.discogs.com/artists/149254",
+     "role": "Soloist, Vibraphone [Vibes]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 17546,
+     "join": "",
+     "name": "Quincy Jones",
+     "resource_url": "https://api.discogs.com/artists/17546",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Theme From \"The Anderson Tapes\"",
+   "type_": "track"
+  },
+  {
+   "duration": "4:18",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 257025,
+     "join": "",
+     "name": "Jim Hall",
+     "resource_url": "https://api.discogs.com/artists/257025",
+     "role": "Soloist, Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 120623,
+     "join": "",
+     "name": "Toots Thielemans",
+     "resource_url": "https://api.discogs.com/artists/120623",
+     "role": "Soloist, Harmonica",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 301101,
+     "join": "",
+     "name": "Bobby Scott",
+     "resource_url": "https://api.discogs.com/artists/301101",
+     "role": "Soloist, Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 252998,
+     "join": "",
+     "name": "Ray Brown",
+     "resource_url": "https://api.discogs.com/artists/252998",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Brown Ballad",
+   "type_": "track"
+  },
+  {
+   "duration": "5:03",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 202258,
+     "join": "",
+     "name": "Bill Cosby",
+     "resource_url": "https://api.discogs.com/artists/202258",
+     "role": "Solo Vocal [Vocal Solo], Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 55745,
+     "join": "",
+     "name": "Freddie Hubbard",
+     "resource_url": "https://api.discogs.com/artists/55745",
+     "role": "Soloist, Flugelhorn",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 40235,
+     "join": "",
+     "name": "Hubert Laws",
+     "resource_url": "https://api.discogs.com/artists/40235",
+     "role": "Soloist, Flute",
+     "tracks": ""
+    },
+    {
+     "anv": "Eric Gayle",
+     "id": 135850,
+     "join": "",
+     "name": "Eric Gale",
+     "resource_url": "https://api.discogs.com/artists/135850",
+     "role": "Soloist, Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 120623,
+     "join": "",
+     "name": "Toots Thielemans",
+     "resource_url": "https://api.discogs.com/artists/120623",
+     "role": "Soloist, Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 120623,
+     "join": "",
+     "name": "Toots Thielemans",
+     "resource_url": "https://api.discogs.com/artists/120623",
+     "role": "Soloist, Whistling [Whistler]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 202258,
+     "join": "",
+     "name": "Bill Cosby",
+     "resource_url": "https://api.discogs.com/artists/202258",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 17546,
+     "join": "",
+     "name": "Quincy Jones",
+     "resource_url": "https://api.discogs.com/artists/17546",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Hikky-Burr (Theme From \"The Bill Cosby Show\"; NBC-TV)",
+   "type_": "track"
+  },
+  {
+   "duration": "6:38",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 272929,
+     "join": "",
+     "name": "Joe Beck",
+     "resource_url": "https://api.discogs.com/artists/272929",
+     "role": "Soloist [8]",
+     "tracks": ""
+    },
+    {
+     "anv": "Eric Gayle",
+     "id": 135850,
+     "join": "",
+     "name": "Eric Gale",
+     "resource_url": "https://api.discogs.com/artists/135850",
+     "role": "Soloist, Guitar [1, 4, 7 & 9]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 257025,
+     "join": "",
+     "name": "Jim Hall",
+     "resource_url": "https://api.discogs.com/artists/257025",
+     "role": "Soloist, Guitar [2]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 120623,
+     "join": "",
+     "name": "Toots Thielemans",
+     "resource_url": "https://api.discogs.com/artists/120623",
+     "role": "Soloist, Guitar [3, 5 & 6]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 120623,
+     "join": "",
+     "name": "Toots Thielemans",
+     "resource_url": "https://api.discogs.com/artists/120623",
+     "role": "Soloist, Harmonica [3, 5 & 6]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 17546,
+     "join": "",
+     "name": "Quincy Jones",
+     "resource_url": "https://api.discogs.com/artists/17546",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Guitar Blues Odyssey: From Roots To Fruits",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/601954-Quincy-Jones-Smackwater-Jack",
+ "year": 1971
+}

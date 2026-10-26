@@ -1,0 +1,115 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 361222,
+   "join": "",
+   "name": "JKriv",
+   "resource_url": "https://api.discogs.com/artists/361222",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/agdmKd6GSeVxY9lqtCO2eDKJvAs9iKi9fAyftei_3NE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM2MTIy/Mi0xNTg3MTIwODk4/LTg0MjEuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Funk / Soul",
+  "Folk, World, & Country"
+ ],
+ "id": 7801083,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/gyqg_P98GJ3SgR4RsDkfb-zUS9kYfTGGTpqW4L2Ha7I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDEw/ODMtMTQ5NTA2NzMw/Mi0xMTYwLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/gyqg_P98GJ3SgR4RsDkfb-zUS9kYfTGGTpqW4L2Ha7I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDEw/ODMtMTQ5NTA2NzMw/Mi0xMTYwLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/FwoYAa90cLyd507R-pZr0RxgSQKvNUsWufV_fU2dclQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDEw/ODMtMTQ5NTA2NzMw/Mi0xMTYwLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RNT014",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3164471,
+   "name": "Razor-N-Tape",
+   "resource_url": "https://api.discogs.com/labels/3164471",
+   "thumbnail_url": "https://i.discogs.com/f-wlf6geO4UdrroOqUDKawckRUUPz7FhLCXawWRX-Lw/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNjQ0/NzEtMTY3ODM3Njg2/NS0yNjQ3LnBuZw.jpeg"
+  }
+ ],
+ "notes": "Track A is an edit of Darlin' Darlin' Baby (Sweet, Tender, Love) by the The O'Jays, Track B2 is the instrumental edit version (beats)\n\nSide A plays on 45RPM, Side B on 33RPM",
+ "released": "2015-12-00",
+ "styles": [
+  "Disco",
+  "African"
+ ],
+ "title": "JKriv Edits",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 163490,
+     "join": "",
+     "name": "The O'Jays",
+     "resource_url": "https://api.discogs.com/artists/163490",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A",
+   "title": "The Queen On Her Throne (Darlin' Darlin' Baby (Sweet, Tender, Love)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 701563,
+     "join": "",
+     "name": "Oscar Sulley And The Uhuru Dance Band",
+     "resource_url": "https://api.discogs.com/artists/701563",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B1",
+   "title": "Bukom Mashie (JKriv Edit)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 163490,
+     "join": "",
+     "name": "The O'Jays",
+     "resource_url": "https://api.discogs.com/artists/163490",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B2",
+   "title": "Queen's Beats",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/7801083-JKriv-JKriv-Edits",
+ "year": 2015
+}

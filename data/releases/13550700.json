@@ -1,0 +1,85 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 7549,
+   "join": "",
+   "name": "Grauzone",
+   "resource_url": "https://api.discogs.com/artists/7549",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/he07gz6Ah6k0HYA5vopIKqEp1UM6k1BiOfHTybpp3tM/rs:fit/g:sm/q:90/h:401/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NDkt/MTIwOTY3MTAwMi5q/cGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Switzerland",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM",
+    "Maxi-Single",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Rock"
+ ],
+ "id": 13550700,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/emRFP4lgbDEtCZYWVhR8RUbA8Uf0-GitEK4RJ8xxVm4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTUw/NzAwLTE2NjI0NzU3/MTUtNTcxMC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/emRFP4lgbDEtCZYWVhR8RUbA8Uf0-GitEK4RJ8xxVm4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTUw/NzAwLTE2NjI0NzU3/MTUtNTcxMC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/sCRGmyvr42rM4VeRESSG7rjllo0e3QCXE6gPFxrK5kw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTUw/NzAwLTE2NjI0NzU3/MTUtNTcxMC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "WRWTFWW041",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 664866,
+   "name": "We Release Whatever The Fuck We Want Records",
+   "resource_url": "https://api.discogs.com/labels/664866",
+   "thumbnail_url": "https://i.discogs.com/IobMk_BGPFUjXv0GV2kt5AcFDowM45UPoFYEt5TPINc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY2NDg2/Ni0xNDY1MDQyMTA2/LTU5MzUuanBlZw.jpeg"
+  }
+ ],
+ "notes": "On back cover:\nSpecial thanks to Annik Wetter and Lurker Grand\n\nOn label side B:\nFilm 2 Playable at 45 RPM or 33 RPM\n\nAdditional information:\nTracks A and B2 are playable at 45 RPM.\n\nDurations not present on the release. Times correspond at 45 RPM.\nTrack B1 (Film 2), running 3:35 at 45 RPM and 4:52 at 33 RPM.\n\nRunouts are etched.\n1+, 2=, 1V, 2+ & 1II are mirrored.",
+ "released": "2019-04-26",
+ "styles": [
+  "New Wave",
+  "Synth-pop",
+  "EBM",
+  "NDW"
+ ],
+ "title": "Eisbær",
+ "tracklist": [
+  {
+   "duration": "4:45",
+   "position": "A",
+   "title": "Eisbär",
+   "type_": "track"
+  },
+  {
+   "duration": "3:35",
+   "position": "B1",
+   "title": "Film 2",
+   "type_": "track"
+  },
+  {
+   "duration": "3:19",
+   "position": "B2",
+   "title": "Ich Lieb Sie",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13550700-Grauzone-Eisbær",
+ "year": 2019
+}

@@ -1,0 +1,661 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 30773,
+   "join": "",
+   "name": "Manu Chao",
+   "resource_url": "https://api.discogs.com/artists/30773",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/N86vl_M4C4-sYA4KhcWKFDxDQX9oQs1kSWsBlyvL6xE/rs:fit/g:sm/q:90/h:400/w:402/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMwNzcz/LTE2OTI1NjY2OTct/NjgxMy5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Remastered",
+    "Special Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  },
+  {
+   "descriptions": [
+    "10\"",
+    "45 RPM",
+    "Single"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Blue"
+  },
+  {
+   "descriptions": [
+    "Album",
+    "Reissue",
+    "Remastered"
+   ],
+   "name": "CD",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Reggae",
+  "Latin",
+  "Folk, World, & Country"
+ ],
+ "id": 14061870,
+ "images": [
+  {
+   "height": 599,
+   "resource_url": "https://i.discogs.com/_WOSQmEuTeQr5UzsD3HjshaTJSQJ190wwQMbcsdl4Ww/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODcwLTE1NjcwOTg5/ODAtMjgzMy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/_WOSQmEuTeQr5UzsD3HjshaTJSQJ190wwQMbcsdl4Ww/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODcwLTE1NjcwOTg5/ODAtMjgzMy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/E4i1DUzauqfcmGrQHOsG-Qwxqsx26HVeX6eLK6GqRnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/ODcwLTE1NjcwOTg5/ODAtMjgzMy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BEC5543732",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 54379,
+   "name": "Because Music",
+   "resource_url": "https://api.discogs.com/labels/54379",
+   "thumbnail_url": "https://i.discogs.com/hCnQ7eINYuhslt-dC2Ub26qjZl4Y5QgXKDWslpAIL6E/rs:fit/g:sm/q:90/h:338/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU0Mzc5/LTE2MzE4NzIxOTMt/NDQ5Ny5qcGVn.jpeg"
+  },
+  {
+   "catno": "BEC5543732",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 82390,
+   "name": "Radio Bemba",
+   "resource_url": "https://api.discogs.com/labels/82390",
+   "thumbnail_url": "https://i.discogs.com/uhl2Wy4IQLYHcjp0D7vCFz_wKUp4sujuwEZLQxL1a7g/rs:fit/g:sm/q:90/h:299/w:355/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgyMzkw/LTE2MjU4MDYxMDgt/MjU4Ni5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Gatefold sleeve with printed inner cover for the 10 \"vinyl.\nMade in France.",
+ "released": "2019-08-30",
+ "styles": [
+  "Pachanga",
+  "Reggae",
+  "Dub"
+ ],
+ "title": "Clandestino (Esperando La Ultima Ola...) / Bloody Border",
+ "tracklist": [
+  {
+   "duration": "2:30",
+   "position": "A1",
+   "title": "Clandestino",
+   "type_": "track"
+  },
+  {
+   "duration": "3:47",
+   "position": "A2",
+   "title": "Desaparecido",
+   "type_": "track"
+  },
+  {
+   "duration": "2:38",
+   "position": "A3",
+   "title": "Bongo Bong",
+   "type_": "track"
+  },
+  {
+   "duration": "2:02",
+   "extraartists": [
+    {
+     "anv": "A. Khelifa-Pascal",
+     "id": 649067,
+     "join": "",
+     "name": "Anouk Khelifa",
+     "resource_url": "https://api.discogs.com/artists/649067",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Je Ne T'Aime Plus",
+   "type_": "track"
+  },
+  {
+   "duration": "4:37",
+   "position": "B1",
+   "title": "Mentira...",
+   "type_": "track"
+  },
+  {
+   "duration": "2:57",
+   "position": "B2",
+   "title": "Lagrimas De Oro",
+   "type_": "track"
+  },
+  {
+   "duration": "2:21",
+   "position": "B3",
+   "title": "Mama Call",
+   "type_": "track"
+  },
+  {
+   "duration": "3:07",
+   "position": "C1",
+   "title": "Luna Y Sol",
+   "type_": "track"
+  },
+  {
+   "duration": "2:21",
+   "position": "C2",
+   "title": "Por El Suelo",
+   "type_": "track"
+  },
+  {
+   "duration": "4:04",
+   "extraartists": [
+    {
+     "anv": "F. Meslouhi",
+     "id": 910035,
+     "join": "",
+     "name": "François Meslouhi",
+     "resource_url": "https://api.discogs.com/artists/910035",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Welcome To Tijuana",
+   "type_": "track"
+  },
+  {
+   "duration": "1:30",
+   "position": "C4",
+   "title": "Dia Luna... Dia Pena",
+   "type_": "track"
+  },
+  {
+   "duration": "2:55",
+   "position": "D1",
+   "title": "Malegria",
+   "type_": "track"
+  },
+  {
+   "duration": "3:00",
+   "position": "D2",
+   "title": "La Vie À 2",
+   "type_": "track"
+  },
+  {
+   "duration": "2:21",
+   "position": "D3",
+   "title": "Minha Galera",
+   "type_": "track"
+  },
+  {
+   "duration": "3:09",
+   "position": "D4",
+   "title": "La Despedida",
+   "type_": "track"
+  },
+  {
+   "duration": "2:26",
+   "position": "D5",
+   "title": "El Viento",
+   "type_": "track"
+  },
+  {
+   "duration": "2:41",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2983855,
+     "join": "",
+     "name": "Desiree Diego",
+     "resource_url": "https://api.discogs.com/artists/2983855",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7688330,
+     "join": "",
+     "name": "Judith Lezama",
+     "resource_url": "https://api.discogs.com/artists/7688330",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7688331,
+     "join": "",
+     "name": "Michelle Walker (5)",
+     "resource_url": "https://api.discogs.com/artists/7688331",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2227154,
+     "join": "",
+     "name": "Ivan Duran",
+     "resource_url": "https://api.discogs.com/artists/2227154",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2227153,
+     "join": "",
+     "name": "Aurelio Martinez",
+     "resource_url": "https://api.discogs.com/artists/2227153",
+     "role": "Congas, Guiro, Cowbell",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7688327,
+     "join": "",
+     "name": "Elsworth Castillo",
+     "resource_url": "https://api.discogs.com/artists/7688327",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2983854,
+     "join": "",
+     "name": "Joshua Arana",
+     "resource_url": "https://api.discogs.com/artists/2983854",
+     "role": "Drums [Garifuna Drums]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2983860,
+     "join": "",
+     "name": "Al Ovando",
+     "resource_url": "https://api.discogs.com/artists/2983860",
+     "role": "Electric Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Drew Goncalves",
+     "id": 5375647,
+     "join": "",
+     "name": "Drew Gonsalves",
+     "resource_url": "https://api.discogs.com/artists/5375647",
+     "role": "Electric Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 772296,
+     "join": "",
+     "name": "Calypso Rose",
+     "resource_url": "https://api.discogs.com/artists/772296",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 30773,
+     "join": "",
+     "name": "Manu Chao",
+     "resource_url": "https://api.discogs.com/artists/30773",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Drew Goncalves",
+     "id": 5375647,
+     "join": "",
+     "name": "Drew Gonsalves",
+     "resource_url": "https://api.discogs.com/artists/5375647",
+     "role": "Lead Guitar, Cuatro",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2983855,
+     "join": "",
+     "name": "Desiree Diego",
+     "resource_url": "https://api.discogs.com/artists/2983855",
+     "role": "Maracas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 240666,
+     "join": "",
+     "name": "Renaud Letang",
+     "resource_url": "https://api.discogs.com/artists/240666",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2227154,
+     "join": "",
+     "name": "Ivan Duran",
+     "resource_url": "https://api.discogs.com/artists/2227154",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 30773,
+     "join": "",
+     "name": "Manu Chao",
+     "resource_url": "https://api.discogs.com/artists/30773",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7415631,
+     "join": "",
+     "name": "Jan Morgan (3)",
+     "resource_url": "https://api.discogs.com/artists/7415631",
+     "role": "Trombone, Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 772296,
+     "join": "",
+     "name": "Calypso Rose",
+     "resource_url": "https://api.discogs.com/artists/772296",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 30773,
+     "join": "",
+     "name": "Manu Chao",
+     "resource_url": "https://api.discogs.com/artists/30773",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "E",
+   "title": "Clandestino ",
+   "type_": "track"
+  },
+  {
+   "duration": "2:54",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 900612,
+     "join": "",
+     "name": "Gambeat",
+     "resource_url": "https://api.discogs.com/artists/900612",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 900608,
+     "join": "",
+     "name": "Madjid Fahem",
+     "resource_url": "https://api.discogs.com/artists/900608",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 30773,
+     "join": "",
+     "name": "Manu Chao",
+     "resource_url": "https://api.discogs.com/artists/30773",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 240666,
+     "join": "",
+     "name": "Renaud Letang",
+     "resource_url": "https://api.discogs.com/artists/240666",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 30773,
+     "join": "",
+     "name": "Manu Chao",
+     "resource_url": "https://api.discogs.com/artists/30773",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 240666,
+     "join": "",
+     "name": "Renaud Letang",
+     "resource_url": "https://api.discogs.com/artists/240666",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 240666,
+     "join": "",
+     "name": "Renaud Letang",
+     "resource_url": "https://api.discogs.com/artists/240666",
+     "role": "Programmed By [Additional], Bass [Additional], Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 30773,
+     "join": "",
+     "name": "Manu Chao",
+     "resource_url": "https://api.discogs.com/artists/30773",
+     "role": "Vocals, Programmed By",
+     "tracks": ""
+    }
+   ],
+   "position": "F1",
+   "title": "Bloody Bloody Border",
+   "type_": "track"
+  },
+  {
+   "duration": "3:11",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 240666,
+     "join": "",
+     "name": "Renaud Letang",
+     "resource_url": "https://api.discogs.com/artists/240666",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 30773,
+     "join": "",
+     "name": "Manu Chao",
+     "resource_url": "https://api.discogs.com/artists/30773",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 240666,
+     "join": "",
+     "name": "Renaud Letang",
+     "resource_url": "https://api.discogs.com/artists/240666",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 240666,
+     "join": "",
+     "name": "Renaud Letang",
+     "resource_url": "https://api.discogs.com/artists/240666",
+     "role": "Programmed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1021042,
+     "join": "",
+     "name": "Rosario Patania",
+     "resource_url": "https://api.discogs.com/artists/1021042",
+     "role": "Trombone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7688328,
+     "join": "",
+     "name": "Roy Pacci",
+     "resource_url": "https://api.discogs.com/artists/7688328",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 30773,
+     "join": "",
+     "name": "Manu Chao",
+     "resource_url": "https://api.discogs.com/artists/30773",
+     "role": "Vocals, Guitar, Bass",
+     "tracks": ""
+    }
+   ],
+   "position": "F2",
+   "title": "Roadies Rules",
+   "type_": "track"
+  },
+  {
+   "duration": "2:30",
+   "position": "CD-1",
+   "title": "Clandestino",
+   "type_": "track"
+  },
+  {
+   "duration": "3:47",
+   "position": "CD-2",
+   "title": "Desaparecido",
+   "type_": "track"
+  },
+  {
+   "duration": "2:38",
+   "position": "CD-3",
+   "title": "Bongo Bong",
+   "type_": "track"
+  },
+  {
+   "duration": "2:02",
+   "extraartists": [
+    {
+     "anv": "A. Khelifa-Pascal",
+     "id": 649067,
+     "join": "",
+     "name": "Anouk Khelifa",
+     "resource_url": "https://api.discogs.com/artists/649067",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "CD-4",
+   "title": "Je Ne T'Aime Plus",
+   "type_": "track"
+  },
+  {
+   "duration": "4:37",
+   "position": "CD-5",
+   "title": "Mentira...",
+   "type_": "track"
+  },
+  {
+   "duration": "2:57",
+   "position": "CD-6",
+   "title": "Lagrimas De Oro",
+   "type_": "track"
+  },
+  {
+   "duration": "2:21",
+   "position": "CD-7",
+   "title": "Mama Call",
+   "type_": "track"
+  },
+  {
+   "duration": "3:07",
+   "position": "CD-8",
+   "title": "Luna Y Sol",
+   "type_": "track"
+  },
+  {
+   "duration": "2:21",
+   "position": "CD-9",
+   "title": "Por El Suelo",
+   "type_": "track"
+  },
+  {
+   "duration": "4:04",
+   "extraartists": [
+    {
+     "anv": "F. Meslouhi",
+     "id": 910035,
+     "join": "",
+     "name": "François Meslouhi",
+     "resource_url": "https://api.discogs.com/artists/910035",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "CD-10",
+   "title": "Welcome To Tijuana",
+   "type_": "track"
+  },
+  {
+   "duration": "1:30",
+   "position": "CD-11",
+   "title": "Dia Luna... Dia Pena",
+   "type_": "track"
+  },
+  {
+   "duration": "2:55",
+   "position": "CD-12",
+   "title": "Malegria",
+   "type_": "track"
+  },
+  {
+   "duration": "3:00",
+   "position": "CD-13",
+   "title": "La Vie À 2",
+   "type_": "track"
+  },
+  {
+   "duration": "2:21",
+   "position": "CD-14",
+   "title": "Minha Galera",
+   "type_": "track"
+  },
+  {
+   "duration": "3:09",
+   "position": "CD-15",
+   "title": "La Despedida",
+   "type_": "track"
+  },
+  {
+   "duration": "2:26",
+   "position": "CD-16",
+   "title": "El Viento",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14061870-Manu-Chao-Clandestino-Esperando-La-Ultima-Ola-Bloody-Border",
+ "year": 2019
+}

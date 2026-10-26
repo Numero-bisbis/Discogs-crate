@@ -1,0 +1,99 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2127698,
+   "join": "",
+   "name": "Daphni",
+   "resource_url": "https://api.discogs.com/artists/2127698",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/znuhWbPtOcTyFdefLuDNjMC-28NFma1RoARj0cO4K9c/rs:fit/g:sm/q:90/h:600/w:551/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxMjc2/OTgtMTUxMjU5Mzkx/My0zMDc4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Funk / Soul"
+ ],
+ "id": 13798584,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/aZaZtFlRvIGDtsrBF3Dgqp1nbIRlyf1k87bGA5CZqUs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk4/NTg0LTE1NjM1NDgx/MTYtNzcwNi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/aZaZtFlRvIGDtsrBF3Dgqp1nbIRlyf1k87bGA5CZqUs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk4/NTg0LTE1NjM1NDgx/MTYtNzcwNi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/fLyeea7Cny5U7N60Bj9bSGECnkbmHx6AxCA_tougFQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk4/NTg0LTE1NjM1NDgx/MTYtNzcwNi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "JIAOLONG023",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 289182,
+   "name": "Jiaolong",
+   "resource_url": "https://api.discogs.com/labels/289182",
+   "thumbnail_url": "https://i.discogs.com/RbAHiQT--mg_8yHSATRG8SIG2GXU1r_fmCjvDV_zu_w/rs:fit/g:sm/q:90/h:210/w:312/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4OTE4/Mi0xMzU5OTAxNzY5/LTI5ODEuanBlZw.jpeg"
+  }
+ ],
+ "notes": "Full artwork copies.\nRepressed in 2026.\n\nSizzling' is a remix of [url=https://www.discogs.com/master/view/942105]\"Sizzling Hot\"[/url] by [a4142742], courtesy of Frederiksberg Records. 'Just' contains a sample of \"It's The Little Things\" written by [url=http://www.discogs.com/artist/282008-George-Semper]George Harley Semper[/url], published by [url=http://www.discogs.com/label/368202-Music-Forever]Music Forever[/url], courtesy of [url=http://www.discogs.com/label/1480829-George-Semper-Music-Archives]The George Semper Music Archive[/url]",
+ "released": "2019-06-21",
+ "styles": [
+  "House",
+  "Disco",
+  "Deep House"
+ ],
+ "title": "Sizzling EP",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4142742,
+     "join": "",
+     "name": "Paradise (47)",
+     "resource_url": "https://api.discogs.com/artists/4142742",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Sizzling",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "If",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Romeo",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Just",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13798584-Daphni-Sizzling-EP",
+ "year": 2019
+}

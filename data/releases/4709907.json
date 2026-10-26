@@ -1,0 +1,71 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 790612,
+   "join": "",
+   "name": "Joseph Capriati",
+   "resource_url": "https://api.discogs.com/artists/790612",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/b_EeSVrtKOw1otqlsQkQS7VwHdECCL5PA98Fx0uLzjs/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc5MDYx/Mi0xNzkyODcxMjY4/LTk3MzUuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Sweden",
+ "formats": [
+  {
+   "descriptions": [
+    "12\""
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 4709907,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/qdJxYKhcWXCRH-vVBlr-zLOHjgrgV3pksb1hjtx74bw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDk5/MDctMTM5NjExNDU3/Mi02NzMwLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/qdJxYKhcWXCRH-vVBlr-zLOHjgrgV3pksb1hjtx74bw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDk5/MDctMTM5NjExNDU3/Mi02NzMwLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/-DEo92ZV5GR2If3kZBFPiLg6yWPMB_SJNU-bOfh9X7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDk5/MDctMTM5NjExNDU3/Mi02NzMwLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DC113",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 237,
+   "name": "Drumcode",
+   "resource_url": "https://api.discogs.com/labels/237",
+   "thumbnail_url": "https://i.discogs.com/1rrViQveJmRumM48FWYOYNsJD3-iahuaYprtxJgsAQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNy0x/NjkyOTkxNjY2LTg2/NjgucG5n.jpeg"
+  }
+ ],
+ "notes": "℗ DGT Island.\n© Drumcode 2013.\nwww.drumcode.se",
+ "released": "2013-06-00",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Awake / Fratello",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Awake",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Fratello",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/4709907-Joseph-Capriati-Awake-Fratello",
+ "year": 2013
+}

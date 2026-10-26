@@ -1,0 +1,331 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Colombia",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Latin"
+ ],
+ "id": 12095969,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/57h9fuvQdkX4GuayF31S7KEy3hhhOMSe8ivafDs5lAM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDk1/OTY5LTE1Mzg0ODAx/NjItNDk5OS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/57h9fuvQdkX4GuayF31S7KEy3hhhOMSe8ivafDs5lAM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDk1/OTY5LTE1Mzg0ODAx/NjItNDk5OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/UA6HLFqhqJPeFMe1PvN4W3idk_kD923nRXtvyyCixrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDk1/OTY5LTE1Mzg0ODAx/NjItNDk5OS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "05(0131)02013",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 11358,
+   "name": "RCA Victor",
+   "resource_url": "https://api.discogs.com/labels/11358",
+   "thumbnail_url": "https://i.discogs.com/ZCo68cHzmhLrSleTHNX_kOp4d2Rwy6waokVzr-sHxWs/rs:fit/g:sm/q:90/h:256/w:306/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMzU4/LTE1NDgyODQ5ODMt/OTY5OS5wbmc.jpeg"
+  }
+ ],
+ "notes": "Recorded 1943-1974",
+ "released": "1984",
+ "styles": [
+  "Ranchera"
+ ],
+ "title": "Los Maximos Interpretes De La Cancion Ranchera. 16 Versiones Originales",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3862938,
+     "join": "",
+     "name": "Lucha Reyes (2)",
+     "resource_url": "https://api.discogs.com/artists/3862938",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A1",
+   "title": "El Herradero",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1132121,
+     "join": "",
+     "name": "Jorge Negrete",
+     "resource_url": "https://api.discogs.com/artists/1132121",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A2",
+   "title": "Ay, Jalisco No Te Rajes",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1132118,
+     "join": "",
+     "name": "Amalia Mendoza",
+     "resource_url": "https://api.discogs.com/artists/1132118",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A3",
+   "title": "Amarga Navidad",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 925770,
+     "join": "",
+     "name": "Miguel Aceves Mejia",
+     "resource_url": "https://api.discogs.com/artists/925770",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A4",
+   "title": "La Malagueña",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3117402,
+     "join": "",
+     "name": "Dora Maria",
+     "resource_url": "https://api.discogs.com/artists/3117402",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A5",
+   "title": "Amor Chiquito",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3397595,
+     "join": "",
+     "name": "Luis Aguilar",
+     "resource_url": "https://api.discogs.com/artists/3397595",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A6",
+   "title": "Morenita Mia",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3892641,
+     "join": "",
+     "name": "La Panchita",
+     "resource_url": "https://api.discogs.com/artists/3892641",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A7",
+   "title": "Estrellita Del Sur",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2101295,
+     "join": "",
+     "name": "Cornelio Reyna",
+     "resource_url": "https://api.discogs.com/artists/2101295",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A8",
+   "title": "Me Cai De La Nube",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 926973,
+     "join": "",
+     "name": "José Alfredo Jiménez",
+     "resource_url": "https://api.discogs.com/artists/926973",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B1",
+   "title": "Ella",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 430771,
+     "join": "",
+     "name": "Lola Beltrán",
+     "resource_url": "https://api.discogs.com/artists/430771",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B2",
+   "title": "Cucurrucucu Paloma",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Francisco Avitia",
+     "id": 6491958,
+     "join": "",
+     "name": "Francisco \"El Charro\" Avitia",
+     "resource_url": "https://api.discogs.com/artists/6491958",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B3",
+   "title": "Maquina 501",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1898069,
+     "join": "",
+     "name": "La Torcacita",
+     "resource_url": "https://api.discogs.com/artists/1898069",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B4",
+   "title": "Aires Del Mayab",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2211296,
+     "join": "",
+     "name": "Pedro Yerena",
+     "resource_url": "https://api.discogs.com/artists/2211296",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B5",
+   "title": "Mi Soldadita",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2296613,
+     "join": "",
+     "name": "Maria De Lourdes",
+     "resource_url": "https://api.discogs.com/artists/2296613",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B6",
+   "title": "Cruz Del Olvido",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2101752,
+     "join": "",
+     "name": "Federico Villa",
+     "resource_url": "https://api.discogs.com/artists/2101752",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B7",
+   "title": "Caminos De Michoacan",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1468210,
+     "join": "",
+     "name": "Yolanda Del Rio",
+     "resource_url": "https://api.discogs.com/artists/1468210",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B8",
+   "title": "La Hija De Nadie",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12095969-Various-Los-Maximos-Interpretes-De-La-Cancion-Ranchera-16-Versiones-Originales",
+ "year": 1984
+}

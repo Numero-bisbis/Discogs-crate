@@ -1,0 +1,89 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2887166,
+   "join": "",
+   "name": "Barker & Baumecker",
+   "resource_url": "https://api.discogs.com/artists/2887166",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/dlhmXCXqwnS1L3ksdkjXvlt1M4URlccw1BSwiEHV7yo/rs:fit/g:sm/q:90/h:310/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4ODcx/NjYtMTQ4MjU4OTg0/MS0zMjI5LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 2473305,
+ "images": [
+  {
+   "height": 420,
+   "resource_url": "https://i.discogs.com/zyVoGk5DZeDvlwxru6Ws1UyZJNTt6ZHJsfqrshLuDEc/rs:fit/g:sm/q:90/h:420/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzMz/MDUtMTI5MTMyNDQ2/OS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/zyVoGk5DZeDvlwxru6Ws1UyZJNTt6ZHJsfqrshLuDEc/rs:fit/g:sm/q:90/h:420/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzMz/MDUtMTI5MTMyNDQ2/OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/zuUsl_o0tJ4oP6TZFinPeyLAvjRaVy0zduC6tUYVN84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzMz/MDUtMTI5MTMyNDQ2/OS5qcGVn.jpeg",
+   "width": 420
+  }
+ ],
+ "labels": [
+  {
+   "catno": "o-ton40",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 178535,
+   "name": "Ostgut Ton",
+   "resource_url": "https://api.discogs.com/labels/178535",
+   "thumbnail_url": "https://i.discogs.com/tNXB-skibx_vJta0d5TXr-fp7mW_9Yxm6NH4dujWFk8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3ODUz/NS0xNTM2MzQ4Nzcw/LTY2NjkucG5n.jpeg"
+  }
+ ],
+ "notes": "Made in the EU.",
+ "released": "2010-09-13",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Candyflip",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Candyflip",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "The Hole",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 52501,
+     "join": "",
+     "name": "Jimmy Edgar",
+     "resource_url": "https://api.discogs.com/artists/52501",
+     "role": "Featuring, Synthesizer [Korg MS20], Soloist",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Refugee Hipster",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/2473305-Barker-Baumecker-Candyflip",
+ "year": 2010
+}

@@ -1,0 +1,77 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6259677,
+   "join": "",
+   "name": "SlothBoogie",
+   "resource_url": "https://api.discogs.com/artists/6259677",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "MP3"
+   ],
+   "name": "File",
+   "qty": "3"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11453857,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/3N1-0w8WhZmQbeMZ26thsu8TKyBQtFfXXbocpA9R7xs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUz/ODU3LTE1MTY1OTc0/MTctOTQ5NS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/3N1-0w8WhZmQbeMZ26thsu8TKyBQtFfXXbocpA9R7xs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUz/ODU3LTE1MTY1OTc0/MTctOTQ5NS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/NS8WUISlb-D3NMiPcbBSxV4KJFpMgu9wgJDssvCmekk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUz/ODU3LTE1MTY1OTc0/MTctOTQ5NS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SBEDITZ001",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1498417,
+   "name": "SlothBoogie Editz",
+   "resource_url": "https://api.discogs.com/labels/1498417",
+   "thumbnail_url": "https://i.discogs.com/AppyeF-gRQQx9LNPWAqtu07VQ2v3AAP0vp_wRynQgWA/rs:fit/g:sm/q:90/h:200/w:209/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0OTg0/MTctMTUzMjg3MjQ1/OC03ODQwLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "\t1.  Acid Fantasy                    118Bpm\n  \t2.  Dance With The Boogie   120Bpm\n  \t3.  Real Juicy                        108Bpm\n",
+ "released": "2017-10-16",
+ "styles": [
+  "Deep House",
+  "House"
+ ],
+ "title": "SBEDITZ001",
+ "tracklist": [
+  {
+   "duration": "6:31",
+   "position": "1",
+   "title": "Acid Fantasy",
+   "type_": "track"
+  },
+  {
+   "duration": "6:09",
+   "position": "2",
+   "title": "Dance With The Boogie",
+   "type_": "track"
+  },
+  {
+   "duration": "7:37",
+   "position": "3",
+   "title": "Real Juicy",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11453857-SlothBoogie-SBEDITZ001",
+ "year": 2017
+}

@@ -1,0 +1,394 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 253481,
+   "join": "/",
+   "name": "Django Reinhardt",
+   "resource_url": "https://api.discogs.com/artists/253481",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/cYYg-WBpXIM4hQRVpyq6YwuvWIJdBt9ssK2D9-8rRgo/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MzQ4/MS0xMTk4NDQwMTc5/LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 267089,
+   "join": "Et Le",
+   "name": "Stéphane Grappelli",
+   "resource_url": "https://api.discogs.com/artists/267089",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/8ponOdSv7HxYf5jWbnJneImWSQ86e_FxiqVFPiiqsgE/rs:fit/g:sm/q:90/h:600/w:482/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI2NzA4/OS0xNTQ0MTA2MTU4/LTQwNDUuanBlZw.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 355185,
+   "join": "",
+   "name": "Quintette Du Hot Club De France",
+   "resource_url": "https://api.discogs.com/artists/355185",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/CFM4BlBlx2smdFm57HeVS9YLXaulvSukNqILACy_GNI/rs:fit/g:sm/q:90/h:402/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1NTE4/NS0xNjc2Mzc1ODQz/LTI2NjAuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Reissue",
+    "Mono"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 3539848,
+ "images": [
+  {
+   "height": 414,
+   "resource_url": "https://i.discogs.com/Rbk2MMK29Hih8xpTwrOmUV50eLXnl7a06CvMsUwkl2Y/rs:fit/g:sm/q:90/h:414/w:397/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzk4/NDgtMTM1MjYyOTAy/NC01NDAxLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Rbk2MMK29Hih8xpTwrOmUV50eLXnl7a06CvMsUwkl2Y/rs:fit/g:sm/q:90/h:414/w:397/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzk4/NDgtMTM1MjYyOTAy/NC01NDAxLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/Z0etn7wdMcLlsd5t0cPKGwMVNq-1ZV66vN7I2a2MvJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzk4/NDgtMTM1MjYyOTAy/NC01NDAxLmpwZWc.jpeg",
+   "width": 397
+  }
+ ],
+ "labels": [
+  {
+   "catno": "731.069",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 895,
+   "name": "RCA",
+   "resource_url": "https://api.discogs.com/labels/895",
+   "thumbnail_url": "https://i.discogs.com/q-zL2IXAAZL18V9Ova8MTy7NXCoGMloDEKM1yaHpays/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5NS0x/NzY4MDgxMjYxLTMw/NDIuanBlZw.jpeg"
+  }
+ ],
+ "notes": "This release has Mono printed on front sleeve and labels.\nFor a similar release with Mono on front sleeve but without Mono on labels please see [r=37356411].",
+ "released": "1992",
+ "styles": [
+  "Gypsy Jazz",
+  "Swing"
+ ],
+ "title": "Volume 3 \"Inedits\"",
+ "tracklist": [
+  {
+   "duration": "2:23",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 253481,
+     "join": "",
+     "name": "Django Reinhardt",
+     "resource_url": "https://api.discogs.com/artists/253481",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 267089,
+     "join": "",
+     "name": "Stéphane Grappelli",
+     "resource_url": "https://api.discogs.com/artists/267089",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Daphne",
+   "type_": "track"
+  },
+  {
+   "duration": "2:52",
+   "extraartists": [
+    {
+     "anv": "J. Kern",
+     "id": 166685,
+     "join": "",
+     "name": "Jerome Kern",
+     "resource_url": "https://api.discogs.com/artists/166685",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "O. Hammerstein II",
+     "id": 253375,
+     "join": "",
+     "name": "Oscar Hammerstein II",
+     "resource_url": "https://api.discogs.com/artists/253375",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "All The Things You Are",
+   "type_": "track"
+  },
+  {
+   "duration": "2:48",
+   "extraartists": [
+    {
+     "anv": "Seitz",
+     "id": 917022,
+     "join": "",
+     "name": "Ernest Seitz",
+     "resource_url": "https://api.discogs.com/artists/917022",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Lockhart",
+     "id": 917017,
+     "join": "",
+     "name": "Eugene Lockhart",
+     "resource_url": "https://api.discogs.com/artists/917017",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "The World Is Waiting For The Sunrise",
+   "type_": "track"
+  },
+  {
+   "duration": "3:58",
+   "extraartists": [
+    {
+     "anv": "Signorelli",
+     "id": 301353,
+     "join": "",
+     "name": "Frank Signorelli",
+     "resource_url": "https://api.discogs.com/artists/301353",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Kahn",
+     "id": 505455,
+     "join": "",
+     "name": "Gus Kahn",
+     "resource_url": "https://api.discogs.com/artists/505455",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Maleck",
+     "id": 307337,
+     "join": "",
+     "name": "Matty Malneck",
+     "resource_url": "https://api.discogs.com/artists/307337",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "I'll Never Be The Same",
+   "type_": "track"
+  },
+  {
+   "duration": "3:05",
+   "extraartists": [
+    {
+     "anv": "Grey",
+     "id": 301997,
+     "join": "",
+     "name": "Clifford Grey",
+     "resource_url": "https://api.discogs.com/artists/301997",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Robin",
+     "id": 531605,
+     "join": "",
+     "name": "Leo Robin",
+     "resource_url": "https://api.discogs.com/artists/531605",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Youmans",
+     "id": 301996,
+     "join": "",
+     "name": "Vincent Youmans",
+     "resource_url": "https://api.discogs.com/artists/301996",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Halleluyah",
+   "type_": "track"
+  },
+  {
+   "duration": "3:17",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 253481,
+     "join": "",
+     "name": "Django Reinhardt",
+     "resource_url": "https://api.discogs.com/artists/253481",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Django's Castle",
+   "type_": "track"
+  },
+  {
+   "duration": "2:51",
+   "extraartists": [
+    {
+     "anv": "Berlin",
+     "id": 508131,
+     "join": "",
+     "name": "Irving Berlin",
+     "resource_url": "https://api.discogs.com/artists/508131",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Marie",
+   "type_": "track"
+  },
+  {
+   "duration": "3:40",
+   "extraartists": [
+    {
+     "anv": "Crosby",
+     "id": 164571,
+     "join": "",
+     "name": "Bing Crosby",
+     "resource_url": "https://api.discogs.com/artists/164571",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Clifford",
+     "id": 739206,
+     "join": "",
+     "name": "Gordon Clifford",
+     "resource_url": "https://api.discogs.com/artists/739206",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Barris",
+     "id": 739208,
+     "join": "",
+     "name": "Harry Barris",
+     "resource_url": "https://api.discogs.com/artists/739208",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "I Surrender Dear",
+   "type_": "track"
+  },
+  {
+   "duration": "2:50",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 253481,
+     "join": "",
+     "name": "Django Reinhardt",
+     "resource_url": "https://api.discogs.com/artists/253481",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 267089,
+     "join": "",
+     "name": "Stéphane Grappelli",
+     "resource_url": "https://api.discogs.com/artists/267089",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Swing Guitars",
+   "type_": "track"
+  },
+  {
+   "duration": "2:46",
+   "extraartists": [
+    {
+     "anv": "Rose",
+     "id": 570719,
+     "join": "",
+     "name": "Billy Rose",
+     "resource_url": "https://api.discogs.com/artists/570719",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Harburg",
+     "id": 573556,
+     "join": "",
+     "name": "E.Y. Harburg",
+     "resource_url": "https://api.discogs.com/artists/573556",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Arlen",
+     "id": 301975,
+     "join": "",
+     "name": "Harold Arlen",
+     "resource_url": "https://api.discogs.com/artists/301975",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "It's Only A Paper Moon",
+   "type_": "track"
+  },
+  {
+   "duration": "2:43",
+   "extraartists": [
+    {
+     "anv": "I. And G. Gershwin",
+     "id": 640665,
+     "join": "",
+     "name": "George & Ira Gershwin",
+     "resource_url": "https://api.discogs.com/artists/640665",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "I Got Rhythm",
+   "type_": "track"
+  },
+  {
+   "duration": "3:40",
+   "extraartists": [
+    {
+     "anv": "Tchaikowsky",
+     "id": 999914,
+     "join": "",
+     "name": "Pyotr Ilyich Tchaikovsky",
+     "resource_url": "https://api.discogs.com/artists/999914",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Improvisation On Tchaikowsky's",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/3539848-Django-Reinhardt-Stéphane-Grappelli-Et-Le-Quintette-Du-Hot-Club-De-France-Volume-3-Inedits",
+ "year": 1992
+}

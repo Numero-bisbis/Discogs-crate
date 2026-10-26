@@ -1,0 +1,600 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Ireland",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Pink"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 13072294,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/ZUW3Wdof0Iz3nZkZ0KJmNHX1Lr5K52hLreUB0_QgECo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcy/Mjk0LTE1NDc1NjQ1/MzAtMjQ1MC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/ZUW3Wdof0Iz3nZkZ0KJmNHX1Lr5K52hLreUB0_QgECo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcy/Mjk0LTE1NDc1NjQ1/MzAtMjQ1MC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/cYcBQP07roC2tP4o_N4TIOGpQ2gKcN3xxSGvko2BXzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcy/Mjk0LTE1NDc1NjQ1/MzAtMjQ1MC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ACGDLPX1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 53017,
+   "name": "All City Records (3)",
+   "resource_url": "https://api.discogs.com/labels/53017",
+   "thumbnail_url": "https://i.discogs.com/56nIZWsGoyAoQNXf0d2r6N2xaHa8kmzS8QbIAVOgAUY/rs:fit/g:sm/q:90/h:168/w:505/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUzMDE3/LTEyNjQ1ODYwODIu/anBlZw.jpeg"
+  }
+ ],
+ "notes": "Pink vinyl version. \n\nSticker on shrink-wrap :\n\"Compiled by the elusive Gangster Doodles. 27 tracks of real rap shit feat Madlib, Oh No, Onra, Jon Wayne, House Shoes, Kaytranada, Mndsgn & many more. Limited color vinyl\"",
+ "released": "2019-03-01",
+ "styles": [],
+ "title": "Gangster Music Vol. 1",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1230771,
+     "join": "",
+     "name": "Eets",
+     "resource_url": "https://api.discogs.com/artists/1230771",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:00",
+   "position": "A1",
+   "title": "Savage",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1902929,
+     "join": "",
+     "name": "Jeremiah Jae",
+     "resource_url": "https://api.discogs.com/artists/1902929",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:20",
+   "position": "A2",
+   "title": "Tell Me",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3710334,
+     "join": "",
+     "name": "Father (11)",
+     "resource_url": "https://api.discogs.com/artists/3710334",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:35",
+   "position": "A3",
+   "title": "Cruel",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 50786,
+     "join": "",
+     "name": "Max B",
+     "resource_url": "https://api.discogs.com/artists/50786",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:34",
+   "position": "A4",
+   "title": "Flash Dance",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2911074,
+     "join": "",
+     "name": "Caleb Stone",
+     "resource_url": "https://api.discogs.com/artists/2911074",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:34",
+   "position": "A5",
+   "title": "Slayer Cake Bounce",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 317252,
+     "join": "",
+     "name": "Budgie (3)",
+     "resource_url": "https://api.discogs.com/artists/317252",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:48",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5143237,
+     "join": "",
+     "name": "Traffic (16)",
+     "resource_url": "https://api.discogs.com/artists/5143237",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "On My Shit ",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5119640,
+     "join": "",
+     "name": "JayAllDay",
+     "resource_url": "https://api.discogs.com/artists/5119640",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:51",
+   "position": "B1",
+   "title": "1-800 Killer Whale",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1907593,
+     "join": "",
+     "name": "Jonwayne",
+     "resource_url": "https://api.discogs.com/artists/1907593",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:51",
+   "position": "B2",
+   "title": "Welch's Grape",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5177354,
+     "join": "",
+     "name": "Lovibe",
+     "resource_url": "https://api.discogs.com/artists/5177354",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "1:51",
+   "position": "B3",
+   "title": "Lemonwater",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 10958321,
+     "join": "",
+     "name": "Naeem (2)",
+     "resource_url": "https://api.discogs.com/artists/10958321",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:51",
+   "position": "B4",
+   "title": "Shiraz",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1548484,
+     "join": "",
+     "name": "Mndsgn",
+     "resource_url": "https://api.discogs.com/artists/1548484",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "1:37",
+   "position": "B5",
+   "title": "Noodles",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1486355,
+     "join": "",
+     "name": "Fifth",
+     "resource_url": "https://api.discogs.com/artists/1486355",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:06",
+   "extraartists": [
+    {
+     "anv": "Squaddab",
+     "id": 2140776,
+     "join": "",
+     "name": "Squadda Bambino",
+     "resource_url": "https://api.discogs.com/artists/2140776",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "And I Swear",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 125632,
+     "join": "",
+     "name": "Mad Child",
+     "resource_url": "https://api.discogs.com/artists/125632",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:13",
+   "position": "B7",
+   "title": "Cold Blooded",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 6935448,
+     "join": "",
+     "name": "Nahh G",
+     "resource_url": "https://api.discogs.com/artists/6935448",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:18",
+   "position": "B8",
+   "title": "Mo Ma",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3160392,
+     "join": "",
+     "name": "Kaytranada",
+     "resource_url": "https://api.discogs.com/artists/3160392",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "1:51",
+   "position": "C1",
+   "title": "Well I Bet Ya",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 6163264,
+     "join": "+",
+     "name": "Kojaque",
+     "resource_url": "https://api.discogs.com/artists/6163264",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6334324,
+     "join": "",
+     "name": "Kean Kavanagh",
+     "resource_url": "https://api.discogs.com/artists/6334324",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:20",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6935446,
+     "join": "",
+     "name": "M Finnegan",
+     "resource_url": "https://api.discogs.com/artists/6935446",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Whitney",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 349445,
+     "join": "",
+     "name": "House Shoes",
+     "resource_url": "https://api.discogs.com/artists/349445",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:35",
+   "position": "C3",
+   "title": "Intergalatic",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2561774,
+     "join": "",
+     "name": "Quelle Chris",
+     "resource_url": "https://api.discogs.com/artists/2561774",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:14",
+   "position": "C4",
+   "title": "Brain Of The Ape",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1516807,
+     "join": "",
+     "name": "Chester Watson",
+     "resource_url": "https://api.discogs.com/artists/1516807",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "1:38",
+   "position": "C5",
+   "title": "Time Moves Slower Here",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 80569,
+     "join": "",
+     "name": "Blu (2)",
+     "resource_url": "https://api.discogs.com/artists/80569",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:50",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 148058,
+     "join": "",
+     "name": "Exile (6)",
+     "resource_url": "https://api.discogs.com/artists/148058",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Choosey",
+     "id": 3495541,
+     "join": "",
+     "name": "King Choosey",
+     "resource_url": "https://api.discogs.com/artists/3495541",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C6",
+   "title": "Hip Hop Remix",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2661427,
+     "join": "",
+     "name": "Dream Panther",
+     "resource_url": "https://api.discogs.com/artists/2661427",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:12",
+   "position": "C7",
+   "title": "KCRW",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 65080,
+     "join": "+",
+     "name": "Oh No",
+     "resource_url": "https://api.discogs.com/artists/65080",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 16508,
+     "join": "",
+     "name": "Madlib",
+     "resource_url": "https://api.discogs.com/artists/16508",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:49",
+   "position": "D1",
+   "title": "Big Whips",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 938734,
+     "join": "",
+     "name": "Onra",
+     "resource_url": "https://api.discogs.com/artists/938734",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:44",
+   "position": "D2",
+   "title": "$$$ Cant Buy Luv",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4695630,
+     "join": "",
+     "name": "Maze Mountain",
+     "resource_url": "https://api.discogs.com/artists/4695630",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:48",
+   "position": "D3",
+   "title": "The Powers of Your Mind",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4048318,
+     "join": "",
+     "name": "Your Old Droog",
+     "resource_url": "https://api.discogs.com/artists/4048318",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:31",
+   "position": "D4",
+   "title": "Ugly Truth",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 65081,
+     "join": "",
+     "name": "Defari",
+     "resource_url": "https://api.discogs.com/artists/65081",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:18",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 44391,
+     "join": "",
+     "name": "Evidence (2)",
+     "resource_url": "https://api.discogs.com/artists/44391",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D5",
+   "title": "Acknowledgement",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 6935447,
+     "join": "",
+     "name": "Softest Hard",
+     "resource_url": "https://api.discogs.com/artists/6935447",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:53",
+   "position": "D6",
+   "title": "Sincerely",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13072294-Various-Gangster-Music-Vol-1",
+ "year": 2019
+}

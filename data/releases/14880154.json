@@ -1,0 +1,98 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2528149,
+   "join": "",
+   "name": "Dawl",
+   "resource_url": "https://api.discogs.com/artists/2528149",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/uO2jjdpx4WDiNZi5Zw-0B5-A--bMqfKXns0apg5GWsY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1Mjgx/NDktMTc1ODI2NjU0/Mi03OTMzLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 14880154,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/Bgy1xFhjX7Bo0HcO444o1LjKyn_QwqikoFA19rA9f94/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODgw/MTU0LTE1ODU3NjIx/MTktODU2My5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Bgy1xFhjX7Bo0HcO444o1LjKyn_QwqikoFA19rA9f94/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODgw/MTU0LTE1ODU3NjIx/MTktODU2My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/ZSIS6-8Bcb6-v53rkpybkodkdAL-gIxJPTIxRY4csWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODgw/MTU0LTE1ODU3NjIx/MTktODU2My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "HAWS006",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1535866,
+   "name": "Haŵs",
+   "resource_url": "https://api.discogs.com/labels/1535866",
+   "thumbnail_url": "https://i.discogs.com/JmNpRS_r_QLN6xUgXBpMVEe9Ek8y4f3b9I8e4_50Mak/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1MzU4/NjYtMTc4OTkwMjY4/MC05NTExLnBuZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2020",
+ "styles": [
+  "Breakbeat",
+  "Acid"
+ ],
+ "title": "Break It Down",
+ "tracklist": [
+  {
+   "duration": "5:50",
+   "position": "A1",
+   "title": "Break It Down",
+   "type_": "track"
+  },
+  {
+   "duration": "5:39",
+   "position": "A2",
+   "title": "Subject 91",
+   "type_": "track"
+  },
+  {
+   "duration": "6:06",
+   "position": "B1",
+   "title": "Proton",
+   "type_": "track"
+  },
+  {
+   "duration": "6:11",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5927130,
+     "join": "",
+     "name": "Kosh (7)",
+     "resource_url": "https://api.discogs.com/artists/5927130",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Break It Down (Kosh Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14880154-Dawl-Break-It-Down",
+ "year": 2020
+}

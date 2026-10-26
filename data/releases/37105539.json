@@ -1,0 +1,216 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5613399,
+   "join": "",
+   "name": "Confidence Man",
+   "resource_url": "https://api.discogs.com/artists/5613399",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/LMfUYxRF6Cv_T8OujrKWNGwnZJFrS6m1d2c9xWvunEc/rs:fit/g:sm/q:90/h:381/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU2MTMz/OTktMTY2NTc1NzQ2/My0yOTE2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP",
+    "Record Store Day"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Transparent Orange & Black Dust"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Pop"
+ ],
+ "id": 37105539,
+ "images": [
+  {
+   "height": 590,
+   "resource_url": "https://i.discogs.com/1KdwaF1o2cGPBVVXyyB8igqqYJ1oF5YN-31QVcSi4eg/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTA1/NTM5LTE3NzY1ODc5/ODAtNzI5MS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/1KdwaF1o2cGPBVVXyyB8igqqYJ1oF5YN-31QVcSi4eg/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTA1/NTM5LTE3NzY1ODc5/ODAtNzI5MS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/kBK6IfvpSIkTPBLG08Zin6E8Y_lezkDmyjn0galYHNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTA1/NTM5LTE3NzY1ODc5/ODAtNzI5MS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "8833833",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1610,
+   "name": "Polydor",
+   "resource_url": "https://api.discogs.com/labels/1610",
+   "thumbnail_url": "https://i.discogs.com/aNZfcLSVMW8xdCMyTxY3PspGfkoD4lsz8_uyffeyRcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MTAt/MTU4ODY3Mzk0Ny0x/NjI2LmpwZWc.jpeg"
+  },
+  {
+   "catno": "8833833",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3196877,
+   "name": "Chaos (7)",
+   "resource_url": "https://api.discogs.com/labels/3196877",
+   "thumbnail_url": "https://i.discogs.com/0Gn9LXZZvPJA0s1C8zOrokY6v_kzNq-yyXtSvzXyXdI/rs:fit/g:sm/q:90/h:253/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxOTY4/NzctMTY4Mjc5NjMw/MC03OTI1LmpwZWc.jpeg"
+  },
+  {
+   "catno": "8833833",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 408332,
+   "name": "I Oh You",
+   "resource_url": "https://api.discogs.com/labels/408332",
+   "thumbnail_url": "https://i.discogs.com/UNjsCrNYpq6GXnizdlETTzcww5j5w5vomTPwR-d2cpQ/rs:fit/g:sm/q:90/h:170/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQwODMz/Mi0xMzY1MDQyODQ1/LTMzNjkuanBlZw.jpeg"
+  }
+ ],
+ "notes": "℗ & © 2025 Confidence Man, under exclusive licence to Universal Music Operations Limited\nMade in the EU\n\nMade in Germany sticker\n\nTracks listed sequentially on sleeve.",
+ "released": "2026-04-18",
+ "styles": [
+  "House",
+  "Dance-pop"
+ ],
+ "title": "Active Scenes Vol One",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Damaged Goods",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "17",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 14888266,
+     "join": "",
+     "name": "JADE (208)",
+     "resource_url": "https://api.discogs.com/artists/14888266",
+     "role": "Featuring [With]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 34932,
+     "join": "",
+     "name": "Chris Lake",
+     "resource_url": "https://api.discogs.com/artists/34932",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Gossip (Chris Lake Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 8204542,
+     "join": "",
+     "name": "Eliza Rose (4)",
+     "resource_url": "https://api.discogs.com/artists/8204542",
+     "role": "Featuring [With]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5094068,
+     "join": "",
+     "name": "Saoirse (2)",
+     "resource_url": "https://api.discogs.com/artists/5094068",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "I Heart You (Saoirse Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4629210,
+     "join": "",
+     "name": "Sweely",
+     "resource_url": "https://api.discogs.com/artists/4629210",
+     "role": "Featuring [With]",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "In A Band",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 14888266,
+     "join": "",
+     "name": "JADE (208)",
+     "resource_url": "https://api.discogs.com/artists/14888266",
+     "role": "Featuring [With]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7976465,
+     "join": "",
+     "name": "bullet tooth",
+     "resource_url": "https://api.discogs.com/artists/7976465",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Gossip (Bullet Tooth Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 8204542,
+     "join": "",
+     "name": "Eliza Rose (4)",
+     "resource_url": "https://api.discogs.com/artists/8204542",
+     "role": "Featuring [With]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1543,
+     "join": "",
+     "name": "Tiga",
+     "resource_url": "https://api.discogs.com/artists/1543",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B7",
+   "title": "I Heart You (Tiga Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/37105539-Confidence-Man-Active-Scenes-Vol-One",
+ "year": 2026
+}

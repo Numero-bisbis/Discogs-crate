@@ -1,0 +1,73 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2686683,
+   "join": "",
+   "name": "B.Traits",
+   "resource_url": "https://api.discogs.com/artists/2686683",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/BcaQqnEXlyB6sRNlVqjQRmYobEEQeRyjyzXA6QLIIEk/rs:fit/g:sm/q:90/h:476/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI2ODY2/ODMtMTQzNTk3MDcz/Ni00MjQ2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": null,
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Red Transparent"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12614410,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/JcvJLwY_DZw13A72YLl9jRMZyaLclVyCm9KKvtQUJLo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjE0/NDEwLTE1Mzg2MzE4/OTYtNDY1Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/JcvJLwY_DZw13A72YLl9jRMZyaLclVyCm9KKvtQUJLo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjE0/NDEwLTE1Mzg2MzE4/OTYtNDY1Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Rw2VcRfjJi6uLJj4E4WK9sh-TD8GcPo4gbvrf6h96gI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjE0/NDEwLTE1Mzg2MzE4/OTYtNDY1Ny5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "INTOTO 003",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1089954,
+   "name": "IN.TOTO",
+   "resource_url": "https://api.discogs.com/labels/1089954",
+   "thumbnail_url": "https://i.discogs.com/JhVriqGrES6DPFEA2-kxBgrIrs2nYUCpVi535N-kus4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwODk5/NTQtMTQ3ODA0Nzkz/Ni03NjMxLmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-10-04",
+ "styles": [
+  "Techno"
+ ],
+ "title": "People's Nation",
+ "tracklist": [
+  {
+   "duration": "6:47",
+   "position": "A",
+   "title": "People's Nation",
+   "type_": "track"
+  },
+  {
+   "duration": "6:33",
+   "position": "B",
+   "title": "Inside My Love",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12614410-BTraits-Peoples-Nation",
+ "year": 2018
+}

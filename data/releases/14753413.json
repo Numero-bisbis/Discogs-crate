@@ -1,0 +1,387 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3565949,
+   "join": "&",
+   "name": "Khruangbin",
+   "resource_url": "https://api.discogs.com/artists/3565949",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/MWcHVMl1eaqk4vOdX0K4olas_qZ9pYxWeaoCg4o_7_Q/rs:fit/g:sm/q:90/h:436/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1NjU5/NDktMTUyNDEwNDYy/OS04NTc3LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 4332385,
+   "join": "",
+   "name": "Leon Bridges",
+   "resource_url": "https://api.discogs.com/artists/4332385",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/SRavFDNSGPqa_kReyNth_kBEAzDSv8pUQK0yZojybBM/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQzMzIz/ODUtMTU3NTUwNTIz/Ni0xMDMyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK & US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Orange Translucent"
+  }
+ ],
+ "genres": [
+  "Rock",
+  "Funk / Soul"
+ ],
+ "id": 14753413,
+ "images": [
+  {
+   "height": 588,
+   "resource_url": "https://i.discogs.com/vGp4cmqSrUld-FgxZenWpXFun69j_MFf5IVB4rrX3Ic/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzUz/NDEzLTE1ODE1ODQ5/NzEtNjAyMi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/vGp4cmqSrUld-FgxZenWpXFun69j_MFf5IVB4rrX3Ic/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzUz/NDEzLTE1ODE1ODQ5/NzEtNjAyMi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/RU9GS5ShoJL5MnK_VsBCdJG2P35MzP6CVkHLRyjjB9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzUz/NDEzLTE1ODE1ODQ5/NzEtNjAyMi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DOC214",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 94740,
+   "name": "Dead Oceans",
+   "resource_url": "https://api.discogs.com/labels/94740",
+   "thumbnail_url": "https://i.discogs.com/zyePmXv0BP7mBlCQfgXDf_hesWV2B6UW-Y5Jmu53itI/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk0NzQw/LTE3NzU3NTcyNTgt/ODI0Ni5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Indies only version on orange translucent vinyl.\nIncluding download code.",
+ "released": "2020-02-07",
+ "styles": [
+  "Psychedelic",
+  "Soul",
+  "Country Rock"
+ ],
+ "title": "Texas Sun",
+ "tracklist": [
+  {
+   "duration": "4:13",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7792240,
+     "join": "",
+     "name": "Ruben Moreno (3)",
+     "resource_url": "https://api.discogs.com/artists/7792240",
+     "role": "Accordion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4332385,
+     "join": "",
+     "name": "Leon Bridges",
+     "resource_url": "https://api.discogs.com/artists/4332385",
+     "role": "Acoustic Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2914168,
+     "join": "",
+     "name": "Laura Lee (5)",
+     "resource_url": "https://api.discogs.com/artists/2914168",
+     "role": "Bass, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2781778,
+     "join": "",
+     "name": "Donald Johnson, Jr.",
+     "resource_url": "https://api.discogs.com/artists/2781778",
+     "role": "Drums, Synthesizer [SK-20 Symphonic Ensemble]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3061049,
+     "join": "",
+     "name": "Mark Speer",
+     "resource_url": "https://api.discogs.com/artists/3061049",
+     "role": "Electric Guitar, Percussion, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2127115,
+     "join": "",
+     "name": "Will Van Horn",
+     "resource_url": "https://api.discogs.com/artists/2127115",
+     "role": "Pedal Steel Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1954543,
+     "join": "",
+     "name": "Austin Jenkins (2)",
+     "resource_url": "https://api.discogs.com/artists/1954543",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3565949,
+     "join": "",
+     "name": "Khruangbin",
+     "resource_url": "https://api.discogs.com/artists/3565949",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4332385,
+     "join": "",
+     "name": "Leon Bridges",
+     "resource_url": "https://api.discogs.com/artists/4332385",
+     "role": "Written-By, Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Texas Sun",
+   "type_": "track"
+  },
+  {
+   "duration": "5:15",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2914168,
+     "join": "",
+     "name": "Laura Lee (5)",
+     "resource_url": "https://api.discogs.com/artists/2914168",
+     "role": "Bass, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2781778,
+     "join": "",
+     "name": "Donald Johnson, Jr.",
+     "resource_url": "https://api.discogs.com/artists/2781778",
+     "role": "Drums, Synthesizer [SK-20 Symphonic Ensemble]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3061049,
+     "join": "",
+     "name": "Mark Speer",
+     "resource_url": "https://api.discogs.com/artists/3061049",
+     "role": "Electric Guitar, Percussion, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2127115,
+     "join": "",
+     "name": "Will Van Horn",
+     "resource_url": "https://api.discogs.com/artists/2127115",
+     "role": "Pedal Steel Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1954543,
+     "join": "",
+     "name": "Austin Jenkins (2)",
+     "resource_url": "https://api.discogs.com/artists/1954543",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3565949,
+     "join": "",
+     "name": "Khruangbin",
+     "resource_url": "https://api.discogs.com/artists/3565949",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4332385,
+     "join": "",
+     "name": "Leon Bridges",
+     "resource_url": "https://api.discogs.com/artists/4332385",
+     "role": "Written-By, Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Midnight",
+   "type_": "track"
+  },
+  {
+   "duration": "4:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2914168,
+     "join": "",
+     "name": "Laura Lee (5)",
+     "resource_url": "https://api.discogs.com/artists/2914168",
+     "role": "Bass, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2781778,
+     "join": "",
+     "name": "Donald Johnson, Jr.",
+     "resource_url": "https://api.discogs.com/artists/2781778",
+     "role": "Drums, Electric Piano [Rhodes], Synthesizer [SK-20 Symphonic Ensemble]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3061049,
+     "join": "",
+     "name": "Mark Speer",
+     "resource_url": "https://api.discogs.com/artists/3061049",
+     "role": "Electric Guitar, Synthesizer, Percussion, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2127115,
+     "join": "",
+     "name": "Will Van Horn",
+     "resource_url": "https://api.discogs.com/artists/2127115",
+     "role": "Pedal Steel Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6270174,
+     "join": "",
+     "name": "Charlie Perez (2)",
+     "resource_url": "https://api.discogs.com/artists/6270174",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1082286,
+     "join": "",
+     "name": "Chase Jordan",
+     "resource_url": "https://api.discogs.com/artists/1082286",
+     "role": "Vibraphone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3565949,
+     "join": "",
+     "name": "Khruangbin",
+     "resource_url": "https://api.discogs.com/artists/3565949",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4332385,
+     "join": "",
+     "name": "Leon Bridges",
+     "resource_url": "https://api.discogs.com/artists/4332385",
+     "role": "Written-By, Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "C-Side",
+   "type_": "track"
+  },
+  {
+   "duration": "6:46",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2914168,
+     "join": "",
+     "name": "Laura Lee (5)",
+     "resource_url": "https://api.discogs.com/artists/2914168",
+     "role": "Bass, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2781778,
+     "join": "",
+     "name": "Donald Johnson, Jr.",
+     "resource_url": "https://api.discogs.com/artists/2781778",
+     "role": "Drums, Upright Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3061049,
+     "join": "",
+     "name": "Mark Speer",
+     "resource_url": "https://api.discogs.com/artists/3061049",
+     "role": "Electric Guitar, Percussion, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2127115,
+     "join": "",
+     "name": "Will Van Horn",
+     "resource_url": "https://api.discogs.com/artists/2127115",
+     "role": "Pedal Steel Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 655221,
+     "join": "",
+     "name": "Isaac Watts",
+     "resource_url": "https://api.discogs.com/artists/655221",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3565949,
+     "join": "",
+     "name": "Khruangbin",
+     "resource_url": "https://api.discogs.com/artists/3565949",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4332385,
+     "join": "",
+     "name": "Leon Bridges",
+     "resource_url": "https://api.discogs.com/artists/4332385",
+     "role": "Written-By, Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Conversion",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14753413-Khruangbin-Leon-Bridges-Texas-Sun",
+ "year": 2020
+}

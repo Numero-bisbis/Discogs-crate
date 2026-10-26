@@ -1,0 +1,68 @@
+{
+ "artists": [
+  {
+   "anv": "KH",
+   "id": 60342,
+   "join": "",
+   "name": "Kieran Hebden",
+   "resource_url": "https://api.discogs.com/artists/60342",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/P-hTPeJY7EZUjvhQ0nZ7neptD0FQf3LnHFmFtpM-QK8/rs:fit/g:sm/q:90/h:600/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYwMzQy/LTE1OTE5NDQ4MjAt/NjkzMi5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "Single Sided"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13483432,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/4tIa7OwkLjR9zrQTwW_57kKdxy29bL-r2ESt3SMBICU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDgz/NDMyLTE1NTYzNjQ5/NzQtMTQxNy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/4tIa7OwkLjR9zrQTwW_57kKdxy29bL-r2ESt3SMBICU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDgz/NDMyLTE1NTYzNjQ5/NzQtMTQxNy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Du_eebuK4bKT59GUrxbTGL13qgupxtpJfQXFSVi2cGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDgz/NDMyLTE1NTYzNjQ5/NzQtMTQxNy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "TEXT 048",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 11205,
+   "name": "Text Records",
+   "resource_url": "https://api.discogs.com/labels/11205",
+   "thumbnail_url": "https://i.discogs.com/RM_ePvVC66tGvKRKDNex-Hk1LkwUTkrXJIsrtieYBSk/rs:fit/g:sm/q:90/h:287/w:430/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMjA1/LTEzMjQyMzk5MTgu/anBlZw.jpeg"
+  }
+ ],
+ "notes": "Printed on label side B:\n\" 'Only Human' contains a sample of the recording 'Afraid' performed by Nelly Furtado. Courtesy of Geffen Records, A Division of UMG Recordings, Inc., under license from Universal Music Enterprises. Written by Nelly Kim Furtado, Timothy Z Mosley, Timothy Allen Clayton and Floyd Nathaniel Hills © 2006. Published by Stix I'm Stoned Publishing, Universal Music Corporation, Nelstar Publishing, Sony ATV Tunes, Ole Virginia Beach Music, Danjahandz Muzik & RMM 416 Publishing. Used by permission. All rights reserved. \"\n\nDuration not printed on release.",
+ "released": "2019-04-12",
+ "styles": [
+  "House",
+  "Tech House"
+ ],
+ "title": "Only Human",
+ "tracklist": [
+  {
+   "duration": "7:59",
+   "position": "A",
+   "title": "Only Human",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13483432-KH-Only-Human",
+ "year": 2019
+}

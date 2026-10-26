@@ -1,0 +1,82 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5288955,
+   "join": "",
+   "name": "Anthony Fade",
+   "resource_url": "https://api.discogs.com/artists/5288955",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/bk1aLXhh6lH414dPCi2NIHz_FONV0VCt3uRHgWGdbVU/rs:fit/g:sm/q:90/h:481/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyODg5/NTUtMTQ4ODQzNDgw/Ni0zNjI4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "Limited Edition",
+    "White Label"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Hand Stamped"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11410470,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/P2uK_jwvynIdtJEg_DbNe6bFm_A07FrFNa1ODKjSr00/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDEw/NDcwLTE1MTU4NTQw/NTUtNTU1Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/P2uK_jwvynIdtJEg_DbNe6bFm_A07FrFNa1ODKjSr00/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDEw/NDcwLTE1MTU4NTQw/NTUtNTU1Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/qoCnyL6S_9xtX-4ajTM6r83czE3x_ScqkBlTnfN4hSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDEw/NDcwLTE1MTU4NTQw/NTUtNTU1Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SBEDITZ002",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1498417,
+   "name": "SlothBoogie Editz",
+   "resource_url": "https://api.discogs.com/labels/1498417",
+   "thumbnail_url": "https://i.discogs.com/AppyeF-gRQQx9LNPWAqtu07VQ2v3AAP0vp_wRynQgWA/rs:fit/g:sm/q:90/h:200/w:209/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0OTg0/MTctMTUzMjg3MjQ1/OC03ODQwLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Vinyl only - 300 x Hand Stamped White Label copies - 200 x Repress Label copies",
+ "released": "2018-01-00",
+ "styles": [
+  "House",
+  "Disco",
+  "Deep House"
+ ],
+ "title": "Auto Disco",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Higher",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Ymmf (Auto Disco Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "No Limit",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11410470-Anthony-Fade-Auto-Disco",
+ "year": 2018
+}

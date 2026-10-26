@@ -1,0 +1,486 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1597485,
+   "join": "",
+   "name": "Myd",
+   "resource_url": "https://api.discogs.com/artists/1597485",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/3BftKHOE6gtgMW6YrapWohpsXm3AJOUkoncL9rtQv-E/rs:fit/g:sm/q:90/h:600/w:397/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1OTc0/ODUtMTU5NTQyNTQx/Ny0xODE4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 18510643,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/Kzbpn7ULjgAcCIicFVl_7WvoZqMF6TFZxZ95yHTX1dY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEw/NjQzLTE2NDk1MzA2/MDUtNjE3Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Kzbpn7ULjgAcCIicFVl_7WvoZqMF6TFZxZ95yHTX1dY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEw/NjQzLTE2NDk1MzA2/MDUtNjE3Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/FJAxx9EwGm2GKsPMjyh5ETEcIDAuEsUEuQluaPpb54o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEw/NjQzLTE2NDk1MzA2/MDUtNjE3Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "EDLP2021-1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 19066,
+   "name": "Ed Banger Records",
+   "resource_url": "https://api.discogs.com/labels/19066",
+   "thumbnail_url": "https://i.discogs.com/ZIJtV-Fc7H03Z1Atc_JmDZbn1Jp7Oks35_nDxkjY7i0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5MDY2/LTE2NDgzNDM5NjYt/NjE0Ni5qcGVn.jpeg"
+  },
+  {
+   "catno": "BEC5676589",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 54379,
+   "name": "Because Music",
+   "resource_url": "https://api.discogs.com/labels/54379",
+   "thumbnail_url": "https://i.discogs.com/hCnQ7eINYuhslt-dC2Ub26qjZl4Y5QgXKDWslpAIL6E/rs:fit/g:sm/q:90/h:338/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU0Mzc5/LTE2MzE4NzIxOTMt/NDQ5Ny5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Spot-varnished sleeve\nⓅ & © 2021 Ed Banger Records\n\nBorn A Loser contains a sample of « Loser » written by Derrick Harriott\nRecorded at home in Paris\n\nMade in France by MPO",
+ "released": "2021-04-30",
+ "styles": [
+  "House"
+ ],
+ "title": "Born A Loser",
+ "tracklist": [
+  {
+   "duration": "4:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6072417,
+     "join": "",
+     "name": "Anouk Amati",
+     "resource_url": "https://api.discogs.com/artists/6072417",
+     "role": "Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1597485,
+     "join": "",
+     "name": "Myd",
+     "resource_url": "https://api.discogs.com/artists/1597485",
+     "role": "Choir",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "We Are The Light",
+   "type_": "track"
+  },
+  {
+   "duration": "3:07",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 694732,
+     "join": "",
+     "name": "Pierre Leroux",
+     "resource_url": "https://api.discogs.com/artists/694732",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 166504,
+     "join": "",
+     "name": "Irfane",
+     "resource_url": "https://api.discogs.com/artists/166504",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Let You Speak",
+   "type_": "track"
+  },
+  {
+   "duration": "3:31",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6072417,
+     "join": "",
+     "name": "Anouk Amati",
+     "resource_url": "https://api.discogs.com/artists/6072417",
+     "role": "Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1597485,
+     "join": "",
+     "name": "Myd",
+     "resource_url": "https://api.discogs.com/artists/1597485",
+     "role": "Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 69650,
+     "join": "",
+     "name": "David Wrench",
+     "resource_url": "https://api.discogs.com/artists/69650",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 166504,
+     "join": "",
+     "name": "Irfane",
+     "resource_url": "https://api.discogs.com/artists/166504",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Together We Stand",
+   "type_": "track"
+  },
+  {
+   "duration": "3:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 166283,
+     "join": "",
+     "name": "Derrick Harriott",
+     "resource_url": "https://api.discogs.com/artists/166283",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Born A Loser",
+   "type_": "track"
+  },
+  {
+   "duration": "1:17",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6514718,
+     "join": "",
+     "name": "Jerge",
+     "resource_url": "https://api.discogs.com/artists/6514718",
+     "role": "Composed By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "There's A Snake In My Boot!",
+   "type_": "track"
+  },
+  {
+   "duration": "3:29",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6514718,
+     "join": "",
+     "name": "Jerge",
+     "resource_url": "https://api.discogs.com/artists/6514718",
+     "role": "Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1597485,
+     "join": "",
+     "name": "Myd",
+     "resource_url": "https://api.discogs.com/artists/1597485",
+     "role": "Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6514718,
+     "join": "",
+     "name": "Jerge",
+     "resource_url": "https://api.discogs.com/artists/6514718",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 965302,
+     "join": "",
+     "name": "Kore (3)",
+     "resource_url": "https://api.discogs.com/artists/965302",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1750055,
+     "join": "",
+     "name": "Sam Tiba",
+     "resource_url": "https://api.discogs.com/artists/1750055",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6072417,
+     "join": "",
+     "name": "Anouk Amati",
+     "resource_url": "https://api.discogs.com/artists/6072417",
+     "role": "Written-By, Choir",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "The Sun",
+   "type_": "track"
+  },
+  {
+   "duration": "5:15",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6514718,
+     "join": "",
+     "name": "Jerge",
+     "resource_url": "https://api.discogs.com/artists/6514718",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3203197,
+     "join": "",
+     "name": "Juan Wauters",
+     "resource_url": "https://api.discogs.com/artists/3203197",
+     "role": "Featuring, Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Whether The Weather",
+   "type_": "track"
+  },
+  {
+   "duration": "1:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6514718,
+     "join": "",
+     "name": "Jerge",
+     "resource_url": "https://api.discogs.com/artists/6514718",
+     "role": "Composed By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Always A Light",
+   "type_": "track"
+  },
+  {
+   "duration": "2:46",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6514718,
+     "join": "",
+     "name": "Jerge",
+     "resource_url": "https://api.discogs.com/artists/6514718",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1079605,
+     "join": "",
+     "name": "Will Simms",
+     "resource_url": "https://api.discogs.com/artists/1079605",
+     "role": "Composed By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Call Me",
+   "type_": "track"
+  },
+  {
+   "duration": "2:48",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6072417,
+     "join": "",
+     "name": "Anouk Amati",
+     "resource_url": "https://api.discogs.com/artists/6072417",
+     "role": "Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1597485,
+     "join": "",
+     "name": "Myd",
+     "resource_url": "https://api.discogs.com/artists/1597485",
+     "role": "Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6514718,
+     "join": "",
+     "name": "Jerge",
+     "resource_url": "https://api.discogs.com/artists/6514718",
+     "role": "Composed By, Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2568722,
+     "join": "",
+     "name": "Mac Demarco",
+     "resource_url": "https://api.discogs.com/artists/2568722",
+     "role": "Featuring, Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9296311,
+     "join": "",
+     "name": "Frank Lepoutre",
+     "resource_url": "https://api.discogs.com/artists/9296311",
+     "role": "Synth",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Moving Men",
+   "type_": "track"
+  },
+  {
+   "duration": "3:17",
+   "position": "C4",
+   "title": "It's About You",
+   "type_": "track"
+  },
+  {
+   "duration": "5:12",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6072417,
+     "join": "",
+     "name": "Anouk Amati",
+     "resource_url": "https://api.discogs.com/artists/6072417",
+     "role": "Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1597485,
+     "join": "",
+     "name": "Myd",
+     "resource_url": "https://api.discogs.com/artists/1597485",
+     "role": "Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 694732,
+     "join": "",
+     "name": "Pierre Leroux",
+     "resource_url": "https://api.discogs.com/artists/694732",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 166504,
+     "join": "",
+     "name": "Irfane",
+     "resource_url": "https://api.discogs.com/artists/166504",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "I Feel Better (I Got Something)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:27",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 95704,
+     "join": "",
+     "name": "Kenneth Gamble",
+     "resource_url": "https://api.discogs.com/artists/95704",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 95705,
+     "join": "",
+     "name": "Leon Huff",
+     "resource_url": "https://api.discogs.com/artists/95705",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Now That We Found Love",
+   "type_": "track"
+  },
+  {
+   "duration": "6:31",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6514718,
+     "join": "",
+     "name": "Jerge",
+     "resource_url": "https://api.discogs.com/artists/6514718",
+     "role": "Composed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6123968,
+     "join": "",
+     "name": "Bakar (2)",
+     "resource_url": "https://api.discogs.com/artists/6123968",
+     "role": "Featuring, Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "We Found It",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/18510643-Myd-Born-A-Loser",
+ "year": 2021
+}

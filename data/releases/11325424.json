@@ -1,0 +1,181 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Sweden",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "Compilation"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11325424,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/3oLs5rzmMn2sfXO5qc7VOy5wF2hB4guA5k-lUa8gVuI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI1/NDI0LTE1MTQyODIw/NzUtNzQ1Mi5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/3oLs5rzmMn2sfXO5qc7VOy5wF2hB4guA5k-lUa8gVuI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI1/NDI0LTE1MTQyODIw/NzUtNzQ1Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/79eBrHOPomt4cPphu68apgQInC3435aZnX8S9Nuniow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI1/NDI0LTE1MTQyODIw/NzUtNzQ1Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DC178.3",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 237,
+   "name": "Drumcode",
+   "resource_url": "https://api.discogs.com/labels/237",
+   "thumbnail_url": "https://i.discogs.com/1rrViQveJmRumM48FWYOYNsJD3-iahuaYprtxJgsAQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNy0x/NjkyOTkxNjY2LTg2/NjgucG5n.jpeg"
+  }
+ ],
+ "notes": "Pressing & Distribution by primedirectdist.co.uk.\n\nThe pressing plant is derived from the typical inner-rings stamped on the labels.",
+ "released": "2017-12-00",
+ "styles": [
+  "Techno"
+ ],
+ "title": "A-sides Vol.6 - Vinyl Three Of Four",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 337829,
+     "join": "",
+     "name": "Wehbba",
+     "resource_url": "https://api.discogs.com/artists/337829",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Rodolfo Abrao Wehbba",
+     "id": 337829,
+     "join": "",
+     "name": "Wehbba",
+     "resource_url": "https://api.discogs.com/artists/337829",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Fake  ",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 288913,
+     "join": "",
+     "name": "Tiger Stripes",
+     "resource_url": "https://api.discogs.com/artists/288913",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "M.Nordgren",
+     "id": 144328,
+     "join": "",
+     "name": "Mikael Nordgren",
+     "resource_url": "https://api.discogs.com/artists/144328",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Destroyer  ",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1607366,
+     "join": "",
+     "name": "Mars Bill",
+     "resource_url": "https://api.discogs.com/artists/1607366",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3444995,
+     "join": "",
+     "name": "Mariano Sibilia",
+     "resource_url": "https://api.discogs.com/artists/3444995",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Mohave  ",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 392358,
+     "join": "",
+     "name": "Spektre",
+     "resource_url": "https://api.discogs.com/artists/392358",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 49155,
+     "join": "",
+     "name": "Paul Maddox",
+     "resource_url": "https://api.discogs.com/artists/49155",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 510331,
+     "join": "",
+     "name": "Richard Wakley",
+     "resource_url": "https://api.discogs.com/artists/510331",
+     "role": "Written-By, Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Nasqueron",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11325424-Various-A-sides-Vol6-Vinyl-Three-Of-Four",
+ "year": 2017
+}

@@ -1,0 +1,74 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 422841,
+   "join": "",
+   "name": "James Welsh",
+   "resource_url": "https://api.discogs.com/artists/422841",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/GAz0UUSnB_HNaUnL0_mrH0QPrroDRmvNlkUgVPJomIQ/rs:fit/g:sm/q:90/h:312/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQyMjg0/MS0xMzY0NzcxNjc4/LTQxNzkuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "White Label"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Hand stamped"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12540044,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/VOHkfA8yU7hR0QReD8L3CsUqMo2sq9nQ9NzaLJMMwak/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQw/MDQ0LTE1Mzc2MDkx/NzItMTI3NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/VOHkfA8yU7hR0QReD8L3CsUqMo2sq9nQ9NzaLJMMwak/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQw/MDQ0LTE1Mzc2MDkx/NzItMTI3NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/MbTPzqgBKcFmESVGkkJA-o3pSN2vdFdVkqciJIY6cV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQw/MDQ0LTE1Mzc2MDkx/NzItMTI3NC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "PH71",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 94402,
+   "name": "Phantasy Sound",
+   "resource_url": "https://api.discogs.com/labels/94402",
+   "thumbnail_url": "https://i.discogs.com/Yl0O0DGfaIrgENd4gFIXZmngXiMznMrvFA6tw5_U6YQ/rs:fit/g:sm/q:90/h:221/w:221/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk0NDAy/LTEzNDMyMzk2MjYt/MTE2MS5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Stamped white label.",
+ "released": "2018-09-21",
+ "styles": [
+  "Techno",
+  "Acid"
+ ],
+ "title": "Zurich/A65",
+ "tracklist": [
+  {
+   "duration": "6:55",
+   "position": "A",
+   "title": "Zurich",
+   "type_": "track"
+  },
+  {
+   "duration": "6:54",
+   "position": "B",
+   "title": "A65",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12540044-James-Welsh-ZurichA65",
+ "year": 2018
+}

@@ -1,0 +1,121 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1609030,
+   "join": "",
+   "name": "Band Of Skulls",
+   "resource_url": "https://api.discogs.com/artists/1609030",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/oAJIrNzwN4HzmQRCTj4J2FfDz4FgdrzfI30t_wHOSno/rs:fit/g:sm/q:90/h:359/w:359/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2MDkw/MzAtMTI1ODEyMTE0/Ni5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Rock"
+ ],
+ "id": 13496053,
+ "images": [
+  {
+   "height": 591,
+   "resource_url": "https://i.discogs.com/bZb7ItS7tf-lM1ODgaCfoaEVo_Js9GZjQ9MW2RAz7do/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDk2/MDUzLTE1NTUyODE0/MjQtNjY0Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/bZb7ItS7tf-lM1ODgaCfoaEVo_Js9GZjQ9MW2RAz7do/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDk2/MDUzLTE1NTUyODE0/MjQtNjY0Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/AV4Hh9biOBIL_H_q2ctn7MfO5-Io3w543O9H83oCNeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDk2/MDUzLTE1NTUyODE0/MjQtNjY0Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SOAKLP182",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 487557,
+   "name": "So Recordings",
+   "resource_url": "https://api.discogs.com/labels/487557",
+   "thumbnail_url": "https://i.discogs.com/ekpMFCWglnHYF5N2bJxWlGYUiXzMVxqFJ_lAaly961I/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ4NzU1/Ny0xNDA2NjQyODgz/LTE2OTkuanBlZw.jpeg"
+  }
+ ],
+ "notes": "Recorded at The Toyshop, Miloco Studios, London and The Smoakstack, Nashville, TN. \n\nRichard X publishing: Kobalt Music Services. \n\nArtwork designed by Guy Stauber at Shogun Graphic Systems and Band of Skulls.\n\n℗ + © 2019 So Recordings / Silva Screen Records Limited. Made in the E.U.\n\nPublished by Sony/ATV \n\nSo Recordings:\nExecutive Producers for So Recordings: Reynold D'Silva and Adam Greenup\nLabel Manager: Adam Greenup. Digital Manager: James Borrer\nPackaging and Design: Stuart Ford. Release Coordination: Saira Khan.",
+ "released": "2019-04-12",
+ "styles": [
+  "Alternative Rock",
+  "Pop Rock"
+ ],
+ "title": "Love Is All You Love",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Carnivorous",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "That's My Trouble",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Love Is All You Love",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Not The Kind Of Nothing I Know",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "Cool Your Battles",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Sound Of You",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Thanks A Lot",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "We're Alive",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Speed Of Light",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "Gold",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13496053-Band-Of-Skulls-Love-Is-All-You-Love",
+ "year": 2019
+}

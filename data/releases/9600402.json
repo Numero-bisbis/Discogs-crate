@@ -1,0 +1,86 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2757000,
+   "join": "",
+   "name": "Hade (4)",
+   "resource_url": "https://api.discogs.com/artists/2757000",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/EN9OWqklK9oQq5isgggW6-MO67v3Nn_zS1rloJNmBKg/rs:fit/g:sm/q:90/h:600/w:388/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3NTcw/MDAtMTQ1NDU0MjQ2/Ny0xNDM2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\""
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Hip Hop"
+ ],
+ "id": 9600402,
+ "images": [
+  {
+   "height": 577,
+   "resource_url": "https://i.discogs.com/M8fDIuBxPwuiM4yFJpAAEXIzFO22DuZV1qxYHFJVRQw/rs:fit/g:sm/q:90/h:577/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDA0/MDItMTUwNDI3MDQ0/Ny04MzM3LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/M8fDIuBxPwuiM4yFJpAAEXIzFO22DuZV1qxYHFJVRQw/rs:fit/g:sm/q:90/h:577/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDA0/MDItMTUwNDI3MDQ0/Ny04MzM3LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/Hd6ccRLqSGrxeu1rdDSoayFWyD3AN5oG0q3g_xPxsSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDA0/MDItMTUwNDI3MDQ0/Ny04MzM3LmpwZWc.jpeg",
+   "width": 563
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RNT023",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3164471,
+   "name": "Razor-N-Tape",
+   "resource_url": "https://api.discogs.com/labels/3164471",
+   "thumbnail_url": "https://i.discogs.com/f-wlf6geO4UdrroOqUDKawckRUUPz7FhLCXawWRX-Lw/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNjQ0/NzEtMTY3ODM3Njg2/NS0yNjQ3LnBuZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2017",
+ "styles": [
+  "Disco",
+  "Nu-Disco",
+  "Instrumental"
+ ],
+ "title": "Hade Edits",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Say What U Wanna Say",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Jeep Cherokee XJ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "My Thang",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Range Rover HSE",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/9600402-Hade-4-Hade-Edits",
+ "year": 2017
+}

@@ -1,0 +1,149 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1967268,
+   "join": "",
+   "name": "Tyler, The Creator",
+   "resource_url": "https://api.discogs.com/artists/1967268",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-wyQjw_vvgKo4DAiU82_JbPZt-Do6F-RGT4dZ6jiavQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5Njcy/NjgtMTMwNTA5NjIy/OC5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Hip Hop",
+  "Funk / Soul"
+ ],
+ "id": 23375357,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/al72SmWc59grmiq9lxLsOfgRzCa9DH4UZ4ejf78cCSI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzc1/MzU3LTE2NTM2NzE5/MTAtMzY5My5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/al72SmWc59grmiq9lxLsOfgRzCa9DH4UZ4ejf78cCSI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzc1/MzU3LTE2NTM2NzE5/MTAtMzY5My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Cq3eQVUnQUaclIYZUrFkllWJGdITvc0ZetbqKIQr10U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzc1/MzU3LTE2NTM2NzE5/MTAtMzY5My5qcGVn.jpeg",
+   "width": 596
+  }
+ ],
+ "labels": [
+  {
+   "catno": "88985469051",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1866,
+   "name": "Columbia",
+   "resource_url": "https://api.discogs.com/labels/1866",
+   "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+  }
+ ],
+ "notes": "© & © 2017 Columbia Records\n\nMade in EU. on back sleeve which is not on the other release [r11195697]\nGraphic is different then the EU. release [r11316793]",
+ "released": "2017",
+ "styles": [
+  "Jazzy Hip-Hop",
+  "Pop Rap",
+  "Neo Soul"
+ ],
+ "title": "Scum Fuck Flower Boy",
+ "tracklist": [
+  {
+   "duration": "3:13",
+   "position": "A1",
+   "title": "Foreword",
+   "type_": "track"
+  },
+  {
+   "duration": "3:14",
+   "position": "A2",
+   "title": "Where This Flower Blooms",
+   "type_": "track"
+  },
+  {
+   "duration": "0:36",
+   "position": "A3",
+   "title": "Sometimes...",
+   "type_": "track"
+  },
+  {
+   "duration": "3:00",
+   "position": "A4",
+   "title": "See You Again",
+   "type_": "track"
+  },
+  {
+   "duration": "3:24",
+   "position": "B1",
+   "title": "Who Dat Boy",
+   "type_": "track"
+  },
+  {
+   "duration": "3:56",
+   "position": "B2",
+   "title": "Pothole",
+   "type_": "track"
+  },
+  {
+   "duration": "3:43",
+   "position": "B3",
+   "title": "Garden Shed",
+   "type_": "track"
+  },
+  {
+   "duration": "5:20",
+   "position": "C1",
+   "title": "Boredom",
+   "type_": "track"
+  },
+  {
+   "duration": "3:26",
+   "position": "C2",
+   "title": "I Ain't Got Time!",
+   "type_": "track"
+  },
+  {
+   "duration": "4:15",
+   "position": "C3",
+   "title": "911 / Mr. Lonely",
+   "type_": "track"
+  },
+  {
+   "duration": "1:00",
+   "position": "D1",
+   "title": "Droppin' Seeds",
+   "type_": "track"
+  },
+  {
+   "duration": "3:45",
+   "position": "D2",
+   "title": "November",
+   "type_": "track"
+  },
+  {
+   "duration": "3:44",
+   "position": "D3",
+   "title": "Glitter",
+   "type_": "track"
+  },
+  {
+   "duration": "3:55",
+   "position": "D4",
+   "title": "Enjoy Right Now, Today",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/23375357-TylerCreator-Scum-Fuck-Flower-Boy",
+ "year": 2017
+}

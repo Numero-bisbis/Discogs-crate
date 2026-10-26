@@ -1,0 +1,86 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3587575,
+   "join": "",
+   "name": "Misiu (3)",
+   "resource_url": "https://api.discogs.com/artists/3587575",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/80LYUp-UbvqFCMEJBY2j1lNv2nab-0tEI7xYqrSeHSg/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1ODc1/NzUtMTU0NzgxMDA4/OC03MTgwLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 8628680,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/5kW9PuyQGMUg9a53PK0Y9eiAuHMlp7JBxJjA0uRqrUI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjg2/ODAtMTYyNzAwMjU4/OS00Mzk3LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/5kW9PuyQGMUg9a53PK0Y9eiAuHMlp7JBxJjA0uRqrUI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjg2/ODAtMTYyNzAwMjU4/OS00Mzk3LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/FDq0KRLfTpEU3YsGQ5nKpmnuvHugV2P386yiP_xjGpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjg2/ODAtMTYyNzAwMjU4/OS00Mzk3LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RNT017",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3164471,
+   "name": "Razor-N-Tape",
+   "resource_url": "https://api.discogs.com/labels/3164471",
+   "thumbnail_url": "https://i.discogs.com/f-wlf6geO4UdrroOqUDKawckRUUPz7FhLCXawWRX-Lw/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNjQ0/NzEtMTY3ODM3Njg2/NS0yNjQ3LnBuZw.jpeg"
+  }
+ ],
+ "notes": "A1 is an edit of \"[m=257529]\" by [a20956].",
+ "released": "2016-06-08",
+ "styles": [
+  "Disco",
+  "Nu-Disco",
+  "Acid House"
+ ],
+ "title": "Misiu Edits",
+ "tracklist": [
+  {
+   "duration": "6:36",
+   "position": "A1",
+   "title": "Loose Change",
+   "type_": "track"
+  },
+  {
+   "duration": "5:47",
+   "position": "A2",
+   "title": "All A Dream",
+   "type_": "track"
+  },
+  {
+   "duration": "5:58",
+   "position": "B1",
+   "title": "Roll The Dice",
+   "type_": "track"
+  },
+  {
+   "duration": "5:48",
+   "position": "B2",
+   "title": "Black Magic",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/8628680-Misiu-3-Misiu-Edits",
+ "year": 2016
+}

@@ -1,0 +1,91 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6250489,
+   "join": "",
+   "name": "Bellaire",
+   "resource_url": "https://api.discogs.com/artists/6250489",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/haAAVfMskf4wFLM48hRQXJFSXnB5KP_GkK25hHdoIKM/rs:fit/g:sm/q:90/h:491/w:492/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYyNTA0/ODktMTYwNTAzMzQx/NS04MzE2LnBuZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11454190,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/gwxQa59c3zUEKW39yDXGuhDX-UziUGR_IdxF4jyoA8Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU0/MTkwLTE1MTY2MDc4/ODMtMjI1Ni5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/gwxQa59c3zUEKW39yDXGuhDX-UziUGR_IdxF4jyoA8Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU0/MTkwLTE1MTY2MDc4/ODMtMjI1Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/m5nEWKhQ-X27yW9PaKIcj7z2KY81-FA1zM0I4-RvbBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU0/MTkwLTE1MTY2MDc4/ODMtMjI1Ni5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "AOC-01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1406874,
+   "name": "AOC Records (2)",
+   "resource_url": "https://api.discogs.com/labels/1406874",
+   "thumbnail_url": "https://i.discogs.com/JoX76a_cViTGtjCMKlkYxI_wdstEyYNxo_cButVV2dY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0MDY4/NzQtMTY5MzkwOTU3/MS04NDI3LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Made in France",
+ "released": "2018-01-19",
+ "styles": [
+  "House",
+  "Deep House"
+ ],
+ "title": "Paris City Jazz",
+ "tracklist": [
+  {
+   "duration": "5:43",
+   "position": "A1",
+   "title": "Paris City Jazz",
+   "type_": "track"
+  },
+  {
+   "duration": "5:25",
+   "position": "A2",
+   "title": "Jazzy Things",
+   "type_": "track"
+  },
+  {
+   "duration": "5:41",
+   "position": "B1",
+   "title": "Street Blues",
+   "type_": "track"
+  },
+  {
+   "duration": "5:41",
+   "position": "B2",
+   "title": "Some Jazz To Make Love On",
+   "type_": "track"
+  },
+  {
+   "duration": "6:09",
+   "position": "B3",
+   "title": "Get Down",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11454190-Bellaire-Paris-City-Jazz",
+ "year": 2018
+}

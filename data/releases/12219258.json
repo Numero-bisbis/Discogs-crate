@@ -1,0 +1,117 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 486060,
+   "join": "",
+   "name": "Lola Flores",
+   "resource_url": "https://api.discogs.com/artists/486060",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/GRP8ts5sxbowI0lqlIT9wt5nwXH-mhNW5eOuT-Rf3H0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4NjA2/MC0xNzc2MzQ1MDI4/LTYyOTguanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Venezuela",
+ "formats": [
+  {
+   "descriptions": [
+    "LP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Latin"
+ ],
+ "id": 12219258,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/gBG_6Z45HO8Wm3m0PCo8gEcwjAuxziD2JZ8g22_6PGI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjE5/MjU4LTE2MTE1MDcw/MDYtMzI0MC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/gBG_6Z45HO8Wm3m0PCo8gEcwjAuxziD2JZ8g22_6PGI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjE5/MjU4LTE2MTE1MDcw/MDYtMzI0MC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/38Sxso4CdhNb7OFdO5bpwDssaAq_mXNdZoIT_14h-8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjE5/MjU4LTE2MTE1MDcw/MDYtMzI0MC5qcGVn.jpeg",
+   "width": 598
+  }
+ ],
+ "labels": [
+  {
+   "catno": "al-6",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 122433,
+   "name": "Alhambra (2)",
+   "resource_url": "https://api.discogs.com/labels/122433",
+   "thumbnail_url": "https://i.discogs.com/hZi-L9mQRtGk_YFpeOdhBzdFUNGyOKJORK6FDIlJfig/rs:fit/g:sm/q:90/h:247/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMjQz/My0xNDg0MTk0ODQw/LTU4NzkuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": null,
+ "styles": [],
+ "title": "Lola Flores",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "La Zarzamora",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Lerele",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Dice Don Quijote",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Dale a la Barrena",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "Las Cositas del Querer",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "A Tu Vera",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Dide Dónde Vas",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Rosa Candelaria",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Ay Gitano Tano",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "Cuna Cañí",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12219258-Lola-Flores-Lola-Flores",
+ "year": 0
+}

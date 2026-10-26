@@ -1,0 +1,737 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 48860,
+   "join": "/",
+   "name": "Craig Mack",
+   "resource_url": "https://api.discogs.com/artists/48860",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/otr-8EEFY6ewEEzQQArszQav9FE2KnIKGLFAnlBbD3U/rs:fit/g:sm/q:90/h:600/w:506/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4ODYw/LTE3MzI4NzYwOTgt/NTI2NC5qcGVn.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "The Notorious B.I.G.",
+   "id": 65049,
+   "join": "",
+   "name": "Notorious B.I.G.",
+   "resource_url": "https://api.discogs.com/artists/65049",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/jwMwWsYQMRXEtPETPFqfOCm0o8bKX33Btk9pQwxpWco/rs:fit/g:sm/q:90/h:455/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY1MDQ5/LTE2OTc4NzczMzEt/MjY5NS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "USA & Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "Record Store Day",
+    "Limited Edition",
+    "Reissue"
+   ],
+   "name": "All Media",
+   "qty": "1"
+  },
+  {
+   "descriptions": [
+    "LP",
+    "Sampler"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  },
+  {
+   "descriptions": [
+    "Sampler"
+   ],
+   "name": "Cassette",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 13485907,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/rmEwZqKwL7i967kiZSxfQlWPEIqM5mIQo-51qQtb_5o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg1/OTA3LTE2MjU5NTE4/MTUtMjEzOC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/rmEwZqKwL7i967kiZSxfQlWPEIqM5mIQo-51qQtb_5o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg1/OTA3LTE2MjU5NTE4/MTUtMjEzOC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/U_co1XA6XWzAEsKCide7Stl7fyeU__-CBDFyP6vFWSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg1/OTA3LTE2MjU5NTE4/MTUtMjEzOC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "R1 585649",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 13090,
+   "name": "Bad Boy Entertainment",
+   "resource_url": "https://api.discogs.com/labels/13090",
+   "thumbnail_url": "https://i.discogs.com/pj9h1emr379xCImCte2Rypa3HRkqonRYkjyaxWGn-v4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMDkw/LTE0OTgwNzA5MjIt/MzczNC5wbmc.jpeg"
+  },
+  {
+   "catno": "603497853496",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 13090,
+   "name": "Bad Boy Entertainment",
+   "resource_url": "https://api.discogs.com/labels/13090",
+   "thumbnail_url": "https://i.discogs.com/pj9h1emr379xCImCte2Rypa3HRkqonRYkjyaxWGn-v4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMDkw/LTE0OTgwNzA5MjIt/MzczNC5wbmc.jpeg"
+  }
+ ],
+ "notes": "RSD-exclusive\"release, limited to 8,000 copies.\n\nThe original 1994 pressing has several uncleared samples that were removed prior to being officially released. This reissue does not contain the tracks with uncleared samples.\n\nThe original cassette was given out as part of the \"B.I.G. MACK\" promo package from Bad Boy Entertainment in 1994.",
+ "released": "2019-04-13",
+ "styles": [
+  "Hardcore Hip-Hop"
+ ],
+ "title": "B.I.G. Mack",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 48860,
+     "join": "",
+     "name": "Craig Mack",
+     "resource_url": "https://api.discogs.com/artists/48860",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "LP-A1",
+   "title": "Project: Funk Da World",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 48860,
+     "join": "",
+     "name": "Craig Mack",
+     "resource_url": "https://api.discogs.com/artists/48860",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "LP-A2",
+   "title": "Flava In Ya Ear",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 48860,
+     "join": "",
+     "name": "Craig Mack",
+     "resource_url": "https://api.discogs.com/artists/48860",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "LP-A3",
+   "title": "Real Raw",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 48860,
+     "join": "",
+     "name": "Craig Mack",
+     "resource_url": "https://api.discogs.com/artists/48860",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "LP-A4",
+   "title": "Mainline",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 48860,
+     "join": "",
+     "name": "Craig Mack",
+     "resource_url": "https://api.discogs.com/artists/48860",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "LP-A5",
+   "title": "Like D'at Y'all",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 48860,
+     "join": "",
+     "name": "Craig Mack",
+     "resource_url": "https://api.discogs.com/artists/48860",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "LP-A6",
+   "title": "Shinika",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "The Notorious B.I.G.",
+     "id": 65049,
+     "join": "",
+     "name": "Notorious B.I.G.",
+     "resource_url": "https://api.discogs.com/artists/65049",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "LP-B1",
+   "title": "Intro",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "The Notorious B.I.G.",
+     "id": 65049,
+     "join": "",
+     "name": "Notorious B.I.G.",
+     "resource_url": "https://api.discogs.com/artists/65049",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 51087,
+     "join": "",
+     "name": "Total",
+     "resource_url": "https://api.discogs.com/artists/51087",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "LP-B2",
+   "title": "Juicy",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "The Notorious B.I.G.",
+     "id": 65049,
+     "join": "",
+     "name": "Notorious B.I.G.",
+     "resource_url": "https://api.discogs.com/artists/65049",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 182624,
+     "join": "",
+     "name": "Darnell Scott",
+     "resource_url": "https://api.discogs.com/artists/182624",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "LP-B3",
+   "title": "Things Done Changed",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "The Notorious B.I.G.",
+     "id": 65049,
+     "join": "",
+     "name": "Notorious B.I.G.",
+     "resource_url": "https://api.discogs.com/artists/65049",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "LP-B4",
+   "title": "Ready To Die",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "The Notorious B.I.G.",
+     "id": 65049,
+     "join": "",
+     "name": "Notorious B.I.G.",
+     "resource_url": "https://api.discogs.com/artists/65049",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 17587,
+     "join": "",
+     "name": "Method Man",
+     "resource_url": "https://api.discogs.com/artists/17587",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "LP-B5",
+   "title": "The What",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "The Notorious B.I.G.",
+     "id": 65049,
+     "join": "",
+     "name": "Notorious B.I.G.",
+     "resource_url": "https://api.discogs.com/artists/65049",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 262403,
+     "join": "",
+     "name": "Carl Thompson",
+     "resource_url": "https://api.discogs.com/artists/262403",
+     "role": "Instruments",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 130949,
+     "join": "",
+     "name": "Rich Travali",
+     "resource_url": "https://api.discogs.com/artists/130949",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 249438,
+     "join": "",
+     "name": "John Wydrycs",
+     "resource_url": "https://api.discogs.com/artists/249438",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 406907,
+     "join": "",
+     "name": "Sybil Pennix",
+     "resource_url": "https://api.discogs.com/artists/406907",
+     "role": "Voice [Woman's Voice]",
+     "tracks": ""
+    }
+   ],
+   "position": "LP-B6",
+   "title": "Me And My Bitch",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "The Notorious B.I.G.",
+     "id": 65049,
+     "join": "",
+     "name": "Notorious B.I.G.",
+     "resource_url": "https://api.discogs.com/artists/65049",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 168213,
+     "join": "",
+     "name": "Eddie Sancho",
+     "resource_url": "https://api.discogs.com/artists/168213",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21151,
+     "join": "",
+     "name": "DJ Premier",
+     "resource_url": "https://api.discogs.com/artists/21151",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 8535,
+     "join": "",
+     "name": "Norty Cotto",
+     "resource_url": "https://api.discogs.com/artists/8535",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "LP-B7",
+   "title": "Unbelievable",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 48860,
+     "join": "",
+     "name": "Craig Mack",
+     "resource_url": "https://api.discogs.com/artists/48860",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "Cassette-A1",
+   "title": "Project: Funk Da World",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 48860,
+     "join": "",
+     "name": "Craig Mack",
+     "resource_url": "https://api.discogs.com/artists/48860",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "Cassette-A2",
+   "title": "Flava In Ya Ear",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 48860,
+     "join": "",
+     "name": "Craig Mack",
+     "resource_url": "https://api.discogs.com/artists/48860",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "Cassette-A3",
+   "title": "Real Raw",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 48860,
+     "join": "",
+     "name": "Craig Mack",
+     "resource_url": "https://api.discogs.com/artists/48860",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "Cassette-A4",
+   "title": "Mainline",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 48860,
+     "join": "",
+     "name": "Craig Mack",
+     "resource_url": "https://api.discogs.com/artists/48860",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "Cassette-A5",
+   "title": "Like D'at Y'all",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 48860,
+     "join": "",
+     "name": "Craig Mack",
+     "resource_url": "https://api.discogs.com/artists/48860",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "Cassette-A6",
+   "title": "Shinika",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "The Notorious B.I.G.",
+     "id": 65049,
+     "join": "",
+     "name": "Notorious B.I.G.",
+     "resource_url": "https://api.discogs.com/artists/65049",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "Cassette-B1",
+   "title": "Intro",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "The Notorious B.I.G.",
+     "id": 65049,
+     "join": "",
+     "name": "Notorious B.I.G.",
+     "resource_url": "https://api.discogs.com/artists/65049",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 51087,
+     "join": "",
+     "name": "Total",
+     "resource_url": "https://api.discogs.com/artists/51087",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "Cassette-B2",
+   "title": "Juicy",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "The Notorious B.I.G.",
+     "id": 65049,
+     "join": "",
+     "name": "Notorious B.I.G.",
+     "resource_url": "https://api.discogs.com/artists/65049",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 182624,
+     "join": "",
+     "name": "Darnell Scott",
+     "resource_url": "https://api.discogs.com/artists/182624",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "Cassette-B3",
+   "title": "Things Done Changed",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "The Notorious B.I.G.",
+     "id": 65049,
+     "join": "",
+     "name": "Notorious B.I.G.",
+     "resource_url": "https://api.discogs.com/artists/65049",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "Cassette-B4",
+   "title": "Ready To Die",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "The Notorious B.I.G.",
+     "id": 65049,
+     "join": "",
+     "name": "Notorious B.I.G.",
+     "resource_url": "https://api.discogs.com/artists/65049",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 17587,
+     "join": "",
+     "name": "Method Man",
+     "resource_url": "https://api.discogs.com/artists/17587",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "Cassette-B5",
+   "title": "The What",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "The Notorious B.I.G.",
+     "id": 65049,
+     "join": "",
+     "name": "Notorious B.I.G.",
+     "resource_url": "https://api.discogs.com/artists/65049",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 262403,
+     "join": "",
+     "name": "Carl Thompson",
+     "resource_url": "https://api.discogs.com/artists/262403",
+     "role": "Instruments",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 130949,
+     "join": "",
+     "name": "Rich Travali",
+     "resource_url": "https://api.discogs.com/artists/130949",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 249438,
+     "join": "",
+     "name": "John Wydrycs",
+     "resource_url": "https://api.discogs.com/artists/249438",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 406907,
+     "join": "",
+     "name": "Sybil Pennix",
+     "resource_url": "https://api.discogs.com/artists/406907",
+     "role": "Voice [Woman's Voice]",
+     "tracks": ""
+    }
+   ],
+   "position": "Cassette-B6",
+   "title": "Me And My Bitch",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "The Notorious B.I.G.",
+     "id": 65049,
+     "join": "",
+     "name": "Notorious B.I.G.",
+     "resource_url": "https://api.discogs.com/artists/65049",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 168213,
+     "join": "",
+     "name": "Eddie Sancho",
+     "resource_url": "https://api.discogs.com/artists/168213",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21151,
+     "join": "",
+     "name": "DJ Premier",
+     "resource_url": "https://api.discogs.com/artists/21151",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 8535,
+     "join": "",
+     "name": "Norty Cotto",
+     "resource_url": "https://api.discogs.com/artists/8535",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "Cassette-B7",
+   "title": "Unbelievable",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13485907-Craig-Mack-The-Notorious-BIG-BIG-Mack",
+ "year": 2019
+}

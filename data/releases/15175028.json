@@ -1,0 +1,85 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6864241,
+   "join": "",
+   "name": "Julian Muller (2)",
+   "resource_url": "https://api.discogs.com/artists/6864241",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/MA4reA2Mxv-BcUJAz7C2gp56kn8G9A_S9RjNyVIrtZw/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY4NjQy/NDEtMTYwMDgwODQ5/Mi0xNzg4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 15175028,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/UzMeK3IOMxEExezn4huCQTwDxiyH4cEst4ZamZi0PbA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc1/MDI4LTE1ODc4Mjcy/ODQtNDYxMy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/UzMeK3IOMxEExezn4huCQTwDxiyH4cEst4ZamZi0PbA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc1/MDI4LTE1ODc4Mjcy/ODQtNDYxMy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/gOPp5fmaw2q7iGnYbO1nOgrY0BriYnuCQ3hininijLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc1/MDI4LTE1ODc4Mjcy/ODQtNDYxMy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "LT067",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 591234,
+   "name": "Lobster Theremin",
+   "resource_url": "https://api.discogs.com/labels/591234",
+   "thumbnail_url": "https://i.discogs.com/Y5C_xLWPVwX4rIt_HV_lAuY6i-dkFi83gRrqNv2sPZg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU5MTIz/NC0xMzgxNzc5NTAy/LTM3NjcuanBlZw.jpeg"
+  }
+ ],
+ "notes": "Mastered at TenEightSeven - Pressed with Trance at MPO",
+ "released": "2020-04-24",
+ "styles": [
+  "Techno",
+  "Trance"
+ ],
+ "title": "Prosperity On Mars EP ",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Prosperity On Mars",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Sidonia",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Aurora's Night",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Reality",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15175028-Julian-Muller-2-Prosperity-On-Mars-EP-",
+ "year": 2020
+}

@@ -1,0 +1,74 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 681230,
+   "join": "",
+   "name": "Aroop Roy",
+   "resource_url": "https://api.discogs.com/artists/681230",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/W6Sbx3nD6sacgcIXXNe3qwXkQMMbllM-RxGSqeD6-Xs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY4MTIz/MC0xNzA4MDY3NjUx/LTc0ODYuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "Limited Edition",
+    "White Label"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Hand-Stamped"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13116493,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/-Ggy438CCBKTI3Rx3LMSi2k3vg8u01y2acl35mpcDBM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE2/NDkzLTE1NDgzNDUw/MzgtNjY5Ni5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/-Ggy438CCBKTI3Rx3LMSi2k3vg8u01y2acl35mpcDBM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE2/NDkzLTE1NDgzNDUw/MzgtNjY5Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/d14HfGrq9reKu104wzzSGjJng71skx8IsUg84Yro5AU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE2/NDkzLTE1NDgzNDUw/MzgtNjY5Ni5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "STAMP010",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 707300,
+   "name": "Stamp Records (7)",
+   "resource_url": "https://api.discogs.com/labels/707300"
+  }
+ ],
+ "notes": null,
+ "released": "2019-01-00",
+ "styles": [
+  "Disco",
+  "Nu-Disco"
+ ],
+ "title": "Valentine's Park / Scuse Me George",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Valentine's Park ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Scuse Me George",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13116493-Aroop-Roy-Valentines-Park-Scuse-Me-George",
+ "year": 2019
+}

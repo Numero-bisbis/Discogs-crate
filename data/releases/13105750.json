@@ -1,0 +1,87 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1749060,
+   "join": "",
+   "name": "Krystal Klear",
+   "resource_url": "https://api.discogs.com/artists/1749060",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/mMsQ18BS6fZerqgzVe4XlJB1e7ZviDqQ77MVJ9hRjeA/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE3NDkw/NjAtMTcxNjUzODI0/OS0xNDgwLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "Repress"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Black Sleeve"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13105750,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/u-wCL9nuUZ-tqLECy1a5h2sv7s9nrubGwjFJbRgPok4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA1/NzUwLTE1NTU4NDQ1/ODAtOTk3OS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/u-wCL9nuUZ-tqLECy1a5h2sv7s9nrubGwjFJbRgPok4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA1/NzUwLTE1NTU4NDQ1/ODAtOTk3OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/tBojfnTzUZ1fEkMcLB43cxycs3cRUEVrTC2xFoEDurc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA1/NzUwLTE1NTU4NDQ1/ODAtOTk3OS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RB072",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 9291,
+   "name": "Running Back",
+   "resource_url": "https://api.discogs.com/labels/9291",
+   "thumbnail_url": "https://i.discogs.com/h5ShM2GP3ACRjacbkGh1IIK_C0-P16zg2v9Vws0d4l8/rs:fit/g:sm/q:90/h:157/w:314/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkyOTEt/MTE0MjIzODk2MC5q/cGVn.jpeg"
+  }
+ ],
+ "notes": "This is the third repress issued in a black sleeve.",
+ "released": "2019-01-01",
+ "styles": [
+  "House",
+  "Nu-Disco"
+ ],
+ "title": "The Division",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Neutron Dance",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Division Ave",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Shockzoid",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Moonshake Miner",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13105750-Krystal-Klear-The-Division",
+ "year": 2019
+}

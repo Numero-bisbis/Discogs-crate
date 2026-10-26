@@ -1,0 +1,135 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5314733,
+   "join": "/",
+   "name": "Jorja Smith",
+   "resource_url": "https://api.discogs.com/artists/5314733",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/8OQW-tEWTIaT9Bz7bcXWoZY7gVut5ATdLK6Mpv3zAOQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUzMTQ3/MzMtMTYxOTE2OTE4/Ni02NTUwLmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 5431491,
+   "join": "",
+   "name": "Ezra Collective",
+   "resource_url": "https://api.discogs.com/artists/5431491",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/nWi40zvW_FTt5AKQ3NXb3dw5Yc118t0BqDJJlJvI9Gk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU0MzE0/OTEtMTQ4MTYyNDMz/MC01NTg3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "7\"",
+    "Single",
+    "Limited Edition",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Funk / Soul"
+ ],
+ "id": 15631518,
+ "images": [
+  {
+   "height": 599,
+   "resource_url": "https://i.discogs.com/5yEV2JECQCPd0jpjZZ_s7IWHWjlV846uhe33pg520BU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMx/NTE4LTE1OTQ5MDQ4/MTgtMzg0Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/5yEV2JECQCPd0jpjZZ_s7IWHWjlV846uhe33pg520BU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMx/NTE4LTE1OTQ5MDQ4/MTgtMzg0Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/tgPZxIcc-mlDIrD3qsnIwgM7sUvm48Ok-N3NRyEz25w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMx/NTE4LTE1OTQ5MDQ4/MTgtMzg0Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "0890923",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 281,
+   "name": "Blue Note",
+   "resource_url": "https://api.discogs.com/labels/281",
+   "thumbnail_url": "https://i.discogs.com/3HpIGTTfcLBKDF0WKsdSygbdfgirR7shFM3kGhgArBI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MS0x/NTAyNjQwNjY3LTQ4/MzMucG5n.jpeg"
+  },
+  {
+   "catno": "0602508909238",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 281,
+   "name": "Blue Note",
+   "resource_url": "https://api.discogs.com/labels/281",
+   "thumbnail_url": "https://i.discogs.com/3HpIGTTfcLBKDF0WKsdSygbdfgirR7shFM3kGhgArBI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MS0x/NTAyNjQwNjY3LTQ4/MzMucG5n.jpeg"
+  }
+ ],
+ "notes": "Side A is a cover of [m435].\nSide B is a cover originally released on [m140415].",
+ "released": "2020-07-17",
+ "styles": [
+  "Contemporary Jazz",
+  "Contemporary R&B"
+ ],
+ "title": "Rose Rouge / Footprints",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5314733,
+     "join": ",",
+     "name": "Jorja Smith",
+     "resource_url": "https://api.discogs.com/artists/5314733",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 74,
+     "join": "",
+     "name": "St Germain",
+     "resource_url": "https://api.discogs.com/artists/74",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A",
+   "title": "Rose Rouge",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5431491,
+     "join": ",",
+     "name": "Ezra Collective",
+     "resource_url": "https://api.discogs.com/artists/5431491",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 29979,
+     "join": "",
+     "name": "Wayne Shorter",
+     "resource_url": "https://api.discogs.com/artists/29979",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B",
+   "title": "Footprints",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15631518-Jorja-Smith-Ezra-Collective-Rose-Rouge-Footprints",
+ "year": 2020
+}

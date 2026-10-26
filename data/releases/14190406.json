@@ -1,0 +1,87 @@
+{
+ "artists": [
+  {
+   "anv": "Шакке",
+   "id": 5901037,
+   "join": "",
+   "name": "Schacke (2)",
+   "resource_url": "https://api.discogs.com/artists/5901037",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/auwkaCTxIblUr8j1Vbs7nSe4VyWzJj4cTwxRwyuDD9A/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU5MDEw/MzctMTczMzk1NjE2/OS0zNzQxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Russia",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Orange "
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 14190406,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/TcGiqqrEfWljb2bD0cq0DlzvTmS2GhWvGS3QbAcERxI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkw/NDA2LTE1Njk5MzE2/OTMtOTkwMS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/TcGiqqrEfWljb2bD0cq0DlzvTmS2GhWvGS3QbAcERxI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkw/NDA2LTE1Njk5MzE2/OTMtOTkwMS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/OQFpMO9kTU9hX0gDiZBmLEr8I9q552_Q6EH86aSA5hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkw/NDA2LTE1Njk5MzE2/OTMtOTkwMS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "КЛУБ001",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 438270,
+   "name": "Клуб",
+   "resource_url": "https://api.discogs.com/labels/438270",
+   "thumbnail_url": "https://i.discogs.com/unbxisYyPDHowIZtH6nRZFI2DWHBQFt8UPCgTwpWsfM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzODI3/MC0xNTYwMDMyMDc5/LTIyMDIucG5n.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-09-26",
+ "styles": [
+  "Techno",
+  "Trance"
+ ],
+ "title": "Клуб Навсегда (Kisloty Forever) EP  ",
+ "tracklist": [
+  {
+   "duration": "3:01",
+   "position": "A1",
+   "title": "Ты меня не ищи (Don't Look For Me)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:56",
+   "position": "A2",
+   "title": "Клубная тема (Klub Theme)",
+   "type_": "track"
+  },
+  {
+   "duration": "6:01",
+   "position": "B1",
+   "title": "Кислотный пипл (Kisloty People)",
+   "type_": "track"
+  },
+  {
+   "duration": "7:36",
+   "position": "B2",
+   "title": "Зацени (Check It)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14190406-Шакке-Клуб-Навсегда-Kisloty-Forever-EP-",
+ "year": 2019
+}

@@ -1,0 +1,85 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 171843,
+   "join": "",
+   "name": "Paul Chambers (2)",
+   "resource_url": "https://api.discogs.com/artists/171843",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/bQDjA5bPQHuYDns4gAhqT5mxEFiiknNIKeq0qjknk0U/rs:fit/g:sm/q:90/h:572/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE3MTg0/My0xMjc1MzI1NDcx/LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 2325882,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/mRXGaooLrjB6quH6Wgitz7mO_wnYKa8sMSJAc6E3gIA/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjU4/ODItMTI4MjQ2MDk5/Ni5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/mRXGaooLrjB6quH6Wgitz7mO_wnYKa8sMSJAc6E3gIA/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjU4/ODItMTI4MjQ2MDk5/Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/QVKpu13QJjLHMb4QkZUSmAGZE1fzb_CsqzlaGjpn76s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjU4/ODItMTI4MjQ2MDk5/Ni5qcGVn.jpeg",
+   "width": 592
+  }
+ ],
+ "labels": [
+  {
+   "catno": "PH10",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 94402,
+   "name": "Phantasy Sound",
+   "resource_url": "https://api.discogs.com/labels/94402",
+   "thumbnail_url": "https://i.discogs.com/Yl0O0DGfaIrgENd4gFIXZmngXiMznMrvFA6tw5_U6YQ/rs:fit/g:sm/q:90/h:221/w:221/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk0NDAy/LTEzNDMyMzk2MjYt/MTE2MS5qcGVn.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2010",
+ "styles": [
+  "Techno",
+  "Electro",
+  "Acid"
+ ],
+ "title": "Yeah, Techno!",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Yeah, Techno! (Original Edit)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 34128,
+     "join": "",
+     "name": "Soulwax",
+     "resource_url": "https://api.discogs.com/artists/34128",
+     "role": "Remix, Producer [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "B",
+   "title": "Yeah, Techno! (Soulwax Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/2325882-Paul-Chambers-2-Yeah-Techno",
+ "year": 2010
+}

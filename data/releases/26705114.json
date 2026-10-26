@@ -1,0 +1,216 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3057476,
+   "join": "",
+   "name": "Joey Bada$$",
+   "resource_url": "https://api.discogs.com/artists/3057476",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/j96Dg5kJVHzxoftF-vUdRj-WJUADi96-3RMlkOaHGsc/rs:fit/g:sm/q:90/h:600/w:514/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMwNTc0/NzYtMTY2MTAyNTY4/MS0yMjI4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 26705114,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/vs_bHgvgbRCGi0siyZ3zu2lcUVC-h9m6VsZCDyqw71c/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzA1/MTE0LTE2ODEwNjYy/MzItNzY1MS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/vs_bHgvgbRCGi0siyZ3zu2lcUVC-h9m6VsZCDyqw71c/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzA1/MTE0LTE2ODEwNjYy/MzItNzY1MS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/aaPLZpTTC2bgp2kTXPXMK59PMcfCo-fxGkmQ_M-DI5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzA1/MTE0LTE2ODEwNjYy/MzItNzY1MS5qcGVn.jpeg",
+   "width": 593
+  }
+ ],
+ "labels": [
+  {
+   "catno": "19658765141",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 594417,
+   "name": "Pro Era",
+   "resource_url": "https://api.discogs.com/labels/594417",
+   "thumbnail_url": "https://i.discogs.com/vvWfq2IDeOiez2uUhHBr0cIOBVQ3FKcwCrPjqFVhFn8/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU5NDQx/Ny0xNTAyNzQ0NjM1/LTk0MzUucG5n.jpeg"
+  },
+  {
+   "catno": "19658765141",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1866,
+   "name": "Columbia",
+   "resource_url": "https://api.discogs.com/labels/1866",
+   "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+  }
+ ],
+ "notes": "Made in the EU.\n\nTracks are listed sequentially on rear sleeve.\n",
+ "released": "2023-04-07",
+ "styles": [],
+ "title": "2000",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Diddy",
+     "id": 110844,
+     "join": "",
+     "name": "P. Diddy",
+     "resource_url": "https://api.discogs.com/artists/110844",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "The Baddest",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Make Me Feel",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Where I Belong",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5314285,
+     "join": "",
+     "name": "Westside Gunn",
+     "resource_url": "https://api.discogs.com/artists/5314285",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Brand New 911",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "Cruise Control",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B6",
+   "title": "Eulogy",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B7",
+   "title": "Zipcodes",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4498456,
+     "join": "",
+     "name": "Larry June",
+     "resource_url": "https://api.discogs.com/artists/4498456",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C8",
+   "title": "One Of Us",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 11394812,
+     "join": "",
+     "name": "Capella Grey",
+     "resource_url": "https://api.discogs.com/artists/11394812",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 357753,
+     "join": "",
+     "name": "Chris Brown (4)",
+     "resource_url": "https://api.discogs.com/artists/357753",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C9",
+   "title": "Welcome Back",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C10",
+   "title": "Show Me",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "JID",
+     "id": 7246829,
+     "join": "",
+     "name": "J.I.D",
+     "resource_url": "https://api.discogs.com/artists/7246829",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C11",
+   "title": "Wanna Be Loved",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D12",
+   "title": "Head High",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D13",
+   "title": "Survivors Guilt",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D14",
+   "title": "Written In The Stars",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/26705114-Joey-Bada-2000",
+ "year": 2023
+}

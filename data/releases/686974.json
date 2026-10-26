@@ -1,0 +1,157 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 32418,
+   "join": "",
+   "name": "Redhead Kingpin And The FBI",
+   "resource_url": "https://api.discogs.com/artists/32418",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/s6dvy0eNYZd5zGjfYgTQyGMZ2JGIAVhu5XJyxt8iYFU/rs:fit/g:sm/q:90/h:600/w:486/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyNDE4/LTE2Mzk5MjI1MTct/ODU2Ny5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 686974,
+ "images": [
+  {
+   "height": 196,
+   "resource_url": "https://i.discogs.com/xpKcRlH2ITcsN8v7ud1FDylC0bLgCrZZPhUFZao2Hjc/rs:fit/g:sm/q:90/h:196/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Njk3/NC0xMzAyODcxODUy/LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/xpKcRlH2ITcsN8v7ud1FDylC0bLgCrZZPhUFZao2Hjc/rs:fit/g:sm/q:90/h:196/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Njk3/NC0xMzAyODcxODUy/LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/w62ZsT9jOCqLtnc0HU4vqGgs9ec2tVCKu_mDVyL0ecg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Njk3/NC0xMzAyODcxODUy/LmpwZWc.jpeg",
+   "width": 200
+  }
+ ],
+ "labels": [
+  {
+   "catno": "TENX 286",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 902,
+   "name": "10 Records",
+   "resource_url": "https://api.discogs.com/labels/902",
+   "thumbnail_url": "https://i.discogs.com/qEUoQQ3d7MFCDLCq7oAKR5cGeJYLQCA4Opta53WYXDs/rs:fit/g:sm/q:90/h:445/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwMi0x/NjUyOTkyNjEyLTg1/ODIuanBlZw.jpeg"
+  },
+  {
+   "catno": "612 781-213",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 902,
+   "name": "10 Records",
+   "resource_url": "https://api.discogs.com/labels/902",
+   "thumbnail_url": "https://i.discogs.com/qEUoQQ3d7MFCDLCq7oAKR5cGeJYLQCA4Opta53WYXDs/rs:fit/g:sm/q:90/h:445/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwMi0x/NjUyOTkyNjEyLTg1/ODIuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "1989",
+ "styles": [
+  "Pop Rap"
+ ],
+ "title": "Superbad, Superslick",
+ "tracklist": [
+  {
+   "duration": "5:51",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 68008,
+     "join": "",
+     "name": "Mike Percy",
+     "resource_url": "https://api.discogs.com/artists/68008",
+     "role": "Remix, Producer [Additional Production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 68007,
+     "join": "",
+     "name": "Tim Lever",
+     "resource_url": "https://api.discogs.com/artists/68007",
+     "role": "Remix, Producer [Additional Production]",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "Superbad, Superslick (One World Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:16",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 20897,
+     "join": "",
+     "name": "Teddy Riley",
+     "resource_url": "https://api.discogs.com/artists/20897",
+     "role": "Arranged By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 52584,
+     "join": "",
+     "name": "Jazzie B",
+     "resource_url": "https://api.discogs.com/artists/52584",
+     "role": "Remix, Producer [Additional Production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 11831,
+     "join": "",
+     "name": "Nellee Hooper",
+     "resource_url": "https://api.discogs.com/artists/11831",
+     "role": "Remix, Producer [Additional Production]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Do The Right Thing (Happiness Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:48",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 68008,
+     "join": "",
+     "name": "Mike Percy",
+     "resource_url": "https://api.discogs.com/artists/68008",
+     "role": "Remix, Producer [Additional Production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 68007,
+     "join": "",
+     "name": "Tim Lever",
+     "resource_url": "https://api.discogs.com/artists/68007",
+     "role": "Remix, Producer [Additional Production]",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Superbad, Superslick (One World Dub)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/686974-Redhead-Kingpin-And-The-FBI-Superbad-Superslick",
+ "year": 1989
+}

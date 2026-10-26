@@ -1,0 +1,354 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Blue Translucent"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Jazz"
+ ],
+ "id": 15993828,
+ "images": [
+  {
+   "height": 584,
+   "resource_url": "https://i.discogs.com/52fp12jJfWtA4p2x1xJ5PZj5TedoASVUw9NT-uktHnQ/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/ODI4LTE3NjM2NzY3/MzQtODI1NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/52fp12jJfWtA4p2x1xJ5PZj5TedoASVUw9NT-uktHnQ/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/ODI4LTE3NjM2NzY3/MzQtODI1NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/A0unZpyblaoeHnYg7olPvJKu1x1DpVQHovpdhmxhtQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/ODI4LTE3NjM2NzY3/MzQtODI1NC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "0727841",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 281,
+   "name": "Blue Note",
+   "resource_url": "https://api.discogs.com/labels/281",
+   "thumbnail_url": "https://i.discogs.com/3HpIGTTfcLBKDF0WKsdSygbdfgirR7shFM3kGhgArBI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MS0x/NTAyNjQwNjY3LTQ4/MzMucG5n.jpeg"
+  },
+  {
+   "catno": "00602507278410",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 281,
+   "name": "Blue Note",
+   "resource_url": "https://api.discogs.com/labels/281",
+   "thumbnail_url": "https://i.discogs.com/3HpIGTTfcLBKDF0WKsdSygbdfgirR7shFM3kGhgArBI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MS0x/NTAyNjQwNjY3LTQ4/MzMucG5n.jpeg"
+  }
+ ],
+ "notes": "Die-cut Gatefold sleeve.\n\nNubya Garcia - A Shade Of Jade is listed as B4 on the sleeve. The printed inner sleeve and label has the correct tracklisting.\nTrack D5 is titled 'Speak No Evil/Night Dreamer' on back cover and as 'Speak No Evil (Night Dreamer)' on label.\n\n1st catalog # was previously submitted; 2nd catalog # from spine.",
+ "released": "2020-10-16",
+ "styles": [
+  "Contemporary Jazz",
+  "Acid Jazz",
+  "Trip Hop"
+ ],
+ "title": "Blue Note Re:imagined",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5314733,
+     "join": "",
+     "name": "Jorja Smith",
+     "resource_url": "https://api.discogs.com/artists/5314733",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A1",
+   "title": "Rose Rouge",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5431491,
+     "join": "",
+     "name": "Ezra Collective",
+     "resource_url": "https://api.discogs.com/artists/5431491",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A2",
+   "title": "Footprints",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4749079,
+     "join": "",
+     "name": "Poppy Ajudha",
+     "resource_url": "https://api.discogs.com/artists/4749079",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A3",
+   "title": "Watermelon Man (Under The Sun)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3914757,
+     "join": "",
+     "name": "Jordan Rakei",
+     "resource_url": "https://api.discogs.com/artists/3914757",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A4",
+   "title": "Wind Parade",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5902666,
+     "join": "",
+     "name": "Skinny Pelembe",
+     "resource_url": "https://api.discogs.com/artists/5902666",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B1",
+   "title": "Illusion (Silly Apparition)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4751065,
+     "join": "",
+     "name": "Alfa Mist",
+     "resource_url": "https://api.discogs.com/artists/4751065",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B2",
+   "title": "Galaxy",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5539639,
+     "join": "",
+     "name": "Ishmael Ensemble",
+     "resource_url": "https://api.discogs.com/artists/5539639",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B3",
+   "title": "Search For Peace",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5261803,
+     "join": "",
+     "name": "Nubya Garcia",
+     "resource_url": "https://api.discogs.com/artists/5261803",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C1",
+   "title": "A Shade Of Jade",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 7370189,
+     "join": "Featuring",
+     "name": "Steam Down",
+     "resource_url": "https://api.discogs.com/artists/7370189",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6194577,
+     "join": "",
+     "name": "Afronaut Zu",
+     "resource_url": "https://api.discogs.com/artists/6194577",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C2",
+   "title": "Etcetera",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 7370190,
+     "join": "",
+     "name": "Blue Lab Beats",
+     "resource_url": "https://api.discogs.com/artists/7370190",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C3",
+   "title": "Montara",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3766006,
+     "join": "",
+     "name": "Yazmin Lacey",
+     "resource_url": "https://api.discogs.com/artists/3766006",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C4",
+   "title": "I'll Never Stop Loving You",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5523179,
+     "join": "",
+     "name": "Fieh",
+     "resource_url": "https://api.discogs.com/artists/5523179",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D1",
+   "title": "Armageddon",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5794086,
+     "join": "",
+     "name": "Mr Jukes",
+     "resource_url": "https://api.discogs.com/artists/5794086",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D2",
+   "title": "Maiden Voyage",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1419450,
+     "join": "",
+     "name": "Shabaka Hutchings",
+     "resource_url": "https://api.discogs.com/artists/1419450",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D3",
+   "title": "Prints Tie",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3350989,
+     "join": "",
+     "name": "Melt Yourself Down",
+     "resource_url": "https://api.discogs.com/artists/3350989",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D4",
+   "title": "Caribbean Fire Dance",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 6182894,
+     "join": "",
+     "name": "Emma-Jean Thackray",
+     "resource_url": "https://api.discogs.com/artists/6182894",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D5",
+   "title": "Speak No Evil (Night Dreamer)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15993828-Various-Blue-Note-Reimagined",
+ "year": 2020
+}

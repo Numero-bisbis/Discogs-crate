@@ -1,0 +1,2654 @@
+{
+ "artists": [
+  {
+   "anv": "Florence + The Machine",
+   "id": 994835,
+   "join": "",
+   "name": "Florence And The Machine",
+   "resource_url": "https://api.discogs.com/artists/994835",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/QcKhKGkkxNMttjfT_DomEh_fhwgAXhIbNdVQTe6xd-8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk5NDgz/NS0xNzc1MzI5MTky/LTI0NjQuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Rock",
+  "Pop"
+ ],
+ "id": 35529886,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/4Da80pAwjRb5RYa5lzkd4kv0n_EeRF2Y7Nd23Ypw9II/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTI5/ODg2LTE3NjIyMzky/MTctMzEyNy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/4Da80pAwjRb5RYa5lzkd4kv0n_EeRF2Y7Nd23Ypw9II/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTI5/ODg2LTE3NjIyMzky/MTctMzEyNy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/QgNTDPYrI8BiYB4kBpwBwFtldzjfT5vhshwViT5F2uU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTI5/ODg2LTE3NjIyMzky/MTctMzEyNy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "00602478840203",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1610,
+   "name": "Polydor",
+   "resource_url": "https://api.discogs.com/labels/1610",
+   "thumbnail_url": "https://i.discogs.com/aNZfcLSVMW8xdCMyTxY3PspGfkoD4lsz8_uyffeyRcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MTAt/MTU4ODY3Mzk0Ny0x/NjI2LmpwZWc.jpeg"
+  },
+  {
+   "catno": "00602478840203",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 38017,
+   "name": "Republic Records",
+   "resource_url": "https://api.discogs.com/labels/38017",
+   "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+  }
+ ],
+ "notes": "Housed in a gatefold jacket, with gold embossed detail on the inside.\nThe record comes inside a full-color printed inner sleeves, with lyrics for each track.\nIncludes a insert with musician and art credits, and a sticker with the album logo printed on it.\n\n\"Made in Czech Republic\", attached to the rear shrink wrap.\nSealed copies come with a circular hype sticker, attached to the front shrink wrap.\nSome copies, sold through webstore, come with a signed art card. Barcode attached to the rear shrink wrap.\n\nTracks numbered sequentially across all sides.\n\nRunouts are machine-engraved and laser-etched.\n— In the runouts: GZ Media and PRP IDs, plus 7-digit nickel mother IDs, are machine-engraved. The 8-digit stamper ID is laser-etched.\n\n— Catalog numbers:\n\"602478840203\" on credits insert.\n\"602478840203\" on hype sticker.\n\"602478840203-1\" on inner sleeve 1.\n\"602478840203-2\" on inner sleeve 2.\n\"00602478840203-B\" on center label, side B.\n\"00602478840203-D\" on center label, side D.\n\"00602478840203\" on gatefold spine and back cover.\n\nA Polydor Records. Republic Records Recording. ℗ & © 2025 Universal Music Operations Limited, a division of UMG Recordings, Inc.\n[...] Universal International Music B.V.,'s-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in the EU. BIEM/SDRM. LC07552.",
+ "released": "2025-10-31",
+ "styles": [
+  "Alternative Rock",
+  "Alt-Pop",
+  "Indie Rock",
+  "Indie Pop",
+  "Pop Rock"
+ ],
+ "title": "Everybody Scream",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 16857709,
+     "join": "",
+     "name": "Clay Slade",
+     "resource_url": "https://api.discogs.com/artists/16857709",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10003573,
+     "join": "",
+     "name": "Elly Condron",
+     "resource_url": "https://api.discogs.com/artists/10003573",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "Katy Beth Young",
+     "id": 1837396,
+     "join": "",
+     "name": "Katy Young",
+     "resource_url": "https://api.discogs.com/artists/1837396",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2442682,
+     "join": "",
+     "name": "Luisa Gerstein",
+     "resource_url": "https://api.discogs.com/artists/2442682",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7365688,
+     "join": "",
+     "name": "Miryam Solomon",
+     "resource_url": "https://api.discogs.com/artists/7365688",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307879,
+     "join": "",
+     "name": "Stuart Bogie",
+     "resource_url": "https://api.discogs.com/artists/307879",
+     "role": "Baritone Saxophone, Tenor Saxophone, Bass Clarinet, Clarinet [B-flat Clarinet]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 344837,
+     "join": "",
+     "name": "Steve Pearce",
+     "resource_url": "https://api.discogs.com/artists/344837",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1120882,
+     "join": "",
+     "name": "Laura Moody",
+     "resource_url": "https://api.discogs.com/artists/1120882",
+     "role": "Cello [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 8019028,
+     "join": "",
+     "name": "Kenneth Blume",
+     "resource_url": "https://api.discogs.com/artists/8019028",
+     "role": "Drum Programming [808s]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 253550,
+     "join": "",
+     "name": "Ian Thomas",
+     "resource_url": "https://api.discogs.com/artists/253550",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Drums, Percussion, Bass [Electric + Synth], Synthesizer [Prophet]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 290084,
+     "join": "",
+     "name": "James Ford",
+     "resource_url": "https://api.discogs.com/artists/290084",
+     "role": "Drums, Tambourine, Synthesizer [Clavinet], Mellotron, Electric Guitar, Synth Bass, Drum Programming [808s], Grand Piano, Organ [Hammond], Piano [Acoustic Piano], Synthesizer [Juno], Bass Clarinet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 329124,
+     "join": "",
+     "name": "Leo Abrahams",
+     "resource_url": "https://api.discogs.com/artists/329124",
+     "role": "Electric Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Benjamin Lanz",
+     "id": 676649,
+     "join": "",
+     "name": "Ben Lanz",
+     "resource_url": "https://api.discogs.com/artists/676649",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 574911,
+     "join": "",
+     "name": "James McAlister",
+     "resource_url": "https://api.discogs.com/artists/574911",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307879,
+     "join": "",
+     "name": "Stuart Bogie",
+     "resource_url": "https://api.discogs.com/artists/307879",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3618960,
+     "join": "",
+     "name": "Billy Halliday",
+     "resource_url": "https://api.discogs.com/artists/3618960",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1507905,
+     "join": "",
+     "name": "Tom Moth",
+     "resource_url": "https://api.discogs.com/artists/1507905",
+     "role": "Harp",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1485708,
+     "join": "",
+     "name": "Randy Merrill",
+     "resource_url": "https://api.discogs.com/artists/1485708",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 773335,
+     "join": "",
+     "name": "Chris Vatalaro",
+     "resource_url": "https://api.discogs.com/artists/773335",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6662131,
+     "join": "",
+     "name": "Mitski Miyawaki",
+     "resource_url": "https://api.discogs.com/artists/6662131",
+     "role": "Piano [Acoustic Piano]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 290084,
+     "join": "",
+     "name": "James Ford",
+     "resource_url": "https://api.discogs.com/artists/290084",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 941204,
+     "join": "",
+     "name": "Colin Webster",
+     "resource_url": "https://api.discogs.com/artists/941204",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Shaker, Synth Bass, Acoustic Guitar, Piano [Acoustic Piano], Synthesizer [Juno], Mellotron, Electric Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5978845,
+     "join": "",
+     "name": "Aaron Paris",
+     "resource_url": "https://api.discogs.com/artists/5978845",
+     "role": "Strings [Strings Programming]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 574911,
+     "join": "",
+     "name": "James McAlister",
+     "resource_url": "https://api.discogs.com/artists/574911",
+     "role": "Synthesizer [Lyra, P08, Acetone, Pulsar], Tambourine, Percussion, Drum Programming, Electric Guitar, Vocals [Vocal Resampling]",
+     "tracks": ""
+    },
+    {
+     "anv": "Benjamin Lanz",
+     "id": 676649,
+     "join": "",
+     "name": "Ben Lanz",
+     "resource_url": "https://api.discogs.com/artists/676649",
+     "role": "Trombone, Synthesizer, Vocals [Vocal Resampling]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5005859,
+     "join": "",
+     "name": "Richard Jones (40)",
+     "resource_url": "https://api.discogs.com/artists/5005859",
+     "role": "Viola [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 319663,
+     "join": "",
+     "name": "Emma Smith",
+     "resource_url": "https://api.discogs.com/artists/319663",
+     "role": "Violin [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 759334,
+     "join": "",
+     "name": "Jennymay Logan",
+     "resource_url": "https://api.discogs.com/artists/759334",
+     "role": "Violin [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Vocals, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6662131,
+     "join": "",
+     "name": "Mitski Miyawaki",
+     "resource_url": "https://api.discogs.com/artists/6662131",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Everybody Scream",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Hayden Anhedönia",
+     "id": 13858660,
+     "join": "",
+     "name": "Hayden Silas Anhedönia",
+     "resource_url": "https://api.discogs.com/artists/13858660",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 344837,
+     "join": "",
+     "name": "Steve Pearce",
+     "resource_url": "https://api.discogs.com/artists/344837",
+     "role": "Bass Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1120882,
+     "join": "",
+     "name": "Laura Moody",
+     "resource_url": "https://api.discogs.com/artists/1120882",
+     "role": "Cello [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 253550,
+     "join": "",
+     "name": "Ian Thomas",
+     "resource_url": "https://api.discogs.com/artists/253550",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6555937,
+     "join": "",
+     "name": "Jon Beavis",
+     "resource_url": "https://api.discogs.com/artists/6555937",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Electric Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 329124,
+     "join": "",
+     "name": "Leo Abrahams",
+     "resource_url": "https://api.discogs.com/artists/329124",
+     "role": "Electric Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Benjamin Lanz",
+     "id": 676649,
+     "join": "",
+     "name": "Ben Lanz",
+     "resource_url": "https://api.discogs.com/artists/676649",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3618960,
+     "join": "",
+     "name": "Billy Halliday",
+     "resource_url": "https://api.discogs.com/artists/3618960",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Guitar, Bass, Effects [FX], Synthesizer [Prophet], Organ",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1507905,
+     "join": "",
+     "name": "Tom Moth",
+     "resource_url": "https://api.discogs.com/artists/1507905",
+     "role": "Harp",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1485708,
+     "join": "",
+     "name": "Randy Merrill",
+     "resource_url": "https://api.discogs.com/artists/1485708",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 773335,
+     "join": "",
+     "name": "Chris Vatalaro",
+     "resource_url": "https://api.discogs.com/artists/773335",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Benjamin Lanz",
+     "id": 676649,
+     "join": "",
+     "name": "Ben Lanz",
+     "resource_url": "https://api.discogs.com/artists/676649",
+     "role": "Trombone, Synthesizer [Modular, ORX]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5005859,
+     "join": "",
+     "name": "Richard Jones (40)",
+     "resource_url": "https://api.discogs.com/artists/5005859",
+     "role": "Viola [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 319663,
+     "join": "",
+     "name": "Emma Smith",
+     "resource_url": "https://api.discogs.com/artists/319663",
+     "role": "Violin [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 759334,
+     "join": "",
+     "name": "Jennymay Logan",
+     "resource_url": "https://api.discogs.com/artists/759334",
+     "role": "Violin [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Vocals, Backing Vocals, Shaker, Tambourine",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "One Of The Greats",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 16857709,
+     "join": "",
+     "name": "Clay Slade",
+     "resource_url": "https://api.discogs.com/artists/16857709",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10003573,
+     "join": "",
+     "name": "Elly Condron",
+     "resource_url": "https://api.discogs.com/artists/10003573",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "Katy Beth Young",
+     "id": 1837396,
+     "join": "",
+     "name": "Katy Young",
+     "resource_url": "https://api.discogs.com/artists/1837396",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2442682,
+     "join": "",
+     "name": "Luisa Gerstein",
+     "resource_url": "https://api.discogs.com/artists/2442682",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7365688,
+     "join": "",
+     "name": "Miryam Solomon",
+     "resource_url": "https://api.discogs.com/artists/7365688",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1120882,
+     "join": "",
+     "name": "Laura Moody",
+     "resource_url": "https://api.discogs.com/artists/1120882",
+     "role": "Cello [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Drums, Bass, Piano [Acoustic Piano], Synthesizer [Prophet], Organ",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1806524,
+     "join": "",
+     "name": "Andrew Barr",
+     "resource_url": "https://api.discogs.com/artists/1806524",
+     "role": "Drums, Cymbal, Chimes, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3992242,
+     "join": "",
+     "name": "Danny L Harle",
+     "resource_url": "https://api.discogs.com/artists/3992242",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 574911,
+     "join": "",
+     "name": "James McAlister",
+     "resource_url": "https://api.discogs.com/artists/574911",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3618960,
+     "join": "",
+     "name": "Billy Halliday",
+     "resource_url": "https://api.discogs.com/artists/3618960",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Grand Piano, Electric Bass, Shaker, Mellotron, Cymbal",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1507905,
+     "join": "",
+     "name": "Tom Moth",
+     "resource_url": "https://api.discogs.com/artists/1507905",
+     "role": "Harp",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1485708,
+     "join": "",
+     "name": "Randy Merrill",
+     "resource_url": "https://api.discogs.com/artists/1485708",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 574911,
+     "join": "",
+     "name": "James McAlister",
+     "resource_url": "https://api.discogs.com/artists/574911",
+     "role": "Percussion, Drums, Drum Programming, Synthesizer, Omnichord, Sampler [Vocal Samples]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3992242,
+     "join": "",
+     "name": "Danny L Harle",
+     "resource_url": "https://api.discogs.com/artists/3992242",
+     "role": "Producer [Additional Production By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5978845,
+     "join": "",
+     "name": "Aaron Paris",
+     "resource_url": "https://api.discogs.com/artists/5978845",
+     "role": "Strings [Strings Programming]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3992242,
+     "join": "",
+     "name": "Danny L Harle",
+     "resource_url": "https://api.discogs.com/artists/3992242",
+     "role": "Synth Bass, Sounds [SFX], Synthesizer, Tenor Viol",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5005859,
+     "join": "",
+     "name": "Richard Jones (40)",
+     "resource_url": "https://api.discogs.com/artists/5005859",
+     "role": "Viola [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 319663,
+     "join": "",
+     "name": "Emma Smith",
+     "resource_url": "https://api.discogs.com/artists/319663",
+     "role": "Violin [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 759334,
+     "join": "",
+     "name": "Jennymay Logan",
+     "resource_url": "https://api.discogs.com/artists/759334",
+     "role": "Violin [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Vocals, Backing Vocals, Handclaps, Chimes",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Witch Dance",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1120882,
+     "join": "",
+     "name": "Laura Moody",
+     "resource_url": "https://api.discogs.com/artists/1120882",
+     "role": "Cello [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3992242,
+     "join": "",
+     "name": "Danny L Harle",
+     "resource_url": "https://api.discogs.com/artists/3992242",
+     "role": "Drum Programming, Synth Bass, Acoustic Guitar, Flute, Synthesizer, Percussion, Piano, Tenor Viol",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 11453636,
+     "join": "",
+     "name": "Jared Solomon",
+     "resource_url": "https://api.discogs.com/artists/11453636",
+     "role": "Drums, Congas, Timbales, Drums [Log Drum], Shaker, Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "Benjamin Lanz",
+     "id": 676649,
+     "join": "",
+     "name": "Ben Lanz",
+     "resource_url": "https://api.discogs.com/artists/676649",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3992242,
+     "join": "",
+     "name": "Danny L Harle",
+     "resource_url": "https://api.discogs.com/artists/3992242",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 574911,
+     "join": "",
+     "name": "James McAlister",
+     "resource_url": "https://api.discogs.com/artists/574911",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3618960,
+     "join": "",
+     "name": "Billy Halliday",
+     "resource_url": "https://api.discogs.com/artists/3618960",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9934291,
+     "join": "",
+     "name": "Bryce Bordone",
+     "resource_url": "https://api.discogs.com/artists/9934291",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1507905,
+     "join": "",
+     "name": "Tom Moth",
+     "resource_url": "https://api.discogs.com/artists/1507905",
+     "role": "Harp",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1485708,
+     "join": "",
+     "name": "Randy Merrill",
+     "resource_url": "https://api.discogs.com/artists/1485708",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 105435,
+     "join": "",
+     "name": "Serban Ghenea",
+     "resource_url": "https://api.discogs.com/artists/105435",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3992242,
+     "join": "",
+     "name": "Danny L Harle",
+     "resource_url": "https://api.discogs.com/artists/3992242",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10148647,
+     "join": "",
+     "name": "Solomonophonic",
+     "resource_url": "https://api.discogs.com/artists/10148647",
+     "role": "Producer [Additional Production By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Synth Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 574911,
+     "join": "",
+     "name": "James McAlister",
+     "resource_url": "https://api.discogs.com/artists/574911",
+     "role": "Synthesizer [Lyra, Juno, P08], Omnichord, Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "Benjamin Lanz",
+     "id": 676649,
+     "join": "",
+     "name": "Ben Lanz",
+     "resource_url": "https://api.discogs.com/artists/676649",
+     "role": "Synthesizer, Trombone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5005859,
+     "join": "",
+     "name": "Richard Jones (40)",
+     "resource_url": "https://api.discogs.com/artists/5005859",
+     "role": "Viola [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 319663,
+     "join": "",
+     "name": "Emma Smith",
+     "resource_url": "https://api.discogs.com/artists/319663",
+     "role": "Violin [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 759334,
+     "join": "",
+     "name": "Jennymay Logan",
+     "resource_url": "https://api.discogs.com/artists/759334",
+     "role": "Violin [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Vocals, Backing Vocals, Drums, Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3992242,
+     "join": "",
+     "name": "Danny L Harle",
+     "resource_url": "https://api.discogs.com/artists/3992242",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Sympathy Magic",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Drums, Drum Programming, Tambourine, Bass, Synth Bass, Acoustic Guitar, Electric Guitar, Synthesizer [OP-1], Mellotron",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9934291,
+     "join": "",
+     "name": "Bryce Bordone",
+     "resource_url": "https://api.discogs.com/artists/9934291",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 16857712,
+     "join": "",
+     "name": "Distant Fur",
+     "resource_url": "https://api.discogs.com/artists/16857712",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1485708,
+     "join": "",
+     "name": "Randy Merrill",
+     "resource_url": "https://api.discogs.com/artists/1485708",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 105435,
+     "join": "",
+     "name": "Serban Ghenea",
+     "resource_url": "https://api.discogs.com/artists/105435",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1806524,
+     "join": "",
+     "name": "Andrew Barr",
+     "resource_url": "https://api.discogs.com/artists/1806524",
+     "role": "Shaker, Gong, Cymbal",
+     "tracks": ""
+    },
+    {
+     "anv": "Benjamin Lanz",
+     "id": 676649,
+     "join": "",
+     "name": "Ben Lanz",
+     "resource_url": "https://api.discogs.com/artists/676649",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 574911,
+     "join": "",
+     "name": "James McAlister",
+     "resource_url": "https://api.discogs.com/artists/574911",
+     "role": "Vocals [Vocal Resampling], Synthesizer [Moog]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Vocals, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Perfume And Milk",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6662131,
+     "join": "",
+     "name": "Mitski Miyawaki",
+     "resource_url": "https://api.discogs.com/artists/6662131",
+     "role": "Acoustic Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Drums, Drum Programming, Percussion, Bass, Acoustic Guitar, Electric Guitar, Synthesizer [OP-1], Mellotron, Grand Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 574911,
+     "join": "",
+     "name": "James McAlister",
+     "resource_url": "https://api.discogs.com/artists/574911",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3618960,
+     "join": "",
+     "name": "Billy Halliday",
+     "resource_url": "https://api.discogs.com/artists/3618960",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9934291,
+     "join": "",
+     "name": "Bryce Bordone",
+     "resource_url": "https://api.discogs.com/artists/9934291",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1485708,
+     "join": "",
+     "name": "Randy Merrill",
+     "resource_url": "https://api.discogs.com/artists/1485708",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 105435,
+     "join": "",
+     "name": "Serban Ghenea",
+     "resource_url": "https://api.discogs.com/artists/105435",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 574911,
+     "join": "",
+     "name": "James McAlister",
+     "resource_url": "https://api.discogs.com/artists/574911",
+     "role": "Synthesizer [P08, Moog], Piano [Rhodes], Synth Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Vocals, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6662131,
+     "join": "",
+     "name": "Mitski Miyawaki",
+     "resource_url": "https://api.discogs.com/artists/6662131",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Buckle",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 307879,
+     "join": "",
+     "name": "Stuart Bogie",
+     "resource_url": "https://api.discogs.com/artists/307879",
+     "role": "Bass Clarinet, Bass Harmonica, Clarinet [B-flat Clarinet]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Drum Programming, Bass, Guitar [12-String Guitar], Guitar [High-String Guitar], Electric Guitar, Acoustic Guitar, Upright Piano, Mellotron, Synthesizer [OP-1, Prophet, OBX], Shaker",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3843351,
+     "join": "",
+     "name": "Dave Bayley (2)",
+     "resource_url": "https://api.discogs.com/artists/3843351",
+     "role": "Drums, Percussion, Drum Programming, Mellotron, Harp, Acoustic Guitar, Electric Guitar, Upright Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "Benjamin Lanz",
+     "id": 676649,
+     "join": "",
+     "name": "Ben Lanz",
+     "resource_url": "https://api.discogs.com/artists/676649",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 574911,
+     "join": "",
+     "name": "James McAlister",
+     "resource_url": "https://api.discogs.com/artists/574911",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307879,
+     "join": "",
+     "name": "Stuart Bogie",
+     "resource_url": "https://api.discogs.com/artists/307879",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3618960,
+     "join": "",
+     "name": "Billy Halliday",
+     "resource_url": "https://api.discogs.com/artists/3618960",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9934291,
+     "join": "",
+     "name": "Bryce Bordone",
+     "resource_url": "https://api.discogs.com/artists/9934291",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1507905,
+     "join": "",
+     "name": "Tom Moth",
+     "resource_url": "https://api.discogs.com/artists/1507905",
+     "role": "Harp",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1485708,
+     "join": "",
+     "name": "Randy Merrill",
+     "resource_url": "https://api.discogs.com/artists/1485708",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 105435,
+     "join": "",
+     "name": "Serban Ghenea",
+     "resource_url": "https://api.discogs.com/artists/105435",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Organ, Guitar, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3843351,
+     "join": "",
+     "name": "Dave Bayley (2)",
+     "resource_url": "https://api.discogs.com/artists/3843351",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Producer [Additional Production By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 574911,
+     "join": "",
+     "name": "James McAlister",
+     "resource_url": "https://api.discogs.com/artists/574911",
+     "role": "Synthesizer [Modular, Arpegiator, Moog]",
+     "tracks": ""
+    },
+    {
+     "anv": "Benjamin Lanz",
+     "id": 676649,
+     "join": "",
+     "name": "Ben Lanz",
+     "resource_url": "https://api.discogs.com/artists/676649",
+     "role": "Synthesizer [OBX, Modular], Trombone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Vocals, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3843351,
+     "join": "",
+     "name": "Dave Bayley (2)",
+     "resource_url": "https://api.discogs.com/artists/3843351",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C7",
+   "title": "Kraken",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1177104,
+     "join": "",
+     "name": "Oleg Kondratenko",
+     "resource_url": "https://api.discogs.com/artists/1177104",
+     "role": "Conductor",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 511190,
+     "join": "",
+     "name": "Bryce Dessner",
+     "resource_url": "https://api.discogs.com/artists/511190",
+     "role": "Drum Programming, Synthesizer [Scarbo, Prophet]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Drums, Drum Programming, Shaker, Synth Bass, Electric Bass, Synthesizer [Life, Prophet, Juno, OP-1], Mellotron, Electric Guitar, Piano [Acoustic Piano]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 13007853,
+     "join": "",
+     "name": "Arber Curri",
+     "resource_url": "https://api.discogs.com/artists/13007853",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "Benjamin Lanz",
+     "id": 676649,
+     "join": "",
+     "name": "Ben Lanz",
+     "resource_url": "https://api.discogs.com/artists/676649",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 511190,
+     "join": "",
+     "name": "Bryce Dessner",
+     "resource_url": "https://api.discogs.com/artists/511190",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 574911,
+     "join": "",
+     "name": "James McAlister",
+     "resource_url": "https://api.discogs.com/artists/574911",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 16857715,
+     "join": "",
+     "name": "Marina Lefkova",
+     "resource_url": "https://api.discogs.com/artists/16857715",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1485708,
+     "join": "",
+     "name": "Randy Merrill",
+     "resource_url": "https://api.discogs.com/artists/1485708",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10251082,
+     "join": "",
+     "name": "FAME'S Studio Orchestra",
+     "resource_url": "https://api.discogs.com/artists/10251082",
+     "role": "Orchestra",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 511190,
+     "join": "",
+     "name": "Bryce Dessner",
+     "resource_url": "https://api.discogs.com/artists/511190",
+     "role": "Orchestrated By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 574911,
+     "join": "",
+     "name": "James McAlister",
+     "resource_url": "https://api.discogs.com/artists/574911",
+     "role": "Synthesizer [Tron, P08, Misc Dig Pads, Misc Svells], Drum Programming, Maracas",
+     "tracks": ""
+    },
+    {
+     "anv": "Benjamin Lanz",
+     "id": 676649,
+     "join": "",
+     "name": "Ben Lanz",
+     "resource_url": "https://api.discogs.com/artists/676649",
+     "role": "Trombone, Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Vocals, Lead Vocals, Backing Vocals, Drums, Stomp Box, Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C8",
+   "title": "The Old Religion",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 307879,
+     "join": "",
+     "name": "Stuart Bogie",
+     "resource_url": "https://api.discogs.com/artists/307879",
+     "role": "Bass Clarinet, Bass Harmonica",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1806524,
+     "join": "",
+     "name": "Andrew Barr",
+     "resource_url": "https://api.discogs.com/artists/1806524",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Drums, Bass, Synth Bass, Mellotron, Percussion, Electric Guitar, Synthesizer [OP-1]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307879,
+     "join": "",
+     "name": "Stuart Bogie",
+     "resource_url": "https://api.discogs.com/artists/307879",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3618960,
+     "join": "",
+     "name": "Billy Halliday",
+     "resource_url": "https://api.discogs.com/artists/3618960",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1485708,
+     "join": "",
+     "name": "Randy Merrill",
+     "resource_url": "https://api.discogs.com/artists/1485708",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3992242,
+     "join": "",
+     "name": "Danny L Harle",
+     "resource_url": "https://api.discogs.com/artists/3992242",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3992242,
+     "join": "",
+     "name": "Danny L Harle",
+     "resource_url": "https://api.discogs.com/artists/3992242",
+     "role": "Tenor Viol, Bass, Electric Guitar, Violin, Piano [Acoustic Piano], Drums, Chimes, Bells",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6645774,
+     "join": "",
+     "name": "Dunja Botic",
+     "resource_url": "https://api.discogs.com/artists/6645774",
+     "role": "Vocals [Idrîsî Ensemble], Backing Vocals [Idrîsî Ensemble]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 14342057,
+     "join": "",
+     "name": "Eliza Oakes",
+     "resource_url": "https://api.discogs.com/artists/14342057",
+     "role": "Vocals [Idrîsî Ensemble], Backing Vocals [Idrîsî Ensemble]",
+     "tracks": ""
+    },
+    {
+     "anv": "Elsa Hackett-Esteban",
+     "id": 5490713,
+     "join": "",
+     "name": "Elsa Hackett",
+     "resource_url": "https://api.discogs.com/artists/5490713",
+     "role": "Vocals [Idrîsî Ensemble], Backing Vocals [Idrîsî Ensemble]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5422610,
+     "join": "",
+     "name": "Noémie Ducimetière",
+     "resource_url": "https://api.discogs.com/artists/5422610",
+     "role": "Vocals [Idrîsî Ensemble], Backing Vocals [Idrîsî Ensemble]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Vocals, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3992242,
+     "join": "",
+     "name": "Danny L Harle",
+     "resource_url": "https://api.discogs.com/artists/3992242",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C9",
+   "title": "Drink Deep",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Acoustic Guitar, Electric Guitar, Upright Piano, Mellotron, Synthesizer [OP-1], Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307879,
+     "join": "",
+     "name": "Stuart Bogie",
+     "resource_url": "https://api.discogs.com/artists/307879",
+     "role": "Bass Clarinet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1120882,
+     "join": "",
+     "name": "Laura Moody",
+     "resource_url": "https://api.discogs.com/artists/1120882",
+     "role": "Cello [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Drums, Synth Bass, Electric Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307879,
+     "join": "",
+     "name": "Stuart Bogie",
+     "resource_url": "https://api.discogs.com/artists/307879",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3618960,
+     "join": "",
+     "name": "Billy Halliday",
+     "resource_url": "https://api.discogs.com/artists/3618960",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9934291,
+     "join": "",
+     "name": "Bryce Bordone",
+     "resource_url": "https://api.discogs.com/artists/9934291",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1507905,
+     "join": "",
+     "name": "Tom Moth",
+     "resource_url": "https://api.discogs.com/artists/1507905",
+     "role": "Harp",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1485708,
+     "join": "",
+     "name": "Randy Merrill",
+     "resource_url": "https://api.discogs.com/artists/1485708",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 105435,
+     "join": "",
+     "name": "Serban Ghenea",
+     "resource_url": "https://api.discogs.com/artists/105435",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5978845,
+     "join": "",
+     "name": "Aaron Paris",
+     "resource_url": "https://api.discogs.com/artists/5978845",
+     "role": "Strings [Strings Programming]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5005859,
+     "join": "",
+     "name": "Richard Jones (40)",
+     "resource_url": "https://api.discogs.com/artists/5005859",
+     "role": "Viola [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 319663,
+     "join": "",
+     "name": "Emma Smith",
+     "resource_url": "https://api.discogs.com/artists/319663",
+     "role": "Violin [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 759334,
+     "join": "",
+     "name": "Jennymay Logan",
+     "resource_url": "https://api.discogs.com/artists/759334",
+     "role": "Violin [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Vocals, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D10",
+   "title": "Music By Men",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 16857709,
+     "join": "",
+     "name": "Clay Slade",
+     "resource_url": "https://api.discogs.com/artists/16857709",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10003573,
+     "join": "",
+     "name": "Elly Condron",
+     "resource_url": "https://api.discogs.com/artists/10003573",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "Katy Beth Young",
+     "id": 1837396,
+     "join": "",
+     "name": "Katy Young",
+     "resource_url": "https://api.discogs.com/artists/1837396",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2442682,
+     "join": "",
+     "name": "Luisa Gerstein",
+     "resource_url": "https://api.discogs.com/artists/2442682",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7365688,
+     "join": "",
+     "name": "Miryam Solomon",
+     "resource_url": "https://api.discogs.com/artists/7365688",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307879,
+     "join": "",
+     "name": "Stuart Bogie",
+     "resource_url": "https://api.discogs.com/artists/307879",
+     "role": "Bass Clarinet, Clarinet [B-flat Clarinet]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Bass, Electric Guitar, Acoustic Guitar, Drums, Synthesizer [Vox Continental], Piano, Upright Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1120882,
+     "join": "",
+     "name": "Laura Moody",
+     "resource_url": "https://api.discogs.com/artists/1120882",
+     "role": "Cello [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 253550,
+     "join": "",
+     "name": "Ian Thomas",
+     "resource_url": "https://api.discogs.com/artists/253550",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Drums, Shaker, Bass, Synth Bass, Acoustic Guitar, Electric Guitar, Synthesizer [OP-1, DX7], Mellotron",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 329124,
+     "join": "",
+     "name": "Leo Abrahams",
+     "resource_url": "https://api.discogs.com/artists/329124",
+     "role": "Electric Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 307879,
+     "join": "",
+     "name": "Stuart Bogie",
+     "resource_url": "https://api.discogs.com/artists/307879",
+     "role": "Engineer [Additional Engineering By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3618960,
+     "join": "",
+     "name": "Billy Halliday",
+     "resource_url": "https://api.discogs.com/artists/3618960",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9934291,
+     "join": "",
+     "name": "Bryce Bordone",
+     "resource_url": "https://api.discogs.com/artists/9934291",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1507905,
+     "join": "",
+     "name": "Tom Moth",
+     "resource_url": "https://api.discogs.com/artists/1507905",
+     "role": "Harp",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1485708,
+     "join": "",
+     "name": "Randy Merrill",
+     "resource_url": "https://api.discogs.com/artists/1485708",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 105435,
+     "join": "",
+     "name": "Serban Ghenea",
+     "resource_url": "https://api.discogs.com/artists/105435",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 941204,
+     "join": "",
+     "name": "Colin Webster",
+     "resource_url": "https://api.discogs.com/artists/941204",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5978845,
+     "join": "",
+     "name": "Aaron Paris",
+     "resource_url": "https://api.discogs.com/artists/5978845",
+     "role": "Strings [Strings Programming]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5005859,
+     "join": "",
+     "name": "Richard Jones (40)",
+     "resource_url": "https://api.discogs.com/artists/5005859",
+     "role": "Viola [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 319663,
+     "join": "",
+     "name": "Emma Smith",
+     "resource_url": "https://api.discogs.com/artists/319663",
+     "role": "Violin [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 759334,
+     "join": "",
+     "name": "Jennymay Logan",
+     "resource_url": "https://api.discogs.com/artists/759334",
+     "role": "Violin [Elysian Collective]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Vocals, Backing Vocals, Piano, Chimes, Tambourine",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D11",
+   "title": "You Can Have It All",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 16857709,
+     "join": "",
+     "name": "Clay Slade",
+     "resource_url": "https://api.discogs.com/artists/16857709",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10003573,
+     "join": "",
+     "name": "Elly Condron",
+     "resource_url": "https://api.discogs.com/artists/10003573",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "Katy Beth Young",
+     "id": 1837396,
+     "join": "",
+     "name": "Katy Young",
+     "resource_url": "https://api.discogs.com/artists/1837396",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2442682,
+     "join": "",
+     "name": "Luisa Gerstein",
+     "resource_url": "https://api.discogs.com/artists/2442682",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7365688,
+     "join": "",
+     "name": "Miryam Solomon",
+     "resource_url": "https://api.discogs.com/artists/7365688",
+     "role": "Backing Vocals [Deep Throat Choir]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Bass, Upright Piano, Synthesizer [OP-1]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3007281,
+     "join": "",
+     "name": "Bella Blasko",
+     "resource_url": "https://api.discogs.com/artists/3007281",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3618960,
+     "join": "",
+     "name": "Billy Halliday",
+     "resource_url": "https://api.discogs.com/artists/3618960",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9934291,
+     "join": "",
+     "name": "Bryce Bordone",
+     "resource_url": "https://api.discogs.com/artists/9934291",
+     "role": "Engineer [Engineered By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1507905,
+     "join": "",
+     "name": "Tom Moth",
+     "resource_url": "https://api.discogs.com/artists/1507905",
+     "role": "Harp",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1485708,
+     "join": "",
+     "name": "Randy Merrill",
+     "resource_url": "https://api.discogs.com/artists/1485708",
+     "role": "Mastered By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 105435,
+     "join": "",
+     "name": "Serban Ghenea",
+     "resource_url": "https://api.discogs.com/artists/105435",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 436584,
+     "join": "",
+     "name": "Aaron Dessner",
+     "resource_url": "https://api.discogs.com/artists/436584",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Synth [Prophet]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1145403,
+     "join": "",
+     "name": "Florence Welch",
+     "resource_url": "https://api.discogs.com/artists/1145403",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6598812,
+     "join": "",
+     "name": "Mark Bowen (4)",
+     "resource_url": "https://api.discogs.com/artists/6598812",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D12",
+   "title": "And Love",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/35529886-Florence-The-Machine-Everybody-Scream",
+ "year": 2025
+}

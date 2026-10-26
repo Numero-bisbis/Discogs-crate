@@ -1,0 +1,139 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4855438,
+   "join": "=",
+   "name": "Minyo Crusaders",
+   "resource_url": "https://api.discogs.com/artists/4855438",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ogUtyWRbIZslsK3wFnxu7PFtEzkncnnIq25df7jdsEM/rs:fit/g:sm/q:90/h:407/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4NTU0/MzgtMTUzNjMwODMy/NS0yMzE0LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "民謡クルセイダーズ",
+   "id": 4855438,
+   "join": "",
+   "name": "Minyo Crusaders",
+   "resource_url": "https://api.discogs.com/artists/4855438",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ogUtyWRbIZslsK3wFnxu7PFtEzkncnnIq25df7jdsEM/rs:fit/g:sm/q:90/h:407/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4NTU0/MzgtMTUzNjMwODMy/NS0yMzE0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "USA & Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Reggae",
+  "Latin",
+  "Funk / Soul",
+  "Folk, World, & Country"
+ ],
+ "id": 13628012,
+ "images": [
+  {
+   "height": 593,
+   "resource_url": "https://i.discogs.com/-igKguYDxxwUY0Zlf_BSFYU4uIXI5nkH4aDmX6OfXSI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjI4/MDEyLTE1NTc4MzI2/NDAtOTM1OC5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/-igKguYDxxwUY0Zlf_BSFYU4uIXI5nkH4aDmX6OfXSI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjI4/MDEyLTE1NTc4MzI2/NDAtOTM1OC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/ELrlby-xT_GDiefXY-Uztq6OiXJMoGuOqWRRR28M1uc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjI4/MDEyLTE1NTc4MzI2/NDAtOTM1OC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "MAIS036LP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 212750,
+   "name": "Mais Um Discos",
+   "resource_url": "https://api.discogs.com/labels/212750",
+   "thumbnail_url": "https://i.discogs.com/KcEecigqQWHFUbNUAeGRbK19rsbubVWNLWHqgC7TVy4/rs:fit/g:sm/q:90/h:173/w:229/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMjc1/MC0xNDA0NTY4OTg1/LTYxMjUuanBlZw.jpeg"
+  }
+ ],
+ "notes": "Super-gloss 2LP with an insert featuring Japanese + English translations\n\n'Authentic Folk Songs Of Japan' with modern arrangements.\nA1: Wakayama prefecture / Cumbia\nA2: Aomori prefecture / Afro\nA3: Kumamoto prefecture / Reggae\nB1: Yamagata prefecture / Biguine\nB2: Shimane prefecture / Exo-Bolero\nC1: Akita prefecture / Ethiopian Funk\nC2: Toyama prefecture / Afro\nD1: Fukuoka prefecture / Boogaloo\nD2: Fukushima prefecture / Latin\nD3: A cappella",
+ "released": "2019-04-26",
+ "styles": [
+  "Min'yō",
+  "Cumbia",
+  "Afro-Cuban",
+  "Beguine",
+  "Boogaloo",
+  "Bolero"
+ ],
+ "title": "Echoes Of Japan = エコーズ・オブ・ジャパン",
+ "tracklist": [
+  {
+   "duration": "5:02",
+   "position": "A1",
+   "title": "串本節 = Kushimoto Bushi",
+   "type_": "track"
+  },
+  {
+   "duration": "5:08",
+   "position": "A2",
+   "title": "ホーハイ節 = Hohai Bushi",
+   "type_": "track"
+  },
+  {
+   "duration": "5:44",
+   "position": "A3",
+   "title": "おてもやん = Otemoyan",
+   "type_": "track"
+  },
+  {
+   "duration": "4:37",
+   "position": "B1",
+   "title": "真室川音頭 = Mamurogawa Ondo",
+   "type_": "track"
+  },
+  {
+   "duration": "5:54",
+   "position": "B2",
+   "title": "安来節 = Yasugi Bushi",
+   "type_": "track"
+  },
+  {
+   "duration": "5:45",
+   "position": "C1",
+   "title": "秋田荷方節 = Akita Nikata Bushi",
+   "type_": "track"
+  },
+  {
+   "duration": "5:37",
+   "position": "C2",
+   "title": "といちん節 = Toichin Bushi",
+   "type_": "track"
+  },
+  {
+   "duration": "5:34",
+   "position": "D1",
+   "title": "炭坑節 = Tanko Bushi",
+   "type_": "track"
+  },
+  {
+   "duration": "5:38",
+   "position": "D2",
+   "title": "会津磐梯山 = Aizubandaisan",
+   "type_": "track"
+  },
+  {
+   "duration": "3:06",
+   "position": "D3",
+   "title": "相撲甚句 = Sumo Jinku",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13628012-Minyo-Crusaders-民謡クルセイダーズ-Echoes-Of-Japan-エコーズオブジャパン",
+ "year": 2019
+}

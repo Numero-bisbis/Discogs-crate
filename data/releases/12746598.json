@@ -1,0 +1,683 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5648334,
+   "join": "",
+   "name": "Rosalía (3)",
+   "resource_url": "https://api.discogs.com/artists/5648334",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/xj3GJ7veXxo10-K9hB0aFl3qF-M8RuFEkhRZv30oadw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU2NDgz/MzQtMTc5MDYzNjg1/NC02MDQ1LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Spain",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Latin",
+  "Pop",
+  "Folk, World, & Country"
+ ],
+ "id": 12746598,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/XXuUguRQMMdDGPZZL0BH2cHy7dKifadYtVnwwGn9nOg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/NTk4LTE3MzUyMzA5/MjItNzc1OS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/XXuUguRQMMdDGPZZL0BH2cHy7dKifadYtVnwwGn9nOg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/NTk4LTE3MzUyMzA5/MjItNzc1OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/VIm-cSX4Xhwbel5v5YuI3LD_evWpCTEdSMcKYwuWM0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/NTk4LTE3MzUyMzA5/MjItNzc1OS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "190758879710",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  },
+  {
+   "catno": "19075887971",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  }
+ ],
+ "notes": "There are autographed copies with different barcode stickered over printed barcode, this was limited and exclusive to preorders from Amazon.es, Fnac and El Corte Ingles. Records were shipped out unsealed. Rosalía’s autograph is on the inside of the gatefold sleeve.\n\nComes in a gatefold sleeve with 12\"x12\" booklet with lyrics and pictures.\nVinyl weight + sleeve = 528 grams \n\n\"El Mal Querer\" fue grabado entre Enero de 2017 y Julio 2018\nGrabado en el Guincho Studio, Casa Arte El Hierro, Lo-Fi Studio.\nMezclado por Jaycen Joshua para The Penua Project en Larrabee Sound Studios, North Hollywood CA\nAsistentes de mezcla Jacob Richard, Rashawn McLean & Mike Seaberg\nConceptualización Rosalía y Ferrán Echegaray\nIdea original Rosalía\n\n\"Que No Salga La Luna\" contiene un sample de \"Mi Cante Por Bulerías\" de La Paquera De Jerez feat. Manuel Moreno\n\"Maldición\" contiene un sample de \"Answer me\" de Arthur Russell\n\n\"Reniego\" Interpretado por la Orquesta Sinfónica De Bratislava dirigida por David Hernando Rico. Grabado en El Guincho Studio, Angel Sound Studio, Orquesta Sinfónica De Bratislava.\n\n\"Dominio Público\" reference/credit on release: Lyrics and Music (tracks A5, B3, B4); Music (track B2).\n\nStamped runouts.",
+ "released": "2018-11-02",
+ "styles": [
+  "Flamenco",
+  "Alt-Pop"
+ ],
+ "title": "El Mal Querer",
+ "tracklist": [
+  {
+   "duration": "2:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5648334,
+     "join": "",
+     "name": "Rosalía (3)",
+     "resource_url": "https://api.discogs.com/artists/5648334",
+     "role": "Lyrics By, Music By, Backing Vocals, Handclaps, Arranged By, Lead Vocals, Voice [Ad-libs]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1447319,
+     "join": "",
+     "name": "Pablo Díaz-Reixa",
+     "resource_url": "https://api.discogs.com/artists/1447319",
+     "role": "Lyrics By, Music By, Drum Machine [808], Synthesizer, Arranged By, Tambourine [Tambor herreño], Handclaps, Voice [Ad-libs]",
+     "tracks": ""
+    },
+    {
+     "anv": "Antón Álvarez",
+     "id": 6812382,
+     "join": "",
+     "name": "Antón Álvarez Alfaro",
+     "resource_url": "https://api.discogs.com/artists/6812382",
+     "role": "Lyrics By, Voice [Ad-libs]",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Malamente (Cap.1: Augurio)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:29",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2581602,
+     "join": "",
+     "name": "Las Negris",
+     "resource_url": "https://api.discogs.com/artists/2581602",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2050147,
+     "join": "",
+     "name": "Lin Cortés",
+     "resource_url": "https://api.discogs.com/artists/2050147",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6076049,
+     "join": "",
+     "name": "Nani Cortés",
+     "resource_url": "https://api.discogs.com/artists/6076049",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5509457,
+     "join": "",
+     "name": "Las Melli",
+     "resource_url": "https://api.discogs.com/artists/5509457",
+     "role": "Backing Vocals, Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "Antón Álvarez",
+     "id": 6812382,
+     "join": "",
+     "name": "Antón Álvarez Alfaro",
+     "resource_url": "https://api.discogs.com/artists/6812382",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5648334,
+     "join": "",
+     "name": "Rosalía (3)",
+     "resource_url": "https://api.discogs.com/artists/5648334",
+     "role": "Lyrics By, Music By, Lead Vocals, Backing Vocals, Handclaps, Arranged By, Voice [Ad-libs]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1447319,
+     "join": "",
+     "name": "Pablo Díaz-Reixa",
+     "resource_url": "https://api.discogs.com/artists/1447319",
+     "role": "Music By, Sampler, Bass, Arranged By, Voice [Ad-libs]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1153443,
+     "join": "",
+     "name": "Juan Mateo",
+     "resource_url": "https://api.discogs.com/artists/1153443",
+     "role": "Voice [Jaleos]",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Que No Salga La Luna (Cap.2: Boda)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:13",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4271076,
+     "join": "",
+     "name": "MILAGROS",
+     "resource_url": "https://api.discogs.com/artists/4271076",
+     "role": "Chorus",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3516478,
+     "join": "",
+     "name": "Ana Molina Hita",
+     "resource_url": "https://api.discogs.com/artists/3516478",
+     "role": "Chorus Master",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2614028,
+     "join": "",
+     "name": "Los Mellis",
+     "resource_url": "https://api.discogs.com/artists/2614028",
+     "role": "Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "Antón Álvarez",
+     "id": 6812382,
+     "join": "",
+     "name": "Antón Álvarez Alfaro",
+     "resource_url": "https://api.discogs.com/artists/6812382",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5648334,
+     "join": "",
+     "name": "Rosalía (3)",
+     "resource_url": "https://api.discogs.com/artists/5648334",
+     "role": "Lyrics By, Music By, Lead Vocals, Sampler, Keyboards, Bass, Arranged By, Voice [Ad-libs]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1447319,
+     "join": "",
+     "name": "Pablo Díaz-Reixa",
+     "resource_url": "https://api.discogs.com/artists/1447319",
+     "role": "Music By, Sampler, Keyboards, Bass, Arranged By, Drum Machine [808], Recorded By [Ingeniero de grabación], Voice [Ad-libs], Effects [Harmonizer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5142522,
+     "join": "",
+     "name": "Brian Hernández (3)",
+     "resource_url": "https://api.discogs.com/artists/5142522",
+     "role": "Recorded By [Ingeniero de grabación]",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Pienso En Tu Mirá (Cap.3: Celos)",
+   "type_": "track"
+  },
+  {
+   "duration": "2:24",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2614028,
+     "join": "",
+     "name": "Los Mellis",
+     "resource_url": "https://api.discogs.com/artists/2614028",
+     "role": "Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "Antón Álvarez",
+     "id": 6812382,
+     "join": "",
+     "name": "Antón Álvarez Alfaro",
+     "resource_url": "https://api.discogs.com/artists/6812382",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5648334,
+     "join": "",
+     "name": "Rosalía (3)",
+     "resource_url": "https://api.discogs.com/artists/5648334",
+     "role": "Lyrics By, Music By, Lead Vocals, Backing Vocals, Sampler, Arranged By, Voice [Ad-libs], Drum Machine [808], Sounds [Moto]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1447319,
+     "join": "",
+     "name": "Pablo Díaz-Reixa",
+     "resource_url": "https://api.discogs.com/artists/1447319",
+     "role": "Music By, Lyrics By, Sampler, Arranged By, Drum Machine [808], Voice [Ad-libs], Sounds [Moto]",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "De Aquí No Sales (Cap.4: Disputa)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:28",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 606104,
+     "join": "",
+     "name": "Jesús Bola",
+     "resource_url": "https://api.discogs.com/artists/606104",
+     "role": "Arranged By, Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2973484,
+     "join": "",
+     "name": "David Hernando Rico",
+     "resource_url": "https://api.discogs.com/artists/2973484",
+     "role": "Conductor [Dirigida por]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1447319,
+     "join": "",
+     "name": "Pablo Díaz-Reixa",
+     "resource_url": "https://api.discogs.com/artists/1447319",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "Jesús Carmona González \"Jesus Bola\"",
+     "id": 4629604,
+     "join": "",
+     "name": "Jesús Carmona González",
+     "resource_url": "https://api.discogs.com/artists/4629604",
+     "role": "Music By, Arranged By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5648334,
+     "join": "",
+     "name": "Rosalía (3)",
+     "resource_url": "https://api.discogs.com/artists/5648334",
+     "role": "Music By, Lead Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Orquesta Sinfónica De Bratislava",
+     "id": 420054,
+     "join": "",
+     "name": "Bratislava Symphony Orchestra",
+     "resource_url": "https://api.discogs.com/artists/420054",
+     "role": "Orchestra",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Reniego (Cap.5: Lamento)",
+   "type_": "track"
+  },
+  {
+   "duration": "0:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6791052,
+     "join": "",
+     "name": "Ferrán Echegaray",
+     "resource_url": "https://api.discogs.com/artists/6791052",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 483327,
+     "join": "",
+     "name": "Rossy De Palma",
+     "resource_url": "https://api.discogs.com/artists/483327",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5648334,
+     "join": "",
+     "name": "Rosalía (3)",
+     "resource_url": "https://api.discogs.com/artists/5648334",
+     "role": "Music By, Lyrics By, Backing Vocals, Arranged By, Sampler, Keyboards, Voice [Ad-libs]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1447319,
+     "join": "",
+     "name": "Pablo Díaz-Reixa",
+     "resource_url": "https://api.discogs.com/artists/1447319",
+     "role": "Music By, Sampler, Keyboards, Arranged By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5909156,
+     "join": "",
+     "name": "Juan Mateos",
+     "resource_url": "https://api.discogs.com/artists/5909156",
+     "role": "Sounds [Pitos]",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Preso (Cap.6: Clausura)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:02",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 661246,
+     "join": "",
+     "name": "Joan Albert Amargos",
+     "resource_url": "https://api.discogs.com/artists/661246",
+     "role": "Arranged By [Arreglo del coro]",
+     "tracks": ""
+    },
+    {
+     "anv": "Coro Infantil Del Orfeo Català",
+     "id": 900102,
+     "join": "",
+     "name": "Orfeó Català",
+     "resource_url": "https://api.discogs.com/artists/900102",
+     "role": "Choir [Coro Infantil]",
+     "tracks": ""
+    },
+    {
+     "anv": "Antón Álvarez",
+     "id": 6812382,
+     "join": "",
+     "name": "Antón Álvarez Alfaro",
+     "resource_url": "https://api.discogs.com/artists/6812382",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 66824,
+     "join": "",
+     "name": "Justin Timberlake",
+     "resource_url": "https://api.discogs.com/artists/66824",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6864251,
+     "join": "",
+     "name": "Leticia Sala Bufill",
+     "resource_url": "https://api.discogs.com/artists/6864251",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6864255,
+     "join": "",
+     "name": "Luis Garcia Olles",
+     "resource_url": "https://api.discogs.com/artists/6864255",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 173211,
+     "join": "",
+     "name": "Scott Storch",
+     "resource_url": "https://api.discogs.com/artists/173211",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 610304,
+     "join": "",
+     "name": "Timothy Mosley",
+     "resource_url": "https://api.discogs.com/artists/610304",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1447319,
+     "join": "",
+     "name": "Pablo Díaz-Reixa",
+     "resource_url": "https://api.discogs.com/artists/1447319",
+     "role": "Lyrics By, Music By, Handclaps, Arranged By, Keyboards, Bass, Drum Machine [808], Recorded By [Ingeniero de grabación]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5648334,
+     "join": "",
+     "name": "Rosalía (3)",
+     "resource_url": "https://api.discogs.com/artists/5648334",
+     "role": "Music By, Lyrics By, Lead Vocals, Backing Vocals, Handclaps, Keyboards, Arranged By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5142522,
+     "join": "",
+     "name": "Brian Hernández (3)",
+     "resource_url": "https://api.discogs.com/artists/5142522",
+     "role": "Recorded By [Ingeniero de grabación]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Bagdad (Cap.7: Liturgia)",
+   "type_": "track"
+  },
+  {
+   "duration": "2:42",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2614028,
+     "join": "",
+     "name": "Los Mellis",
+     "resource_url": "https://api.discogs.com/artists/2614028",
+     "role": "Backing Vocals, Voice [Jaleos]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2581602,
+     "join": "",
+     "name": "Las Negris",
+     "resource_url": "https://api.discogs.com/artists/2581602",
+     "role": "Handclaps, Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6791053,
+     "join": "",
+     "name": "Laura Boschetti",
+     "resource_url": "https://api.discogs.com/artists/6791053",
+     "role": "Harp",
+     "tracks": ""
+    },
+    {
+     "anv": "Antón Álvarez",
+     "id": 6812382,
+     "join": "",
+     "name": "Antón Álvarez Alfaro",
+     "resource_url": "https://api.discogs.com/artists/6812382",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5648334,
+     "join": "",
+     "name": "Rosalía (3)",
+     "resource_url": "https://api.discogs.com/artists/5648334",
+     "role": "Music By, Lyrics By, Arranged By, Handclaps, Backing Vocals, Lead Vocals, Voice [Ad-libs], Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1447319,
+     "join": "",
+     "name": "Pablo Díaz-Reixa",
+     "resource_url": "https://api.discogs.com/artists/1447319",
+     "role": "Music By, Synthesizer, Drum Machine [808], Bass, Arranged By, Voice [Ad-libs]",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Di Mi Nombre (Cap.8: Éxtasis)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:17",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1447319,
+     "join": "",
+     "name": "Pablo Díaz-Reixa",
+     "resource_url": "https://api.discogs.com/artists/1447319",
+     "role": "Lyrics By, Music By, Arranged By, Keyboards, Sampler, Harmony Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5648334,
+     "join": "",
+     "name": "Rosalía (3)",
+     "resource_url": "https://api.discogs.com/artists/5648334",
+     "role": "Lyrics By, Music By, Lead Vocals, Arranged By, Effects [Harmonizer], Keyboards, Sampler",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Nana (Cap.9: Concepción)",
+   "type_": "track"
+  },
+  {
+   "duration": "2:55",
+   "extraartists": [
+    {
+     "anv": "Antón Álvarez",
+     "id": 6812382,
+     "join": "",
+     "name": "Antón Álvarez Alfaro",
+     "resource_url": "https://api.discogs.com/artists/6812382",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5648334,
+     "join": "",
+     "name": "Rosalía (3)",
+     "resource_url": "https://api.discogs.com/artists/5648334",
+     "role": "Lyrics By, Music By, Lead Vocals, Arranged By, Backing Vocals, Keyboards, Bass, Sounds [Pitos]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1447319,
+     "join": "",
+     "name": "Pablo Díaz-Reixa",
+     "resource_url": "https://api.discogs.com/artists/1447319",
+     "role": "Music By, Arranged By, Synthesizer, Keyboards, Bass, Sampler",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Maldición (Cap.10: Cordura)",
+   "type_": "track"
+  },
+  {
+   "duration": "1:34",
+   "extraartists": [
+    {
+     "anv": "Antón Álvarez",
+     "id": 6812382,
+     "join": "",
+     "name": "Antón Álvarez Alfaro",
+     "resource_url": "https://api.discogs.com/artists/6812382",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1447319,
+     "join": "",
+     "name": "Pablo Díaz-Reixa",
+     "resource_url": "https://api.discogs.com/artists/1447319",
+     "role": "Music By, Arranged By, Effects [Harmonizer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5648334,
+     "join": "",
+     "name": "Rosalía (3)",
+     "resource_url": "https://api.discogs.com/artists/5648334",
+     "role": "Music By, Lyrics By, Arranged By, Lead Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "A Ningún Hombre (Cap.11: Poder)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12746598-Rosalía-3-El-Mal-Querer",
+ "year": 2018
+}

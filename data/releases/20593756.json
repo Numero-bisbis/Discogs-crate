@@ -1,0 +1,587 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2165577,
+   "join": "",
+   "name": "Mac Miller",
+   "resource_url": "https://api.discogs.com/artists/2165577",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/WCYt9HQ_COBX2S4bfArSJPdMHPpCR8WqkO4kHNwP4VU/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNjU1/NzctMTY0Mjk0Njcx/MS0xMDcwLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Mixtape",
+    "Reissue",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "3",
+   "text": "Yellow Opaque"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 20593756,
+ "images": [
+  {
+   "height": 594,
+   "resource_url": "https://i.discogs.com/djT5Gl4dPpBNZQuPX8NHVQ7xbiDKf_OMb0EEFNiejDI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTkz/NzU2LTE2OTMwMDU0/NTctOTE1OS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/djT5Gl4dPpBNZQuPX8NHVQ7xbiDKf_OMb0EEFNiejDI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTkz/NzU2LTE2OTMwMDU0/NTctOTE1OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/c33GvGROFl-Byzdq1K6AdFP9VguqsrXywjRClcylO2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTkz/NzU2LTE2OTMwMDU0/NTctOTE1OS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "093624881391",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 134882,
+   "name": "Warner Records",
+   "resource_url": "https://api.discogs.com/labels/134882",
+   "thumbnail_url": "https://i.discogs.com/VXe1252-kjlsKC8ahwKwRSTBIYAEwTInthD7CiS8BLE/rs:fit/g:sm/q:90/h:216/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzNDg4/Mi0xNTYzNDU4NDI5/LTk2NjguanBlZw.jpeg"
+  },
+  {
+   "catno": "093624881391",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1502313,
+   "name": "REMember Music (2)",
+   "resource_url": "https://api.discogs.com/labels/1502313",
+   "thumbnail_url": "https://i.discogs.com/n1gJeJIgG2Cyhqdlx_SnDe5O4BD-KT_FR2TtQNvw_GA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1MDIz/MTMtMTU0ODI2OTE0/MC05OTk4LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Labels on the discs say \"Made in Canada.\"",
+ "released": "2021-10-15",
+ "styles": [
+  "Cloud Rap",
+  "Conscious",
+  "Jazzy Hip-Hop"
+ ],
+ "title": "Faces",
+ "tracklist": [
+  {
+   "duration": "1:55",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1800656,
+     "join": "",
+     "name": "Thundercat",
+     "resource_url": "https://api.discogs.com/artists/1800656",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Inside Outside",
+   "type_": "track"
+  },
+  {
+   "duration": "2:48",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2953608,
+     "join": "",
+     "name": "Drewbyrd",
+     "resource_url": "https://api.discogs.com/artists/2953608",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Here We Go",
+   "type_": "track"
+  },
+  {
+   "duration": "6:38",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2353545,
+     "join": "",
+     "name": "Schoolboy Q",
+     "resource_url": "https://api.discogs.com/artists/2353545",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3314153,
+     "join": "",
+     "name": "Larry Fisherman",
+     "resource_url": "https://api.discogs.com/artists/3314153",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Friends",
+   "type_": "track"
+  },
+  {
+   "duration": "3:43",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3873136,
+     "join": "",
+     "name": "King Ralph Of Malibu",
+     "resource_url": "https://api.discogs.com/artists/3873136",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3314153,
+     "join": "",
+     "name": "Larry Fisherman",
+     "resource_url": "https://api.discogs.com/artists/3314153",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Angel Dust",
+   "type_": "track"
+  },
+  {
+   "duration": "3:31",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3314153,
+     "join": "",
+     "name": "Larry Fisherman",
+     "resource_url": "https://api.discogs.com/artists/3314153",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Malibu",
+   "type_": "track"
+  },
+  {
+   "duration": "3:50",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3069058,
+     "join": "",
+     "name": "Sir Michael Rocks",
+     "resource_url": "https://api.discogs.com/artists/3069058",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3314153,
+     "join": "",
+     "name": "Larry Fisherman",
+     "resource_url": "https://api.discogs.com/artists/3314153",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "What Do You Do",
+   "type_": "track"
+  },
+  {
+   "duration": "3:57",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2220800,
+     "join": "",
+     "name": "ID Labs",
+     "resource_url": "https://api.discogs.com/artists/2220800",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "It Just Doesn't Matter",
+   "type_": "track"
+  },
+  {
+   "duration": "4:10",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2220800,
+     "join": "",
+     "name": "ID Labs",
+     "resource_url": "https://api.discogs.com/artists/2220800",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Therapy",
+   "type_": "track"
+  },
+  {
+   "duration": "3:42",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2327281,
+     "join": "",
+     "name": "Ab-Soul",
+     "resource_url": "https://api.discogs.com/artists/2327281",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1967265,
+     "join": "",
+     "name": "Earl Sweatshirt",
+     "resource_url": "https://api.discogs.com/artists/1967265",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3381772,
+     "join": "",
+     "name": "randomblackdude",
+     "resource_url": "https://api.discogs.com/artists/3381772",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Polo Jeans",
+   "type_": "track"
+  },
+  {
+   "duration": "2:53",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1869597,
+     "join": "",
+     "name": "Rahki",
+     "resource_url": "https://api.discogs.com/artists/1869597",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Happy Birthday",
+   "type_": "track"
+  },
+  {
+   "duration": "4:10",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2317709,
+     "join": "",
+     "name": "THC (20)",
+     "resource_url": "https://api.discogs.com/artists/2317709",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Wedding",
+   "type_": "track"
+  },
+  {
+   "duration": "3:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3314153,
+     "join": "",
+     "name": "Larry Fisherman",
+     "resource_url": "https://api.discogs.com/artists/3314153",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Funeral",
+   "type_": "track"
+  },
+  {
+   "duration": "3:18",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3314153,
+     "join": "",
+     "name": "Larry Fisherman",
+     "resource_url": "https://api.discogs.com/artists/3314153",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Diablo",
+   "type_": "track"
+  },
+  {
+   "duration": "2:56",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3314153,
+     "join": "",
+     "name": "Larry Fisherman",
+     "resource_url": "https://api.discogs.com/artists/3314153",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Ave Maria",
+   "type_": "track"
+  },
+  {
+   "duration": "0:53",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1800656,
+     "join": "",
+     "name": "Thundercat",
+     "resource_url": "https://api.discogs.com/artists/1800656",
+     "role": "Featuring, Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3314153,
+     "join": "",
+     "name": "Larry Fisherman",
+     "resource_url": "https://api.discogs.com/artists/3314153",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C5",
+   "title": "55",
+   "type_": "track"
+  },
+  {
+   "duration": "2:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3314153,
+     "join": "",
+     "name": "Larry Fisherman",
+     "resource_url": "https://api.discogs.com/artists/3314153",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "San Francisco",
+   "type_": "track"
+  },
+  {
+   "duration": "5:31",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3314153,
+     "join": "",
+     "name": "Larry Fisherman",
+     "resource_url": "https://api.discogs.com/artists/3314153",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Colors and Shapes",
+   "type_": "track"
+  },
+  {
+   "duration": "4:06",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 181022,
+     "join": "",
+     "name": "Rick Ross",
+     "resource_url": "https://api.discogs.com/artists/181022",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1518183,
+     "join": "",
+     "name": "Big Jerm",
+     "resource_url": "https://api.discogs.com/artists/1518183",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Insomniak",
+   "type_": "track"
+  },
+  {
+   "duration": "4:31",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 214299,
+     "join": "",
+     "name": "Mike Jones (2)",
+     "resource_url": "https://api.discogs.com/artists/214299",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3314153,
+     "join": "",
+     "name": "Larry Fisherman",
+     "resource_url": "https://api.discogs.com/artists/3314153",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Uber",
+   "type_": "track"
+  },
+  {
+   "duration": "2:34",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1971480,
+     "join": "",
+     "name": "Vince Staples",
+     "resource_url": "https://api.discogs.com/artists/1971480",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 186837,
+     "join": "",
+     "name": "9th Wonder",
+     "resource_url": "https://api.discogs.com/artists/186837",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "E1",
+   "title": "Rain",
+   "type_": "track"
+  },
+  {
+   "duration": "3:28",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3314153,
+     "join": "",
+     "name": "Larry Fisherman",
+     "resource_url": "https://api.discogs.com/artists/3314153",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "E2",
+   "title": "Apparition",
+   "type_": "track"
+  },
+  {
+   "duration": "3:06",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3314153,
+     "join": "",
+     "name": "Larry Fisherman",
+     "resource_url": "https://api.discogs.com/artists/3314153",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "E3",
+   "title": "Thumbalina",
+   "type_": "track"
+  },
+  {
+   "duration": "5:31",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2172367,
+     "join": "",
+     "name": "Da$h",
+     "resource_url": "https://api.discogs.com/artists/2172367",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1967265,
+     "join": "",
+     "name": "Earl Sweatshirt",
+     "resource_url": "https://api.discogs.com/artists/1967265",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3381772,
+     "join": "",
+     "name": "randomblackdude",
+     "resource_url": "https://api.discogs.com/artists/3381772",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "E4",
+   "title": "New Faces v2",
+   "type_": "track"
+  },
+  {
+   "duration": "3:36",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3314153,
+     "join": "",
+     "name": "Larry Fisherman",
+     "resource_url": "https://api.discogs.com/artists/3314153",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "E5",
+   "title": "Grand Finale",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "F1",
+   "title": "Yeah",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/20593756-Mac-Miller-Faces",
+ "year": 2021
+}

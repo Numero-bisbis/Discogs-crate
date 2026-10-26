@@ -1,0 +1,281 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 138585,
+   "join": "",
+   "name": "Chase & Status",
+   "resource_url": "https://api.discogs.com/artists/138585",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/2tx2G0YHtloXXH--U3IBUobAEoV8dHfeEizBkhjcERU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzODU4/NS0xNjM3OTMxMjM3/LTc4MzQuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 28855009,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/UKwu4QXJIC2Ft0-L2u9vLzZgepswZuTON9wgtHQ55-I/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODU1/MDA5LTE2OTk2MjQz/NzMtNjE5OS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/UKwu4QXJIC2Ft0-L2u9vLzZgepswZuTON9wgtHQ55-I/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODU1/MDA5LTE2OTk2MjQz/NzMtNjE5OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/3uwdfMcMU6srkPh3nsHI-b3Bx8WcmLW06rGYCMRerDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODU1/MDA5LTE2OTk2MjQz/NzMtNjE5OS5qcGVn.jpeg",
+   "width": 589
+  }
+ ],
+ "labels": [
+  {
+   "catno": "EMIV 2107",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 26126,
+   "name": "EMI",
+   "resource_url": "https://api.discogs.com/labels/26126",
+   "thumbnail_url": "https://i.discogs.com/kyUkdCkRdB9c0UbyACsewybDBqUqAVAU6ndQAp2VII4/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2MTI2/LTEyMDY0Njg0NTEu/anBlZw.jpeg"
+  }
+ ],
+ "notes": "Made in Czech Republic - Sticker on Backside",
+ "released": "2023-11-10",
+ "styles": [
+  "Drum n Bass"
+ ],
+ "title": "2 Ruff Vol. 1",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5236564,
+     "join": "",
+     "name": "Stefflon Don",
+     "resource_url": "https://api.discogs.com/artists/5236564",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Selecta",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 9962161,
+     "join": "",
+     "name": "ArrDee",
+     "resource_url": "https://api.discogs.com/artists/9962161",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5328795,
+     "join": "",
+     "name": "Hedex",
+     "resource_url": "https://api.discogs.com/artists/5328795",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Liquor & Cigarettes",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 618369,
+     "join": "",
+     "name": "Bou",
+     "resource_url": "https://api.discogs.com/artists/618369",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Flowdan",
+     "id": 227234,
+     "join": "",
+     "name": "Flow Dan",
+     "resource_url": "https://api.discogs.com/artists/227234",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5905715,
+     "join": "",
+     "name": "Irah (3)",
+     "resource_url": "https://api.discogs.com/artists/5905715",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1243435,
+     "join": "",
+     "name": "Takura",
+     "resource_url": "https://api.discogs.com/artists/1243435",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1101441,
+     "join": "",
+     "name": "Trigga (5)",
+     "resource_url": "https://api.discogs.com/artists/1101441",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Baddadan",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Massive & Crew",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5014095,
+     "join": "",
+     "name": "Clementine Douglas",
+     "resource_url": "https://api.discogs.com/artists/5014095",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Say The Word",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5978811,
+     "join": "",
+     "name": "Mozey",
+     "resource_url": "https://api.discogs.com/artists/5978811",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9229501,
+     "join": "",
+     "name": "Horrid1",
+     "resource_url": "https://api.discogs.com/artists/9229501",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7568731,
+     "join": "",
+     "name": "Sav'O",
+     "resource_url": "https://api.discogs.com/artists/7568731",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "On The Block",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1243435,
+     "join": "",
+     "name": "Takura",
+     "resource_url": "https://api.discogs.com/artists/1243435",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "2Ruff",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Get Got",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6621064,
+     "join": "",
+     "name": "Kwengface",
+     "resource_url": "https://api.discogs.com/artists/6621064",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Tough Talk",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5905715,
+     "join": "",
+     "name": "Irah (3)",
+     "resource_url": "https://api.discogs.com/artists/5905715",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5923341,
+     "join": "",
+     "name": "Mist (34)",
+     "resource_url": "https://api.discogs.com/artists/5923341",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "20 Man Down",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/28855009-Chase-Status-2-Ruff-Vol-1",
+ "year": 2023
+}

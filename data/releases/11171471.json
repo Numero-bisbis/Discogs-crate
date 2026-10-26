@@ -1,0 +1,73 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 571362,
+   "join": "",
+   "name": "Yotam Avni",
+   "resource_url": "https://api.discogs.com/artists/571362",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Zh10wn4ZzPPbkF0aC4lVZtjH0z6Rgl9RyLrfpPy_aY4/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU3MTM2/Mi0xNjE3MjYxMjY4/LTQyNzQuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11171471,
+ "images": [
+  {
+   "height": 500,
+   "resource_url": "https://i.discogs.com/2TACeNP_kpf35CBlKQCDJ46l5pRTjLO21HRvgT_7xxI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTcx/NDcxLTE1MTExNzkz/MTUtODgxNS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/2TACeNP_kpf35CBlKQCDJ46l5pRTjLO21HRvgT_7xxI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTcx/NDcxLTE1MTExNzkz/MTUtODgxNS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/CSdloSLWgsQPa_3oZlEEBYuLrPUJsiA_P_QfyDAkdgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTcx/NDcxLTE1MTExNzkz/MTUtODgxNS5qcGVn.jpeg",
+   "width": 500
+  }
+ ],
+ "labels": [
+  {
+   "catno": "IV76",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 50166,
+   "name": "Innervisions",
+   "resource_url": "https://api.discogs.com/labels/50166",
+   "thumbnail_url": "https://i.discogs.com/RgncG-eH29CG1ZLtxdCNvY7A5kChwG-sT-2eH5-i5U0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUwMTY2/LTE3MDg2MTc2MDkt/MzQzMC5qcGVn.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2017-11-24",
+ "styles": [
+  "Tech House"
+ ],
+ "title": "Mabruk EP",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Midas Touch (Original Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Jorniel (Original Mix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11171471-Yotam-Avni-Mabruk-EP",
+ "year": 2017
+}

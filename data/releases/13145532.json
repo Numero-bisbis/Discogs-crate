@@ -1,0 +1,86 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4898814,
+   "join": "",
+   "name": "Felipe Gordon",
+   "resource_url": "https://api.discogs.com/artists/4898814",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/iTUbmuqB-_O6pGotrilmBK3zvV6FxTu1OOkyD-FuRqo/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4OTg4/MTQtMTY3MDIzMjQ2/MC01NTA2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13145532,
+ "images": [
+  {
+   "height": 593,
+   "resource_url": "https://i.discogs.com/3uXd8APpBwmLok0kEgcTRCvJKeJJbrbBBTGliFE9j0E/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQ1/NTMyLTE1NzgzNDYz/NTMtNzE5Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/3uXd8APpBwmLok0kEgcTRCvJKeJJbrbBBTGliFE9j0E/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQ1/NTMyLTE1NzgzNDYz/NTMtNzE5Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/w7VY6NmBtalBKYZQePgY2xAOP02SfOU97CDrzSEzu88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQ1/NTMyLTE1NzgzNDYz/NTMtNzE5Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BJ26",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 500826,
+   "name": "Black Jukebox",
+   "resource_url": "https://api.discogs.com/labels/500826",
+   "thumbnail_url": "https://i.discogs.com/-UOOZnxjLjp_TR-azQ6SWOERf66lP_dQstC_lAuirLI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUwMDgy/Ni0xMzU5OTAyNzc1/LTYyODMuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-01-00",
+ "styles": [
+  "House",
+  "Deep House",
+  "Broken Beat"
+ ],
+ "title": "Shir Khan Presents Black Jukebox 26",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Mod Heart",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Maria's Piano",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Babe",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Changes",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13145532-Felipe-Gordon-Shir-Khan-Presents-Black-Jukebox-26",
+ "year": 2019
+}

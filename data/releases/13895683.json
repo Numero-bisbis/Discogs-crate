@@ -1,0 +1,166 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Austria",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Hand-Stamped"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13895683,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/5cVxft5GawjjLaldFYOgQWIiicywjDww--1PdTgG2DU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk1/NjgzLTE1NjM1Mzg2/MDQtNTAxMi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/5cVxft5GawjjLaldFYOgQWIiicywjDww--1PdTgG2DU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk1/NjgzLTE1NjM1Mzg2/MDQtNTAxMi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/7iKBJtobJeENOPmRYsmMdV_GZ29R9Dppp_rLHxUA4zM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk1/NjgzLTE1NjM1Mzg2/MDQtNTAxMi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SBT004",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1119610,
+   "name": "Step Back Trax",
+   "resource_url": "https://api.discogs.com/labels/1119610",
+   "thumbnail_url": "https://i.discogs.com/u_PrJM3B49F4fDB-QqNLc1z-HbIKXwRhmJobVOREfns/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMTk2/MTAtMTUzNTczOTMy/Ny0zMzMwLmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-07-17",
+ "styles": [
+  "House",
+  "Deep House",
+  "Disco"
+ ],
+ "title": "Step Back Trax 004",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 7327646,
+     "join": "",
+     "name": "Júlio Cruz (2)",
+     "resource_url": "https://api.discogs.com/artists/7327646",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "5:25",
+   "position": "A1",
+   "title": "Thank U",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5845442,
+     "join": "",
+     "name": "Slim Hustla",
+     "resource_url": "https://api.discogs.com/artists/5845442",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "5:46",
+   "position": "A2",
+   "title": "IDGAF",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 7273090,
+     "join": "",
+     "name": "Milesybwoy",
+     "resource_url": "https://api.discogs.com/artists/7273090",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "5:57",
+   "position": "A3",
+   "title": "Lucid Beginnings",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5433366,
+     "join": "",
+     "name": "Subjoi",
+     "resource_url": "https://api.discogs.com/artists/5433366",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:27",
+   "position": "B1",
+   "title": "Never Again",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5048666,
+     "join": "",
+     "name": "Dr. Shemp",
+     "resource_url": "https://api.discogs.com/artists/5048666",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:28",
+   "position": "B2",
+   "title": "Luv You Bby",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 7273088,
+     "join": "",
+     "name": "S.Kull & Solution",
+     "resource_url": "https://api.discogs.com/artists/7273088",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "7:23",
+   "position": "B3",
+   "title": "Rainbow Rave",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13895683-Various-Step-Back-Trax-004",
+ "year": 2019
+}

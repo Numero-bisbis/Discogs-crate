@@ -1,0 +1,105 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 297665,
+   "join": "",
+   "name": "Hugo Heredia",
+   "resource_url": "https://api.discogs.com/artists/297665",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/QeyIrP2d5D4NIm4MSCMppLgZCRrLGfjLTZ8lh6NtzR0/rs:fit/g:sm/q:90/h:479/w:474/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI5NzY2/NS0xMzMzMzk4MTUx/LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Latin"
+ ],
+ "id": 13944132,
+ "images": [
+  {
+   "height": 596,
+   "resource_url": "https://i.discogs.com/quQmEh-ehmiJnQP4kO3bIgYCiGhAgqKCcDyrGjhUTDk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQ0/MTMyLTE2MjUzMTUw/NzEtMzM0Ni5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/quQmEh-ehmiJnQP4kO3bIgYCiGhAgqKCcDyrGjhUTDk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQ0/MTMyLTE2MjUzMTUw/NzEtMzM0Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/zDT1sAscXk5D7_jarLFPhRl8hzq3NXLzAooCQRnZXXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQ0/MTMyLTE2MjUzMTUw/NzEtMzM0Ni5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "JAZZR 002",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1673683,
+   "name": "Jazz Room Records",
+   "resource_url": "https://api.discogs.com/labels/1673683",
+   "thumbnail_url": "https://i.discogs.com/6Y39Tvuj0yr8vHqH0kOhpDOetw4R9lOzjpWvhYpO4ns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2NzM2/ODMtMTU5NjIyOTc3/NS04MTk1LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "[Back cover]\nRecorded at Tonstudio Bauer, Ludwigsburg. Oct. 9/10th 1976.\nRemastered by Blaise Favre from the original studio reels.",
+ "released": "2019-09-06",
+ "styles": [
+  "Fusion",
+  "Contemporary Jazz"
+ ],
+ "title": "Mananita Pampera",
+ "tracklist": [
+  {
+   "duration": "1:26",
+   "position": "A1",
+   "title": "Mananita Pampera",
+   "type_": "track"
+  },
+  {
+   "duration": "7:59",
+   "position": "A2",
+   "title": "El Beto",
+   "type_": "track"
+  },
+  {
+   "duration": "9:20",
+   "position": "A3",
+   "title": "Have You Met Miss... ?",
+   "type_": "track"
+  },
+  {
+   "duration": "0:44",
+   "position": "A4",
+   "title": "El Beto II",
+   "type_": "track"
+  },
+  {
+   "duration": "8:39",
+   "position": "B1",
+   "title": "Tunita",
+   "type_": "track"
+  },
+  {
+   "duration": "4:09",
+   "position": "B2",
+   "title": "Carmen Pequena",
+   "type_": "track"
+  },
+  {
+   "duration": "9:02",
+   "position": "B3",
+   "title": "Al Bebbe Guia",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13944132-Hugo-Heredia-Mananita-Pampera",
+ "year": 2019
+}

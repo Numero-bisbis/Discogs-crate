@@ -1,0 +1,250 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 18837,
+   "join": "",
+   "name": "Korn",
+   "resource_url": "https://api.discogs.com/artists/18837",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/l9mh0IG0ZkeU4PZGHict2ScObk7wa6dxH_d3YBmDW6M/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4ODM3/LTE3MjgyMzE3MTQt/ODQzNy5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Rock"
+ ],
+ "id": 12765451,
+ "images": [
+  {
+   "height": 567,
+   "resource_url": "https://i.discogs.com/Xj1JHNOZPWeaxSfhWnLUkzu-NVfaC4UWt9Xwkkc4sK8/rs:fit/g:sm/q:90/h:567/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY1/NDUxLTE1OTgxMzM0/MTgtNTM1Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Xj1JHNOZPWeaxSfhWnLUkzu-NVfaC4UWt9Xwkkc4sK8/rs:fit/g:sm/q:90/h:567/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY1/NDUxLTE1OTgxMzM0/MTgtNTM1Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/D_sRF-7K8mfeBWOId4bVB03c0oEz9314J80dX7dygMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY1/NDUxLTE1OTgxMzM0/MTgtNTM1Mi5qcGVn.jpeg",
+   "width": 569
+  }
+ ],
+ "labels": [
+  {
+   "catno": "19075843981",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1005,
+   "name": "Epic",
+   "resource_url": "https://api.discogs.com/labels/1005",
+   "thumbnail_url": "https://i.discogs.com/Ta8tXFbN3YA4PweFsSHGzpZN1tOertrxyLpgf7OaWCo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDUt/MTc3OTQ5NjYzOC04/Njg3LmpwZWc.jpeg"
+  },
+  {
+   "catno": "19075843981",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2327,
+   "name": "Immortal Records (3)",
+   "resource_url": "https://api.discogs.com/labels/2327",
+   "thumbnail_url": "https://i.discogs.com/mfpwWHkI9VcRntNVxV02oOZDYyKXbJRuqrvtmG5uW44/rs:fit/g:sm/q:90/h:180/w:398/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMjct/MTEzMTc3ODMzMS5q/cGVn.jpeg"
+  },
+  {
+   "catno": "19075843981",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  },
+  {
+   "catno": "19075843981",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 15491,
+   "name": "Legacy",
+   "resource_url": "https://api.discogs.com/labels/15491",
+   "thumbnail_url": "https://i.discogs.com/jk2im_GXsDlf_1qNdX0KOoZUX6ivAIvgJH0TEBVW7ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDkx/LTE0OTg4MzQ3MDgt/NzQwOS5wbmc.jpeg"
+  }
+ ],
+ "notes": "Download code included.\n\nAll runouts are stamped. \nIn runout of side C, variant 1 the C appears to be etched through. \nIn runout of side C variant 2 the A is crossed through and the c is etched.  ",
+ "released": "2018",
+ "styles": [
+  "Nu Metal"
+ ],
+ "title": "Issues",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 144100,
+     "join": "",
+     "name": "Jonathan Davis",
+     "resource_url": "https://api.discogs.com/artists/144100",
+     "role": "Drums [Additional Drums]",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Dead",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Falling Away From Me",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 144100,
+     "join": "",
+     "name": "Jonathan Davis",
+     "resource_url": "https://api.discogs.com/artists/144100",
+     "role": "Drums [Additional Drums]",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Trash",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 144100,
+     "join": "",
+     "name": "Jonathan Davis",
+     "resource_url": "https://api.discogs.com/artists/144100",
+     "role": "Drums [Additional Drums]",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "4 U",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "Beg For Me",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Make Me Bad",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 144100,
+     "join": "",
+     "name": "Jonathan Davis",
+     "resource_url": "https://api.discogs.com/artists/144100",
+     "role": "Drums [Additional Drums]",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "It's Gonna Go Away",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Wake Up",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Am I Going Crazy",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "Hey Daddy",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "Somebody Someone ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C2",
+   "title": "No Way",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C3",
+   "title": "Let's Get This Party Started",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 144100,
+     "join": "",
+     "name": "Jonathan Davis",
+     "resource_url": "https://api.discogs.com/artists/144100",
+     "role": "Drums [Additional Drums]",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Wish You Could Be Me",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D2",
+   "title": "Counting ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 144100,
+     "join": "",
+     "name": "Jonathan Davis",
+     "resource_url": "https://api.discogs.com/artists/144100",
+     "role": "Drums [Additional Drums]",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Dirty",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12765451-Korn-Issues",
+ "year": 2018
+}

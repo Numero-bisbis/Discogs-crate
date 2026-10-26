@@ -1,0 +1,780 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1967268,
+   "join": "",
+   "name": "Tyler, The Creator",
+   "resource_url": "https://api.discogs.com/artists/1967268",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-wyQjw_vvgKo4DAiU82_JbPZt-Do6F-RGT4dZ6jiavQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5Njcy/NjgtMTMwNTA5NjIy/OC5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Hip Hop",
+  "Funk / Soul"
+ ],
+ "id": 14210644,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/bs8y3iCJwofPpZIJnZNvEImVpP2_BfLdbewsBA-NT4o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEw/NjQ0LTE3NTg0NjM2/MzctMzY4Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/bs8y3iCJwofPpZIJnZNvEImVpP2_BfLdbewsBA-NT4o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEw/NjQ0LTE3NTg0NjM2/MzctMzY4Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/8Tod0q_3EcNRVSR5Y7WbIL0cLuJc7nIFmzOJAkN4ZAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEw/NjQ0LTE3NTg0NjM2/MzctMzY4Ny5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "19075965221",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1866,
+   "name": "Columbia",
+   "resource_url": "https://api.discogs.com/labels/1866",
+   "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+  },
+  {
+   "catno": "19075965221",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  }
+ ],
+ "notes": "Gatefold Cover includes poster\n\nMade in the EU",
+ "released": "2019",
+ "styles": [
+  "Contemporary R&B",
+  "Neo Soul"
+ ],
+ "title": "Igor",
+ "tracklist": [
+  {
+   "duration": "3:21",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6498839,
+     "join": "",
+     "name": "Amanda Brown (9)",
+     "resource_url": "https://api.discogs.com/artists/6498839",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 391145,
+     "join": "",
+     "name": "Anthony Evans",
+     "resource_url": "https://api.discogs.com/artists/391145",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5375391,
+     "join": "",
+     "name": "Tiffany Stevenson",
+     "resource_url": "https://api.discogs.com/artists/5375391",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3946211,
+     "join": "",
+     "name": "Lil Uzi Vert",
+     "resource_url": "https://api.discogs.com/artists/3946211",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Woods",
+     "id": 5489668,
+     "join": "",
+     "name": "Symere Woods",
+     "resource_url": "https://api.discogs.com/artists/5489668",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Okonma",
+     "id": 2243829,
+     "join": "",
+     "name": "Tyler Okonma",
+     "resource_url": "https://api.discogs.com/artists/2243829",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Igor's Theme",
+   "type_": "track"
+  },
+  {
+   "duration": "3:10",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 115941,
+     "join": "",
+     "name": "Charlie Wilson",
+     "resource_url": "https://api.discogs.com/artists/115941",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2981764,
+     "join": "",
+     "name": "Jessy Wilson",
+     "resource_url": "https://api.discogs.com/artists/2981764",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4637951,
+     "join": "",
+     "name": "Playboi Carti",
+     "resource_url": "https://api.discogs.com/artists/4637951",
+     "role": "Rap",
+     "tracks": ""
+    },
+    {
+     "anv": "Jordan Carter",
+     "id": 6857583,
+     "join": "",
+     "name": "Jordan Terrell Carter",
+     "resource_url": "https://api.discogs.com/artists/6857583",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Okonma",
+     "id": 2243829,
+     "join": "",
+     "name": "Tyler Okonma",
+     "resource_url": "https://api.discogs.com/artists/2243829",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Earfquake ",
+   "type_": "track"
+  },
+  {
+   "duration": "3:32",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6498839,
+     "join": "",
+     "name": "Amanda Brown (9)",
+     "resource_url": "https://api.discogs.com/artists/6498839",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 391145,
+     "join": "",
+     "name": "Anthony Evans",
+     "resource_url": "https://api.discogs.com/artists/391145",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3417340,
+     "join": "",
+     "name": "Ryan Beatty (2)",
+     "resource_url": "https://api.discogs.com/artists/3417340",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5375391,
+     "join": "",
+     "name": "Tiffany Stevenson",
+     "resource_url": "https://api.discogs.com/artists/5375391",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Kevin Kendricks",
+     "id": 641419,
+     "join": "",
+     "name": "Kevin Kendrick",
+     "resource_url": "https://api.discogs.com/artists/641419",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 160408,
+     "join": "",
+     "name": "Solange (2)",
+     "resource_url": "https://api.discogs.com/artists/160408",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Mascel",
+     "id": 3166248,
+     "join": "",
+     "name": "Bibi Mascel",
+     "resource_url": "https://api.discogs.com/artists/3166248",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Nkono Telesphore",
+     "id": 781536,
+     "join": "",
+     "name": "Nkono Teles",
+     "resource_url": "https://api.discogs.com/artists/781536",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Okonma",
+     "id": 2243829,
+     "join": "",
+     "name": "Tyler Okonma",
+     "resource_url": "https://api.discogs.com/artists/2243829",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "I Think",
+   "type_": "track"
+  },
+  {
+   "duration": "4:00",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 115941,
+     "join": "",
+     "name": "Charlie Wilson",
+     "resource_url": "https://api.discogs.com/artists/115941",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1513560,
+     "join": "",
+     "name": "Santigold",
+     "resource_url": "https://api.discogs.com/artists/1513560",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Kevin Kendricks",
+     "id": 641419,
+     "join": "",
+     "name": "Kevin Kendrick",
+     "resource_url": "https://api.discogs.com/artists/641419",
+     "role": "Keyboards [Additional Keys]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7431779,
+     "join": "",
+     "name": "Jerrod Carmichael",
+     "resource_url": "https://api.discogs.com/artists/7431779",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 999544,
+     "join": "",
+     "name": "John Charles Alder",
+     "resource_url": "https://api.discogs.com/artists/999544",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Okonma",
+     "id": 2243829,
+     "join": "",
+     "name": "Tyler Okonma",
+     "resource_url": "https://api.discogs.com/artists/2243829",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Boyfriend",
+   "type_": "track"
+  },
+  {
+   "duration": "2:57",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2981764,
+     "join": "",
+     "name": "Jessy Wilson",
+     "resource_url": "https://api.discogs.com/artists/2981764",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Okonma",
+     "id": 2243829,
+     "join": "",
+     "name": "Tyler Okonma",
+     "resource_url": "https://api.discogs.com/artists/2243829",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Running Out Of Time",
+   "type_": "track"
+  },
+  {
+   "duration": "3:15",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2981764,
+     "join": "",
+     "name": "Jessy Wilson",
+     "resource_url": "https://api.discogs.com/artists/2981764",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1513560,
+     "join": "",
+     "name": "Santigold",
+     "resource_url": "https://api.discogs.com/artists/1513560",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7431779,
+     "join": "",
+     "name": "Jerrod Carmichael",
+     "resource_url": "https://api.discogs.com/artists/7431779",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Okonma",
+     "id": 2243829,
+     "join": "",
+     "name": "Tyler Okonma",
+     "resource_url": "https://api.discogs.com/artists/2243829",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "New Magic Wand",
+   "type_": "track"
+  },
+  {
+   "duration": "3:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 160408,
+     "join": "",
+     "name": "Solange (2)",
+     "resource_url": "https://api.discogs.com/artists/160408",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Kevin Kendricks",
+     "id": 641419,
+     "join": "",
+     "name": "Kevin Kendrick",
+     "resource_url": "https://api.discogs.com/artists/641419",
+     "role": "Keyboards [Additional Keys]",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Massey",
+     "id": 1200612,
+     "join": "",
+     "name": "Bobby Massey",
+     "resource_url": "https://api.discogs.com/artists/1200612",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Allen McKenzie",
+     "id": 1902924,
+     "join": "",
+     "name": "Lester McKenzie",
+     "resource_url": "https://api.discogs.com/artists/1902924",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Dukes",
+     "id": 1077699,
+     "join": "",
+     "name": "Robert Dukes",
+     "resource_url": "https://api.discogs.com/artists/1077699",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Okonma",
+     "id": 2243829,
+     "join": "",
+     "name": "Tyler Okonma",
+     "resource_url": "https://api.discogs.com/artists/2243829",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "A Boy Is A Gun*",
+   "type_": "track"
+  },
+  {
+   "duration": "2:59",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2981764,
+     "join": "",
+     "name": "Jessy Wilson",
+     "resource_url": "https://api.discogs.com/artists/2981764",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1513560,
+     "join": "",
+     "name": "Santigold",
+     "resource_url": "https://api.discogs.com/artists/1513560",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Kevin Kendricks",
+     "id": 641419,
+     "join": "",
+     "name": "Kevin Kendrick",
+     "resource_url": "https://api.discogs.com/artists/641419",
+     "role": "Chimes",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 137880,
+     "join": "",
+     "name": "Kanye West",
+     "resource_url": "https://api.discogs.com/artists/137880",
+     "role": "Rap",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7431779,
+     "join": "",
+     "name": "Jerrod Carmichael",
+     "resource_url": "https://api.discogs.com/artists/7431779",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 0,
+     "join": "",
+     "name": "D. Smith",
+     "resource_url": "",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. West",
+     "id": 137880,
+     "join": "",
+     "name": "Kanye West",
+     "resource_url": "https://api.discogs.com/artists/137880",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Ware",
+     "id": 1031474,
+     "join": "",
+     "name": "Mick Ware",
+     "resource_url": "https://api.discogs.com/artists/1031474",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Okonma",
+     "id": 2243829,
+     "join": "",
+     "name": "Tyler Okonma",
+     "resource_url": "https://api.discogs.com/artists/2243829",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Puppet",
+   "type_": "track"
+  },
+  {
+   "duration": "3:26",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 7431779,
+     "join": "",
+     "name": "Jerrod Carmichael",
+     "resource_url": "https://api.discogs.com/artists/7431779",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6385743,
+     "join": "",
+     "name": "slowthai",
+     "resource_url": "https://api.discogs.com/artists/6385743",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Okonma",
+     "id": 2243829,
+     "join": "",
+     "name": "Tyler Okonma",
+     "resource_url": "https://api.discogs.com/artists/2243829",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "What's Good",
+   "type_": "track"
+  },
+  {
+   "duration": "6:15",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6498839,
+     "join": "",
+     "name": "Amanda Brown (9)",
+     "resource_url": "https://api.discogs.com/artists/6498839",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 391145,
+     "join": "",
+     "name": "Anthony Evans",
+     "resource_url": "https://api.discogs.com/artists/391145",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "CeeLo Green",
+     "id": 57770,
+     "join": "",
+     "name": "Cee-Lo",
+     "resource_url": "https://api.discogs.com/artists/57770",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Elly Jackson/La Roux",
+     "id": 1290349,
+     "join": "",
+     "name": "Elly Jackson",
+     "resource_url": "https://api.discogs.com/artists/1290349",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2981764,
+     "join": "",
+     "name": "Jessy Wilson",
+     "resource_url": "https://api.discogs.com/artists/2981764",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5375391,
+     "join": "",
+     "name": "Tiffany Stevenson",
+     "resource_url": "https://api.discogs.com/artists/5375391",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7431779,
+     "join": "",
+     "name": "Jerrod Carmichael",
+     "resource_url": "https://api.discogs.com/artists/7431779",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. O'Day",
+     "id": 398438,
+     "join": "",
+     "name": "Alan O'Day",
+     "resource_url": "https://api.discogs.com/artists/398438",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Omori",
+     "id": 1589555,
+     "join": "",
+     "name": "Cullen Omori",
+     "resource_url": "https://api.discogs.com/artists/1589555",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Yamashita",
+     "id": 119485,
+     "join": "",
+     "name": "Tatsuro Yamashita",
+     "resource_url": "https://api.discogs.com/artists/119485",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Okonma",
+     "id": 2243829,
+     "join": "",
+     "name": "Tyler Okonma",
+     "resource_url": "https://api.discogs.com/artists/2243829",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Gone, Gone / Thank You",
+   "type_": "track"
+  },
+  {
+   "duration": "2:41",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 115941,
+     "join": "",
+     "name": "Charlie Wilson",
+     "resource_url": "https://api.discogs.com/artists/115941",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2981764,
+     "join": "",
+     "name": "Jessy Wilson",
+     "resource_url": "https://api.discogs.com/artists/2981764",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 160408,
+     "join": "",
+     "name": "Solange (2)",
+     "resource_url": "https://api.discogs.com/artists/160408",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Okonma",
+     "id": 2243829,
+     "join": "",
+     "name": "Tyler Okonma",
+     "resource_url": "https://api.discogs.com/artists/2243829",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "I Don't Love You Anymore",
+   "type_": "track"
+  },
+  {
+   "duration": "4:25",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 90037,
+     "join": "",
+     "name": "Pharrell Williams",
+     "resource_url": "https://api.discogs.com/artists/90037",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Green",
+     "id": 25261,
+     "join": "",
+     "name": "Al Green",
+     "resource_url": "https://api.discogs.com/artists/25261",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Okonma",
+     "id": 2243829,
+     "join": "",
+     "name": "Tyler Okonma",
+     "resource_url": "https://api.discogs.com/artists/2243829",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Are We Still Friends?",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14210644-TylerCreator-Igor",
+ "year": 2019
+}

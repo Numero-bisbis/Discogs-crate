@@ -1,0 +1,123 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3565949,
+   "join": "",
+   "name": "Khruangbin",
+   "resource_url": "https://api.discogs.com/artists/3565949",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/MWcHVMl1eaqk4vOdX0K4olas_qZ9pYxWeaoCg4o_7_Q/rs:fit/g:sm/q:90/h:436/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1NjU5/NDktMTUyNDEwNDYy/OS04NTc3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Funk / Soul",
+  "Folk, World, & Country"
+ ],
+ "id": 11416588,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/HWC0OEZrpimYNRsPMvQcPrScwcz4-jD_Xl034TGuUgQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE2/NTg4LTE1MTU5NTE1/NDQtOTgzMi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/HWC0OEZrpimYNRsPMvQcPrScwcz4-jD_Xl034TGuUgQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE2/NTg4LTE1MTU5NTE1/NDQtOTgzMi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/NQAK21RNiVOjCccPYrI0UJqPEYZg3mUBSNFuThvld9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE2/NTg4LTE1MTU5NTE1/NDQtOTgzMi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ALNLP50",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1409593,
+   "name": "Night Time Stories",
+   "resource_url": "https://api.discogs.com/labels/1409593",
+   "thumbnail_url": "https://i.discogs.com/IiQgOazURv03pqA0bK_ve6XDNQAKxScbNjeLuGK4h_o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0MDk1/OTMtMTUxNzA3NzEz/My05MDUzLnBuZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-01-00",
+ "styles": [
+  "Funk",
+  "Psychedelic"
+ ],
+ "title": "Con Todo El Mundo",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Como Me Quieres",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Lady and Man",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Maria También",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "August 10",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "Como Te Quiero",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Shades of Man",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Evan Finds the Third Room",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "A Hymn",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Rules",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "Friday Morning",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11416588-Khruangbin-Con-Todo-El-Mundo",
+ "year": 2018
+}

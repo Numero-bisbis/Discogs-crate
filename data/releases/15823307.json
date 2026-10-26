@@ -1,0 +1,150 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1597485,
+   "join": "",
+   "name": "Myd",
+   "resource_url": "https://api.discogs.com/artists/1597485",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/3BftKHOE6gtgMW6YrapWohpsXm3AJOUkoncL9rtQv-E/rs:fit/g:sm/q:90/h:600/w:397/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1OTc0/ODUtMTU5NTQyNTQx/Ny0xODE4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 15823307,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/TONVQj4U4ARKveFTSEgxd9W-u_SzXlKsCF1tvUNBLi4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODIz/MzA3LTE1OTg0NTgw/MjYtNzc5OS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/TONVQj4U4ARKveFTSEgxd9W-u_SzXlKsCF1tvUNBLi4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODIz/MzA3LTE1OTg0NTgw/MjYtNzc5OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/-2ZKRbNY5TWKoFNa7qljQU50yDLZIwEez3Zu2ojGkJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODIz/MzA3LTE1OTg0NTgw/MjYtNzc5OS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ED107",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 19066,
+   "name": "Ed Banger Records",
+   "resource_url": "https://api.discogs.com/labels/19066",
+   "thumbnail_url": "https://i.discogs.com/ZIJtV-Fc7H03Z1Atc_JmDZbn1Jp7Oks35_nDxkjY7i0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5MDY2/LTE2NDgzNDM5NjYt/NjE0Ni5qcGVn.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2020-08-20",
+ "styles": [
+  "Electro",
+  "House",
+  "Nu-Disco",
+  "Techno"
+ ],
+ "title": "All Inclusive",
+ "tracklist": [
+  {
+   "duration": "3:30",
+   "position": "A1",
+   "title": "The Sun",
+   "type_": "track"
+  },
+  {
+   "duration": "3:12",
+   "position": "A2",
+   "title": "All Inclusive",
+   "type_": "track"
+  },
+  {
+   "duration": "3:43",
+   "position": "A3",
+   "title": "Bingo",
+   "type_": "track"
+  },
+  {
+   "duration": "3:27",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3455741,
+     "join": "",
+     "name": "Moodoïd",
+     "resource_url": "https://api.discogs.com/artists/3455741",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "The Sun (Moodoïd Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "8:00",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3358,
+     "join": "",
+     "name": "Cassius",
+     "resource_url": "https://api.discogs.com/artists/3358",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Bingo (Cassius Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:55",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1268244,
+     "join": "",
+     "name": "Canblaster",
+     "resource_url": "https://api.discogs.com/artists/1268244",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "All Inclusive (Canblaster Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:31",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6497664,
+     "join": "",
+     "name": "Mooph",
+     "resource_url": "https://api.discogs.com/artists/6497664",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "The Sun (Mooph’s 8-bit Cover)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15823307-Myd-All-Inclusive",
+ "year": 2020
+}

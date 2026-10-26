@@ -1,0 +1,247 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 383058,
+   "join": "Presents",
+   "name": "Al Santiago",
+   "resource_url": "https://api.discogs.com/artists/383058",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/VoN5Mokxqrss4IxY-3hg8yx9RYCUT7eB5tT6M9eiPvY/rs:fit/g:sm/q:90/h:600/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4MzA1/OC0xNDIzMzAwMjM1/LTcwOTQuanBlZw.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 572411,
+   "join": "",
+   "name": "Yambú",
+   "resource_url": "https://api.discogs.com/artists/572411",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/7EWtG6z_TlbHzFLF2lOZImaIt12mWji8Q8_C0MQLHlU/rs:fit/g:sm/q:90/h:597/w:339/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU3MjQx/MS0xNDY2MjI1Mzg5/LTIxNjYuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Latin",
+  "Funk / Soul"
+ ],
+ "id": 743014,
+ "images": [
+  {
+   "height": 595,
+   "resource_url": "https://i.discogs.com/DrOrqQGSfn-613PvUPsDgQJxr_SEw6noeR3uXx6matE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzAx/NC0xNjY1NDQ3Nzky/LTg1MzQuanBlZw.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/DrOrqQGSfn-613PvUPsDgQJxr_SEw6noeR3uXx6matE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzAx/NC0xNjY1NDQ3Nzky/LTg1MzQuanBlZw.jpeg",
+   "uri150": "https://i.discogs.com/sLn_ZkiIp_UAuXq1A2jzwSU0JfEG7ivc5aZGcVptbho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzAx/NC0xNjY1NDQ3Nzky/LTg1MzQuanBlZw.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "MLP 506",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 67987,
+   "name": "Montuno Records",
+   "resource_url": "https://api.discogs.com/labels/67987",
+   "thumbnail_url": "https://i.discogs.com/AWi5Ek7sHwgr5g4BeBJ-Jk7Gymmhlungk11-a6wNyMU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY3OTg3/LTEzMjg4NjcxNTMu/anBlZw.jpeg"
+  }
+ ],
+ "notes": "Label variation: orange labels with label name written in a serif font at top, instead of the usual label logo.\n\nStudio: Broadway Recording\nRecording Dates: 3/27/75 & 5/7/75\n\nTitle is Yambú Vol 1 on spine.",
+ "released": "1975",
+ "styles": [
+  "Salsa",
+  "Mambo",
+  "Bolero",
+  "Guaracha",
+  "Disco"
+ ],
+ "title": "Yambú",
+ "tracklist": [
+  {
+   "duration": "4:50",
+   "position": "A1",
+   "title": "Dinamita",
+   "type_": "track"
+  },
+  {
+   "duration": "5:06",
+   "position": "A2",
+   "title": "A New Thing",
+   "type_": "track"
+  },
+  {
+   "duration": "4:12",
+   "extraartists": [
+    {
+     "anv": "Israel Davila",
+     "id": 571055,
+     "join": "",
+     "name": "Izzy Cano Davila",
+     "resource_url": "https://api.discogs.com/artists/571055",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Cosas De Amor",
+   "type_": "track"
+  },
+  {
+   "duration": "4:05",
+   "position": "A4",
+   "title": "Profesor",
+   "type_": "track"
+  },
+  {
+   "duration": "3:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 461582,
+     "join": "",
+     "name": "Eddie Rodriguez",
+     "resource_url": "https://api.discogs.com/artists/461582",
+     "role": "Congas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 416972,
+     "join": "",
+     "name": "Frankie Malabe",
+     "resource_url": "https://api.discogs.com/artists/416972",
+     "role": "Congas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 571052,
+     "join": "",
+     "name": "Miguel Sevilla",
+     "resource_url": "https://api.discogs.com/artists/571052",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 571050,
+     "join": "",
+     "name": "Freddie Harris",
+     "resource_url": "https://api.discogs.com/artists/571050",
+     "role": "Electric Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 96441,
+     "join": "",
+     "name": "Rodney Jones",
+     "resource_url": "https://api.discogs.com/artists/96441",
+     "role": "Electric Guitar",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Hippopatamus",
+   "type_": "track"
+  },
+  {
+   "duration": "5:01",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 456653,
+     "join": "",
+     "name": "Ramon Rodriguez",
+     "resource_url": "https://api.discogs.com/artists/456653",
+     "role": "Arranged By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1454102,
+     "join": "",
+     "name": "Eligio Rivera",
+     "resource_url": "https://api.discogs.com/artists/1454102",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Caballo",
+   "type_": "track"
+  },
+  {
+   "duration": "5:02",
+   "position": "B2",
+   "title": "Movin' On",
+   "type_": "track"
+  },
+  {
+   "duration": "5:11",
+   "position": "B3",
+   "title": "Vecindad",
+   "type_": "track"
+  },
+  {
+   "duration": "4:32",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 571052,
+     "join": "",
+     "name": "Miguel Sevilla",
+     "resource_url": "https://api.discogs.com/artists/571052",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 571047,
+     "join": "",
+     "name": "Caty Sevilla",
+     "resource_url": "https://api.discogs.com/artists/571047",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 170542,
+     "join": "",
+     "name": "Lesette Wilson",
+     "resource_url": "https://api.discogs.com/artists/170542",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Hebb",
+     "id": 318476,
+     "join": "",
+     "name": "Bobby Hebb",
+     "resource_url": "https://api.discogs.com/artists/318476",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Sunny",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/743014-Al-Santiago-Presents-Yambú-Yambú",
+ "year": 1975
+}

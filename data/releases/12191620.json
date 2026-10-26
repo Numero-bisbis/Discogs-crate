@@ -1,0 +1,113 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4898814,
+   "join": "",
+   "name": "Felipe Gordon",
+   "resource_url": "https://api.discogs.com/artists/4898814",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/iTUbmuqB-_O6pGotrilmBK3zvV6FxTu1OOkyD-FuRqo/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4OTg4/MTQtMTY3MDIzMjQ2/MC01NTA2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12191620,
+ "images": [
+  {
+   "height": 589,
+   "resource_url": "https://i.discogs.com/cFG5XhIiU1dAZV-fYpIg1zJAVQZoAShNn67yF4Bhh_A/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkx/NjIwLTE1MzI4NzI5/MDItMzkyNi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/cFG5XhIiU1dAZV-fYpIg1zJAVQZoAShNn67yF4Bhh_A/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkx/NjIwLTE1MzI4NzI5/MDItMzkyNi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/mdJ49ETgtegFRdMiGxoAF5CvtXr3VLROpYJSK5wp7RY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkx/NjIwLTE1MzI4NzI5/MDItMzkyNi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "FW002",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1719668,
+   "name": "Flat White Records (2)",
+   "resource_url": "https://api.discogs.com/labels/1719668",
+   "thumbnail_url": "https://i.discogs.com/CCa3nJIr8jk3_HT7jE7D87gTVaNaQaXLFKU3b3Dvehk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3MTk2/NjgtMTU3MzI0NzIw/MS0yOTI4LmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018",
+ "styles": [
+  "House",
+  "Deep House"
+ ],
+ "title": "Deep Fried Banana EP",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5599270,
+     "join": "",
+     "name": "Vagabundo Club Social",
+     "resource_url": "https://api.discogs.com/artists/5599270",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Deep Fried Banana",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Groove 37",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Fighting Momios With Acid And Jazz",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "707 Banger",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4969041,
+     "join": "",
+     "name": "The Last Trip To Gandahar",
+     "resource_url": "https://api.discogs.com/artists/4969041",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Deep Fried Banana (The Last Trip To Gandahar Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12191620-Felipe-Gordon-Deep-Fried-Banana-EP",
+ "year": 2018
+}

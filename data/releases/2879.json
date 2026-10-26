@@ -1,0 +1,644 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1289,
+   "join": "",
+   "name": "Daft Punk",
+   "resource_url": "https://api.discogs.com/artists/1289",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/sP_wDoC5MsG9lZUfb9thLbpmMmL__nuVnGMNpwgjirE/rs:fit/g:sm/q:90/h:438/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyODkt/MTYxNTQ4NDUyOS00/Mjg0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 2879,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/RsXfd7bN5NgcB-kUPIRoYdZ6uOjN_yybd1-qospDq-c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzkt/MTc4ODc5NTYwNS0y/OTc4LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/RsXfd7bN5NgcB-kUPIRoYdZ6uOjN_yybd1-qospDq-c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzkt/MTc4ODc5NTYwNS0y/OTc4LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/3Gs9bPb5T646LLQn9sctMmU-As0xbcx8VMCblKfgjvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzkt/MTc4ODc5NTYwNS0y/OTc4LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "V2940",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 750,
+   "name": "Virgin",
+   "resource_url": "https://api.discogs.com/labels/750",
+   "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+  },
+  {
+   "catno": "8496061",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 750,
+   "name": "Virgin",
+   "resource_url": "https://api.discogs.com/labels/750",
+   "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+  },
+  {
+   "catno": "7243 8496061 2",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 750,
+   "name": "Virgin",
+   "resource_url": "https://api.discogs.com/labels/750",
+   "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+  }
+ ],
+ "notes": "Tracks A1 and D3 Published by Zomba music for world excluding France.\nDelabel Editions / Daft Music for France. TTufftoney music (BMI) c/o 2P's W Music.\n\nTracks A2, B3 and C1 to D2 Published by Zomba music for world excluding France.\nDelabel Editions / Daft Music for France.\n\nTrack A3 contains a sample from \"I Love You More\" written by George Duke.\nPublished by Mycenae Music Publishing Co (ASCAP), performed by G.Duke, used by permission of Sony Music Entertainment.\nPublished by Zomba music for world excluding France.\nDelabel Editions / Daft Music for France.\nSneakarican Music (ASCAP)\n\nTrack B1 contains a sample from \"Cola Bottle Baby\" written by Edwin Birdsong.\nPublished by Edwin Birdson Music (ASCAP) and WB Music (ASCAP), performed by Edwin Birdsong, used by kind permission of Sony Music Entertainment.\nPublished by Zomba music for world excluding France.\nDelabel Editions / Daft Music for France.\n\nTrack B2 contains a sample from \"Can You Imagine\" written by Dwight Brewster & Aleta Jennings.\nPublished by Third world Publishing & Chesyl Publishing, performed by The Imperials, used by kind permission of Power Exchange.\nPublished by Zomba music for world excluding France.\nDelabel Editions / Daft Music for France.\n\nTrack B4 contains a sample from \"Who's Been Sleeping In My Bed\" written by Barry Manilow & Marty Panzer.\nPublished by Kamakazi Music Corp. (BMI) and SwaneeBRAVO! Music (BMI) administered by Careers - BMG Music Publishing (BMI), performed by Barry Manilow, used by permission of Arista Records.\nPublished by Zomba music for world excluding France.\nDelabel Editions / Daft Music for France.\n\nProduced for Daft Life\n\n(P)&(C) 2001 Daft Life Ltd under exclusive license to Virgin Records Ltd.\nPrinted in the EU.\n\nFirst LP pressing.\nGatefold jacket with full printed paper inner sleeves including lyrics, credits and a photo of the band.\nIncluded is a [url=https://www.discogs.com/release/2879-Daft-Punk-Discovery/image/SW1hZ2U6ODg0NDA4NTk=]sheet with a credit card[/url] with a \"member personal access code\"; expiration date 12/02, to be used at www.daftcard.com\n\nRunout details: everything is hand etched on each side.",
+ "released": "2001-03-12",
+ "styles": [
+  "Disco",
+  "House",
+  "Electro",
+  "French House"
+ ],
+ "title": "Discovery",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2583,
+     "join": "",
+     "name": "Romanthony",
+     "resource_url": "https://api.discogs.com/artists/2583",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Moore",
+     "id": 1282901,
+     "join": "",
+     "name": "Anthony Wayne Moore",
+     "resource_url": "https://api.discogs.com/artists/1282901",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G-M de Homem-Christo",
+     "id": 424278,
+     "join": "",
+     "name": "Guy-Manuel de Homem-Christo",
+     "resource_url": "https://api.discogs.com/artists/424278",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Bangalter",
+     "id": 3775,
+     "join": "",
+     "name": "Thomas Bangalter",
+     "resource_url": "https://api.discogs.com/artists/3775",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "One More Time",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "G-M de Homem-Christo",
+     "id": 424278,
+     "join": "",
+     "name": "Guy-Manuel de Homem-Christo",
+     "resource_url": "https://api.discogs.com/artists/424278",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Bangalter",
+     "id": 3775,
+     "join": "",
+     "name": "Thomas Bangalter",
+     "resource_url": "https://api.discogs.com/artists/3775",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Aerodynamic",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Sosa",
+     "id": 399617,
+     "join": "",
+     "name": "Carlos Sosa",
+     "resource_url": "https://api.discogs.com/artists/399617",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G-M de Homem-Christo",
+     "id": 424278,
+     "join": "",
+     "name": "Guy-Manuel de Homem-Christo",
+     "resource_url": "https://api.discogs.com/artists/424278",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Bangalter",
+     "id": 3775,
+     "join": "",
+     "name": "Thomas Bangalter",
+     "resource_url": "https://api.discogs.com/artists/3775",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 170,
+     "join": "",
+     "name": "DJ Sneak",
+     "resource_url": "https://api.discogs.com/artists/170",
+     "role": "Written-By [C. Sosa aka]",
+     "tracks": ""
+    },
+    {
+     "anv": "G. Duke",
+     "id": 12803,
+     "join": "",
+     "name": "George Duke",
+     "resource_url": "https://api.discogs.com/artists/12803",
+     "role": "Written-By, Performer",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Digital Love",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 141386,
+     "join": "",
+     "name": "Edwin Birdsong",
+     "resource_url": "https://api.discogs.com/artists/141386",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Birdsong",
+     "id": 141386,
+     "join": "",
+     "name": "Edwin Birdsong",
+     "resource_url": "https://api.discogs.com/artists/141386",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G-M de Homem-Christo",
+     "id": 424278,
+     "join": "",
+     "name": "Guy-Manuel de Homem-Christo",
+     "resource_url": "https://api.discogs.com/artists/424278",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Bangalter",
+     "id": 3775,
+     "join": "",
+     "name": "Thomas Bangalter",
+     "resource_url": "https://api.discogs.com/artists/3775",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Harder, Better, Faster, Stronger",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 432764,
+     "join": "",
+     "name": "The Imperials",
+     "resource_url": "https://api.discogs.com/artists/432764",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 759651,
+     "join": "",
+     "name": "Aleta Jennings",
+     "resource_url": "https://api.discogs.com/artists/759651",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 28653,
+     "join": "",
+     "name": "Dwight Brewster",
+     "resource_url": "https://api.discogs.com/artists/28653",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G-M de Homem-Christo",
+     "id": 424278,
+     "join": "",
+     "name": "Guy-Manuel de Homem-Christo",
+     "resource_url": "https://api.discogs.com/artists/424278",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Bangalter",
+     "id": 3775,
+     "join": "",
+     "name": "Thomas Bangalter",
+     "resource_url": "https://api.discogs.com/artists/3775",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Crescendolls",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "G-M de Homem-Christo",
+     "id": 424278,
+     "join": "",
+     "name": "Guy-Manuel de Homem-Christo",
+     "resource_url": "https://api.discogs.com/artists/424278",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Bangalter",
+     "id": 3775,
+     "join": "",
+     "name": "Thomas Bangalter",
+     "resource_url": "https://api.discogs.com/artists/3775",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Nightvision",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 79091,
+     "join": "",
+     "name": "Barry Manilow",
+     "resource_url": "https://api.discogs.com/artists/79091",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Manilow",
+     "id": 79091,
+     "join": "",
+     "name": "Barry Manilow",
+     "resource_url": "https://api.discogs.com/artists/79091",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G-M de Homem-Christo",
+     "id": 424278,
+     "join": "",
+     "name": "Guy-Manuel de Homem-Christo",
+     "resource_url": "https://api.discogs.com/artists/424278",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Panzer",
+     "id": 759652,
+     "join": "",
+     "name": "Marty Panzer",
+     "resource_url": "https://api.discogs.com/artists/759652",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Bangalter",
+     "id": 3775,
+     "join": "",
+     "name": "Thomas Bangalter",
+     "resource_url": "https://api.discogs.com/artists/3775",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Superheroes",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "G-M de Homem-Christo",
+     "id": 424278,
+     "join": "",
+     "name": "Guy-Manuel de Homem-Christo",
+     "resource_url": "https://api.discogs.com/artists/424278",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Bangalter",
+     "id": 3775,
+     "join": "",
+     "name": "Thomas Bangalter",
+     "resource_url": "https://api.discogs.com/artists/3775",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "High Life",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "G-M de Homem-Christo",
+     "id": 424278,
+     "join": "",
+     "name": "Guy-Manuel de Homem-Christo",
+     "resource_url": "https://api.discogs.com/artists/424278",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Bangalter",
+     "id": 3775,
+     "join": "",
+     "name": "Thomas Bangalter",
+     "resource_url": "https://api.discogs.com/artists/3775",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Something About Us",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "G-M de Homem-Christo",
+     "id": 424278,
+     "join": "",
+     "name": "Guy-Manuel de Homem-Christo",
+     "resource_url": "https://api.discogs.com/artists/424278",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Bangalter",
+     "id": 3775,
+     "join": "",
+     "name": "Thomas Bangalter",
+     "resource_url": "https://api.discogs.com/artists/3775",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Voyager",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "G-M de Homem-Christo",
+     "id": 424278,
+     "join": "",
+     "name": "Guy-Manuel de Homem-Christo",
+     "resource_url": "https://api.discogs.com/artists/424278",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Bangalter",
+     "id": 3775,
+     "join": "",
+     "name": "Thomas Bangalter",
+     "resource_url": "https://api.discogs.com/artists/3775",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Veridis Quo",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "G-M de Homem-Christo",
+     "id": 424278,
+     "join": "",
+     "name": "Guy-Manuel de Homem-Christo",
+     "resource_url": "https://api.discogs.com/artists/424278",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Bangalter",
+     "id": 3775,
+     "join": "",
+     "name": "Thomas Bangalter",
+     "resource_url": "https://api.discogs.com/artists/3775",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Short Circuit",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 161,
+     "join": "",
+     "name": "Todd Edwards",
+     "resource_url": "https://api.discogs.com/artists/161",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 161,
+     "join": "",
+     "name": "Todd Edwards",
+     "resource_url": "https://api.discogs.com/artists/161",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "G-M de Homem-Christo",
+     "id": 424278,
+     "join": "",
+     "name": "Guy-Manuel de Homem-Christo",
+     "resource_url": "https://api.discogs.com/artists/424278",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Bangalter",
+     "id": 3775,
+     "join": "",
+     "name": "Thomas Bangalter",
+     "resource_url": "https://api.discogs.com/artists/3775",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Imperatrice",
+     "id": 579321,
+     "join": "",
+     "name": "Todd Imperatrice",
+     "resource_url": "https://api.discogs.com/artists/579321",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Face To Face",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2583,
+     "join": "",
+     "name": "Romanthony",
+     "resource_url": "https://api.discogs.com/artists/2583",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2583,
+     "join": "",
+     "name": "Romanthony",
+     "resource_url": "https://api.discogs.com/artists/2583",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Moore",
+     "id": 1282901,
+     "join": "",
+     "name": "Anthony Wayne Moore",
+     "resource_url": "https://api.discogs.com/artists/1282901",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G-M de Homem-Christo",
+     "id": 424278,
+     "join": "",
+     "name": "Guy-Manuel de Homem-Christo",
+     "resource_url": "https://api.discogs.com/artists/424278",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Bangalter",
+     "id": 3775,
+     "join": "",
+     "name": "Thomas Bangalter",
+     "resource_url": "https://api.discogs.com/artists/3775",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Too Long",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/2879-Daft-Punk-Discovery",
+ "year": 2001
+}

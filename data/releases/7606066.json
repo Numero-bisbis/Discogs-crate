@@ -1,0 +1,112 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 23755,
+   "join": "",
+   "name": "Miles Davis",
+   "resource_url": "https://api.discogs.com/artists/23755",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-ov32suDuJlZACym6tbwfcu4dFWYrGXmvlnWi1qrwh0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIzNzU1/LTE3NTY0ODc2NjMt/NDA3My5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Repress",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "180 Gram"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 7606066,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/snjTBhy7S6FkxJ2v_dEiIK1aBPbDMFLSYNYhyIJ9jaQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDYw/NjYtMTQ0NTAxMDM0/MC00NjgzLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/snjTBhy7S6FkxJ2v_dEiIK1aBPbDMFLSYNYhyIJ9jaQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDYw/NjYtMTQ0NTAxMDM0/MC00NjgzLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/qtaNJ--9eURswMibCufWL04p1eTtJKRnjLNtepcXTTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDYw/NjYtMTQ0NTAxMDM0/MC00NjgzLmpwZWc.jpeg",
+   "width": 598
+  }
+ ],
+ "labels": [
+  {
+   "catno": "88875111921",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1866,
+   "name": "Columbia",
+   "resource_url": "https://api.discogs.com/labels/1866",
+   "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+  },
+  {
+   "catno": "88875111921",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 15491,
+   "name": "Legacy",
+   "resource_url": "https://api.discogs.com/labels/15491",
+   "thumbnail_url": "https://i.discogs.com/jk2im_GXsDlf_1qNdX0KOoZUX6ivAIvgJH0TEBVW7ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDkx/LTE0OTg4MzQ3MDgt/NzQwOS5wbmc.jpeg"
+  },
+  {
+   "catno": "88875111921",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  }
+ ],
+ "notes": "Repress of the 2014 [r=6033383], some copies were distributed with a download code and a \"We are vinyl\" sticker, other copies were distributed with a \"Legacy Vinyl\" sticker on the shrink wrap.\n\nVery similar to [r=21542230] but with different matrix in runout. \n\n[On back]\nJulian Adderley, alto saxophone* (Courtesy of [l=Riverside Records])\nWyn Kelly, piano** (Courtesy of [l=Riverside Records])\n\nOriginally released 1959. All rights reserved by Columbia Records, a division of Sony Music Entertainment.\n© 1959, 2015 Columbia Records, a division of Sony Music Entertainment / Distributed by Sony Music Entertainment.\nCOLUMBIA is the exclusive trademark of Sony Music Entertainment. / Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.\n\nRunouts are etched except of these stamped parts:\n- 99406 1A \n- 99406 1B",
+ "released": "2015-10-16",
+ "styles": [
+  "Modal"
+ ],
+ "title": "Kind Of Blue",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "So What",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Freddie Freeloader",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Blue In Green",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "All Blues",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Flamenco Sketches",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/7606066-Miles-Davis-Kind-Of-Blue",
+ "year": 2015
+}

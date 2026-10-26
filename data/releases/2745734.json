@@ -1,0 +1,854 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Latin"
+ ],
+ "id": 2745734,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/qeB9cU_q2kdFe4Xy6-k5_EtF9dlq6tz1hwNVbKCFl9k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDU3/MzQtMTI5OTE1OTc4/MS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/qeB9cU_q2kdFe4Xy6-k5_EtF9dlq6tz1hwNVbKCFl9k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDU3/MzQtMTI5OTE1OTc4/MS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/DTMaUFVZsVBMMZ-nW7LwZDXuihk217laujABrLaC8bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDU3/MzQtMTI5OTE1OTc4/MS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SNDWLP026",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 32575,
+   "name": "Soundway",
+   "resource_url": "https://api.discogs.com/labels/32575",
+   "thumbnail_url": "https://i.discogs.com/W28PrZN1MStO3sfOn5PDIBbxBu1RHKflaPE5qDlGOSw/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyNTc1/LTE0NDE4MzE2MDct/NjAzNC5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Comes in gatefold sleeve with liner notes and photographs inside. Contains download code for the free MP3 download of the record.\r\n\r\nA1 taken from the Philips LP 'El Playero' (6346011), 1970\r\nA2 taken from the Philips LP 'Myriam' (6346024), 1971\r\nA3 taken from the Philips LP 'Traigo Salsa' (634478), 1970\r\nA4 taken from the Philips LP 'Rosendo Martínez Y Su Orquesta' (631839)\r\nA5 taken from the Philips LP 'Pepino En Patacumbia'(843317), 1968\r\nB1 taken from the Philips LP 'Mango Candela' (6346012), 1970\r\nB2 taken from the Polydor LP 'Burucuca' (608633), 1961\r\nB3 taken from the Philips LP 'Tabaquito' (631837), 1964\r\nB4 taken from the Philips LP 'Estamos...En La Pomada...' (6346015), 1970\r\nB5 taken from Discos Curros 7\" 45RPM Single (45-c-071), 1964\r\nB6 taken from the Philips LP 'Picanton' (6346027), 1971\r\nC1 taken from the Philips LP 'El Gran Romancito...Y Punto' (634473), 1969\r\nC2 taken from the Philips LP 'Picanton' (6346027), 1971\r\nC3 taken from the Philips LP 'Traigo Salsa' (634478), 1970\r\nC4 taken from the Philips LP 'Salsa Sabrosa' (6377007), Candelazos Curro', 1971\r\nD1 taken from the Philips LP 'Alex Acosta Y Su Orquesta' (631841), 1964\r\nD2 taken from the Philips LP 'Monicongo Prieto' (6346025), 1971\r\nD3 taken from the Philips LP 'Disco De Oro, Bailables Curro No. 8' (631868), 1965\r\nD4 taken from the Philips LP 'Alex Acosta Y Su Orquesta' (631841), 1964\r\nD5 taken from the Philips LP 'El Amor De Leandro' (6346032), 1972\r\n\r\nMastering and vinyl restoration at Sound Mastering, London.\r\nPressed at MPO, Averton.\r\n\r\nTrack D5 is a vinyl bonus track.\r\n\r\nThis compilation ℗&© 2011 Soundway Records Ltd.\r\nManufactured in the EU.\r\n",
+ "released": "2011-02-28",
+ "styles": [
+  "Cumbia",
+  "Descarga",
+  "Salsa",
+  "Guaguancó"
+ ],
+ "title": "Cartagena! Curro Fuentes & The Big Band Cumbia And Descarga Sound Of Colombia 1962-72",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2147562,
+     "join": "",
+     "name": "Rosendo Y Su Banda",
+     "resource_url": "https://api.discogs.com/artists/2147562",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:58",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2147583,
+     "join": "",
+     "name": "Rosendo Martinez",
+     "resource_url": "https://api.discogs.com/artists/2147583",
+     "role": "Leader",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147557,
+     "join": "",
+     "name": "Alex Acosta (3)",
+     "resource_url": "https://api.discogs.com/artists/2147557",
+     "role": "Saxophone, Clarinet",
+     "tracks": ""
+    },
+    {
+     "anv": "Nuncira Machado",
+     "id": 2435927,
+     "join": "",
+     "name": "Jesús Nuncira Machado",
+     "resource_url": "https://api.discogs.com/artists/2435927",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Me Voy Pa'La Costa",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2147552,
+     "join": "",
+     "name": "Puerto Rico Y Su Combo",
+     "resource_url": "https://api.discogs.com/artists/2147552",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:22",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2147576,
+     "join": "",
+     "name": "Curro Fuentes",
+     "resource_url": "https://api.discogs.com/artists/2147576",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Fuentes",
+     "id": 2147576,
+     "join": "",
+     "name": "Curro Fuentes",
+     "resource_url": "https://api.discogs.com/artists/2147576",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Guerra",
+     "id": 3435329,
+     "join": "",
+     "name": "Jaime Arturo Guerra Madrigal",
+     "resource_url": "https://api.discogs.com/artists/3435329",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "La Cumbia Del Pescador",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2147572,
+     "join": "Y",
+     "name": "Clodomiro Montes",
+     "resource_url": "https://api.discogs.com/artists/2147572",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147585,
+     "join": "",
+     "name": "El Super Combo Curro",
+     "resource_url": "https://api.discogs.com/artists/2147585",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:57",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2147544,
+     "join": "",
+     "name": "Martinez Brothers",
+     "resource_url": "https://api.discogs.com/artists/2147544",
+     "role": "Baritone Saxophone, Alto Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147564,
+     "join": "",
+     "name": "Rafaelito Montes",
+     "resource_url": "https://api.discogs.com/artists/2147564",
+     "role": "Congas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147553,
+     "join": "",
+     "name": "Cabeza Brothers",
+     "resource_url": "https://api.discogs.com/artists/2147553",
+     "role": "Electric Bass, Electric Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147548,
+     "join": "",
+     "name": "Puerto Rico (2)",
+     "resource_url": "https://api.discogs.com/artists/2147548",
+     "role": "Timbales",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147574,
+     "join": "",
+     "name": "Freddy Santos",
+     "resource_url": "https://api.discogs.com/artists/2147574",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147569,
+     "join": "",
+     "name": "José Maria Montes",
+     "resource_url": "https://api.discogs.com/artists/2147569",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147556,
+     "join": "",
+     "name": "Manuel Villanueva",
+     "resource_url": "https://api.discogs.com/artists/2147556",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2154286,
+     "join": "",
+     "name": "Morales (5)",
+     "resource_url": "https://api.discogs.com/artists/2154286",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "Alfredo Arsusa",
+     "id": 2147555,
+     "join": "",
+     "name": "Alfredo Arzuza",
+     "resource_url": "https://api.discogs.com/artists/2147555",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147586,
+     "join": "",
+     "name": "Alfredo Arzusa",
+     "resource_url": "https://api.discogs.com/artists/2147586",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Puerto Rico Zumbando",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2147559,
+     "join": "",
+     "name": "Rosendo Martínez Y Su Orquesta",
+     "resource_url": "https://api.discogs.com/artists/2147559",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:00",
+   "extraartists": [
+    {
+     "anv": "La Sonora Curro",
+     "id": 3111110,
+     "join": "",
+     "name": "Sonora Curro",
+     "resource_url": "https://api.discogs.com/artists/3111110",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147568,
+     "join": "",
+     "name": "Pedro Amaya",
+     "resource_url": "https://api.discogs.com/artists/2147568",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "El Alegron",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1501303,
+     "join": "",
+     "name": "Lucho Bermudez Y Su Orquesta",
+     "resource_url": "https://api.discogs.com/artists/1501303",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:34",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 743178,
+     "join": "",
+     "name": "Lucho Bermudez",
+     "resource_url": "https://api.discogs.com/artists/743178",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Fiesta De Negritos",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2147561,
+     "join": "",
+     "name": "Cantina Y Su Combo",
+     "resource_url": "https://api.discogs.com/artists/2147561",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2147547,
+     "join": "",
+     "name": "Luis C. Campo Gomez",
+     "resource_url": "https://api.discogs.com/artists/2147547",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Santa Marta Cumbia",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Lucho Bermudez Y Su Orquesta Sabanera",
+     "id": 1501303,
+     "join": "",
+     "name": "Lucho Bermudez Y Su Orquesta",
+     "resource_url": "https://api.discogs.com/artists/1501303",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2147573,
+     "join": "",
+     "name": "Margarita De Pombo",
+     "resource_url": "https://api.discogs.com/artists/2147573",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Arroz Con Coco",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2147558,
+     "join": "",
+     "name": "Orlando Fortich Y Su Orquesta",
+     "resource_url": "https://api.discogs.com/artists/2147558",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:08",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2147583,
+     "join": "",
+     "name": "Rosendo Martinez",
+     "resource_url": "https://api.discogs.com/artists/2147583",
+     "role": "Soloist [Bombardino]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147581,
+     "join": "",
+     "name": "Santiago Agamez",
+     "resource_url": "https://api.discogs.com/artists/2147581",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Yolanda",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2173478,
+     "join": "Con",
+     "name": "Homero Y Su Combo",
+     "resource_url": "https://api.discogs.com/artists/2173478",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "Pacho Galan",
+     "id": 1294519,
+     "join": "Y",
+     "name": "Pacho Galán",
+     "resource_url": "https://api.discogs.com/artists/1294519",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "La Sonora Curro",
+     "id": 3111110,
+     "join": "",
+     "name": "Sonora Curro",
+     "resource_url": "https://api.discogs.com/artists/3111110",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:11",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1294519,
+     "join": "",
+     "name": "Pacho Galán",
+     "resource_url": "https://api.discogs.com/artists/1294519",
+     "role": "Directed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147578,
+     "join": "",
+     "name": "Homero Glenn",
+     "resource_url": "https://api.discogs.com/artists/2147578",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Oye Negra",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Orquesta Sonora Curro",
+     "id": 3111110,
+     "join": "",
+     "name": "Sonora Curro",
+     "resource_url": "https://api.discogs.com/artists/3111110",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:46",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 606928,
+     "join": "",
+     "name": "José Barros",
+     "resource_url": "https://api.discogs.com/artists/606928",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Patuleco",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2147577,
+     "join": "",
+     "name": "Los Seven Del Swing",
+     "resource_url": "https://api.discogs.com/artists/2147577",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2147549,
+     "join": "",
+     "name": "Hugo Alandette",
+     "resource_url": "https://api.discogs.com/artists/2147549",
+     "role": "Written-By, Lyrics By",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Silencio",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2147584,
+     "join": "Y",
+     "name": "El Gran Romancito",
+     "resource_url": "https://api.discogs.com/artists/2147584",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147585,
+     "join": "",
+     "name": "El Super Combo Curro",
+     "resource_url": "https://api.discogs.com/artists/2147585",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:49",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2147554,
+     "join": "",
+     "name": "Carlos Román",
+     "resource_url": "https://api.discogs.com/artists/2147554",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Honolulu",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2147577,
+     "join": "",
+     "name": "Los Seven Del Swing",
+     "resource_url": "https://api.discogs.com/artists/2147577",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:14",
+   "extraartists": [
+    {
+     "anv": "Victor Melendez",
+     "id": 2520446,
+     "join": "",
+     "name": "Víctor Meléndez",
+     "resource_url": "https://api.discogs.com/artists/2520446",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147549,
+     "join": "",
+     "name": "Hugo Alandette",
+     "resource_url": "https://api.discogs.com/artists/2147549",
+     "role": "Written-By, Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Celoso",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2147572,
+     "join": "Y",
+     "name": "Clodomiro Montes",
+     "resource_url": "https://api.discogs.com/artists/2147572",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147585,
+     "join": "",
+     "name": "El Super Combo Curro",
+     "resource_url": "https://api.discogs.com/artists/2147585",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:28",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2147572,
+     "join": "",
+     "name": "Clodomiro Montes",
+     "resource_url": "https://api.discogs.com/artists/2147572",
+     "role": "Soloist, Timbales",
+     "tracks": ""
+    },
+    {
+     "anv": "Hugo Alandete",
+     "id": 2147549,
+     "join": "",
+     "name": "Hugo Alandette",
+     "resource_url": "https://api.discogs.com/artists/2147549",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147550,
+     "join": "",
+     "name": "Jose Cabeza",
+     "resource_url": "https://api.discogs.com/artists/2147550",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Traigo Salsa",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2147560,
+     "join": "",
+     "name": "Lalo Orozco Y Su Combo Sabroso",
+     "resource_url": "https://api.discogs.com/artists/2147560",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "5:27",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2147580,
+     "join": "",
+     "name": "Lalo Orozco",
+     "resource_url": "https://api.discogs.com/artists/2147580",
+     "role": "Written-By, Piano",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Salsa Sabrosa",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2147567,
+     "join": "",
+     "name": "Alex Acosta Y Su Orquesta",
+     "resource_url": "https://api.discogs.com/artists/2147567",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:55",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2147557,
+     "join": "",
+     "name": "Alex Acosta (3)",
+     "resource_url": "https://api.discogs.com/artists/2147557",
+     "role": "Leader",
+     "tracks": ""
+    },
+    {
+     "anv": "Pedro A. Amaya",
+     "id": 2147568,
+     "join": "",
+     "name": "Pedro Amaya",
+     "resource_url": "https://api.discogs.com/artists/2147568",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "La Gozadera",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Cresencio Camacho",
+     "id": 2433012,
+     "join": "Y",
+     "name": "Crescencio Camacho",
+     "resource_url": "https://api.discogs.com/artists/2433012",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147585,
+     "join": "",
+     "name": "El Super Combo Curro",
+     "resource_url": "https://api.discogs.com/artists/2147585",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:16",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2147572,
+     "join": "",
+     "name": "Clodomiro Montes",
+     "resource_url": "https://api.discogs.com/artists/2147572",
+     "role": "Timbales",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2147569,
+     "join": "",
+     "name": "José Maria Montes",
+     "resource_url": "https://api.discogs.com/artists/2147569",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Santana En Salsa",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2147575,
+     "join": "",
+     "name": "Rufo Garrido Y Su Banda",
+     "resource_url": "https://api.discogs.com/artists/2147575",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:43",
+   "position": "D3",
+   "title": "Viejos Tiempos",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2147567,
+     "join": "",
+     "name": "Alex Acosta Y Su Orquesta",
+     "resource_url": "https://api.discogs.com/artists/2147567",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2147566,
+     "join": "",
+     "name": "Marco A. Posada",
+     "resource_url": "https://api.discogs.com/artists/2147566",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Cumbia Del Monte",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2147571,
+     "join": "",
+     "name": "Pipe Guarin Y Sus Sabaneros",
+     "resource_url": "https://api.discogs.com/artists/2147571",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:00",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2147582,
+     "join": "",
+     "name": "Demetrio Guarin",
+     "resource_url": "https://api.discogs.com/artists/2147582",
+     "role": "Written-By, Accordion",
+     "tracks": ""
+    }
+   ],
+   "position": "D5",
+   "title": "El Corronchon-Chon",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/2745734-Various-Cartagena-Curro-Fuentes-The-Big-Band-Cumbia-And-Descarga-Sound-Of-Colombia-1962-72",
+ "year": 2011
+}

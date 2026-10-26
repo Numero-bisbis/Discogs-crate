@@ -1,0 +1,82 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 796780,
+   "join": "&",
+   "name": "Gerd Janson",
+   "resource_url": "https://api.discogs.com/artists/796780",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Mk2KPSHFRy9reDE3Z7u79dBNJbOs1pa-7YcjwZ69UwA/rs:fit/g:sm/q:90/h:600/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc5Njc4/MC0xMjU3MzYzOTg5/LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 4590719,
+   "join": "",
+   "name": "Shan (14)",
+   "resource_url": "https://api.discogs.com/artists/4590719",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/vDv744RBg-ndVfNYIfsmpPKmJ9i9kh4pDlVeWWxkL2E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ1OTA3/MTktMTY2MzM1NTc3/MC05OTg0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 10616350,
+ "images": [
+  {
+   "height": 594,
+   "resource_url": "https://i.discogs.com/wM_DvR0wd9pv8cwl__2WTQxupi7rLZXAFgrWR-SddKc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE2/MzUwLTE1MDEwMDgx/MzEtNzUxOS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/wM_DvR0wd9pv8cwl__2WTQxupi7rLZXAFgrWR-SddKc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE2/MzUwLTE1MDEwMDgx/MzEtNzUxOS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/w80jRrGz0d05KX80mFnkWDdrrqHKvZqCjr2ZQeYBpuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE2/MzUwLTE1MDEwMDgx/MzEtNzUxOS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "REGRD004",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 910478,
+   "name": "Regraded",
+   "resource_url": "https://api.discogs.com/labels/910478",
+   "thumbnail_url": "https://i.discogs.com/j5yuq0LAph5hbqEQRIFN700Ba-PrKupm84GGfadU1ZM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkxMDQ3/OC0xNDQ3ODY2OTA1/LTYzMzkuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2017-07-21",
+ "styles": [
+  "House"
+ ],
+ "title": "Surrender",
+ "tracklist": [
+  {
+   "duration": "6:53",
+   "position": "A",
+   "title": "Surrender",
+   "type_": "track"
+  },
+  {
+   "duration": "6:26",
+   "position": "B",
+   "title": "Gentle Place",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10616350-Gerd-Janson-Shan-14-Surrender",
+ "year": 2017
+}

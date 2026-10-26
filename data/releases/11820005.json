@@ -1,0 +1,368 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2290,
+   "join": "",
+   "name": "The Chemical Brothers",
+   "resource_url": "https://api.discogs.com/artists/2290",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/zBa_N3L3DnjeXKg1Ue19TqVbsd_zxlo9CuXdkN3S3_k/rs:fit/g:sm/q:90/h:331/w:548/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIyOTAt/MTY5NjM5MTY2NS04/NTU5LnBuZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK & Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Repress"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11820005,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/YZnovDnShYTgxoJsQ5iDHY8pWdpKaoS08GcRuxumhfA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIw/MDA1LTE1MjI5NDM2/MDYtMTAwMi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/YZnovDnShYTgxoJsQ5iDHY8pWdpKaoS08GcRuxumhfA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIw/MDA1LTE1MjI5NDM2/MDYtMTAwMi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/vih_heeXvepbFcmLjT6_2NOx_hREP8lPcQ4xa1JkLG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIw/MDA1LTE1MjI5NDM2/MDYtMTAwMi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "XDUSTLP8",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1606,
+   "name": "Freestyle Dust",
+   "resource_url": "https://api.discogs.com/labels/1606",
+   "thumbnail_url": "https://i.discogs.com/Ip4geiKvdzbjex-DE0GSRcizTJVf1ygUi5Dcx8_31_0/rs:fit/g:sm/q:90/h:216/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MDYt/MTc4ODg2ODU0My0y/NzQ5LmpwZWc.jpeg"
+  },
+  {
+   "catno": "0094639415816",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 750,
+   "name": "Virgin",
+   "resource_url": "https://api.discogs.com/labels/750",
+   "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+  }
+ ],
+ "notes": "The barcode and identifiers are identical to [r=9261260] but this version has a different cover and innersleeves.\n\nColor printed inner sleeves. Printed in EU.\n\nOn the back of the sleeve:\nUniversal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands \n\n'We Are The Night' incorporates a sample of 'Decimazione Amanti' by Riz Ortolani. Taken from the soundtrack to 'Paolo Barca, Maestro Elementare, Praticamente Nudista'. Incorporates a sample of Ode To D.A. Levy by bill bissett (bissett). Taken from bill bissett's album 'Awake In The Red Desert'.\n'A Modern Midnight Conversation' features samples from the Barbara & Ernie recording 'Listen To Your Heart'. Contains elements of 'Listen To Your Heart' (Massey/Calabria).\n",
+ "released": "2016-10-21",
+ "styles": [
+  "House",
+  "Electro",
+  "Big Beat"
+ ],
+ "title": "We Are The Night",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 351681,
+     "join": "",
+     "name": "Willy Mason",
+     "resource_url": "https://api.discogs.com/artists/351681",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 351681,
+     "join": "",
+     "name": "Willy Mason",
+     "resource_url": "https://api.discogs.com/artists/351681",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "No Path To Follow",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 243738,
+     "join": "",
+     "name": "Riz Ortolani",
+     "resource_url": "https://api.discogs.com/artists/243738",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 680977,
+     "join": "",
+     "name": "bill bissett",
+     "resource_url": "https://api.discogs.com/artists/680977",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "We Are The Night",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 511093,
+     "join": "",
+     "name": "Klaxons",
+     "resource_url": "https://api.discogs.com/artists/511093",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Dev Hynes",
+     "id": 853545,
+     "join": "",
+     "name": "Devonte Hynes",
+     "resource_url": "https://api.discogs.com/artists/853545",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "James Wrighton",
+     "id": 740131,
+     "join": "",
+     "name": "James Righton",
+     "resource_url": "https://api.discogs.com/artists/740131",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 733097,
+     "join": "",
+     "name": "Jamie Reynolds",
+     "resource_url": "https://api.discogs.com/artists/733097",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "All Rights Reversed",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Saturate",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Little Barrie",
+     "id": 379754,
+     "join": "",
+     "name": "Barrie Cadogan",
+     "resource_url": "https://api.discogs.com/artists/379754",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 235419,
+     "join": "",
+     "name": "Ali Love",
+     "resource_url": "https://api.discogs.com/artists/235419",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 235419,
+     "join": "",
+     "name": "Ali Love",
+     "resource_url": "https://api.discogs.com/artists/235419",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Do It Again",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Das Spiegel",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Fatlip",
+     "id": 53627,
+     "join": "",
+     "name": "Fat Lip",
+     "resource_url": "https://api.discogs.com/artists/53627",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 842682,
+     "join": "",
+     "name": "Cort Pfister",
+     "resource_url": "https://api.discogs.com/artists/842682",
+     "role": "Voice [Sammy The Salmon]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 746487,
+     "join": "",
+     "name": "Derrick Stewart (2)",
+     "resource_url": "https://api.discogs.com/artists/746487",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "The Salmon Dance",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C2",
+   "title": "Burst Generator",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Massey",
+     "id": 363550,
+     "join": "",
+     "name": "Barbara Massey",
+     "resource_url": "https://api.discogs.com/artists/363550",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Calabria",
+     "id": 507589,
+     "join": "",
+     "name": "Ernie Calabria",
+     "resource_url": "https://api.discogs.com/artists/507589",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "A Modern Midnight Conversation",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 328018,
+     "join": "",
+     "name": "Martin Duffy",
+     "resource_url": "https://api.discogs.com/artists/328018",
+     "role": "Piano, Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 351681,
+     "join": "",
+     "name": "Willy Mason",
+     "resource_url": "https://api.discogs.com/artists/351681",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 351681,
+     "join": "",
+     "name": "Willy Mason",
+     "resource_url": "https://api.discogs.com/artists/351681",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Battle Scars",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D2",
+   "title": "Harpoons",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Seggs",
+     "id": 337053,
+     "join": "",
+     "name": "Segs",
+     "resource_url": "https://api.discogs.com/artists/337053",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 328018,
+     "join": "",
+     "name": "Martin Duffy",
+     "resource_url": "https://api.discogs.com/artists/328018",
+     "role": "Piano, Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 662082,
+     "join": "",
+     "name": "Tim Smith (9)",
+     "resource_url": "https://api.discogs.com/artists/662082",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 662082,
+     "join": "",
+     "name": "Tim Smith (9)",
+     "resource_url": "https://api.discogs.com/artists/662082",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "The Pills Won't Help You Now",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11820005-The-Chemical-Brothers-We-Are-The-Night",
+ "year": 2016
+}

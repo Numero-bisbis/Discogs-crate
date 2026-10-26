@@ -1,0 +1,818 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation",
+    "Deluxe Edition",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Triple Gatefold"
+  },
+  {
+   "descriptions": [
+    "Compilation"
+   ],
+   "name": "CD",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 9669399,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/hX7gAoR_rhyZm4_-UAxccNtqegPErKvds4vR4LV6iiA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Njkz/OTktMTQ5MDk2NjU3/Ni02OTI2LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/hX7gAoR_rhyZm4_-UAxccNtqegPErKvds4vR4LV6iiA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Njkz/OTktMTQ5MDk2NjU3/Ni02OTI2LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/45lFdUmaoIYz-xWLSXhr0d-hEUGVFckfZqmIJ9uQwVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Njkz/OTktMTQ5MDk2NjU3/Ni02OTI2LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ED100",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 19066,
+   "name": "Ed Banger Records",
+   "resource_url": "https://api.discogs.com/labels/19066",
+   "thumbnail_url": "https://i.discogs.com/ZIJtV-Fc7H03Z1Atc_JmDZbn1Jp7Oks35_nDxkjY7i0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5MDY2/LTE2NDgzNDM5NjYt/NjE0Ni5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Deluxe Pinball Edition 2 x Vinyl 12'' + CD.\nMetallic silver triple gatefold.\nLimited edition.",
+ "released": "2017-05-12",
+ "styles": [
+  "House",
+  "Electro",
+  "Synth-pop",
+  "Hip Hop"
+ ],
+ "title": "Ed Rec 100",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 791,
+     "join": "",
+     "name": "Mr. Oizo",
+     "resource_url": "https://api.discogs.com/artists/791",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "1:22",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 828954,
+     "join": "",
+     "name": "Phra",
+     "resource_url": "https://api.discogs.com/artists/828954",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Ed Rec 100",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 266264,
+     "join": "",
+     "name": "SebastiAn (6)",
+     "resource_url": "https://api.discogs.com/artists/266264",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:23",
+   "position": "A2",
+   "title": "So Huge",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 192427,
+     "join": "",
+     "name": "Busy P",
+     "resource_url": "https://api.discogs.com/artists/192427",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:27",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1211550,
+     "join": "",
+     "name": "Mayer Hawthorne",
+     "resource_url": "https://api.discogs.com/artists/1211550",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Genie",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 703690,
+     "join": "",
+     "name": "Breakbot",
+     "resource_url": "https://api.discogs.com/artists/703690",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "5:14",
+   "extraartists": [
+    {
+     "anv": "Capucine Delafleur",
+     "id": 6738477,
+     "join": "",
+     "name": "Delafleur",
+     "resource_url": "https://api.discogs.com/artists/6738477",
+     "role": "Vocals [Uncredited]",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Mystery",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3358,
+     "join": "",
+     "name": "Cassius",
+     "resource_url": "https://api.discogs.com/artists/3358",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:56",
+   "position": "B1",
+   "title": "Fame",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2637977,
+     "join": "",
+     "name": "Boston Bun",
+     "resource_url": "https://api.discogs.com/artists/2637977",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4583571,
+     "join": "",
+     "name": "Steed",
+     "resource_url": "https://api.discogs.com/artists/4583571",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "About It",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 899181,
+     "join": "",
+     "name": "Fulgeance",
+     "resource_url": "https://api.discogs.com/artists/899181",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:21",
+   "position": "B3",
+   "title": "She Knew",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 174566,
+     "join": "&",
+     "name": "DJ Pone",
+     "resource_url": "https://api.discogs.com/artists/174566",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4307097,
+     "join": "",
+     "name": "Boogie Vice",
+     "resource_url": "https://api.discogs.com/artists/4307097",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:59",
+   "position": "B4",
+   "title": "Ricky The Can",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 15597,
+     "join": "",
+     "name": "Feadz",
+     "resource_url": "https://api.discogs.com/artists/15597",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:45",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3817578,
+     "join": "",
+     "name": "Santana (9)",
+     "resource_url": "https://api.discogs.com/artists/3817578",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Glue",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 210645,
+     "join": "",
+     "name": "Krazy Baldhead",
+     "resource_url": "https://api.discogs.com/artists/210645",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:53",
+   "position": "C2",
+   "title": "Corridors",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 791,
+     "join": "",
+     "name": "Mr. Oizo",
+     "resource_url": "https://api.discogs.com/artists/791",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:24",
+   "position": "C3",
+   "title": "All Dry",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2609593,
+     "join": "",
+     "name": "Borussia",
+     "resource_url": "https://api.discogs.com/artists/2609593",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:53",
+   "position": "C4",
+   "title": "Muffin",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 52758,
+     "join": "",
+     "name": "Justice (3)",
+     "resource_url": "https://api.discogs.com/artists/52758",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:10",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 243374,
+     "join": "",
+     "name": "Boys Noize",
+     "resource_url": "https://api.discogs.com/artists/243374",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "C5",
+   "title": "Randy (Boys Noize Remix)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4003,
+     "join": "",
+     "name": "Riton",
+     "resource_url": "https://api.discogs.com/artists/4003",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:31",
+   "position": "D1",
+   "title": "Temporary Secretary",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 65112,
+     "join": "",
+     "name": "Para One",
+     "resource_url": "https://api.discogs.com/artists/65112",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "5:37",
+   "position": "D2",
+   "title": "Opium",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 301609,
+     "join": "",
+     "name": "10LEC6",
+     "resource_url": "https://api.discogs.com/artists/301609",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:12",
+   "position": "D3",
+   "title": "What Dat Azz Do",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 755359,
+     "join": "&",
+     "name": "So Me",
+     "resource_url": "https://api.discogs.com/artists/755359",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 13265,
+     "join": "",
+     "name": "The Music Man",
+     "resource_url": "https://api.discogs.com/artists/13265",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "1:44",
+   "position": "D4",
+   "title": "Conclusion",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 791,
+     "join": "",
+     "name": "Mr. Oizo",
+     "resource_url": "https://api.discogs.com/artists/791",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "1:22",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 828954,
+     "join": "",
+     "name": "Phra",
+     "resource_url": "https://api.discogs.com/artists/828954",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "CD-1",
+   "title": "Ed Rec 100",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 266264,
+     "join": "",
+     "name": "SebastiAn (6)",
+     "resource_url": "https://api.discogs.com/artists/266264",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:23",
+   "position": "CD-2",
+   "title": "So Huge",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 192427,
+     "join": "",
+     "name": "Busy P",
+     "resource_url": "https://api.discogs.com/artists/192427",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:27",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1211550,
+     "join": "",
+     "name": "Mayer Hawthorne",
+     "resource_url": "https://api.discogs.com/artists/1211550",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "CD-3",
+   "title": "Genie",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 703690,
+     "join": "",
+     "name": "Breakbot",
+     "resource_url": "https://api.discogs.com/artists/703690",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "5:14",
+   "extraartists": [
+    {
+     "anv": "Capucine Delafleur",
+     "id": 6738477,
+     "join": "",
+     "name": "Delafleur",
+     "resource_url": "https://api.discogs.com/artists/6738477",
+     "role": "Vocals [Uncredited]",
+     "tracks": ""
+    }
+   ],
+   "position": "CD-4",
+   "title": "Mystery",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3358,
+     "join": "",
+     "name": "Cassius",
+     "resource_url": "https://api.discogs.com/artists/3358",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:56",
+   "position": "CD-5",
+   "title": "Fame",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2637977,
+     "join": "",
+     "name": "Boston Bun",
+     "resource_url": "https://api.discogs.com/artists/2637977",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4583571,
+     "join": "",
+     "name": "Steed",
+     "resource_url": "https://api.discogs.com/artists/4583571",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "CD-6",
+   "title": "About It",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 899181,
+     "join": "",
+     "name": "Fulgeance",
+     "resource_url": "https://api.discogs.com/artists/899181",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:21",
+   "position": "CD-7",
+   "title": "She Knew",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 174566,
+     "join": "&",
+     "name": "DJ Pone",
+     "resource_url": "https://api.discogs.com/artists/174566",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4307097,
+     "join": "",
+     "name": "Boogie Vice",
+     "resource_url": "https://api.discogs.com/artists/4307097",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:59",
+   "position": "CD-8",
+   "title": "Ricky The Can",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 15597,
+     "join": "",
+     "name": "Feadz",
+     "resource_url": "https://api.discogs.com/artists/15597",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:45",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3817578,
+     "join": "",
+     "name": "Santana (9)",
+     "resource_url": "https://api.discogs.com/artists/3817578",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "CD-9",
+   "title": "Glue",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 210645,
+     "join": "",
+     "name": "Krazy Baldhead",
+     "resource_url": "https://api.discogs.com/artists/210645",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:53",
+   "position": "CD-10",
+   "title": "Corridors",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 791,
+     "join": "",
+     "name": "Mr. Oizo",
+     "resource_url": "https://api.discogs.com/artists/791",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:24",
+   "position": "CD-11",
+   "title": "All Dry",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2609593,
+     "join": "",
+     "name": "Borussia",
+     "resource_url": "https://api.discogs.com/artists/2609593",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:53",
+   "position": "CD-12",
+   "title": "Muffin",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 52758,
+     "join": "",
+     "name": "Justice (3)",
+     "resource_url": "https://api.discogs.com/artists/52758",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "6:10",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 243374,
+     "join": "",
+     "name": "Boys Noize",
+     "resource_url": "https://api.discogs.com/artists/243374",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "CD-13",
+   "title": "Randy (Boys Noize Remix)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4003,
+     "join": "",
+     "name": "Riton",
+     "resource_url": "https://api.discogs.com/artists/4003",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:31",
+   "position": "CD-14",
+   "title": "Temporary Secretary",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 65112,
+     "join": "",
+     "name": "Para One",
+     "resource_url": "https://api.discogs.com/artists/65112",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "5:37",
+   "position": "CD-15",
+   "title": "Opium",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 301609,
+     "join": "",
+     "name": "10LEC6",
+     "resource_url": "https://api.discogs.com/artists/301609",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:12",
+   "position": "CD-16",
+   "title": "What Dat Azz Do",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 755359,
+     "join": "&",
+     "name": "So Me",
+     "resource_url": "https://api.discogs.com/artists/755359",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 13265,
+     "join": "",
+     "name": "The Music Man",
+     "resource_url": "https://api.discogs.com/artists/13265",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "1:44",
+   "position": "CD-17",
+   "title": "Conclusion",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/9669399-Various-Ed-Rec-100",
+ "year": 2017
+}

@@ -1,0 +1,137 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 85010,
+   "join": "",
+   "name": "The Libertines",
+   "resource_url": "https://api.discogs.com/artists/85010",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/pZJATnumbIZjp-LkKk89Cz0veTdDo9uiroGT_rM6IYQ/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg1MDEw/LTEzNjI4MTc2NjMt/NTQ0NC5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Red"
+  }
+ ],
+ "genres": [
+  "Rock"
+ ],
+ "id": 30361997,
+ "images": [
+  {
+   "height": 500,
+   "resource_url": "https://i.discogs.com/cXWy69xBOmiH_dmLoiIESaWXbDeaHrLsJao9s9_q9Qg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzYx/OTk3LTE3MTI3ODA1/NjMtNDAxMS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/cXWy69xBOmiH_dmLoiIESaWXbDeaHrLsJao9s9_q9Qg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzYx/OTk3LTE3MTI3ODA1/NjMtNDAxMS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/2T4iWTAmQMeSzFh2Aebdl0QRN9wrSMh6XtkxNTT6UoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzYx/OTk3LTE3MTI3ODA1/NjMtNDAxMS5qcGVn.jpeg",
+   "width": 500
+  }
+ ],
+ "labels": [
+  {
+   "catno": "EMIV 2111",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 26126,
+   "name": "EMI",
+   "resource_url": "https://api.discogs.com/labels/26126",
+   "thumbnail_url": "https://i.discogs.com/kyUkdCkRdB9c0UbyACsewybDBqUqAVAU6ndQAp2VII4/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2MTI2/LTEyMDY0Njg0NTEu/anBlZw.jpeg"
+  },
+  {
+   "catno": "00602458358896",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 26126,
+   "name": "EMI",
+   "resource_url": "https://api.discogs.com/labels/26126",
+   "thumbnail_url": "https://i.discogs.com/kyUkdCkRdB9c0UbyACsewybDBqUqAVAU6ndQAp2VII4/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2MTI2/LTEyMDY0Njg0NTEu/anBlZw.jpeg"
+  }
+ ],
+ "notes": "Made in the EU\nWhite sticker on the back 'Made in Germany'",
+ "released": "2024-04-05",
+ "styles": [
+  "Indie Rock"
+ ],
+ "title": "All Quiet On The Eastern Esplanade",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Run Run Run ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Mustang ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Have A Friend ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Merry Old England ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "Man With The Melody ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B6",
+   "title": "Oh Shit ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B7",
+   "title": "Night Of The Hunter ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B8",
+   "title": "Baron’s Claw ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B9",
+   "title": "Shiver ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B10",
+   "title": "Be Young ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B11",
+   "title": "Songs They Never Play On The Radio ",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/30361997-The-Libertines-All-Quiet-On-The-Eastern-Esplanade",
+ "year": 2024
+}

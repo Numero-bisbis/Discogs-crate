@@ -1,0 +1,386 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3160392,
+   "join": "",
+   "name": "Kaytranada",
+   "resource_url": "https://api.discogs.com/artists/3160392",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/EN0-2FYvtlUImGULAcqauwJSAhMlbrnjVYfMQ2NN5vc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxNjAz/OTItMTY2MzM3NzM5/OS0xOTM5LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "USA & Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "180g"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Hip Hop"
+ ],
+ "id": 15461907,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/xyNZPWWPV5Hw3vnQHP-IMYyVd_jRLdtYLClXYCGPEBQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDYx/OTA3LTE2MDM3MDkx/NzUtNDg3MC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/xyNZPWWPV5Hw3vnQHP-IMYyVd_jRLdtYLClXYCGPEBQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDYx/OTA3LTE2MDM3MDkx/NzUtNDg3MC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/cFt-g6MKUK51huKaRAYGR9VRV92t9lL8T561Pv7MnvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDYx/OTA3LTE2MDM3MDkx/NzUtNDg3MC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "19439-72448-1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 895,
+   "name": "RCA",
+   "resource_url": "https://api.discogs.com/labels/895",
+   "thumbnail_url": "https://i.discogs.com/q-zL2IXAAZL18V9Ova8MTy7NXCoGMloDEKM1yaHpays/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5NS0x/NzY4MDgxMjYxLTMw/NDIuanBlZw.jpeg"
+  }
+ ],
+ "notes": "Pressed on 2xLP, 180 gram, black vinyl.\nIssued in a full-colour gatefold.\nCredits & tracks printed on the inner-gatefold.\nMP3 digital download code and two-sided six-panel poster included.\n\n℗ 2019 & © 2019, 2020 Kaytranada, under exclusive license to RCA Records, a division of Sony Music Entertainment.\nMade in the EU.",
+ "released": "2020-06-12",
+ "styles": [
+  "Contemporary R&B",
+  "Hip Hop",
+  "House",
+  "Instrumental"
+ ],
+ "title": "Bubba",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Do It",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1800656,
+     "join": "",
+     "name": "Thundercat",
+     "resource_url": "https://api.discogs.com/artists/1800656",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2317707,
+     "join": "",
+     "name": "Iman Omari",
+     "resource_url": "https://api.discogs.com/artists/2317707",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "2 The Music",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4613460,
+     "join": "",
+     "name": "SiR (12)",
+     "resource_url": "https://api.discogs.com/artists/4613460",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Go DJ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3270993,
+     "join": "",
+     "name": "Mick Jenkins",
+     "resource_url": "https://api.discogs.com/artists/3270993",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Gray Area",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2468522,
+     "join": "",
+     "name": "Alex Sowinski",
+     "resource_url": "https://api.discogs.com/artists/2468522",
+     "role": "Drums",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Puff Lah",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3741760,
+     "join": "",
+     "name": "Kali Uchis",
+     "resource_url": "https://api.discogs.com/artists/3741760",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "10%",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4879388,
+     "join": "",
+     "name": "Masego",
+     "resource_url": "https://api.discogs.com/artists/4879388",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Need It",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2923540,
+     "join": "",
+     "name": "VanJess",
+     "resource_url": "https://api.discogs.com/artists/2923540",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Taste",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 39946,
+     "join": "",
+     "name": "Estelle",
+     "resource_url": "https://api.discogs.com/artists/39946",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Oh No",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3845282,
+     "join": "",
+     "name": "Charlotte Day Wilson",
+     "resource_url": "https://api.discogs.com/artists/3845282",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "What You Need",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6675745,
+     "join": "",
+     "name": "Ari PenSmith",
+     "resource_url": "https://api.discogs.com/artists/6675745",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 7544214,
+     "join": "",
+     "name": "Eight9FLY",
+     "resource_url": "https://api.discogs.com/artists/7544214",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3814790,
+     "join": "",
+     "name": "GoldLink",
+     "resource_url": "https://api.discogs.com/artists/3814790",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Vex Oh",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C3",
+   "title": "Scared To Death",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3074695,
+     "join": "",
+     "name": "Durand Bernarr",
+     "resource_url": "https://api.discogs.com/artists/3074695",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 506443,
+     "join": "",
+     "name": "Miguel Atwood-Ferguson",
+     "resource_url": "https://api.discogs.com/artists/506443",
+     "role": "Strings",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4747047,
+     "join": "",
+     "name": "River Tiber",
+     "resource_url": "https://api.discogs.com/artists/4747047",
+     "role": "Synth [Additional Synth]",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Freefall",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 258514,
+     "join": "",
+     "name": "Teedra Moses",
+     "resource_url": "https://api.discogs.com/artists/258514",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 506443,
+     "join": "",
+     "name": "Miguel Atwood-Ferguson",
+     "resource_url": "https://api.discogs.com/artists/506443",
+     "role": "Strings",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Culture",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3519986,
+     "join": "",
+     "name": "Tinashe (2)",
+     "resource_url": "https://api.discogs.com/artists/3519986",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "The Worst In Me",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 80688,
+     "join": "",
+     "name": "Karriem Riggins",
+     "resource_url": "https://api.discogs.com/artists/80688",
+     "role": "Drums",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "September 21",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 90037,
+     "join": "",
+     "name": "Pharrell Williams",
+     "resource_url": "https://api.discogs.com/artists/90037",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Midsection",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15461907-Kaytranada-Bubba",
+ "year": 2020
+}

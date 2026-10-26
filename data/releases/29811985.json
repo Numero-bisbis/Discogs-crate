@@ -1,0 +1,416 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Latin"
+ ],
+ "id": 29811985,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/ztFT8hwfHwCRX422J8zmoKxw94UqyT9nGutEckUF_fw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODEx/OTg1LTE3MDgwMjQ5/NDQtNTkyMS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/ztFT8hwfHwCRX422J8zmoKxw94UqyT9nGutEckUF_fw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODEx/OTg1LTE3MDgwMjQ5/NDQtNTkyMS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/i66jprEJ_2J6vimNirgAsmm_gF_cqXLoXhC1DMvW5BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODEx/OTg1LTE3MDgwMjQ5/NDQtNTkyMS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "INF-003",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1201075,
+   "name": "Olindo",
+   "resource_url": "https://api.discogs.com/labels/1201075",
+   "thumbnail_url": "https://i.discogs.com/pryKL7oKGTCu3pYEouzkcvIoKdXW7iM9hlGsngj3Q5w/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMDEw/NzUtMTQ5MTMyMDQy/My00NTcyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "From back cover : All recordings restored from original tapes found in the Discomoda archives in Caracas, Venezuela (except where otherwise noted). Mastered and cut by Frank Merritt at The Carvery, London.\nLicensed from Discomoda . Compiled by Miguel Colmenares. Executive produced by Arash Fattahi. Cover illustrations by Alex Figueira. Additional design by Brunella Giannangeli",
+ "released": "2024-02-15",
+ "styles": [
+  "Salsa"
+ ],
+ "title": "Discomoda Salsa 1964 ★ 1977",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2113241,
+     "join": "",
+     "name": "Los Megatones de Lucho",
+     "resource_url": "https://api.discogs.com/artists/2113241",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A1",
+   "title": "El Tumbaleque (1964)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5056452,
+     "join": "",
+     "name": "Sonora Venezuela",
+     "resource_url": "https://api.discogs.com/artists/5056452",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A2",
+   "title": "Pero En Caracas (1967)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2113241,
+     "join": "",
+     "name": "Los Megatones De Lucho",
+     "resource_url": "https://api.discogs.com/artists/2113241",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A3",
+   "title": "Muneca (1967)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5204870,
+     "join": "",
+     "name": "Al Ramos Y Su Orquesta",
+     "resource_url": "https://api.discogs.com/artists/5204870",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A4",
+   "title": "El Candidato (1967)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2303307,
+     "join": "",
+     "name": "Orquesta Sonoramica",
+     "resource_url": "https://api.discogs.com/artists/2303307",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A5",
+   "title": "Oye Como Suena (1967)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5012953,
+     "join": "",
+     "name": "Microbanda Marabina",
+     "resource_url": "https://api.discogs.com/artists/5012953",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A6",
+   "title": "Maracaibo (1966)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3816554,
+     "join": "",
+     "name": "Principe Y Su Sexteto",
+     "resource_url": "https://api.discogs.com/artists/3816554",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B1",
+   "title": "Salsa De Guaguanco (1967)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2661654,
+     "join": "",
+     "name": "Genaro Y Sus \"All Stars\"",
+     "resource_url": "https://api.discogs.com/artists/2661654",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B2",
+   "title": "Mambo Tema (1967)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3126883,
+     "join": "",
+     "name": "Orquesta Universidad",
+     "resource_url": "https://api.discogs.com/artists/3126883",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B3",
+   "title": "Atado A Un Recuerdo (1967)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3379421,
+     "join": "",
+     "name": "Los Kenya",
+     "resource_url": "https://api.discogs.com/artists/3379421",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B4",
+   "title": "No Salgas De Tu Barrio (1968) (*)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1831450,
+     "join": "",
+     "name": "Nelson Y Sus Estrellas",
+     "resource_url": "https://api.discogs.com/artists/1831450",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B5",
+   "title": "Disparo Goajira (1968)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3379421,
+     "join": "",
+     "name": "Los Kenya",
+     "resource_url": "https://api.discogs.com/artists/3379421",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C1",
+   "title": "Pa' Puerto Rico (1969)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3816554,
+     "join": "",
+     "name": "Principe Y Su Sexteto",
+     "resource_url": "https://api.discogs.com/artists/3816554",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C2",
+   "title": "Analiza (1969)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1476328,
+     "join": "",
+     "name": "Super Combo Los Tropicales",
+     "resource_url": "https://api.discogs.com/artists/1476328",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C3",
+   "title": "Juana Guaguanco (1970)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1799636,
+     "join": "",
+     "name": "Los Satelites",
+     "resource_url": "https://api.discogs.com/artists/1799636",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C4",
+   "title": "El Tostao (1971)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 301680,
+     "join": "",
+     "name": "Johnny Sedes And His Orchestra",
+     "resource_url": "https://api.discogs.com/artists/301680",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "C5",
+   "title": "Algo Diferente (1975)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1799636,
+     "join": "",
+     "name": "Los Satelites",
+     "resource_url": "https://api.discogs.com/artists/1799636",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D1",
+   "title": "Fiesta En Venezuela (1973)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1944005,
+     "join": "",
+     "name": "Rodrigo Mendoza",
+     "resource_url": "https://api.discogs.com/artists/1944005",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D2",
+   "title": "Lija (1977)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1269105,
+     "join": "",
+     "name": "La Renovación",
+     "resource_url": "https://api.discogs.com/artists/1269105",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D3",
+   "title": "Mi Redencion (1977) (*)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1388036,
+     "join": "",
+     "name": "Los Blanco",
+     "resource_url": "https://api.discogs.com/artists/1388036",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D4",
+   "title": "Corta El Bonche (1973) (*)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3385868,
+     "join": "",
+     "name": "Grupo Yakambu",
+     "resource_url": "https://api.discogs.com/artists/3385868",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "D5",
+   "title": "Si Eres Tu (1977)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/29811985-Various-Discomoda-Salsa-1964-1977",
+ "year": 2024
+}

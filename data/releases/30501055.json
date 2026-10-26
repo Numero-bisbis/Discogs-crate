@@ -1,0 +1,245 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 52758,
+   "join": "",
+   "name": "Justice (3)",
+   "resource_url": "https://api.discogs.com/artists/52758",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/E5uItu3i170IYNi4e8bQcKIQ2PXjNODZtoTt5P7T4W0/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyNzU4/LTE3NTMxMzEwOTYt/NjUzNi5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Crystal Clear, 140g, Gatefold"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 30501055,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/GhdbWyxyZlyeokOC3NUv84osDIWs9USXGbLoBdqcnPI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTAx/MDU1LTE3MTQ0OTEz/MDMtNTU4NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/GhdbWyxyZlyeokOC3NUv84osDIWs9USXGbLoBdqcnPI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTAx/MDU1LTE3MTQ0OTEz/MDMtNTU4NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/cfgBfbGlrAIezS9ipoN5S2CvukFRE62qwN0wnHyDQh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTAx/MDU1LTE3MTQ0OTEz/MDMtNTU4NC5qcGVn.jpeg",
+   "width": 593
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BEC5613371",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 54379,
+   "name": "Because Music",
+   "resource_url": "https://api.discogs.com/labels/54379",
+   "thumbnail_url": "https://i.discogs.com/hCnQ7eINYuhslt-dC2Ub26qjZl4Y5QgXKDWslpAIL6E/rs:fit/g:sm/q:90/h:338/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU0Mzc5/LTE2MzE4NzIxOTMt/NDQ5Ny5qcGVn.jpeg"
+  },
+  {
+   "catno": "5056556133711",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 26063,
+   "name": "Virgin Music",
+   "resource_url": "https://api.discogs.com/labels/26063",
+   "thumbnail_url": "https://i.discogs.com/R_wVIJpcwZ9BWh7c4fLMvKXE3ZIb_l70S7iHdH9JLNI/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2MDYz/LTEzOTA1ODkyMzct/NDYxMi5qcGVn.jpeg"
+  },
+  {
+   "catno": "EDLP2024-1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 19066,
+   "name": "Ed Banger Records",
+   "resource_url": "https://api.discogs.com/labels/19066",
+   "thumbnail_url": "https://i.discogs.com/ZIJtV-Fc7H03Z1Atc_JmDZbn1Jp7Oks35_nDxkjY7i0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5MDY2/LTE2NDgzNDM5NjYt/NjE0Ni5qcGVn.jpeg"
+  },
+  {
+   "catno": "5056556133711",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1038624,
+   "name": "Genesis (8)",
+   "resource_url": "https://api.discogs.com/labels/1038624"
+  }
+ ],
+ "notes": "Double crystal clear vinyl.\n\nMade in France by MPO. \n\nTrack B1 contains an interpolation of \"Go With The Flow\" by [a5736].\nTrack B2 contains a sample of \"Dear Brian\" by [a246094].\nTrack B3 contains a sample of the work \"New Dream\" performed by [a175161].\n\n100 copies were retailed by Assai Records with an approved hand-numbered Japanese style obi under Assai Obi Editions.",
+ "released": "2024-04-26",
+ "styles": [
+  "Electro",
+  "Synth-pop",
+  "Nu-Disco"
+ ],
+ "title": "Hyperdrama",
+ "tracklist": [
+  {
+   "duration": "4:26",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1245513,
+     "join": "",
+     "name": "Tame Impala",
+     "resource_url": "https://api.discogs.com/artists/1245513",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Neverender",
+   "type_": "track"
+  },
+  {
+   "duration": "4:43",
+   "position": "A2",
+   "title": "Generator",
+   "type_": "track"
+  },
+  {
+   "duration": "4:06",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6703533,
+     "join": "",
+     "name": "Rimon",
+     "resource_url": "https://api.discogs.com/artists/6703533",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Afterimage",
+   "type_": "track"
+  },
+  {
+   "duration": "4:36",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1245513,
+     "join": "",
+     "name": "Tame Impala",
+     "resource_url": "https://api.discogs.com/artists/1245513",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "One Night/All Night",
+   "type_": "track"
+  },
+  {
+   "duration": "5:33",
+   "position": "B2",
+   "title": "Dear Alan",
+   "type_": "track"
+  },
+  {
+   "duration": "4:02",
+   "position": "B3",
+   "title": "Incognito",
+   "type_": "track"
+  },
+  {
+   "duration": "3:27",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2776356,
+     "join": "",
+     "name": "The Flints",
+     "resource_url": "https://api.discogs.com/artists/2776356",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Mannequin Love",
+   "type_": "track"
+  },
+  {
+   "duration": "2:00",
+   "position": "C2",
+   "title": "Moonlight Rendez-Vous",
+   "type_": "track"
+  },
+  {
+   "duration": "4:09",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1371297,
+     "join": "",
+     "name": "Connan Mockasin",
+     "resource_url": "https://api.discogs.com/artists/1371297",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Explorer",
+   "type_": "track"
+  },
+  {
+   "duration": "4:10",
+   "position": "D1",
+   "title": "Muscle Memory",
+   "type_": "track"
+  },
+  {
+   "duration": "0:28",
+   "position": "D2",
+   "title": "Harpy Dream",
+   "type_": "track"
+  },
+  {
+   "duration": "3:22",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3213389,
+     "join": "",
+     "name": "Miguel (67)",
+     "resource_url": "https://api.discogs.com/artists/3213389",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Saturnine",
+   "type_": "track"
+  },
+  {
+   "duration": "4:14",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1800656,
+     "join": "",
+     "name": "Thundercat",
+     "resource_url": "https://api.discogs.com/artists/1800656",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "The End",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/30501055-Justice-3-Hyperdrama",
+ "year": 2024
+}

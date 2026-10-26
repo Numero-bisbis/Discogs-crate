@@ -1,0 +1,93 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1538,
+   "join": "",
+   "name": "Thomas Schumacher",
+   "resource_url": "https://api.discogs.com/artists/1538",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/8ZYaGkBBc3_1Wx5mjzZVFkvtRcmEXKn6rFv1eosN724/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1Mzgt/MTYwODc2MjA3MC03/NTQyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Denmark",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11263835,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/o4flwX7vmJ2f8GV653RjAxmRr8JQmh0zg5ZTmYjIBPI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjYz/ODM1LTE1Mjg5MjI0/NzQtMjI2Ni5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/o4flwX7vmJ2f8GV653RjAxmRr8JQmh0zg5ZTmYjIBPI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjYz/ODM1LTE1Mjg5MjI0/NzQtMjI2Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/VGZTp1kPT6MvOedoje6RvQbiRpo9oL_A-kE89yNsfKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjYz/ODM1LTE1Mjg5MjI0/NzQtMjI2Ni5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "NMW106",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 42682,
+   "name": "Noir Music",
+   "resource_url": "https://api.discogs.com/labels/42682",
+   "thumbnail_url": "https://i.discogs.com/vsE_hIGZdX51KGVl7ggmeViIleSbpz2qhXtsA-5ESQk/rs:fit/g:sm/q:90/h:196/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNjgy/LTEyNzQ0Nzc3MTcu/anBlZw.jpeg"
+  },
+  {
+   "catno": "NMW108",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 42682,
+   "name": "Noir Music",
+   "resource_url": "https://api.discogs.com/labels/42682",
+   "thumbnail_url": "https://i.discogs.com/vsE_hIGZdX51KGVl7ggmeViIleSbpz2qhXtsA-5ESQk/rs:fit/g:sm/q:90/h:196/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNjgy/LTEyNzQ0Nzc3MTcu/anBlZw.jpeg"
+  }
+ ],
+ "notes": "Tracks duration not on record",
+ "released": "2017-12-07",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Natural Rhythm II & III",
+ "tracklist": [
+  {
+   "duration": "9:57",
+   "position": "A1",
+   "title": "Unconfused",
+   "type_": "track"
+  },
+  {
+   "duration": "7:07",
+   "position": "B1",
+   "title": "Locust",
+   "type_": "track"
+  },
+  {
+   "duration": "9:28",
+   "position": "C1",
+   "title": "Stella",
+   "type_": "track"
+  },
+  {
+   "duration": "7:09",
+   "position": "D1",
+   "title": "Persistence",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11263835-Thomas-Schumacher-Natural-Rhythm-II-III",
+ "year": 2017
+}

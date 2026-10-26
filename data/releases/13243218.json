@@ -1,0 +1,90 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2402233,
+   "join": "",
+   "name": "Rupa",
+   "resource_url": "https://api.discogs.com/artists/2402233",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/bcN_Z9rG6WJcZPl1Z2-qE-un4nZDae_DNsoVGeNJB24/rs:fit/g:sm/q:90/h:576/w:502/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0MDIy/MzMtMTU0OTcwNzk2/NC00NjYzLnBuZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Remastered"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Funk / Soul",
+  "Folk, World, & Country"
+ ],
+ "id": 13243218,
+ "images": [
+  {
+   "height": 598,
+   "resource_url": "https://i.discogs.com/y21E243PH1wQjNoIr0AhFbCdBfo0LlV6a14ZRlSgg1I/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQz/MjE4LTE1NTA1OTg2/NDAtNjUxNy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/y21E243PH1wQjNoIr0AhFbCdBfo0LlV6a14ZRlSgg1I/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQz/MjE4LTE1NTA1OTg2/NDAtNjUxNy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/O_k6hOGdRxbQI0ISe8lfJ0KeMaVK_u5gI3g2HT3rRfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQz/MjE4LTE1NTA1OTg2/NDAtNjUxNy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "NUM 805",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 62008,
+   "name": "Numero Group",
+   "resource_url": "https://api.discogs.com/labels/62008",
+   "thumbnail_url": "https://i.discogs.com/vZPlpvRmU6f_dcYWT4KFAkLFnWEL69scwp1GKZNWGC8/rs:fit/g:sm/q:90/h:263/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYyMDA4/LTEzNDE0ODU2MzEt/OTQzNC5qcGVn.jpeg"
+  }
+ ],
+ "notes": "One variant does not contain runout info on side B.",
+ "released": "2019-03-29",
+ "styles": [
+  "Disco",
+  "Jazz-Funk",
+  "Fusion"
+ ],
+ "title": "Disco Jazz",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Moja Bhari Moja",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "East West Shuffle",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Aaj Shanibar",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Ayee Morshume Be-Reham Duniya",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13243218-Rupa-Disco-Jazz",
+ "year": 2019
+}

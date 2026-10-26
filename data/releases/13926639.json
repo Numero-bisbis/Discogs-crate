@@ -1,0 +1,130 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5159628,
+   "join": "&",
+   "name": "Betsayda Machado",
+   "resource_url": "https://api.discogs.com/artists/5159628",
+   "role": "",
+   "tracks": ""
+  },
+  {
+   "anv": "Parranda El Clavo",
+   "id": 5797274,
+   "join": "",
+   "name": "La Parranda El Clavo",
+   "resource_url": "https://api.discogs.com/artists/5797274",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Latin",
+  "Folk, World, & Country"
+ ],
+ "id": 13926639,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/ryjvsL9R6uAzZYCGFb8OnjvBcxYbMKAA4GQ1Uj055Ko/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTI2/NjM5LTE1NjQyMzAx/MjQtNDE3Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/ryjvsL9R6uAzZYCGFb8OnjvBcxYbMKAA4GQ1Uj055Ko/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTI2/NjM5LTE1NjQyMzAx/MjQtNDE3Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/qMBDL6d3j2VRGZXaUNopsLAUrSmQ2mHTtym7_aZ4vOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTI2/NjM5LTE1NjQyMzAx/MjQtNDE3Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ORLP 003",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1201075,
+   "name": "Olindo",
+   "resource_url": "https://api.discogs.com/labels/1201075",
+   "thumbnail_url": "https://i.discogs.com/pryKL7oKGTCu3pYEouzkcvIoKdXW7iM9hlGsngj3Q5w/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMDEw/NzUtMTQ5MTMyMDQy/My00NTcyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Olindo Records present Loé Loá, a landmark album in Afro-Venezuelan music, on vinyl for the first time. Originally released in 2017 on CD and digital formats, Loé Loá gained critical acclaim in North America and Europe from the likes of NPR, The New York Times, and Songlines. Most of the music on the album is in the style of Parranda, a traditional Venezuelan genre that literally translates into party. However, not every song is about joy and celebration as the band often sing about many of the most painful topics of daily life in Venezuela, as prevalent in 2019 as they were in 2017 when originally released: hunger, poverty, and shortages of basic medicine. The entire album was recorded out in the open in Betsayda Machado's home town of El Clavo in Barlovento, a region in the central Caribbean coast of Venezuela known for its cacao plantations and African heritage. It features 17 singers and 12 percussionists compared to the hundred or so that might be part of a real-life celebration. Yet the spirit, one of defiant survival and sheer joy, resounds the moment they strike the drum or sing the first note. Produced by Juan Souki; Recorded by Dario Peñaloza and Javier Aponte.\n\n Olindo Records present Loé Loá, a landmark album in Afro-Venezuelan music, on vinyl for the first time.\n- Originally released in 2017 on CD and digital formats, Loé Loá gained critical acclaim in North America and Europe from the likes of NPR, The New York Times, and Songlines.\n- Most of the music on the album is in the style of Parranda, a traditional Venezuelan genre that literally translates into party.\n- It features 17 singers and 12 percussionists compared to the hundred or so that might be part of a real-life celebration.",
+ "released": "2019",
+ "styles": [
+  "Folk",
+  "Música Criolla"
+ ],
+ "title": "Loé Loá - Rural Recordings Under The Mango Tree",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Oh, Santa Rosa",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Pueblo De Fiesta",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "No La Peles, Papá",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "La Situación",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "Borracho",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Gaviota",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Merengada E'ron",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Alaé Alaó",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Sentimiento",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "Barlovento Es",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13926639-Betsayda-Machado-Parranda-El-Clavo-Loé-Loá-Rural-Recordings-Under-The-Mango-Tree",
+ "year": 2019
+}

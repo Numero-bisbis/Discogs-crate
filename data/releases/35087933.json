@@ -1,0 +1,151 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1245513,
+   "join": "",
+   "name": "Tame Impala",
+   "resource_url": "https://api.discogs.com/artists/1245513",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/_pZNESCaPzf9bTXRrZjabJO9w0spkDk0q2XRaSnihXY/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyNDU1/MTMtMTQ2NjQ5MTkz/OC04NDAxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Rock"
+ ],
+ "id": 35087933,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/d0NLcQR22C8JrnGfZM9uml4IN0_inVbLrKt-SFEcaqo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDg3/OTMzLTE3NTc3NjU3/NTItNjcxMC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/d0NLcQR22C8JrnGfZM9uml4IN0_inVbLrKt-SFEcaqo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDg3/OTMzLTE3NTc3NjU3/NTItNjcxMC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/bC1vCsx3qOuJD4DIS7bslvQkR5ZlY2tNWbacDK4XHfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDg3/OTMzLTE3NTc3NjU3/NTItNjcxMC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "3795300",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 5810,
+   "name": "Fiction Records",
+   "resource_url": "https://api.discogs.com/labels/5810",
+   "thumbnail_url": "https://i.discogs.com/O4V0SZZJFuTzHyqOsP-H3LKmYY3K7UDUzHEtV58TeHw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4MTAt/MTQ5NzE4MjUwNy02/MTExLmpwZWc.jpeg"
+  },
+  {
+   "catno": "3795300",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 952,
+   "name": "Caroline Records",
+   "resource_url": "https://api.discogs.com/labels/952",
+   "thumbnail_url": "https://i.discogs.com/ecOuq05QxNKnHwjLES7LnJqR-7HGsu3-ZC1Bf-ucvsQ/rs:fit/g:sm/q:90/h:310/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk1Mi0x/NDczNTU3NDc0LTUx/MjcuanBlZw.jpeg"
+  },
+  {
+   "catno": "3795300",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 38404,
+   "name": "Universal Music Group",
+   "resource_url": "https://api.discogs.com/labels/38404",
+   "thumbnail_url": "https://i.discogs.com/VJs9KLVZDIxvWLUkg1Wkd8O3TdnlYH5i-vzFkatJEis/rs:fit/g:sm/q:90/h:240/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4NDA0/LTE0ODg4MzkwNzkt/MTUzMS5wbmc.jpeg"
+  }
+ ],
+ "notes": "Gatefold sleeve.\nSimilar to the 2022 Australian reissue but with different matrix numbers.",
+ "released": "2024",
+ "styles": [
+  "Psychedelic Rock"
+ ],
+ "title": "Lonerism",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Be Above It",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Endors Toi",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Apocalypse Dreams",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Mind Mischief",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Music To Walk Home By",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Why Won't They Talk To Me?",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "Feels Like We Only Go Backwards",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C2",
+   "title": "Keep On Lying",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C3",
+   "title": "Elephant",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D1",
+   "title": "She Just Won't Believe Me",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D2",
+   "title": "Nothing That Has Happened So Far Has Been Anything We Could Control",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D3",
+   "title": "Sun's Coming Up",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/35087933-Tame-Impala-Lonerism",
+ "year": 2024
+}

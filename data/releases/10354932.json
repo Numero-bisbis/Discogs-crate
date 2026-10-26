@@ -1,0 +1,281 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 79578,
+   "join": "",
+   "name": "50 Cent",
+   "resource_url": "https://api.discogs.com/artists/79578",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/EtXoC0adeQJdyeKSnl_zwOkG84Z_lu-rwv_Eld0N7lw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc5NTc4/LTE3NTE5ODM4Mjgt/OTEyOC5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 10354932,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/LJeD5iQ5tYX0vDK_Znp02SZZXAPMGmB2M8Z0zgIDO78/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzU0/OTMyLTE2NDAzNzYx/NzctODEwNi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/LJeD5iQ5tYX0vDK_Znp02SZZXAPMGmB2M8Z0zgIDO78/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzU0/OTMyLTE2NDAzNzYx/NzctODEwNi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/S2Tp7kfsEIkhb1CJUgs_eCcnDC_3lxNNfvEFeSQFEpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzU0/OTMyLTE2NDAzNzYx/NzctODEwNi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "602557383362",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 12321,
+   "name": "Shady Records",
+   "resource_url": "https://api.discogs.com/labels/12321",
+   "thumbnail_url": "https://i.discogs.com/c7HzogSkNhAzXjwEt4plfgXRJK1cEZ0Zb5CM5SgO4s8/rs:fit/g:sm/q:90/h:378/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMzIx/LTE0ODg5MjAwODgt/OTk3MS5wbmc.jpeg"
+  },
+  {
+   "catno": "602557383362",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2310,
+   "name": "Aftermath Entertainment",
+   "resource_url": "https://api.discogs.com/labels/2310",
+   "thumbnail_url": "https://i.discogs.com/PZJDWzXrr7RV8p1VNxDDOw0_z4GgDMo75EPC5lpkc30/rs:fit/g:sm/q:90/h:462/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTAt/MTQ4ODkxNzkxOS04/MTQxLnBuZw.jpeg"
+  },
+  {
+   "catno": "602557383362",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2311,
+   "name": "Interscope Records",
+   "resource_url": "https://api.discogs.com/labels/2311",
+   "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Made in The EU",
+ "released": "2017-04-07",
+ "styles": [],
+ "title": "Best Of",
+ "tracklist": [
+  {
+   "duration": "3:14",
+   "position": "A1",
+   "title": "In Da Club",
+   "type_": "track"
+  },
+  {
+   "duration": "3:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 109832,
+     "join": "",
+     "name": "Nate Dogg",
+     "resource_url": "https://api.discogs.com/artists/109832",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "21 Questions",
+   "type_": "track"
+  },
+  {
+   "duration": "4:10",
+   "position": "A3",
+   "title": "P.I.M.P.",
+   "type_": "track"
+  },
+  {
+   "duration": "3:34",
+   "position": "A4",
+   "title": "Disco Inferno",
+   "type_": "track"
+  },
+  {
+   "duration": "3:27",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 179758,
+     "join": "",
+     "name": "Olivia",
+     "resource_url": "https://api.discogs.com/artists/179758",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Candy Shop",
+   "type_": "track"
+  },
+  {
+   "duration": "3:58",
+   "position": "B2",
+   "title": "Just A Lil Bit",
+   "type_": "track"
+  },
+  {
+   "duration": "4:14",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 17900,
+     "join": "",
+     "name": "Mobb Deep",
+     "resource_url": "https://api.discogs.com/artists/17900",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Outta Control (Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:57",
+   "position": "B4",
+   "title": "Hustler's Ambition",
+   "type_": "track"
+  },
+  {
+   "duration": "4:14",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 179758,
+     "join": "",
+     "name": "Olivia",
+     "resource_url": "https://api.discogs.com/artists/179758",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Best Friend (Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:10",
+   "position": "C2",
+   "title": "Window Shopper",
+   "type_": "track"
+  },
+  {
+   "duration": "4:08",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 66824,
+     "join": "",
+     "name": "Justin Timberlake",
+     "resource_url": "https://api.discogs.com/artists/66824",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Ayo Technology",
+   "type_": "track"
+  },
+  {
+   "duration": "3:44",
+   "position": "C4",
+   "title": "I Get Money",
+   "type_": "track"
+  },
+  {
+   "duration": "3:11",
+   "position": "C5",
+   "title": "Straight To The Bank",
+   "type_": "track"
+  },
+  {
+   "duration": "3:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 229665,
+     "join": "",
+     "name": "Akon",
+     "resource_url": "https://api.discogs.com/artists/229665",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "I'll Still Kill",
+   "type_": "track"
+  },
+  {
+   "duration": "3:14",
+   "position": "D2",
+   "title": "Get Up",
+   "type_": "track"
+  },
+  {
+   "duration": "3:20",
+   "position": "D3",
+   "title": "I Get It In",
+   "type_": "track"
+  },
+  {
+   "duration": "3:33",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 359939,
+     "join": "",
+     "name": "Ne-Yo",
+     "resource_url": "https://api.discogs.com/artists/359939",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Baby By Me",
+   "type_": "track"
+  },
+  {
+   "duration": "4:24",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 239695,
+     "join": "",
+     "name": "Madd Rapper",
+     "resource_url": "https://api.discogs.com/artists/239695",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D5",
+   "title": "How To Rob",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10354932-50-Cent-Best-Of",
+ "year": 2017
+}

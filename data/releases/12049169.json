@@ -1,0 +1,235 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Italy",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Funk / Soul"
+ ],
+ "id": 12049169,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/TDIb3HlSDF46qE6GKsEDexCrHBjASjL0pS1kvnDaivw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ5/MTY5LTE1MjcyNjk1/NjAtNDgwNy5wbmc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/TDIb3HlSDF46qE6GKsEDexCrHBjASjL0pS1kvnDaivw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ5/MTY5LTE1MjcyNjk1/NjAtNDgwNy5wbmc.jpeg",
+   "uri150": "https://i.discogs.com/oLRyXkmFdghxoPvdMBTcP0PhlIlg6gpB-5KuqasmWiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ5/MTY5LTE1MjcyNjk1/NjAtNDgwNy5wbmc.jpeg",
+   "width": 594
+  }
+ ],
+ "labels": [
+  {
+   "catno": "EAS018",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 320885,
+   "name": "Early Sounds Recordings",
+   "resource_url": "https://api.discogs.com/labels/320885",
+   "thumbnail_url": "https://i.discogs.com/qje5hePJwo3ySEJegiW5zmEJQapHX7WBgDQhgWd2Duo/rs:fit/g:sm/q:90/h:425/w:385/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyMDg4/NS0xNTc0NDY4NzY5/LTcwNTAucG5n.jpeg"
+  },
+  {
+   "catno": "NG02",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1311746,
+   "name": "NG Records (5)",
+   "resource_url": "https://api.discogs.com/labels/1311746",
+   "thumbnail_url": "https://i.discogs.com/O2-QqW2ApC6mKc0hm2G39rpZ4Klql5V5CEa12EOJDIA/rs:fit/g:sm/q:90/h:412/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMTE3/NDYtMTUwMzU3MjA0/Mi02MTM0LnBuZw.jpeg"
+  }
+ ],
+ "notes": "\"Hidden Gems from the bowels of Vesuvius\" on front cover. Includes postcard-like voucher for ristorante \"Mimi\" in Naples. \n\nThanks to [a5380096]/[l1102857] for having introduced us to Guagliù by [a5312169] and Marco Pellegrino - Analog Cut Mastering Berlin for the audio consultancy.\n\nIn Collaboration with: Famiglia Discocristiana, Early Distro, Halfway Ritmo, DNApoli\n",
+ "released": "2018-06-20",
+ "styles": [
+  "Disco",
+  "Funk",
+  "Soul"
+ ],
+ "title": "Napoli Segreta Volume 1",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "",
+   "title": "Lato '70",
+   "type_": "heading"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 6068772,
+     "join": "",
+     "name": "Donatella Viggiano",
+     "resource_url": "https://api.discogs.com/artists/6068772",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:53",
+   "position": "A1",
+   "title": "Napule Canta E More",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1272857,
+     "join": "",
+     "name": "Giancarlo D'Auria",
+     "resource_url": "https://api.discogs.com/artists/1272857",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:48",
+   "position": "A2",
+   "title": "Follia",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1621118,
+     "join": "",
+     "name": "Tonica & Dominante",
+     "resource_url": "https://api.discogs.com/artists/1621118",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:23",
+   "position": "A3",
+   "title": "Cicogna",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4030873,
+     "join": "",
+     "name": "Oro (4)",
+     "resource_url": "https://api.discogs.com/artists/4030873",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:40",
+   "position": "A4",
+   "title": "Stop The War",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "",
+   "title": "Lato '80",
+   "type_": "heading"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2501089,
+     "join": "",
+     "name": "Antonio Sorrentino",
+     "resource_url": "https://api.discogs.com/artists/2501089",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:52",
+   "position": "B1",
+   "title": "'E Prumesse",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Donn'Anna",
+     "id": 5578548,
+     "join": "",
+     "name": "Donn' Anna",
+     "resource_url": "https://api.discogs.com/artists/5578548",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:48",
+   "position": "B2",
+   "title": "Nun Ce Stà Niente A Fa",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4816452,
+     "join": "",
+     "name": "Mario D'Episcopo",
+     "resource_url": "https://api.discogs.com/artists/4816452",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:48",
+   "position": "B3",
+   "title": "I've Got The Music Of Your Love",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1757252,
+     "join": "",
+     "name": "Oro",
+     "resource_url": "https://api.discogs.com/artists/1757252",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:45",
+   "position": "B4",
+   "title": "Sasà",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5312169,
+     "join": "",
+     "name": "Pino Amoroso",
+     "resource_url": "https://api.discogs.com/artists/5312169",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:37",
+   "position": "B5",
+   "title": "Guagliù",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12049169-Various-Napoli-Segreta-Volume-1",
+ "year": 2018
+}

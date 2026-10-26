@@ -1,0 +1,89 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1538,
+   "join": "&",
+   "name": "Thomas Schumacher",
+   "resource_url": "https://api.discogs.com/artists/1538",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/8ZYaGkBBc3_1Wx5mjzZVFkvtRcmEXKn6rFv1eosN724/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1Mzgt/MTYwODc2MjA3MC03/NTQyLmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 1632091,
+   "join": "",
+   "name": "Victor Ruiz (2)",
+   "resource_url": "https://api.discogs.com/artists/1632091",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/zlORktiesgXL4E3voltvFg_c187AnsV_Cwgq262mBxc/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2MzIw/OTEtMTY5NjY5OTAw/Ny00MTA3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 7905952,
+ "images": [
+  {
+   "height": 588,
+   "resource_url": "https://i.discogs.com/aqMkkpW5K60r_CJlkvaM2vlnLVZLXbsdPdPgcMEaGuo/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDU5/NTItMTU3MDM0NDQy/MS0yNzY4LnBuZw.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/aqMkkpW5K60r_CJlkvaM2vlnLVZLXbsdPdPgcMEaGuo/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDU5/NTItMTU3MDM0NDQy/MS0yNzY4LnBuZw.jpeg",
+   "uri150": "https://i.discogs.com/R8SHz_Xa_v5zBZcA_QkGfw-HnvF9ERMrAJ9hZ0NWMOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDU5/NTItMTU3MDM0NDQy/MS0yNzY4LnBuZw.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "EBM011",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 426525,
+   "name": "Electric Ballroom (2)",
+   "resource_url": "https://api.discogs.com/labels/426525",
+   "thumbnail_url": "https://i.discogs.com/q7eq3kOvy4ZBDF1-q3pF-qDTtrJcktLXPGNXh8ezI7Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNjUy/NS0xMzQ0MTkwMjk1/LTY5MDAuanBlZw.jpeg"
+  }
+ ],
+ "notes": "On label side B:\n©Electric Ballroom 2015\n\nSpeed information:\nSide A plays at 45 RPM, side B at 33 ⅓ RPM.\n\nRunout information:\nRunouts are etched except for the Pallas number \"-38262-\" which is stamped.",
+ "released": "2015-12-22",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Apollo",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Apollo",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Satellite",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Geist",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/7905952-Thomas-Schumacher-Victor-Ruiz-2-Apollo",
+ "year": 2015
+}

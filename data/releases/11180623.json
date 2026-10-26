@@ -1,0 +1,86 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 49243,
+   "join": "",
+   "name": "Stephan Bodzin",
+   "resource_url": "https://api.discogs.com/artists/49243",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/pJBtA6eusjhnU_KNPXNU0YJShAHsdw4wN4pdHc9o5UU/rs:fit/g:sm/q:90/h:391/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ5MjQz/LTE1MTU2MDQyNDkt/Mzk2My5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11180623,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/0rBXTmecXeZcVUZk1NW_6jiWvqJoN9KHTBQ3SJc0MPc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTgw/NjIzLTE1MTEzNjEw/NDgtOTk4Ny5wbmc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/0rBXTmecXeZcVUZk1NW_6jiWvqJoN9KHTBQ3SJc0MPc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTgw/NjIzLTE1MTEzNjEw/NDgtOTk4Ny5wbmc.jpeg",
+   "uri150": "https://i.discogs.com/JcRmOy3OC1QHKOqmnXtESdOXPn_wTlXh5JqFssIFhfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTgw/NjIzLTE1MTEzNjEw/NDgtOTk4Ny5wbmc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "AL009",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1029168,
+   "name": "Afterlife (6)",
+   "resource_url": "https://api.discogs.com/labels/1029168",
+   "thumbnail_url": "https://i.discogs.com/bgAzfGNyLnIGHNeDr_i3PXDG5idDoKAeRN4v5SNs_Iw/rs:fit/g:sm/q:90/h:469/w:275/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMjkx/NjgtMTY1NDU2NjA0/Ni01ODg0LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "℗+© Afterlife Recordings\n\nAdditional copies have been repressed in September 2023",
+ "released": "2017-12-18",
+ "styles": [
+  "Techno",
+  "Minimal",
+  "Neo Trance"
+ ],
+ "title": "Strand",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "",
+   "title": "That Side",
+   "type_": "heading"
+  },
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Strand",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "",
+   "title": "This Side",
+   "type_": "heading"
+  },
+  {
+   "duration": "",
+   "position": "AA",
+   "title": "Catamaran",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11180623-Stephan-Bodzin-Strand",
+ "year": 2017
+}

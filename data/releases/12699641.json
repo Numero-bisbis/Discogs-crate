@@ -1,0 +1,87 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6200279,
+   "join": "",
+   "name": "Joe Cleen",
+   "resource_url": "https://api.discogs.com/artists/6200279",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/7A19sN6jo-RoIJROI7otDYvdq59rXlH7TJnmc0YyQQg/rs:fit/g:sm/q:90/h:509/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYyMDAy/NzktMTU5NTUxODk5/OS02MTY3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12699641,
+ "images": [
+  {
+   "height": 500,
+   "resource_url": "https://i.discogs.com/0KBrNOOhyuUjnAfVrmS5qNxT4I9I6fJByUEb0OMAif4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk5/NjQxLTE1NDAyOTYy/NjItOTcwMi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/0KBrNOOhyuUjnAfVrmS5qNxT4I9I6fJByUEb0OMAif4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk5/NjQxLTE1NDAyOTYy/NjItOTcwMi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/CEUIvIN8msMS6Fy9ibFjDJ9JpvyTdXsqjZbrbKnrJog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk5/NjQxLTE1NDAyOTYy/NjItOTcwMi5qcGVn.jpeg",
+   "width": 500
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SBEDITZ004",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1498417,
+   "name": "SlothBoogie Editz",
+   "resource_url": "https://api.discogs.com/labels/1498417",
+   "thumbnail_url": "https://i.discogs.com/AppyeF-gRQQx9LNPWAqtu07VQ2v3AAP0vp_wRynQgWA/rs:fit/g:sm/q:90/h:200/w:209/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0OTg0/MTctMTUzMjg3MjQ1/OC03ODQwLmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-10-22",
+ "styles": [
+  "Nu-Disco",
+  "Disco",
+  "House",
+  "Deep House"
+ ],
+ "title": "SBEDITZ004",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Give You All I Got",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "City Nights ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Dear Lord",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "The Fun Part",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12699641-Joe-Cleen-SBEDITZ004",
+ "year": 2018
+}

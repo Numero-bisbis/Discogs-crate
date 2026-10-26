@@ -1,0 +1,125 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5269272,
+   "join": "",
+   "name": "Yussef Kamaal",
+   "resource_url": "https://api.discogs.com/artists/5269272",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/x_VArAHmEtzDY7I5lpY2xrrYoULMe9TSKIomhTTnyeY/rs:fit/g:sm/q:90/h:600/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyNjky/NzItMTQ3NDI4NzEy/Ny01MTM1LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Repress"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Jazz"
+ ],
+ "id": 11701503,
+ "images": [
+  {
+   "height": 496,
+   "resource_url": "https://i.discogs.com/LRudB3PQOBzvsuDgfbtnbrQIH3XU4UvmpIoG_0rCE4g/rs:fit/g:sm/q:90/h:496/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAx/NTAzLTE1MjA4OTU3/MTMtMjIzOC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/LRudB3PQOBzvsuDgfbtnbrQIH3XU4UvmpIoG_0rCE4g/rs:fit/g:sm/q:90/h:496/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAx/NTAzLTE1MjA4OTU3/MTMtMjIzOC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/IjTRcyZs7hbiAftejVHrlmBjC8jKF21s3LFRge_2mYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAx/NTAzLTE1MjA4OTU3/MTMtMjIzOC5qcGVn.jpeg",
+   "width": 500
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BWOOD0157LP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 62136,
+   "name": "Brownswood Recordings",
+   "resource_url": "https://api.discogs.com/labels/62136",
+   "thumbnail_url": "https://i.discogs.com/udXpMPeMKu_TSb4VTKwXY3ICFOvikTMwNAymitHJSEM/rs:fit/g:sm/q:90/h:268/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYyMTM2/LTE2NjM4Nzg5MTAt/OTk4Ni5wbmc.jpeg"
+  }
+ ],
+ "notes": "2017 repress, identical to the original release but without a download card.",
+ "released": "2017",
+ "styles": [
+  "Contemporary Jazz",
+  "Soul-Jazz",
+  "Broken Beat",
+  "Deep House"
+ ],
+ "title": "Black Focus",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Black Focus",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Strings Of Light",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Remembrance",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Yo Chavez",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Ayla",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "O.G.",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Lowrider",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "Mansur's Message",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B6",
+   "title": "Wing Tai Drums",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B7",
+   "title": "Joint 17",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11701503-Yussef-Kamaal-Black-Focus",
+ "year": 2017
+}

@@ -1,0 +1,128 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 137880,
+   "join": "",
+   "name": "Kanye West",
+   "resource_url": "https://api.discogs.com/artists/137880",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/wy9IfP_N1tqxIJ1SmyUjPTPZTNGA4RUD27WPWiqLv6s/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNzg4/MC0xNzg3MDM2ODA3/LTQ0NTcuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Hip Hop",
+  "Funk / Soul"
+ ],
+ "id": 12923923,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/rwA-bC5qxM66m2JY3jT5TaAMnC7kKSd_j6w5bjWQWso/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTIz/OTIzLTE1NDQ3MDI1/NjEtNTEwOC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/rwA-bC5qxM66m2JY3jT5TaAMnC7kKSd_j6w5bjWQWso/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTIz/OTIzLTE1NDQ3MDI1/NjEtNTEwOC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/l8yrghjsZ4bUhnM1xizlWKR3gRcKtr6kWkcAZFqnq14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTIz/OTIzLTE1NDQ3MDI1/NjEtNTEwOC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "00602567784692",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 4241,
+   "name": "Def Jam Recordings",
+   "resource_url": "https://api.discogs.com/labels/4241",
+   "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+  }
+ ],
+ "notes": "℗ & © 2018 Getting Out Our Dreams, Inc./Def Jam Recordings, a division of UMG Recordings, Inc.\n\nCredits at: \nhttp://kanyewest.com/yeezysound\n00602567784692\n\nas marked on transparent sticker on shrinkwrap",
+ "released": "2018-12-14",
+ "styles": [
+  "Pop Rap",
+  "Contemporary R&B",
+  "Spoken Word"
+ ],
+ "title": "Ye",
+ "tracklist": [
+  {
+   "duration": "4:34",
+   "position": "A1",
+   "title": "I Thought About Killing You",
+   "type_": "track"
+  },
+  {
+   "duration": "3:08",
+   "position": "A2",
+   "title": "Yikes",
+   "type_": "track"
+  },
+  {
+   "duration": "2:25",
+   "position": "A3",
+   "title": "All Mine",
+   "type_": "track"
+  },
+  {
+   "duration": "3:25",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3554300,
+     "join": "",
+     "name": "PARTYNEXTDOOR",
+     "resource_url": "https://api.discogs.com/artists/3554300",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Wouldn't Leave",
+   "type_": "track"
+  },
+  {
+   "duration": "2:03",
+   "position": "B2",
+   "title": "No Mistakes",
+   "type_": "track"
+  },
+  {
+   "duration": "4:31",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3554300,
+     "join": "",
+     "name": "PARTYNEXTDOOR",
+     "resource_url": "https://api.discogs.com/artists/3554300",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Ghost Town",
+   "type_": "track"
+  },
+  {
+   "duration": "3:35",
+   "position": "B4",
+   "title": "Violent Crimes",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12923923-Kanye-West-Ye",
+ "year": 2018
+}

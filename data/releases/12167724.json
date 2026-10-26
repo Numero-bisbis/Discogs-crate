@@ -1,0 +1,98 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5288955,
+   "join": "",
+   "name": "Anthony Fade",
+   "resource_url": "https://api.discogs.com/artists/5288955",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/bk1aLXhh6lH414dPCi2NIHz_FONV0VCt3uRHgWGdbVU/rs:fit/g:sm/q:90/h:481/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyODg5/NTUtMTQ4ODQzNDgw/Ni0zNjI4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12167724,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/ZaZvtrrfwWO7iihaHHKHkmlol2ryG4EqheofdxU_hqc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY3/NzI0LTE1Mjk2NjQ3/MjktOTA5My5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/ZaZvtrrfwWO7iihaHHKHkmlol2ryG4EqheofdxU_hqc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY3/NzI0LTE1Mjk2NjQ3/MjktOTA5My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/HGrJbMfV-8yIklZEv7-BqIyEwzBx7kq0wCPhUiSe2GY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY3/NzI0LTE1Mjk2NjQ3/MjktOTA5My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SBTRAXX002",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1498408,
+   "name": "SlothBoogie Traxx",
+   "resource_url": "https://api.discogs.com/labels/1498408",
+   "thumbnail_url": "https://i.discogs.com/xlymMVamwQUPJDM-07I0ayuqabSgwQxYW5rqqt5IflQ/rs:fit/g:sm/q:90/h:308/w:391/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0OTg0/MDgtMTUzMjg3MTY1/My03NDEzLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "P&D By www.primedirectdist.co.uk\n\nThe pressing plant is derived from the runouts and the typical inner-rings stamped on the labels.",
+ "released": "2018-07-27",
+ "styles": [
+  "House",
+  "Deep House",
+  "Nu-Disco"
+ ],
+ "title": "Mind Games EP",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "",
+   "title": "That Side",
+   "type_": "heading"
+  },
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Mind Games",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "M1 Cause Everyones Gotta Have Fun",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "",
+   "title": "This Side",
+   "type_": "heading"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "I'm Weak",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Dr. Ice",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12167724-Anthony-Fade-Mind-Games-EP",
+ "year": 2018
+}

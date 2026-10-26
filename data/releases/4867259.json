@@ -1,0 +1,360 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 202275,
+   "join": "",
+   "name": "Gregory Porter",
+   "resource_url": "https://api.discogs.com/artists/202275",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ns7YQq36VDTlihxv9cXAZcBCYG4LKvwV8lzjms3PGWI/rs:fit/g:sm/q:90/h:359/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwMjI3/NS0xMzk5Mjg2ODY4/LTI3MzQuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 4867259,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/6pa5V_zFReX5GLF6k8K2O_uuLJYHb8VHS64SY7yZK9s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Njcy/NTktMTM3Nzk1MzMz/Ny05MjQ2LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/6pa5V_zFReX5GLF6k8K2O_uuLJYHb8VHS64SY7yZK9s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Njcy/NTktMTM3Nzk1MzMz/Ny05MjQ2LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/1swKSCn-2tcKB7q3q7jXrYFvmyI93w1unjtZLhsalXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Njcy/NTktMTM3Nzk1MzMz/Ny05MjQ2LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "0602537431540",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 281,
+   "name": "Blue Note",
+   "resource_url": "https://api.discogs.com/labels/281",
+   "thumbnail_url": "https://i.discogs.com/3HpIGTTfcLBKDF0WKsdSygbdfgirR7shFM3kGhgArBI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MS0x/NTAyNjQwNjY3LTQ4/MzMucG5n.jpeg"
+  },
+  {
+   "catno": "0602537431540",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 365673,
+   "name": "Universal Music Classics & Jazz France",
+   "resource_url": "https://api.discogs.com/labels/365673",
+   "thumbnail_url": "https://i.discogs.com/zRFt0wyiBB7P9Q0wdhaWq9qOBwPBPXL3waIQsUwsicQ/rs:fit/g:sm/q:90/h:58/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2NTY3/My0xNTU1OTU1NDg5/LTc0MTEucG5n.jpeg"
+  }
+ ],
+ "notes": "This release seems to be the first European pressing from 2013\n\nRunouts are stamped, 3743154 is etched\n\n℗ © 2013 Gregory Porter\n\nRecorded at Sear Sound, NY, March 28, 29, 30 and April 15, 2013. \nPre-mix editing at Eastside Sound on \"Musical Genocide\" \nMixed at The Grateful Shed, April and May, 2013.\n\nMade in the E.U.\n\nGerman mailorder [l107507] sold an unknown amount of copies exclusively signed by Gregory Porter on the front cover.",
+ "released": "2013-08-30",
+ "styles": [
+  "Contemporary Jazz"
+ ],
+ "title": "Liquid Spirit",
+ "tracklist": [
+  {
+   "duration": "3:56",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 202275,
+     "join": "",
+     "name": "Gregory Porter",
+     "resource_url": "https://api.discogs.com/artists/202275",
+     "role": "Composed By [Composition By]",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "No Love Dying",
+   "type_": "track"
+  },
+  {
+   "duration": "3:36",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 202275,
+     "join": "",
+     "name": "Gregory Porter",
+     "resource_url": "https://api.discogs.com/artists/202275",
+     "role": "Composed By [Composition By]",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Liquid Spirit",
+   "type_": "track"
+  },
+  {
+   "duration": "3:11",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 271898,
+     "join": "",
+     "name": "Abbey Lincoln",
+     "resource_url": "https://api.discogs.com/artists/271898",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 229498,
+     "join": "",
+     "name": "Max Roach",
+     "resource_url": "https://api.discogs.com/artists/229498",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Lonesome Love",
+   "type_": "track"
+  },
+  {
+   "duration": "3:33",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 202275,
+     "join": "",
+     "name": "Gregory Porter",
+     "resource_url": "https://api.discogs.com/artists/202275",
+     "role": "Composed By [Composition By]",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Water Under Bridges",
+   "type_": "track"
+  },
+  {
+   "duration": "3:19",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 202275,
+     "join": "",
+     "name": "Gregory Porter",
+     "resource_url": "https://api.discogs.com/artists/202275",
+     "role": "Composed By [Composition By]",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Hey Laura",
+   "type_": "track"
+  },
+  {
+   "duration": "3:45",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 202275,
+     "join": "",
+     "name": "Gregory Porter",
+     "resource_url": "https://api.discogs.com/artists/202275",
+     "role": "Composed By [Composition By]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Musical Genocide",
+   "type_": "track"
+  },
+  {
+   "duration": "4:10",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 202275,
+     "join": "",
+     "name": "Gregory Porter",
+     "resource_url": "https://api.discogs.com/artists/202275",
+     "role": "Composed By [Composition By]",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Wolfcry",
+   "type_": "track"
+  },
+  {
+   "duration": "5:01",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 202275,
+     "join": "",
+     "name": "Gregory Porter",
+     "resource_url": "https://api.discogs.com/artists/202275",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 273898,
+     "join": "",
+     "name": "Zak Najor",
+     "resource_url": "https://api.discogs.com/artists/273898",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Free",
+   "type_": "track"
+  },
+  {
+   "duration": "4:17",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 202275,
+     "join": "",
+     "name": "Gregory Porter",
+     "resource_url": "https://api.discogs.com/artists/202275",
+     "role": "Composed By [Composition By]",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Brown Grass",
+   "type_": "track"
+  },
+  {
+   "duration": "3:24",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 202275,
+     "join": "",
+     "name": "Gregory Porter",
+     "resource_url": "https://api.discogs.com/artists/202275",
+     "role": "Composed By [Composition By]",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Wind Song",
+   "type_": "track"
+  },
+  {
+   "duration": "3:37",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 322694,
+     "join": "",
+     "name": "Billy Page",
+     "resource_url": "https://api.discogs.com/artists/322694",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "The In Crowd",
+   "type_": "track"
+  },
+  {
+   "duration": "4:50",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 202275,
+     "join": "",
+     "name": "Gregory Porter",
+     "resource_url": "https://api.discogs.com/artists/202275",
+     "role": "Composed By [Composition By]",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Movin'",
+   "type_": "track"
+  },
+  {
+   "duration": "6:53",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 202275,
+     "join": "",
+     "name": "Gregory Porter",
+     "resource_url": "https://api.discogs.com/artists/202275",
+     "role": "Composed By [Composition By]",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "When Love Was King",
+   "type_": "track"
+  },
+  {
+   "duration": "7:49",
+   "extraartists": [
+    {
+     "anv": "Sammy Kahn/Jule Styne",
+     "id": 2376276,
+     "join": "",
+     "name": "Jule Styne And Sammy Cahn",
+     "resource_url": "https://api.discogs.com/artists/2376276",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "I Fall In Love Too Easily",
+   "type_": "track"
+  },
+  {
+   "duration": "3:23",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 202275,
+     "join": "",
+     "name": "Gregory Porter",
+     "resource_url": "https://api.discogs.com/artists/202275",
+     "role": "Composed By [Composition By]",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Time Is Ticking",
+   "type_": "track"
+  },
+  {
+   "duration": "4:43",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 202275,
+     "join": "",
+     "name": "Gregory Porter",
+     "resource_url": "https://api.discogs.com/artists/202275",
+     "role": "Composed By [Composition By]",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Water Under Bridges (Rubato Version)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/4867259-Gregory-Porter-Liquid-Spirit",
+ "year": 2013
+}

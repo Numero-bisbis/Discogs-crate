@@ -1,0 +1,129 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13439160,
+ "images": [
+  {
+   "height": 444,
+   "resource_url": "https://i.discogs.com/I5jH1TGxUg-1_RlUEGAmY_R-entl1JMxoFdERwj4850/rs:fit/g:sm/q:90/h:444/w:459/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM5/MTYwLTE1NTQ3OTgz/OTctODk4MC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/I5jH1TGxUg-1_RlUEGAmY_R-entl1JMxoFdERwj4850/rs:fit/g:sm/q:90/h:444/w:459/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM5/MTYwLTE1NTQ3OTgz/OTctODk4MC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/-LIRPnDIFBV_tRaM21DB8Dh4TNRD9B2Wli5VIT6r88I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM5/MTYwLTE1NTQ3OTgz/OTctODk4MC5qcGVn.jpeg",
+   "width": 459
+  }
+ ],
+ "labels": [
+  {
+   "catno": "PMSC007",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 911573,
+   "name": "Pulse Msc",
+   "resource_url": "https://api.discogs.com/labels/911573",
+   "thumbnail_url": "https://i.discogs.com/e0L-4tiKba97n3wkVO0Sqc_U1oR7ntYXiU6F1FNWDJY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkxMTU3/My0xNTI5MDU1ODAz/LTk2MTQuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-04-00",
+ "styles": [
+  "House",
+  "Disco"
+ ],
+ "title": "Night Riders EP",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5207248,
+     "join": "",
+     "name": "Jehan (6)",
+     "resource_url": "https://api.discogs.com/artists/5207248",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A1",
+   "title": "Waves",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5901069,
+     "join": "",
+     "name": "Tech Support (2)",
+     "resource_url": "https://api.discogs.com/artists/5901069",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A2",
+   "title": "Hello",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5067982,
+     "join": "",
+     "name": "Mangabey",
+     "resource_url": "https://api.discogs.com/artists/5067982",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B1",
+   "title": "Pesci's Delight",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5903079,
+     "join": "",
+     "name": "Ari Bald",
+     "resource_url": "https://api.discogs.com/artists/5903079",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B2",
+   "title": "Snatching Yo Sushi",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13439160-Various-Night-Riders-EP",
+ "year": 2019
+}

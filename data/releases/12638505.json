@@ -1,0 +1,77 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1396444,
+   "join": "",
+   "name": "The Phenomenal Handclap Band",
+   "resource_url": "https://api.discogs.com/artists/1396444",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/2GFBfcvMgWPWBHp-pP2cKTcnK1YcrsqX3OAskLPGLYw/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzOTY0/NDQtMTU0ODI1MTM0/OS0xNDYwLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\""
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12638505,
+ "images": [
+  {
+   "height": 450,
+   "resource_url": "https://i.discogs.com/DtQe5PZZagpTOqfn6JNj4yewuo83wLhJJ1VvmTp5s2M/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM4/NTA1LTE1MzkxMDgy/OTYtNjg2MC5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/DtQe5PZZagpTOqfn6JNj4yewuo83wLhJJ1VvmTp5s2M/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM4/NTA1LTE1MzkxMDgy/OTYtNjg2MC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/vDMKIGZfc3088o71UFgDztoM74RqaOH6hQWrwmVX-Xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM4/NTA1LTE1MzkxMDgy/OTYtNjg2MC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "TOYT 081",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 353749,
+   "name": "Toy Tonics",
+   "resource_url": "https://api.discogs.com/labels/353749",
+   "thumbnail_url": "https://i.discogs.com/EbDnjVaKLXIJJgIHa7rRvMM5eH6Epv43CzWnMxRzq8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM1Mzc0/OS0xNjk3MzYxNDYw/LTI1OTIuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-10-00",
+ "styles": [
+  "Disco"
+ ],
+ "title": "Judge Not (Ray Mang Mixes)",
+ "tracklist": [
+  {
+   "duration": "7:57",
+   "position": "A1",
+   "title": "Judge Not (Ray Mang Special Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "7:18",
+   "position": "B1",
+   "title": "Judge Not (Ray Mang Instrumental Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:38",
+   "position": "B2",
+   "title": "Judge Not (Ray Mang Reprise)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12638505-The-Phenomenal-Handclap-Band-Judge-Not-Ray-Mang-Mixes",
+ "year": 2018
+}

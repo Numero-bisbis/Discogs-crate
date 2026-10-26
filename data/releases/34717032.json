@@ -1,0 +1,113 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 44352,
+   "join": "",
+   "name": "Himiko Kikuchi",
+   "resource_url": "https://api.discogs.com/artists/44352",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ooj4o3c8286s44dRpPJdScLpUoJRj4PizPNbJFBZN3M/rs:fit/g:sm/q:90/h:313/w:287/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ0MzUy/LTE2ODI2ODMzNzYt/MTg4My5wbmc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Japan",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Limited Edition",
+    "Reissue",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "180 Gram"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 34717032,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/bobgLxEGtsVs5ZG1eutNAMx286kHJcTJMdeHIBaZlqE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzE3/MDMyLTE3NTQzNDU1/NjQtNTA4Ni5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/bobgLxEGtsVs5ZG1eutNAMx286kHJcTJMdeHIBaZlqE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzE3/MDMyLTE3NTQzNDU1/NjQtNTA4Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/ekW22fxVYOj0_K6sUo-k7XfgaLwJ2StZG2aXfYcdUao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzE3/MDMyLTE3NTQzNDU1/NjQtNTA4Ni5qcGVn.jpeg",
+   "width": 594
+  }
+ ],
+ "labels": [
+  {
+   "catno": "MHJL-440",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1215538,
+   "name": "Great Tracks (2)",
+   "resource_url": "https://api.discogs.com/labels/1215538",
+   "thumbnail_url": "https://i.discogs.com/aNE1EkK-suZ4Qx2VKqX08CnyUu44dSOlZupo-mGUCCo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMTU1/MzgtMTQ5MjczNjMw/MC03MDA0LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Digital Recording",
+ "released": "2025-08-02",
+ "styles": [
+  "Jazz-Funk",
+  "Fusion"
+ ],
+ "title": "Flying Beagle",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Look Your Back!",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "A Seagull & Clouds",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Flying Beagle",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Fluffy",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Sand Storm",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Baby Talk",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "The Second Summer",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Ducky Ducky",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/34717032-Himiko-Kikuchi-Flying-Beagle",
+ "year": 2025
+}

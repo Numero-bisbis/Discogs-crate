@@ -1,0 +1,139 @@
+{
+ "artists": [
+  {
+   "anv": "Bacao Rhythm & Steel Band",
+   "id": 918364,
+   "join": "",
+   "name": "The Bacao Rhythm & Steel Band",
+   "resource_url": "https://api.discogs.com/artists/918364",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ygPLtfO3LmaD6BJI29E5ogSfZPpP6DXiX7OcJjdM1Tw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTkxODM2/NC0xNDU3NTU4ODQy/LTQ0MzIuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Hip Hop",
+  "Reggae",
+  "Funk / Soul",
+  "Folk, World, & Country"
+ ],
+ "id": 12741038,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/lHPaYCLBqWEMK0sUvwy2xQI41bff3XNuJ2fdsopfPg0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQx/MDM4LTE1NDUxNjgz/NjEtNjA4NC5wbmc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/lHPaYCLBqWEMK0sUvwy2xQI41bff3XNuJ2fdsopfPg0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQx/MDM4LTE1NDUxNjgz/NjEtNjA4NC5wbmc.jpeg",
+   "uri150": "https://i.discogs.com/le2dywWYCoz5grvhPwY_TeG_fQPMTLbMxZu1LMJgsMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQx/MDM4LTE1NDUxNjgz/NjEtNjA4NC5wbmc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BC013SV-LP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 979925,
+   "name": "Big Crown Records",
+   "resource_url": "https://api.discogs.com/labels/979925",
+   "thumbnail_url": "https://i.discogs.com/K1vVUBedrVDq86Vpm8mrJ6AjWgRXzJHxnZnMbVdKJic/rs:fit/g:sm/q:90/h:109/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk3OTky/NS0xNTI0Njg4MDgy/LTU0MzcucG5n.jpeg"
+  }
+ ],
+ "notes": "Abridged single LP version of the original album\n\nMatrix info is the same as the test pressing. \nAlso, side B matrix info has a correction that was made, the “13” is dark to correct an error that was made. ",
+ "released": "2018-11-02",
+ "styles": [
+  "Steel Band",
+  "Funk",
+  "Hip Hop"
+ ],
+ "title": "55",
+ "tracklist": [
+  {
+   "duration": "3:15",
+   "position": "A1",
+   "title": "PIMP",
+   "type_": "track"
+  },
+  {
+   "duration": "3:13",
+   "position": "A2",
+   "title": "Laventille Road March",
+   "type_": "track"
+  },
+  {
+   "duration": "3:32",
+   "position": "A3",
+   "title": "Bacao Suave",
+   "type_": "track"
+  },
+  {
+   "duration": "3:41",
+   "position": "A4",
+   "title": "Tropical Heat",
+   "type_": "track"
+  },
+  {
+   "duration": "2:50",
+   "position": "A5",
+   "title": "Jungle Fever",
+   "type_": "track"
+  },
+  {
+   "duration": "3:10",
+   "position": "A6",
+   "title": "Beetham Highway Ride",
+   "type_": "track"
+  },
+  {
+   "duration": "3:36",
+   "position": "B1",
+   "title": "Tender Trap",
+   "type_": "track"
+  },
+  {
+   "duration": "3:23",
+   "position": "B2",
+   "title": "Dog Was A Doughnut",
+   "type_": "track"
+  },
+  {
+   "duration": "4:03",
+   "position": "B3",
+   "title": "Queen Of Cheeba",
+   "type_": "track"
+  },
+  {
+   "duration": "4:09",
+   "position": "B4",
+   "title": "Love Like This",
+   "type_": "track"
+  },
+  {
+   "duration": "3:23",
+   "position": "B5",
+   "title": "Port of Spain Hustle",
+   "type_": "track"
+  },
+  {
+   "duration": "3:33",
+   "position": "B6",
+   "title": "Round & Round",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12741038-Bacao-Rhythm-Steel-Band-55",
+ "year": 2018
+}

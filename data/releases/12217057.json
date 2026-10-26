@@ -1,0 +1,96 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 447159,
+   "join": "",
+   "name": "Alan Fitzpatrick",
+   "resource_url": "https://api.discogs.com/artists/447159",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/HZNFrSf4RJ3snlk_BrxRBklkmW8OkXgqKH8W9swFVX0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ0NzE1/OS0xMzkzNTA2Nzkx/LTgzMjAuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12217057,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/F9OP9zM4fBR0KXC1oo4jc0NzKgwBRUEhXmUH2UTkUrU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjE3/MDU3LTE1MzA3MTA2/MjctNDcyMy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/F9OP9zM4fBR0KXC1oo4jc0NzKgwBRUEhXmUH2UTkUrU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjE3/MDU3LTE1MzA3MTA2/MjctNDcyMy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/yY4a0_j-jFBbHAWbTLwcAFnsL5iDnpzN2mY7OHEm3S4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjE3/MDU3LTE1MzA3MTA2/MjctNDcyMy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "UTTU089",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 263123,
+   "name": "Unknown To The Unknown",
+   "resource_url": "https://api.discogs.com/labels/263123",
+   "thumbnail_url": "https://i.discogs.com/I2MggF8rBqlL5y5THSWdgpI0uYofh7ZytreUJdJMazA/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2MzEy/My0xNjYxMzQxNjI4/LTQ2MjMucG5n.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-07-03",
+ "styles": [
+  "Techno",
+  "Tech House"
+ ],
+ "title": "System Addict EP",
+ "tracklist": [
+  {
+   "duration": "8:43",
+   "position": "A1",
+   "title": "System Addict",
+   "type_": "track"
+  },
+  {
+   "duration": "5:12",
+   "position": "A2",
+   "title": "Hold The Ripper",
+   "type_": "track"
+  },
+  {
+   "duration": "6:31",
+   "position": "B1",
+   "title": "In Excess",
+   "type_": "track"
+  },
+  {
+   "duration": "6:27",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6473683,
+     "join": "",
+     "name": "Falcon Black Ops",
+     "resource_url": "https://api.discogs.com/artists/6473683",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "In Excess (Falcon Black Ops Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12217057-Alan-Fitzpatrick-System-Addict-EP",
+ "year": 2018
+}

@@ -1,0 +1,74 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1989806,
+   "join": "",
+   "name": "Kölsch",
+   "resource_url": "https://api.discogs.com/artists/1989806",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/30La0M4Ni3z5nOrMTm0_n1jm71flxCKI0J3z2bhC7E4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5ODk4/MDYtMTU3NTQ4MzIw/OS05MTg2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 10362729,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/d9PpeZcOeRGT3AEfHTYjHNE_V4PmQFZmMUPmCDA2B4k/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzYy/NzI5LTE1MDIwNDA1/NDEtNzc1NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/d9PpeZcOeRGT3AEfHTYjHNE_V4PmQFZmMUPmCDA2B4k/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzYy/NzI5LTE1MDIwNDA1/NDEtNzc1NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Scfgdt8L_kZhApzhslIDC7ImT-fHV5tY8oNv_naenz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzYy/NzI5LTE1MDIwNDA1/NDEtNzc1NC5qcGVn.jpeg",
+   "width": 590
+  }
+ ],
+ "labels": [
+  {
+   "catno": "KOM EX 97",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 19966,
+   "name": "Kompakt Extra",
+   "resource_url": "https://api.discogs.com/labels/19966",
+   "thumbnail_url": "https://i.discogs.com/5wCC-38pzAeVzfsYEVsqw9unU45JRjj38dOzTE7nnxA/rs:fit/g:sm/q:90/h:237/w:249/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5OTY2/LTEyMDE0NjEyNzQu/anBlZw.jpeg"
+  }
+ ],
+ "notes": "Side A: 45 RPM\nSide B: 33 ⅓ RPM\n\nPressing plant is uncredited, derived from the runout etchings.",
+ "released": "2017-05-12",
+ "styles": [
+  "Techno",
+  "Minimal"
+ ],
+ "title": "Speicher 97",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Push",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B ",
+   "title": "Goodbye",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10362729-Kölsch-Speicher-97",
+ "year": 2017
+}

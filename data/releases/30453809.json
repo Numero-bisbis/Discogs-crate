@@ -1,0 +1,128 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1262427,
+   "join": "",
+   "name": "La Roux",
+   "resource_url": "https://api.discogs.com/artists/1262427",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/P4xOeoBnV9N9fBo2fDAwpqf-WePKw8NvNY6uIyuNaxM/rs:fit/g:sm/q:90/h:600/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyNjI0/MjctMTU1ODc5MDky/Mi0zNTk2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Record Store Day",
+    "Limited Edition",
+    "Reissue",
+    "Remastered"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Green Transparent"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 30453809,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/Sv-Oh_AuFCnhljFv91UXEn3ZBBX0xUHKvFC_-1Yxo88/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUz/ODA5LTE3MjE1NTcz/ODItNzA3Ni5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Sv-Oh_AuFCnhljFv91UXEn3ZBBX0xUHKvFC_-1Yxo88/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUz/ODA5LTE3MjE1NTcz/ODItNzA3Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/uApnYeqt9woL2TIlIRNz8ifl0c5OSXVQRpp6wV1bO9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUz/ODA5LTE3MjE1NTcz/ODItNzA3Ni5qcGVn.jpeg",
+   "width": 596
+  }
+ ],
+ "labels": [
+  {
+   "catno": "00602458741278",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1920410,
+   "name": "Universal Music Recordings",
+   "resource_url": "https://api.discogs.com/labels/1920410",
+   "thumbnail_url": "https://i.discogs.com/H1aq4T5JiLDgLRFxfUmCPntBP5VFYPFL7zufkMC4kI8/rs:fit/g:sm/q:90/h:168/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5MjA0/MTAtMTc3ODQ4NDA4/Ni0zMDAzLnBuZw.jpeg"
+  },
+  {
+   "catno": "5874127",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1610,
+   "name": "Polydor",
+   "resource_url": "https://api.discogs.com/labels/1610",
+   "thumbnail_url": "https://i.discogs.com/aNZfcLSVMW8xdCMyTxY3PspGfkoD4lsz8_uyffeyRcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MTAt/MTU4ODY3Mzk0Ny0x/NjI2LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Record Store Day 2024 release\n\nHype sticker reads:\nLimited Edition\nLa Roux\nTrouble in Paradise\n10th Anniversary LP\nOn 140G Transparent Green Vinyl remastered at Abbey Road Studios\nFeaturing the singles ‘Uptight Downtown” & ‘Kiss And Not Tell’\n\n\"Made in France\" sticker on the back.\n\nMade in The E.U.",
+ "released": "2024-04-20",
+ "styles": [
+  "Synth-pop"
+ ],
+ "title": "Trouble In Paradise",
+ "tracklist": [
+  {
+   "duration": "4:22",
+   "position": "A1",
+   "title": "Uptight Downtown",
+   "type_": "track"
+  },
+  {
+   "duration": "3:53",
+   "position": "A2",
+   "title": "Kiss And Not Tell",
+   "type_": "track"
+  },
+  {
+   "duration": "4:15",
+   "position": "A3",
+   "title": "Cruel Sexuality",
+   "type_": "track"
+  },
+  {
+   "duration": "5:11",
+   "position": "A4",
+   "title": "Paradise Is You",
+   "type_": "track"
+  },
+  {
+   "duration": "4:18",
+   "position": "A5",
+   "title": "Sexotheque",
+   "type_": "track"
+  },
+  {
+   "duration": "3:31",
+   "position": "B1",
+   "title": "Tropical Chancer",
+   "type_": "track"
+  },
+  {
+   "duration": "7:01",
+   "position": "B2",
+   "title": "Silent Partner",
+   "type_": "track"
+  },
+  {
+   "duration": "5:40",
+   "position": "B3",
+   "title": "Let Me Down Gently",
+   "type_": "track"
+  },
+  {
+   "duration": "4:06",
+   "position": "B4",
+   "title": "The Feeling",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/30453809-La-Roux-Trouble-In-Paradise",
+ "year": 2024
+}

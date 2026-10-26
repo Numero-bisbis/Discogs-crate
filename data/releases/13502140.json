@@ -1,0 +1,105 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4938476,
+   "join": "feat",
+   "name": "Lil Yachty",
+   "resource_url": "https://api.discogs.com/artists/4938476",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/VsLOgJgJUyWJo4vTAdiJc3-TLM1hLY3fLvWsEau2GVo/rs:fit/g:sm/q:90/h:392/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ5Mzg0/NzYtMTc4MzQ0NDg3/Ni0yNTY5LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 5950025,
+   "join": "",
+   "name": "Lil Baby",
+   "resource_url": "https://api.discogs.com/artists/5950025",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/oIciUtMlfPDaMlC08acRGtb_3C4IbsmNCFD42MgffKI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU5NTAw/MjUtMTc0NDcyMzI3/NS0yNjkwLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "7\"",
+    "33 ⅓ RPM",
+    "Unofficial Release"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13502140,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/vL5agJKed2588RchBUgTIAe5jKfuV2DjrxGqqhZDJwg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTAy/MTQwLTE1OTI2NTI2/ODgtNTA2Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/vL5agJKed2588RchBUgTIAe5jKfuV2DjrxGqqhZDJwg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTAy/MTQwLTE1OTI2NTI2/ODgtNTA2Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/6aLCL_aSKXATyTEJB09I01_h4rupZPvGquHjeegjGWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTAy/MTQwLTE1OTI2NTI2/ODgtNTA2Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "YSL001",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 714178,
+   "name": "YSL",
+   "resource_url": "https://api.discogs.com/labels/714178",
+   "thumbnail_url": "https://i.discogs.com/oLjSlkDKXz5J4mtKjmTgOBCUANNIHm4iR9S-ovfTJuk/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcxNDE3/OC0xNTc4MTY4NjYz/LTE5MDEuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-03-29",
+ "styles": [
+  "House"
+ ],
+ "title": "SaintLaurentYSL",
+ "tracklist": [
+  {
+   "duration": "6:08",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 715291,
+     "join": "",
+     "name": "The Martinez Brothers",
+     "resource_url": "https://api.discogs.com/artists/715291",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "SaintLaurentYSL (The Martinez Brothers re-edit)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:29",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 715291,
+     "join": "",
+     "name": "The Martinez Brothers",
+     "resource_url": "https://api.discogs.com/artists/715291",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B",
+   "title": "Backyard Boogie (NYC mix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13502140-Lil-Yachty-feat-Lil-Baby-SaintLaurentYSL",
+ "year": 2019
+}

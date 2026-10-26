@@ -1,0 +1,429 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 39956,
+   "join": "",
+   "name": "Big L",
+   "resource_url": "https://api.discogs.com/artists/39956",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/rh4aw06iktYSUt-2lsTAZkbjPij1cxQT3lfUANavB-M/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM5OTU2/LTE2NjE3Mjk3Njkt/OTM5OS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Remastered"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 2357477,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/xh7lxBYiUp-0uCvINyI9vuy2R0poeuaqhF11g_aqIVU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTc0/NzctMTI4NjYzOTk1/OS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/xh7lxBYiUp-0uCvINyI9vuy2R0poeuaqhF11g_aqIVU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTc0/NzctMTI4NjYzOTk1/OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/ctptCUgjUU-8tikBhsBcLnzByxXpm3y0wJBxK06eILE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTc0/NzctMTI4NjYzOTk1/OS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "TEG 78509-1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 23609,
+   "name": "Traffic Entertainment Group",
+   "resource_url": "https://api.discogs.com/labels/23609",
+   "thumbnail_url": "https://i.discogs.com/tBZ8A2egZWp8Y1jbRmKnvD3BiEJsrcQXceZLnDa_Q0M/rs:fit/g:sm/q:90/h:206/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNjA5/LTExNTAwNzQ4NzUu/anBlZw.jpeg"
+  }
+ ],
+ "notes": "First pressings of this release included a 18\" X 24\" poster with the first verse from \"Put It On\" and a red sticker on the sleeve.\nLater pressings lack the poster and the sticker.\nSome copies have a 10 page-booklet (including liner notes, pictures, lyrics, biography), a poster but no red sticker on cover.\n\nOriginally released as Columbia [url=http://www.discogs.com/release/1145483]C 53795[/url] in 1995.\n\nManufactured for Traffic Entertainment Group by Sony Music Custom Marketing Group.\nPressed at United Record Pressing in Nashville, TN.\nMade in the U.S.A.\n\n© 2010 Traffic Entertainment Group\n℗ 1995 Sony Music Entertainment",
+ "released": "2010-07-09",
+ "styles": [
+  "Hardcore Hip-Hop",
+  "Boom Bap"
+ ],
+ "title": "Lifestylez Ov Da Poor & Dangerous",
+ "tracklist": [
+  {
+   "duration": "3:36",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 170706,
+     "join": "",
+     "name": "Rich July",
+     "resource_url": "https://api.discogs.com/artists/170706",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "Buck-Wild",
+     "id": 58593,
+     "join": "",
+     "name": "Buckwild",
+     "resource_url": "https://api.discogs.com/artists/58593",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 170204,
+     "join": "",
+     "name": "Tony Smalios",
+     "resource_url": "https://api.discogs.com/artists/170204",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Put It On",
+   "type_": "track"
+  },
+  {
+   "duration": "3:38",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 65048,
+     "join": "",
+     "name": "Lord Finesse",
+     "resource_url": "https://api.discogs.com/artists/65048",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "MVP",
+   "type_": "track"
+  },
+  {
+   "duration": "3:29",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 16659,
+     "join": "",
+     "name": "Showbiz",
+     "resource_url": "https://api.discogs.com/artists/16659",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "No Endz, No Skinz",
+   "type_": "track"
+  },
+  {
+   "duration": "4:59",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 163328,
+     "join": "",
+     "name": "Big Twan",
+     "resource_url": "https://api.discogs.com/artists/163328",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 175895,
+     "join": "",
+     "name": "Buddah Bless",
+     "resource_url": "https://api.discogs.com/artists/175895",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 175892,
+     "join": "",
+     "name": "Herb McGruff",
+     "resource_url": "https://api.discogs.com/artists/175892",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 269922,
+     "join": "",
+     "name": "Killa Cam",
+     "resource_url": "https://api.discogs.com/artists/269922",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 175896,
+     "join": "",
+     "name": "Mike Boogie",
+     "resource_url": "https://api.discogs.com/artists/175896",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 183819,
+     "join": "",
+     "name": "Terra (2)",
+     "resource_url": "https://api.discogs.com/artists/183819",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 175894,
+     "join": "",
+     "name": "Trooper J",
+     "resource_url": "https://api.discogs.com/artists/175894",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Buck-Wild",
+     "id": 58593,
+     "join": "",
+     "name": "Buckwild",
+     "resource_url": "https://api.discogs.com/artists/58593",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "8 Iz Enuff",
+   "type_": "track"
+  },
+  {
+   "duration": "4:21",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 65048,
+     "join": "",
+     "name": "Lord Finesse",
+     "resource_url": "https://api.discogs.com/artists/65048",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "All Black",
+   "type_": "track"
+  },
+  {
+   "duration": "3:36",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 170706,
+     "join": "",
+     "name": "Rich July",
+     "resource_url": "https://api.discogs.com/artists/170706",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "Buck-Wild",
+     "id": 58593,
+     "join": "",
+     "name": "Buckwild",
+     "resource_url": "https://api.discogs.com/artists/58593",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 170204,
+     "join": "",
+     "name": "Tony Smalios",
+     "resource_url": "https://api.discogs.com/artists/170204",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Danger Zone",
+   "type_": "track"
+  },
+  {
+   "duration": "4:09",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 65048,
+     "join": "",
+     "name": "Lord Finesse",
+     "resource_url": "https://api.discogs.com/artists/65048",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Street Struck",
+   "type_": "track"
+  },
+  {
+   "duration": "5:24",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 178871,
+     "join": "",
+     "name": "Grand Daddy I.U.",
+     "resource_url": "https://api.discogs.com/artists/178871",
+     "role": "Featuring [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21742,
+     "join": "",
+     "name": "Jay-Z",
+     "resource_url": "https://api.discogs.com/artists/21742",
+     "role": "Featuring [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 65048,
+     "join": "",
+     "name": "Lord Finesse",
+     "resource_url": "https://api.discogs.com/artists/65048",
+     "role": "Featuring [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 250065,
+     "join": "",
+     "name": "Microphone Nut",
+     "resource_url": "https://api.discogs.com/artists/250065",
+     "role": "Featuring [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 194775,
+     "join": "",
+     "name": "Party Arty",
+     "resource_url": "https://api.discogs.com/artists/194775",
+     "role": "Featuring [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "Buck-Wild",
+     "id": 58593,
+     "join": "",
+     "name": "Buckwild",
+     "resource_url": "https://api.discogs.com/artists/58593",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Da Graveyard",
+   "type_": "track"
+  },
+  {
+   "duration": "3:21",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 65048,
+     "join": "",
+     "name": "Lord Finesse",
+     "resource_url": "https://api.discogs.com/artists/65048",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Coleman",
+     "id": 806282,
+     "join": "",
+     "name": "Lamont Coleman",
+     "resource_url": "https://api.discogs.com/artists/806282",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Hall",
+     "id": 819615,
+     "join": "",
+     "name": "Robert Hall, Jr.",
+     "resource_url": "https://api.discogs.com/artists/819615",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Lifestylez Ov Da Poor & Dangerous",
+   "type_": "track"
+  },
+  {
+   "duration": "4:20",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 16659,
+     "join": "",
+     "name": "Showbiz",
+     "resource_url": "https://api.discogs.com/artists/16659",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "I Don't Understand It",
+   "type_": "track"
+  },
+  {
+   "duration": "3:52",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 65048,
+     "join": "",
+     "name": "Lord Finesse",
+     "resource_url": "https://api.discogs.com/artists/65048",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Fed Up Wit The Bullshit",
+   "type_": "track"
+  },
+  {
+   "duration": "3:50",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 175111,
+     "join": "",
+     "name": "Craig Boogie",
+     "resource_url": "https://api.discogs.com/artists/175111",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Let 'Em Have It \"L\"",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/2357477-Big-L-Lifestylez-Ov-Da-Poor-Dangerous",
+ "year": 2010
+}

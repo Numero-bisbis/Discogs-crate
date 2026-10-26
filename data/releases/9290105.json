@@ -1,0 +1,85 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1684763,
+   "join": "",
+   "name": "Enrico Sangiuliano",
+   "resource_url": "https://api.discogs.com/artists/1684763",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/TLnGxVQybH9SdZIGQUg2DTGAt5PiwiuvbkIRVlpwaG4/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2ODQ3/NjMtMTc3NTU3OTY5/My03NDUxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Sweden",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 9290105,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/NHglkPzhYNG2W9Ag25FbbWK6ZR9IVs2kRU-N73feUCQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTAx/MDUtMTYwNDA0OTI4/My04NTEwLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/NHglkPzhYNG2W9Ag25FbbWK6ZR9IVs2kRU-N73feUCQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTAx/MDUtMTYwNDA0OTI4/My04NTEwLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/OHAB88fFT5hX2cm52RS3kOT3to4tSfXDfHJa6vCRtKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTAx/MDUtMTYwNDA0OTI4/My04NTEwLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DC160",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 237,
+   "name": "Drumcode",
+   "resource_url": "https://api.discogs.com/labels/237",
+   "thumbnail_url": "https://i.discogs.com/1rrViQveJmRumM48FWYOYNsJD3-iahuaYprtxJgsAQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNy0x/NjkyOTkxNjY2LTg2/NjgucG5n.jpeg"
+  }
+ ],
+ "notes": "On label side B:\n℗ Dipiu\n© Drumcode 2016\n\n",
+ "released": "2016",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Moon Rocks",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Moon Rocks",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Ghettoblaster",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Dutch Kiss (Straight Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Dutch Kiss (Inner Mix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/9290105-Enrico-Sangiuliano-Moon-Rocks",
+ "year": 2016
+}

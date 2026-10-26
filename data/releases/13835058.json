@@ -1,0 +1,81 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2266,
+   "join": "",
+   "name": "George Benson",
+   "resource_url": "https://api.discogs.com/artists/2266",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-TAwJsNja-TUD6RmuiEaINrNhep-EZ_B4zRyLgbOo2I/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIyNjYt/MTc0OTc5NjA1MS01/MzUzLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Italy",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Funk / Soul"
+ ],
+ "id": 13835058,
+ "images": [
+  {
+   "height": 500,
+   "resource_url": "https://i.discogs.com/YAYvUF4U73PcrqdxDRi1i_yJCl8Ec8SeeTuwsibS2IQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM1/MDU4LTE1NjIxODY1/NDItNDQ1My5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/YAYvUF4U73PcrqdxDRi1i_yJCl8Ec8SeeTuwsibS2IQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM1/MDU4LTE1NjIxODY1/NDItNDQ1My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/hWIuaLT8KY16q7Ex5kmzAcp8IGbxVJ2B-AClGmDqIAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM1/MDU4LTE1NjIxODY1/NDItNDQ1My5qcGVn.jpeg",
+   "width": 500
+  }
+ ],
+ "labels": [
+  {
+   "catno": "GRWB-1204",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 252233,
+   "name": "Groovin Recordings",
+   "resource_url": "https://api.discogs.com/labels/252233",
+   "thumbnail_url": "https://i.discogs.com/il_vlgwJ1PDdpGuR8mjEkJGjmaBRTIB2ZaqZeKwg0s4/rs:fit/g:sm/q:90/h:129/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1MjIz/My0xNDYyOTg2Njc2/LTgzNzcuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-06-14",
+ "styles": [
+  "Soul",
+  "Jazz-Funk"
+ ],
+ "title": "Give Me The Night / Breezin' / The World Is A Ghetto",
+ "tracklist": [
+  {
+   "duration": "4:58",
+   "position": "A1",
+   "title": "Give Me The Night",
+   "type_": "track"
+  },
+  {
+   "duration": "5:36",
+   "position": "A2",
+   "title": "Breezin'",
+   "type_": "track"
+  },
+  {
+   "duration": "9:43",
+   "position": "B",
+   "title": " The World Is A Ghetto",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13835058-George-Benson-Give-Me-The-Night-Breezin-The-World-Is-A-Ghetto",
+ "year": 2019
+}

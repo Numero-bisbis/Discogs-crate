@@ -1,0 +1,80 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1314682,
+   "join": "",
+   "name": "Asquith",
+   "resource_url": "https://api.discogs.com/artists/1314682",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Z1PKfzpnHLKsv-tWxbXSNzaIcECySNkbkS7K7CfIu7A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzMTQ2/ODItMTY2OTkwNzI1/NS00Njk1LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 14430576,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/iSWdYGdaDnFsxDBVfeD5ES4z3xYpGbC_xdli_gJHMxU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDMw/NTc2LTE1NzQzNzcw/NjktNjU5Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/iSWdYGdaDnFsxDBVfeD5ES4z3xYpGbC_xdli_gJHMxU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDMw/NTc2LTE1NzQzNzcw/NjktNjU5Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Eq7efoFou0L-78dI_J7efwXeBegsmGgOZoXQIfYx4vM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDMw/NTc2LTE1NzQzNzcw/NjktNjU5Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ASQ004",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1516459,
+   "name": "Asquith",
+   "resource_url": "https://api.discogs.com/labels/1516459",
+   "thumbnail_url": "https://i.discogs.com/V6tG9yMXXJTEB5I3y947zmMptyr2qWvP0msbpSMFyYY/rs:fit/g:sm/q:90/h:179/w:429/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1MTY0/NTktMTUzNjE2MjM4/NS02MTM5LnBuZw.jpeg"
+  }
+ ],
+ "notes": "Lobster Publishing Ltd 2019",
+ "released": "2019-11-21",
+ "styles": [
+  "Electro",
+  "Trance",
+  "Techno"
+ ],
+ "title": "Let Me EP",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Let Me (Rave Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Terror Barrier",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Higher Power",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14430576-Asquith-Let-Me-EP",
+ "year": 2019
+}

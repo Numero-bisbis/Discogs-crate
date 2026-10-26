@@ -1,0 +1,232 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5431491,
+   "join": "",
+   "name": "Ezra Collective",
+   "resource_url": "https://api.discogs.com/artists/5431491",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/nWi40zvW_FTt5AKQ3NXb3dw5Yc118t0BqDJJlJvI9Gk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU0MzE0/OTEtMTQ4MTYyNDMz/MC01NTg3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "White"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Funk / Soul"
+ ],
+ "id": 13555782,
+ "images": [
+  {
+   "height": 588,
+   "resource_url": "https://i.discogs.com/HAU5WZB87mTJOy8J9XzQiXVd4bgpi7hlFRSy7ve-Z4o/rs:fit/g:sm/q:90/h:588/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU1/NzgyLTE1NTY0NDI3/MDEtOTgyMi5wbmc.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/HAU5WZB87mTJOy8J9XzQiXVd4bgpi7hlFRSy7ve-Z4o/rs:fit/g:sm/q:90/h:588/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU1/NzgyLTE1NTY0NDI3/MDEtOTgyMi5wbmc.jpeg",
+   "uri150": "https://i.discogs.com/_cpCQAiiYvMX_dHdXD6LjXERkC7iNr-MPuWFI8Yu8vI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU1/NzgyLTE1NTY0NDI3/MDEtOTgyMi5wbmc.jpeg",
+   "width": 587
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ETJ 006",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1378735,
+   "name": "Enter The Jungle Records",
+   "resource_url": "https://api.discogs.com/labels/1378735",
+   "thumbnail_url": "https://i.discogs.com/3xgEyE2R1H43G8ZoG44XLQp25qCXdAWOODaHZ_WE1CQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzNzg3/MzUtMTc5MTU1NTE0/OS05MTk2LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "White vinyl edition, exclusive to independent shops.\n\n℗ and © 2019,Enter The Jungle Records.\nRecorded at Soup Studios, London.\nMastered [...] at Metropolis Studios, London.",
+ "released": "2019-04-26",
+ "styles": [
+  "Contemporary Jazz",
+  "Contemporary R&B",
+  "Afrobeat"
+ ],
+ "title": "You Can't Steal My Joy",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 35328,
+     "join": "",
+     "name": "Sun Ra",
+     "resource_url": "https://api.discogs.com/artists/35328",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Space Is The Place (Reprise)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Why You Mad?",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Red Whine",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Quest For Coin",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5314733,
+     "join": "",
+     "name": "Jorja Smith",
+     "resource_url": "https://api.discogs.com/artists/5314733",
+     "role": "Featuring, Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Reason In Disguise",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4162879,
+     "join": "",
+     "name": "Loyle Carner",
+     "resource_url": "https://api.discogs.com/artists/4162879",
+     "role": "Featuring, Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "What Am I To Do?",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Chris And Jane",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "People Saved",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C2",
+   "title": "Philosopher II",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D1",
+   "title": "São Paulo",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D2",
+   "title": "King Of The Jungle",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D3",
+   "title": "You Can't Steal My Joy",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5624783,
+     "join": "",
+     "name": "Cassie Kinoshi",
+     "resource_url": "https://api.discogs.com/artists/5624783",
+     "role": "Alto Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6248991,
+     "join": "",
+     "name": "Kokoroko",
+     "resource_url": "https://api.discogs.com/artists/6248991",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6264254,
+     "join": "",
+     "name": "Onome Edgeworth",
+     "resource_url": "https://api.discogs.com/artists/6264254",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6264166,
+     "join": "",
+     "name": "Richie Seivwright",
+     "resource_url": "https://api.discogs.com/artists/6264166",
+     "role": "Trombone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5624786,
+     "join": "",
+     "name": "Sheila Maurice-Grey",
+     "resource_url": "https://api.discogs.com/artists/5624786",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 19812,
+     "join": "",
+     "name": "Fela Kuti",
+     "resource_url": "https://api.discogs.com/artists/19812",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Shakara",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13555782-Ezra-Collective-You-Cant-Steal-My-Joy",
+ "year": 2019
+}

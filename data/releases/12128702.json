@@ -1,0 +1,88 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5802174,
+   "join": "",
+   "name": "Vitess",
+   "resource_url": "https://api.discogs.com/artists/5802174",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/WfRJovcM-rn3FIPQuEO9GZinTkY1V4w8Wc6byy-aCFk/rs:fit/g:sm/q:90/h:600/w:428/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU4MDIx/NzQtMTY3NDY3NzYz/NC04NjkwLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12128702,
+ "images": [
+  {
+   "height": 598,
+   "resource_url": "https://i.discogs.com/TC1Of4HEzB4IpSptHnLmB--8EvJrheJQ4-okc_bqPzk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI4/NzAyLTE1Mjg4NzUy/ODMtNzAyOC5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/TC1Of4HEzB4IpSptHnLmB--8EvJrheJQ4-okc_bqPzk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI4/NzAyLTE1Mjg4NzUy/ODMtNzAyOC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/kjWNRozgF9qbCo7CTzTGJ_iDHt9Fi7AsnuFbSlsYlPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI4/NzAyLTE1Mjg4NzUy/ODMtNzAyOC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "PMSC005",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 911573,
+   "name": "Pulse Msc",
+   "resource_url": "https://api.discogs.com/labels/911573",
+   "thumbnail_url": "https://i.discogs.com/e0L-4tiKba97n3wkVO0Sqc_U1oR7ntYXiU6F1FNWDJY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkxMTU3/My0xNTI5MDU1ODAz/LTk2MTQuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-06-12",
+ "styles": [
+  "House",
+  "Deep House",
+  "Disco"
+ ],
+ "title": "Panama Peppers EP",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Panama Peppers",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Rude",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "G.S.H",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Jazz Affairs",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12128702-Vitess-Panama-Peppers-EP",
+ "year": 2018
+}

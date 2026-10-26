@@ -1,0 +1,93 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5433366,
+   "join": "",
+   "name": "Subjoi",
+   "resource_url": "https://api.discogs.com/artists/5433366",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/imXx-3aHrlwJ1lsgm540hKOBFRgjfdwYuQTniPjRvRI/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU0MzMz/NjYtMTU4Njg4MTgz/Ny0yNjE2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 15194448,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/7PnYHlMM7Xxi7l0NonjUiqlzhajQA9L3UsRGXg8mek8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTk0/NDQ4LTE1OTA3OTkw/OTEtMzk5My5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/7PnYHlMM7Xxi7l0NonjUiqlzhajQA9L3UsRGXg8mek8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTk0/NDQ4LTE1OTA3OTkw/OTEtMzk5My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/bmaseeUpDsImMd3Nug1x8Doi1O_x53uzqed02-umI1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTk0/NDQ4LTE1OTA3OTkw/OTEtMzk5My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "HAWAII021",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 874738,
+   "name": "Distant Hawaii",
+   "resource_url": "https://api.discogs.com/labels/874738",
+   "thumbnail_url": "https://i.discogs.com/1o--pZ3YIF06vxefJ457Hap-ji_SZUbk1gWdo59dO_0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg3NDcz/OC0xNjcwODQyODM5/LTM2NDYuanBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2020-06-19",
+ "styles": [
+  "Breakbeat",
+  "House",
+  "Deep House",
+  "UK Garage"
+ ],
+ "title": "Fairfax",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Fairfax",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Like It Was",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Drownin'",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Shelter Me",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "When You Love Me",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15194448-Subjoi-Fairfax",
+ "year": 2020
+}

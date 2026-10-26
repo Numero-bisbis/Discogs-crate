@@ -1,0 +1,79 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5096237,
+   "join": "",
+   "name": "Austin Ato",
+   "resource_url": "https://api.discogs.com/artists/5096237",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/fx5gPK_sVgP_Ma-q_t8WrsVdHtK2tIPXCTXMNQMQUFA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwOTYy/MzctMTY3OTAxMDQ5/NC0xNDA3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 10995910,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/_iM5A25bfKhLJjWMueVA3e_Tgjm2dSsJ5mxomlH_5hE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTk1/OTEwLTE1MDc4OTA5/NTgtNTMwNC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/_iM5A25bfKhLJjWMueVA3e_Tgjm2dSsJ5mxomlH_5hE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTk1/OTEwLTE1MDc4OTA5/NTgtNTMwNC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/O8d9Don3IaPczpZcARsyZGkCfbv1cGAyPqDH45R6g5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTk1/OTEwLTE1MDc4OTA5/NTgtNTMwNC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "PHONICAWHITE017",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 171573,
+   "name": "Phonica White",
+   "resource_url": "https://api.discogs.com/labels/171573",
+   "thumbnail_url": "https://i.discogs.com/RYPYf5n8ctbJFdkyphJfNsEAc_GH6t5TQtvwepcNv5g/rs:fit/g:sm/q:90/h:600/w:391/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3MTU3/My0xMjU4NTY3NTc0/LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Side A samples a speech from American politician and civil rights activist John Lewis.",
+ "released": "2017-12-01",
+ "styles": [
+  "House"
+ ],
+ "title": "Song For Mr. Lewis EP",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Song For Mr. Lewis",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Song For Mr. Lewis (Dub)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Morning",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10995910-Austin-Ato-Song-For-Mr-Lewis-EP",
+ "year": 2017
+}

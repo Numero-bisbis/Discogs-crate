@@ -1,0 +1,802 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 114350,
+   "join": "",
+   "name": "Metronomy",
+   "resource_url": "https://api.discogs.com/artists/114350",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/hrXap_w9AKoD__boCi8k94rz-nz74Wfp3xVrw2CG3wo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExNDM1/MC0xNTU5MjQwNDk3/LTk0MTEuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Rock",
+  "Pop"
+ ],
+ "id": 2922191,
+ "images": [
+  {
+   "height": 599,
+   "resource_url": "https://i.discogs.com/EqDSCfVIxxlBrD700DglAihD7_To3cBa9zUR_DKGtIs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjIx/OTEtMTM1MTc3ODY0/NS0zNjI4LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/EqDSCfVIxxlBrD700DglAihD7_To3cBa9zUR_DKGtIs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjIx/OTEtMTM1MTc3ODY0/NS0zNjI4LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/CpTlDoQESUtZhCDhD1BTJcIbIJq6Zd75kDXtlfLlZtw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjIx/OTEtMTM1MTc3ODY0/NS0zNjI4LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BEC5772894",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 54379,
+   "name": "Because Music",
+   "resource_url": "https://api.discogs.com/labels/54379",
+   "thumbnail_url": "https://i.discogs.com/hCnQ7eINYuhslt-dC2Ub26qjZl4Y5QgXKDWslpAIL6E/rs:fit/g:sm/q:90/h:338/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU0Mzc5/LTE2MzE4NzIxOTMt/NDQ5Ny5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Released 2011-05-23 in Great Britain, 2011-06-03 in Germany (probably also Austria & Switzerland; distribution by Al!ve AG), 2011-06-11 in France, etc.",
+ "released": "2011-05-23",
+ "styles": [
+  "Alternative Rock",
+  "Electro",
+  "Pop Rock",
+  "Synth-pop",
+  "Indie Rock"
+ ],
+ "title": "The English Riviera",
+ "tracklist": [
+  {
+   "duration": "0:37",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2196959,
+     "join": "",
+     "name": "Harriet Wheeler (2)",
+     "resource_url": "https://api.discogs.com/artists/2196959",
+     "role": "Violin",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "The English Riviera",
+   "type_": "track"
+  },
+  {
+   "duration": "4:05",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 676396,
+     "join": "",
+     "name": "Gabriel Stebbing",
+     "resource_url": "https://api.discogs.com/artists/676396",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "We Broke Free",
+   "type_": "track"
+  },
+  {
+   "duration": "3:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 676396,
+     "join": "",
+     "name": "Gabriel Stebbing",
+     "resource_url": "https://api.discogs.com/artists/676396",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2196955,
+     "join": "",
+     "name": "Oscar Cash",
+     "resource_url": "https://api.discogs.com/artists/2196955",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 676396,
+     "join": "",
+     "name": "Gabriel Stebbing",
+     "resource_url": "https://api.discogs.com/artists/676396",
+     "role": "Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2196955,
+     "join": "",
+     "name": "Oscar Cash",
+     "resource_url": "https://api.discogs.com/artists/2196955",
+     "role": "Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2196955,
+     "join": "",
+     "name": "Oscar Cash",
+     "resource_url": "https://api.discogs.com/artists/2196955",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 976450,
+     "join": "",
+     "name": "Roxanne Clifford",
+     "resource_url": "https://api.discogs.com/artists/976450",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Everything Goes My Way",
+   "type_": "track"
+  },
+  {
+   "duration": "4:37",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 676396,
+     "join": "",
+     "name": "Gabriel Stebbing",
+     "resource_url": "https://api.discogs.com/artists/676396",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2196958,
+     "join": "",
+     "name": "Ash Workman",
+     "resource_url": "https://api.discogs.com/artists/2196958",
+     "role": "Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2196955,
+     "join": "",
+     "name": "Oscar Cash",
+     "resource_url": "https://api.discogs.com/artists/2196955",
+     "role": "Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2196955,
+     "join": "",
+     "name": "Oscar Cash",
+     "resource_url": "https://api.discogs.com/artists/2196955",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "The Look",
+   "type_": "track"
+  },
+  {
+   "duration": "3:51",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1887378,
+     "join": "",
+     "name": "Anna Prior",
+     "resource_url": "https://api.discogs.com/artists/1887378",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 676396,
+     "join": "",
+     "name": "Gabriel Stebbing",
+     "resource_url": "https://api.discogs.com/artists/676396",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2196955,
+     "join": "",
+     "name": "Oscar Cash",
+     "resource_url": "https://api.discogs.com/artists/2196955",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "She Wants",
+   "type_": "track"
+  },
+  {
+   "duration": "4:46",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Talkbox",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2196956,
+     "join": "",
+     "name": "Marion Cassan",
+     "resource_url": "https://api.discogs.com/artists/2196956",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Trouble",
+   "type_": "track"
+  },
+  {
+   "duration": "4:50",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Congas",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2196955,
+     "join": "",
+     "name": "Oscar Cash",
+     "resource_url": "https://api.discogs.com/artists/2196955",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "The Bay",
+   "type_": "track"
+  },
+  {
+   "duration": "3:31",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Loving Arm",
+   "type_": "track"
+  },
+  {
+   "duration": "3:16",
+   "extraartists": [
+    {
+     "anv": "Gbenga Adelakan",
+     "id": 2344190,
+     "join": "",
+     "name": "Gbenga Adelekan",
+     "resource_url": "https://api.discogs.com/artists/2344190",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1887378,
+     "join": "",
+     "name": "Anna Prior",
+     "resource_url": "https://api.discogs.com/artists/1887378",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 676396,
+     "join": "",
+     "name": "Gabriel Stebbing",
+     "resource_url": "https://api.discogs.com/artists/676396",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1887378,
+     "join": "",
+     "name": "Anna Prior",
+     "resource_url": "https://api.discogs.com/artists/1887378",
+     "role": "Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "Gbenga Adelakan",
+     "id": 2344190,
+     "join": "",
+     "name": "Gbenga Adelekan",
+     "resource_url": "https://api.discogs.com/artists/2344190",
+     "role": "Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2196955,
+     "join": "",
+     "name": "Oscar Cash",
+     "resource_url": "https://api.discogs.com/artists/2196955",
+     "role": "Handclaps",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2196955,
+     "join": "",
+     "name": "Oscar Cash",
+     "resource_url": "https://api.discogs.com/artists/2196955",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1887378,
+     "join": "",
+     "name": "Anna Prior",
+     "resource_url": "https://api.discogs.com/artists/1887378",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Corinne",
+   "type_": "track"
+  },
+  {
+   "duration": "6:03",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 676396,
+     "join": "",
+     "name": "Gabriel Stebbing",
+     "resource_url": "https://api.discogs.com/artists/676396",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Synthesizer",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Some Written",
+   "type_": "track"
+  },
+  {
+   "duration": "5:58",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2196960,
+     "join": "",
+     "name": "Nicole Elizabeth",
+     "resource_url": "https://api.discogs.com/artists/2196960",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Clavichord",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1887378,
+     "join": "",
+     "name": "Anna Prior",
+     "resource_url": "https://api.discogs.com/artists/1887378",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 392355,
+     "join": "",
+     "name": "Joseph Mount",
+     "resource_url": "https://api.discogs.com/artists/392355",
+     "role": "Synthesizer",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Love Underlined",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/2922191-Metronomy-The-English-Riviera",
+ "year": 2011
+}

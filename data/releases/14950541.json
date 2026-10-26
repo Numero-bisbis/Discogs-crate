@@ -1,0 +1,130 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1611565,
+   "join": ",",
+   "name": "Koichi Sakai",
+   "resource_url": "https://api.discogs.com/artists/1611565",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/smA6uhwrKm77V3_xlG5nkjYjCaAKr5qGLWUhqkNN5_Y/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2MTE1/NjUtMTU2OTkyNTcy/My0yNzY0LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 3307172,
+   "join": "",
+   "name": "Afla Sackey",
+   "resource_url": "https://api.discogs.com/artists/3307172",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Jazz",
+  "Latin",
+  "Folk, World, & Country"
+ ],
+ "id": 14950541,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/JKcuEBpwpTBkyDObCZVQUjb5MRQfcAq1RX6V4JvaRSY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTUw/NTQxLTE1ODQ2MTcy/OTgtMzQ0My5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/JKcuEBpwpTBkyDObCZVQUjb5MRQfcAq1RX6V4JvaRSY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTUw/NTQxLTE1ODQ2MTcy/OTgtMzQ0My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/SywK9K30ryUgmhy8AouuU91T0SKpw7rTMlO7WdVVPFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTUw/NTQxLTE1ODQ2MTcy/OTgtMzQ0My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ORLP004",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1201075,
+   "name": "Olindo",
+   "resource_url": "https://api.discogs.com/labels/1201075",
+   "thumbnail_url": "https://i.discogs.com/pryKL7oKGTCu3pYEouzkcvIoKdXW7iM9hlGsngj3Q5w/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMDEw/NzUtMTQ5MTMyMDQy/My00NTcyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Mastered by Frank Merritt at The Carvery\n\nLimited to 500 copies",
+ "released": "2020",
+ "styles": [
+  "African",
+  "Afrobeat",
+  "Acid",
+  "House",
+  "Afro-Cuban Jazz"
+ ],
+ "title": "Wono",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Atenteben Blues",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Wono",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1764612,
+     "join": "",
+     "name": "Kadialy Kouyate",
+     "resource_url": "https://api.discogs.com/artists/1764612",
+     "role": "Kora",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Yamb",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Rebirth",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Niege",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Jingo (Album Edit)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Suolo",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14950541-Koichi-Sakai-Afla-Sackey-Wono",
+ "year": 2020
+}

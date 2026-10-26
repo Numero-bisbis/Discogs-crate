@@ -1,0 +1,267 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4007020,
+   "join": "",
+   "name": "Nu Guinea",
+   "resource_url": "https://api.discogs.com/artists/4007020",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/p3nyQ9QmOGXP5pCyhEObinsUO61PlCXL9XtY-IHp9Gg/rs:fit/g:sm/q:90/h:520/w:520/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwMDcw/MjAtMTU5NjAyOTUx/NC0xNTQ3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Jazz",
+  "Funk / Soul"
+ ],
+ "id": 11600879,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/HASqEnUe0xoaUAuxZdpBMOP4Iy5sC37j-BDeVsoioBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAw/ODc5LTE1MTkyMTg5/MDgtMTM5NS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/HASqEnUe0xoaUAuxZdpBMOP4Iy5sC37j-BDeVsoioBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAw/ODc5LTE1MTkyMTg5/MDgtMTM5NS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/3LJrZBrbBz3o2OjibeN3YiWIx2wp0VXSnQzsg24KKYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAw/ODc5LTE1MTkyMTg5/MDgtMTM5NS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "NG01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1311746,
+   "name": "NG Records (5)",
+   "resource_url": "https://api.discogs.com/labels/1311746",
+   "thumbnail_url": "https://i.discogs.com/O2-QqW2ApC6mKc0hm2G39rpZ4Klql5V5CEa12EOJDIA/rs:fit/g:sm/q:90/h:412/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMTE3/NDYtMTUwMzU3MjA0/Mi02MTM0LnBuZw.jpeg"
+  },
+  {
+   "catno": "NG 01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1311746,
+   "name": "NG Records (5)",
+   "resource_url": "https://api.discogs.com/labels/1311746",
+   "thumbnail_url": "https://i.discogs.com/O2-QqW2ApC6mKc0hm2G39rpZ4Klql5V5CEa12EOJDIA/rs:fit/g:sm/q:90/h:412/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMTE3/NDYtMTUwMzU3MjA0/Mi02MTM0LnBuZw.jpeg"
+  }
+ ],
+ "notes": "© ℗ 2018 NG Records\n\n[a4007020] are [a744368] and [a754998]\n\nElectronic Instruments used: \nLinn 9000 drum machine\nKawai Ep 308 electroacoustic piano\nFender Rhodes Mk I\nRoland Jupiter 6\nKorg M3\n\nLyrics of \"Je Vulesse\" extract of the poem \"Je Vulesse Truvà Pace\" from the poet Eduardo De Filippo\n\"Parev' Ajere\" is a cover of the track \"[url=https://www.discogs.com/it/Edition-Sp%C3%A9ciale-All%C3%A9e-Des-Tilleuls/master/452191]Mr. Business[/url]\" of the group [a3063580]\n\nFirst Print 1000 Copies released in April 2018.\nFirst Repress 500 Copies released in May 2018. There are no differences compared to the first print.\nSecond Repress 1000 Copies released in May 2018. There are no differences compared to the first print and first repress.\n\nMastering erroneously credited on the artwork as Analog Cut.",
+ "released": "2018-04-00",
+ "styles": [
+  "Disco",
+  "Funk",
+  "Fusion",
+  "Jazz-Funk",
+  "Boogie"
+ ],
+ "title": "Nuova Napoli",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "L. Aquilina",
+     "id": 744368,
+     "join": "",
+     "name": "Lucio Aquilina",
+     "resource_url": "https://api.discogs.com/artists/744368",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Di Lena",
+     "id": 754998,
+     "join": "",
+     "name": "Massimo Di Lena",
+     "resource_url": "https://api.discogs.com/artists/754998",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Nuova Napoli",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "L. Aquilina",
+     "id": 744368,
+     "join": "",
+     "name": "Lucio Aquilina",
+     "resource_url": "https://api.discogs.com/artists/744368",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Di Lena",
+     "id": 754998,
+     "join": "",
+     "name": "Massimo Di Lena",
+     "resource_url": "https://api.discogs.com/artists/754998",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Je Vulesse",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "L. Aquilina",
+     "id": 744368,
+     "join": "",
+     "name": "Lucio Aquilina",
+     "resource_url": "https://api.discogs.com/artists/744368",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Di Lena",
+     "id": 754998,
+     "join": "",
+     "name": "Massimo Di Lena",
+     "resource_url": "https://api.discogs.com/artists/754998",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Ddoje Facce",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "L. Aquilina",
+     "id": 744368,
+     "join": "",
+     "name": "Lucio Aquilina",
+     "resource_url": "https://api.discogs.com/artists/744368",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Di Lena",
+     "id": 754998,
+     "join": "",
+     "name": "Massimo Di Lena",
+     "resource_url": "https://api.discogs.com/artists/754998",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Badoglio",
+     "id": 6321304,
+     "join": "",
+     "name": "Roberto Badoglio",
+     "resource_url": "https://api.discogs.com/artists/6321304",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Disco Sole",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "L. Aquilina",
+     "id": 744368,
+     "join": "",
+     "name": "Lucio Aquilina",
+     "resource_url": "https://api.discogs.com/artists/744368",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Di Lena",
+     "id": 754998,
+     "join": "",
+     "name": "Massimo Di Lena",
+     "resource_url": "https://api.discogs.com/artists/754998",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Stann Fore",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "L. Aquilina",
+     "id": 744368,
+     "join": "",
+     "name": "Lucio Aquilina",
+     "resource_url": "https://api.discogs.com/artists/744368",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Di Lena",
+     "id": 754998,
+     "join": "",
+     "name": "Massimo Di Lena",
+     "resource_url": "https://api.discogs.com/artists/754998",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "'A Voce 'E Napule",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "A. Ballester",
+     "id": 341295,
+     "join": "",
+     "name": "Ann Ballester",
+     "resource_url": "https://api.discogs.com/artists/341295",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Lorenzini",
+     "id": 1243028,
+     "join": "",
+     "name": "Marius Lorenzini",
+     "resource_url": "https://api.discogs.com/artists/1243028",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Parev' Ajere",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11600879-Nu-Guinea-Nuova-Napoli",
+ "year": 2018
+}

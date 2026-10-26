@@ -1,0 +1,234 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 100752,
+   "join": "",
+   "name": "2Pac",
+   "resource_url": "https://api.discogs.com/artists/100752",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ezIfBKb1NFY4gAc9DE67-N9mH-TTALR3DlCAVxzCujg/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwMDc1/Mi0xNzM1OTUxNzk1/LTcyNzIuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 19161760,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/aycXY3Z1bos1HMkdOtTYpDx2rIosccbUTL78XOg9cLM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTYx/NzYwLTE2MjY0MzE2/NDMtNDA0Ni5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/aycXY3Z1bos1HMkdOtTYpDx2rIosccbUTL78XOg9cLM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTYx/NzYwLTE2MjY0MzE2/NDMtNDA0Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/RedizjI7eCTmdbP89mmtgYe_S4dCG8XHU1mMFX0SP6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTYx/NzYwLTE2MjY0MzE2/NDMtNDA0Ni5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "B0032940-01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 22376,
+   "name": "Amaru Entertainment",
+   "resource_url": "https://api.discogs.com/labels/22376",
+   "thumbnail_url": "https://i.discogs.com/oMKZImLq7oFXG1U6YiVCHfr4Vj3maZz3Z9jjV9rC4hE/rs:fit/g:sm/q:90/h:174/w:174/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyMzc2/LTEzMzUwMjU3MzQu/anBlZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2021",
+ "styles": [
+  "Gangsta"
+ ],
+ "title": "The Best Of 2Pac - Part 1: Thug",
+ "tracklist": [
+  {
+   "duration": "4:06",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 132084,
+     "join": "",
+     "name": "Snoop Dogg",
+     "resource_url": "https://api.discogs.com/artists/132084",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "2 Of Amerikaz Most Wanted",
+   "type_": "track"
+  },
+  {
+   "duration": "4:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 73142,
+     "join": "",
+     "name": "Roger Troutman",
+     "resource_url": "https://api.discogs.com/artists/73142",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "California Love (Original Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:58",
+   "position": "A3",
+   "title": "So Many Tears",
+   "type_": "track"
+  },
+  {
+   "duration": "4:54",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 113498,
+     "join": "",
+     "name": "Danny Boy",
+     "resource_url": "https://api.discogs.com/artists/113498",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "I Ain't Mad At Cha",
+   "type_": "track"
+  },
+  {
+   "duration": "4:47",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 43097,
+     "join": "",
+     "name": "K-Ci & JoJo",
+     "resource_url": "https://api.discogs.com/artists/43097",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "How Do U Want It",
+   "type_": "track"
+  },
+  {
+   "duration": "4:44",
+   "position": "B3",
+   "title": "Trapped",
+   "type_": "track"
+  },
+  {
+   "duration": "4:29",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 228784,
+     "join": "",
+     "name": "Talent",
+     "resource_url": "https://api.discogs.com/artists/228784",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Changes",
+   "type_": "track"
+  },
+  {
+   "duration": "5:12",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 188242,
+     "join": "",
+     "name": "The Outlawz",
+     "resource_url": "https://api.discogs.com/artists/188242",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Hail Mary",
+   "type_": "track"
+  },
+  {
+   "duration": "3:59",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 167545,
+     "join": "",
+     "name": "Nancy Fletcher",
+     "resource_url": "https://api.discogs.com/artists/167545",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Unconditional Love",
+   "type_": "track"
+  },
+  {
+   "duration": "5:48",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 172894,
+     "join": "",
+     "name": "Anthony Hamilton",
+     "resource_url": "https://api.discogs.com/artists/172894",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Dear Mama (Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 24040,
+     "join": "",
+     "name": "Amel Larrieux",
+     "resource_url": "https://api.discogs.com/artists/24040",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Resist The Temptation",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/19161760-2Pac-The-Best-Of-2Pac-Part-1-Thug",
+ "year": 2021
+}

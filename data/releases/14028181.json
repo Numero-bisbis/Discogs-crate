@@ -1,0 +1,103 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1404382,
+   "join": "",
+   "name": "Marie Davidson",
+   "resource_url": "https://api.discogs.com/artists/1404382",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/gavTVSpUqhNOxWJ3vtBZYgUBkUX7yg8NlytalK044E0/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0MDQz/ODItMTQ4MjI1NDM3/OS05OTg5LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "White Label"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 14028181,
+ "images": [
+  {
+   "height": 400,
+   "resource_url": "https://i.discogs.com/1lqWgpRPr37FSR1DGKKvxycbOdut5i2wPnpPCuocyIg/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDI4/MTgxLTE1NjYzOTA4/ODMtMTgwNi5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/1lqWgpRPr37FSR1DGKKvxycbOdut5i2wPnpPCuocyIg/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDI4/MTgxLTE1NjYzOTA4/ODMtMTgwNi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/CGih6OfrRUsmrB0yTojcntHILfnOZqWnSoHWsAZxBfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDI4/MTgxLTE1NjYzOTA4/ODMtMTgwNi5qcGVn.jpeg",
+   "width": 400
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ZEN12518",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 109,
+   "name": "Ninja Tune",
+   "resource_url": "https://api.discogs.com/labels/109",
+   "thumbnail_url": "https://i.discogs.com/6Ak_MtJpsdovwj3vv2S8TG6AL8JuDVxNBa13-k-TvlM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwOS0x/NTY1MDE5MDc0LTU2/NjcucG5n.jpeg"
+  }
+ ],
+ "notes": "140g black vinyl with black label, housed in black generic sleeve with sticker. No inner paper sleeve.",
+ "released": "2019-08-16",
+ "styles": [
+  "Techno",
+  "Trance",
+  "Acid"
+ ],
+ "title": "Chasing The Light",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Chasing The Light",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 34128,
+     "join": "",
+     "name": "Soulwax",
+     "resource_url": "https://api.discogs.com/artists/34128",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Work It (Soulwax Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2519485,
+     "join": "",
+     "name": "Daniel Avery",
+     "resource_url": "https://api.discogs.com/artists/2519485",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Lara (Daniel Avery Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14028181-Marie-Davidson-Chasing-The-Light",
+ "year": 2019
+}

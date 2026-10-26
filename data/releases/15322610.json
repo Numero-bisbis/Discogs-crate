@@ -1,0 +1,115 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 791,
+   "join": "Feat.",
+   "name": "Mr. Oizo",
+   "resource_url": "https://api.discogs.com/artists/791",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/fWAhnyjmeztEQM3W94Z7436s4ZLq2quUX-2erkEuvNw/rs:fit/g:sm/q:90/h:533/w:535/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc5MS0x/Nzg3MDkyNjk3LTEz/NTUuanBlZw.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 5151900,
+   "join": "",
+   "name": "Roméo Elvis",
+   "resource_url": "https://api.discogs.com/artists/5151900",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-FHhEEo_q3VrvNhZVzSOvqaRuOICP9q2d508R-hiDIE/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUxNTE5/MDAtMTYyNjgxNzk0/Mi00MDc5LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "10\"",
+    "45 RPM",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Neon Green"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 15322610,
+ "images": [
+  {
+   "height": 593,
+   "resource_url": "https://i.discogs.com/Nl8SOaCSHDq3qk0Ukwgyh4XQy2hEXVaBcZNDgz80FEU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzIy/NjEwLTE1OTExMTcx/MzctMzA4OC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Nl8SOaCSHDq3qk0Ukwgyh4XQy2hEXVaBcZNDgz80FEU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzIy/NjEwLTE1OTExMTcx/MzctMzA4OC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/s8trayXeXHNjdhEzN_p3SpwkR9ORvg0Mj5hUNdvF_7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzIy/NjEwLTE1OTExMTcx/MzctMzA4OC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ED118",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 19066,
+   "name": "Ed Banger Records",
+   "resource_url": "https://api.discogs.com/labels/19066",
+   "thumbnail_url": "https://i.discogs.com/ZIJtV-Fc7H03Z1Atc_JmDZbn1Jp7Oks35_nDxkjY7i0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5MDY2/LTE2NDgzNDM5NjYt/NjE0Ni5qcGVn.jpeg"
+  },
+  {
+   "catno": "BEC5650828",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 54379,
+   "name": "Because Music",
+   "resource_url": "https://api.discogs.com/labels/54379",
+   "thumbnail_url": "https://i.discogs.com/hCnQ7eINYuhslt-dC2Ub26qjZl4Y5QgXKDWslpAIL6E/rs:fit/g:sm/q:90/h:338/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU0Mzc5/LTE2MzE4NzIxOTMt/NDQ5Ny5qcGVn.jpeg"
+  }
+ ],
+ "notes": "This record is dedicated to\nJ.E. Medioni\n& Phil Zdar\n\nTrack times not mentioned on release.",
+ "released": "2020-05-00",
+ "styles": [
+  "Electro"
+ ],
+ "title": "Pharmacist",
+ "tracklist": [
+  {
+   "duration": "3:45",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5151900,
+     "join": "",
+     "name": "Roméo Elvis",
+     "resource_url": "https://api.discogs.com/artists/5151900",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "Pharmacist",
+   "type_": "track"
+  },
+  {
+   "duration": "3:45",
+   "extraartists": [
+    {
+     "anv": "Sivle Oémor",
+     "id": 5151900,
+     "join": "",
+     "name": "Roméo Elvis",
+     "resource_url": "https://api.discogs.com/artists/5151900",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B",
+   "title": "Tsicamrahp",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15322610-Mr-Oizo-Feat-Roméo-Elvis-Pharmacist",
+ "year": 2020
+}

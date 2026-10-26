@@ -1,0 +1,595 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "180 gram"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Latin"
+ ],
+ "id": 1027597,
+ "images": [
+  {
+   "height": 598,
+   "resource_url": "https://i.discogs.com/3Kowq8_sKklDOqO7HyHZvB9ZwrsyKSKfX1GvzN5JoiU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjc1/OTctMTMzMjIyMzIz/OC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/3Kowq8_sKklDOqO7HyHZvB9ZwrsyKSKfX1GvzN5JoiU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjc1/OTctMTMzMjIyMzIz/OC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/7wVCjsjFXGnsKerCsAbxia8FhLwCpsRsaOYRzRFepjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjc1/OTctMTMzMjIyMzIz/OC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SNDWLP008",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 32575,
+   "name": "Soundway",
+   "resource_url": "https://api.discogs.com/labels/32575",
+   "thumbnail_url": "https://i.discogs.com/W28PrZN1MStO3sfOn5PDIBbxBu1RHKflaPE5qDlGOSw/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyNTc1/LTE0NDE4MzE2MDct/NjAzNC5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Gatefold sleeve with in-depth liner notes and photographs of the original releases inside.\n\nMastered @ Sound Mastering.\n\nThis compilation: ℗ & © Soundway Records Ltd\n",
+ "released": "2007-04-03",
+ "styles": [
+  "Afro-Cuban Jazz",
+  "Salsa",
+  "Afro-Cuban",
+  "Cumbia",
+  "Latin Jazz"
+ ],
+ "title": "Colombia! (The Golden Age Of Discos Fuentes, The Powerhouse Of Colombian Music 1960-76)",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 743174,
+     "join": "",
+     "name": "Fruko Y Sus Tesos",
+     "resource_url": "https://api.discogs.com/artists/743174",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1138255,
+     "join": "",
+     "name": "Fruko",
+     "resource_url": "https://api.discogs.com/artists/1138255",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 441768,
+     "join": "",
+     "name": "Joe Arroyo",
+     "resource_url": "https://api.discogs.com/artists/441768",
+     "role": "Chorus",
+     "tracks": ""
+    },
+    {
+     "anv": "Luis \"Tomate\" Mesa",
+     "id": 4232887,
+     "join": "",
+     "name": "Luis Fernando Mesa",
+     "resource_url": "https://api.discogs.com/artists/4232887",
+     "role": "Piano, Organ [Electric]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1501317,
+     "join": "",
+     "name": "Julio Ernesto Estrada",
+     "resource_url": "https://api.discogs.com/artists/1501317",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Salsa Na Ma",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 2917486,
+     "join": "",
+     "name": "Lito Barrientos Y Su Orquesta",
+     "resource_url": "https://api.discogs.com/artists/2917486",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1344509,
+     "join": "",
+     "name": "Lito Barrientos",
+     "resource_url": "https://api.discogs.com/artists/1344509",
+     "role": "Leader",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1501323,
+     "join": "",
+     "name": "Rafael Coides",
+     "resource_url": "https://api.discogs.com/artists/1501323",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Cumbia En Do Menor",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 743182,
+     "join": "",
+     "name": "Michi Sarmiento Y Sus Bravos",
+     "resource_url": "https://api.discogs.com/artists/743182",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 19595,
+     "join": "",
+     "name": "Louie Ramirez",
+     "resource_url": "https://api.discogs.com/artists/19595",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Hong Kong",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 743179,
+     "join": "",
+     "name": "Pedro Laza Y Sus Pelayeros",
+     "resource_url": "https://api.discogs.com/artists/743179",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1448512,
+     "join": "",
+     "name": "Antonio Fuentes",
+     "resource_url": "https://api.discogs.com/artists/1448512",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Fandango En Percusion",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 743174,
+     "join": "",
+     "name": "Fruko Y Sus Tesos",
+     "resource_url": "https://api.discogs.com/artists/743174",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1501317,
+     "join": "",
+     "name": "Julio Ernesto Estrada",
+     "resource_url": "https://api.discogs.com/artists/1501317",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Improvisando",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 157217,
+     "join": "",
+     "name": "Wganda Kenya",
+     "resource_url": "https://api.discogs.com/artists/157217",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Javier Garcia Javier",
+     "id": 2433071,
+     "join": "",
+     "name": "Javier García M.",
+     "resource_url": "https://api.discogs.com/artists/2433071",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1501317,
+     "join": "",
+     "name": "Julio Ernesto Estrada",
+     "resource_url": "https://api.discogs.com/artists/1501317",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Tifit Hayed",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Orquesta Nunez",
+     "id": 3136213,
+     "join": "",
+     "name": "Orquesta Nuñez",
+     "resource_url": "https://api.discogs.com/artists/3136213",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Roberto Lambrano",
+     "id": 5565740,
+     "join": "",
+     "name": "Roberto Lambraño",
+     "resource_url": "https://api.discogs.com/artists/5565740",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "La Samaria",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 932474,
+     "join": "",
+     "name": "El Sexteto Miramar",
+     "resource_url": "https://api.discogs.com/artists/932474",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 348928,
+     "join": "",
+     "name": "Guillermo Portabales",
+     "resource_url": "https://api.discogs.com/artists/348928",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Cumbiamba",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 188019,
+     "join": "",
+     "name": "The Latin Brothers",
+     "resource_url": "https://api.discogs.com/artists/188019",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1501316,
+     "join": "",
+     "name": "Arturo Jorge Ospina",
+     "resource_url": "https://api.discogs.com/artists/1501316",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Las Caleñas Son Como Las Flores",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 743180,
+     "join": "",
+     "name": "Los Corraleros De Majagual",
+     "resource_url": "https://api.discogs.com/artists/743180",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1138255,
+     "join": "",
+     "name": "Fruko",
+     "resource_url": "https://api.discogs.com/artists/1138255",
+     "role": "Timbales",
+     "tracks": ""
+    },
+    {
+     "anv": "Francisco Herrera Paredes",
+     "id": 2385185,
+     "join": "",
+     "name": "Francisco Paredes Herrera",
+     "resource_url": "https://api.discogs.com/artists/2385185",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "El Mondongo",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 743178,
+     "join": "",
+     "name": "Lucho Bermudez",
+     "resource_url": "https://api.discogs.com/artists/743178",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 743178,
+     "join": "",
+     "name": "Lucho Bermudez",
+     "resource_url": "https://api.discogs.com/artists/743178",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Gaita De Las Flores",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 743179,
+     "join": "",
+     "name": "Pedro Laza Y Sus Pelayeros",
+     "resource_url": "https://api.discogs.com/artists/743179",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1501314,
+     "join": "",
+     "name": "Manuel Cervantes",
+     "resource_url": "https://api.discogs.com/artists/1501314",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "La Picua",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 743174,
+     "join": "",
+     "name": "Fruko Y Sus Tesos",
+     "resource_url": "https://api.discogs.com/artists/743174",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1501312,
+     "join": "",
+     "name": "Gilberto Mendez",
+     "resource_url": "https://api.discogs.com/artists/1501312",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "A La Memoria Del Muerto",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 743182,
+     "join": "",
+     "name": "Michi Sarmiento Y Sus Bravos",
+     "resource_url": "https://api.discogs.com/artists/743182",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Julio Milan",
+     "id": 3674829,
+     "join": "",
+     "name": "Julio Millan",
+     "resource_url": "https://api.discogs.com/artists/3674829",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Mirame San Miguel",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 932475,
+     "join": "",
+     "name": "La Sonora Cienaguera",
+     "resource_url": "https://api.discogs.com/artists/932475",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1501324,
+     "join": "",
+     "name": "Emiro Torres Ospina",
+     "resource_url": "https://api.discogs.com/artists/1501324",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "La Piojosa",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 743176,
+     "join": "",
+     "name": "Climaco Sarmiento Y Su Orquesta",
+     "resource_url": "https://api.discogs.com/artists/743176",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Tomas Burbano",
+     "id": 2390950,
+     "join": "",
+     "name": "Tomás Burbano",
+     "resource_url": "https://api.discogs.com/artists/2390950",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "La Pata Y El Pato",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 743175,
+     "join": "",
+     "name": "Afrosound",
+     "resource_url": "https://api.discogs.com/artists/743175",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1501316,
+     "join": "",
+     "name": "Arturo Jorge Ospina",
+     "resource_url": "https://api.discogs.com/artists/1501316",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D5",
+   "title": "Pacifico",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/1027597-Various-Colombia-The-Golden-Age-Of-Discos-FuentesPowerhouse-Of-Colombian-Music-1960-76",
+ "year": 2007
+}

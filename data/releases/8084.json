@@ -1,0 +1,159 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1289,
+   "join": "",
+   "name": "Daft Punk",
+   "resource_url": "https://api.discogs.com/artists/1289",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/sP_wDoC5MsG9lZUfb9thLbpmMmL__nuVnGMNpwgjirE/rs:fit/g:sm/q:90/h:438/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyODkt/MTYxNTQ4NDUyOS00/Mjg0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK & Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "Single",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 8084,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/ej_mnxIR82e8lWbN0-Dv7PxA7E0yk5Y6Ii7IkhaS8Co/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQt/MTc0NTI2OTIwNS04/OTAwLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/ej_mnxIR82e8lWbN0-Dv7PxA7E0yk5Y6Ii7IkhaS8Co/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQt/MTc0NTI2OTIwNS04/OTAwLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/Z92Xe4EzR6YubrzFDjUTBmsCwqfD23ioVWy0vYT9mco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQt/MTc0NTI2OTIwNS04/OTAwLmpwZWc.jpeg",
+   "width": 595
+  }
+ ],
+ "labels": [
+  {
+   "catno": "VST 1649",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 750,
+   "name": "Virgin",
+   "resource_url": "https://api.discogs.com/labels/750",
+   "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+  },
+  {
+   "catno": "724389455168",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 750,
+   "name": "Virgin",
+   "resource_url": "https://api.discogs.com/labels/750",
+   "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+  }
+ ],
+ "notes": "All tracks written, composed & produced for Daft Trax. Mastered by Nilesh Patel at the Exchange (London-UK).\n\n(p) 1997 Daft Trax under exclusive license to Virgin France / Virgin Records Ltd. \n(c) 1997 Virgin France / Virgin Records Ltd. \n\nAll tracks published by Zomba Music for world excluding France. Delabel Editions / Daft Music for France.\n\nPrinted in France\n\nB-Side tracks remixed for Double Platinum Productions.\nOn back sleeve: photos taken from the video \"Burnin'\" directed by Seb Janiak /(c) Daft Trax.\n\nSome copies came with a DAFT PUNK reply card.",
+ "released": "1997-09-22",
+ "styles": [
+  "House",
+  "Tech House",
+  "Techno"
+ ],
+ "title": "Burnin'",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "",
+   "title": "Building",
+   "type_": "heading"
+  },
+  {
+   "duration": "5:20",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 108,
+     "join": "",
+     "name": "Ian Pooley",
+     "resource_url": "https://api.discogs.com/artists/108",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Burnin' (Ian Pooley \"Cut Up Mix\")",
+   "type_": "track"
+  },
+  {
+   "duration": "6:48",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1015,
+     "join": "",
+     "name": "Slam",
+     "resource_url": "https://api.discogs.com/artists/1015",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Burnin' (Slam Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "6:53",
+   "position": "A3",
+   "title": "Burnin' (Original Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "",
+   "title": "Redlight",
+   "type_": "heading"
+  },
+  {
+   "duration": "10:22",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 170,
+     "join": "",
+     "name": "DJ Sneak",
+     "resource_url": "https://api.discogs.com/artists/170",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Burnin' (DJ Sneak \"Mongowarrior\" Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "9:10",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 170,
+     "join": "",
+     "name": "DJ Sneak",
+     "resource_url": "https://api.discogs.com/artists/170",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Burnin' (DJ Sneak Main Mix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/8084-Daft-Punk-Burnin",
+ "year": 1997
+}

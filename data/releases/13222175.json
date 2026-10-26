@@ -1,0 +1,91 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4430477,
+   "join": "&",
+   "name": "Jayda G",
+   "resource_url": "https://api.discogs.com/artists/4430477",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/qzJXg5cpdHkiXODCpcr-3FMDYWaV_-4yrLiscVUs82M/rs:fit/g:sm/q:90/h:343/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ0MzA0/NzctMTUzNDQxMDk0/Mi02Njk4LmpwZWc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 4905922,
+   "join": "",
+   "name": "Alexa Dash",
+   "resource_url": "https://api.discogs.com/artists/4905922",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM",
+    "Single",
+    "White Label"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "140g"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13222175,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/zQjBgq5mvq9BmjaWz2vW1LmYNeL3WT-JwlXp4gP41Ew/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjIy/MTc1LTE1NTAyMzI4/NTQtMzI4My5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/zQjBgq5mvq9BmjaWz2vW1LmYNeL3WT-JwlXp4gP41Ew/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjIy/MTc1LTE1NTAyMzI4/NTQtMzI4My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/m9x5XbkB7a9R87h0XYkpbsfqXOk9eLdG6B_J_fB-BOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjIy/MTc1LTE1NTAyMzI4/NTQtMzI4My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ZEN12502",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 109,
+   "name": "Ninja Tune",
+   "resource_url": "https://api.discogs.com/labels/109",
+   "thumbnail_url": "https://i.discogs.com/6Ak_MtJpsdovwj3vv2S8TG6AL8JuDVxNBa13-k-TvlM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwOS0x/NTY1MDE5MDc0LTU2/NjcucG5n.jpeg"
+  }
+ ],
+ "notes": "140g black vinyl, White labels, White paper inners, White 3mm spined outer sleeve, Handstamped.\n\nB1 & B2 appear only on the physical release.",
+ "released": "2019-02-00",
+ "styles": [
+  "Deep House"
+ ],
+ "title": "Leave Room 2 Breathe",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Leave Room 2 Breathe",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Leave Room 2 Breathe (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Leave Room 2 Breathe (Acapella)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13222175-Jayda-G-Alexa-Dash-Leave-Room-2-Breathe",
+ "year": 2019
+}

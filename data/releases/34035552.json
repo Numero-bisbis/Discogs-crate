@@ -1,0 +1,317 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 34035552,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/HA-RLrg2FKC1vPLBrsxA3tuxHXCCxnzSYZ_Zgz7gBhA/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDM1/NTUyLTE3NDc3NjA4/MjgtOTc5OC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/HA-RLrg2FKC1vPLBrsxA3tuxHXCCxnzSYZ_Zgz7gBhA/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDM1/NTUyLTE3NDc3NjA4/MjgtOTc5OC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/l0WttVDKtyVT4GOpuur3C6Q_cHPisE1Q_dZ6z6NUqxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDM1/NTUyLTE3NDc3NjA4/MjgtOTc5OC5qcGVn.jpeg",
+   "width": 588
+  }
+ ],
+ "labels": [
+  {
+   "catno": "7544023",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 5320,
+   "name": "Decca",
+   "resource_url": "https://api.discogs.com/labels/5320",
+   "thumbnail_url": "https://i.discogs.com/yQYJRdbwgXIOAvzG5r-M_1QqKOfNdeh0FMFxjzFpiVw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUzMjAt/MTU4OTE1MTU4Mi03/OTg4LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Vinyl LP pressing. Chet Baker Re: imagined, a collection of songs recorded by a varied selection of international talent to celebrate the legacy of one of the most unique, charismatic and influential figures in the history of jazz. Released to mark the 70th anniversary of seminal album Chet Baker Sings, the 15-track compilation presents modern reworkings of the trumpeter and singer's repertoire and underscores the enduring influence of one of 20th century music's most creative artists.",
+ "released": "2025",
+ "styles": [
+  "Fusion",
+  "Contemporary Jazz"
+ ],
+ "title": "Chet Baker Re:imagined",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 345205,
+     "join": "",
+     "name": "Joel Culpepper",
+     "resource_url": "https://api.discogs.com/artists/345205",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A1",
+   "title": "Silver Lining",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 211244,
+     "join": "",
+     "name": "Eloise",
+     "resource_url": "https://api.discogs.com/artists/211244",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A2",
+   "title": "That Old Feeling",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 8086719,
+     "join": "",
+     "name": "Sarah Kang",
+     "resource_url": "https://api.discogs.com/artists/8086719",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A3",
+   "title": "I´m Old Fashioned",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 9654157,
+     "join": "",
+     "name": "Ella Hohnen-Ford",
+     "resource_url": "https://api.discogs.com/artists/9654157",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A4",
+   "title": "I Get Along With You Very Well",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 9954445,
+     "join": "",
+     "name": "Matilda Mann",
+     "resource_url": "https://api.discogs.com/artists/9954445",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A5",
+   "title": "There Will Never Be Another You",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1225812,
+     "join": "",
+     "name": "Dodie",
+     "resource_url": "https://api.discogs.com/artists/1225812",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A6",
+   "title": "Old Devil Moon",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5450137,
+     "join": "",
+     "name": "Puma Blue",
+     "resource_url": "https://api.discogs.com/artists/5450137",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A7",
+   "title": "It´s Always You",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 7643163,
+     "join": "",
+     "name": "Poppy Daniels",
+     "resource_url": "https://api.discogs.com/artists/7643163",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "A8",
+   "title": "I've Never Been In Love Before",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 7958340,
+     "join": "",
+     "name": "Ife Ogunjobi",
+     "resource_url": "https://api.discogs.com/artists/7958340",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B1",
+   "title": "Speak Low",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 209234,
+     "join": "",
+     "name": "Benny Sings",
+     "resource_url": "https://api.discogs.com/artists/209234",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B2",
+   "title": "Time After Time",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4667513,
+     "join": "",
+     "name": "Stacy Ryan",
+     "resource_url": "https://api.discogs.com/artists/4667513",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B3",
+   "title": "Like Someone In Love",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4206498,
+     "join": "",
+     "name": "Matt Maltese",
+     "resource_url": "https://api.discogs.com/artists/4206498",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B4",
+   "title": "My Funny Valentine",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 7380541,
+     "join": "",
+     "name": "mxmtoon",
+     "resource_url": "https://api.discogs.com/artists/7380541",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B5",
+   "title": "I Fall In Love Too Easily",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 10105735,
+     "join": "",
+     "name": "grentperez",
+     "resource_url": "https://api.discogs.com/artists/10105735",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B6",
+   "title": "But Not For Me",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 13722517,
+     "join": "",
+     "name": "Delaney Bailey",
+     "resource_url": "https://api.discogs.com/artists/13722517",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B7",
+   "title": "While My Lady Sleeps",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/34035552-Various-Chet-Baker-Reimagined",
+ "year": 2025
+}

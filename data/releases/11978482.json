@@ -1,0 +1,179 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Funk / Soul"
+ ],
+ "id": 11978482,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/-qRzsBqn1S3ZTW9ELOx4N6_mLLIpK2eOt18Z1WnfViM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc4/NDgyLTE1MjU4ODky/NDctMzM0Mi5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/-qRzsBqn1S3ZTW9ELOx4N6_mLLIpK2eOt18Z1WnfViM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc4/NDgyLTE1MjU4ODky/NDctMzM0Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/VerMXD1QbQOFc1duOdqLv3EbV382ARjdNZNTSXO6VLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc4/NDgyLTE1MjU4ODky/NDctMzM0Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SNDW12028",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 32575,
+   "name": "Soundway",
+   "resource_url": "https://api.discogs.com/labels/32575",
+   "thumbnail_url": "https://i.discogs.com/W28PrZN1MStO3sfOn5PDIBbxBu1RHKflaPE5qDlGOSw/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyNTc1/LTE0NDE4MzE2MDct/NjAzNC5qcGVn.jpeg"
+  },
+  {
+   "catno": "SNDW12028",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 770346,
+   "name": "Head's",
+   "resource_url": "https://api.discogs.com/labels/770346",
+   "thumbnail_url": "https://i.discogs.com/Uq-fjQdaRyehth9bSD3OpPjkWNLFiXx7Fttsri82MSc/rs:fit/g:sm/q:90/h:342/w:341/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc3MDM0/Ni0xNTA2NTUxMTAz/LTI3MDkuanBlZw.jpeg"
+  }
+ ],
+ "notes": "All tracks originally released on the Heads record label, Johannesburg, South Africa 1983.",
+ "released": "2018-05-09",
+ "styles": [
+  "Disco"
+ ],
+ "title": "Heads Records (South African Disco Dub Edits)",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "William",
+     "id": 1443346,
+     "join": "&",
+     "name": "William Mthethwa",
+     "resource_url": "https://api.discogs.com/artists/1443346",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3186007,
+     "join": "",
+     "name": "The Young Five",
+     "resource_url": "https://api.discogs.com/artists/3186007",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "J-Kriv",
+     "id": 361222,
+     "join": "",
+     "name": "JKriv",
+     "resource_url": "https://api.discogs.com/artists/361222",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "You Turn Me On (J-Kriv Rework) ",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 5367215,
+     "join": "",
+     "name": "Manyane",
+     "resource_url": "https://api.discogs.com/artists/5367215",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 696350,
+     "join": "",
+     "name": "Frankie Francis",
+     "resource_url": "https://api.discogs.com/artists/696350",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Thabong (Frankie Francis Bubblegum Dub)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 4102145,
+     "join": "",
+     "name": "Adaye",
+     "resource_url": "https://api.discogs.com/artists/4102145",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 696350,
+     "join": "",
+     "name": "Frankie Francis",
+     "resource_url": "https://api.discogs.com/artists/696350",
+     "role": "Edited By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Turn It Up (Frankie Francis 3AM Edit)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 3383907,
+     "join": "",
+     "name": "Starlight (12)",
+     "resource_url": "https://api.discogs.com/artists/3383907",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "",
+   "position": "B2",
+   "title": "Picnic",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11978482-Various-Heads-Records-South-African-Disco-Dub-Edits",
+ "year": 2018
+}

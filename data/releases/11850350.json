@@ -1,0 +1,89 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5390551,
+   "join": "aka",
+   "name": "Patrick Gibin",
+   "resource_url": "https://api.discogs.com/artists/5390551",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/6nD5sp_iK_NHzeYdOvjfQiV9XST4_iP9Zm2_SSNgjsY/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUzOTA1/NTEtMTY0MjM2NTU0/NS0zMDY4LnBuZw.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 7353,
+   "join": "",
+   "name": "TwICE",
+   "resource_url": "https://api.discogs.com/artists/7353",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/XGft6XgRANUlw5D22Pg3MOssYlHDQHrEVufCYUrnis8/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTczNTMt/MTQ1NTM5NzYwMi0z/MTk3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11850350,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/dXUGu4aAS4sgbqXjJI9ODyseUkeq77W3ypOP86rtpkU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUw/MzUwLTE2Mzc0NTY0/NjctNDk1MS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/dXUGu4aAS4sgbqXjJI9ODyseUkeq77W3ypOP86rtpkU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUw/MzUwLTE2Mzc0NTY0/NjctNDk1MS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/2nuP-vE9oSDXNBnpe4xoK17UajlDYz9rWnExgq-Pkro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUw/MzUwLTE2Mzc0NTY0/NjctNDk1MS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RNT035",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3164471,
+   "name": "Razor-N-Tape",
+   "resource_url": "https://api.discogs.com/labels/3164471",
+   "thumbnail_url": "https://i.discogs.com/f-wlf6geO4UdrroOqUDKawckRUUPz7FhLCXawWRX-Lw/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNjQ0/NzEtMTY3ODM3Njg2/NS0yNjQ3LnBuZw.jpeg"
+  }
+ ],
+ "notes": "A-side plays at 45rpm, B-side 33rpm",
+ "released": "2018-04-11",
+ "styles": [
+  "Disco"
+ ],
+ "title": "Patrick Gibin aka TwICE Edits",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Sunrise",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Searching",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Take Flight",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11850350-Patrick-Gibin-aka-TwICE-Patrick-Gibin-aka-TwICE-Edits",
+ "year": 2018
+}

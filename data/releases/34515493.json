@@ -1,0 +1,149 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6248991,
+   "join": "",
+   "name": "Kokoroko",
+   "resource_url": "https://api.discogs.com/artists/6248991",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/azkLK-V5dsoprETcUC_dPnxULq95U9721_hgAhz4NP4/rs:fit/g:sm/q:90/h:514/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYyNDg5/OTEtMTcyNjcxODc0/Ny00NzQ4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 34515493,
+ "images": [
+  {
+   "height": 587,
+   "resource_url": "https://i.discogs.com/7tOHE8HRuS332GeOkSmCEkdTzRcjP2OXS3WYDcmNsds/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTE1/NDkzLTE3NTI0OTg3/MTYtNDQ3OS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/7tOHE8HRuS332GeOkSmCEkdTzRcjP2OXS3WYDcmNsds/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTE1/NDkzLTE3NTI0OTg3/MTYtNDQ3OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/46iFe5JNP5q2lADFE6r8B7Gke9KFI5wTKoYpXIZ38Mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTE1/NDkzLTE3NTI0OTg3/MTYtNDQ3OS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "BWOOD0408LP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 62136,
+   "name": "Brownswood Recordings",
+   "resource_url": "https://api.discogs.com/labels/62136",
+   "thumbnail_url": "https://i.discogs.com/udXpMPeMKu_TSb4VTKwXY3ICFOvikTMwNAymitHJSEM/rs:fit/g:sm/q:90/h:268/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYyMTM2/LTE2NjM4Nzg5MTAt/OTk4Ni5wbmc.jpeg"
+  }
+ ],
+ "notes": "P & C 2025 Brownswood Recordings\n\n\n",
+ "released": "2025-07-11",
+ "styles": [
+  "Afrobeat"
+ ],
+ "title": "Tuff Times Never Last",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Never Last",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Sweetie",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Closer to Me",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "My Father in Heaven",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "Idea 5 (Call My Name)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4843414,
+     "join": "",
+     "name": "Azekel",
+     "resource_url": "https://api.discogs.com/artists/4843414",
+     "role": "Featuring [Vocals]",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Three Piece Suit",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Demae",
+     "id": 7182341,
+     "join": "",
+     "name": "Demae Wodu",
+     "resource_url": "https://api.discogs.com/artists/7182341",
+     "role": "Featuring [Vocals]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Time and Time",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Da Du Dah",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Together We Are",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Just Can't Wait",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "Over/Reprise",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/34515493-Kokoroko-Tuff-Times-Never-Last",
+ "year": 2025
+}

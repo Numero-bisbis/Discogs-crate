@@ -1,0 +1,308 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 642676,
+   "join": "",
+   "name": "Devadip",
+   "resource_url": "https://api.discogs.com/artists/642676",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ijjGeWAEqRpvYDU9xt2Ulz-q5SFxvE24Hqh-CPSrFhg/rs:fit/g:sm/q:90/h:600/w:391/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY0MjY3/Ni0xNDIxNjE0NTMx/LTQ3ODYuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Spain",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Rock",
+  "Funk / Soul"
+ ],
+ "id": 2289456,
+ "images": [
+  {
+   "height": 599,
+   "resource_url": "https://i.discogs.com/EdN8qtSKsDt5udFm9248E7ipRO_IBZ8AmumIPsb4YGQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk0/NTYtMTU2MDYxMDEx/Mi03MjIwLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/EdN8qtSKsDt5udFm9248E7ipRO_IBZ8AmumIPsb4YGQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk0/NTYtMTU2MDYxMDEx/Mi03MjIwLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/jQqL9nUz92xigAU7mrmVt4x921t2puDHvB-U61H97wU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk0/NTYtMTU2MDYxMDEx/Mi03MjIwLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "S 86037",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3072,
+   "name": "CBS",
+   "resource_url": "https://api.discogs.com/labels/3072",
+   "thumbnail_url": "https://i.discogs.com/hdVZgS3PfiBkq73WsshirotfASFz8DqOTLbenaLJ--I/rs:fit/g:sm/q:90/h:428/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNzIt/MTIzNTE0NjI5My5q/cGVn.jpeg"
+  }
+ ],
+ "notes": "A1 to A6 recorded live in Osaka, Japan.\nA7 to B6 recorded at The Automatt.\n\nFabricado en España por discos CBS SA - Madrid\n",
+ "released": "1979",
+ "styles": [
+  "Jazz-Rock",
+  "Psychedelic Rock",
+  "Free Funk"
+ ],
+ "title": "Oneness (Silver Dreams-Golden Reality)",
+ "tracklist": [
+  {
+   "duration": "0:38",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 112804,
+     "join": "",
+     "name": "Greg Walker",
+     "resource_url": "https://api.discogs.com/artists/112804",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "The Chosen Hour",
+   "type_": "track"
+  },
+  {
+   "duration": "2:05",
+   "position": "A2",
+   "title": "Arise Awake",
+   "type_": "track"
+  },
+  {
+   "duration": "0:48",
+   "position": "A3",
+   "title": "Light Versus Darkness",
+   "type_": "track"
+  },
+  {
+   "duration": "3:30",
+   "position": "A4",
+   "title": "Jim Jeannie",
+   "type_": "track"
+  },
+  {
+   "duration": "3:47",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 286983,
+     "join": "",
+     "name": "Chris Solberg",
+     "resource_url": "https://api.discogs.com/artists/286983",
+     "role": "Organ [Hammond]",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Transformation Day",
+   "type_": "track"
+  },
+  {
+   "duration": "1:09",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 642675,
+     "join": "",
+     "name": "Bob Levy (2)",
+     "resource_url": "https://api.discogs.com/artists/642675",
+     "role": "Strings, Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 286984,
+     "join": "",
+     "name": "Pete Escovedo",
+     "resource_url": "https://api.discogs.com/artists/286984",
+     "role": "Timbales",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Victory",
+   "type_": "track"
+  },
+  {
+   "duration": "4:09",
+   "extraartists": [
+    {
+     "anv": "Clare Fisher",
+     "id": 213242,
+     "join": "",
+     "name": "Clare Fischer",
+     "resource_url": "https://api.discogs.com/artists/213242",
+     "role": "Electric Piano [Fender Rhodes]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 642677,
+     "join": "",
+     "name": "Saunders King",
+     "resource_url": "https://api.discogs.com/artists/642677",
+     "role": "Lead Vocals, Guitar [Rhythm]",
+     "tracks": ""
+    }
+   ],
+   "position": "A7",
+   "title": "Silver Dreams Golden Smiles",
+   "type_": "track"
+  },
+  {
+   "duration": "3:10",
+   "position": "A8",
+   "title": "Cry Of The Wilderness",
+   "type_": "track"
+  },
+  {
+   "duration": "3:06",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 49530,
+     "join": "",
+     "name": "Narada Michael Walden",
+     "resource_url": "https://api.discogs.com/artists/49530",
+     "role": "Piano, Organ [Hammond]",
+     "tracks": ""
+    }
+   ],
+   "position": "A9",
+   "title": "Guru's Song",
+   "type_": "track"
+  },
+  {
+   "duration": "6:21",
+   "position": "B1",
+   "title": "Oneness",
+   "type_": "track"
+  },
+  {
+   "duration": "5:12",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 286985,
+     "join": "",
+     "name": "Chris Rhyne",
+     "resource_url": "https://api.discogs.com/artists/286985",
+     "role": "Keyboards, Synthesizer [Moog Solo]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 286983,
+     "join": "",
+     "name": "Chris Solberg",
+     "resource_url": "https://api.discogs.com/artists/286983",
+     "role": "Organ [Hammond], Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 112804,
+     "join": "",
+     "name": "Greg Walker",
+     "resource_url": "https://api.discogs.com/artists/112804",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Life Is Just A Passing Parade",
+   "type_": "track"
+  },
+  {
+   "duration": "2:17",
+   "position": "B3",
+   "title": "Golden Dawn",
+   "type_": "track"
+  },
+  {
+   "duration": "3:14",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 286987,
+     "join": "",
+     "name": "Graham Lear",
+     "resource_url": "https://api.discogs.com/artists/286987",
+     "role": "Timbales",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 112804,
+     "join": "",
+     "name": "Greg Walker",
+     "resource_url": "https://api.discogs.com/artists/112804",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Free As The Morning Sun",
+   "type_": "track"
+  },
+  {
+   "duration": "1:25",
+   "extraartists": [
+    {
+     "anv": "Clare Fisher",
+     "id": 213242,
+     "join": "",
+     "name": "Clare Fischer",
+     "resource_url": "https://api.discogs.com/artists/213242",
+     "role": "Electric Piano [Fender Rhodes]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 642678,
+     "join": "",
+     "name": "Urmila Santana",
+     "resource_url": "https://api.discogs.com/artists/642678",
+     "role": "Narrator",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "I Am Free",
+   "type_": "track"
+  },
+  {
+   "duration": "5:03",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 49530,
+     "join": "",
+     "name": "Narada Michael Walden",
+     "resource_url": "https://api.discogs.com/artists/49530",
+     "role": "Piano, Organ [Hammond]",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Song For Devadip",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/2289456-Devadip-Oneness-Silver-Dreams-Golden-Reality",
+ "year": 1979
+}

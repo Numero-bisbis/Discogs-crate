@@ -1,0 +1,808 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 28209,
+   "join": "",
+   "name": "Public Enemy",
+   "resource_url": "https://api.discogs.com/artists/28209",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/dZg_R8kXIFXoio9h1EJGah0yyTKFB6O72i1RR_o2A6M/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4MjA5/LTE3MjkxNDMwMTct/MTYwMy5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 177915,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/HvKrt_Sj0kgpdHZkCG20rIQ_uVvUxrJlhR_t510SLJM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzkx/NS0xNTA1MzcxMzk4/LTkxODguanBlZw.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/HvKrt_Sj0kgpdHZkCG20rIQ_uVvUxrJlhR_t510SLJM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzkx/NS0xNTA1MzcxMzk4/LTkxODguanBlZw.jpeg",
+   "uri150": "https://i.discogs.com/tga2MZVVTUeMUzmquijQJwmd58awQUoGHKu0ROJRs-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzkx/NS0xNTA1MzcxMzk4/LTkxODguanBlZw.jpeg",
+   "width": 598
+  }
+ ],
+ "labels": [
+  {
+   "catno": "466281 1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 4241,
+   "name": "Def Jam Recordings",
+   "resource_url": "https://api.discogs.com/labels/4241",
+   "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+  },
+  {
+   "catno": "466281 1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3072,
+   "name": "CBS",
+   "resource_url": "https://api.discogs.com/labels/3072",
+   "thumbnail_url": "https://i.discogs.com/hdVZgS3PfiBkq73WsshirotfASFz8DqOTLbenaLJ--I/rs:fit/g:sm/q:90/h:428/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNzIt/MTIzNTE0NjI5My5q/cGVn.jpeg"
+  }
+ ],
+ "notes": "Recorded at Greene Street Recording, New York City by the Chairmen of the Boards.\nRecorded and mixed at The Music Palace, West Hempstead, Long Island (Michael Bona Studios) on the Neve.\nAdditional Recording at Spectrum City Studios, Long Island.\n\nRepresented by the one and only Rush Productions.\n\nBig Daddy Kane appears courtesy of Warner / Reprise / Cold Chillin' Records\nIce Cube appears courtesy of Priority Records / Gangster Boogie Music Inc.\nProfessor Griff and The Last Asiatic Disciples appear courtesy of Luke Skyywalker.\n\nLyrics:\nAll songs © 1990 Def American Songs, Inc. (BMI) Except A5 © 1989 Nia Music and Def American Songs, Inc. (BMI); A9 © 1990 AZ Publishing Inc./Cold Chillin' Music (ASCAP)/Def American Songs, Inc. (BMI). All rights for Cold Chillin' Music administered by WB Music Corp. (ASCAP); And A10 © 1989 Def American Songs, Inc. (BMI.\nAll Rights Reserved. Used by permission.\n\nPublished by (The Bomb Squad) Def American Songs, Inc./Your Mother's Music except A9 Ruthless Attack Muzik/AZ Publishing Inc./Cold Chillin' Music (admin. by WB Music Corp.)/Def American Songs.\nB6 published by Def American Songs Inc.\n\nAll tracks ℗ 1990 CBS Records.\nExcept track A5 ℗ 1989 CBS Records.\n\n© 1990 CBS Records Inc.\n\nMade in Holland.\n\nComes with printed inner sleeve.\n\nRunouts are stamped except the last character which is etched.",
+ "released": "1990",
+ "styles": [
+  "Conscious"
+ ],
+ "title": "Fear Of A Black Planet",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "",
+   "title": "A-90",
+   "type_": "heading"
+  },
+  {
+   "duration": "1:44",
+   "extraartists": [
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Contract On The World Love Jam (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:05",
+   "extraartists": [
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Brothers Gonna Work It Out",
+   "type_": "track"
+  },
+  {
+   "duration": "3:17",
+   "extraartists": [
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Drayton",
+     "id": 718213,
+     "join": "",
+     "name": "William Jonathan Drayton",
+     "resource_url": "https://api.discogs.com/artists/718213",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "911 Is A Joke",
+   "type_": "track"
+  },
+  {
+   "duration": "1:37",
+   "extraartists": [
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Incident At 66.6 FM (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:24",
+   "extraartists": [
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Welcome To The Terrordome",
+   "type_": "track"
+  },
+  {
+   "duration": "0:44",
+   "extraartists": [
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Meet The G That Killed Me",
+   "type_": "track"
+  },
+  {
+   "duration": "3:52",
+   "extraartists": [
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A7",
+   "title": "Pollywanacraka",
+   "type_": "track"
+  },
+  {
+   "duration": "3:17",
+   "extraartists": [
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A8",
+   "title": "Anti-Nigger Machine",
+   "type_": "track"
+  },
+  {
+   "duration": "2:46",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 17594,
+     "join": "",
+     "name": "Big Daddy Kane",
+     "resource_url": "https://api.discogs.com/artists/17594",
+     "role": "Featuring, Rap",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 13732,
+     "join": "",
+     "name": "Ice Cube",
+     "resource_url": "https://api.discogs.com/artists/13732",
+     "role": "Featuring, Rap",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Hardy",
+     "id": 640043,
+     "join": "",
+     "name": "Antonio Hardy",
+     "resource_url": "https://api.discogs.com/artists/640043",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "O. Jackson",
+     "id": 640080,
+     "join": "",
+     "name": "O'Shea Jackson",
+     "resource_url": "https://api.discogs.com/artists/640080",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A9",
+   "title": "Burn Hollywood Burn",
+   "type_": "track"
+  },
+  {
+   "duration": "4:49",
+   "extraartists": [
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A10",
+   "title": "Power To The People",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "",
+   "title": "B-91",
+   "type_": "heading"
+  },
+  {
+   "duration": "3:52",
+   "extraartists": [
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Who Stole The Soul?",
+   "type_": "track"
+  },
+  {
+   "duration": "3:40",
+   "extraartists": [
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Fear Of A Black Planet",
+   "type_": "track"
+  },
+  {
+   "duration": "5:43",
+   "extraartists": [
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Revolutionary Generation",
+   "type_": "track"
+  },
+  {
+   "duration": "2:45",
+   "extraartists": [
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Can't Do Nuttin' For Ya Man",
+   "type_": "track"
+  },
+  {
+   "duration": "1:35",
+   "extraartists": [
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Reggie Jax",
+   "type_": "track"
+  },
+  {
+   "duration": "2:32",
+   "extraartists": [
+    {
+     "anv": "N. Rogers",
+     "id": 242618,
+     "join": "",
+     "name": "Norman Rogers",
+     "resource_url": "https://api.discogs.com/artists/242618",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Leave This Off Your Fu*kin Charts (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:39",
+   "extraartists": [
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B7",
+   "title": "B Side Wins Again",
+   "type_": "track"
+  },
+  {
+   "duration": "2:13",
+   "extraartists": [
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B8",
+   "title": "War At 33 1/3",
+   "type_": "track"
+  },
+  {
+   "duration": "0:48",
+   "extraartists": [
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B9",
+   "title": "Final Count Of The Collision Between Us And The Damned (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:42",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 27803,
+     "join": "",
+     "name": "Branford Marsalis",
+     "resource_url": "https://api.discogs.com/artists/27803",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Ridenhour",
+     "id": 308726,
+     "join": "",
+     "name": "Carlton Ridenhour",
+     "resource_url": "https://api.discogs.com/artists/308726",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Sadler",
+     "id": 104759,
+     "join": "",
+     "name": "Eric Sadler",
+     "resource_url": "https://api.discogs.com/artists/104759",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Shocklee",
+     "id": 102189,
+     "join": "",
+     "name": "Keith Shocklee",
+     "resource_url": "https://api.discogs.com/artists/102189",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B10",
+   "title": "Fight The Power",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/177915-Public-Enemy-Fear-Of-A-Black-Planet",
+ "year": 1990
+}

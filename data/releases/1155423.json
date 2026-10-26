@@ -1,0 +1,225 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 98585,
+   "join": "",
+   "name": "Ray Bryant",
+   "resource_url": "https://api.discogs.com/artists/98585",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ph96AQhZo3pbnBb6DRi2eqsfQ52nWqlqpo_uOaMMQlo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk4NTg1/LTE3NTgzMTU2MjEt/ODc2NS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Mono"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 1155423,
+ "images": [
+  {
+   "height": 520,
+   "resource_url": "https://i.discogs.com/8CHAaqB6Zx_bWDooOcNFcvPZAOSjOYfqXcdbXxaW3J0/rs:fit/g:sm/q:90/h:520/w:522/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU0/MjMtMTIzNTE3OTE4/My5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/8CHAaqB6Zx_bWDooOcNFcvPZAOSjOYfqXcdbXxaW3J0/rs:fit/g:sm/q:90/h:520/w:522/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU0/MjMtMTIzNTE3OTE4/My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/APJbvraKNnjCxbg_j_kaDlU5iOjaVsXBOjMwU9Pdv8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU0/MjMtMTIzNTE3OTE4/My5qcGVn.jpeg",
+   "width": 522
+  }
+ ],
+ "labels": [
+  {
+   "catno": "LP 781",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 36003,
+   "name": "Cadet",
+   "resource_url": "https://api.discogs.com/labels/36003",
+   "thumbnail_url": "https://i.discogs.com/m4iGFXcZIGM8Rp2FuEW6idI93BXdkb6UE6YF2MjIoiY/rs:fit/g:sm/q:90/h:380/w:361/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2MDAz/LTE2NDUzMzI5NDMt/MzYwNi5qcGVn.jpeg"
+  },
+  {
+   "catno": "LP-781",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 36003,
+   "name": "Cadet",
+   "resource_url": "https://api.discogs.com/labels/36003",
+   "thumbnail_url": "https://i.discogs.com/m4iGFXcZIGM8Rp2FuEW6idI93BXdkb6UE6YF2MjIoiY/rs:fit/g:sm/q:90/h:380/w:361/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2MDAz/LTE2NDUzMzI5NDMt/MzYwNi5qcGVn.jpeg"
+  }
+ ],
+ "notes": "A1: Brynor Music Inc., BMI\nA2: Elgy Music Co., BMI\nA3: Tempo Music, ASCAP\nB1: E. B. Marks Corp., BMI\nB2: Criterion Music, ASCAP\nB3: Brynor Music, BMI\nB4: Bryner Music [Sic], BMI",
+ "released": "1967-03-00",
+ "styles": [
+  "Soul-Jazz"
+ ],
+ "title": "Slow Freight",
+ "tracklist": [
+  {
+   "duration": "9:41",
+   "extraartists": [
+    {
+     "anv": "Edwards",
+     "id": 254944,
+     "join": "",
+     "name": "Esmond Edwards",
+     "resource_url": "https://api.discogs.com/artists/254944",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Bryant",
+     "id": 98585,
+     "join": "",
+     "name": "Ray Bryant",
+     "resource_url": "https://api.discogs.com/artists/98585",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Slow Freight",
+   "type_": "track"
+  },
+  {
+   "duration": "4:51",
+   "extraartists": [
+    {
+     "anv": "Byrd",
+     "id": 20956,
+     "join": "",
+     "name": "Donald Byrd",
+     "resource_url": "https://api.discogs.com/artists/20956",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Amen",
+   "type_": "track"
+  },
+  {
+   "duration": "6:50",
+   "extraartists": [
+    {
+     "anv": "Ellington",
+     "id": 145257,
+     "join": "",
+     "name": "Duke Ellington",
+     "resource_url": "https://api.discogs.com/artists/145257",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Satin Doll",
+   "type_": "track"
+  },
+  {
+   "duration": "4:55",
+   "extraartists": [
+    {
+     "anv": "Brel",
+     "id": 164263,
+     "join": "",
+     "name": "Jacques Brel",
+     "resource_url": "https://api.discogs.com/artists/164263",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "McKuen",
+     "id": 283844,
+     "join": "",
+     "name": "Rod McKuen",
+     "resource_url": "https://api.discogs.com/artists/283844",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "If You Go Away",
+   "type_": "track"
+  },
+  {
+   "duration": "3:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 0,
+     "join": "",
+     "name": "Philippe, Gerard & Mercer",
+     "resource_url": "",
+     "role": "Written By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 164574,
+     "join": "",
+     "name": "Johnny Mercer",
+     "resource_url": "https://api.discogs.com/artists/164574",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 648056,
+     "join": "",
+     "name": "Philippe-Gérard",
+     "resource_url": "https://api.discogs.com/artists/648056",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Ah, The Apple Tree (When The World Was Young)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:03",
+   "extraartists": [
+    {
+     "anv": "Ousley",
+     "id": 298487,
+     "join": "",
+     "name": "Harold Ousley",
+     "resource_url": "https://api.discogs.com/artists/298487",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "The Return Of The Prodigal Son",
+   "type_": "track"
+  },
+  {
+   "duration": "3:32",
+   "extraartists": [
+    {
+     "anv": "Bryant",
+     "id": 98585,
+     "join": "",
+     "name": "Ray Bryant",
+     "resource_url": "https://api.discogs.com/artists/98585",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "The Fox Stalker",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/1155423-Ray-Bryant-Slow-Freight",
+ "year": 1967
+}

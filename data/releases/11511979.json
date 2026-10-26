@@ -1,0 +1,96 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4793953,
+   "join": "",
+   "name": "Matthieu Faubourg",
+   "resource_url": "https://api.discogs.com/artists/4793953",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/bQLymGWBZMfkR6fmSlSNKY8cV3peIUxjTb957iLEuKU/rs:fit/g:sm/q:90/h:210/w:312/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ3OTM5/NTMtMTUyMDU4MzI2/My0xODE1LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11511979,
+ "images": [
+  {
+   "height": 236,
+   "resource_url": "https://i.discogs.com/xfPPUBz188H3PPizh8jQVMS2j6-mJFqUCxcOoTXQKdA/rs:fit/g:sm/q:90/h:236/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTEx/OTc5LTE1MTc2NjIz/ODMtNDk5NS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/xfPPUBz188H3PPizh8jQVMS2j6-mJFqUCxcOoTXQKdA/rs:fit/g:sm/q:90/h:236/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTEx/OTc5LTE1MTc2NjIz/ODMtNDk5NS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/YN4SuugxsqmaUx3qUcdSketWHBjZ4guPiZ5jjTOUXWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTEx/OTc5LTE1MTc2NjIz/ODMtNDk5NS5qcGVn.jpeg",
+   "width": 240
+  }
+ ],
+ "labels": [
+  {
+   "catno": "PMSC004",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 911573,
+   "name": "Pulse Msc",
+   "resource_url": "https://api.discogs.com/labels/911573",
+   "thumbnail_url": "https://i.discogs.com/e0L-4tiKba97n3wkVO0Sqc_U1oR7ntYXiU6F1FNWDJY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkxMTU3/My0xNTI5MDU1ODAz/LTk2MTQuanBlZw.jpeg"
+  }
+ ],
+ "notes": "Limited edition of 300 copies.",
+ "released": "2018-02-00",
+ "styles": [
+  "Deep House"
+ ],
+ "title": "Scenario EP",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Scenario",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Yaret",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Echoes In The Night",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3464522,
+     "join": "",
+     "name": "Black Loops",
+     "resource_url": "https://api.discogs.com/artists/3464522",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Scenario (Black Loops Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11511979-Matthieu-Faubourg-Scenario-EP",
+ "year": 2018
+}

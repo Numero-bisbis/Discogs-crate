@@ -1,0 +1,99 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1622339,
+   "join": "",
+   "name": "Blawan",
+   "resource_url": "https://api.discogs.com/artists/1622339",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/myOxPADf3PaC_WH4mRy6scaIlArFDyA4_ozMIvDpdgE/rs:fit/g:sm/q:90/h:600/w:525/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2MjIz/MzktMTcxNzc2MzIy/MS01NDk2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 10947904,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/P0Y_z2c6B_pMCmW_7DO4B_2-UH9C16dOk6Uztoh8jdk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ3/OTA0LTE1MDcwMjE5/NzEtODU4OC5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/P0Y_z2c6B_pMCmW_7DO4B_2-UH9C16dOk6Uztoh8jdk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ3/OTA0LTE1MDcwMjE5/NzEtODU4OC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/85dVsOrHnfidVsSQiZHaqm1p2po4vzacPqdnPSLu66Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ3/OTA0LTE1MDcwMjE5/NzEtODU4OC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "TESC 004",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 837783,
+   "name": "Ternesc",
+   "resource_url": "https://api.discogs.com/labels/837783"
+  }
+ ],
+ "notes": null,
+ "released": "2017-10-03",
+ "styles": [
+  "Techno",
+  "Ambient",
+  "Acid"
+ ],
+ "title": "Nutrition",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Mayhem",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Tramplepfad",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Fawner",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "993",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D1",
+   "title": "Atlas",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D2",
+   "title": "Calcium Red",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10947904-Blawan-Nutrition",
+ "year": 2017
+}

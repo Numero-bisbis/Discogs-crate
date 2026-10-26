@@ -1,0 +1,118 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 459,
+   "join": "",
+   "name": "Mark Broom",
+   "resource_url": "https://api.discogs.com/artists/459",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/bZ_jlVDHLKQTWsL-WlwTMa77IpE9hKyxxNuK82yadOg/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ1OS0x/Njc1NzE3NTAwLTk1/NDQuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Germany",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "180 Gram, Grey Marbled"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11739104,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/fT1nf4DrK4wpg4uNadok2g7ev8sm8p75ZXSHa-8VOTk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzM5/MTA0LTE3NzQ3OTgx/NDItNzkyMi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/fT1nf4DrK4wpg4uNadok2g7ev8sm8p75ZXSHa-8VOTk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzM5/MTA0LTE3NzQ3OTgx/NDItNzkyMi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/s6YcFPMPCigvwg8WHMnrTdpWmYEz0A66LqZ-9_MK90w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzM5/MTA0LTE3NzQ3OTgx/NDItNzkyMi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "PTT002",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1386163,
+   "name": "Proper Techno Tunes",
+   "resource_url": "https://api.discogs.com/labels/1386163",
+   "thumbnail_url": "https://i.discogs.com/Fzh5Q_56jhjS2wYatavMdSuQqYFzfTHciS1tQ982K5Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzODYx/NjMtMTUxODM0NTk1/OC03OTEzLnBuZw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-05-18",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Dank EP",
+ "tracklist": [
+  {
+   "duration": "5:37",
+   "position": "A1",
+   "title": "Dank",
+   "type_": "track"
+  },
+  {
+   "duration": "6:29",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1988979,
+     "join": "",
+     "name": "Dave Simon (4)",
+     "resource_url": "https://api.discogs.com/artists/1988979",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Dank (Dave Simon Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "6:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 456782,
+     "join": "",
+     "name": "Luca Agnelli",
+     "resource_url": "https://api.discogs.com/artists/456782",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Dank (Luca Agnelli Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:46",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1011320,
+     "join": "",
+     "name": "Flug",
+     "resource_url": "https://api.discogs.com/artists/1011320",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Dank (Flug Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11739104-Mark-Broom-Dank-EP",
+ "year": 2018
+}

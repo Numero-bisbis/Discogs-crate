@@ -1,0 +1,251 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1509589,
+   "join": "",
+   "name": "Folamour",
+   "resource_url": "https://api.discogs.com/artists/1509589",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/oiP8YjK5awC37ngEcEx4tOaOYd-zRgUPjlqy8x0OOl4/rs:fit/g:sm/q:90/h:401/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1MDk1/ODktMTUzMjQ0Mzcx/Ni04ODM3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Funk / Soul"
+ ],
+ "id": 29005822,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/BT3gCZQI-pr6wnWDLtP1_X9rV0SYvObluJiz76l3A-U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDA1/ODIyLTE3MDA4MzE4/OTEtNzMyOS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/BT3gCZQI-pr6wnWDLtP1_X9rV0SYvObluJiz76l3A-U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDA1/ODIyLTE3MDA4MzE4/OTEtNzMyOS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Ec2YzjNqt_KC2XzxeELeBvvPq1aZv4OO1m6o6I5_vJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDA1/ODIyLTE3MDA4MzE4/OTEtNzMyOS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "G010005048307R",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1071042,
+   "name": "FHUO Records",
+   "resource_url": "https://api.discogs.com/labels/1071042",
+   "thumbnail_url": "https://i.discogs.com/01BCSmFchHfwQRtbOf1gd-n3LsARCDpT6-K5qp4rIq0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwNzEw/NDItMTUyOTQyNTgz/Ni0xNjM5LmpwZWc.jpeg"
+  },
+  {
+   "catno": "19658826961",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1866,
+   "name": "Columbia",
+   "resource_url": "https://api.discogs.com/labels/1866",
+   "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+  },
+  {
+   "catno": "19658826961",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2023-05-26",
+ "styles": [
+  "House",
+  "Balearic",
+  "Disco",
+  "Afrobeat",
+  "Soul"
+ ],
+ "title": "Manifesto",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Freedom",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Isla Nostalgia",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Poundland Anthem",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 10266160,
+     "join": "",
+     "name": "Baccus (4)",
+     "resource_url": "https://api.discogs.com/artists/10266160",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Amore (feat. Baccus)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Fearless",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 144288,
+     "join": "",
+     "name": "Amadou & Mariam",
+     "resource_url": "https://api.discogs.com/artists/144288",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Voyage (feat. Amadou & Mariam)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 369299,
+     "join": "",
+     "name": "Emmanuel Jal",
+     "resource_url": "https://api.discogs.com/artists/369299",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Birds (feat. Emmanuel Jal)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1990313,
+     "join": "",
+     "name": "Jungle By Night",
+     "resource_url": "https://api.discogs.com/artists/1990313",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Manifesto (feat. Jungle by Night)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "My People",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4002372,
+     "join": "",
+     "name": "Tim Ayre",
+     "resource_url": "https://api.discogs.com/artists/4002372",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Friends (feat. Tim Ayre)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C3",
+   "title": "City Life",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5609088,
+     "join": "",
+     "name": "Khazali",
+     "resource_url": "https://api.discogs.com/artists/5609088",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "</3 Heatlbroken (feat. Khazali)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D1",
+   "title": "Alive",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 13818235,
+     "join": "",
+     "name": "Family Habits",
+     "resource_url": "https://api.discogs.com/artists/13818235",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Deafened (feat. Family Habits)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D3",
+   "title": "When A Piano Saves The Day",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/29005822-Folamour-Manifesto",
+ "year": 2023
+}

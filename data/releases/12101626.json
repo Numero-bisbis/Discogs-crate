@@ -1,0 +1,73 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6524448,
+   "join": "",
+   "name": "Insólito UniVerso",
+   "resource_url": "https://api.discogs.com/artists/6524448",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/1W6YKx7RtbFO_y6EE5hu4L2tQw7xiQzSK4k4IjVsC4Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY1MjQ0/NDgtMTU0MDUwMzM1/NS0zNTg4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "7\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Latin",
+  "Folk, World, & Country"
+ ],
+ "id": 12101626,
+ "images": [
+  {
+   "height": 597,
+   "resource_url": "https://i.discogs.com/12CO-c7oUss3qmNMfaglm1GoY-jTft3kOOYau6UeozQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/NjI2LTE1MjgzMjIw/MjctMzkyNi5wbmc.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/12CO-c7oUss3qmNMfaglm1GoY-jTft3kOOYau6UeozQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/NjI2LTE1MjgzMjIw/MjctMzkyNi5wbmc.jpeg",
+   "uri150": "https://i.discogs.com/7EaqgdlolKt6Av0hCUimcOt5nFsdR4S5C-8VSXa_6MI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/NjI2LTE1MjgzMjIw/MjctMzkyNi5wbmc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "OR002",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1201075,
+   "name": "Olindo",
+   "resource_url": "https://api.discogs.com/labels/1201075",
+   "thumbnail_url": "https://i.discogs.com/pryKL7oKGTCu3pYEouzkcvIoKdXW7iM9hlGsngj3Q5w/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMDEw/NzUtMTQ5MTMyMDQy/My00NTcyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-07-06",
+ "styles": [
+  "Joropo"
+ ],
+ "title": "Vuelve / Décima",
+ "tracklist": [
+  {
+   "duration": "3:31",
+   "position": "A",
+   "title": "Vuelve",
+   "type_": "track"
+  },
+  {
+   "duration": "2:57",
+   "position": "B",
+   "title": "Décima",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12101626-Insólito-UniVerso-Vuelve-Décima",
+ "year": 2018
+}

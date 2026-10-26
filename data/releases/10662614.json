@@ -1,0 +1,75 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4626094,
+   "join": "",
+   "name": "Klanken",
+   "resource_url": "https://api.discogs.com/artists/4626094",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Belgium",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "EP",
+    "Special Cut"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 10662614,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/s8Z_cIDqacW9otMKMXOnVCsUoiqbv-cU7cUyaGVIkrM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYy/NjE0LTE3MDE4NzUy/OTgtNzkzOS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/s8Z_cIDqacW9otMKMXOnVCsUoiqbv-cU7cUyaGVIkrM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYy/NjE0LTE3MDE4NzUy/OTgtNzkzOS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/wR6_kh597872hcpq8QnncQshFj-F8Z1qdDbUbgjDfGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYy/NjE0LTE3MDE4NzUy/OTgtNzkzOS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DEEWEE024",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 901323,
+   "name": "Deewee",
+   "resource_url": "https://api.discogs.com/labels/901323",
+   "thumbnail_url": "https://i.discogs.com/43iFaH5jTGcKif0DoJFbOk5ajpAmXmRmxUuuphfCAks/rs:fit/g:sm/q:90/h:600/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwMTMy/My0xNTE1NzI4ODk3/LTgxMjYucG5n.jpeg"
+  }
+ ],
+ "notes": "Both sides start with a narration in Dutch: \"Deewee nul vierentwintig, Kant [A or B]\".\n\nBoth sides end in a locked inner groove.",
+ "released": "2017-08-00",
+ "styles": [
+  "Experimental",
+  "Electro",
+  "Techno"
+ ],
+ "title": "Vier / Vijf",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Vier",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Vijf",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10662614-Klanken-Vier-Vijf",
+ "year": 2017
+}

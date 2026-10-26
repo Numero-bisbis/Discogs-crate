@@ -1,0 +1,71 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 7909872,
+   "join": "",
+   "name": "Treasure Series",
+   "resource_url": "https://api.discogs.com/artists/7909872",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/wE5u4KRAGM0OozVMe_sJWa7RM3umFDj8k1krjgF6zA0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc5MDk4/NzItMTU5MDUyNzQ3/My01NTIzLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "Single Sided",
+    "Limited Edition",
+    "White Label"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Hand-stamped, 180g"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 15338931,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/_NJrCtH__fZRZJYUDKRVyYU3DEtXPGkqJ24TRDH3xto/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM4/OTMxLTE1OTAwNzQw/MTctNjI3My5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/_NJrCtH__fZRZJYUDKRVyYU3DEtXPGkqJ24TRDH3xto/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM4/OTMxLTE1OTAwNzQw/MTctNjI3My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/LTLdJQt9yVcH2f0-jOcoXijCu3tj-QS-fiPHL8TvQvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM4/OTMxLTE1OTAwNzQw/MTctNjI3My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "TRSRS005",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1702171,
+   "name": "Treasure Series",
+   "resource_url": "https://api.discogs.com/labels/1702171",
+   "thumbnail_url": "https://i.discogs.com/sgOArM7rUrLbduc00EMF4sK_7FwbY8JS8hH2MO2-g34/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3MDIx/NzEtMTU2OTk1Njgy/MS00MjM4LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Hand-stamped white label. Limited to 250 copies. No re-press.",
+ "released": "2020-05-22",
+ "styles": [
+  "House",
+  "Tech House"
+ ],
+ "title": "The Jungle VIP",
+ "tracklist": [
+  {
+   "duration": "8:44",
+   "position": "A",
+   "title": "The Jungle VIP",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15338931-Treasure-Series-The-Jungle-VIP",
+ "year": 2020
+}

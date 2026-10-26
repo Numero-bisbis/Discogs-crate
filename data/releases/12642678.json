@@ -1,0 +1,525 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 85889,
+   "join": "",
+   "name": "System Of A Down",
+   "resource_url": "https://api.discogs.com/artists/85889",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/jXj0xlQxbVXMbR55GY9bvMFPMthknRw7yTkSdsXFzTQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg1ODg5/LTE2NDY2ODQ4Nzgt/Nzk0OS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Rock"
+ ],
+ "id": 12642678,
+ "images": [
+  {
+   "height": 599,
+   "resource_url": "https://i.discogs.com/m6SoQlmfroOIPh-b5x_NGIOBeS9UmTSYVGZ7SJTxRI4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/ODEtMzE1My5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/m6SoQlmfroOIPh-b5x_NGIOBeS9UmTSYVGZ7SJTxRI4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/ODEtMzE1My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/S4x7_CuYnAotLkgKqsGNP-ga8hAfvwbSuo1LYr1rar8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/ODEtMzE1My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "19075865591",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2569,
+   "name": "American Recordings",
+   "resource_url": "https://api.discogs.com/labels/2569",
+   "thumbnail_url": "https://i.discogs.com/kh4m6c62PiAyMt3dxqqeSARPKrZcXwUwlstJvi9XAuo/rs:fit/g:sm/q:90/h:326/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1Njkt/MTIzNjQ4NzQwOS5q/cGVn.jpeg"
+  }
+ ],
+ "notes": "Include printed inner sleeve with lyrics.\n\nA hidden track begins at the 4:06 mark of track B6 after a short period of silence.\nB7 is an unlisted track, although it gets mentioned on the tracklist of the backcover as \"Aerials Contains A Hidden Track\".\nTotal runtime of B6 is given with 6:11 but because both tracks are separated with silence in between the tracklist is reflecting the actual song durations.\n\nSide B label has misprint. B4 on label is labeled Toxic.\n\nRecorded at Cello Studios, Hollywood, CA.\nMixed at Enterprise Studios, Burbank, CA.\nMastered at Oasis Mastering, Studio City, CA.\n\nAll songs © 2001 Sony/ATV Songs LLC and Ddevil Music.\n© 2001, 2018 & ℗ 2001 Columbia Records.",
+ "released": "2018-10-12",
+ "styles": [
+  "Nu Metal"
+ ],
+ "title": "Toxicity",
+ "tracklist": [
+  {
+   "duration": "3:21",
+   "extraartists": [
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tankian",
+     "id": 153410,
+     "join": "",
+     "name": "Serj Tankian",
+     "resource_url": "https://api.discogs.com/artists/153410",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Prison Song",
+   "type_": "track"
+  },
+  {
+   "duration": "3:13",
+   "extraartists": [
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tankian",
+     "id": 153410,
+     "join": "",
+     "name": "Serj Tankian",
+     "resource_url": "https://api.discogs.com/artists/153410",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tankian",
+     "id": 153410,
+     "join": "",
+     "name": "Serj Tankian",
+     "resource_url": "https://api.discogs.com/artists/153410",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Needles",
+   "type_": "track"
+  },
+  {
+   "duration": "2:54",
+   "extraartists": [
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tankian",
+     "id": 153410,
+     "join": "",
+     "name": "Serj Tankian",
+     "resource_url": "https://api.discogs.com/artists/153410",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Deer Dance",
+   "type_": "track"
+  },
+  {
+   "duration": "2:06",
+   "extraartists": [
+    {
+     "anv": "Tankian",
+     "id": 153410,
+     "join": "",
+     "name": "Serj Tankian",
+     "resource_url": "https://api.discogs.com/artists/153410",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "Odadjian",
+     "id": 525811,
+     "join": "",
+     "name": "Shavo Odadjian",
+     "resource_url": "https://api.discogs.com/artists/525811",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Jet Pilot",
+   "type_": "track"
+  },
+  {
+   "duration": "1:58",
+   "extraartists": [
+    {
+     "anv": "Tankian",
+     "id": 153410,
+     "join": "",
+     "name": "Serj Tankian",
+     "resource_url": "https://api.discogs.com/artists/153410",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "X",
+   "type_": "track"
+  },
+  {
+   "duration": "3:30",
+   "extraartists": [
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tankian",
+     "id": 153410,
+     "join": "",
+     "name": "Serj Tankian",
+     "resource_url": "https://api.discogs.com/artists/153410",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Chop Suey!",
+   "type_": "track"
+  },
+  {
+   "duration": "1:54",
+   "extraartists": [
+    {
+     "anv": "Tankian",
+     "id": 153410,
+     "join": "",
+     "name": "Serj Tankian",
+     "resource_url": "https://api.discogs.com/artists/153410",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "Odadjian",
+     "id": 525811,
+     "join": "",
+     "name": "Shavo Odadjian",
+     "resource_url": "https://api.discogs.com/artists/525811",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A7",
+   "title": "Bounce",
+   "type_": "track"
+  },
+  {
+   "duration": "4:00",
+   "extraartists": [
+    {
+     "anv": "Tankian",
+     "id": 153410,
+     "join": "",
+     "name": "Serj Tankian",
+     "resource_url": "https://api.discogs.com/artists/153410",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A8",
+   "title": "Forest",
+   "type_": "track"
+  },
+  {
+   "duration": "2:56",
+   "extraartists": [
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tankian",
+     "id": 153410,
+     "join": "",
+     "name": "Serj Tankian",
+     "resource_url": "https://api.discogs.com/artists/153410",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "ATWA",
+   "type_": "track"
+  },
+  {
+   "duration": "2:42",
+   "extraartists": [
+    {
+     "anv": "Tankian",
+     "id": 153410,
+     "join": "",
+     "name": "Serj Tankian",
+     "resource_url": "https://api.discogs.com/artists/153410",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Science",
+   "type_": "track"
+  },
+  {
+   "duration": "1:50",
+   "extraartists": [
+    {
+     "anv": "Tankian",
+     "id": 153410,
+     "join": "",
+     "name": "Serj Tankian",
+     "resource_url": "https://api.discogs.com/artists/153410",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tankian",
+     "id": 153410,
+     "join": "",
+     "name": "Serj Tankian",
+     "resource_url": "https://api.discogs.com/artists/153410",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Shimmy",
+   "type_": "track"
+  },
+  {
+   "duration": "3:38",
+   "extraartists": [
+    {
+     "anv": "Tankian",
+     "id": 153410,
+     "join": "",
+     "name": "Serj Tankian",
+     "resource_url": "https://api.discogs.com/artists/153410",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "Odadjian",
+     "id": 525811,
+     "join": "",
+     "name": "Shavo Odadjian",
+     "resource_url": "https://api.discogs.com/artists/525811",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Toxicity",
+   "type_": "track"
+  },
+  {
+   "duration": "3:45",
+   "extraartists": [
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tankian",
+     "id": 153410,
+     "join": "",
+     "name": "Serj Tankian",
+     "resource_url": "https://api.discogs.com/artists/153410",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Psycho",
+   "type_": "track"
+  },
+  {
+   "duration": "6:11",
+   "extraartists": [
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tankian",
+     "id": 153410,
+     "join": "",
+     "name": "Serj Tankian",
+     "resource_url": "https://api.discogs.com/artists/153410",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malakian",
+     "id": 282929,
+     "join": "",
+     "name": "Daron Malakian",
+     "resource_url": "https://api.discogs.com/artists/282929",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Aerials",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12642678-System-Of-A-Down-Toxicity",
+ "year": 2018
+}

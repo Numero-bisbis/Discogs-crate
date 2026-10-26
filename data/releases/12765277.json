@@ -1,0 +1,76 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5268524,
+   "join": "",
+   "name": "Phillipi & Rodrigo",
+   "resource_url": "https://api.discogs.com/artists/5268524",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/m4L6Ag3CxsQjdPoeMXv4d2M8re1lM-StRvwjozmwA0k/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyNjg1/MjQtMTU1MDU4MTkx/Ni02OTI3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Belgium",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "Single"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Folk, World, & Country"
+ ],
+ "id": 12765277,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/DXtJa4o52_SSLvS0NmCNj2sarcNHQJ-etY-eVqZ6DCY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY1/Mjc3LTE1NDIzODE3/NzMtNjIyMy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/DXtJa4o52_SSLvS0NmCNj2sarcNHQJ-etY-eVqZ6DCY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY1/Mjc3LTE1NDIzODE3/NzMtNjIyMy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/iSE9Ago1fBCdKnhcMq03NPQg3Qy2iY5dJ7oWThq-Zrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY1/Mjc3LTE1NDIzODE3/NzMtNjIyMy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DEEWEE033",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 901323,
+   "name": "Deewee",
+   "resource_url": "https://api.discogs.com/labels/901323",
+   "thumbnail_url": "https://i.discogs.com/43iFaH5jTGcKif0DoJFbOk5ajpAmXmRmxUuuphfCAks/rs:fit/g:sm/q:90/h:600/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwMTMy/My0xNTE1NzI4ODk3/LTgxMjYucG5n.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-11-06",
+ "styles": [
+  "New Beat",
+  "Tribal",
+  "Psychedelic"
+ ],
+ "title": "Paciencia",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Paciencia",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Paciencia (DEEWEEDUB)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12765277-Phillipi-Rodrigo-Paciencia",
+ "year": 2018
+}

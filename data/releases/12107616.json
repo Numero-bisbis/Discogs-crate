@@ -1,0 +1,273 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2399307,
+   "join": "",
+   "name": "Lord Echo",
+   "resource_url": "https://api.discogs.com/artists/2399307",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/zthqPBL3MxU1z7iKxhmUysEHz3XbX6a0qHuATEdmSak/rs:fit/g:sm/q:90/h:600/w:514/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIzOTkz/MDctMTM2MjQzNzM5/My0yNTY0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "Album",
+    "Repress"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Reggae",
+  "Funk / Soul"
+ ],
+ "id": 12107616,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/rLGlx0m8q2IcKmARiYJTiaLeh2b_IHVqs4KgdfSo9dE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA3/NjE2LTE1MzE4NDE5/NjAtMjk3My5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/rLGlx0m8q2IcKmARiYJTiaLeh2b_IHVqs4KgdfSo9dE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA3/NjE2LTE1MzE4NDE5/NjAtMjk3My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/A8EW5nteQtnsiPp5K5S29GxUap87x20olu3EBwZ4Fj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA3/NjE2LTE1MzE4NDE5/NjAtMjk3My5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SNDWLP090X",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 32575,
+   "name": "Soundway",
+   "resource_url": "https://api.discogs.com/labels/32575",
+   "thumbnail_url": "https://i.discogs.com/W28PrZN1MStO3sfOn5PDIBbxBu1RHKflaPE5qDlGOSw/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyNTc1/LTE0NDE4MzE2MDct/NjAzNC5qcGVn.jpeg"
+  },
+  {
+   "catno": "SNDWLP090X",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1315200,
+   "name": "World Of Sound (4)",
+   "resource_url": "https://api.discogs.com/labels/1315200"
+  }
+ ],
+ "notes": null,
+ "released": "2018-06-00",
+ "styles": [
+  "Future Jazz",
+  "Dub",
+  "House",
+  "Soul",
+  "Afrobeat",
+  "Reggae"
+ ],
+ "title": "Harmonies",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 525893,
+     "join": "",
+     "name": "Lucien Johnson",
+     "resource_url": "https://api.discogs.com/artists/525893",
+     "role": "Featuring, Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1079045,
+     "join": "",
+     "name": "Mara TK",
+     "resource_url": "https://api.discogs.com/artists/1079045",
+     "role": "Featuring, Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Woah! There's No Limit",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 525893,
+     "join": "",
+     "name": "Lucien Johnson",
+     "resource_url": "https://api.discogs.com/artists/525893",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1079045,
+     "join": "",
+     "name": "Mara TK",
+     "resource_url": "https://api.discogs.com/artists/1079045",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Life On Earth",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 525893,
+     "join": "",
+     "name": "Lucien Johnson",
+     "resource_url": "https://api.discogs.com/artists/525893",
+     "role": "Featuring, Tenor Saxophone",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Makossa No. 3",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5434541,
+     "join": "",
+     "name": "Daniel Hayles",
+     "resource_url": "https://api.discogs.com/artists/5434541",
+     "role": "Featuring, Synth",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1079045,
+     "join": "",
+     "name": "Mara TK",
+     "resource_url": "https://api.discogs.com/artists/1079045",
+     "role": "Featuring, Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "The Sweetest Meditation",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 334658,
+     "join": "",
+     "name": "Lisa Tomlins",
+     "resource_url": "https://api.discogs.com/artists/334658",
+     "role": "Featuring, Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Low To The Street",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2399307,
+     "join": "",
+     "name": "Lord Echo",
+     "resource_url": "https://api.discogs.com/artists/2399307",
+     "role": "Featuring, Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "In Your Life",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1079045,
+     "join": "",
+     "name": "Mara TK",
+     "resource_url": "https://api.discogs.com/artists/1079045",
+     "role": "Featuring, Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Just Do You",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5434541,
+     "join": "",
+     "name": "Daniel Hayles",
+     "resource_url": "https://api.discogs.com/artists/5434541",
+     "role": "Featuring, Synthesizer",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "C90 Eternal",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 107168,
+     "join": "",
+     "name": "Toby Laing",
+     "resource_url": "https://api.discogs.com/artists/107168",
+     "role": "Featuring, Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Note From Home",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 334658,
+     "join": "",
+     "name": "Lisa Tomlins",
+     "resource_url": "https://api.discogs.com/artists/334658",
+     "role": "Featuring, Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "I Love Music",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12107616-Lord-Echo-Harmonies",
+ "year": 2018
+}

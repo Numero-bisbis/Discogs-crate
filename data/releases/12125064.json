@@ -1,0 +1,426 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 137880,
+   "join": "",
+   "name": "Kanye West",
+   "resource_url": "https://api.discogs.com/artists/137880",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/wy9IfP_N1tqxIJ1SmyUjPTPZTNGA4RUD27WPWiqLv6s/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNzg4/MC0xNzg3MDM2ODA3/LTQ0NTcuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 12125064,
+ "images": [
+  {
+   "height": 598,
+   "resource_url": "https://i.discogs.com/Mv0Si5UUmrm40PUu5t8UXDUCQzvIodFiGWmrZJxHreA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI1/MDY0LTE2MjcyMzYx/MTEtNTQ0Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Mv0Si5UUmrm40PUu5t8UXDUCQzvIodFiGWmrZJxHreA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI1/MDY0LTE2MjcyMzYx/MTEtNTQ0Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/0P1zclD7joTqv9TOXOfTKWIQvBDrN_4jTAktYUja0UI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI1/MDY0LTE2MjcyMzYx/MTEtNTQ0Ny5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "602498824047",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 9433,
+   "name": "Roc-A-Fella Records",
+   "resource_url": "https://api.discogs.com/labels/9433",
+   "thumbnail_url": "https://i.discogs.com/bcmmY9COdum4qSUKRiV2iCkteKLRa3qbjTZhyY4XTgw/rs:fit/g:sm/q:90/h:370/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk0MzMt/MTYwNDMyMTAzNS00/NzUzLnBuZw.jpeg"
+  }
+ ],
+ "notes": "Made in Czech Republic.",
+ "released": "2018-06-08",
+ "styles": [
+  "Conscious"
+ ],
+ "title": "Late Registration",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 361158,
+     "join": "",
+     "name": "DeRay",
+     "resource_url": "https://api.discogs.com/artists/361158",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Wake Up Mr. West",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 353608,
+     "join": "",
+     "name": "Adam Levine",
+     "resource_url": "https://api.discogs.com/artists/353608",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Heard 'Em Say",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 353611,
+     "join": "",
+     "name": "Lupe Fiasco",
+     "resource_url": "https://api.discogs.com/artists/353611",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 153456,
+     "join": "",
+     "name": "Just Blaze",
+     "resource_url": "https://api.discogs.com/artists/153456",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Touch The Sky",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 180818,
+     "join": "",
+     "name": "Jamie Foxx",
+     "resource_url": "https://api.discogs.com/artists/180818",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Gold Digger",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "Skit #1",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 181351,
+     "join": "",
+     "name": "GLC",
+     "resource_url": "https://api.discogs.com/artists/181351",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 192683,
+     "join": "",
+     "name": "Paul Wall",
+     "resource_url": "https://api.discogs.com/artists/192683",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 353686,
+     "join": "",
+     "name": "Tony Williams (3)",
+     "resource_url": "https://api.discogs.com/artists/353686",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Drive Slow",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 14014,
+     "join": "",
+     "name": "Common",
+     "resource_url": "https://api.discogs.com/artists/14014",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "My Way Home",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 207136,
+     "join": "",
+     "name": "Malik Yusef",
+     "resource_url": "https://api.discogs.com/artists/207136",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 209748,
+     "join": "",
+     "name": "The Game (2)",
+     "resource_url": "https://api.discogs.com/artists/209748",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 115941,
+     "join": "",
+     "name": "Charlie Wilson",
+     "resource_url": "https://api.discogs.com/artists/115941",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 179757,
+     "join": "",
+     "name": "Keyshia Cole",
+     "resource_url": "https://api.discogs.com/artists/179757",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 353686,
+     "join": "",
+     "name": "Tony Williams (3)",
+     "resource_url": "https://api.discogs.com/artists/353686",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Crack Music",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 353686,
+     "join": "",
+     "name": "Tony Williams (3)",
+     "resource_url": "https://api.discogs.com/artists/353686",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Roses",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 31751,
+     "join": "",
+     "name": "Brandy (2)",
+     "resource_url": "https://api.discogs.com/artists/31751",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Bring Me Down",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "Addiction",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C2",
+   "title": "Skit #2",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 21742,
+     "join": "",
+     "name": "Jay-Z",
+     "resource_url": "https://api.discogs.com/artists/21742",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 353687,
+     "join": "",
+     "name": "Devo Springsteen",
+     "resource_url": "https://api.discogs.com/artists/353687",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Diamonds From Sierra Leone (Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 50997,
+     "join": "",
+     "name": "Nas",
+     "resource_url": "https://api.discogs.com/artists/50997",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 353610,
+     "join": "",
+     "name": "Really Doe",
+     "resource_url": "https://api.discogs.com/artists/353610",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 121211,
+     "join": "",
+     "name": "Warryn Campbell",
+     "resource_url": "https://api.discogs.com/artists/121211",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 353686,
+     "join": "",
+     "name": "Tony Williams (3)",
+     "resource_url": "https://api.discogs.com/artists/353686",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "We Major",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D1",
+   "title": "Skit #3",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D2",
+   "title": "Hey Mama",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 182738,
+     "join": "",
+     "name": "John Legend",
+     "resource_url": "https://api.discogs.com/artists/182738",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Celebration",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D4",
+   "title": "Skit #4",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 92898,
+     "join": "",
+     "name": "Cam'ron",
+     "resource_url": "https://api.discogs.com/artists/92898",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109335,
+     "join": "",
+     "name": "Consequence (2)",
+     "resource_url": "https://api.discogs.com/artists/109335",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D5",
+   "title": "Gone",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12125064-Kanye-West-Late-Registration",
+ "year": 2018
+}

@@ -1,0 +1,103 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 275841,
+   "join": "",
+   "name": "Caribou",
+   "resource_url": "https://api.discogs.com/artists/275841",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/liOH79eXmHpCvt77CO6ge9jShHIGts78PRp2SmZzbOM/rs:fit/g:sm/q:90/h:600/w:551/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3NTg0/MS0xNTEyNTkzODc3/LTQ2NjQuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 15693796,
+ "images": [
+  {
+   "height": 589,
+   "resource_url": "https://i.discogs.com/FLNNiU-aZ7BAI0ZilGQc3ntGATE_3IFFC3SpGHquS98/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkz/Nzk2LTE1OTYxMTM0/NDYtNTk1NS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/FLNNiU-aZ7BAI0ZilGQc3ntGATE_3IFFC3SpGHquS98/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkz/Nzk2LTE1OTYxMTM0/NDYtNTk1NS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/1kxMPRC_xGWSPCXIZpLTklVgjUq7DPa2W7MVJlqzg6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkz/Nzk2LTE1OTYxMTM0/NDYtNTk1NS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SLANG50298",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2441,
+   "name": "City Slang",
+   "resource_url": "https://api.discogs.com/labels/2441",
+   "thumbnail_url": "https://i.discogs.com/uHxq4rWf5F4Gj2o8aDdh5cSEbbyT76rRUyKzCTpbchU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI0NDEt/MTQ5NzUxOTk0NC04/Mzc5LnBuZw.jpeg"
+  },
+  {
+   "catno": "MRG748",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 7496,
+   "name": "Merge Records",
+   "resource_url": "https://api.discogs.com/labels/7496",
+   "thumbnail_url": "https://i.discogs.com/RKbYSDYxtUm-6T7oyLQmOGUv6rxXSgg-xT2uruaR4A0/rs:fit/g:sm/q:90/h:510/w:510/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc0OTYt/MTUwMDYzOTQwNC00/ODczLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Black 140g vinyl in heavyweight grey carton sleeves. One time pressing, limited to 800 units for UK.\n\nCredits do not appear on the physical release.\n\nCatalogue number and barcode appear on a sticker on the shrinkwrap.",
+ "released": "2020-07-31",
+ "styles": [
+  "Tech House"
+ ],
+ "title": "Never Come Back (Four Tet / Morgan Geist Remixes)",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3543,
+     "join": "",
+     "name": "Four Tet",
+     "resource_url": "https://api.discogs.com/artists/3543",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "Never Come Back (Four Tet Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 961,
+     "join": "",
+     "name": "Morgan Geist",
+     "resource_url": "https://api.discogs.com/artists/961",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B",
+   "title": "Never Come Back (Morgan Geist Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15693796-Caribou-Never-Come-Back-Four-Tet-Morgan-Geist-Remixes",
+ "year": 2020
+}

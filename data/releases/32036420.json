@@ -1,0 +1,182 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5613399,
+   "join": "",
+   "name": "Confidence Man",
+   "resource_url": "https://api.discogs.com/artists/5613399",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/LMfUYxRF6Cv_T8OujrKWNGwnZJFrS6m1d2c9xWvunEc/rs:fit/g:sm/q:90/h:381/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU2MTMz/OTktMTY2NTc1NzQ2/My0yOTE2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Glow in the Dark"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 32036420,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/MBCDGBW3U4QrwbYDsvvJiREs_XJJbBM8uq_bpPQPPnA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDM2/NDIwLTE3MjkzMzM2/OTQtODY2OS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/MBCDGBW3U4QrwbYDsvvJiREs_XJJbBM8uq_bpPQPPnA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDM2/NDIwLTE3MjkzMzM2/OTQtODY2OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/ENwEJbO6CQlGM8wqQejBDm4gn69Lw5PDWqvnabqS72I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDM2/NDIwLTE3MjkzMzM2/OTQtODY2OS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "6557357",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1610,
+   "name": "Polydor",
+   "resource_url": "https://api.discogs.com/labels/1610",
+   "thumbnail_url": "https://i.discogs.com/aNZfcLSVMW8xdCMyTxY3PspGfkoD4lsz8_uyffeyRcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MTAt/MTU4ODY3Mzk0Ny0x/NjI2LmpwZWc.jpeg"
+  },
+  {
+   "catno": "6557357",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3196877,
+   "name": "Chaos (7)",
+   "resource_url": "https://api.discogs.com/labels/3196877",
+   "thumbnail_url": "https://i.discogs.com/0Gn9LXZZvPJA0s1C8zOrokY6v_kzNq-yyXtSvzXyXdI/rs:fit/g:sm/q:90/h:253/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxOTY4/NzctMTY4Mjc5NjMw/MC03OTI1LmpwZWc.jpeg"
+  },
+  {
+   "catno": "6557357",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 408332,
+   "name": "I Oh You",
+   "resource_url": "https://api.discogs.com/labels/408332",
+   "thumbnail_url": "https://i.discogs.com/UNjsCrNYpq6GXnizdlETTzcww5j5w5vomTPwR-d2cpQ/rs:fit/g:sm/q:90/h:170/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQwODMz/Mi0xMzY1MDQyODQ1/LTMzNjkuanBlZw.jpeg"
+  },
+  {
+   "catno": "00602465573572",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1610,
+   "name": "Polydor",
+   "resource_url": "https://api.discogs.com/labels/1610",
+   "thumbnail_url": "https://i.discogs.com/aNZfcLSVMW8xdCMyTxY3PspGfkoD4lsz8_uyffeyRcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MTAt/MTU4ODY3Mzk0Ny0x/NjI2LmpwZWc.jpeg"
+  },
+  {
+   "catno": "6557358",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1610,
+   "name": "Polydor",
+   "resource_url": "https://api.discogs.com/labels/1610",
+   "thumbnail_url": "https://i.discogs.com/aNZfcLSVMW8xdCMyTxY3PspGfkoD4lsz8_uyffeyRcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MTAt/MTU4ODY3Mzk0Ny0x/NjI2LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "6557358 label code is only on sticker on the shrink wrap.\n\n'Made in Czech Republic' sticker on rear shrink wrap.\nMade in the EU on rear sleeve.\n\nRunouts: \"6557357 A2\" \"= MATT @ METROPOLIS =\" & \"6557357 B2\" are etched, the rest are stamped.\n\nNb: Copies pre-ordered from the Confidence Man website are signed and do not include the large hype sticker.",
+ "released": "2024-10-18",
+ "styles": [
+  "Dance-pop",
+  "House",
+  "UK Garage"
+ ],
+ "title": "3am (La La La)",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Who Knows What You'll Find?",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "I Can't Lose You",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Control",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "So What",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "Breakbeat",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A6",
+   "title": "Sicko",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 71565,
+     "join": "",
+     "name": "Sweetie Irie",
+     "resource_url": "https://api.discogs.com/artists/71565",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B7",
+   "title": "Real Move Touch",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B8",
+   "title": "Far Out",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B9",
+   "title": "Janet",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B10",
+   "title": "⁠⁠So Tru",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B11",
+   "title": "Wrong Idea",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B12",
+   "title": "3am (La La La)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/32036420-Confidence-Man-3am-La-La-La",
+ "year": 2024
+}

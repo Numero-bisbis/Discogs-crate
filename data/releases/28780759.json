@@ -1,0 +1,494 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 82730,
+   "join": "",
+   "name": "The Beatles",
+   "resource_url": "https://api.discogs.com/artists/82730",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/txwfZBYDvdK2_f0o4rsQXNbsGS4IQS9U0LmGybWMLh8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgyNzMw/LTE0MTk3MTQ5ODgt/OTY3NS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "7\"",
+    "45 RPM",
+    "Single",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Blue / White Marble"
+  }
+ ],
+ "genres": [
+  "Rock"
+ ],
+ "id": 28780759,
+ "images": [
+  {
+   "height": 596,
+   "resource_url": "https://i.discogs.com/Z32LF3RTyPNJojuM8ul_xJDYvebdvpuGjtamLy4Gb18/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzgw/NzU5LTE2OTk0NzM0/OTYtMjg4Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Z32LF3RTyPNJojuM8ul_xJDYvebdvpuGjtamLy4Gb18/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzgw/NzU5LTE2OTk0NzM0/OTYtMjg4Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/BR-sc91EWce4YCcmfrFMJJFkXJ2lUoFshDgp1vGBWms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzgw/NzU5LTE2OTk0NzM0/OTYtMjg4Ny5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "0602448145864",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25693,
+   "name": "Apple Records",
+   "resource_url": "https://api.discogs.com/labels/25693",
+   "thumbnail_url": "https://i.discogs.com/-8y5EP9e3iReEkjpgSA5UbWbIMWobsFcRpc_yX6Lczs/rs:fit/g:sm/q:90/h:253/w:245/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1Njkz/LTExMzgwMjc3MjUu/anBlZw.jpeg"
+  },
+  {
+   "catno": "4814586",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25693,
+   "name": "Apple Records",
+   "resource_url": "https://api.discogs.com/labels/25693",
+   "thumbnail_url": "https://i.discogs.com/-8y5EP9e3iReEkjpgSA5UbWbIMWobsFcRpc_yX6Lczs/rs:fit/g:sm/q:90/h:253/w:245/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1Njkz/LTExMzgwMjc3MjUu/anBlZw.jpeg"
+  },
+  {
+   "catno": "0602448145864",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 138199,
+   "name": "Universal Music Group International",
+   "resource_url": "https://api.discogs.com/labels/138199",
+   "thumbnail_url": "https://i.discogs.com/lSH1OPzDIQXxluBPhUbFGdZ2INrs_fcTUpVb_4787n0/rs:fit/g:sm/q:90/h:99/w:190/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzODE5/OS0xMjk5NzUzNzc4/LmpwZWc.jpeg"
+  },
+  {
+   "catno": "45-R 4814586",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2294,
+   "name": "Parlophone",
+   "resource_url": "https://api.discogs.com/labels/2294",
+   "thumbnail_url": "https://i.discogs.com/sSHvafK_7vhXYlIb4uG3obiCcc90uaIuTpImRS8a5LU/rs:fit/g:sm/q:90/h:554/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyOTQt/MTYxNTE5Njk3OS03/NTM4LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Blue / white marble exclusive online store edition.\n\nIssued in a cardstock picture sleeve with plain white inner sleeve, plus insert with credits and liner notes.\n\nAll 7\" editions have the same catalog number 0602448145864 (located on labels and bottom back of sleeve) but different barcodes, which is located on the hype sticker adhered to the shrinkwrap. \n\nSide B is the \"1962 Original UK Single version\", with Ringo on drums, mixed to stereo for the first time.\n\nSide A label states \"Mfd. in E.U.\"; side B label and back of sleeve state \"Made In The E.U.\"\nMade in Germany (white sticker with black lettering on back cover shrink wrap)\n\nMatrix numbers are hand etched in the runout area. Plating marks like '△T1', '-T1' are mirrored.\n\nSource separation / MAL courtesy of WingNut Films Productions Ltd.\n\n\nLove Me Do (2023 Mix) is called the Love Me Do (2023 Stereo Mix) on the insert.",
+ "released": "2023-11-03",
+ "styles": [
+  "Beat",
+  "Pop Rock"
+ ],
+ "title": "Now And Then / Love Me Do",
+ "tracklist": [
+  {
+   "duration": "4:08",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 331477,
+     "join": "",
+     "name": "Ben Foster",
+     "resource_url": "https://api.discogs.com/artists/331477",
+     "role": "Arranged By [Strings]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 375987,
+     "join": "",
+     "name": "Giles Martin",
+     "resource_url": "https://api.discogs.com/artists/375987",
+     "role": "Arranged By [Strings]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35301,
+     "join": "",
+     "name": "Paul McCartney",
+     "resource_url": "https://api.discogs.com/artists/35301",
+     "role": "Arranged By [Strings]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 243955,
+     "join": "",
+     "name": "George Harrison",
+     "resource_url": "https://api.discogs.com/artists/243955",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 46481,
+     "join": "",
+     "name": "John Lennon",
+     "resource_url": "https://api.discogs.com/artists/46481",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35301,
+     "join": "",
+     "name": "Paul McCartney",
+     "resource_url": "https://api.discogs.com/artists/35301",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 259352,
+     "join": "",
+     "name": "Ringo Starr",
+     "resource_url": "https://api.discogs.com/artists/259352",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 46481,
+     "join": "",
+     "name": "John Lennon",
+     "resource_url": "https://api.discogs.com/artists/46481",
+     "role": "Composed By [Original Composition By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 259352,
+     "join": "",
+     "name": "Ringo Starr",
+     "resource_url": "https://api.discogs.com/artists/259352",
+     "role": "Drums, Tambourine, Shaker",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 476689,
+     "join": "",
+     "name": "Bruce Sugar",
+     "resource_url": "https://api.discogs.com/artists/476689",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 264184,
+     "join": "",
+     "name": "Geoff Emerick",
+     "resource_url": "https://api.discogs.com/artists/264184",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4283950,
+     "join": "",
+     "name": "Greg McAllister",
+     "resource_url": "https://api.discogs.com/artists/4283950",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 253552,
+     "join": "",
+     "name": "Jon Jacobs",
+     "resource_url": "https://api.discogs.com/artists/253552",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 563957,
+     "join": "",
+     "name": "Keith Smith (2)",
+     "resource_url": "https://api.discogs.com/artists/563957",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 381867,
+     "join": "",
+     "name": "Steve Genewick",
+     "resource_url": "https://api.discogs.com/artists/381867",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 302370,
+     "join": "",
+     "name": "Steve Orchard",
+     "resource_url": "https://api.discogs.com/artists/302370",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 243955,
+     "join": "",
+     "name": "George Harrison",
+     "resource_url": "https://api.discogs.com/artists/243955",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35301,
+     "join": "",
+     "name": "Paul McCartney",
+     "resource_url": "https://api.discogs.com/artists/35301",
+     "role": "Guitar, Bass, Piano, Electric Harpsichord, Shaker",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 383408,
+     "join": "",
+     "name": "Miles Showell",
+     "resource_url": "https://api.discogs.com/artists/383408",
+     "role": "Mastered By, Lacquer Cut By",
+     "tracks": ""
+    },
+    {
+     "anv": "Spike Stent",
+     "id": 211449,
+     "join": "",
+     "name": "Mark Stent",
+     "resource_url": "https://api.discogs.com/artists/211449",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 375987,
+     "join": "",
+     "name": "Giles Martin",
+     "resource_url": "https://api.discogs.com/artists/375987",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35301,
+     "join": "",
+     "name": "Paul McCartney",
+     "resource_url": "https://api.discogs.com/artists/35301",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 33843,
+     "join": "",
+     "name": "Jeff Lynne",
+     "resource_url": "https://api.discogs.com/artists/33843",
+     "role": "Producer [Additional Production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2308134,
+     "join": "",
+     "name": "Adam Sharp",
+     "resource_url": "https://api.discogs.com/artists/2308134",
+     "role": "Project Manager",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 46481,
+     "join": "",
+     "name": "John Lennon",
+     "resource_url": "https://api.discogs.com/artists/46481",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35301,
+     "join": "",
+     "name": "Paul McCartney",
+     "resource_url": "https://api.discogs.com/artists/35301",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "George",
+     "id": 243955,
+     "join": "",
+     "name": "George Harrison",
+     "resource_url": "https://api.discogs.com/artists/243955",
+     "role": "Written-By [Beatles Version By]",
+     "tracks": ""
+    },
+    {
+     "anv": "John",
+     "id": 46481,
+     "join": "",
+     "name": "John Lennon",
+     "resource_url": "https://api.discogs.com/artists/46481",
+     "role": "Written-By [Beatles Version By]",
+     "tracks": ""
+    },
+    {
+     "anv": "Paul",
+     "id": 35301,
+     "join": "",
+     "name": "Paul McCartney",
+     "resource_url": "https://api.discogs.com/artists/35301",
+     "role": "Written-By [Beatles Version By]",
+     "tracks": ""
+    },
+    {
+     "anv": "Ringo",
+     "id": 259352,
+     "join": "",
+     "name": "Ringo Starr",
+     "resource_url": "https://api.discogs.com/artists/259352",
+     "role": "Written-By [Beatles Version By]",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "Now And Then",
+   "type_": "track"
+  },
+  {
+   "duration": "2:23",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 35301,
+     "join": "",
+     "name": "Paul McCartney",
+     "resource_url": "https://api.discogs.com/artists/35301",
+     "role": "Bass Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 259352,
+     "join": "",
+     "name": "Ringo Starr",
+     "resource_url": "https://api.discogs.com/artists/259352",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 262647,
+     "join": "",
+     "name": "Paul Hicks",
+     "resource_url": "https://api.discogs.com/artists/262647",
+     "role": "Engineer [2023 Stereo Mix], Mixed By [2023 Stereo Mix]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 682308,
+     "join": "",
+     "name": "Sam OKell",
+     "resource_url": "https://api.discogs.com/artists/682308",
+     "role": "Engineer [2023 Stereo Mix], Mixed By [2023 Stereo Mix]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 243955,
+     "join": "",
+     "name": "George Harrison",
+     "resource_url": "https://api.discogs.com/artists/243955",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 46481,
+     "join": "",
+     "name": "John Lennon",
+     "resource_url": "https://api.discogs.com/artists/46481",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 46481,
+     "join": "",
+     "name": "John Lennon",
+     "resource_url": "https://api.discogs.com/artists/46481",
+     "role": "Harmonica",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 383408,
+     "join": "",
+     "name": "Miles Showell",
+     "resource_url": "https://api.discogs.com/artists/383408",
+     "role": "Lacquer Cut By [2023 Stereo Mix]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 259769,
+     "join": "",
+     "name": "George Martin",
+     "resource_url": "https://api.discogs.com/artists/259769",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 375987,
+     "join": "",
+     "name": "Giles Martin",
+     "resource_url": "https://api.discogs.com/artists/375987",
+     "role": "Producer  [2023 Stereo Mix], Mixed By [2023 Stereo Mix]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 46481,
+     "join": "",
+     "name": "John Lennon",
+     "resource_url": "https://api.discogs.com/artists/46481",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35301,
+     "join": "",
+     "name": "Paul McCartney",
+     "resource_url": "https://api.discogs.com/artists/35301",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 779927,
+     "join": "",
+     "name": "Lennon-McCartney",
+     "resource_url": "https://api.discogs.com/artists/779927",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "AA",
+   "title": "Love Me Do (2023 Mix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/28780759-The-Beatles-Now-And-Then-Love-Me-Do",
+ "year": 2023
+}

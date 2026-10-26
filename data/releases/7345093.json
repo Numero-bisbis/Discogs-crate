@@ -1,0 +1,152 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 12212,
+   "join": "",
+   "name": "Rage Against The Machine",
+   "resource_url": "https://api.discogs.com/artists/12212",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/OU7oo1YnluHTBjvEnPyKgjikyLxZk_JfamdnmEFIhBg/rs:fit/g:sm/q:90/h:418/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyMjEy/LTE1NjAyMjIwOTgt/OTU4OC5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Remastered"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "180 Gram"
+  }
+ ],
+ "genres": [
+  "Rock"
+ ],
+ "id": 7345093,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/yQKjQn4mRC9E5fcKPzY3hR6nwe-OvzuSQMKiwtEIOWc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDUw/OTMtMTYzODU0NDIx/Mi01MTUwLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/yQKjQn4mRC9E5fcKPzY3hR6nwe-OvzuSQMKiwtEIOWc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDUw/OTMtMTYzODU0NDIx/Mi01MTUwLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/d4hzpKMbF0uigvWuAnGxXQnc7lmNXmewKyu8-RHS8y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDUw/OTMtMTYzODU0NDIx/Mi01MTUwLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "88875111751",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 57469,
+   "name": "Epic Associated",
+   "resource_url": "https://api.discogs.com/labels/57469",
+   "thumbnail_url": "https://i.discogs.com/TwMNH0NZNpyu6X-DWnKqzibB2ONk49Xn53APfqkA-jw/rs:fit/g:sm/q:90/h:166/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU3NDY5/LTEyNDUxMzM4MTMu/anBlZw.jpeg"
+  },
+  {
+   "catno": "88875111751",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 15491,
+   "name": "Legacy",
+   "resource_url": "https://api.discogs.com/labels/15491",
+   "thumbnail_url": "https://i.discogs.com/jk2im_GXsDlf_1qNdX0KOoZUX6ivAIvgJH0TEBVW7ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDkx/LTE0OTg4MzQ3MDgt/NzQwOS5wbmc.jpeg"
+  },
+  {
+   "catno": "88875111751",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  }
+ ],
+ "notes": "Recorded […] at Sound City, Van Nuys, CA.\nAdditional recording at Scream Studios, Studio City, CA.\nMixed […] at Quantam Studios, Jersey City, NJ.\nMastered […] at Masterdisk, NYC. \n\n[A5] recorded […] at Industrial Recording, North Hollywood, CA. \n[A5] was recorded before ever playing live.\n\nNo samples, keyboards or synthesizers used in the making of this recording.\n\n℗ 1992 Epic Records, a division of Sony music Entertainment, © 1992, 2015 Epic Records, a division of Sony Music Entertainment.\n\nMade in EU.\n\nSticker on Front Cover reads:\n\nLEGACY VINYL\n--------------------\n180 Gram\nSuperior Audio Quality\n--------------------\nlegacyrecordings.com\n\nIncludes a printed inner sleeve with lyrics and credits.\n\nRunouts are etched.",
+ "released": "2015",
+ "styles": [
+  "Funk Metal"
+ ],
+ "title": "Rage Against The Machine",
+ "tracklist": [
+  {
+   "duration": "4:04",
+   "position": "A1",
+   "title": "Bombtrack",
+   "type_": "track"
+  },
+  {
+   "duration": "5:13",
+   "position": "A2",
+   "title": "Killing In The Name",
+   "type_": "track"
+  },
+  {
+   "duration": "5:36",
+   "position": "A3",
+   "title": "Take The Power Back",
+   "type_": "track"
+  },
+  {
+   "duration": "4:47",
+   "position": "A4",
+   "title": "Settle For Nothing",
+   "type_": "track"
+  },
+  {
+   "duration": "4:46",
+   "position": "A5",
+   "title": "Bullet In The Head",
+   "type_": "track"
+  },
+  {
+   "duration": "4:54",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 251558,
+     "join": "",
+     "name": "Maynard James Keenan",
+     "resource_url": "https://api.discogs.com/artists/251558",
+     "role": "Vocals [Additional]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Know Your Enemy",
+   "type_": "track"
+  },
+  {
+   "duration": "6:04",
+   "position": "B2",
+   "title": "Wake Up",
+   "type_": "track"
+  },
+  {
+   "duration": "5:30",
+   "position": "B3",
+   "title": "Fistful Of Steel",
+   "type_": "track"
+  },
+  {
+   "duration": "5:24",
+   "position": "B4",
+   "title": "Township Rebellion",
+   "type_": "track"
+  },
+  {
+   "duration": "6:06",
+   "position": "B5",
+   "title": "Freedom",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/7345093-Rage-Against-The-Machine-Rage-Against-The-Machine",
+ "year": 2015
+}

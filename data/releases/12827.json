@@ -1,0 +1,104 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 750,
+   "join": "",
+   "name": "Laurent Garnier",
+   "resource_url": "https://api.discogs.com/artists/750",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/KYhG25JKsGiQwIZKcT5A6iEr6VInZ2gp1dVSgdEJF7k/rs:fit/g:sm/q:90/h:600/w:459/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1MC0x/NjQ0NTYxNDM1LTUx/NjYuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "Limited Edition"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12827,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/dqfDXtGXsHXMKFSuWKgx1tNzl9gjDzR-12J-ybtVj6k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI3/LTExNTM4NjAzNTUu/anBlZw.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/dqfDXtGXsHXMKFSuWKgx1tNzl9gjDzR-12J-ybtVj6k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI3/LTExNTM4NjAzNTUu/anBlZw.jpeg",
+   "uri150": "https://i.discogs.com/aAI_SeTJ_cSFCyp91-1Q5V5BYmudMxjHCe0uhDii8vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI3/LTExNTM4NjAzNTUu/anBlZw.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "F 012 R",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 14,
+   "name": "F Communications",
+   "resource_url": "https://api.discogs.com/labels/14",
+   "thumbnail_url": "https://i.discogs.com/HTO1s0tlfXOwJe2EKUVh1k88aHpdZDjVsnAhvkkiDmQ/rs:fit/g:sm/q:90/h:296/w:342/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0LTEx/ODEzNDA1NDcuanBl/Zw.jpeg"
+  },
+  {
+   "catno": "137.0012.38",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 14,
+   "name": "F Communications",
+   "resource_url": "https://api.discogs.com/labels/14",
+   "thumbnail_url": "https://i.discogs.com/HTO1s0tlfXOwJe2EKUVh1k88aHpdZDjVsnAhvkkiDmQ/rs:fit/g:sm/q:90/h:296/w:342/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0LTEx/ODEzNDA1NDcuanBl/Zw.jpeg"
+  }
+ ],
+ "notes": "Track A: Remixed at LFO studio.\r\nTrack B: Reconstructed and mixed at Sham studios, Horsham.\r\n",
+ "released": "1994-09-05",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Astral Dreams (Remixes Limited Edition)",
+ "tracklist": [
+  {
+   "duration": "9:54",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 751,
+     "join": "",
+     "name": "LFO",
+     "resource_url": "https://api.discogs.com/artists/751",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A",
+   "title": "Astral Dreams (LFO’s Reality Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "7:52",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1268,
+     "join": "",
+     "name": "Carl Cox",
+     "resource_url": "https://api.discogs.com/artists/1268",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B",
+   "title": "Astral Dreams (Carl MMR’s Mix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12827-Laurent-Garnier-Astral-Dreams-Remixes-Limited-Edition",
+ "year": 1994
+}

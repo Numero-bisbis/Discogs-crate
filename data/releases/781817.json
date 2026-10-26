@@ -1,0 +1,574 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 76894,
+   "join": "",
+   "name": "The Roots",
+   "resource_url": "https://api.discogs.com/artists/76894",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/bZV6gYp4KD6p64m-NgFlVEranOuKK-bAXULrvEg5tzA/rs:fit/g:sm/q:90/h:381/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc2ODk0/LTE2OTY5NTUyOTkt/MTYxNi5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 781817,
+ "images": [
+  {
+   "height": 595,
+   "resource_url": "https://i.discogs.com/B6Nhz2d3h7MOm28g1GU2SpxiIfBSiO6ZMoQYiVRAl-o/rs:fit/g:sm/q:90/h:595/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTgx/Ny0xMzk5NDU0MTUz/LTIyODMuanBlZw.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/B6Nhz2d3h7MOm28g1GU2SpxiIfBSiO6ZMoQYiVRAl-o/rs:fit/g:sm/q:90/h:595/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTgx/Ny0xMzk5NDU0MTUz/LTIyODMuanBlZw.jpeg",
+   "uri150": "https://i.discogs.com/vHuAXrlFRsBcIfYtIsGf3hR31SC_gR1U6mW2p4CWwMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTgx/Ny0xMzk5NDU0MTUz/LTIyODMuanBlZw.jpeg",
+   "width": 595
+  }
+ ],
+ "labels": [
+  {
+   "catno": "B0007222-01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 4241,
+   "name": "Def Jam Recordings",
+   "resource_url": "https://api.discogs.com/labels/4241",
+   "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+  }
+ ],
+ "notes": "Track A114 Overseen by J Dilla\nTracklist positions numbered sequentially, continuing from previous album [url=https://www.discogs.com/release/13868004-The-Roots-The-Tipping-Point] \"The Tipping Point\"[/url]",
+ "released": "2006-09-08",
+ "styles": [],
+ "title": "Game Theory",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 12473,
+     "join": "",
+     "name": "Ahmir '?uestlove' Thompson",
+     "resource_url": "https://api.discogs.com/artists/12473",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 401247,
+     "join": "",
+     "name": "Steve Mandel",
+     "resource_url": "https://api.discogs.com/artists/401247",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 12473,
+     "join": "",
+     "name": "Ahmir '?uestlove' Thompson",
+     "resource_url": "https://api.discogs.com/artists/12473",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "A114",
+   "title": "Dilltastic Vol Won(derful)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 178882,
+     "join": "",
+     "name": "Kamal Gray",
+     "resource_url": "https://api.discogs.com/artists/178882",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 15135383,
+     "join": "",
+     "name": "The Randy Watson Experience",
+     "resource_url": "https://api.discogs.com/artists/15135383",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 597949,
+     "join": "",
+     "name": "Wadud Ahmad",
+     "resource_url": "https://api.discogs.com/artists/597949",
+     "role": "Voice [Featuring]",
+     "tracks": ""
+    }
+   ],
+   "position": "A115",
+   "title": "False Media",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A116",
+   "title": "Game Theory",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 83041,
+     "join": "",
+     "name": "Tahir",
+     "resource_url": "https://api.discogs.com/artists/83041",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 597943,
+     "join": "",
+     "name": "Maimouna Youssef",
+     "resource_url": "https://api.discogs.com/artists/597943",
+     "role": "Vocals [Featuring]",
+     "tracks": ""
+    }
+   ],
+   "position": "A117",
+   "title": "Don't Feel Right",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 281173,
+     "join": "",
+     "name": "Jon Smeltz",
+     "resource_url": "https://api.discogs.com/artists/281173",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 135890,
+     "join": "",
+     "name": "Russell Elevado",
+     "resource_url": "https://api.discogs.com/artists/135890",
+     "role": "Mixed By [Drums Premix]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 597945,
+     "join": "",
+     "name": "Owen Biddle",
+     "resource_url": "https://api.discogs.com/artists/597945",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 340399,
+     "join": "",
+     "name": "Pedro Martinez",
+     "resource_url": "https://api.discogs.com/artists/340399",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 263494,
+     "join": "",
+     "name": "Porno (2)",
+     "resource_url": "https://api.discogs.com/artists/263494",
+     "role": "Rap [Featuring]",
+     "tracks": ""
+    }
+   ],
+   "position": "B118",
+   "title": "In The Music",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 98565,
+     "join": "",
+     "name": "Mercedes Martinez",
+     "resource_url": "https://api.discogs.com/artists/98565",
+     "role": "Backing Vocals [Fx Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 51216,
+     "join": "",
+     "name": "Rahzel",
+     "resource_url": "https://api.discogs.com/artists/51216",
+     "role": "Human Beatbox",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 223116,
+     "join": "",
+     "name": "Adam Blackstone",
+     "resource_url": "https://api.discogs.com/artists/223116",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 12473,
+     "join": "",
+     "name": "Ahmir '?uestlove' Thompson",
+     "resource_url": "https://api.discogs.com/artists/12473",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 340399,
+     "join": "",
+     "name": "Pedro Martinez",
+     "resource_url": "https://api.discogs.com/artists/340399",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 83595,
+     "join": "",
+     "name": "Dice Raw",
+     "resource_url": "https://api.discogs.com/artists/83595",
+     "role": "Rap [Chorus]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 597949,
+     "join": "",
+     "name": "Wadud Ahmad",
+     "resource_url": "https://api.discogs.com/artists/597949",
+     "role": "Voice [Spoken Word]",
+     "tracks": ""
+    }
+   ],
+   "position": "B119",
+   "title": "Take It There",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 597948,
+     "join": "",
+     "name": "John McGlinchey",
+     "resource_url": "https://api.discogs.com/artists/597948",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 597948,
+     "join": "",
+     "name": "John McGlinchey",
+     "resource_url": "https://api.discogs.com/artists/597948",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 12473,
+     "join": "",
+     "name": "Ahmir '?uestlove' Thompson",
+     "resource_url": "https://api.discogs.com/artists/12473",
+     "role": "Vocals [Chorus]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 83595,
+     "join": "",
+     "name": "Dice Raw",
+     "resource_url": "https://api.discogs.com/artists/83595",
+     "role": "Vocals [Chorus]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 600801,
+     "join": "",
+     "name": "Michael Heinzer",
+     "resource_url": "https://api.discogs.com/artists/600801",
+     "role": "Vocals [Chorus]",
+     "tracks": ""
+    },
+    {
+     "anv": "John-John",
+     "id": 597948,
+     "join": "",
+     "name": "John McGlinchey",
+     "resource_url": "https://api.discogs.com/artists/597948",
+     "role": "Vocals [Featuring]",
+     "tracks": ""
+    }
+   ],
+   "position": "B120",
+   "title": "Baby",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 245422,
+     "join": "",
+     "name": "Brook D'Leau",
+     "resource_url": "https://api.discogs.com/artists/245422",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 597945,
+     "join": "",
+     "name": "Owen Biddle",
+     "resource_url": "https://api.discogs.com/artists/597945",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 340399,
+     "join": "",
+     "name": "Pedro Martinez",
+     "resource_url": "https://api.discogs.com/artists/340399",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 83595,
+     "join": "",
+     "name": "Dice Raw",
+     "resource_url": "https://api.discogs.com/artists/83595",
+     "role": "Rap [Featuring]",
+     "tracks": ""
+    }
+   ],
+   "position": "C121",
+   "title": "Here I Come",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 223117,
+     "join": "",
+     "name": "Omar Edwards",
+     "resource_url": "https://api.discogs.com/artists/223117",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Darryl Robinson",
+     "id": 223105,
+     "join": "",
+     "name": "Darrell Robinson",
+     "resource_url": "https://api.discogs.com/artists/223105",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 597945,
+     "join": "",
+     "name": "Owen Biddle",
+     "resource_url": "https://api.discogs.com/artists/597945",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 83595,
+     "join": "",
+     "name": "Dice Raw",
+     "resource_url": "https://api.discogs.com/artists/83595",
+     "role": "Rap [Chorus]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 480360,
+     "join": "",
+     "name": "Peedi Peedi",
+     "resource_url": "https://api.discogs.com/artists/480360",
+     "role": "Rap [Featuring]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 17959,
+     "join": "",
+     "name": "Bunny Sigler",
+     "resource_url": "https://api.discogs.com/artists/17959",
+     "role": "Vocals [Featuring]",
+     "tracks": ""
+    }
+   ],
+   "position": "C122",
+   "title": "Long Time",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 98565,
+     "join": "",
+     "name": "Mercedes Martinez",
+     "resource_url": "https://api.discogs.com/artists/98565",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "John-John",
+     "id": 597948,
+     "join": "",
+     "name": "John McGlinchey",
+     "resource_url": "https://api.discogs.com/artists/597948",
+     "role": "Vocals [Featuring]",
+     "tracks": ""
+    }
+   ],
+   "position": "C123",
+   "title": "Livin' In A New World",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 245422,
+     "join": "",
+     "name": "Brook D'Leau",
+     "resource_url": "https://api.discogs.com/artists/245422",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 98565,
+     "join": "",
+     "name": "Mercedes Martinez",
+     "resource_url": "https://api.discogs.com/artists/98565",
+     "role": "Vocals [Featuring]",
+     "tracks": ""
+    }
+   ],
+   "position": "D124",
+   "title": "Clock With No Hands",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 15135383,
+     "join": "",
+     "name": "The Randy Watson Experience",
+     "resource_url": "https://api.discogs.com/artists/15135383",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 505305,
+     "join": "",
+     "name": "Jack Davey",
+     "resource_url": "https://api.discogs.com/artists/505305",
+     "role": "Vocals [Featuring]",
+     "tracks": ""
+    }
+   ],
+   "position": "D125",
+   "title": "Atonement",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 15135383,
+     "join": "",
+     "name": "The Randy Watson Experience",
+     "resource_url": "https://api.discogs.com/artists/15135383",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 76894,
+     "join": "",
+     "name": "The Roots",
+     "resource_url": "https://api.discogs.com/artists/76894",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 324866,
+     "join": "",
+     "name": "J Dilla",
+     "resource_url": "https://api.discogs.com/artists/324866",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 324866,
+     "join": "",
+     "name": "J Dilla",
+     "resource_url": "https://api.discogs.com/artists/324866",
+     "role": "Recorded By",
+     "tracks": ""
+    }
+   ],
+   "position": "D126",
+   "title": "Can't Stop This",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/781817-The-Roots-Game-Theory",
+ "year": 2006
+}

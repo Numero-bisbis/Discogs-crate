@@ -1,0 +1,109 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2619952,
+   "join": "",
+   "name": "JoyCut",
+   "resource_url": "https://api.discogs.com/artists/2619952",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "Italy",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "Album",
+    "Picture Disc"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Rock"
+ ],
+ "id": 4962853,
+ "images": [
+  {
+   "height": 450,
+   "resource_url": "https://i.discogs.com/8MNSbJEGAJa6Pwx984kpeaisIHt6MpJZq3FyM1jz1sc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjI4/NTMtMTQ0ODk4NTU4/MS0zNzc3LmpwZWc.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/8MNSbJEGAJa6Pwx984kpeaisIHt6MpJZq3FyM1jz1sc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjI4/NTMtMTQ0ODk4NTU4/MS0zNzc3LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/L9dTBQPbFnKsddUl-US6wLYvNuI5NetqrXKjLI7lb4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjI4/NTMtMTQ0ODk4NTU4/MS0zNzc3LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "IRM 1023 LP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 49268,
+   "name": "Irma Records",
+   "resource_url": "https://api.discogs.com/labels/49268",
+   "thumbnail_url": "https://i.discogs.com/xei9rZq1yVxkNua0Bw0UskvRu-QXx79dwnSMJGynTQo/rs:fit/g:sm/q:90/h:167/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ5MjY4/LTE2NDI5ODMwMDct/NDE2Mi5qcGVn.jpeg"
+  }
+ ],
+ "notes": "PICTURE DISC",
+ "released": "2013",
+ "styles": [
+  "Alternative Rock"
+ ],
+ "title": "PiecesOfUsWereLeftOnTheGround",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Wireless",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Dominio",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "IndividualRoutine",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Drive",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "DarkStar",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Funeral",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "ChildrenInLove",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Evil",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/4962853-JoyCut-PiecesOfUsWereLeftOnTheGround",
+ "year": 2013
+}

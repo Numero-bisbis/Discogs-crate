@@ -1,0 +1,993 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 194,
+   "join": "",
+   "name": "Various",
+   "resource_url": "https://api.discogs.com/artists/194",
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation",
+    "Mispress",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Latin",
+  "Funk / Soul"
+ ],
+ "id": 11472790,
+ "images": [
+  {
+   "height": 500,
+   "resource_url": "https://i.discogs.com/cKgq4QNEk1i0EMOR-UMoxz_O_B19gA3E1Z70EJ1VaOU/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDcy/NzkwLTE1MzE0MDY0/MzQtOTI0My5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/cKgq4QNEk1i0EMOR-UMoxz_O_B19gA3E1Z70EJ1VaOU/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDcy/NzkwLTE1MzE0MDY0/MzQtOTI0My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/PVM_m9KbVplTg8Yt6kT3K92LCdRtfE6vuSN7UC_xQkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDcy/NzkwLTE1MzE0MDY0/MzQtOTI0My5qcGVn.jpeg",
+   "width": 500
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SNDWLP013",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 32575,
+   "name": "Soundway",
+   "resource_url": "https://api.discogs.com/labels/32575",
+   "thumbnail_url": "https://i.discogs.com/W28PrZN1MStO3sfOn5PDIBbxBu1RHKflaPE5qDlGOSw/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyNTc1/LTE0NDE4MzE2MDct/NjAzNC5qcGVn.jpeg"
+  },
+  {
+   "catno": "SNDLP 013",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 32575,
+   "name": "Soundway",
+   "resource_url": "https://api.discogs.com/labels/32575",
+   "thumbnail_url": "https://i.discogs.com/W28PrZN1MStO3sfOn5PDIBbxBu1RHKflaPE5qDlGOSw/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyNTc1/LTE0NDE4MzE2MDct/NjAzNC5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Due to manufacturing error the same side was pressed on both sides of the second LP in the 2017 pressing. Soundway withdrew the 2017 copies.",
+ "released": "2017-08-25",
+ "styles": [
+  "Calypso",
+  "Descarga",
+  "Cumbia",
+  "Boogaloo",
+  "Guaguancó",
+  "Funk",
+  "Salsa"
+ ],
+ "title": "Panama! 2: Latin Sounds, Cumbia Tropical & Calypso Funk On The Isthmus 1967-77",
+ "tracklist": [
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1494637,
+     "join": "",
+     "name": "Papi Brandao Y Su Conjunto Aires Tableños",
+     "resource_url": "https://api.discogs.com/artists/1494637",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:09",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1494622,
+     "join": "",
+     "name": "Papi Brandao",
+     "resource_url": "https://api.discogs.com/artists/1494622",
+     "role": "Performer, Leader",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 29812,
+     "join": "",
+     "name": "Willie Colón",
+     "resource_url": "https://api.discogs.com/artists/29812",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "La Murga De Panama",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 479137,
+     "join": "",
+     "name": "Los Silvertones",
+     "resource_url": "https://api.discogs.com/artists/479137",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1494619,
+     "join": "",
+     "name": "Robert Cole (3)",
+     "resource_url": "https://api.discogs.com/artists/1494619",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494649,
+     "join": "",
+     "name": "Eugenio Dodge",
+     "resource_url": "https://api.discogs.com/artists/1494649",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494648,
+     "join": "",
+     "name": "Ricardo Bermudez",
+     "resource_url": "https://api.discogs.com/artists/1494648",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494631,
+     "join": "",
+     "name": "Carlos Allen",
+     "resource_url": "https://api.discogs.com/artists/1494631",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Joe Clark",
+     "id": 4542695,
+     "join": "",
+     "name": "Roy \"Joe\" Clark",
+     "resource_url": "https://api.discogs.com/artists/4542695",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494648,
+     "join": "",
+     "name": "Ricardo Bermudez",
+     "resource_url": "https://api.discogs.com/artists/1494648",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Tamborito Swing",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1494541,
+     "join": "",
+     "name": "Maximo Rodriguez Y Sus Estrellas Panameñas",
+     "resource_url": "https://api.discogs.com/artists/1494541",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:51",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 349251,
+     "join": "",
+     "name": "Kako (2)",
+     "resource_url": "https://api.discogs.com/artists/349251",
+     "role": "Bongos [Bongo]",
+     "tracks": ""
+    },
+    {
+     "anv": "Thomas Espinosa Lopez",
+     "id": 458684,
+     "join": "",
+     "name": "Thomas Lopez",
+     "resource_url": "https://api.discogs.com/artists/458684",
+     "role": "Congas [Tumbadora]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494612,
+     "join": "",
+     "name": "Manito Johnson",
+     "resource_url": "https://api.discogs.com/artists/1494612",
+     "role": "Coro",
+     "tracks": ""
+    },
+    {
+     "anv": "Mane Nieto",
+     "id": 7189736,
+     "join": "",
+     "name": "Mañe Nieto",
+     "resource_url": "https://api.discogs.com/artists/7189736",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "Manuel \"Diablo\" Gonzalez",
+     "id": 1494634,
+     "join": "",
+     "name": "Manuel Gonzalez",
+     "resource_url": "https://api.discogs.com/artists/1494634",
+     "role": "Timbales",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494623,
+     "join": "",
+     "name": "Pablo Vega (2)",
+     "resource_url": "https://api.discogs.com/artists/1494623",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494627,
+     "join": "",
+     "name": "Rafael Labasta",
+     "resource_url": "https://api.discogs.com/artists/1494627",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494636,
+     "join": "",
+     "name": "Maximo Rodriguez",
+     "resource_url": "https://api.discogs.com/artists/1494636",
+     "role": "Vocals, Bass",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Flora",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 479135,
+     "join": "",
+     "name": "Papi Brandao Y Sus Ejecutivos",
+     "resource_url": "https://api.discogs.com/artists/479135",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:59",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1494622,
+     "join": "",
+     "name": "Papi Brandao",
+     "resource_url": "https://api.discogs.com/artists/1494622",
+     "role": "Performer, Leader",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494628,
+     "join": "",
+     "name": "Modesto Calderon",
+     "resource_url": "https://api.discogs.com/artists/1494628",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Decidete Mi Amor",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 537369,
+     "join": "",
+     "name": "Skorpio",
+     "resource_url": "https://api.discogs.com/artists/537369",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:48",
+   "extraartists": [
+    {
+     "anv": "Ricardo \"Babaila\" Del Rosario",
+     "id": 1494625,
+     "join": "",
+     "name": "Ricardo Del Rosario",
+     "resource_url": "https://api.discogs.com/artists/1494625",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494625,
+     "join": "",
+     "name": "Ricardo Del Rosario",
+     "resource_url": "https://api.discogs.com/artists/1494625",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Te Toca Tocar La Tumba",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1473758,
+     "join": "",
+     "name": "Los Superiores",
+     "resource_url": "https://api.discogs.com/artists/1473758",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:48",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1494616,
+     "join": "",
+     "name": "Eduardo Ruiz",
+     "resource_url": "https://api.discogs.com/artists/1494616",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494616,
+     "join": "",
+     "name": "Eduardo Ruiz",
+     "resource_url": "https://api.discogs.com/artists/1494616",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Descarga Superior",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Idamerica Ruiz",
+     "id": 3155635,
+     "join": "Con",
+     "name": "Ida America Ruiz",
+     "resource_url": "https://api.discogs.com/artists/3155635",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1500261,
+     "join": "",
+     "name": "Osvaldo Ayala Y Su Conjunto",
+     "resource_url": "https://api.discogs.com/artists/1500261",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:58",
+   "extraartists": [
+    {
+     "anv": "Idamerica Ruiz",
+     "id": 3155635,
+     "join": "",
+     "name": "Ida America Ruiz",
+     "resource_url": "https://api.discogs.com/artists/3155635",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Tradícional Panameña",
+     "id": 151641,
+     "join": "",
+     "name": "Traditional",
+     "resource_url": "https://api.discogs.com/artists/151641",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "No Llores Porque Me Voy",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Los Revolucionarios (Soul Revolution)",
+     "id": 1473763,
+     "join": "",
+     "name": "Los Revolucionarios",
+     "resource_url": "https://api.discogs.com/artists/1473763",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:07",
+   "position": "B3",
+   "title": "Mi Bella Panama",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "The Duncan Brothers",
+     "id": 1495109,
+     "join": "",
+     "name": "Los Hermanos Duncan",
+     "resource_url": "https://api.discogs.com/artists/1495109",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:41",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1494620,
+     "join": "",
+     "name": "Alberto Duncan",
+     "resource_url": "https://api.discogs.com/artists/1494620",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494647,
+     "join": "",
+     "name": "Alberto Wilson",
+     "resource_url": "https://api.discogs.com/artists/1494647",
+     "role": "Congas [Tumbadores]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494646,
+     "join": "",
+     "name": "Alejando Duncan",
+     "resource_url": "https://api.discogs.com/artists/1494646",
+     "role": "Directed By, Guitar, Vocals [Singer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494640,
+     "join": "",
+     "name": "Arturo Robinson",
+     "resource_url": "https://api.discogs.com/artists/1494640",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494632,
+     "join": "",
+     "name": "Guillermo Herrera",
+     "resource_url": "https://api.discogs.com/artists/1494632",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494621,
+     "join": "",
+     "name": "Alfonso Duncan",
+     "resource_url": "https://api.discogs.com/artists/1494621",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Dreams (Edit)",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1473759,
+     "join": "",
+     "name": "The Soul Fantastics",
+     "resource_url": "https://api.discogs.com/artists/1473759",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:08",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1494608,
+     "join": "",
+     "name": "Ricky Staples",
+     "resource_url": "https://api.discogs.com/artists/1494608",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494610,
+     "join": "",
+     "name": "Daniel Bulgin",
+     "resource_url": "https://api.discogs.com/artists/1494610",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1296506,
+     "join": "",
+     "name": "Samuel Archer (2)",
+     "resource_url": "https://api.discogs.com/artists/1296506",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 59249,
+     "join": "",
+     "name": "Bill Withers",
+     "resource_url": "https://api.discogs.com/artists/59249",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Ain't No Sunshine",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 479132,
+     "join": "",
+     "name": "The Exciters (2)",
+     "resource_url": "https://api.discogs.com/artists/479132",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:24",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1494635,
+     "join": "",
+     "name": "Carlos Brown",
+     "resource_url": "https://api.discogs.com/artists/1494635",
+     "role": "Directed By [Musical Director], Vocals, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494633,
+     "join": "",
+     "name": "Enrique Stevens",
+     "resource_url": "https://api.discogs.com/artists/1494633",
+     "role": "Horns",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494618,
+     "join": "",
+     "name": "Ramon Davidson",
+     "resource_url": "https://api.discogs.com/artists/1494618",
+     "role": "Horns",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494607,
+     "join": "",
+     "name": "The Exciters Horns",
+     "resource_url": "https://api.discogs.com/artists/1494607",
+     "role": "Horns",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494611,
+     "join": "",
+     "name": "Rich Burns",
+     "resource_url": "https://api.discogs.com/artists/1494611",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Ese Muerto No Lo Cargo Yo",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Meñique El Panameño",
+     "id": 3257258,
+     "join": "Con",
+     "name": "Meñique",
+     "resource_url": "https://api.discogs.com/artists/3257258",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "Bush Y Los Magnificos",
+     "id": 479129,
+     "join": "",
+     "name": "Bush Y Sus Magnificos",
+     "resource_url": "https://api.discogs.com/artists/479129",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:20",
+   "extraartists": [
+    {
+     "anv": "Francisco \"Bush\" Buckley",
+     "id": 949411,
+     "join": "",
+     "name": "Francisco Buckley",
+     "resource_url": "https://api.discogs.com/artists/949411",
+     "role": "Leader",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494630,
+     "join": "",
+     "name": "José Chacho Medina",
+     "resource_url": "https://api.discogs.com/artists/1494630",
+     "role": "Saxophone [Baritone]",
+     "tracks": ""
+    },
+    {
+     "anv": "Miguel Ángel Barcasnegras",
+     "id": 3257258,
+     "join": "",
+     "name": "Meñique",
+     "resource_url": "https://api.discogs.com/artists/3257258",
+     "role": "Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "La Confianza",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1473760,
+     "join": "",
+     "name": "Camilo Azuquita",
+     "resource_url": "https://api.discogs.com/artists/1473760",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:06",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1473760,
+     "join": "",
+     "name": "Camilo Azuquita",
+     "resource_url": "https://api.discogs.com/artists/1473760",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 549182,
+     "join": "",
+     "name": "Javier Vasquez",
+     "resource_url": "https://api.discogs.com/artists/549182",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Borombon",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1473761,
+     "join": "",
+     "name": "Los Papacitos",
+     "resource_url": "https://api.discogs.com/artists/1473761",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:10",
+   "extraartists": [
+    {
+     "anv": "Artistides \"Tille\" Valderrama",
+     "id": 1494609,
+     "join": "",
+     "name": "Artistides Valderrama",
+     "resource_url": "https://api.discogs.com/artists/1494609",
+     "role": "Leader",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494639,
+     "join": "",
+     "name": "Dirk Ortega",
+     "resource_url": "https://api.discogs.com/artists/1494639",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494617,
+     "join": "",
+     "name": "Elroy Valderrama",
+     "resource_url": "https://api.discogs.com/artists/1494617",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 29812,
+     "join": "",
+     "name": "Willie Colón",
+     "resource_url": "https://api.discogs.com/artists/29812",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Jazzy",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Alfredo Y Su Salsa Montañera",
+     "id": 5924505,
+     "join": "",
+     "name": "Alfredo Escudero Y Su Salsa Montañera",
+     "resource_url": "https://api.discogs.com/artists/5924505",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:18",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1494644,
+     "join": "",
+     "name": "Leonidas Moreno",
+     "resource_url": "https://api.discogs.com/artists/1494644",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3155809,
+     "join": "",
+     "name": "Alfredo Escudero",
+     "resource_url": "https://api.discogs.com/artists/3155809",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C5",
+   "title": "La Escoba",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Sir Jablonsky",
+     "id": 892025,
+     "join": "",
+     "name": "Sir Jablonski",
+     "resource_url": "https://api.discogs.com/artists/892025",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:13",
+   "extraartists": [
+    {
+     "anv": "Sir Jablonsky",
+     "id": 892025,
+     "join": "",
+     "name": "Sir Jablonski",
+     "resource_url": "https://api.discogs.com/artists/892025",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Juck Juck Pt. 1",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1494645,
+     "join": "Y",
+     "name": "Lord Cobra",
+     "resource_url": "https://api.discogs.com/artists/1494645",
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "anv": "Los Hnos. Duncan",
+     "id": 1495109,
+     "join": "",
+     "name": "Los Hermanos Duncan",
+     "resource_url": "https://api.discogs.com/artists/1495109",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "4:46",
+   "extraartists": [
+    {
+     "anv": "The Duncan Brothers",
+     "id": 1495109,
+     "join": "",
+     "name": "Los Hermanos Duncan",
+     "resource_url": "https://api.discogs.com/artists/1495109",
+     "role": "Backing Band",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494645,
+     "join": "",
+     "name": "Lord Cobra",
+     "resource_url": "https://api.discogs.com/artists/1494645",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Love Letters",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1473762,
+     "join": "",
+     "name": "Ceferino Nieto",
+     "resource_url": "https://api.discogs.com/artists/1473762",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "2:48",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1494638,
+     "join": "",
+     "name": "Carlos Zulueta",
+     "resource_url": "https://api.discogs.com/artists/1494638",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Nieto",
+     "id": 1473762,
+     "join": "",
+     "name": "Ceferino Nieto",
+     "resource_url": "https://api.discogs.com/artists/1473762",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Ceferino En Salsa",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "Ormelis Cortez Con Su Conjunto Viva Guararé",
+     "id": 10948544,
+     "join": "",
+     "name": "Ormelis Cortez Y Su Conjunto Viva Güararé",
+     "resource_url": "https://api.discogs.com/artists/10948544",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:41",
+   "position": "D4",
+   "title": "Si La Vez",
+   "type_": "track"
+  },
+  {
+   "artists": [
+    {
+     "anv": "",
+     "id": 1473757,
+     "join": "",
+     "name": "Chilo Pitty",
+     "resource_url": "https://api.discogs.com/artists/1473757",
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "duration": "3:15",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1473757,
+     "join": "",
+     "name": "Chilo Pitty",
+     "resource_url": "https://api.discogs.com/artists/1473757",
+     "role": "Accordion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1494638,
+     "join": "",
+     "name": "Carlos Zulueta",
+     "resource_url": "https://api.discogs.com/artists/1494638",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D5",
+   "title": "Piculina",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11472790-Various-Panama-2-Latin-Sounds-Cumbia-Tropical-Calypso-Funk-On-The-Isthmus-1967-77",
+ "year": 2017
+}

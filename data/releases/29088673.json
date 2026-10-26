@@ -1,0 +1,1444 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 21731,
+   "join": "",
+   "name": "Nelly Furtado",
+   "resource_url": "https://api.discogs.com/artists/21731",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/TvOyU4a5NkUWNVzfomM89866MsyUlLVutPQWi_yGzIk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzMx/LTE2OTM1ODgwNTYt/MjIwMy5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Clear [Milky Clear]"
+  },
+  {
+   "descriptions": [
+    "LP"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Red Translucent [Ruby]"
+  },
+  {
+   "descriptions": [
+    "Album",
+    "Limited Edition",
+    "Reissue"
+   ],
+   "name": "All Media",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Hip Hop",
+  "Latin",
+  "Funk / Soul",
+  "Pop"
+ ],
+ "id": 29088673,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/SYajG0HTBlKSWqmRA7nMA1DYAXGIkLmFe9sBKd2Xd9o/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDg4/NjczLTE3MDE1OTY2/OTktOTI2NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/SYajG0HTBlKSWqmRA7nMA1DYAXGIkLmFe9sBKd2Xd9o/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDg4/NjczLTE3MDE1OTY2/OTktOTI2NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/f9XvT8cS34lG1xWoa4_0p_XyOwxIu21L9nXCEde23BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDg4/NjczLTE3MDE1OTY2/OTktOTI2NC5qcGVn.jpeg",
+   "width": 598
+  }
+ ],
+ "labels": [
+  {
+   "catno": "00602458167078",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 821,
+   "name": "Geffen Records",
+   "resource_url": "https://api.discogs.com/labels/821",
+   "thumbnail_url": "https://i.discogs.com/vMl2XlWbLiwFc15tnFdFdDhrXIwTNHLUms1TMNKeP94/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgyMS0x/MzAwODc4NDM2Lmpw/ZWc.jpeg"
+  },
+  {
+   "catno": "00602458167078",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 68029,
+   "name": "UMe",
+   "resource_url": "https://api.discogs.com/labels/68029",
+   "thumbnail_url": "https://i.discogs.com/M8dUXs4KvT0ntyk7C_Xbzh3z3vTBp9EBxecfUb13p74/rs:fit/g:sm/q:90/h:233/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MDI5/LTE1MDM0MTYxNTkt/OTAxNy5wbmc.jpeg"
+  }
+ ],
+ "notes": "A Geffen Records release; ℗ 2006 © 2023 UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404 - U.S.A. All rights reserved. Unauthorised copying, reproduction, hiring, lending, public performance and broadcasting prohibited. Made in EU. LC01846. 00602458167078. Universal Music International B.V. 'S-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. BIEM/SDRM.\n\nAll lyrics by Nelly Furtado except \"Promiscuous\" lyrics by Attitude, Nelly Furtado and Timbaland and \"Maneater\" lyrics by Nelly Furtado with additional lyrics by Jim Beanz\n\nAll songs produced by Timbaland for Timbaland Productions and Danja for Danja Handz Productions except \"Showtime\" produced by Danja for Danja Handz Productions and \"No Hay Igual\" produced by Timbaland for Timbaland Productions, Danja for Danja Handz Productions and Nisan Stewart for NCS Entertainment and \"Te Busque\" produced by Lester Mendez and \"In God's Hands\" produced by Rick Nowels and Nelly Furtado\n\nAll Vocal Production by Jim Beanz for Sunset Entertainment/Pettaway Music except tracks 7 and 10.\n\nAll songs Recorded at The Hit Factory Miami, Florida except \"Te Busque\" Recorded at Cubejam Miami, Florida, The Orange Lounge Toronto, Canada, The Hit Factory Miami, Florida and \"In God's Hands\" Recorded at The Chill Building Santa Monica, California, Track Record Hollywood, California, and Capitol Studios Hollywood, California \n\nAll songs Mixed at Thomas Crown Studios Virginia Beach, Virginia except \"Te Busque\" Mixed at Larrabee North Studios North Hollywood, California, \"Say It Right\" and \"Do It\" Mixed at The Hit Factory Miami, Florida and \"In God's Hands\" Mixed at Henson Studios Los Angeles, California\n\nMastered by Chris Gerhinger at Sterling Sound, Chelsea, New York\n\nTimbaland appears courtesy of [url=http://www.discogs.com/label/294002-Blackground-Records-LLC]Blackground Records LLC[/url]\nJuanes appears courtesy of [l36586], a division of [l272782]\n\nManagement: Chris Smith Management Inc.\nwww.chrissmithmanagement.com\nTour/Agents: SL Feidman & Associates - Canada\nCAA - USA\nHelter Skelter - UK\n\nTrack durations are not mentioned on the release.\n\nGatefold Cover. 'Made in Czech Republic' sticker on plastic wrap.",
+ "released": "2023-12-01",
+ "styles": [
+  "Contemporary R&B",
+  "Dance-pop",
+  "Pop Rap",
+  "Latin Pop"
+ ],
+ "title": "Loose",
+ "tracklist": [
+  {
+   "duration": "3:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 705459,
+     "join": "",
+     "name": "Beverly Jean",
+     "resource_url": "https://api.discogs.com/artists/705459",
+     "role": "Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 705456,
+     "join": "",
+     "name": "Brittney Howard",
+     "resource_url": "https://api.discogs.com/artists/705456",
+     "role": "Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 149697,
+     "join": "",
+     "name": "Maria Reyes",
+     "resource_url": "https://api.discogs.com/artists/149697",
+     "role": "Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 705453,
+     "join": "",
+     "name": "Marithza Bain",
+     "resource_url": "https://api.discogs.com/artists/705453",
+     "role": "Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 705451,
+     "join": "",
+     "name": "Regina Vincent",
+     "resource_url": "https://api.discogs.com/artists/705451",
+     "role": "Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 705460,
+     "join": "",
+     "name": "Richardson Paquiot",
+     "resource_url": "https://api.discogs.com/artists/705460",
+     "role": "Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 592940,
+     "join": "",
+     "name": "The Horace Mann Middle School Choirs",
+     "resource_url": "https://api.discogs.com/artists/592940",
+     "role": "Choir",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 705455,
+     "join": "",
+     "name": "Mr. Robert C. Phillips",
+     "resource_url": "https://api.discogs.com/artists/705455",
+     "role": "Directed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 705457,
+     "join": "",
+     "name": "Kim Phillips",
+     "resource_url": "https://api.discogs.com/artists/705457",
+     "role": "Directed By [Assisted By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Drums, Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 141932,
+     "join": "",
+     "name": "Attitude (2)",
+     "resource_url": "https://api.discogs.com/artists/141932",
+     "role": "Featuring, Rap",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 203734,
+     "join": "",
+     "name": "Danja",
+     "resource_url": "https://api.discogs.com/artists/203734",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 819225,
+     "join": "",
+     "name": "Demacio \"Demo\" Castellon",
+     "resource_url": "https://api.discogs.com/artists/819225",
+     "role": "Programmed By [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 262770,
+     "join": "",
+     "name": "Nate Hills",
+     "resource_url": "https://api.discogs.com/artists/262770",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tim \"Attitude\" Clayton",
+     "id": 666567,
+     "join": "",
+     "name": "Tim Clayton",
+     "resource_url": "https://api.discogs.com/artists/666567",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tim Mosley",
+     "id": 610304,
+     "join": "",
+     "name": "Timothy Mosley",
+     "resource_url": "https://api.discogs.com/artists/610304",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Afraid",
+   "type_": "track"
+  },
+  {
+   "duration": "4:25",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 545564,
+     "join": "",
+     "name": "Jim Beanz",
+     "resource_url": "https://api.discogs.com/artists/545564",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 203734,
+     "join": "",
+     "name": "Danja",
+     "resource_url": "https://api.discogs.com/artists/203734",
+     "role": "Drums, Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 545564,
+     "join": "",
+     "name": "Jim Beanz",
+     "resource_url": "https://api.discogs.com/artists/545564",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 262770,
+     "join": "",
+     "name": "Nate Hills",
+     "resource_url": "https://api.discogs.com/artists/262770",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tim Mosley",
+     "id": 610304,
+     "join": "",
+     "name": "Timothy Mosley",
+     "resource_url": "https://api.discogs.com/artists/610304",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Maneater",
+   "type_": "track"
+  },
+  {
+   "duration": "4:02",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 545564,
+     "join": "",
+     "name": "Jim Beanz",
+     "resource_url": "https://api.discogs.com/artists/545564",
+     "role": "Backing Vocals [Additional Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 203734,
+     "join": "",
+     "name": "Danja",
+     "resource_url": "https://api.discogs.com/artists/203734",
+     "role": "Drums, Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Drums, Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Featuring, Vocals [Featured Vocal]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 819225,
+     "join": "",
+     "name": "Demacio \"Demo\" Castellon",
+     "resource_url": "https://api.discogs.com/artists/819225",
+     "role": "Programmed By [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 262770,
+     "join": "",
+     "name": "Nate Hills",
+     "resource_url": "https://api.discogs.com/artists/262770",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tim \"Attitude\" Clayton",
+     "id": 666567,
+     "join": "",
+     "name": "Tim Clayton",
+     "resource_url": "https://api.discogs.com/artists/666567",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tim Mosley",
+     "id": 610304,
+     "join": "",
+     "name": "Timothy Mosley",
+     "resource_url": "https://api.discogs.com/artists/610304",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Promiscuous",
+   "type_": "track"
+  },
+  {
+   "duration": "4:02",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 203734,
+     "join": "",
+     "name": "Danja",
+     "resource_url": "https://api.discogs.com/artists/203734",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 819225,
+     "join": "",
+     "name": "Demacio \"Demo\" Castellon",
+     "resource_url": "https://api.discogs.com/artists/819225",
+     "role": "Programmed By [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 262770,
+     "join": "",
+     "name": "Nate Hills",
+     "resource_url": "https://api.discogs.com/artists/262770",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 235918,
+     "join": "",
+     "name": "Nisan Stewart",
+     "resource_url": "https://api.discogs.com/artists/235918",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tim Mosley",
+     "id": 610304,
+     "join": "",
+     "name": "Timothy Mosley",
+     "resource_url": "https://api.discogs.com/artists/610304",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Glow",
+   "type_": "track"
+  },
+  {
+   "duration": "4:15",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 203734,
+     "join": "",
+     "name": "Danja",
+     "resource_url": "https://api.discogs.com/artists/203734",
+     "role": "Drums, Keyboards, Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 262770,
+     "join": "",
+     "name": "Nate Hills",
+     "resource_url": "https://api.discogs.com/artists/262770",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Showtime",
+   "type_": "track"
+  },
+  {
+   "duration": "3:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 545564,
+     "join": "",
+     "name": "Jim Beanz",
+     "resource_url": "https://api.discogs.com/artists/545564",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 235918,
+     "join": "",
+     "name": "Nisan Stewart",
+     "resource_url": "https://api.discogs.com/artists/235918",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 203734,
+     "join": "",
+     "name": "Danja",
+     "resource_url": "https://api.discogs.com/artists/203734",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 262770,
+     "join": "",
+     "name": "Nate Hills",
+     "resource_url": "https://api.discogs.com/artists/262770",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 235918,
+     "join": "",
+     "name": "Nisan Stewart",
+     "resource_url": "https://api.discogs.com/artists/235918",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tim Mosley",
+     "id": 610304,
+     "join": "",
+     "name": "Timothy Mosley",
+     "resource_url": "https://api.discogs.com/artists/610304",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "No Hay Igual",
+   "type_": "track"
+  },
+  {
+   "duration": "3:38",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 321793,
+     "join": "",
+     "name": "Juanes",
+     "resource_url": "https://api.discogs.com/artists/321793",
+     "role": "Electric Guitar, Acoustic Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 279497,
+     "join": "",
+     "name": "Ramon Stagnaro",
+     "resource_url": "https://api.discogs.com/artists/279497",
+     "role": "Electric Guitar, Acoustic Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 321793,
+     "join": "",
+     "name": "Juanes",
+     "resource_url": "https://api.discogs.com/artists/321793",
+     "role": "Featuring, Vocals [Featured Vocal]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 88615,
+     "join": "",
+     "name": "Lester Mendez",
+     "resource_url": "https://api.discogs.com/artists/88615",
+     "role": "Instrumentation By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 454200,
+     "join": "",
+     "name": "Daniel Stone",
+     "resource_url": "https://api.discogs.com/artists/454200",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 499333,
+     "join": "",
+     "name": "Luis Orbegoso",
+     "resource_url": "https://api.discogs.com/artists/499333",
+     "role": "Percussion",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 321793,
+     "join": "",
+     "name": "Juanes",
+     "resource_url": "https://api.discogs.com/artists/321793",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 88615,
+     "join": "",
+     "name": "Lester Mendez",
+     "resource_url": "https://api.discogs.com/artists/88615",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Te Busque",
+   "type_": "track"
+  },
+  {
+   "duration": "3:43",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 545564,
+     "join": "",
+     "name": "Jim Beanz",
+     "resource_url": "https://api.discogs.com/artists/545564",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 413955,
+     "join": "",
+     "name": "Kevin Rudolf",
+     "resource_url": "https://api.discogs.com/artists/413955",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 203734,
+     "join": "",
+     "name": "Danja",
+     "resource_url": "https://api.discogs.com/artists/203734",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 262770,
+     "join": "",
+     "name": "Nate Hills",
+     "resource_url": "https://api.discogs.com/artists/262770",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tim Mosley",
+     "id": 610304,
+     "join": "",
+     "name": "Timothy Mosley",
+     "resource_url": "https://api.discogs.com/artists/610304",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Say It Right",
+   "type_": "track"
+  },
+  {
+   "duration": "3:41",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 203734,
+     "join": "",
+     "name": "Danja",
+     "resource_url": "https://api.discogs.com/artists/203734",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 819225,
+     "join": "",
+     "name": "Demacio \"Demo\" Castellon",
+     "resource_url": "https://api.discogs.com/artists/819225",
+     "role": "Programmed By [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 262770,
+     "join": "",
+     "name": "Nate Hills",
+     "resource_url": "https://api.discogs.com/artists/262770",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tim Mosley",
+     "id": 610304,
+     "join": "",
+     "name": "Timothy Mosley",
+     "resource_url": "https://api.discogs.com/artists/610304",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Do It",
+   "type_": "track"
+  },
+  {
+   "duration": "4:54",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 67614,
+     "join": "",
+     "name": "Rick Nowels",
+     "resource_url": "https://api.discogs.com/artists/67614",
+     "role": "Acoustic Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 253545,
+     "join": "",
+     "name": "Rusty Anderson",
+     "resource_url": "https://api.discogs.com/artists/253545",
+     "role": "Acoustic Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 341947,
+     "join": "",
+     "name": "David Campbell",
+     "resource_url": "https://api.discogs.com/artists/341947",
+     "role": "Arranged By [Strings], Conductor [Strings]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 454183,
+     "join": "",
+     "name": "Dean Jarvis",
+     "resource_url": "https://api.discogs.com/artists/454183",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 265001,
+     "join": "",
+     "name": "Larry Corbett",
+     "resource_url": "https://api.discogs.com/artists/265001",
+     "role": "Cello",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 576998,
+     "join": "",
+     "name": "Paula Hochhalter",
+     "resource_url": "https://api.discogs.com/artists/576998",
+     "role": "Cello",
+     "tracks": ""
+    },
+    {
+     "anv": "Stever Richards",
+     "id": 274699,
+     "join": "",
+     "name": "Steve Richards",
+     "resource_url": "https://api.discogs.com/artists/274699",
+     "role": "Cello",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 293884,
+     "join": "",
+     "name": "Suzie Katayama",
+     "resource_url": "https://api.discogs.com/artists/293884",
+     "role": "Cello",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 293884,
+     "join": "",
+     "name": "Suzie Katayama",
+     "resource_url": "https://api.discogs.com/artists/293884",
+     "role": "Contractor [Strings]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 742181,
+     "join": "",
+     "name": "Tara Saremi",
+     "resource_url": "https://api.discogs.com/artists/742181",
+     "role": "Coordinator [Production]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 460493,
+     "join": "",
+     "name": "Sam Littlemore",
+     "resource_url": "https://api.discogs.com/artists/460493",
+     "role": "Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 112557,
+     "join": "",
+     "name": "Wayne Rodrigues",
+     "resource_url": "https://api.discogs.com/artists/112557",
+     "role": "Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 293887,
+     "join": "",
+     "name": "Joey Waronker",
+     "resource_url": "https://api.discogs.com/artists/293887",
+     "role": "Drums [Live]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 67614,
+     "join": "",
+     "name": "Rick Nowels",
+     "resource_url": "https://api.discogs.com/artists/67614",
+     "role": "Electric Guitar, Grand Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "Greg Kurtsin",
+     "id": 277673,
+     "join": "",
+     "name": "Greg Kurstin",
+     "resource_url": "https://api.discogs.com/artists/277673",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109822,
+     "join": "",
+     "name": "Jamie Muhoberac",
+     "resource_url": "https://api.discogs.com/artists/109822",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 67614,
+     "join": "",
+     "name": "Rick Nowels",
+     "resource_url": "https://api.discogs.com/artists/67614",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "Amen Garabedian",
+     "id": 408285,
+     "join": "",
+     "name": "Armen Garabedian",
+     "resource_url": "https://api.discogs.com/artists/408285",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 629163,
+     "join": "",
+     "name": "Gerardo Hilera",
+     "resource_url": "https://api.discogs.com/artists/629163",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274700,
+     "join": "",
+     "name": "Joel Derouin",
+     "resource_url": "https://api.discogs.com/artists/274700",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 381887,
+     "join": "",
+     "name": "Josefina Vergara",
+     "resource_url": "https://api.discogs.com/artists/381887",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 413964,
+     "join": "",
+     "name": "Mario DeLeon",
+     "resource_url": "https://api.discogs.com/artists/413964",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 294716,
+     "join": "",
+     "name": "Peter Kent (2)",
+     "resource_url": "https://api.discogs.com/artists/294716",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 381893,
+     "join": "",
+     "name": "Roberto Cani",
+     "resource_url": "https://api.discogs.com/artists/381893",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 676820,
+     "join": "",
+     "name": "Sharon Jackson (2)",
+     "resource_url": "https://api.discogs.com/artists/676820",
+     "role": "Violin",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 67614,
+     "join": "",
+     "name": "Rick Nowels",
+     "resource_url": "https://api.discogs.com/artists/67614",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "In God's Hands",
+   "type_": "track"
+  },
+  {
+   "duration": "5:11",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 203734,
+     "join": "",
+     "name": "Danja",
+     "resource_url": "https://api.discogs.com/artists/203734",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 819225,
+     "join": "",
+     "name": "Demacio \"Demo\" Castellon",
+     "resource_url": "https://api.discogs.com/artists/819225",
+     "role": "Programmed By [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 262770,
+     "join": "",
+     "name": "Nate Hills",
+     "resource_url": "https://api.discogs.com/artists/262770",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tim Mosley",
+     "id": 610304,
+     "join": "",
+     "name": "Timothy Mosley",
+     "resource_url": "https://api.discogs.com/artists/610304",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Wait For You",
+   "type_": "track"
+  },
+  {
+   "duration": "5:11",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 545564,
+     "join": "",
+     "name": "Jim Beanz",
+     "resource_url": "https://api.discogs.com/artists/545564",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Backing Vocals [Background Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 417081,
+     "join": "",
+     "name": "Dan Warner",
+     "resource_url": "https://api.discogs.com/artists/417081",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 203734,
+     "join": "",
+     "name": "Danja",
+     "resource_url": "https://api.discogs.com/artists/203734",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 42610,
+     "join": "",
+     "name": "Chris Martin",
+     "resource_url": "https://api.discogs.com/artists/42610",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 262770,
+     "join": "",
+     "name": "Nate Hills",
+     "resource_url": "https://api.discogs.com/artists/262770",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Tim Mosley",
+     "id": 610304,
+     "join": "",
+     "name": "Timothy Mosley",
+     "resource_url": "https://api.discogs.com/artists/610304",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "All Good Things (Come To An End)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "",
+   "title": "Bonus Track",
+   "type_": "heading"
+  },
+  {
+   "duration": "3:38",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 321793,
+     "join": "",
+     "name": "Juanes",
+     "resource_url": "https://api.discogs.com/artists/321793",
+     "role": "Acoustic Guitar [Uncredited], Electric Guitar [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 279497,
+     "join": "",
+     "name": "Ramon Stagnaro",
+     "resource_url": "https://api.discogs.com/artists/279497",
+     "role": "Acoustic Guitar [Uncredited], Electric Guitar [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 321793,
+     "join": "",
+     "name": "Juanes",
+     "resource_url": "https://api.discogs.com/artists/321793",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 454200,
+     "join": "",
+     "name": "Daniel Stone",
+     "resource_url": "https://api.discogs.com/artists/454200",
+     "role": "Percussion [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 499333,
+     "join": "",
+     "name": "Luis Orbegoso",
+     "resource_url": "https://api.discogs.com/artists/499333",
+     "role": "Percussion [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 321793,
+     "join": "",
+     "name": "Juanes",
+     "resource_url": "https://api.discogs.com/artists/321793",
+     "role": "Written-By [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 88615,
+     "join": "",
+     "name": "Lester Mendez",
+     "resource_url": "https://api.discogs.com/artists/88615",
+     "role": "Written-By [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21731,
+     "join": "",
+     "name": "Nelly Furtado",
+     "resource_url": "https://api.discogs.com/artists/21731",
+     "role": "Written-By [Uncredited]",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Te Busque (Spanish Version)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/29088673-Nelly-Furtado-Loose",
+ "year": 2023
+}

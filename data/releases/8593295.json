@@ -1,0 +1,73 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1202712,
+   "join": "",
+   "name": "Midland",
+   "resource_url": "https://api.discogs.com/artists/1202712",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/KDzG9Xg6v2lZxpQB2hgwDYrr3zgUzpLPl1oI1R-Khy0/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyMDI3/MTItMTcwMDU2MzMy/My0yMTYxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 8593295,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/YLyPqANOfiEXKBqUTXwY14jxancnZlkLe-FouwwRBI4/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTMy/OTUtMTUyMjAwODc4/OS04Njk3LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/YLyPqANOfiEXKBqUTXwY14jxancnZlkLe-FouwwRBI4/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTMy/OTUtMTUyMjAwODc4/OS04Njk3LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/X3iaumH6u6i4tQTfwChXImCW6F4OIRBu73fefoEYCts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTMy/OTUtMTUyMjAwODc4/OS04Njk3LmpwZWc.jpeg",
+   "width": 588
+  }
+ ],
+ "labels": [
+  {
+   "catno": "REGRD003",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 910478,
+   "name": "Regraded",
+   "resource_url": "https://api.discogs.com/labels/910478",
+   "thumbnail_url": "https://i.discogs.com/j5yuq0LAph5hbqEQRIFN700Ba-PrKupm84GGfadU1ZM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkxMDQ3/OC0xNDQ3ODY2OTA1/LTYzMzkuanBlZw.jpeg"
+  }
+ ],
+ "notes": "Side A samples:\nInstrumental from [r2180152].\nVocals from [r1790199].",
+ "released": "2016-05-31",
+ "styles": [
+  "House"
+ ],
+ "title": "Final Credits",
+ "tracklist": [
+  {
+   "duration": "7:23",
+   "position": "A",
+   "title": "Final Credits",
+   "type_": "track"
+  },
+  {
+   "duration": "5:59",
+   "position": "B",
+   "title": "Vigilante",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/8593295-Midland-Final-Credits",
+ "year": 2016
+}

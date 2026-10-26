@@ -1,0 +1,380 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1289,
+   "join": "",
+   "name": "Daft Punk",
+   "resource_url": "https://api.discogs.com/artists/1289",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/sP_wDoC5MsG9lZUfb9thLbpmMmL__nuVnGMNpwgjirE/rs:fit/g:sm/q:90/h:438/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyODkt/MTYxNTQ4NDUyOS00/Mjg0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 236605,
+ "images": [
+  {
+   "height": 574,
+   "resource_url": "https://i.discogs.com/TDewIv-a8M9cx0W8odZiKHXM6x4o9CCBE2rVuBUIpog/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjYw/NS0xNDkyODUzODYy/LTI1MjguanBlZw.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/TDewIv-a8M9cx0W8odZiKHXM6x4o9CCBE2rVuBUIpog/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjYw/NS0xNDkyODUzODYy/LTI1MjguanBlZw.jpeg",
+   "uri150": "https://i.discogs.com/CvsIXopUZLVUTuWb1DKDzgDSOOwFoROPcnlaulKrmXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjYw/NS0xNDkyODUzODYy/LTI1MjguanBlZw.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "V 2821",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 750,
+   "name": "Virgin",
+   "resource_url": "https://api.discogs.com/labels/750",
+   "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+  },
+  {
+   "catno": "7243 8 42609 10",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 750,
+   "name": "Virgin",
+   "resource_url": "https://api.discogs.com/labels/750",
+   "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+  },
+  {
+   "catno": "V 2821",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 18,
+   "name": "Soma Quality Recordings",
+   "resource_url": "https://api.discogs.com/labels/18",
+   "thumbnail_url": "https://i.discogs.com/N1xk4b6xv7o5FMWX_fw1k5ZbFZOEweFcGKnIbhMuQeA/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4LTE2/MTU2NjQ1MzEtODY2/Ny5qcGVn.jpeg"
+  },
+  {
+   "catno": "7243 8 42609 10",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 18,
+   "name": "Soma Quality Recordings",
+   "resource_url": "https://api.discogs.com/labels/18",
+   "thumbnail_url": "https://i.discogs.com/N1xk4b6xv7o5FMWX_fw1k5ZbFZOEweFcGKnIbhMuQeA/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4LTE2/MTU2NjQ1MzEtODY2/Ny5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Gatefold sleeve with embossed 'Daft Punk' logo on front. Includes colour printed inner sleeves.\n\n[Insert]\nDaftendirekt: Recorded live at a Fuse Party in Gent. [this '[l=I Love Techno]' party, organised by Brussels [l=Fuse Club] was held in Gent Vooruit on November 10, 1995]\nIndo Silver Club: This track contains a sample of \"Hot Shot\" performed by [a33201], courtesy of [l=Sunshine Entertainment].\n\nMixed and recorded @ Daft House, in Paris, France\nMastered at The Exchange, in London\nSleeve concept & art direction: for Daft Arts\nAlbum layout & additional artwork: @ Magic Design\nDaft punk logo created for Daft Arts\nThe tracks [A]4, [B]8, [D]14 & [D]15 were originally released on [l18].\n℗ & © 1996 Daft Trax / The copyright in this recording is owned by Daft Trax under exclusive license to Virgin France / Virgin Records Ltd. © 1996 Daft Trax / Printed in France.\n\n[Rear]\nAll tracks written & produced for Daft Trax\nPublished by Zomba Music for World excluding France\nDelabel Editions / Daft Music for France\n℗&© 1996 Daft Trax under exclusive license to Virgin France / Virgin Records Ltd.\nPrinted in France\n\nThe labels and inner sleeves have different catalogue numbers printed for the french release: \nSide A & B: 7243 8 42610 16 / Side C & D: 7243 8 42611 15.\n\nOn spine, printed: DAFT PUNK \"Homework\" UK: V 2821 / F: 7243 8 42609 10 \n\nBPM is not provided on the record.\nBPM:\nA1: 111 | A2: 111 | A3: 127 | A4: 111 | A5: 127\nB6: 127 | B7: 121 | B8: 130\nC9: 123 | C10: 126 | C11: 135 | C12: 127\nD13: 124 | D14: 126 | D15: 129 | D16: 112",
+ "released": "2001",
+ "styles": [
+  "House",
+  "Techno",
+  "Disco",
+  "Electro",
+  "French House"
+ ],
+ "title": "Homework",
+ "tracklist": [
+  {
+   "duration": "2:44",
+   "position": "A1",
+   "title": "Daftendirekt",
+   "type_": "track"
+  },
+  {
+   "duration": "0:28",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Producer [Broadcasted By]",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "WDPK 83.7 FM",
+   "type_": "track"
+  },
+  {
+   "duration": "5:26",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Producer [Déclenchée By]",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Revolution 909",
+   "type_": "track"
+  },
+  {
+   "duration": "5:28",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Producer [Funked Up By]",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Da Funk",
+   "type_": "track"
+  },
+  {
+   "duration": "4:55",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Producer [Preached By]",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Phœnix",
+   "type_": "track"
+  },
+  {
+   "duration": "4:03",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Producer [Surfed Up By]",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Fresh",
+   "type_": "track"
+  },
+  {
+   "duration": "7:07",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Producer [Dispatched By]",
+     "tracks": ""
+    }
+   ],
+   "position": "B7",
+   "title": "Around The World",
+   "type_": "track"
+  },
+  {
+   "duration": "7:26",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Producer [Rolled & Schratched By]",
+     "tracks": ""
+    }
+   ],
+   "position": "B8",
+   "title": "Rollin' & Scratchin'",
+   "type_": "track"
+  },
+  {
+   "duration": "2:52",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Producer [Learned By]",
+     "tracks": ""
+    }
+   ],
+   "position": "C9",
+   "title": "Teachers",
+   "type_": "track"
+  },
+  {
+   "duration": "6:00",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Producer [E.Q.'d By]",
+     "tracks": ""
+    }
+   ],
+   "position": "C10",
+   "title": "High Fidelity",
+   "type_": "track"
+  },
+  {
+   "duration": "7:32",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Producer [Twisted By]",
+     "tracks": ""
+    }
+   ],
+   "position": "C11",
+   "title": "Rock'n Roll",
+   "type_": "track"
+  },
+  {
+   "duration": "2:00",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 349882,
+     "join": "",
+     "name": "DJ Crabbe",
+     "resource_url": "https://api.discogs.com/artists/349882",
+     "role": "Guest [Introducing Special Guests]",
+     "tracks": ""
+    },
+    {
+     "anv": "DJ Deelat",
+     "id": 8764,
+     "join": "",
+     "name": "Deelat",
+     "resource_url": "https://api.discogs.com/artists/8764",
+     "role": "Guest [Introducing Special Guests]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Producer [Shouted By]",
+     "tracks": ""
+    }
+   ],
+   "position": "C12",
+   "title": "Oh Yeah",
+   "type_": "track"
+  },
+  {
+   "duration": "6:53",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Producer [Set On Fire By]",
+     "tracks": ""
+    }
+   ],
+   "position": "D13",
+   "title": "Burnin'",
+   "type_": "track"
+  },
+  {
+   "duration": "4:32",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 33201,
+     "join": "",
+     "name": "Karen Young",
+     "resource_url": "https://api.discogs.com/artists/33201",
+     "role": "Performer [Hot Shot]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Producer [Hosted By]",
+     "tracks": ""
+    }
+   ],
+   "position": "D14",
+   "title": "Indo Silver Club",
+   "type_": "track"
+  },
+  {
+   "duration": "5:15",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Producer [Created By]",
+     "tracks": ""
+    }
+   ],
+   "position": "D15",
+   "title": "Alive",
+   "type_": "track"
+  },
+  {
+   "duration": "0:50",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1289,
+     "join": "",
+     "name": "Daft Punk",
+     "resource_url": "https://api.discogs.com/artists/1289",
+     "role": "Producer [Added By]",
+     "tracks": ""
+    }
+   ],
+   "position": "D16",
+   "title": "Funk Ad",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/236605-Daft-Punk-Homework",
+ "year": 2001
+}

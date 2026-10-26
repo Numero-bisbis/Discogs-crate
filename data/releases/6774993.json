@@ -1,0 +1,72 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 447159,
+   "join": "",
+   "name": "Alan Fitzpatrick",
+   "resource_url": "https://api.discogs.com/artists/447159",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/HZNFrSf4RJ3snlk_BrxRBklkmW8OkXgqKH8W9swFVX0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ0NzE1/OS0xMzkzNTA2Nzkx/LTgzMjAuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Sweden",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 6774993,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/KAcTYwFPNSGbv4lFlKIi4eEzCnwbkYRIEliQVMkxTFQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzQ5/OTMtMTQyNjQxNDgy/Ni04OTg5LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/KAcTYwFPNSGbv4lFlKIi4eEzCnwbkYRIEliQVMkxTFQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzQ5/OTMtMTQyNjQxNDgy/Ni04OTg5LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/xl17Sl1ku4qvxTSbijWsWxvuQi7pgBXsxtadVNs9aiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzQ5/OTMtMTQyNjQxNDgy/Ni04OTg5LmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DC134.5",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 237,
+   "name": "Drumcode",
+   "resource_url": "https://api.discogs.com/labels/237",
+   "thumbnail_url": "https://i.discogs.com/1rrViQveJmRumM48FWYOYNsJD3-iahuaYprtxJgsAQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNy0x/NjkyOTkxNjY2LTg2/NjgucG5n.jpeg"
+  }
+ ],
+ "notes": "Organic contains a sample from \"The Revolution\" by Superchumbo, courtesy of TWISTED Records Inc.",
+ "released": "2015-03-00",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Turn Down The Lights",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Organic",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "OCD",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/6774993-Alan-Fitzpatrick-Turn-Down-The-Lights",
+ "year": 2015
+}

@@ -1,0 +1,158 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5218193,
+   "join": "",
+   "name": "Amber Mark",
+   "resource_url": "https://api.discogs.com/artists/5218193",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/e-FRiKQIj9EC8HRvL77hdEoE7y0PWXg03Mwltz1-9TM/rs:fit/g:sm/q:90/h:600/w:458/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyMTgx/OTMtMTc1MjQxNDgy/My00OTgzLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "EP",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Funk / Soul",
+  "Pop"
+ ],
+ "id": 12069591,
+ "images": [
+  {
+   "height": 500,
+   "resource_url": "https://i.discogs.com/AIhPgQB7QW1BW8MetzIlX8V-tB_WV6bSHAqY7gUIozU/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY5/NTkxLTE1Mjc2Nzg1/MDItNjc3My5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/AIhPgQB7QW1BW8MetzIlX8V-tB_WV6bSHAqY7gUIozU/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY5/NTkxLTE1Mjc2Nzg1/MDItNjc3My5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/59tlBXOfGDdKFLZzLP0FAOKgDP8g7mwiaMX7b6SnfoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY5/NTkxLTE1Mjc2Nzg1/MDItNjc3My5qcGVn.jpeg",
+   "width": 500
+  }
+ ],
+ "labels": [
+  {
+   "catno": "VST 2166",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 567148,
+   "name": "Virgin EMI Records",
+   "resource_url": "https://api.discogs.com/labels/567148",
+   "thumbnail_url": "https://i.discogs.com/XsG8mbTKzKRPTI9d0X3ruqyOv5-iLee4yiUbwnR-7HU/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU2NzE0/OC0xNTI0NjkzMzk4/LTc0ODYucG5n.jpeg"
+  }
+ ],
+ "notes": "Made in the EU",
+ "released": "2018-07-14",
+ "styles": [
+  "Contemporary R&B"
+ ],
+ "title": "Conexão",
+ "tracklist": [
+  {
+   "duration": "4:59",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5218193,
+     "join": "",
+     "name": "Amber Mark",
+     "resource_url": "https://api.discogs.com/artists/5218193",
+     "role": "Songwriter",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Conexão",
+   "type_": "track"
+  },
+  {
+   "duration": "4:51",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5218193,
+     "join": "",
+     "name": "Amber Mark",
+     "resource_url": "https://api.discogs.com/artists/5218193",
+     "role": "Songwriter",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2024786,
+     "join": "",
+     "name": "Andrew Wansel",
+     "resource_url": "https://api.discogs.com/artists/2024786",
+     "role": "Songwriter",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Love Me Right",
+   "type_": "track"
+  },
+  {
+   "duration": "3:52",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 209279,
+     "join": "",
+     "name": "Andrew Hale",
+     "resource_url": "https://api.discogs.com/artists/209279",
+     "role": "Songwriter",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 482893,
+     "join": "",
+     "name": "Sade Adu",
+     "resource_url": "https://api.discogs.com/artists/482893",
+     "role": "Songwriter",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9049,
+     "join": "",
+     "name": "Stuart Matthewman",
+     "resource_url": "https://api.discogs.com/artists/9049",
+     "role": "Songwriter",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Love Is Stronger Than Pride",
+   "type_": "track"
+  },
+  {
+   "duration": "3:49",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5218193,
+     "join": "",
+     "name": "Amber Mark",
+     "resource_url": "https://api.discogs.com/artists/5218193",
+     "role": "Songwriter",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "All The Work",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12069591-Amber-Mark-Conexão",
+ "year": 2018
+}

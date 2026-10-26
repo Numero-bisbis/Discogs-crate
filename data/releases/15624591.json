@@ -1,0 +1,105 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5674323,
+   "join": "",
+   "name": "Waaju",
+   "resource_url": "https://api.discogs.com/artists/5674323",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/zJGV23AraLS3PiWtPHHwli1_pHdYB1H7eI_MC0vwfWM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU2NzQz/MjMtMTUzMDc5NTk5/NS04NjYyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 15624591,
+ "images": [
+  {
+   "height": 598,
+   "resource_url": "https://i.discogs.com/tg7h0vs8kYXQ9NCBwSREWfIQef1qlmW9wc90Jf1mmow/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI0/NTkxLTE1OTQ4NTYz/NzYtMTA2Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/tg7h0vs8kYXQ9NCBwSREWfIQef1qlmW9wc90Jf1mmow/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI0/NTkxLTE1OTQ4NTYz/NzYtMTA2Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/SQh2dD0juCDzhIKbRuYmM8ocYWzCopH7higg_aR4oDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI0/NTkxLTE1OTQ4NTYz/NzYtMTA2Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ORLP005",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1201075,
+   "name": "Olindo",
+   "resource_url": "https://api.discogs.com/labels/1201075",
+   "thumbnail_url": "https://i.discogs.com/pryKL7oKGTCu3pYEouzkcvIoKdXW7iM9hlGsngj3Q5w/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMDEw/NzUtMTQ5MTMyMDQy/My00NTcyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2020-06-12",
+ "styles": [],
+ "title": "Grown",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Moleman",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Listening Glasses",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Rollando",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3432392,
+     "join": "",
+     "name": "Will Heard",
+     "resource_url": "https://api.discogs.com/artists/3432392",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Time’s Got A Hold",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Wassoulou",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Grown",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/15624591-Waaju-Grown",
+ "year": 2020
+}

@@ -1,0 +1,894 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3057476,
+   "join": "",
+   "name": "Joey Bada$$",
+   "resource_url": "https://api.discogs.com/artists/3057476",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/j96Dg5kJVHzxoftF-vUdRj-WJUADi96-3RMlkOaHGsc/rs:fit/g:sm/q:90/h:600/w:514/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMwNTc0/NzYtMTY2MTAyNTY4/MS0yMjI4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "USA & Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 10090232,
+ "images": [
+  {
+   "height": 593,
+   "resource_url": "https://i.discogs.com/MjrRsZJrJTbX_cXDkmP1TpdSVW0yPlkBaHg30OG0LYk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/MjMyLTE3NDM2MTc3/NzktMjY0MS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/MjrRsZJrJTbX_cXDkmP1TpdSVW0yPlkBaHg30OG0LYk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/MjMyLTE3NDM2MTc3/NzktMjY0MS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/yAmZ31UD8D1wN6M__mZzn27uBgKcqYGxfJL-Cl2UJQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/MjMyLTE3NDM2MTc3/NzktMjY0MS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "CNMTLP2550",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 594417,
+   "name": "Pro Era",
+   "resource_url": "https://api.discogs.com/labels/594417",
+   "thumbnail_url": "https://i.discogs.com/vvWfq2IDeOiez2uUhHBr0cIOBVQ3FKcwCrPjqFVhFn8/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU5NDQx/Ny0xNTAyNzQ0NjM1/LTk0MzUucG5n.jpeg"
+  },
+  {
+   "catno": "CNMTLP2550",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 365726,
+   "name": "Cinematic Music Group",
+   "resource_url": "https://api.discogs.com/labels/365726",
+   "thumbnail_url": "https://i.discogs.com/93ESoOBAVhcXtPMvRdSifW3lRtWJ4JcAgoUqvuiQZ1A/rs:fit/g:sm/q:90/h:180/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2NTcy/Ni0xNDY4OTU4NTkz/LTQ5NzEuanBlZw.jpeg"
+  }
+ ],
+ "notes": "Gatefold\nMade in EU",
+ "released": "2017-04-07",
+ "styles": [
+  "Conscious"
+ ],
+ "title": "All-Amerikkkan Bada$$",
+ "tracklist": [
+  {
+   "duration": "1:38",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 192940,
+     "join": "",
+     "name": "DJ Khalil",
+     "resource_url": "https://api.discogs.com/artists/192940",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Dan Seff",
+     "id": 361572,
+     "join": "",
+     "name": "Daniel Seeff",
+     "resource_url": "https://api.discogs.com/artists/361572",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Jo-Vaughn Virginie",
+     "id": 3116197,
+     "join": "",
+     "name": "Jo-Vaughn Scott",
+     "resource_url": "https://api.discogs.com/artists/3116197",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Khalil Abdul Rahman",
+     "id": 640084,
+     "join": "",
+     "name": "Khalil Abdul-Rahman",
+     "resource_url": "https://api.discogs.com/artists/640084",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 304731,
+     "join": "",
+     "name": "Sam Barsh",
+     "resource_url": "https://api.discogs.com/artists/304731",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Good Morning Amerikkka",
+   "type_": "track"
+  },
+  {
+   "duration": "3:53",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5682154,
+     "join": "",
+     "name": "1-900 (3)",
+     "resource_url": "https://api.discogs.com/artists/5682154",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 192940,
+     "join": "",
+     "name": "DJ Khalil",
+     "resource_url": "https://api.discogs.com/artists/192940",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Adam B Pallin",
+     "id": 1165063,
+     "join": "",
+     "name": "Adam Pallin",
+     "resource_url": "https://api.discogs.com/artists/1165063",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Dan Seff",
+     "id": 361572,
+     "join": "",
+     "name": "Daniel Seeff",
+     "resource_url": "https://api.discogs.com/artists/361572",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Jo-Vaughn Virginie",
+     "id": 3116197,
+     "join": "",
+     "name": "Jo-Vaughn Scott",
+     "resource_url": "https://api.discogs.com/artists/3116197",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Khalil Abdul Rahman",
+     "id": 640084,
+     "join": "",
+     "name": "Khalil Abdul-Rahman",
+     "resource_url": "https://api.discogs.com/artists/640084",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 304731,
+     "join": "",
+     "name": "Sam Barsh",
+     "resource_url": "https://api.discogs.com/artists/304731",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "For My People",
+   "type_": "track"
+  },
+  {
+   "duration": "4:04",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5682154,
+     "join": "",
+     "name": "1-900 (3)",
+     "resource_url": "https://api.discogs.com/artists/5682154",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3057474,
+     "join": "",
+     "name": "Kirk Knight",
+     "resource_url": "https://api.discogs.com/artists/3057474",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Adam B Pallin",
+     "id": 1165063,
+     "join": "",
+     "name": "Adam Pallin",
+     "resource_url": "https://api.discogs.com/artists/1165063",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Jo-Vaughn Virginie",
+     "id": 3116197,
+     "join": "",
+     "name": "Jo-Vaughn Scott",
+     "resource_url": "https://api.discogs.com/artists/3116197",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6229648,
+     "join": "",
+     "name": "Kirian Labarrie",
+     "resource_url": "https://api.discogs.com/artists/6229648",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Temptation",
+   "type_": "track"
+  },
+  {
+   "duration": "4:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5682154,
+     "join": "",
+     "name": "1-900 (3)",
+     "resource_url": "https://api.discogs.com/artists/5682154",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3057474,
+     "join": "",
+     "name": "Kirk Knight",
+     "resource_url": "https://api.discogs.com/artists/3057474",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Adam B Pallin",
+     "id": 1165063,
+     "join": "",
+     "name": "Adam Pallin",
+     "resource_url": "https://api.discogs.com/artists/1165063",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Jo-Vaughn Virginie",
+     "id": 3116197,
+     "join": "",
+     "name": "Jo-Vaughn Scott",
+     "resource_url": "https://api.discogs.com/artists/3116197",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6229648,
+     "join": "",
+     "name": "Kirian Labarrie",
+     "resource_url": "https://api.discogs.com/artists/6229648",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Land Of The Free",
+   "type_": "track"
+  },
+  {
+   "duration": "3:27",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5682154,
+     "join": "",
+     "name": "1-900 (3)",
+     "resource_url": "https://api.discogs.com/artists/5682154",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3057474,
+     "join": "",
+     "name": "Kirk Knight",
+     "resource_url": "https://api.discogs.com/artists/3057474",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3870834,
+     "join": "",
+     "name": "Powers Pleasant",
+     "resource_url": "https://api.discogs.com/artists/3870834",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Adam B Pallin",
+     "id": 1165063,
+     "join": "",
+     "name": "Adam Pallin",
+     "resource_url": "https://api.discogs.com/artists/1165063",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Jo-Vaughn Virginie",
+     "id": 3116197,
+     "join": "",
+     "name": "Jo-Vaughn Scott",
+     "resource_url": "https://api.discogs.com/artists/3116197",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6229648,
+     "join": "",
+     "name": "Kirian Labarrie",
+     "resource_url": "https://api.discogs.com/artists/6229648",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3870834,
+     "join": "",
+     "name": "Powers Pleasant",
+     "resource_url": "https://api.discogs.com/artists/3870834",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Devastated",
+   "type_": "track"
+  },
+  {
+   "duration": "3:19",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5682154,
+     "join": "",
+     "name": "1-900 (3)",
+     "resource_url": "https://api.discogs.com/artists/5682154",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3870834,
+     "join": "",
+     "name": "Powers Pleasant",
+     "resource_url": "https://api.discogs.com/artists/3870834",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Adam B Pallin",
+     "id": 1165063,
+     "join": "",
+     "name": "Adam Pallin",
+     "resource_url": "https://api.discogs.com/artists/1165063",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Jo-Vaughn Virginie",
+     "id": 3116197,
+     "join": "",
+     "name": "Jo-Vaughn Scott",
+     "resource_url": "https://api.discogs.com/artists/3116197",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3870834,
+     "join": "",
+     "name": "Powers Pleasant",
+     "resource_url": "https://api.discogs.com/artists/3870834",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Y U Don't Love Me? (Miss Amerikkka)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2353545,
+     "join": "",
+     "name": "Schoolboy Q",
+     "resource_url": "https://api.discogs.com/artists/2353545",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5682154,
+     "join": "",
+     "name": "1-900 (3)",
+     "resource_url": "https://api.discogs.com/artists/5682154",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3057481,
+     "join": "",
+     "name": "Chuck Strangers",
+     "resource_url": "https://api.discogs.com/artists/3057481",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Adam B Pallin",
+     "id": 1165063,
+     "join": "",
+     "name": "Adam Pallin",
+     "resource_url": "https://api.discogs.com/artists/1165063",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Che Jessamy",
+     "id": 4833049,
+     "join": "",
+     "name": "Chuck Jessamy",
+     "resource_url": "https://api.discogs.com/artists/4833049",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 166986,
+     "join": "",
+     "name": "Janko Nilovic",
+     "resource_url": "https://api.discogs.com/artists/166986",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Jo-Vaughn Virginie",
+     "id": 3116197,
+     "join": "",
+     "name": "Jo-Vaughn Scott",
+     "resource_url": "https://api.discogs.com/artists/3116197",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Quincy Hanley",
+     "id": 2962723,
+     "join": "",
+     "name": "Quincy Matthew Hanley",
+     "resource_url": "https://api.discogs.com/artists/2962723",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Rockabye Baby",
+   "type_": "track"
+  },
+  {
+   "duration": "4:20",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3057474,
+     "join": "",
+     "name": "Kirk Knight",
+     "resource_url": "https://api.discogs.com/artists/3057474",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Meechy Darko Of Flatbush Zombies",
+     "id": 3607430,
+     "join": "",
+     "name": "Meechy Darko",
+     "resource_url": "https://api.discogs.com/artists/3607430",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3057472,
+     "join": "",
+     "name": "Nyck Caution",
+     "resource_url": "https://api.discogs.com/artists/3057472",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5682154,
+     "join": "",
+     "name": "1-900 (3)",
+     "resource_url": "https://api.discogs.com/artists/5682154",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3057474,
+     "join": "",
+     "name": "Kirk Knight",
+     "resource_url": "https://api.discogs.com/artists/3057474",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Adam B Pallin",
+     "id": 1165063,
+     "join": "",
+     "name": "Adam Pallin",
+     "resource_url": "https://api.discogs.com/artists/1165063",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Demetri \"Meechy Darko\" Simms",
+     "id": 6229649,
+     "join": "",
+     "name": "Demetri Simms",
+     "resource_url": "https://api.discogs.com/artists/6229649",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6229650,
+     "join": "",
+     "name": "Jesse Cordasco",
+     "resource_url": "https://api.discogs.com/artists/6229650",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Jo-Vaughn Virginie",
+     "id": 3116197,
+     "join": "",
+     "name": "Jo-Vaughn Scott",
+     "resource_url": "https://api.discogs.com/artists/3116197",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6229648,
+     "join": "",
+     "name": "Kirian Labarrie",
+     "resource_url": "https://api.discogs.com/artists/6229648",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Ring The Alarm",
+   "type_": "track"
+  },
+  {
+   "duration": "4:12",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1917761,
+     "join": "",
+     "name": "Brady Watt",
+     "resource_url": "https://api.discogs.com/artists/1917761",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 126072,
+     "join": "",
+     "name": "Styles P",
+     "resource_url": "https://api.discogs.com/artists/126072",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5682154,
+     "join": "",
+     "name": "1-900 (3)",
+     "resource_url": "https://api.discogs.com/artists/5682154",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 349655,
+     "join": "",
+     "name": "Statik Selektah",
+     "resource_url": "https://api.discogs.com/artists/349655",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 6018228,
+     "join": "",
+     "name": "Utril Rhaburn",
+     "resource_url": "https://api.discogs.com/artists/6018228",
+     "role": "Saxophone",
+     "tracks": ""
+    },
+    {
+     "anv": "D. Styles",
+     "id": 645357,
+     "join": "",
+     "name": "David Styles",
+     "resource_url": "https://api.discogs.com/artists/645357",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Jo-Vaughn Virginie",
+     "id": 3116197,
+     "join": "",
+     "name": "Jo-Vaughn Scott",
+     "resource_url": "https://api.discogs.com/artists/3116197",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2513865,
+     "join": "",
+     "name": "Patrick Baril",
+     "resource_url": "https://api.discogs.com/artists/2513865",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Super Predator",
+   "type_": "track"
+  },
+  {
+   "duration": "5:36",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2616778,
+     "join": "",
+     "name": "Chronixx",
+     "resource_url": "https://api.discogs.com/artists/2616778",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5682154,
+     "join": "",
+     "name": "1-900 (3)",
+     "resource_url": "https://api.discogs.com/artists/5682154",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Like Of Pac Div",
+     "id": 1719596,
+     "join": "",
+     "name": "Like (2)",
+     "resource_url": "https://api.discogs.com/artists/1719596",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Adam B Pallin",
+     "id": 1165063,
+     "join": "",
+     "name": "Adam Pallin",
+     "resource_url": "https://api.discogs.com/artists/1165063",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G. Stevenson",
+     "id": 2983568,
+     "join": "",
+     "name": "Gabriel Stevenson",
+     "resource_url": "https://api.discogs.com/artists/2983568",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Jamar McMoughton",
+     "id": 3762754,
+     "join": "",
+     "name": "Jamar McNaughton",
+     "resource_url": "https://api.discogs.com/artists/3762754",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Jo-Vaughn Virginie",
+     "id": 3116197,
+     "join": "",
+     "name": "Jo-Vaughn Scott",
+     "resource_url": "https://api.discogs.com/artists/3116197",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Babylon",
+   "type_": "track"
+  },
+  {
+   "duration": "4:38",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 750828,
+     "join": "",
+     "name": "J. Cole",
+     "resource_url": "https://api.discogs.com/artists/750828",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5682154,
+     "join": "",
+     "name": "1-900 (3)",
+     "resource_url": "https://api.discogs.com/artists/5682154",
+     "role": "Guitar, Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 349655,
+     "join": "",
+     "name": "Statik Selektah",
+     "resource_url": "https://api.discogs.com/artists/349655",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2467995,
+     "join": "",
+     "name": "Cas Weinbren",
+     "resource_url": "https://api.discogs.com/artists/2467995",
+     "role": "Synth [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2050487,
+     "join": "",
+     "name": "Andile Yenana",
+     "resource_url": "https://api.discogs.com/artists/2050487",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2265982,
+     "join": "",
+     "name": "Jermaine Cole",
+     "resource_url": "https://api.discogs.com/artists/2265982",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Jo-Vaughn Virginie",
+     "id": 3116197,
+     "join": "",
+     "name": "Jo-Vaughn Scott",
+     "resource_url": "https://api.discogs.com/artists/3116197",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2513865,
+     "join": "",
+     "name": "Patrick Baril",
+     "resource_url": "https://api.discogs.com/artists/2513865",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Legendary ",
+   "type_": "track"
+  },
+  {
+   "duration": "6:12",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 192940,
+     "join": "",
+     "name": "DJ Khalil",
+     "resource_url": "https://api.discogs.com/artists/192940",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "Dan Seff",
+     "id": 361572,
+     "join": "",
+     "name": "Daniel Seeff",
+     "resource_url": "https://api.discogs.com/artists/361572",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Jo-Vaughn Virginie",
+     "id": 3116197,
+     "join": "",
+     "name": "Jo-Vaughn Scott",
+     "resource_url": "https://api.discogs.com/artists/3116197",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Khalil Abdul Rahman",
+     "id": 640084,
+     "join": "",
+     "name": "Khalil Abdul-Rahman",
+     "resource_url": "https://api.discogs.com/artists/640084",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1639779,
+     "join": "",
+     "name": "Pranam Injeti",
+     "resource_url": "https://api.discogs.com/artists/1639779",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 304731,
+     "join": "",
+     "name": "Sam Barsh",
+     "resource_url": "https://api.discogs.com/artists/304731",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Amerikkkan Idol",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10090232-Joey-Bada-All-Amerikkkan-Bada",
+ "year": 2017
+}

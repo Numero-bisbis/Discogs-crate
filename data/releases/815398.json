@@ -1,0 +1,181 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 164581,
+   "join": "",
+   "name": "Nomad Soul",
+   "resource_url": "https://api.discogs.com/artists/164581",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/IyJoWKAShd-eeEVGM83oNDyEQEWtt2uitga94S3DlwY/rs:fit/g:sm/q:90/h:563/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2NDU4/MS0xMjM5NzM3MTQ5/LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "Promo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Funk / Soul"
+ ],
+ "id": 815398,
+ "images": [
+  {
+   "height": 586,
+   "resource_url": "https://i.discogs.com/YjUI4ukkZl3JhgY7RNfrKGVUqFiqndUxorhJaSfIEyU/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTM5/OC0xNTgxMzIxNDcx/LTY5NzYuanBlZw.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/YjUI4ukkZl3JhgY7RNfrKGVUqFiqndUxorhJaSfIEyU/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTM5/OC0xNTgxMzIxNDcx/LTY5NzYuanBlZw.jpeg",
+   "uri150": "https://i.discogs.com/_SVBTOq1rMScCdU8Z4qLMrjZgMIweJzKXIiu1R6kuVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTM5/OC0xNTgxMzIxNDcx/LTY5NzYuanBlZw.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "NOMAD 1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 8377,
+   "name": "Island Records",
+   "resource_url": "https://api.discogs.com/labels/8377",
+   "thumbnail_url": "https://i.discogs.com/Fxrre24n1gnsNRrmjrwjMC79o2Sp-rGzcuYQ-yqUyUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzNzct/MTYzNjU4Mjc0NC04/MDg5LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Plays same tracks both sides.",
+ "released": "1991",
+ "styles": [
+  "UK Street Soul"
+ ],
+ "title": "Candy Mountain",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 131299,
+     "join": "",
+     "name": "Will O'Donovan",
+     "resource_url": "https://api.discogs.com/artists/131299",
+     "role": "Engineer",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Candy Mountain (Radio Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Mark \"Spike\" Stent",
+     "id": 211449,
+     "join": "",
+     "name": "Mark Stent",
+     "resource_url": "https://api.discogs.com/artists/211449",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 11831,
+     "join": "",
+     "name": "Nellee Hooper",
+     "resource_url": "https://api.discogs.com/artists/11831",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Candy Mountain (Nellee Hooper Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 131299,
+     "join": "",
+     "name": "Will O'Donovan",
+     "resource_url": "https://api.discogs.com/artists/131299",
+     "role": "Engineer",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Candy Mountain (DJ Intellectual Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 131299,
+     "join": "",
+     "name": "Will O'Donovan",
+     "resource_url": "https://api.discogs.com/artists/131299",
+     "role": "Engineer",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Candy Mountain (Radio Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Mark \"Spike\" Stent",
+     "id": 211449,
+     "join": "",
+     "name": "Mark Stent",
+     "resource_url": "https://api.discogs.com/artists/211449",
+     "role": "Engineer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 11831,
+     "join": "",
+     "name": "Nellee Hooper",
+     "resource_url": "https://api.discogs.com/artists/11831",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Candy Mountain (Nellee Hooper Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 131299,
+     "join": "",
+     "name": "Will O'Donovan",
+     "resource_url": "https://api.discogs.com/artists/131299",
+     "role": "Engineer",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Candy Mountain (DJ Intellectual Mix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/815398-Nomad-Soul-Candy-Mountain",
+ "year": 1991
+}

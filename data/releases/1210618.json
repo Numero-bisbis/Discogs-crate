@@ -1,0 +1,468 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 14757,
+   "join": "",
+   "name": "Black Moon",
+   "resource_url": "https://api.discogs.com/artists/14757",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/tdE_XlRhEt7Q_-n0wgdTYJ5q5nq36VyEveXZq8Ige1g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0NzU3/LTE2OTc4Njg1ODAt/MTk2NC5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "180 Gram"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 1210618,
+ "images": [
+  {
+   "height": 500,
+   "resource_url": "https://i.discogs.com/85cjl172ba3afJbC2LeqKDiB4ATJDCCmY2fK0ZBi86s/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA2/MTgtMTI4NjAyMDg2/Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/85cjl172ba3afJbC2LeqKDiB4ATJDCCmY2fK0ZBi86s/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA2/MTgtMTI4NjAyMDg2/Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/4ZznWJYWrZYfoL1gLJsVD98I83ZZlKSNHT3pZieEUr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA2/MTgtMTI4NjAyMDg2/Ny5qcGVn.jpeg",
+   "width": 500
+  }
+ ],
+ "labels": [
+  {
+   "catno": "NRV 2002-1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 251,
+   "name": "Nervous Records",
+   "resource_url": "https://api.discogs.com/labels/251",
+   "thumbnail_url": "https://i.discogs.com/V00RlxSv1WChVdN-DvTxQ5XW5bJ2u3W11rJR73t4F2Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1MS0x/MzcyNzczMTM0LTk5/MTUuanBlZw.jpeg"
+  },
+  {
+   "catno": "NRV 9101-02002-1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 15172,
+   "name": "Wreck Records",
+   "resource_url": "https://api.discogs.com/labels/15172",
+   "thumbnail_url": "https://i.discogs.com/_D-w2nvpjgiy6yRIkrSBRtZbYnUCZyp51CKwDbSHBaI/rs:fit/g:sm/q:90/h:241/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1MTcy/LTAwMS5naWY.jpeg"
+  }
+ ],
+ "notes": "On back cover: \nThis album was done on blunted terms. Anyone who is offended by the contents of the album.\nF--K YOU. Nuff Said. \nDJ Evil Dee\n\nPre-production recorded at The Dewgarde Crib Of Hits\nAll tracks recorded at D&D, New York City [...]\n\nAll background by [...] Steele (Smif-N-Wessun) [...] D.E.A. (Everette Lawson) [...] Havoc (Mobb Deep) [...] \n\nArt Direction Merge One/C²●Photography By Chi Modu/C²\n\nMade in USA. Manufactured and Distributed by Nervous, Inc. ℗&© 1993 Nervous, Inc. \n\nOn labels: \nProduced by [...] Executive Producers: [...] Misam Music, Inc. (ascap).\n\nThe pressing plant information found in the runout grooves indicates this reissue was initially pressed either in 2006 or 2007.\n\n[a240892] appears as Mike Weiss on labels & M.W. on back cover.",
+ "released": null,
+ "styles": [
+  "Conscious",
+  "Boom Bap"
+ ],
+ "title": "Enta Da Stage",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "",
+   "title": "First Stage",
+   "type_": "heading"
+  },
+  {
+   "duration": "4:02",
+   "extraartists": [
+    {
+     "anv": "E. Dewgarde",
+     "id": 773316,
+     "join": "",
+     "name": "Ewart Dewgarde",
+     "resource_url": "https://api.discogs.com/artists/773316",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Blake",
+     "id": 721579,
+     "join": "",
+     "name": "Kenyatta Blake",
+     "resource_url": "https://api.discogs.com/artists/721579",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Powaful Impak!",
+   "type_": "track"
+  },
+  {
+   "duration": "4:19",
+   "extraartists": [
+    {
+     "anv": "E. Dewgarde",
+     "id": 773316,
+     "join": "",
+     "name": "Ewart Dewgarde",
+     "resource_url": "https://api.discogs.com/artists/773316",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Blake",
+     "id": 721579,
+     "join": "",
+     "name": "Kenyatta Blake",
+     "resource_url": "https://api.discogs.com/artists/721579",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Niguz Talk Shit",
+   "type_": "track"
+  },
+  {
+   "duration": "4:24",
+   "extraartists": [
+    {
+     "anv": "E. Dewgarde",
+     "id": 773316,
+     "join": "",
+     "name": "Ewart Dewgarde",
+     "resource_url": "https://api.discogs.com/artists/773316",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Blake",
+     "id": 721579,
+     "join": "",
+     "name": "Kenyatta Blake",
+     "resource_url": "https://api.discogs.com/artists/721579",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Who Got Da Props?",
+   "type_": "track"
+  },
+  {
+   "duration": "4:37",
+   "extraartists": [
+    {
+     "anv": "E. Dewgarde",
+     "id": 773316,
+     "join": "",
+     "name": "Ewart Dewgarde",
+     "resource_url": "https://api.discogs.com/artists/773316",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Blake",
+     "id": 721579,
+     "join": "",
+     "name": "Kenyatta Blake",
+     "resource_url": "https://api.discogs.com/artists/721579",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Buck Em Down",
+   "type_": "track"
+  },
+  {
+   "duration": "4:18",
+   "extraartists": [
+    {
+     "anv": "D. Yates",
+     "id": 803220,
+     "join": "",
+     "name": "Darrell Yates",
+     "resource_url": "https://api.discogs.com/artists/803220",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Dewgarde",
+     "id": 773316,
+     "join": "",
+     "name": "Ewart Dewgarde",
+     "resource_url": "https://api.discogs.com/artists/773316",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Blake",
+     "id": 721579,
+     "join": "",
+     "name": "Kenyatta Blake",
+     "resource_url": "https://api.discogs.com/artists/721579",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Williams",
+     "id": 803218,
+     "join": "",
+     "name": "Tekomin Williams",
+     "resource_url": "https://api.discogs.com/artists/803218",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Black Smif-N-Wessun",
+   "type_": "track"
+  },
+  {
+   "duration": "3:26",
+   "extraartists": [
+    {
+     "anv": "E. Dewgarde",
+     "id": 773316,
+     "join": "",
+     "name": "Ewart Dewgarde",
+     "resource_url": "https://api.discogs.com/artists/773316",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Reid",
+     "id": 2041793,
+     "join": "",
+     "name": "Kasim Reid",
+     "resource_url": "https://api.discogs.com/artists/2041793",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A6",
+   "title": "Son Get Wrec",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "",
+   "title": "Second Stage",
+   "type_": "heading"
+  },
+  {
+   "duration": "4:23",
+   "extraartists": [
+    {
+     "anv": "K. Blake",
+     "id": 721579,
+     "join": "",
+     "name": "Kenyatta Blake",
+     "resource_url": "https://api.discogs.com/artists/721579",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Dewgarde",
+     "id": 939665,
+     "join": "",
+     "name": "Walter Dewgarde",
+     "resource_url": "https://api.discogs.com/artists/939665",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Make Munne",
+   "type_": "track"
+  },
+  {
+   "duration": "4:20",
+   "extraartists": [
+    {
+     "anv": "K. Blake",
+     "id": 721579,
+     "join": "",
+     "name": "Kenyatta Blake",
+     "resource_url": "https://api.discogs.com/artists/721579",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Dewgarde",
+     "id": 939665,
+     "join": "",
+     "name": "Walter Dewgarde",
+     "resource_url": "https://api.discogs.com/artists/939665",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "I Got Cha Opin",
+   "type_": "track"
+  },
+  {
+   "duration": "3:53",
+   "extraartists": [
+    {
+     "anv": "E. Dewgarde",
+     "id": 773316,
+     "join": "",
+     "name": "Ewart Dewgarde",
+     "resource_url": "https://api.discogs.com/artists/773316",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Blake",
+     "id": 721579,
+     "join": "",
+     "name": "Kenyatta Blake",
+     "resource_url": "https://api.discogs.com/artists/721579",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Shit Iz Real",
+   "type_": "track"
+  },
+  {
+   "duration": "2:49",
+   "extraartists": [
+    {
+     "anv": "K. Blake",
+     "id": 721579,
+     "join": "",
+     "name": "Kenyatta Blake",
+     "resource_url": "https://api.discogs.com/artists/721579",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Dewgarde",
+     "id": 939665,
+     "join": "",
+     "name": "Walter Dewgarde",
+     "resource_url": "https://api.discogs.com/artists/939665",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Enta Da Stage",
+   "type_": "track"
+  },
+  {
+   "duration": "3:53",
+   "extraartists": [
+    {
+     "anv": "E. Dewgarde",
+     "id": 773316,
+     "join": "",
+     "name": "Ewart Dewgarde",
+     "resource_url": "https://api.discogs.com/artists/773316",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Blake",
+     "id": 721579,
+     "join": "",
+     "name": "Kenyatta Blake",
+     "resource_url": "https://api.discogs.com/artists/721579",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Dewgarde",
+     "id": 939665,
+     "join": "",
+     "name": "Walter Dewgarde",
+     "resource_url": "https://api.discogs.com/artists/939665",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "How Many Mc's...",
+   "type_": "track"
+  },
+  {
+   "duration": "4:18",
+   "extraartists": [
+    {
+     "anv": "Big Dru Ha",
+     "id": 203067,
+     "join": "",
+     "name": "Dru Ha",
+     "resource_url": "https://api.discogs.com/artists/203067",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Dewgarde",
+     "id": 773316,
+     "join": "",
+     "name": "Ewart Dewgarde",
+     "resource_url": "https://api.discogs.com/artists/773316",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 134438,
+     "join": "",
+     "name": "Havoc (3)",
+     "resource_url": "https://api.discogs.com/artists/134438",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Reid",
+     "id": 2041793,
+     "join": "",
+     "name": "Kasim Reid",
+     "resource_url": "https://api.discogs.com/artists/2041793",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Blake",
+     "id": 721579,
+     "join": "",
+     "name": "Kenyatta Blake",
+     "resource_url": "https://api.discogs.com/artists/721579",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 134893,
+     "join": "",
+     "name": "Steele (2)",
+     "resource_url": "https://api.discogs.com/artists/134893",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 68055,
+     "join": "",
+     "name": "Tek",
+     "resource_url": "https://api.discogs.com/artists/68055",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "U Da Man",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/1210618-Black-Moon-Enta-Da-Stage",
+ "year": 0
+}

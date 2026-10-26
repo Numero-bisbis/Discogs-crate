@@ -1,0 +1,97 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3806137,
+   "join": "",
+   "name": "Michael The Lion",
+   "resource_url": "https://api.discogs.com/artists/3806137",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ibSv_-0TbmWpfwCkzwBSSMNm4gz6RunCDppY8FP3Vvk/rs:fit/g:sm/q:90/h:600/w:551/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4MDYx/MzctMTQ0NzY0NDg0/OC00OTYxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "White Label"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 6981658,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/WqRE0askQ2e6CQk0UM-bBFG394BNR5y_RbcVkZTQM9M/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODE2/NTgtMTcyMzI4NTIz/Ny02NjI3LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/WqRE0askQ2e6CQk0UM-bBFG394BNR5y_RbcVkZTQM9M/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODE2/NTgtMTcyMzI4NTIz/Ny02NjI3LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/Ptn0DkY60fl1Vp0qPAU5sXURmxoThesuRSd_HWN8kaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODE2/NTgtMTcyMzI4NTIz/Ny02NjI3LmpwZWc.jpeg",
+   "width": 598
+  }
+ ],
+ "labels": [
+  {
+   "catno": "RNT010",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 3164471,
+   "name": "Razor-N-Tape",
+   "resource_url": "https://api.discogs.com/labels/3164471",
+   "thumbnail_url": "https://i.discogs.com/f-wlf6geO4UdrroOqUDKawckRUUPz7FhLCXawWRX-Lw/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNjQ0/NzEtMTY3ODM3Njg2/NS0yNjQ3LnBuZw.jpeg"
+  }
+ ],
+ "notes": "Cut In Brooklyn // Good For Dance\nAdditional copies pressed in November 2016",
+ "released": "2015-05-00",
+ "styles": [
+  "Disco",
+  "Nu-Disco"
+ ],
+ "title": "Michael The Lion Edits",
+ "tracklist": [
+  {
+   "duration": "6:58",
+   "position": "A1",
+   "title": "Anytime",
+   "type_": "track"
+  },
+  {
+   "duration": "5:44",
+   "position": "A2",
+   "title": "The Don",
+   "type_": "track"
+  },
+  {
+   "duration": "6:19",
+   "position": "B1",
+   "title": "Get More",
+   "type_": "track"
+  },
+  {
+   "duration": "6:37",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 976492,
+     "join": "",
+     "name": "Sammy Bananas",
+     "resource_url": "https://api.discogs.com/artists/976492",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "909s And Herb (Feat. Sammy Bananas)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/6981658-Michael-The-Lion-Michael-The-Lion-Edits",
+ "year": 2015
+}

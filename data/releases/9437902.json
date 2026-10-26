@@ -1,0 +1,1835 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3268,
+   "join": "",
+   "name": "A Tribe Called Quest",
+   "resource_url": "https://api.discogs.com/artists/3268",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/0aZ2ZFRwf_b2PHr1bXlQ6fMi0BartrUL2Is0853W8gk/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyNjgt/MTY2Mzg3MTI0OS0z/MzY1LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 9437902,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/ArQVTaQOvCMKpypy1ioJybVGRbWtmBVlwdANh7iAMMs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzc5/MDItMTQ4MjYwNzcz/NS05NzUzLnBuZw.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/ArQVTaQOvCMKpypy1ioJybVGRbWtmBVlwdANh7iAMMs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzc5/MDItMTQ4MjYwNzcz/NS05NzUzLnBuZw.jpeg",
+   "uri150": "https://i.discogs.com/k_rpftchLuzLx3AaEU4d0Copsb6PQjJ1ENfElVWvO0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzc5/MDItMTQ4MjYwNzcz/NS05NzUzLnBuZw.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "88985377871",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1005,
+   "name": "Epic",
+   "resource_url": "https://api.discogs.com/labels/1005",
+   "thumbnail_url": "https://i.discogs.com/Ta8tXFbN3YA4PweFsSHGzpZN1tOertrxyLpgf7OaWCo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDUt/MTc3OTQ5NjYzOC04/Njg3LmpwZWc.jpeg"
+  }
+ ],
+ "notes": "B1: additional Phife vocals recorded at Fantasy Studios, Berkeley, CA\n\nPer track publishing credits:\n\nA1: Published by U Betta Like My Muzik (ASCAP)/Songs of SMP / Jazz Merchant Music (ASCAP)/Universal Music- ZTunes, LLC / Alaric Publishing House (ASCAP)\n\nA2:Published by U Betta Like My Muzik (ASCAP)/Songs of SMP / Jazz Merchant Music (ASCAP)/Universal Music- ZTunes, LLC / Essex Music International, Inc. (ASCAP/PRS)\n\nA3: Published by U Betta Like My Muzik (ASCAP)/Songs of SMP / Jazz Merchant Music (ASCAP)/Universal Music- ZTunes, LLC / Alaric Publishing House (ASCAP) / Songs by Cons Publishing (BMI) / Winston Jones Publishing\n\nA4: Published by U Betta Like My Muzik (ASCAP)/Songs of SMP / Jazz Merchant Music (ASCAP)/Universal Music- ZTunes, LLC / Tziah Music/Songs of Kobalt Music Publishing (BMI) / Peppermint Stripe Music (BMI)\n\nB1: Published by U Betta Like My Muzik (ASCAP)/Songs of SMP / Jazz Merchant Music (ASCAP)/Universal Music- ZTunes, LLC / Alaric Publishing House (ASCAP) / Tziah Music/Songs of Kobalt Music Publishing (BMI) / Edward Kassner Associated Publishers Ltd./Downtown Music Publishing (ASCAP) / Music Sales Corporation (ASCAP) / Spoon Music (GEMA)\n\nB2: Published by U Betta Like My Muzik (ASCAP)/Songs of SMP / BMG Monarch (ASCAP)/Gnat Booty Music (ASCAP)\n\nB3: Published by U Betta Like My Muzik (ASCAP)/Songs of SMP / BMG Chrysalis Music (BMI) / Hirano Masayuki (ASCAP) / Louis Cato (ASCAP)\n\nB4: Published by U Betta Like My Muzik (ASCAP)/Songs of SMP\n\nC1: Published by U Betta Like My Muzik (ASCAP)/Songs of SMP / Tziah Music/Songs of Kobalt Music Publishing (BMI) / Songs by Cons Publishing (BMI) / BMG Blue (PRS)/BMG Rights Management US LLC (BMI)\n\nC2: Published by U Betta Like My Muzik (ASCAP)/Songs of SMP / Jazz Merchant Music (ASCAP)/Universal Music- ZTunes, LLC\n\nC3: Published by U Betta Like My Muzik (ASCAP)/Songs of SMP / Alaric Publishing House (ASCAP) / Songs by Cons Publishing (BMI) / Pen Skills Music/Songs Of Windswept Pacific (BMI)\n\nC4: Published by U Betta Like My Muzik (ASCAP)/Songs of SMP / Alaric Publishing House (ASCAP) / Spoon Music (GEMA)\n\nD1: Published by U Betta Like My Muzik (ASCAP)/Songs of SMP / Watch and Learn Publishing (BMI)\n\nD2: Published by U Betta Like My Muzik (ASCAP)/Songs of SMP / Jazz Merchant Music (ASCAP)/Universal Music- ZTunes, LLC / WB Music Corp. (ASCAP)/Hard Working Black Folks Inc. (ASCAP) and Top Dawg Music (ASCAP) all rights o/b/o itself, Hard Working Black Folks Inc. and Top Dawg Music admin. by WB Music Corp.\n\nD3: Published by U Betta Like My Muzik (ASCAP)/Songs of SMP / Peppermint Stripe Music (BMI)\n\nD4: Published by U Betta Like My Muzik (ASCAP)/Songs of SMP",
+ "released": "2016-12-23",
+ "styles": [
+  "Conscious"
+ ],
+ "title": "We Got It From Here…. Thank You 4 Your Service",
+ "tracklist": [
+  {
+   "duration": "5:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1392573,
+     "join": "",
+     "name": "Louis Cato",
+     "resource_url": "https://api.discogs.com/artists/1392573",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "Chris Sholar",
+     "id": 479096,
+     "join": "",
+     "name": "Christopher Sholar",
+     "resource_url": "https://api.discogs.com/artists/479096",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Masayuki \"BIGYUKI\" Hirano",
+     "id": 1944400,
+     "join": "",
+     "name": "Masayuki Hirano",
+     "resource_url": "https://api.discogs.com/artists/1944400",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 781564,
+     "join": "",
+     "name": "Jarobi",
+     "resource_url": "https://api.discogs.com/artists/781564",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Phife",
+     "id": 42157,
+     "join": "",
+     "name": "Phife Dawg",
+     "resource_url": "https://api.discogs.com/artists/42157",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5442315,
+     "join": "",
+     "name": "Jarobi White",
+     "resource_url": "https://api.discogs.com/artists/5442315",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malik Izaak Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "The Space Program",
+   "type_": "track"
+  },
+  {
+   "duration": "2:52",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274807,
+     "join": "",
+     "name": "Casey Benjamin",
+     "resource_url": "https://api.discogs.com/artists/274807",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "Phife",
+     "id": 42157,
+     "join": "",
+     "name": "Phife Dawg",
+     "resource_url": "https://api.discogs.com/artists/42157",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "William Ward",
+     "id": 255017,
+     "join": "",
+     "name": "Bill Ward",
+     "resource_url": "https://api.discogs.com/artists/255017",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Terrance Butler",
+     "id": 300663,
+     "join": "",
+     "name": "Geezer Butler",
+     "resource_url": "https://api.discogs.com/artists/300663",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malik Izaak Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "John Osbourne",
+     "id": 59770,
+     "join": "",
+     "name": "Ozzy Osbourne",
+     "resource_url": "https://api.discogs.com/artists/59770",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Anthony Frank Iommi",
+     "id": 253791,
+     "join": "",
+     "name": "Tony Iommi",
+     "resource_url": "https://api.discogs.com/artists/253791",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "We The People....",
+   "type_": "track"
+  },
+  {
+   "duration": "2:52",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109335,
+     "join": "",
+     "name": "Consequence (2)",
+     "resource_url": "https://api.discogs.com/artists/109335",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 781564,
+     "join": "",
+     "name": "Jarobi",
+     "resource_url": "https://api.discogs.com/artists/781564",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Phife",
+     "id": 42157,
+     "join": "",
+     "name": "Phife Dawg",
+     "resource_url": "https://api.discogs.com/artists/42157",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Dexter Mills",
+     "id": 908478,
+     "join": "",
+     "name": "Dexter Raymond Mills, Jr.",
+     "resource_url": "https://api.discogs.com/artists/908478",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5442315,
+     "join": "",
+     "name": "Jarobi White",
+     "resource_url": "https://api.discogs.com/artists/5442315",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malik Izaak Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 701295,
+     "join": "",
+     "name": "Winston Jones (2)",
+     "resource_url": "https://api.discogs.com/artists/701295",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Whateva Will Be",
+   "type_": "track"
+  },
+  {
+   "duration": "3:43",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 278763,
+     "join": "",
+     "name": "Jack White (2)",
+     "resource_url": "https://api.discogs.com/artists/278763",
+     "role": "Acoustic Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "Masayuki \"BIGYUKI\" Hirano",
+     "id": 1944400,
+     "join": "",
+     "name": "Masayuki Hirano",
+     "resource_url": "https://api.discogs.com/artists/1944400",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 57103,
+     "join": "",
+     "name": "Elton John",
+     "resource_url": "https://api.discogs.com/artists/57103",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 37906,
+     "join": "",
+     "name": "Busta Rhymes",
+     "resource_url": "https://api.discogs.com/artists/37906",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 57103,
+     "join": "",
+     "name": "Elton John",
+     "resource_url": "https://api.discogs.com/artists/57103",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 278763,
+     "join": "",
+     "name": "Jack White (2)",
+     "resource_url": "https://api.discogs.com/artists/278763",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Phife",
+     "id": 42157,
+     "join": "",
+     "name": "Phife Dawg",
+     "resource_url": "https://api.discogs.com/artists/42157",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 278763,
+     "join": "",
+     "name": "Jack White (2)",
+     "resource_url": "https://api.discogs.com/artists/278763",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malik Izaak Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 640089,
+     "join": "",
+     "name": "Trevor Smith (4)",
+     "resource_url": "https://api.discogs.com/artists/640089",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Solid Wall of Sound",
+   "type_": "track"
+  },
+  {
+   "duration": "3:33",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1360395,
+     "join": "",
+     "name": "Laura Gonzalez",
+     "resource_url": "https://api.discogs.com/artists/1360395",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4939682,
+     "join": "",
+     "name": "Robert Kirby (3)",
+     "resource_url": "https://api.discogs.com/artists/4939682",
+     "role": "Engineer [Assistant]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1042259,
+     "join": "",
+     "name": "Michael Starita",
+     "resource_url": "https://api.discogs.com/artists/1042259",
+     "role": "Recorded By [Additional Phife Vocals]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 37906,
+     "join": "",
+     "name": "Busta Rhymes",
+     "resource_url": "https://api.discogs.com/artists/37906",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 781564,
+     "join": "",
+     "name": "Jarobi",
+     "resource_url": "https://api.discogs.com/artists/781564",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Phife",
+     "id": 42157,
+     "join": "",
+     "name": "Phife Dawg",
+     "resource_url": "https://api.discogs.com/artists/42157",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Headley Bennett",
+     "id": 166272,
+     "join": "",
+     "name": "\"Deadly\" Headley Bennett",
+     "resource_url": "https://api.discogs.com/artists/166272",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 110310,
+     "join": "",
+     "name": "Damo Suzuki",
+     "resource_url": "https://api.discogs.com/artists/110310",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 680011,
+     "join": "",
+     "name": "Fitzroy Simpson",
+     "resource_url": "https://api.discogs.com/artists/680011",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Holgar Czukay",
+     "id": 3480,
+     "join": "",
+     "name": "Holger Czukay",
+     "resource_url": "https://api.discogs.com/artists/3480",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 92183,
+     "join": "",
+     "name": "Irmin Schmidt",
+     "resource_url": "https://api.discogs.com/artists/92183",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 116683,
+     "join": "",
+     "name": "Jackie Mittoo",
+     "resource_url": "https://api.discogs.com/artists/116683",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 48582,
+     "join": "",
+     "name": "Jaki Liebezeit",
+     "resource_url": "https://api.discogs.com/artists/48582",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5442315,
+     "join": "",
+     "name": "Jarobi White",
+     "resource_url": "https://api.discogs.com/artists/5442315",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Leroy Sibblis",
+     "id": 142755,
+     "join": "",
+     "name": "Leroy Sibbles",
+     "resource_url": "https://api.discogs.com/artists/142755",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 680008,
+     "join": "",
+     "name": "Lloyd Ferguson",
+     "resource_url": "https://api.discogs.com/artists/680008",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malik Izaak Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 120164,
+     "join": "",
+     "name": "Michael Karoli",
+     "resource_url": "https://api.discogs.com/artists/120164",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Robert Lyn",
+     "id": 111521,
+     "join": "",
+     "name": "Robbie Lyn",
+     "resource_url": "https://api.discogs.com/artists/111521",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 640089,
+     "join": "",
+     "name": "Trevor Smith (4)",
+     "resource_url": "https://api.discogs.com/artists/640089",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Huford Brown",
+     "id": 117415,
+     "join": "",
+     "name": "U Brown",
+     "resource_url": "https://api.discogs.com/artists/117415",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Dis Generation",
+   "type_": "track"
+  },
+  {
+   "duration": "3:48",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274807,
+     "join": "",
+     "name": "Casey Benjamin",
+     "resource_url": "https://api.discogs.com/artists/274807",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "Masayuki \"BIGYUKI\" Hirano",
+     "id": 1944400,
+     "join": "",
+     "name": "Masayuki Hirano",
+     "resource_url": "https://api.discogs.com/artists/1944400",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "André 3000",
+     "id": 170365,
+     "join": "",
+     "name": "Andre 3000",
+     "resource_url": "https://api.discogs.com/artists/170365",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "André Lauren Benjamin",
+     "id": 187668,
+     "join": "",
+     "name": "Andre Benjamin",
+     "resource_url": "https://api.discogs.com/artists/187668",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Kids... ",
+   "type_": "track"
+  },
+  {
+   "duration": "4:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 298250,
+     "join": "",
+     "name": "Thaddaeus Tribbett",
+     "resource_url": "https://api.discogs.com/artists/298250",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1392573,
+     "join": "",
+     "name": "Louis Cato",
+     "resource_url": "https://api.discogs.com/artists/1392573",
+     "role": "Bass [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3521998,
+     "join": "",
+     "name": "Mark Colenburg",
+     "resource_url": "https://api.discogs.com/artists/3521998",
+     "role": "Drums [Additional]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274807,
+     "join": "",
+     "name": "Casey Benjamin",
+     "resource_url": "https://api.discogs.com/artists/274807",
+     "role": "Electric Piano [Fender Rhodes]",
+     "tracks": ""
+    },
+    {
+     "anv": "Chris Sholar",
+     "id": 479096,
+     "join": "",
+     "name": "Christopher Sholar",
+     "resource_url": "https://api.discogs.com/artists/479096",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Masayuki \"BIGYUKI\" Hirano",
+     "id": 1944400,
+     "join": "",
+     "name": "Masayuki Hirano",
+     "resource_url": "https://api.discogs.com/artists/1944400",
+     "role": "Synthesizer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5398368,
+     "join": "",
+     "name": "Abbey Smith",
+     "resource_url": "https://api.discogs.com/artists/5398368",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 270049,
+     "join": "",
+     "name": "Marsha Ambrosius",
+     "resource_url": "https://api.discogs.com/artists/270049",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1392573,
+     "join": "",
+     "name": "Louis Cato",
+     "resource_url": "https://api.discogs.com/artists/1392573",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 270049,
+     "join": "",
+     "name": "Marsha Ambrosius",
+     "resource_url": "https://api.discogs.com/artists/270049",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Hirano Masayuki",
+     "id": 1944400,
+     "join": "",
+     "name": "Masayuki Hirano",
+     "resource_url": "https://api.discogs.com/artists/1944400",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Melatonin",
+   "type_": "track"
+  },
+  {
+   "duration": "3:20",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "Masayuki \"BIGYUKI\" Hirano",
+     "id": 1944400,
+     "join": "",
+     "name": "Masayuki Hirano",
+     "resource_url": "https://api.discogs.com/artists/1944400",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "George \"DJ Scratch\" Spivey",
+     "id": 184220,
+     "join": "",
+     "name": "George Spivey",
+     "resource_url": "https://api.discogs.com/artists/184220",
+     "role": "Scratches",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 781564,
+     "join": "",
+     "name": "Jarobi",
+     "resource_url": "https://api.discogs.com/artists/781564",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Enough!!",
+   "type_": "track"
+  },
+  {
+   "duration": "2:51",
+   "extraartists": [
+    {
+     "anv": "Chris Sholar",
+     "id": 479096,
+     "join": "",
+     "name": "Christopher Sholar",
+     "resource_url": "https://api.discogs.com/artists/479096",
+     "role": "Acoustic Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 342461,
+     "join": "",
+     "name": "Blair Wells",
+     "resource_url": "https://api.discogs.com/artists/342461",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274807,
+     "join": "",
+     "name": "Casey Benjamin",
+     "resource_url": "https://api.discogs.com/artists/274807",
+     "role": "Organ",
+     "tracks": ""
+    },
+    {
+     "anv": "Masayuki \"BIGYUKI\" Hirano",
+     "id": 1944400,
+     "join": "",
+     "name": "Masayuki Hirano",
+     "resource_url": "https://api.discogs.com/artists/1944400",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 37906,
+     "join": "",
+     "name": "Busta Rhymes",
+     "resource_url": "https://api.discogs.com/artists/37906",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109335,
+     "join": "",
+     "name": "Consequence (2)",
+     "resource_url": "https://api.discogs.com/artists/109335",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 342789,
+     "join": "",
+     "name": "Derek Shulman",
+     "resource_url": "https://api.discogs.com/artists/342789",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Dexter Mills",
+     "id": 908478,
+     "join": "",
+     "name": "Dexter Raymond Mills, Jr.",
+     "resource_url": "https://api.discogs.com/artists/908478",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 342791,
+     "join": "",
+     "name": "Kerry Minnear",
+     "resource_url": "https://api.discogs.com/artists/342791",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 873901,
+     "join": "",
+     "name": "Philip Shulman",
+     "resource_url": "https://api.discogs.com/artists/873901",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Raymond Shulman",
+     "id": 213074,
+     "join": "",
+     "name": "Ray Shulman",
+     "resource_url": "https://api.discogs.com/artists/213074",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 640089,
+     "join": "",
+     "name": "Trevor Smith (4)",
+     "resource_url": "https://api.discogs.com/artists/640089",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Mobius",
+   "type_": "track"
+  },
+  {
+   "duration": "3:03",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109335,
+     "join": "",
+     "name": "Consequence (2)",
+     "resource_url": "https://api.discogs.com/artists/109335",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Phife",
+     "id": 42157,
+     "join": "",
+     "name": "Phife Dawg",
+     "resource_url": "https://api.discogs.com/artists/42157",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malik Izaak Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Black Spasmodic",
+   "type_": "track"
+  },
+  {
+   "duration": "2:43",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1392573,
+     "join": "",
+     "name": "Louis Cato",
+     "resource_url": "https://api.discogs.com/artists/1392573",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Masayuki \"BIGYUKI\" Hirano",
+     "id": 1944400,
+     "join": "",
+     "name": "Masayuki Hirano",
+     "resource_url": "https://api.discogs.com/artists/1944400",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109335,
+     "join": "",
+     "name": "Consequence (2)",
+     "resource_url": "https://api.discogs.com/artists/109335",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 781564,
+     "join": "",
+     "name": "Jarobi",
+     "resource_url": "https://api.discogs.com/artists/781564",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 137880,
+     "join": "",
+     "name": "Kanye West",
+     "resource_url": "https://api.discogs.com/artists/137880",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 39908,
+     "join": "",
+     "name": "Talib Kweli",
+     "resource_url": "https://api.discogs.com/artists/39908",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Dexter Mills",
+     "id": 908478,
+     "join": "",
+     "name": "Dexter Raymond Mills, Jr.",
+     "resource_url": "https://api.discogs.com/artists/908478",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5442315,
+     "join": "",
+     "name": "Jarobi White",
+     "resource_url": "https://api.discogs.com/artists/5442315",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1132771,
+     "join": "",
+     "name": "Talib Kweli Greene",
+     "resource_url": "https://api.discogs.com/artists/1132771",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "The Killing Season",
+   "type_": "track"
+  },
+  {
+   "duration": "4:18",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 949052,
+     "join": "",
+     "name": "Chris Parks (3)",
+     "resource_url": "https://api.discogs.com/artists/949052",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Chris Sholar",
+     "id": 479096,
+     "join": "",
+     "name": "Christopher Sholar",
+     "resource_url": "https://api.discogs.com/artists/479096",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2787953,
+     "join": "",
+     "name": "Kris Bowers",
+     "resource_url": "https://api.discogs.com/artists/2787953",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 781564,
+     "join": "",
+     "name": "Jarobi",
+     "resource_url": "https://api.discogs.com/artists/781564",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 666610,
+     "join": "",
+     "name": "Katia Cadet",
+     "resource_url": "https://api.discogs.com/artists/666610",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 110310,
+     "join": "",
+     "name": "Damo Suzuki",
+     "resource_url": "https://api.discogs.com/artists/110310",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Holgar Czukay",
+     "id": 3480,
+     "join": "",
+     "name": "Holger Czukay",
+     "resource_url": "https://api.discogs.com/artists/3480",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 92183,
+     "join": "",
+     "name": "Irmin Schmidt",
+     "resource_url": "https://api.discogs.com/artists/92183",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 48582,
+     "join": "",
+     "name": "Jaki Liebezeit",
+     "resource_url": "https://api.discogs.com/artists/48582",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5442315,
+     "join": "",
+     "name": "Jarobi White",
+     "resource_url": "https://api.discogs.com/artists/5442315",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 120164,
+     "join": "",
+     "name": "Michael Karoli",
+     "resource_url": "https://api.discogs.com/artists/120164",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Lost Somebody",
+   "type_": "track"
+  },
+  {
+   "duration": "4:41",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "Chris Sholar",
+     "id": 479096,
+     "join": "",
+     "name": "Christopher Sholar",
+     "resource_url": "https://api.discogs.com/artists/479096",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274807,
+     "join": "",
+     "name": "Casey Benjamin",
+     "resource_url": "https://api.discogs.com/artists/274807",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4003501,
+     "join": "",
+     "name": "Anderson .Paak",
+     "resource_url": "https://api.discogs.com/artists/4003501",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 781564,
+     "join": "",
+     "name": "Jarobi",
+     "resource_url": "https://api.discogs.com/artists/781564",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5710082,
+     "join": "",
+     "name": "Brandon Paak Anderson",
+     "resource_url": "https://api.discogs.com/artists/5710082",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Movin Backwards",
+   "type_": "track"
+  },
+  {
+   "duration": "3:31",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1778977,
+     "join": "",
+     "name": "Kendrick Lamar",
+     "resource_url": "https://api.discogs.com/artists/1778977",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Phife",
+     "id": 42157,
+     "join": "",
+     "name": "Phife Dawg",
+     "resource_url": "https://api.discogs.com/artists/42157",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Kendrick Lamar Duckworth",
+     "id": 3062364,
+     "join": "",
+     "name": "Kendrick Duckworth",
+     "resource_url": "https://api.discogs.com/artists/3062364",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Malik Izaak Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Conrad Tokyo",
+   "type_": "track"
+  },
+  {
+   "duration": "3:17",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1392573,
+     "join": "",
+     "name": "Louis Cato",
+     "resource_url": "https://api.discogs.com/artists/1392573",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "Chris Sholar",
+     "id": 479096,
+     "join": "",
+     "name": "Christopher Sholar",
+     "resource_url": "https://api.discogs.com/artists/479096",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 278763,
+     "join": "",
+     "name": "Jack White (2)",
+     "resource_url": "https://api.discogs.com/artists/278763",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274807,
+     "join": "",
+     "name": "Casey Benjamin",
+     "resource_url": "https://api.discogs.com/artists/274807",
+     "role": "Piano",
+     "tracks": ""
+    },
+    {
+     "anv": "George \"DJ Scratch\" Spivey",
+     "id": 184220,
+     "join": "",
+     "name": "George Spivey",
+     "resource_url": "https://api.discogs.com/artists/184220",
+     "role": "Scratches",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 278763,
+     "join": "",
+     "name": "Jack White (2)",
+     "resource_url": "https://api.discogs.com/artists/278763",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Ego",
+   "type_": "track"
+  },
+  {
+   "duration": "5:22",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 278763,
+     "join": "",
+     "name": "Jack White (2)",
+     "resource_url": "https://api.discogs.com/artists/278763",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1392573,
+     "join": "",
+     "name": "Louis Cato",
+     "resource_url": "https://api.discogs.com/artists/1392573",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Masayuki \"BIGYUKI\" Hirano",
+     "id": 1944400,
+     "join": "",
+     "name": "Masayuki Hirano",
+     "resource_url": "https://api.discogs.com/artists/1944400",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "George \"DJ Scratch\" Spivey",
+     "id": 184220,
+     "join": "",
+     "name": "George Spivey",
+     "resource_url": "https://api.discogs.com/artists/184220",
+     "role": "Scratches",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 37906,
+     "join": "",
+     "name": "Busta Rhymes",
+     "resource_url": "https://api.discogs.com/artists/37906",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 666610,
+     "join": "",
+     "name": "Katia Cadet",
+     "resource_url": "https://api.discogs.com/artists/666610",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Phife",
+     "id": 42157,
+     "join": "",
+     "name": "Phife Dawg",
+     "resource_url": "https://api.discogs.com/artists/42157",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "The Donald",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/9437902-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+ "year": 2016
+}

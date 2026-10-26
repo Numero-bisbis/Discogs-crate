@@ -1,0 +1,195 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4898814,
+   "join": "",
+   "name": "Felipe Gordon",
+   "resource_url": "https://api.discogs.com/artists/4898814",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/iTUbmuqB-_O6pGotrilmBK3zvV6FxTu1OOkyD-FuRqo/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4OTg4/MTQtMTY3MDIzMjQ2/MC01NTA2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Blue, 140 Gram"
+  },
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Pink, 140 Gram"
+  },
+  {
+   "descriptions": [
+    "Album",
+    "Limited Edition"
+   ],
+   "name": "All Media",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Jazz"
+ ],
+ "id": 18599686,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/ukPAQzoA8KZ0uCuFDNyzrnhMbgmlOsnkRl71SYr_aHU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTk5/Njg2LTE2MjE1MTMz/NTktMTk1Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/ukPAQzoA8KZ0uCuFDNyzrnhMbgmlOsnkRl71SYr_aHU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTk5/Njg2LTE2MjE1MTMz/NTktMTk1Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/0KdvKyREgaoCiBNvrc72UhP5rbTcceqDuRxXI5JqAm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTk5/Njg2LTE2MjE1MTMz/NTktMTk1Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SNFLP008",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 925964,
+   "name": "Shall Not Fade",
+   "resource_url": "https://api.discogs.com/labels/925964",
+   "thumbnail_url": "https://i.discogs.com/DXduzsHIfhHLiwivX9ThhIAB_JkDD5MTR97waGByet0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkyNTk2/NC0xNTY4OTA3MjUz/LTE1NjEuanBlZw.jpeg"
+  }
+ ],
+ "notes": "Gatefold sleeve.\n\nSelected with love by Shall Not Fade.",
+ "released": "2021-04-02",
+ "styles": [
+  "House",
+  "Deep House",
+  "Jazz-Funk"
+ ],
+ "title": "A Landscape Onomatopeya",
+ "tracklist": [
+  {
+   "duration": "8:35",
+   "position": "A1",
+   "title": "How Do U Spell That Spell",
+   "type_": "track"
+  },
+  {
+   "duration": "2:26",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 9379306,
+     "join": "",
+     "name": "Mixtery DJ",
+     "resource_url": "https://api.discogs.com/artists/9379306",
+     "role": "Scratches [Vinyl Scratch Phrases]",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Wes",
+   "type_": "track"
+  },
+  {
+   "duration": "4:31",
+   "position": "A3",
+   "title": "She Will Come",
+   "type_": "track"
+  },
+  {
+   "duration": "9:06",
+   "extraartists": [
+    {
+     "anv": "Toro Moratto",
+     "id": 3528482,
+     "join": "",
+     "name": "Camilo Toro Moratto",
+     "resource_url": "https://api.discogs.com/artists/3528482",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Toro Moratto",
+     "id": 3528482,
+     "join": "",
+     "name": "Camilo Toro Moratto",
+     "resource_url": "https://api.discogs.com/artists/3528482",
+     "role": "Piano, Electric Piano [Rhodes Solo], Electric Organ [Hammond Solo]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "The Colombian Excursions Of House Music",
+   "type_": "track"
+  },
+  {
+   "duration": "7:46",
+   "position": "B2",
+   "title": "Momma, It's A Long Journey",
+   "type_": "track"
+  },
+  {
+   "duration": "2:50",
+   "position": "C1",
+   "title": "Howl!",
+   "type_": "track"
+  },
+  {
+   "duration": "6:18",
+   "position": "C2",
+   "title": "Away",
+   "type_": "track"
+  },
+  {
+   "duration": "4:33",
+   "position": "C3",
+   "title": "Das Nuyorican Vibes",
+   "type_": "track"
+  },
+  {
+   "duration": "1:39",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 9379306,
+     "join": "",
+     "name": "Mixtery DJ",
+     "resource_url": "https://api.discogs.com/artists/9379306",
+     "role": "Scratches [Vinyl Scratch Phrases]",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Brazil",
+   "type_": "track"
+  },
+  {
+   "duration": "5:10",
+   "position": "D1",
+   "title": "A Landscape Onomatopeya",
+   "type_": "track"
+  },
+  {
+   "duration": "9:09",
+   "position": "D2",
+   "title": "Walking Into The Unknown",
+   "type_": "track"
+  },
+  {
+   "duration": "1:48",
+   "position": "D3",
+   "title": "Wake Up",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/18599686-Felipe-Gordon-A-Landscape-Onomatopeya",
+ "year": 2021
+}

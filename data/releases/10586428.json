@@ -1,0 +1,221 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 54619,
+   "join": "",
+   "name": "Group Home",
+   "resource_url": "https://api.discogs.com/artists/54619",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ingwVD_HLHRC2CfRxX2Ps4f52ykng-86XsNW1HbsgPc/rs:fit/g:sm/q:90/h:475/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU0NjE5/LTE2Njc3NzMxODYt/NzQ5Ni5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 10586428,
+ "images": [
+  {
+   "height": 524,
+   "resource_url": "https://i.discogs.com/8OAcJ7ihJTlJ3cLaMGsThmOXABbUr1DfkcYNPYB-3WI/rs:fit/g:sm/q:90/h:524/w:526/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg2/NDI4LTE1MDA0MTk3/MzUtMjE5OC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/8OAcJ7ihJTlJ3cLaMGsThmOXABbUr1DfkcYNPYB-3WI/rs:fit/g:sm/q:90/h:524/w:526/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg2/NDI4LTE1MDA0MTk3/MzUtMjE5OC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/Fn1qXIMK-wHzNQ5cYiRvXpm4-bMj6Mrgf7_YZ0OJF5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg2/NDI4LTE1MDA0MTk3/MzUtMjE5OC5qcGVn.jpeg",
+   "width": 526
+  }
+ ],
+ "labels": [
+  {
+   "catno": "GET 54089 LP",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 208012,
+   "name": "Get On Down",
+   "resource_url": "https://api.discogs.com/labels/208012",
+   "thumbnail_url": "https://i.discogs.com/IPurZPYRrh-Hh-Qj3P_a3Venpri3woDMulTKmU_LxEA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIwODAx/Mi0xNTE4NzI3NTAw/LTQwMjMucG5n.jpeg"
+  }
+ ],
+ "notes": "Recorded at D&D Studios, NYC. Mastered at Masterdisk, NYC.\n\nBaby Pa contains a sample of \"The Golden Apple\" written + recorded by Bob James (Tappan Zee Records)\n2 Thousand contains a sample of \"I Feel Like Loving You Today\" written by Isaac Hayes and performed by Donald Byrd & 125th Street.\n\n\n℗1995  © 2017 Republic Records, A Division of UMG Recordings, Inc. Manufactured By Universal Music Enterprises, A Division of UMG Recordings, Inc. 2220 Colorado Avenue, Santa Monica, CA 90404.\nB0026773-01",
+ "released": "2017-07-21",
+ "styles": [
+  "Conscious",
+  "Gangsta",
+  "Hardcore Hip-Hop"
+ ],
+ "title": "Livin' Proof",
+ "tracklist": [
+  {
+   "duration": "0:48",
+   "position": "A1",
+   "title": "Intro",
+   "type_": "track"
+  },
+  {
+   "duration": "2:58",
+   "position": "A2",
+   "title": "Inna Citi Life",
+   "type_": "track"
+  },
+  {
+   "duration": "4:15",
+   "position": "A3",
+   "title": "Livin' Proof",
+   "type_": "track"
+  },
+  {
+   "duration": "4:14",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 27813,
+     "join": "",
+     "name": "Big Shug",
+     "resource_url": "https://api.discogs.com/artists/27813",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3862,
+     "join": "",
+     "name": "Guru",
+     "resource_url": "https://api.discogs.com/artists/3862",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3862,
+     "join": "",
+     "name": "Guru",
+     "resource_url": "https://api.discogs.com/artists/3862",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Serious Rap Shit",
+   "type_": "track"
+  },
+  {
+   "duration": "4:34",
+   "position": "B1",
+   "title": "Suspended In Time",
+   "type_": "track"
+  },
+  {
+   "duration": "3:26",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 148455,
+     "join": "",
+     "name": "Absaloot",
+     "resource_url": "https://api.discogs.com/artists/148455",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Sacrifice",
+   "type_": "track"
+  },
+  {
+   "duration": "4:14",
+   "position": "B3",
+   "title": "Up Against The Wall (Low Budget Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:25",
+   "extraartists": [
+    {
+     "anv": "Big Jazz",
+     "id": 111661,
+     "join": "",
+     "name": "Big Jaz",
+     "resource_url": "https://api.discogs.com/artists/111661",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "Big Jazz",
+     "id": 111661,
+     "join": "",
+     "name": "Big Jaz",
+     "resource_url": "https://api.discogs.com/artists/111661",
+     "role": "Producer",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "4 Give My Sins",
+   "type_": "track"
+  },
+  {
+   "duration": "3:12",
+   "position": "C2",
+   "title": "Baby Pa",
+   "type_": "track"
+  },
+  {
+   "duration": "3:18",
+   "position": "C3",
+   "title": "2 Thousand",
+   "type_": "track"
+  },
+  {
+   "duration": "5:22",
+   "position": "D1",
+   "title": "Supa Star",
+   "type_": "track"
+  },
+  {
+   "duration": "4:34",
+   "position": "D2",
+   "title": "Up Against Tha Wall (Getaway Car Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:32",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 362265,
+     "join": "",
+     "name": "Brainsick Enterprize",
+     "resource_url": "https://api.discogs.com/artists/362265",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Smiley, AKA The Ghetto Child",
+     "id": 28581,
+     "join": "",
+     "name": "Smiley the Ghetto Child",
+     "resource_url": "https://api.discogs.com/artists/28581",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Tha Realness",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/10586428-Group-Home-Livin-Proof",
+ "year": 2017
+}

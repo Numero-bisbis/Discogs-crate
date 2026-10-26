@@ -1,0 +1,75 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1385084,
+   "join": "",
+   "name": "Floating Points",
+   "resource_url": "https://api.discogs.com/artists/1385084",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/u9Ob0NXFuJCfFHJlT0ZMq2i2QlR-JileGE4d-TfgiN4/rs:fit/g:sm/q:90/h:600/w:493/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzODUw/ODQtMTUxNjk4MTQx/MS04OTg3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11017944,
+ "images": [
+  {
+   "height": 562,
+   "resource_url": "https://i.discogs.com/oZZeZE-QeLuaH3wEWruICWjYi_0VEQ2I7NNcyCpQIPU/rs:fit/g:sm/q:90/h:562/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE3/OTQ0LTE1MDg3ODY5/MDMtOTY5MC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/oZZeZE-QeLuaH3wEWruICWjYi_0VEQ2I7NNcyCpQIPU/rs:fit/g:sm/q:90/h:562/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE3/OTQ0LTE1MDg3ODY5/MDMtOTY5MC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/UNWUCEshTE79li0EWEIep3bPiElDyNHJlKESG-kVTfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE3/OTQ0LTE1MDg3ODY5/MDMtOTY5MC5qcGVn.jpeg",
+   "width": 559
+  }
+ ],
+ "labels": [
+  {
+   "catno": "FPL03V",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 921454,
+   "name": "Pluto (4)",
+   "resource_url": "https://api.discogs.com/labels/921454",
+   "thumbnail_url": "https://i.discogs.com/5oX4BUBwjHvROcTkn_HK6YyKW-NF-cetNivG6bB7zwI/rs:fit/g:sm/q:90/h:600/w:405/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkyMTQ1/NC0xNDQ2OTQ5NDc4/LTE4NDYucG5n.jpeg"
+  }
+ ],
+ "notes": "Track duration is not provided on the record. \nSide A plays at 33 ⅓ RPM, Side B plays at 45 RPM as noted on labels\n\nA1 - 126BPM\nB1 - 126BPM",
+ "released": "2017-10-00",
+ "styles": [
+  "House",
+  "Deep House",
+  "Ambient"
+ ],
+ "title": "Ratio (Deconstructed Mixes)",
+ "tracklist": [
+  {
+   "duration": "18:58",
+   "position": "A",
+   "title": "Ratio (Pt. II Organ)",
+   "type_": "track"
+  },
+  {
+   "duration": "7:44",
+   "position": "B",
+   "title": "Ratio (Pt. II Dub)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11017944-Floating-Points-Ratio-Deconstructed-Mixes",
+ "year": 2017
+}

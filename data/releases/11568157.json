@@ -1,0 +1,84 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4898814,
+   "join": "",
+   "name": "Felipe Gordon",
+   "resource_url": "https://api.discogs.com/artists/4898814",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/iTUbmuqB-_O6pGotrilmBK3zvV6FxTu1OOkyD-FuRqo/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4OTg4/MTQtMTY3MDIzMjQ2/MC01NTA2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 11568157,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/0A0BEnXJvGD1JTcZtGC_FKHkXtmVYhuM7L0DRRFoKYo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY4/MTU3LTE1MTkwNjEw/NjQtMzI1Mi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/0A0BEnXJvGD1JTcZtGC_FKHkXtmVYhuM7L0DRRFoKYo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY4/MTU3LTE1MTkwNjEw/NjQtMzI1Mi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/J3WNzA1odL6Xu-0Y8LuMmUdmXFVQL3D418kfHvAPuDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY4/MTU3LTE1MTkwNjEw/NjQtMzI1Mi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "quintessentials 58",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 122633,
+   "name": "Quintessentials",
+   "resource_url": "https://api.discogs.com/labels/122633",
+   "thumbnail_url": "https://i.discogs.com/-2ldmftOwxJrfB1fuQNtA9OZzguGrCSEDQ2ybB8uNjM/rs:fit/g:sm/q:90/h:100/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMjYz/My0xMjIwNjIxNzc2/LmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-02-00",
+ "styles": [
+  "Deep House"
+ ],
+ "title": "Mi Casa, Su Casa",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Su Casa, Mi Casa",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Ella Va (There She Goes)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Arpegios Extendidos",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Gangster Fass",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11568157-Felipe-Gordon-Mi-Casa-Su-Casa",
+ "year": 2018
+}

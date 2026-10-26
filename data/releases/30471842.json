@@ -1,0 +1,144 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 298119,
+   "join": "",
+   "name": "Amancio D'Silva",
+   "resource_url": "https://api.discogs.com/artists/298119",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Qq-3EMIi593R5ZDGiWZf3jJpAGiRjwS4RhipSDJI0Ps/rs:fit/g:sm/q:90/h:480/w:565/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI5ODEx/OS0xNjEwNzQwMzUy/LTE2MDEuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Record Store Day",
+    "Limited Edition",
+    "Reissue",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Clear"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 30471842,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/yBUfCxEbENTkV7khnv35uBCf-U1DUVoxvXUoibA_vCs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDcx/ODQyLTE3MTM4NTc3/MTQtODY2Ni5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/yBUfCxEbENTkV7khnv35uBCf-U1DUVoxvXUoibA_vCs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDcx/ODQyLTE3MTM4NTc3/MTQtODY2Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/H3Vvo4GTEKWuZQW2JhzbtVk1DBFI3bI2-GV9gohBcXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDcx/ODQyLTE3MTM4NTc3/MTQtODY2Ni5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "5887056",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 5320,
+   "name": "Decca",
+   "resource_url": "https://api.discogs.com/labels/5320",
+   "thumbnail_url": "https://i.discogs.com/yQYJRdbwgXIOAvzG5r-M_1QqKOfNdeh0FMFxjzFpiVw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUzMjAt/MTU4OTE1MTU4Mi03/OTg4LmpwZWc.jpeg"
+  },
+  {
+   "catno": "5887056",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1920410,
+   "name": "Universal Music Recordings",
+   "resource_url": "https://api.discogs.com/labels/1920410",
+   "thumbnail_url": "https://i.discogs.com/H1aq4T5JiLDgLRFxfUmCPntBP5VFYPFL7zufkMC4kI8/rs:fit/g:sm/q:90/h:168/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5MjA0/MTAtMTc3ODQ4NDA4/Ni0zMDAzLnBuZw.jpeg"
+  }
+ ],
+ "notes": "Record Store Day 2024 release\nMade in The EU.\n\nComposing credits:\nA1. Razaf - Blake\nA2. Gershwin - Heyward\nA3. J. Sherr - Gonzalo Roig\nA4. Ellington\nA5. A. D'Silva - L. Young\nA6. David Mack\nB1. Gorrell - Hoagy Carmichael\nB2. Gil Adam\nB3. A. Popp\nB4. A. D'Silva\nB5. Stan Tracey\nB6. Stan Tracey",
+ "released": "2024-04-20",
+ "styles": [],
+ "title": "Reflections (The Romantic Guitar Of Amancio D'Silva)",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Memories Of You",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Summertime",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Yours",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Solitude",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "What Maria Sees",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A6",
+   "title": "Sylvia’s Dream",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Georgia On My Mind",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Aubergine",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Love Is Blue",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Joyce Country",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "Baby Blue",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B6",
+   "title": "Raga Saga",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/30471842-Amancio-DSilva-Reflections-The-Romantic-Guitar-Of-Amancio-DSilva",
+ "year": 2024
+}

@@ -1,0 +1,81 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1461,
+   "join": "&",
+   "name": "Technasia",
+   "resource_url": "https://api.discogs.com/artists/1461",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/8U9KGHTR2UORl4rDgS7Wv2wLEXVy7dfO_8-AAN1nxdM/rs:fit/g:sm/q:90/h:210/w:312/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0NjEt/MTIyNDA5NTAwOC5q/cGVn.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 219,
+   "join": "",
+   "name": "Green Velvet",
+   "resource_url": "https://api.discogs.com/artists/219",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Uxs1r_JAIYObQYwPQxjOf2FyGjGL0AnaYoXXm6nUgrw/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxOS0x/Mzk2NDQwNDk4LTI4/ODYuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\""
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 7833081,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/eiV_71MGi9c7VhYQBXv51xudeqf5L-GMQ-w3sNBDvZY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzMw/ODEtMTQ2NTU5MjU0/My05MDY3LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/eiV_71MGi9c7VhYQBXv51xudeqf5L-GMQ-w3sNBDvZY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzMw/ODEtMTQ2NTU5MjU0/My05MDY3LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/jKyibSsny29q0B0f--8gWWLbh_CT6IdA2HKiv9fxb30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzMw/ODEtMTQ2NTU5MjU0/My05MDY3LmpwZWc.jpeg",
+   "width": 597
+  }
+ ],
+ "labels": [
+  {
+   "catno": "TOOL422",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 17675,
+   "name": "Toolroom Records",
+   "resource_url": "https://api.discogs.com/labels/17675",
+   "thumbnail_url": "https://i.discogs.com/1IkylVC4HVuLNdf6fTARJL4okjyQ8MC3pbJKxjvbfZY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3Njc1/LTE0OTk2MTg2MDYt/NTkyOC5qcGVn.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2015",
+ "styles": [
+  "Tech House"
+ ],
+ "title": "Suga",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Suga (Original Mix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Suga (Instrumental Mix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/7833081-Technasia-Green-Velvet-Suga",
+ "year": 2015
+}

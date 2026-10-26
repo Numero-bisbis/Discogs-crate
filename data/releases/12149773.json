@@ -1,0 +1,319 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 97545,
+   "join": "",
+   "name": "John Coltrane",
+   "resource_url": "https://api.discogs.com/artists/97545",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/a2drwcEJd6TBMdwaPuexLJmVTK4r6pdq0oM8Eznrjl8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk3NTQ1/LTE3MzQyNDM2ODQt/NjM2MC5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Deluxe Edition",
+    "Mono"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "180 gr"
+  }
+ ],
+ "genres": [
+  "Jazz"
+ ],
+ "id": 12149773,
+ "images": [
+  {
+   "height": 593,
+   "resource_url": "https://i.discogs.com/rvJFTdg2cubfrMp7H-QdYgW_v4SmR82TuCoFLUsZVDs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ5/NzczLTE1MzA4ODE0/NjktMTYwOS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/rvJFTdg2cubfrMp7H-QdYgW_v4SmR82TuCoFLUsZVDs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ5/NzczLTE1MzA4ODE0/NjktMTYwOS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/aB1DKdwNQT7t0aN2P746bwfEPMx_eRGWhIw1LX8bUR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ5/NzczLTE1MzA4ODE0/NjktMTYwOS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "00602567493013",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 26557,
+   "name": "Impulse!",
+   "resource_url": "https://api.discogs.com/labels/26557",
+   "thumbnail_url": "https://i.discogs.com/VxE3oj0Ev8PD2LXI_QobC-ZHHKY0y4oNkIQ4DwsAxEY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTU3/LTE1ODkxNTM2MDUt/NzgzNS5qcGVn.jpeg"
+  },
+  {
+   "catno": "00602567493013",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 68029,
+   "name": "UMe",
+   "resource_url": "https://api.discogs.com/labels/68029",
+   "thumbnail_url": "https://i.discogs.com/M8dUXs4KvT0ntyk7C_Xbzh3z3vTBp9EBxecfUb13p74/rs:fit/g:sm/q:90/h:233/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MDI5/LTE1MDM0MTYxNTkt/OTAxNy5wbmc.jpeg"
+  },
+  {
+   "catno": "00602567493013",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 5041,
+   "name": "Verve Records",
+   "resource_url": "https://api.discogs.com/labels/5041",
+   "thumbnail_url": "https://i.discogs.com/StaPAeok9YUVPpJJ6pknP4YjM-B6keqW7xwnlYUhq8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUwNDEt/MTYwMDc3NjI3OC0x/MTIyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "Recorded March 6th, 1963\nOriginal 1/4\" analog mono tapes were used for all tracks. \nMade in the EU\n\n[Publishers]\nA1, A3, B1 to B3, C2 to D3 Jowcol Music LLC\nA2 Geraldine E. Janowiak DBA Golden World (ASCAP)\nA4, C1 Eleven East Corporation (ASCAP)\n\nIncludes a fold-out poster with credits etc.\n\n",
+ "released": "2018-06-29",
+ "styles": [
+  "Post Bop"
+ ],
+ "title": "Both Directions At Once: The Lost Album",
+ "tracklist": [
+  {
+   "duration": "5:41",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 97545,
+     "join": "",
+     "name": "John Coltrane",
+     "resource_url": "https://api.discogs.com/artists/97545",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Untitled Original 11383 (Take 1)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:24",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 45876,
+     "join": "",
+     "name": "Eden Ahbez",
+     "resource_url": "https://api.discogs.com/artists/45876",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Nature Boy",
+   "type_": "track"
+  },
+  {
+   "duration": "8:43",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 97545,
+     "join": "",
+     "name": "John Coltrane",
+     "resource_url": "https://api.discogs.com/artists/97545",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Untitled Original 11386 (Take 1)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:32",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 525459,
+     "join": "",
+     "name": "Franz Lehár",
+     "resource_url": "https://api.discogs.com/artists/525459",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Vilia (Take 3)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:36",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 97545,
+     "join": "",
+     "name": "John Coltrane",
+     "resource_url": "https://api.discogs.com/artists/97545",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Impressions (Take 3)",
+   "type_": "track"
+  },
+  {
+   "duration": "11:28",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 97545,
+     "join": "",
+     "name": "John Coltrane",
+     "resource_url": "https://api.discogs.com/artists/97545",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Slow Blues",
+   "type_": "track"
+  },
+  {
+   "duration": "8:01",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 97545,
+     "join": "",
+     "name": "John Coltrane",
+     "resource_url": "https://api.discogs.com/artists/97545",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "One Up, One Down (Take 1)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:37",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 525459,
+     "join": "",
+     "name": "Franz Lehár",
+     "resource_url": "https://api.discogs.com/artists/525459",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Vilia (Take 5)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:06",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 97545,
+     "join": "",
+     "name": "John Coltrane",
+     "resource_url": "https://api.discogs.com/artists/97545",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Impressions (Take 1)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:37",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 97545,
+     "join": "",
+     "name": "John Coltrane",
+     "resource_url": "https://api.discogs.com/artists/97545",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Impressions (Take 2)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 97545,
+     "join": "",
+     "name": "John Coltrane",
+     "resource_url": "https://api.discogs.com/artists/97545",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Impressions (Take 4)",
+   "type_": "track"
+  },
+  {
+   "duration": "8:41",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 97545,
+     "join": "",
+     "name": "John Coltrane",
+     "resource_url": "https://api.discogs.com/artists/97545",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Untitled Original 11386 (Take 2)",
+   "type_": "track"
+  },
+  {
+   "duration": "8:23",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 97545,
+     "join": "",
+     "name": "John Coltrane",
+     "resource_url": "https://api.discogs.com/artists/97545",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Untitled Original 11386 (Take 5)",
+   "type_": "track"
+  },
+  {
+   "duration": "7:17",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 97545,
+     "join": "",
+     "name": "John Coltrane",
+     "resource_url": "https://api.discogs.com/artists/97545",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "One Up, One Down (Take 6)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12149773-John-Coltrane-Both-Directions-At-Once-The-Lost-Album",
+ "year": 2018
+}

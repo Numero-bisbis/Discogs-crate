@@ -1,0 +1,86 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2413471,
+   "join": "",
+   "name": "Boncana Maïga",
+   "resource_url": "https://api.discogs.com/artists/2413471",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/b0Prx5QbT9zrxyFdZB6vBt1PQgU1E4fjOcqz7RFd7wM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0MTM0/NzEtMTYyOTExNTQ2/OC03MzAyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "France",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "EP",
+    "Compilation"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Funk / Soul"
+ ],
+ "id": 11400715,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/x8Eh1_-FX-pBX4GI4AsvmEHfe9qBXujfjXSH4DnuJDo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDAw/NzE1LTE1MTU2Njg4/MzAtOTA4NC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/x8Eh1_-FX-pBX4GI4AsvmEHfe9qBXujfjXSH4DnuJDo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDAw/NzE1LTE1MTU2Njg4/MzAtOTA4NC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/H0TAMcovCOCBmKwkV9ryNLC5rbyPfiFoHBZSnEen9F8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDAw/NzE1LTE1MTU2Njg4/MzAtOTA4NC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "HC 53",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 45591,
+   "name": "Hot Casa Records",
+   "resource_url": "https://api.discogs.com/labels/45591",
+   "thumbnail_url": "https://i.discogs.com/-OH_DDxy94N43_IDP5SHIi9Mds1HAHzNB-CXGcuIak4/rs:fit/g:sm/q:90/h:600/w:419/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ1NTkx/LTE2NzE3Nzk4NTQt/NDc1NS5qcGVn.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-01-19",
+ "styles": [
+  "Afrobeat"
+ ],
+ "title": "Koyma Hondo",
+ "tracklist": [
+  {
+   "duration": "3:58",
+   "position": "A1",
+   "title": "Koyma Hondo",
+   "type_": "track"
+  },
+  {
+   "duration": "4:16",
+   "position": "A2",
+   "title": "Zourou",
+   "type_": "track"
+  },
+  {
+   "duration": "4:28",
+   "position": "B1",
+   "title": "Yala M'le",
+   "type_": "track"
+  },
+  {
+   "duration": "2:23",
+   "position": "B2",
+   "title": "Petroci",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/11400715-Boncana-Maïga-Koyma-Hondo",
+ "year": 2018
+}

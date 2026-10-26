@@ -1,0 +1,91 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1460,
+   "join": "",
+   "name": "I-f",
+   "resource_url": "https://api.discogs.com/artists/1460",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/fHKqm9v8EVfvUQ8pJlmsewyOVgW70Cc9EzlfamvwKRg/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0NjAt/MTQ5MjA4NTI2OC04/OTI5LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Netherlands",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Green Marbled"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13360264,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/hlYaljtUs4hqENlHq6jBe7LlBl2w0DDejREC5E7ZlJI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYw/MjY0LTE2NTc5Nzky/MzQtOTIwOC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/hlYaljtUs4hqENlHq6jBe7LlBl2w0DDejREC5E7ZlJI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYw/MjY0LTE2NTc5Nzky/MzQtOTIwOC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/bIBf-oZVQ1kQYaCrga1liN1ZRZsYHc6MFiS0h1tmA5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYw/MjY0LTE2NTc5Nzky/MzQtOTIwOC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "V-006",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1907,
+   "name": "Viewlexx",
+   "resource_url": "https://api.discogs.com/labels/1907",
+   "thumbnail_url": "https://i.discogs.com/e6YmhZhP8i50xCRTn_R7jBr_9Hh5Umv4b0bkBSdSk2M/rs:fit/g:sm/q:90/h:392/w:440/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5MDct/MTM1NjgwOTE0My0z/OTIwLnBuZw.jpeg"
+  }
+ ],
+ "notes": "©+℗ Viewlexx 1997/2019",
+ "released": "2019-03-00",
+ "styles": [
+  "Electro",
+  "Experimental"
+ ],
+ "title": "Space Invaders' Revenge",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Space Invaders Are Smoking Grass (XL Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Space Invaders Are Smoking Grass (Instr. Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 532113,
+     "join": "",
+     "name": "Intergalactic Gary",
+     "resource_url": "https://api.discogs.com/artists/532113",
+     "role": "Featuring [With], Synthesizer [Additional Synthesizer Programming]",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Pong's Run",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13360264-I-f-Space-Invaders-Revenge",
+ "year": 2019
+}

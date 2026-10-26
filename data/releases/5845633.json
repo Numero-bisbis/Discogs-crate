@@ -1,0 +1,120 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 214348,
+   "join": "",
+   "name": "Darondo",
+   "resource_url": "https://api.discogs.com/artists/214348",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Y5UWNZOEmxKlW5o021nrYyeMDu6IRj-LV4RliHYG08o/rs:fit/g:sm/q:90/h:480/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNDM0/OC0xNzYxMTY3ODQ1/LTc3MTMucG5n.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "EP"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Funk / Soul"
+ ],
+ "id": 5845633,
+ "images": [
+  {
+   "height": 323,
+   "resource_url": "https://i.discogs.com/RUPMNmFkBi1bqSLAWkR-H-fgLTCA4mEMAqDaE2ZNkwM/rs:fit/g:sm/q:90/h:323/w:321/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDU2/MzMtMTQwNTc4Mjcz/OC0yMTg4LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/RUPMNmFkBi1bqSLAWkR-H-fgLTCA4mEMAqDaE2ZNkwM/rs:fit/g:sm/q:90/h:323/w:321/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDU2/MzMtMTQwNTc4Mjcz/OC0yMTg4LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/VB1xgUqCdpG90e26SGH54td9Lkz5uORcX3cMUiaBnVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDU2/MzMtMTQwNTc4Mjcz/OC0yMTg4LmpwZWc.jpeg",
+   "width": 321
+  }
+ ],
+ "labels": [
+  {
+   "catno": "UREP334",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 36766,
+   "name": "Ubiquity",
+   "resource_url": "https://api.discogs.com/labels/36766",
+   "thumbnail_url": "https://i.discogs.com/N5W10wWZJDJbDpQHj3b0RJ0cic3B3luCx7Z5eVFjZak/rs:fit/g:sm/q:90/h:321/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2NzY2/LTE2NTI1MjQ5MDUt/MjE5Mi5qcGVn.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2014-07-02",
+ "styles": [
+  "Funk",
+  "Soul"
+ ],
+ "title": "Didn't I EP",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 642245,
+     "join": "",
+     "name": "Guts",
+     "resource_url": "https://api.discogs.com/artists/642245",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Didn't I (GUTS Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3896296,
+     "join": "",
+     "name": "Florent F",
+     "resource_url": "https://api.discogs.com/artists/3896296",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Didn't I (Florent F Rework)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1198839,
+     "join": "",
+     "name": "Dave Allison (3)",
+     "resource_url": "https://api.discogs.com/artists/1198839",
+     "role": "Remix",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Didn't I (Dave Allison Rework)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Didn't I (Original)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/5845633-Darondo-Didnt-I-EP",
+ "year": 2014
+}

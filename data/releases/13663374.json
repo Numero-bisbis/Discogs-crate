@@ -1,0 +1,73 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 30958,
+   "join": "",
+   "name": "Floorplan",
+   "resource_url": "https://api.discogs.com/artists/30958",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Fhfy3VoCd6BBt6pK26B4tWmwq20lcD92MPg8jXdt89c/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMwOTU4/LTE3Njc0OTM4Mjct/Nzk4NC5wbmc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13663374,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/gjRORZ1pneke4g2CbX9Lh4EhXT0ynd0vVPum0KbvKY0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjYz/Mzc0LTE1NTkwODQy/NjEtMjEwMy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/gjRORZ1pneke4g2CbX9Lh4EhXT0ynd0vVPum0KbvKY0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjYz/Mzc0LTE1NTkwODQy/NjEtMjEwMy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/G7YF1BgHAiCoifx8cFHNSKhNqBWSnsyfAen-WH-k8zI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjYz/Mzc0LTE1NTkwODQy/NjEtMjEwMy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "M.PM32",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 399,
+   "name": "M-Plant",
+   "resource_url": "https://api.discogs.com/labels/399",
+   "thumbnail_url": "https://i.discogs.com/dFqTzreefpixoBAwDdMslAZDWBjyJqTK7u0vw0T8qVk/rs:fit/g:sm/q:90/h:46/w:277/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM5OS0x/MjU0MTk4Mjc4LnBu/Zw.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2019-05-22",
+ "styles": [
+  "Techno",
+  "House"
+ ],
+ "title": "So Glad / I Feel Him Moving",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "So Glad",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "AA",
+   "title": "I Feel Him Moving",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13663374-Floorplan-So-Glad-I-Feel-Him-Moving",
+ "year": 2019
+}

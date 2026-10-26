@@ -1,0 +1,111 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5268524,
+   "join": "",
+   "name": "Phillipi & Rodrigo",
+   "resource_url": "https://api.discogs.com/artists/5268524",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/m4L6Ag3CxsQjdPoeMXv4d2M8re1lM-StRvwjozmwA0k/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyNjg1/MjQtMTU1MDU4MTkx/Ni02OTI3LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 13242319,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/7-12YqxmaBLouguXgBRVIuXE-6Z68qIueQWM0DcVJPQ/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQy/MzE5LTE2Nzg5NzAw/NzctOTY2OC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/7-12YqxmaBLouguXgBRVIuXE-6Z68qIueQWM0DcVJPQ/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQy/MzE5LTE2Nzg5NzAw/NzctOTY2OC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/K7xfjIHAgbsviRO7WLuTAC0LRMVRqMuhRAk5sYDO7ZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQy/MzE5LTE2Nzg5NzAw/NzctOTY2OC5qcGVn.jpeg",
+   "width": 579
+  }
+ ],
+ "labels": [
+  {
+   "catno": "DEEWEE032",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 901323,
+   "name": "Deewee",
+   "resource_url": "https://api.discogs.com/labels/901323",
+   "thumbnail_url": "https://i.discogs.com/43iFaH5jTGcKif0DoJFbOk5ajpAmXmRmxUuuphfCAks/rs:fit/g:sm/q:90/h:600/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwMTMy/My0xNTE1NzI4ODk3/LTgxMjYucG5n.jpeg"
+  }
+ ],
+ "notes": "Both sides start with a narration from Phillipi and Rodrigo in Portuguese: \"Deewee 032, Lado (A or B)\".\nBoth sides end in a locked inner groove.",
+ "released": "2019-02-19",
+ "styles": [
+  "New Beat",
+  "Psychedelic",
+  "Acid",
+  "Tribal House"
+ ],
+ "title": "Paciencia",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Magnetico",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Retrogrado",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Minas",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Karma",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Barbarella",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Rotina",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Face",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Paciencia",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/13242319-Phillipi-Rodrigo-Paciencia",
+ "year": 2019
+}

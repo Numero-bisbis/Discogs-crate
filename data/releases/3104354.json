@@ -1,0 +1,284 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 98585,
+   "join": "",
+   "name": "Ray Bryant",
+   "resource_url": "https://api.discogs.com/artists/98585",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/ph96AQhZo3pbnBb6DRi2eqsfQ52nWqlqpo_uOaMMQlo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk4NTg1/LTE3NTgzMTU2MjEt/ODc2NS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Jazz",
+  "Blues"
+ ],
+ "id": 3104354,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/yeNjnV8tQej1PjfVd0DW9LX4RzuVjW-Bd4fFx32jYzg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDQz/NTQtMTY4MDAyNDMz/NC05NDQyLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/yeNjnV8tQej1PjfVd0DW9LX4RzuVjW-Bd4fFx32jYzg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDQz/NTQtMTY4MDAyNDMz/NC05NDQyLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/jm7qtfO6nSGGD1zQMsLN9qN8upmLaD6qIAeq0ftCdWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDQz/NTQtMTY4MDAyNDMz/NC05NDQyLmpwZWc.jpeg",
+   "width": 595
+  }
+ ],
+ "labels": [
+  {
+   "catno": "SD 1626",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 681,
+   "name": "Atlantic",
+   "resource_url": "https://api.discogs.com/labels/681",
+   "thumbnail_url": "https://i.discogs.com/PvGehzQPvOW9qMVS-EDAeOmU6qODkqTEQ5bW03gpVyo/rs:fit/g:sm/q:90/h:426/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MS0x/NTEwNjgyMTM0LTgz/NTAucG5n.jpeg"
+  }
+ ],
+ "notes": "Glossy lamination on front.\n\n℗ © 1972 Atlantic Recording Corporation\nPrinted in U.S.A.\n\nRecorded live at the Montreux Jazz Festival in Montreux, Switzerland, 1972.\nRe-mixed at Regent Sound Studios, New York, N.Y.\n\nA1: Sanga, BMI\nA2a: Brynor, BMI\nA2b: Bourne, ASCAP\nA3: Brynor, BMI\nA4: Carmichael Music, ASCAP\nA5: Anne-Rachel, ASCAP\nB1: Brynor, BMI\nB2: Brynor, BMI\nB3: Brynor, BMI\nB4: Gypsy Boy, BMI\nB5: Brynor, BMI\nB6: Brynor, BMI",
+ "released": "1972",
+ "styles": [
+  "Piano Blues",
+  "Swing"
+ ],
+ "title": "Alone At Montreux",
+ "tracklist": [
+  {
+   "duration": "4:45",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 869019,
+     "join": "",
+     "name": "Larry Ehrlich",
+     "resource_url": "https://api.discogs.com/artists/869019",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 869023,
+     "join": "",
+     "name": "Paul Clayton (2)",
+     "resource_url": "https://api.discogs.com/artists/869023",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1129155,
+     "join": "",
+     "name": "Tom Six",
+     "resource_url": "https://api.discogs.com/artists/1129155",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Gotta Travel On",
+   "type_": "track"
+  },
+  {
+   "duration": "5:40",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 98585,
+     "join": "",
+     "name": "Ray Bryant",
+     "resource_url": "https://api.discogs.com/artists/98585",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2a",
+   "title": "Blues #3",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 565717,
+     "join": "",
+     "name": "Ann Ronell",
+     "resource_url": "https://api.discogs.com/artists/565717",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2b",
+   "title": "Willow Weep For Me",
+   "type_": "track"
+  },
+  {
+   "duration": "4:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 98585,
+     "join": "",
+     "name": "Ray Bryant",
+     "resource_url": "https://api.discogs.com/artists/98585",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Cubano Chant",
+   "type_": "track"
+  },
+  {
+   "duration": "4:32",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 301368,
+     "join": "",
+     "name": "Hoagy Carmichael",
+     "resource_url": "https://api.discogs.com/artists/301368",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Rockin' Chair",
+   "type_": "track"
+  },
+  {
+   "duration": "3:28",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 732209,
+     "join": "",
+     "name": "Avery Parrish",
+     "resource_url": "https://api.discogs.com/artists/732209",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "After Hours",
+   "type_": "track"
+  },
+  {
+   "duration": "5:08",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 98585,
+     "join": "",
+     "name": "Ray Bryant",
+     "resource_url": "https://api.discogs.com/artists/98585",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Slow Freight",
+   "type_": "track"
+  },
+  {
+   "duration": "2:00",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 151641,
+     "join": "",
+     "name": "Traditional",
+     "resource_url": "https://api.discogs.com/artists/151641",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Greensleeves",
+   "type_": "track"
+  },
+  {
+   "duration": "2:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 98585,
+     "join": "",
+     "name": "Ray Bryant",
+     "resource_url": "https://api.discogs.com/artists/98585",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Little Suzie",
+   "type_": "track"
+  },
+  {
+   "duration": "3:23",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 384185,
+     "join": "",
+     "name": "Buffy Sainte-Marie",
+     "resource_url": "https://api.discogs.com/artists/384185",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Until It's Time For You To Go",
+   "type_": "track"
+  },
+  {
+   "duration": "3:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 98585,
+     "join": "",
+     "name": "Ray Bryant",
+     "resource_url": "https://api.discogs.com/artists/98585",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Blues #2",
+   "type_": "track"
+  },
+  {
+   "duration": "3:30",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 151641,
+     "join": "",
+     "name": "Traditional",
+     "resource_url": "https://api.discogs.com/artists/151641",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Liebestraum Boogie",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/3104354-Ray-Bryant-Alone-At-Montreux",
+ "year": 1972
+}

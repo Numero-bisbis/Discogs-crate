@@ -1,0 +1,116 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6524448,
+   "join": "",
+   "name": "Insólito UniVerso",
+   "resource_url": "https://api.discogs.com/artists/6524448",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/1W6YKx7RtbFO_y6EE5hu4L2tQw7xiQzSK4k4IjVsC4Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY1MjQ0/NDgtMTU0MDUwMzM1/NS0zNTg4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Rock",
+  "Latin",
+  "Folk, World, & Country"
+ ],
+ "id": 12710971,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/UVmlpSpV-GV2KqA79y8yFRuLl4aSKutisVlqcMNoNt8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEw/OTcxLTE1NDA1MDM1/OTItNzc3MC5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/UVmlpSpV-GV2KqA79y8yFRuLl4aSKutisVlqcMNoNt8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEw/OTcxLTE1NDA1MDM1/OTItNzc3MC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/WA3NfHAivxHTzb_x0zx3fkmQ9HMvPLYRxQE0QNz9xpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEw/OTcxLTE1NDA1MDM1/OTItNzc3MC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "ORLP002",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1201075,
+   "name": "Olindo",
+   "resource_url": "https://api.discogs.com/labels/1201075",
+   "thumbnail_url": "https://i.discogs.com/pryKL7oKGTCu3pYEouzkcvIoKdXW7iM9hlGsngj3Q5w/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMDEw/NzUtMTQ5MTMyMDQy/My00NTcyLmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-11-16",
+ "styles": [
+  "Folk Rock",
+  "Post Rock",
+  "Joropo",
+  "Psychedelic Rock",
+  "Folk",
+  "Música Criolla"
+ ],
+ "title": "La Candela Del Río",
+ "tracklist": [
+  {
+   "duration": "5:43",
+   "position": "A1",
+   "title": "Transmutada",
+   "type_": "track"
+  },
+  {
+   "duration": "3:25",
+   "position": "A2",
+   "title": "Vuelve",
+   "type_": "track"
+  },
+  {
+   "duration": "8:04",
+   "position": "A3",
+   "title": "Machurucuto",
+   "type_": "track"
+  },
+  {
+   "duration": "4:26",
+   "position": "A4",
+   "title": "Pájaro",
+   "type_": "track"
+  },
+  {
+   "duration": "7:32",
+   "position": "B1",
+   "title": "Lloviendo En Guatire",
+   "type_": "track"
+  },
+  {
+   "duration": "5:25",
+   "position": "B2",
+   "title": "Yo Soy Mi Río",
+   "type_": "track"
+  },
+  {
+   "duration": "3:51",
+   "position": "B3",
+   "title": "El Vuelo Del Gabán",
+   "type_": "track"
+  },
+  {
+   "duration": "6:39",
+   "position": "B4",
+   "title": "Tonada Del Guante",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12710971-Insólito-UniVerso-La-Candela-Del-Río",
+ "year": 2018
+}

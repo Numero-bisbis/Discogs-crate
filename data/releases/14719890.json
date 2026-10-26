@@ -1,0 +1,74 @@
+{
+ "artists": [
+  {
+   "anv": "UR",
+   "id": 1160,
+   "join": "",
+   "name": "Underground Resistance",
+   "resource_url": "https://api.discogs.com/artists/1160",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-42dR48FmqeNp5pQSGjFnuAx1iGngmVEbW2WLdgiJQ4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExNjAt/MTI3MTQ1MTc5Mi5q/cGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "EP",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 14719890,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/YyXQjoEbJFTmFPLbsMWb2nVAl5CtLGpardCxd89lnno/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzE5/ODkwLTE1OTI2MDM3/MzEtMTY1OS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/YyXQjoEbJFTmFPLbsMWb2nVAl5CtLGpardCxd89lnno/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzE5/ODkwLTE1OTI2MDM3/MzEtMTY1OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/QMiXpd9eY95wqL7QYASIBsI2qV2QX0NbqBNFGkgehvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzE5/ODkwLTE1OTI2MDM3/MzEtMTY1OS5qcGVn.jpeg",
+   "width": 595
+  }
+ ],
+ "labels": [
+  {
+   "catno": "UR-049",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 258,
+   "name": "Underground Resistance",
+   "resource_url": "https://api.discogs.com/labels/258",
+   "thumbnail_url": "https://i.discogs.com/RF4tPFDkcvbGOhFDKtrv4oJLzgA3LnZvETaoIH0fbdQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1OC0x/MjcxNDUxNzIyLmpw/ZWc.jpeg"
+  }
+ ],
+ "notes": "℗ Underground Resistance Prod.\n© Mad Mike Music BMI\n\nThe track ‘Ascension’ was originally released using the spanish title ‘Ascesión’.\nIt also contains an uncredited sample from [r1303276].\n\nThis version uses the same copyright holder / publisher [l=Mad Mike Music] as the original release, while the 2005 version used [l=Sound Of Detroit].\n\nRepressed in 2023.",
+ "released": "2020-01-00",
+ "styles": [
+  "Techno"
+ ],
+ "title": "Knights Of The Jaguar EP",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A",
+   "title": "Jaguar",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B",
+   "title": "Ascension",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14719890-UR-Knights-Of-The-Jaguar-EP",
+ "year": 2020
+}

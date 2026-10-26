@@ -1,0 +1,76 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 6665194,
+   "join": "",
+   "name": "Partner Music",
+   "resource_url": "https://api.discogs.com/artists/6665194",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/_VC2t96Ua733HlwoF7idIHUMgBMhmCfaCUAA-gEjBlU/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY2NjUx/OTQtMTUzNTIwMDAx/Ny03MjgyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "45 RPM",
+    "Limited Edition",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 12433082,
+ "images": [
+  {
+   "height": 581,
+   "resource_url": "https://i.discogs.com/2IwUuZ936SF5araln5rzrnwmNlYR7M8GttcvsIrk_Zo/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDMz/MDgyLTE1NDgxMzQ5/MjYtMjY5MS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/2IwUuZ936SF5araln5rzrnwmNlYR7M8GttcvsIrk_Zo/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDMz/MDgyLTE1NDgxMzQ5/MjYtMjY5MS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/PH-FK9b_4VMh0aSWfBes3QstFZzpGC8xxmiJ1BfkVDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDMz/MDgyLTE1NDgxMzQ5/MjYtMjY5MS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "HP002",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2762546,
+   "name": "High Praise (2)",
+   "resource_url": "https://api.discogs.com/labels/2762546",
+   "thumbnail_url": "https://i.discogs.com/ruDEBbZ7mejNDGSe8FBofjvm2gTcZkzTRD9-_VtV0Lw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NjI1/NDYtMTY1MjgwOTk3/MS04MTc5LmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2018-08-00",
+ "styles": [
+  "Disco",
+  "Nu-Disco",
+  "House"
+ ],
+ "title": "High Praise Edits Volume II",
+ "tracklist": [
+  {
+   "duration": "5:14",
+   "position": "A",
+   "title": "Patu",
+   "type_": "track"
+  },
+  {
+   "duration": "5:46",
+   "position": "B",
+   "title": "My People",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/12433082-Partner-Music-High-Praise-Edits-Volume-II",
+ "year": 2018
+}

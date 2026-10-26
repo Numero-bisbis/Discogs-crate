@@ -1,0 +1,3123 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 38661,
+   "join": "",
+   "name": "Eminem",
+   "resource_url": "https://api.discogs.com/artists/38661",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/OMxoYlGYCVH5XjvvcNxFiRoTcoj4dIkM7Nzs27OLrIw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4NjYx/LTE2NDI5Mjk5NzUt/OTQyOS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "4",
+   "text": "Expanded Edition"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 25901449,
+ "images": [
+  {
+   "height": 598,
+   "resource_url": "https://i.discogs.com/CrjWeIu1iFRa-Zl0Hyjvu14KBOJiLSxGJbceh_c9UD4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTAx/NDQ5LTE3MDA5NDA5/NjMtNDc0MS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/CrjWeIu1iFRa-Zl0Hyjvu14KBOJiLSxGJbceh_c9UD4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTAx/NDQ5LTE3MDA5NDA5/NjMtNDc0MS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/ElD0Yha_jGTcgTf6tGrWanFI4mf34MdLq1RzDOS29Vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTAx/NDQ5LTE3MDA5NDA5/NjMtNDc0MS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "B0035973-01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2310,
+   "name": "Aftermath Entertainment",
+   "resource_url": "https://api.discogs.com/labels/2310",
+   "thumbnail_url": "https://i.discogs.com/PZJDWzXrr7RV8p1VNxDDOw0_z4GgDMo75EPC5lpkc30/rs:fit/g:sm/q:90/h:462/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTAt/MTQ4ODkxNzkxOS04/MTQxLnBuZw.jpeg"
+  },
+  {
+   "catno": "B0035973-01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2311,
+   "name": "Interscope Records",
+   "resource_url": "https://api.discogs.com/labels/2311",
+   "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+  },
+  {
+   "catno": "B0035973-01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 68029,
+   "name": "UMe",
+   "resource_url": "https://api.discogs.com/labels/68029",
+   "thumbnail_url": "https://i.discogs.com/M8dUXs4KvT0ntyk7C_Xbzh3z3vTBp9EBxecfUb13p74/rs:fit/g:sm/q:90/h:233/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MDI5/LTE1MDM0MTYxNTkt/OTAxNy5wbmc.jpeg"
+  },
+  {
+   "catno": "B0035973-01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 22082,
+   "name": "Web Entertainment",
+   "resource_url": "https://api.discogs.com/labels/22082",
+   "thumbnail_url": "https://i.discogs.com/uhH8baslWr78tnuDRKL2vl8ZNoukgSe2x9z2WYrliMk/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyMDgy/LTE0ODg5MjA1NjAt/MTA3NC5wbmc.jpeg"
+  },
+  {
+   "catno": "B0035973-01",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 12321,
+   "name": "Shady Records",
+   "resource_url": "https://api.discogs.com/labels/12321",
+   "thumbnail_url": "https://i.discogs.com/c7HzogSkNhAzXjwEt4plfgXRJK1cEZ0Zb5CM5SgO4s8/rs:fit/g:sm/q:90/h:378/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMzIx/LTE0ODg5MjAwODgt/OTk3MS5wbmc.jpeg"
+  }
+ ],
+ "notes": "This expanded reissue includes, in addition to the original tracklist, 18 bonus tracks including B-sides, live performances, instrumentals and an unreleased song.\nIssued in a gatefold cover.\n\nOn back cover and label side A, C, E & G:\n℗©2022 UMG Recordings, Inc.",
+ "released": "2023-01-27",
+ "styles": [
+  "Pop Rap",
+  "Hardcore Hip-Hop",
+  "Conscious"
+ ],
+ "title": "The Eminem Show",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 532995,
+     "join": "",
+     "name": "Francis Forde",
+     "resource_url": "https://api.discogs.com/artists/532995",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "Ron Feemster",
+     "id": 294367,
+     "join": "",
+     "name": "Ron \"NEFF-U\" Feemstar",
+     "resource_url": "https://api.discogs.com/artists/294367",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 455047,
+     "join": "",
+     "name": "Mauricio \"Veto\" Iragorri",
+     "resource_url": "https://api.discogs.com/artists/455047",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Curtains Up (Skit)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 199589,
+     "join": "",
+     "name": "Dina Rae",
+     "resource_url": "https://api.discogs.com/artists/199589",
+     "role": "Backing Vocals [Additional Background Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "D.J. Head",
+     "id": 181268,
+     "join": "",
+     "name": "DJ Head",
+     "resource_url": "https://api.discogs.com/artists/181268",
+     "role": "Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "Michael Strange Jr.",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 506748,
+     "join": "",
+     "name": "Urban Kris",
+     "resource_url": "https://api.discogs.com/artists/506748",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Guitar [Additional Guitars By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Guitar, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Bass",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Resto",
+     "id": 131693,
+     "join": "",
+     "name": "Luis Resto",
+     "resource_url": "https://api.discogs.com/artists/131693",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. King",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "White America",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 174240,
+     "join": "",
+     "name": "Barbara Wilson",
+     "resource_url": "https://api.discogs.com/artists/174240",
+     "role": "Backing Vocals [Background Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "Conesha Monet Owens",
+     "id": 360701,
+     "join": "",
+     "name": "Conesha Owens",
+     "resource_url": "https://api.discogs.com/artists/360701",
+     "role": "Backing Vocals [Background Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 787713,
+     "join": "",
+     "name": "Shy Felder",
+     "resource_url": "https://api.discogs.com/artists/787713",
+     "role": "Backing Vocals [Background Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 116230,
+     "join": "",
+     "name": "Traci Nelson",
+     "resource_url": "https://api.discogs.com/artists/116230",
+     "role": "Backing Vocals [Background Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Bass, Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 489217,
+     "join": "",
+     "name": "Alex Reverberi",
+     "resource_url": "https://api.discogs.com/artists/489217",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 787712,
+     "join": "",
+     "name": "Bob Canero",
+     "resource_url": "https://api.discogs.com/artists/787712",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "James \"Flea\" McCrone",
+     "id": 393547,
+     "join": "",
+     "name": "James McCrone",
+     "resource_url": "https://api.discogs.com/artists/393547",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "Michael Strange Jr.",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 506748,
+     "join": "",
+     "name": "Urban Kris",
+     "resource_url": "https://api.discogs.com/artists/506748",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 455047,
+     "join": "",
+     "name": "Mauricio \"Veto\" Iragorri",
+     "resource_url": "https://api.discogs.com/artists/455047",
+     "role": "Engineer [Recording Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Engineer [Recording Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "Ron Feemster",
+     "id": 294367,
+     "join": "",
+     "name": "Ron \"NEFF-U\" Feemstar",
+     "resource_url": "https://api.discogs.com/artists/294367",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Producer, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Elizondo",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Feemster",
+     "id": 294367,
+     "join": "",
+     "name": "Ron \"NEFF-U\" Feemstar",
+     "resource_url": "https://api.discogs.com/artists/294367",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Business",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "D.J. Head",
+     "id": 181268,
+     "join": "",
+     "name": "DJ Head",
+     "resource_url": "https://api.discogs.com/artists/181268",
+     "role": "Drum Programming [Additional Drum Programming By]",
+     "tracks": ""
+    },
+    {
+     "anv": "Michael Strange Jr.",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 506748,
+     "join": "",
+     "name": "Urban Kris",
+     "resource_url": "https://api.discogs.com/artists/506748",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Keyboards, Guitar, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Bass",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Cleanin' Out My Closet",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Michael Strange Jr.",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Bass",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Resto",
+     "id": 131693,
+     "join": "",
+     "name": "Luis Resto",
+     "resource_url": "https://api.discogs.com/artists/131693",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Square Dance",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 787715,
+     "join": "",
+     "name": "Gary Kozlowski",
+     "resource_url": "https://api.discogs.com/artists/787715",
+     "role": "Backing Vocals [Background Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 787716,
+     "join": "",
+     "name": "Lynette Purdy",
+     "resource_url": "https://api.discogs.com/artists/787716",
+     "role": "Backing Vocals [Background Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "Michael Strange Jr.",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Bass",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "The Kiss (Skit)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "D.J. Head",
+     "id": 181268,
+     "join": "",
+     "name": "DJ Head",
+     "resource_url": "https://api.discogs.com/artists/181268",
+     "role": "Drum Programming [Additional Drum Programming By]",
+     "tracks": ""
+    },
+    {
+     "anv": "Michael Strange Jr.",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 506748,
+     "join": "",
+     "name": "Urban Kris",
+     "resource_url": "https://api.discogs.com/artists/506748",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Guitar, Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Keyboards [Additional Keyboards By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Keyboards [Additional Keyboards By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Resto",
+     "id": 131693,
+     "join": "",
+     "name": "Luis Resto",
+     "resource_url": "https://api.discogs.com/artists/131693",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Soldier",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "Mel Man",
+     "id": 136510,
+     "join": "",
+     "name": "Mel-Man",
+     "resource_url": "https://api.discogs.com/artists/136510",
+     "role": "Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "Michael Strange Jr.",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 506748,
+     "join": "",
+     "name": "Urban Kris",
+     "resource_url": "https://api.discogs.com/artists/506748",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "Louis Resto",
+     "id": 131693,
+     "join": "",
+     "name": "Luis Resto",
+     "resource_url": "https://api.discogs.com/artists/131693",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Resto",
+     "id": 131693,
+     "join": "",
+     "name": "Luis Resto",
+     "resource_url": "https://api.discogs.com/artists/131693",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Elizondo",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Say Goodbye Hollywood",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Michael Strange Jr.",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 506748,
+     "join": "",
+     "name": "Urban Kris",
+     "resource_url": "https://api.discogs.com/artists/506748",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 126157,
+     "join": "",
+     "name": "Obie Trice",
+     "resource_url": "https://api.discogs.com/artists/126157",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Guitar, Keyboards, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "D. Porter",
+     "id": 176778,
+     "join": "",
+     "name": "Denaun Porter",
+     "resource_url": "https://api.discogs.com/artists/176778",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Bass",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "O. Trice",
+     "id": 126157,
+     "join": "",
+     "name": "Obie Trice",
+     "resource_url": "https://api.discogs.com/artists/126157",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Drips",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 489217,
+     "join": "",
+     "name": "Alex Reverberi",
+     "resource_url": "https://api.discogs.com/artists/489217",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "Michael Strange Jr.",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 506748,
+     "join": "",
+     "name": "Urban Kris",
+     "resource_url": "https://api.discogs.com/artists/506748",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Engineer [Recording Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Keyboards, Guitar, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4732892,
+     "join": "",
+     "name": "Music Resources, Inc.",
+     "resource_url": "https://api.discogs.com/artists/4732892",
+     "role": "Legal [Sample Clearance Services By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "D.J. Head",
+     "id": 181268,
+     "join": "",
+     "name": "DJ Head",
+     "resource_url": "https://api.discogs.com/artists/181268",
+     "role": "Producer [Additional Production By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 455047,
+     "join": "",
+     "name": "Mauricio \"Veto\" Iragorri",
+     "resource_url": "https://api.discogs.com/artists/455047",
+     "role": "Recorded By [Additional Recording By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Dudley",
+     "id": 85928,
+     "join": "",
+     "name": "Anne Dudley",
+     "resource_url": "https://api.discogs.com/artists/85928",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Bass",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Bell",
+     "id": 2504451,
+     "join": "",
+     "name": "Kevin Bell (4)",
+     "resource_url": "https://api.discogs.com/artists/2504451",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. McLaren",
+     "id": 24495,
+     "join": "",
+     "name": "Malcolm McLaren",
+     "resource_url": "https://api.discogs.com/artists/24495",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Horn",
+     "id": 32875,
+     "join": "",
+     "name": "Trevor Horn",
+     "resource_url": "https://api.discogs.com/artists/32875",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Dudley",
+     "id": 85928,
+     "join": "",
+     "name": "Anne Dudley",
+     "resource_url": "https://api.discogs.com/artists/85928",
+     "role": "Written-By [Resung Elements From \"Buffalo Gals\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "M. McLaren",
+     "id": 24495,
+     "join": "",
+     "name": "Malcolm McLaren",
+     "resource_url": "https://api.discogs.com/artists/24495",
+     "role": "Written-By [Resung Elements From \"Buffalo Gals\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Horn",
+     "id": 32875,
+     "join": "",
+     "name": "Trevor Horn",
+     "resource_url": "https://api.discogs.com/artists/32875",
+     "role": "Written-By [Resung Elements From \"Buffalo Gals\"]",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Without Me",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Paul D. Rosenberg, Esq.",
+     "id": 311612,
+     "join": "",
+     "name": "Paul Rosenberg",
+     "resource_url": "https://api.discogs.com/artists/311612",
+     "role": "Performer",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Paul Rosenberg (Skit)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "D.J. Head",
+     "id": 181268,
+     "join": "",
+     "name": "DJ Head",
+     "resource_url": "https://api.discogs.com/artists/181268",
+     "role": "Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "Michael Strange Jr.",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 175132,
+     "join": "",
+     "name": "Joe Perry",
+     "resource_url": "https://api.discogs.com/artists/175132",
+     "role": "Guitar [Guitar Solo By], Soloist [Guitar Solo By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Keyboards, Guitar, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4732892,
+     "join": "",
+     "name": "Music Resources, Inc.",
+     "resource_url": "https://api.discogs.com/artists/4732892",
+     "role": "Legal [Sample Clearing Services By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 494252,
+     "join": "",
+     "name": "Marti Frederiksen",
+     "resource_url": "https://api.discogs.com/artists/494252",
+     "role": "Recorded By [Recording Of Joe Perry's Guitar By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Bass",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Resto",
+     "id": 131693,
+     "join": "",
+     "name": "Luis Resto",
+     "resource_url": "https://api.discogs.com/artists/131693",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. King",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Tyler",
+     "id": 175128,
+     "join": "",
+     "name": "Steven Tyler",
+     "resource_url": "https://api.discogs.com/artists/175128",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Tyler",
+     "id": 175128,
+     "join": "",
+     "name": "Steven Tyler",
+     "resource_url": "https://api.discogs.com/artists/175128",
+     "role": "Written-By [Elements From \"Dream On\"]",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Sing For The Moment",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Michael Strange Jr.",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 506748,
+     "join": "",
+     "name": "Urban Kris",
+     "resource_url": "https://api.discogs.com/artists/506748",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 199589,
+     "join": "",
+     "name": "Dina Rae",
+     "resource_url": "https://api.discogs.com/artists/199589",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Keyboards, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Producer [Additional Production By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Bass",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. King",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Superman",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "James \"Flea\" McCrone",
+     "id": 393547,
+     "join": "",
+     "name": "James McCrone",
+     "resource_url": "https://api.discogs.com/artists/393547",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "Michael Strange Jr.",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 506748,
+     "join": "",
+     "name": "Urban Kris",
+     "resource_url": "https://api.discogs.com/artists/506748",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 455047,
+     "join": "",
+     "name": "Mauricio \"Veto\" Iragorri",
+     "resource_url": "https://api.discogs.com/artists/455047",
+     "role": "Engineer [Mix Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Engineer [Mix Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Resto",
+     "id": 131693,
+     "join": "",
+     "name": "Luis Resto",
+     "resource_url": "https://api.discogs.com/artists/131693",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Hailie's Song",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Performer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 474475,
+     "join": "",
+     "name": "Steve Berman (3)",
+     "resource_url": "https://api.discogs.com/artists/474475",
+     "role": "Performer",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Steve Berman (Skit)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 176778,
+     "join": "",
+     "name": "Denaun Porter",
+     "resource_url": "https://api.discogs.com/artists/176778",
+     "role": "Co-producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 176778,
+     "join": "",
+     "name": "Denaun Porter",
+     "resource_url": "https://api.discogs.com/artists/176778",
+     "role": "Drum Programming",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 532995,
+     "join": "",
+     "name": "Francis Forde",
+     "resource_url": "https://api.discogs.com/artists/532995",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 435800,
+     "join": "",
+     "name": "Thomas Rounds",
+     "resource_url": "https://api.discogs.com/artists/435800",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 455047,
+     "join": "",
+     "name": "Mauricio \"Veto\" Iragorri",
+     "resource_url": "https://api.discogs.com/artists/455047",
+     "role": "Engineer [Recording Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 232513,
+     "join": "",
+     "name": "Steve Baughman",
+     "resource_url": "https://api.discogs.com/artists/232513",
+     "role": "Engineer [Recording Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "D-12",
+     "id": 204817,
+     "join": "",
+     "name": "D12",
+     "resource_url": "https://api.discogs.com/artists/204817",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "Ron Feemster",
+     "id": 294367,
+     "join": "",
+     "name": "Ron \"NEFF-U\" Feemstar",
+     "resource_url": "https://api.discogs.com/artists/294367",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 232513,
+     "join": "",
+     "name": "Steve Baughman",
+     "resource_url": "https://api.discogs.com/artists/232513",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "D. Porter",
+     "id": 176778,
+     "join": "",
+     "name": "Denaun Porter",
+     "resource_url": "https://api.discogs.com/artists/176778",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "O. Moore",
+     "id": 698841,
+     "join": "",
+     "name": "Ondre Moore",
+     "resource_url": "https://api.discogs.com/artists/698841",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Feemster",
+     "id": 294367,
+     "join": "",
+     "name": "Ron \"NEFF-U\" Feemstar",
+     "resource_url": "https://api.discogs.com/artists/294367",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Johnson",
+     "id": 663792,
+     "join": "",
+     "name": "Rufus Johnson",
+     "resource_url": "https://api.discogs.com/artists/663792",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "V. Carlisle",
+     "id": 698839,
+     "join": "",
+     "name": "Von Carlisle",
+     "resource_url": "https://api.discogs.com/artists/698839",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "When The Music Stops",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "James \"Flea\" McCrone",
+     "id": 393547,
+     "join": "",
+     "name": "James McCrone",
+     "resource_url": "https://api.discogs.com/artists/393547",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 455047,
+     "join": "",
+     "name": "Mauricio \"Veto\" Iragorri",
+     "resource_url": "https://api.discogs.com/artists/455047",
+     "role": "Engineer [Recording Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Engineer [Recording Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "Ron Feemster",
+     "id": 294367,
+     "join": "",
+     "name": "Ron \"NEFF-U\" Feemstar",
+     "resource_url": "https://api.discogs.com/artists/294367",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Producer, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35125,
+     "join": "",
+     "name": "Timbaland",
+     "resource_url": "https://api.discogs.com/artists/35125",
+     "role": "Voice [Phone Call By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Elizondo",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Feemster",
+     "id": 294367,
+     "join": "",
+     "name": "Ron \"NEFF-U\" Feemstar",
+     "resource_url": "https://api.discogs.com/artists/294367",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Say What You Say",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Michael Strange Jr.",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 506748,
+     "join": "",
+     "name": "Urban Kris",
+     "resource_url": "https://api.discogs.com/artists/506748",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109832,
+     "join": "",
+     "name": "Nate Dogg",
+     "resource_url": "https://api.discogs.com/artists/109832",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Guitar, Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Resto",
+     "id": 131693,
+     "join": "",
+     "name": "Luis Resto",
+     "resource_url": "https://api.discogs.com/artists/131693",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "N. Hale",
+     "id": 599999,
+     "join": "",
+     "name": "Nathaniel Hale",
+     "resource_url": "https://api.discogs.com/artists/599999",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Till I Collapse",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 489217,
+     "join": "",
+     "name": "Alex Reverberi",
+     "resource_url": "https://api.discogs.com/artists/489217",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 787712,
+     "join": "",
+     "name": "Bob Canero",
+     "resource_url": "https://api.discogs.com/artists/787712",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "James \"Flea\" McCrone",
+     "id": 393547,
+     "join": "",
+     "name": "James McCrone",
+     "resource_url": "https://api.discogs.com/artists/393547",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 506748,
+     "join": "",
+     "name": "Urban Kris",
+     "resource_url": "https://api.discogs.com/artists/506748",
+     "role": "Engineer [Assistant Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 455047,
+     "join": "",
+     "name": "Mauricio \"Veto\" Iragorri",
+     "resource_url": "https://api.discogs.com/artists/455047",
+     "role": "Engineer [Recording Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Engineer [Recording Engineer]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174828,
+     "join": "",
+     "name": "Hailie Jade",
+     "resource_url": "https://api.discogs.com/artists/174828",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "Ron Feemster",
+     "id": 294367,
+     "join": "",
+     "name": "Ron \"NEFF-U\" Feemstar",
+     "resource_url": "https://api.discogs.com/artists/294367",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Producer, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Voice [Television Voiceover]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Elizondo",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Feemster",
+     "id": 294367,
+     "join": "",
+     "name": "Ron \"NEFF-U\" Feemstar",
+     "resource_url": "https://api.discogs.com/artists/294367",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D5",
+   "title": "My Dad's Gone Crazy",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 787714,
+     "join": "",
+     "name": "Ken Kaniff",
+     "resource_url": "https://api.discogs.com/artists/787714",
+     "role": "Performer",
+     "tracks": ""
+    }
+   ],
+   "position": "D6",
+   "title": "Curtains Close (skit)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Bass",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "E1",
+   "title": "Stimulate",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 210875,
+     "join": "",
+     "name": "DJ Green Lantern",
+     "resource_url": "https://api.discogs.com/artists/210875",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "E2",
+   "title": "The Conspiracy Freestyle",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 79578,
+     "join": "",
+     "name": "50 Cent",
+     "resource_url": "https://api.discogs.com/artists/79578",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 167646,
+     "join": "",
+     "name": "Lloyd Banks",
+     "resource_url": "https://api.discogs.com/artists/167646",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 167645,
+     "join": "",
+     "name": "Tony Yayo",
+     "resource_url": "https://api.discogs.com/artists/167645",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 210875,
+     "join": "",
+     "name": "DJ Green Lantern",
+     "resource_url": "https://api.discogs.com/artists/210875",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Lloyd",
+     "id": 825434,
+     "join": "",
+     "name": "Christopher Lloyd",
+     "resource_url": "https://api.discogs.com/artists/825434",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Jackson",
+     "id": 668482,
+     "join": "",
+     "name": "Curtis Jackson",
+     "resource_url": "https://api.discogs.com/artists/668482",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Bernard",
+     "id": 825442,
+     "join": "",
+     "name": "Marvin Bernard",
+     "resource_url": "https://api.discogs.com/artists/825442",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "E3",
+   "title": "Bump Heads",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 131693,
+     "join": "",
+     "name": "Luis Resto",
+     "resource_url": "https://api.discogs.com/artists/131693",
+     "role": "Keyboards [Additional Keyboards By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer [Additional Production By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 423900,
+     "join": "",
+     "name": "Mike Strange",
+     "resource_url": "https://api.discogs.com/artists/423900",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 441066,
+     "join": "",
+     "name": "Richard \"Segal\" Huredia",
+     "resource_url": "https://api.discogs.com/artists/441066",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 430087,
+     "join": "",
+     "name": "Tony Campana",
+     "resource_url": "https://api.discogs.com/artists/430087",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Resto",
+     "id": 131693,
+     "join": "",
+     "name": "Luis Resto",
+     "resource_url": "https://api.discogs.com/artists/131693",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Bivins",
+     "id": 132121,
+     "join": "",
+     "name": "Michael Bivins",
+     "resource_url": "https://api.discogs.com/artists/132121",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Elizondo",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Tresvant",
+     "id": 105902,
+     "join": "",
+     "name": "Ralph Tresvant",
+     "resource_url": "https://api.discogs.com/artists/105902",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Bell",
+     "id": 133881,
+     "join": "",
+     "name": "Ricky Bell",
+     "resource_url": "https://api.discogs.com/artists/133881",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. De Voe",
+     "id": 132122,
+     "join": "",
+     "name": "Ronnie DeVoe",
+     "resource_url": "https://api.discogs.com/artists/132122",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Bivins",
+     "id": 132121,
+     "join": "",
+     "name": "Michael Bivins",
+     "resource_url": "https://api.discogs.com/artists/132121",
+     "role": "Written-By [Interpolations From \"School\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Tresvant",
+     "id": 105902,
+     "join": "",
+     "name": "Ralph Tresvant",
+     "resource_url": "https://api.discogs.com/artists/105902",
+     "role": "Written-By [Interpolations From \"School\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Bell",
+     "id": 133881,
+     "join": "",
+     "name": "Ricky Bell",
+     "resource_url": "https://api.discogs.com/artists/133881",
+     "role": "Written-By [Interpolations From \"School\"]",
+     "tracks": ""
+    },
+    {
+     "anv": "R. De Voe",
+     "id": 132122,
+     "join": "",
+     "name": "Ronnie DeVoe",
+     "resource_url": "https://api.discogs.com/artists/132122",
+     "role": "Written-By [Interpolations From \"School\"]",
+     "tracks": ""
+    }
+   ],
+   "position": "E4",
+   "title": "Jimmy, Brian And Mike (Previously Unreleased)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "E5",
+   "title": "Freestyle (#1) (Live At Tramps, New York, 1999)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "J. Bass",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Bass",
+     "id": 181423,
+     "join": "",
+     "name": "Mark Bass",
+     "resource_url": "https://api.discogs.com/artists/181423",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "E6",
+   "title": "Brain Damage (Live At Tramps, New York, 1999)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "E7",
+   "title": "Freestyle (#2) (Live At Tramps, New York, 1999)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "J. Bass",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Bass",
+     "id": 181423,
+     "join": "",
+     "name": "Mark Bass",
+     "resource_url": "https://api.discogs.com/artists/181423",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "E8",
+   "title": "Just Don't Give A Fuck (Live At Tramps, New York, 1999)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 181319,
+     "join": "",
+     "name": "Proof (3)",
+     "resource_url": "https://api.discogs.com/artists/181319",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "F1",
+   "title": "The Way I Am (Live At The Fuji Rock Festival, 2001)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 181319,
+     "join": "",
+     "name": "Proof (3)",
+     "resource_url": "https://api.discogs.com/artists/181319",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Elizondo",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Coster",
+     "id": 356827,
+     "join": "",
+     "name": "Tommy Coster Jr.",
+     "resource_url": "https://api.discogs.com/artists/356827",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "F2",
+   "title": "The Real Slim Shady (Live At The Fuji Rock Festival, 2001)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Elizondo",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Feemster",
+     "id": 294367,
+     "join": "",
+     "name": "Ron \"NEFF-U\" Feemstar",
+     "resource_url": "https://api.discogs.com/artists/294367",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "F3",
+   "title": "Business (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Bass",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "F4",
+   "title": "Cleanin' Out My Closet (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Bass",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Resto",
+     "id": 131693,
+     "join": "",
+     "name": "Luis Resto",
+     "resource_url": "https://api.discogs.com/artists/131693",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "G1",
+   "title": "Square Dance (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "D.J. Head",
+     "id": 181268,
+     "join": "",
+     "name": "DJ Head",
+     "resource_url": "https://api.discogs.com/artists/181268",
+     "role": "Producer [Additional Production By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Dudley",
+     "id": 85928,
+     "join": "",
+     "name": "Anne Dudley",
+     "resource_url": "https://api.discogs.com/artists/85928",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Bass",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Bell",
+     "id": 2504451,
+     "join": "",
+     "name": "Kevin Bell (4)",
+     "resource_url": "https://api.discogs.com/artists/2504451",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. McLaren",
+     "id": 24495,
+     "join": "",
+     "name": "Malcolm McLaren",
+     "resource_url": "https://api.discogs.com/artists/24495",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Horn",
+     "id": 32875,
+     "join": "",
+     "name": "Trevor Horn",
+     "resource_url": "https://api.discogs.com/artists/32875",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "G2",
+   "title": "Without Me (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 175132,
+     "join": "",
+     "name": "Joe Perry",
+     "resource_url": "https://api.discogs.com/artists/175132",
+     "role": "Guitar [Guitar Solo By], Soloist [Guitar Solo By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4732892,
+     "join": "",
+     "name": "Music Resources, Inc.",
+     "resource_url": "https://api.discogs.com/artists/4732892",
+     "role": "Legal [Sample Clearance Services By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Bass",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Resto",
+     "id": 131693,
+     "join": "",
+     "name": "Luis Resto",
+     "resource_url": "https://api.discogs.com/artists/131693",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. King",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Tyler",
+     "id": 175128,
+     "join": "",
+     "name": "Steven Tyler",
+     "resource_url": "https://api.discogs.com/artists/175128",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Tyler",
+     "id": 175128,
+     "join": "",
+     "name": "Steven Tyler",
+     "resource_url": "https://api.discogs.com/artists/175128",
+     "role": "Written-By [Elements Of \"Dream On\"]",
+     "tracks": ""
+    }
+   ],
+   "position": "G3",
+   "title": "Sing For The Moment (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Producer [Additional Production By]",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Bass",
+     "id": 174830,
+     "join": "",
+     "name": "Jeff Bass",
+     "resource_url": "https://api.discogs.com/artists/174830",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. King",
+     "id": 222864,
+     "join": "",
+     "name": "Steve King",
+     "resource_url": "https://api.discogs.com/artists/222864",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "H1",
+   "title": "Superman (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 50513,
+     "join": "",
+     "name": "Dr. Dre",
+     "resource_url": "https://api.discogs.com/artists/50513",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Young",
+     "id": 251429,
+     "join": "",
+     "name": "Andre Young",
+     "resource_url": "https://api.discogs.com/artists/251429",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Elizondo",
+     "id": 182316,
+     "join": "",
+     "name": "Mike Elizondo",
+     "resource_url": "https://api.discogs.com/artists/182316",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Feemster",
+     "id": 294367,
+     "join": "",
+     "name": "Ron \"NEFF-U\" Feemstar",
+     "resource_url": "https://api.discogs.com/artists/294367",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "H2",
+   "title": "Say What You Say (Instrumental)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 38661,
+     "join": "",
+     "name": "Eminem",
+     "resource_url": "https://api.discogs.com/artists/38661",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Resto",
+     "id": 131693,
+     "join": "",
+     "name": "Luis Resto",
+     "resource_url": "https://api.discogs.com/artists/131693",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Mathers",
+     "id": 644153,
+     "join": "",
+     "name": "Marshall Mathers",
+     "resource_url": "https://api.discogs.com/artists/644153",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "N. Hale",
+     "id": 599999,
+     "join": "",
+     "name": "Nathaniel Hale",
+     "resource_url": "https://api.discogs.com/artists/599999",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "H3",
+   "title": "Till I Collapse (Instrumental)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/25901449-Eminem-The-Eminem-Show",
+ "year": 2023
+}

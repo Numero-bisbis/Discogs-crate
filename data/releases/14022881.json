@@ -1,0 +1,81 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3543,
+   "join": "",
+   "name": "Four Tet",
+   "resource_url": "https://api.discogs.com/artists/3543",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/i9U4M12_hoZC4q8eHY9rPdJam64ov29sdrkg5ZQ8oyo/rs:fit/g:sm/q:90/h:600/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1NDMt/MTU5MTk0NDg3Ni03/MDM4LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK",
+ "formats": [
+  {
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM",
+    "45 RPM"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic"
+ ],
+ "id": 14022881,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/b9zho4MMA2F-Mml3R-TRYissodOdFar8cvWGGMkxuXo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIy/ODgxLTE1NjkwODA2/NjMtMzQzNS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/b9zho4MMA2F-Mml3R-TRYissodOdFar8cvWGGMkxuXo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIy/ODgxLTE1NjkwODA2/NjMtMzQzNS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/2pMZjr3tLtKSnjyT7a9SY_B5tBa6OPUIo8j7Tb2JguA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIy/ODgxLTE1NjkwODA2/NjMtMzQzNS5qcGVn.jpeg",
+   "width": 597
+  }
+ ],
+ "labels": [
+  {
+   "catno": "Text049",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 11205,
+   "name": "Text Records",
+   "resource_url": "https://api.discogs.com/labels/11205",
+   "thumbnail_url": "https://i.discogs.com/RM_ePvVC66tGvKRKDNex-Hk1LkwUTkrXJIsrtieYBSk/rs:fit/g:sm/q:90/h:287/w:430/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMjA1/LTEzMjQyMzk5MTgu/anBlZw.jpeg"
+  }
+ ],
+ "notes": "On back:\nThanks to Rebecca Pelly-Fry and everyone at Elephant West.\n℗+© Text Records 2019\n\nA side plays at 45 rpm, B side plays at 33 1/3 rpm.\nPressing plant is uncredited, derived from the runout etchings.\n\nCover painting \"Breath.\"",
+ "released": "2019",
+ "styles": [
+  "Ambient",
+  "Deep House",
+  "Tech House"
+ ],
+ "title": "Anna Painting",
+ "tracklist": [
+  {
+   "duration": "7:41",
+   "position": "a1",
+   "title": "Anna Painting",
+   "type_": "track"
+  },
+  {
+   "duration": "6:08",
+   "position": "b1",
+   "title": "Lahaina Noon",
+   "type_": "track"
+  },
+  {
+   "duration": "4:11",
+   "position": "b2",
+   "title": "Breath",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/14022881-Four-Tet-Anna-Painting",
+ "year": 2019
+}

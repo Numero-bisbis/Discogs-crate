@@ -1,0 +1,372 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1778977,
+   "join": "",
+   "name": "Kendrick Lamar",
+   "resource_url": "https://api.discogs.com/artists/1778977",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/-4vxB93xDoTNY5faNzlkTlt8bPNHnMqyHoQ36LrUgfA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE3Nzg5/NzctMTc2MDQ4Mjc1/OC03MTYxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Hip Hop",
+  "Jazz",
+  "Funk / Soul"
+ ],
+ "id": 8566870,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/JOUC82pDZygvXgy1dXDWO3qiCoocovHaiGm0DWnTfTI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjY4/NzAtMTcxMDM3MDM4/NS0zNzc5LmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/JOUC82pDZygvXgy1dXDWO3qiCoocovHaiGm0DWnTfTI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjY4/NzAtMTcxMDM3MDM4/NS0zNzc5LmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/3RrRAqmGBgM3eNAR1XobtynP59NrkcqlvioL2V85YA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjY4/NzAtMTcxMDM3MDM4/NS0zNzc5LmpwZWc.jpeg",
+   "width": 593
+  }
+ ],
+ "labels": [
+  {
+   "catno": "00602547866813",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 255292,
+   "name": "Top Dawg Entertainment",
+   "resource_url": "https://api.discogs.com/labels/255292",
+   "thumbnail_url": "https://i.discogs.com/yOZD9rVPtQWw7Uag5A8pBoIMimlepOI2nP5vxM-OPe0/rs:fit/g:sm/q:90/h:365/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NTI5/Mi0xNzg3ODExODIx/LTU1NTQucG5n.jpeg"
+  },
+  {
+   "catno": "00602547866813",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2310,
+   "name": "Aftermath Entertainment",
+   "resource_url": "https://api.discogs.com/labels/2310",
+   "thumbnail_url": "https://i.discogs.com/PZJDWzXrr7RV8p1VNxDDOw0_z4GgDMo75EPC5lpkc30/rs:fit/g:sm/q:90/h:462/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTAt/MTQ4ODkxNzkxOS04/MTQxLnBuZw.jpeg"
+  },
+  {
+   "catno": "00602547866813",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2311,
+   "name": "Interscope Records",
+   "resource_url": "https://api.discogs.com/labels/2311",
+   "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "[Back cover & labels]\n℗ © 2016 Aftermath Records/Interscope Records (Top Dawg Entertainment). A division of UMG Recordings Inc.\nMade in the EU.",
+ "released": "2016-05-00",
+ "styles": [
+  "Funk",
+  "Conscious",
+  "Jazzy Hip-Hop",
+  "Experimental"
+ ],
+ "title": "Untitled Unmastered.",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 417015,
+     "join": "",
+     "name": "DJ Spinz",
+     "resource_url": "https://api.discogs.com/artists/417015",
+     "role": "Producer [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1137945,
+     "join": "",
+     "name": "HIT-BOY",
+     "resource_url": "https://api.discogs.com/artists/1137945",
+     "role": "Producer [Uncredited]",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Untitled 01 | 08.19.2014.",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2097575,
+     "join": "",
+     "name": "Cardo (3)",
+     "resource_url": "https://api.discogs.com/artists/2097575",
+     "role": "Producer [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2678324,
+     "join": "",
+     "name": "Yung Exclusive",
+     "resource_url": "https://api.discogs.com/artists/2678324",
+     "role": "Producer [Uncredited]",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Untitled 02 | 06.23.2014.",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2171755,
+     "join": "",
+     "name": "Anna Wise",
+     "resource_url": "https://api.discogs.com/artists/2171755",
+     "role": "Featuring [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 17040,
+     "join": "",
+     "name": "Bilal",
+     "resource_url": "https://api.discogs.com/artists/17040",
+     "role": "Featuring [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 220244,
+     "join": "",
+     "name": "Terrace Martin",
+     "resource_url": "https://api.discogs.com/artists/220244",
+     "role": "Featuring [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1800656,
+     "join": "",
+     "name": "Thundercat",
+     "resource_url": "https://api.discogs.com/artists/1800656",
+     "role": "Featuring [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 609176,
+     "join": "",
+     "name": "Astronote",
+     "resource_url": "https://api.discogs.com/artists/609176",
+     "role": "Producer [Uncredited]",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Untitled 03 | 05.28.2013.",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 921864,
+     "join": "",
+     "name": "Jay Rock (2)",
+     "resource_url": "https://api.discogs.com/artists/921864",
+     "role": "Featuring [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3272791,
+     "join": "",
+     "name": "SZA (2)",
+     "resource_url": "https://api.discogs.com/artists/3272791",
+     "role": "Featuring [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3280440,
+     "join": "",
+     "name": "Bizness Boi",
+     "resource_url": "https://api.discogs.com/artists/3280440",
+     "role": "Producer [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1313387,
+     "join": "",
+     "name": "Nard & B",
+     "resource_url": "https://api.discogs.com/artists/1313387",
+     "role": "Producer [Uncredited]",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Untitled 04 | 08.14.2014.",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2171755,
+     "join": "",
+     "name": "Anna Wise",
+     "resource_url": "https://api.discogs.com/artists/2171755",
+     "role": "Featuring [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 921864,
+     "join": "",
+     "name": "Jay Rock (2)",
+     "resource_url": "https://api.discogs.com/artists/921864",
+     "role": "Featuring [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3116114,
+     "join": "",
+     "name": "Punch (16)",
+     "resource_url": "https://api.discogs.com/artists/3116114",
+     "role": "Featuring [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1313387,
+     "join": "",
+     "name": "Nard & B",
+     "resource_url": "https://api.discogs.com/artists/1313387",
+     "role": "Producer [Uncredited]",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Untitled 05 | 09.21.2014.",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 57770,
+     "join": "",
+     "name": "Cee-Lo",
+     "resource_url": "https://api.discogs.com/artists/57770",
+     "role": "Featuring [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1611895,
+     "join": "",
+     "name": "Adrian Younge",
+     "resource_url": "https://api.discogs.com/artists/1611895",
+     "role": "Producer [Uncredited]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Untitled 06 | 06.30.2014.",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2097575,
+     "join": "",
+     "name": "Cardo (3)",
+     "resource_url": "https://api.discogs.com/artists/2097575",
+     "role": "Producer [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "Egypt Daoud",
+     "id": 6750618,
+     "join": "",
+     "name": "Egypt Daoud Dean",
+     "resource_url": "https://api.discogs.com/artists/6750618",
+     "role": "Producer [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 173279,
+     "join": "",
+     "name": "Swizz Beatz",
+     "resource_url": "https://api.discogs.com/artists/173279",
+     "role": "Producer [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2678324,
+     "join": "",
+     "name": "Yung Exclusive",
+     "resource_url": "https://api.discogs.com/artists/2678324",
+     "role": "Producer [Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 610329,
+     "join": "",
+     "name": "Frank Dukes",
+     "resource_url": "https://api.discogs.com/artists/610329",
+     "role": "Producer, Piano, Guitar, Synthesizer",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Untitled 07 | 2014 - 2016",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 192940,
+     "join": "",
+     "name": "DJ Khalil",
+     "resource_url": "https://api.discogs.com/artists/192940",
+     "role": "Producer [Uncredited]",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Untitled 08 | 09.06.2014.",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/8566870-Kendrick-Lamar-Untitled-Unmastered",
+ "year": 2016
+}
