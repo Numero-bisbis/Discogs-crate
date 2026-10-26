@@ -457,6 +457,380 @@
   "scale": "minor",
   "source": "deezer-preview"
  },
+ "10596337:A1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "10596337:A2": {
+  "beat_confidence": 3.73,
+  "bpm": 110.5,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 367760881,
+  "key": "Fm",
+  "key_strength": 0.62,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "10596337:B1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "10596337:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "10596337:B3": {
+  "beat_confidence": 3.69,
+  "bpm": 101.3,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 367760911,
+  "key": "Cm",
+  "key_strength": 0.83,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "10596337:C1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "10596337:C2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "10596337:D1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "10596337:D2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "10596337:D3": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "10616350:A": {
+  "bpm": 122.3,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.640484213829,
+  "mbid": "0d6eb8d5-6df7-49be-bbf4-a5a9db50d358",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "10616350:B": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "10662614:A": {
+  "bpm": 110.0,
+  "camelot": "6A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Gm",
+  "key_strength": 0.635287284851,
+  "mbid": "e1a25568-5be9-45d3-b633-129e4cc3bdc8",
+  "note": "G",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "10662614:B": {
+  "bpm": 120.0,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.817598521709,
+  "mbid": "218395d1-d95d-423a-8bbb-3e3f0d32b403",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "10947904:A1": {
+  "bpm": 128.1,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.633305132389,
+  "mbid": "72e15607-b47b-482d-b8d1-c591afb63271",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "10947904:B1": {
+  "beat_confidence": 3.94,
+  "bpm": 128.8,
+  "camelot": "2A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 415514832,
+  "key": "Ebm",
+  "key_strength": 0.78,
+  "match": 0.95,
+  "note": "Eb",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "10947904:B2": {
+  "bpm": 120.0,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.546254694462,
+  "mbid": "23ebf24f-d983-4ad0-8658-dd87fb17dbba",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "10947904:C1": {
+  "bpm": 130.0,
+  "camelot": "4B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ab",
+  "key_strength": 0.360444128513,
+  "mbid": "15bb6f1b-aed9-45ee-a5da-c8c1c76a8a12",
+  "note": "G#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "10947904:D1": {
+  "bpm": 129.9,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Em",
+  "key_strength": 0.546056866646,
+  "mbid": "d2c03af6-a2ad-4137-bf44-b9a046115f28",
+  "note": "E",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "10947904:D2": {
+  "bpm": 128.0,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.547681808472,
+  "mbid": "1140258c-7441-4d85-a9e4-699861ebd531",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11010709:A1": {
+  "bpm": 87.5,
+  "camelot": "11B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "A",
+  "key_strength": 0.769295990467,
+  "mbid": "ff81a905-8761-40f4-8e10-b4ee6f83a019",
+  "note": "A",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11010709:A2": {
+  "bpm": 99.7,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F#m",
+  "key_strength": 0.760936796665,
+  "mbid": "c45ca37b-c913-4b4a-8981-b628cda13216",
+  "note": "F#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11010709:A3": {
+  "bpm": 101.6,
+  "camelot": "2A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ebm",
+  "key_strength": 0.736722171307,
+  "mbid": "f0cdfa3d-c05b-44da-9f0d-0ab32fe5613c",
+  "note": "D#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11010709:A4": {
+  "bpm": 112.8,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.733774662018,
+  "mbid": "5f0d8be2-7731-4778-8d22-ae8606e33e4d",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11010709:A5": {
+  "bpm": 111.3,
+  "camelot": "12A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C#m",
+  "key_strength": 0.452087521553,
+  "mbid": "2152327f-7351-490b-bc38-ee46439c4d71",
+  "note": "C#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11010709:A6": {
+  "bpm": 139.4,
+  "camelot": "9B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "G",
+  "key_strength": 0.670596599579,
+  "mbid": "85a83ddc-a720-47bb-9212-82b8c8e78732",
+  "note": "G",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11010709:B1": {
+  "bpm": 136.3,
+  "camelot": "6A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Gm",
+  "key_strength": 0.805344998837,
+  "mbid": "fdb65788-8584-4ad9-99b7-933b0d320ad1",
+  "note": "G",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11010709:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11010709:B3": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11010709:B4": {
+  "bpm": 101.0,
+  "camelot": "1B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "B",
+  "key_strength": 0.74187785387,
+  "mbid": "73eaa22f-d5a9-48a3-914b-ee7aced4d622",
+  "note": "B",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11010709:B5": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11010709:B6": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11010709:C1": {
+  "bpm": 98.5,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.841068565845,
+  "mbid": "0565daab-a661-4baf-a732-f37e954d79d2",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11010709:C2": {
+  "bpm": 99.8,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.592715978622,
+  "mbid": "727d27e1-5b49-4b91-8d0d-206af28de6cd",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11010709:C3": {
+  "bpm": 97.9,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Em",
+  "key_strength": 0.874050319195,
+  "mbid": "1cdabc36-b5b4-40d3-b41c-e39cbada4947",
+  "note": "E",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11010709:C4": {
+  "bpm": 85.9,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "E",
+  "key_strength": 0.718302726746,
+  "mbid": "90a04c76-55b2-4361-9170-391750798394",
+  "note": "E",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11010709:C5": {
+  "bpm": 96.2,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Em",
+  "key_strength": 0.532682180405,
+  "mbid": "309dc273-fa61-4816-b77f-d927b980ba5d",
+  "note": "E",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11010709:C6": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11010709:D1": {
+  "bpm": 102.5,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Em",
+  "key_strength": 0.865348279476,
+  "mbid": "10b70b2e-cc8c-40a2-9e54-ed46a40b0175",
+  "note": "E",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11010709:D2": {
+  "bpm": 106.5,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F#m",
+  "key_strength": 0.764597535133,
+  "mbid": "09d9f576-328b-4371-b835-c0353b3174be",
+  "note": "F#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11010709:D3": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11010709:D4": {
+  "bpm": 96.6,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.714580655098,
+  "mbid": "eb7e2f2e-ac49-4098-a38d-27c3c862bcc0",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11010709:D5": {
+  "bpm": 155.6,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.67483150959,
+  "mbid": "8df98f67-1332-4587-bfa2-56246b45f733",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
  "11017944:A": {
   "checked": "2026-10-26T09:46:49.682876+00:00",
   "source": "none"
@@ -531,6 +905,54 @@
   "mbid": "1a742365-328e-43c4-a059-cddb5d01a9c4",
   "note": "F",
   "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11263835:A1": {
+  "beat_confidence": 3.98,
+  "bpm": 128.8,
+  "camelot": "1B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 400291832,
+  "key": "B",
+  "key_strength": 0.39,
+  "match": 1.0,
+  "note": "B",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11263835:B1": {
+  "beat_confidence": 3.76,
+  "bpm": 128,
+  "camelot": "9B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 400291842,
+  "key": "G",
+  "key_strength": 0.42,
+  "match": 1.0,
+  "note": "G",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11263835:C1": {
+  "bpm": 128.0,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.714472174644,
+  "mbid": "864fccc1-0813-4f9b-ba9d-3c58889ac492",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11263835:D1": {
+  "bpm": 128.9,
+  "camelot": "4B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ab",
+  "key_strength": 0.529124855995,
+  "mbid": "1adc397a-e5dd-4bb2-b2e3-18a6f43b08a8",
+  "note": "G#",
+  "scale": "major",
   "source": "acousticbrainz"
  },
  "11316873:A1": {
@@ -698,6 +1120,145 @@
   "scale": "major",
   "source": "acousticbrainz"
  },
+ "11326382:A1": {
+  "beat_confidence": 2.84,
+  "bpm": 116.0,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 466596932,
+  "key": "Fm",
+  "key_strength": 0.6,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11326382:A2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11326382:A3": {
+  "beat_confidence": 4.13,
+  "bpm": 91.6,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 350047091,
+  "key": "Cm",
+  "key_strength": 0.77,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11326382:B1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11326382:B2": {
+  "beat_confidence": 3.89,
+  "bpm": 114.9,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 377886621,
+  "key": "Fm",
+  "key_strength": 0.97,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11326382:B3": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11331512:A1": {
+  "bpm": 120.0,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.578230440617,
+  "mbid": "ba08b0b6-6b7d-4a1c-975d-dde26b7ee4ee",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11331512:A2": {
+  "bpm": 131.6,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.678734958172,
+  "mbid": "18a99bbd-8103-40ff-a053-a35d461351f2",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11331512:B1": {
+  "bpm": 117.0,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.715192317963,
+  "mbid": "a19176f0-f328-4d25-bbc1-29589cab2298",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11331512:B2": {
+  "bpm": 133.0,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.624853551388,
+  "mbid": "e27f775c-dac2-4c1e-a77f-84c608f758bd",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11331512:C1": {
+  "bpm": 130.0,
+  "camelot": "12A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C#m",
+  "key_strength": 0.413780331612,
+  "mbid": "a1502cae-1070-4fd8-81dc-112ea1d61a68",
+  "note": "C#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11331512:C2": {
+  "bpm": 138.0,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.453353971243,
+  "mbid": "05c5dd35-ce49-4114-a5be-a892bf4a2721",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11331512:D1": {
+  "bpm": 133.0,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.607334375381,
+  "mbid": "11c4d230-3c63-4b8d-96e0-b2c7587e8e49",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11331512:D2": {
+  "bpm": 127.0,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.730889678001,
+  "mbid": "1bcad1b1-6e2c-4fcf-8013-46e199fccaf6",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
  "11375:A1": {
   "checked": "2026-10-26T10:02:58.873466+00:00",
   "source": "none"
@@ -709,6 +1270,122 @@
  "11375:B": {
   "checked": "2026-10-26T10:02:58.873466+00:00",
   "source": "none"
+ },
+ "1139846:A1": {
+  "bpm": 91.6,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.522300481796,
+  "mbid": "f3419114-060f-4465-9eec-1b26c7977304",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "1139846:A2": {
+  "bpm": 91.8,
+  "camelot": "6A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Gm",
+  "key_strength": 0.614330768585,
+  "mbid": "95c48b9c-51a4-4bb4-b104-31893990b1e4",
+  "note": "G",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "1139846:B1": {
+  "bpm": 91.7,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.648190915585,
+  "mbid": "d6ce129e-9ccd-494f-bd87-61c376bc3a7c",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "1139846:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11398791:A1": {
+  "bpm": 127.0,
+  "camelot": "6A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Gm",
+  "key_strength": 0.462577521801,
+  "mbid": "f2fb4099-168d-49dd-92a3-753321a98244",
+  "note": "G",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11398791:A2": {
+  "bpm": 130.0,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.63505333662,
+  "mbid": "9fe682c8-9b01-4826-b5e9-f5fb130858ed",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11398791:B1": {
+  "bpm": 125.0,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.560215771198,
+  "mbid": "9cfd1974-f445-4083-8e50-e6e242718164",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11398791:B2": {
+  "beat_confidence": 3.42,
+  "bpm": 124.9,
+  "camelot": "11B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2255955317,
+  "key": "A",
+  "key_strength": 0.89,
+  "match": 1.0,
+  "note": "A",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11410470:A": {
+  "bpm": 123.9,
+  "camelot": "2B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F#",
+  "key_strength": 0.362800806761,
+  "mbid": "4400a031-9765-4e9c-a7a8-6b82319f78d3",
+  "note": "F#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11410470:B1": {
+  "bpm": 134.0,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.402039706707,
+  "mbid": "e7ed66bb-732d-42d7-b6ad-ae343bd59655",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11410470:B2": {
+  "bpm": 114.0,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.554311990738,
+  "mbid": "dca84d76-cae8-48ab-b173-4c268ce2960f",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
  },
  "11416588:A1": {
   "bpm": 85.3,
@@ -833,6 +1510,888 @@
   "scale": "minor",
   "source": "deezer-preview"
  },
+ "11453857:1": {
+  "bpm": 118.0,
+  "camelot": "12A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C#m",
+  "key_strength": 0.450814753771,
+  "mbid": "81c91728-bfb6-4c66-91c2-00d7dee1685e",
+  "note": "C#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11453857:2": {
+  "bpm": 120.0,
+  "camelot": "11B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "A",
+  "key_strength": 0.791539609432,
+  "mbid": "48eedd3c-0475-461b-ac25-c8fbdb43f881",
+  "note": "A",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11453857:3": {
+  "bpm": 108.0,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.583410859108,
+  "mbid": "8f9bacc1-5020-4547-b8c7-98ae1695b215",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11454190:A1": {
+  "bpm": 125.0,
+  "camelot": "5B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Eb",
+  "key_strength": 0.729496538639,
+  "mbid": "9d4e5ea7-c5cf-4293-aa1f-d3d0edce7d96",
+  "note": "D#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11454190:A2": {
+  "bpm": 124.9,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "E",
+  "key_strength": 0.742093741894,
+  "mbid": "7c9b813f-7e2c-4d62-91b8-b9ef84e69865",
+  "note": "E",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11454190:B1": {
+  "bpm": 125.0,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.709886670113,
+  "mbid": "9506e5e7-16fa-45c8-a4f1-fb77719af31a",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11454190:B2": {
+  "beat_confidence": 3.81,
+  "bpm": 124.0,
+  "camelot": "10A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2886908832,
+  "key": "Bm",
+  "key_strength": 0.76,
+  "match": 1.0,
+  "note": "B",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11454190:B3": {
+  "beat_confidence": 3.75,
+  "bpm": 126.0,
+  "camelot": "2A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2863852402,
+  "key": "Ebm",
+  "key_strength": 0.84,
+  "match": 1.0,
+  "note": "Eb",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11472790:A1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11472790:A2": {
+  "bpm": 103.2,
+  "camelot": "6A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Gm",
+  "key_strength": 0.809714257717,
+  "mbid": "64a8deb8-6bc1-406c-8646-af6528362a3f",
+  "note": "G",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11472790:A3": {
+  "bpm": 99.5,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.415625631809,
+  "mbid": "4fc32b05-85c0-4df9-a29b-04578c4005e8",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11472790:A4": {
+  "bpm": 89.3,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.637574493885,
+  "mbid": "e151f5c5-4273-4f2d-9bcf-391521509180",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11472790:A5": {
+  "bpm": 107.4,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.586710333824,
+  "mbid": "19db1153-2672-46a3-b38b-8ac1f4379008",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11472790:B1": {
+  "bpm": 114.7,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.380836844444,
+  "mbid": "a9f09b40-e73c-4573-aee5-47e35d451107",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11472790:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11472790:B3": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11472790:B4": {
+  "bpm": 125.2,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.540529191494,
+  "mbid": "f134b9f7-e1ff-457b-af63-d593ce845e10",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11472790:B5": {
+  "bpm": 110.6,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "E",
+  "key_strength": 0.386968433857,
+  "mbid": "42ed403d-e3a3-43f1-89e2-8e67a1542231",
+  "note": "E",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11472790:C1": {
+  "bpm": 112.1,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.538990736008,
+  "mbid": "7f67255d-0220-44c3-b1c3-1869879eaf1f",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11472790:C2": {
+  "bpm": 131.6,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.750624656677,
+  "mbid": "bc081930-f2f9-4230-a4b7-11141e71f5d6",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11472790:C3": {
+  "bpm": 125.7,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.776617765427,
+  "mbid": "0d31c6e4-40e6-4b06-8953-d2adeea2d605",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11472790:C4": {
+  "bpm": 105.8,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.427716314793,
+  "mbid": "f3676870-f9b4-485f-b40d-828ac9fcff0c",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11472790:C5": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11472790:D1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11472790:D2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11472790:D3": {
+  "bpm": 112.9,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.679543554783,
+  "mbid": "20779724-b5ac-4721-ae89-3eb4d5411a55",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11472790:D4": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11472790:D5": {
+  "bpm": 100.1,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.730173110962,
+  "mbid": "fbe23411-5e38-4018-bcfc-26684c65b7b5",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11506504:A1": {
+  "beat_confidence": 3.04,
+  "bpm": 153.7,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 451659182,
+  "key": "Dm",
+  "key_strength": 0.92,
+  "match": 1.0,
+  "note": "D",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11506504:A2": {
+  "beat_confidence": 3.86,
+  "bpm": 86.0,
+  "camelot": "10A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 451659192,
+  "key": "Bm",
+  "key_strength": 0.81,
+  "match": 1.0,
+  "note": "B",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11506504:A3": {
+  "beat_confidence": 3.69,
+  "bpm": 102.1,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 451659202,
+  "key": "Am",
+  "key_strength": 0.85,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11506504:A4": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11506504:A5": {
+  "beat_confidence": 3.48,
+  "bpm": 104.2,
+  "camelot": "6A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 451659212,
+  "key": "Gm",
+  "key_strength": 0.84,
+  "match": 1.0,
+  "note": "G",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11506504:A6": {
+  "beat_confidence": 0.76,
+  "bpm": 166.0,
+  "camelot": "2B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 451659222,
+  "key": "F#",
+  "key_strength": 0.82,
+  "match": 1.0,
+  "note": "F#",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11506504:B1": {
+  "beat_confidence": 1.23,
+  "bpm": 99.9,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 451659232,
+  "key": "Cm",
+  "key_strength": 0.87,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11506504:B2": {
+  "beat_confidence": 3.65,
+  "bpm": 92.9,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 451659242,
+  "key": "Dm",
+  "key_strength": 0.74,
+  "match": 1.0,
+  "note": "D",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11506504:B3": {
+  "beat_confidence": 3.33,
+  "bpm": 80.7,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 451659252,
+  "key": "Em",
+  "key_strength": 0.95,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11506504:B4": {
+  "beat_confidence": 2.51,
+  "bpm": 92.9,
+  "camelot": "10B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 451659262,
+  "key": "D",
+  "key_strength": 0.79,
+  "match": 1.0,
+  "note": "D",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11506504:B5": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11506504:C1": {
+  "beat_confidence": 1.45,
+  "bpm": 119.8,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 451659272,
+  "key": "Dm",
+  "key_strength": 0.92,
+  "match": 1.0,
+  "note": "D",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11506504:C2": {
+  "beat_confidence": 3.79,
+  "bpm": 95.9,
+  "camelot": "10A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 435914232,
+  "key": "Bm",
+  "key_strength": 0.85,
+  "match": 1.0,
+  "note": "B",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11506504:C3": {
+  "beat_confidence": 3.15,
+  "bpm": 124.2,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 451659292,
+  "key": "E",
+  "key_strength": 0.84,
+  "match": 1.0,
+  "note": "E",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11506504:D1": {
+  "beat_confidence": 4.25,
+  "bpm": 84.9,
+  "camelot": "9B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 451659302,
+  "key": "G",
+  "key_strength": 0.76,
+  "match": 1.0,
+  "note": "G",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11506504:D2": {
+  "beat_confidence": 2.04,
+  "bpm": 142.1,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 451659312,
+  "key": "F",
+  "key_strength": 0.84,
+  "match": 1.0,
+  "note": "F",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11506504:D3": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11506504:D4": {
+  "beat_confidence": 3.02,
+  "bpm": 100.1,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 451659472,
+  "key": "Em",
+  "key_strength": 0.9,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11600879:A1": {
+  "bpm": 161.5,
+  "camelot": "10B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "D",
+  "key_strength": 0.681434631348,
+  "mbid": "0d1913aa-d2dd-47dd-85fb-fd480c898c32",
+  "note": "D",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11600879:A2": {
+  "beat_confidence": 2.89,
+  "bpm": 117.5,
+  "camelot": "10A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 3205449331,
+  "key": "Bm",
+  "key_strength": 0.96,
+  "match": 1.0,
+  "note": "B",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11600879:A3": {
+  "bpm": 104.7,
+  "camelot": "2A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ebm",
+  "key_strength": 0.646432638168,
+  "mbid": "fb3dc631-1690-42f0-92ec-a74520b82075",
+  "note": "D#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11600879:B1": {
+  "bpm": 111.2,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.690790832043,
+  "mbid": "bfb99bbe-59b5-4251-b26f-3246bed5621b",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11600879:B2": {
+  "bpm": 108.1,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.724656701088,
+  "mbid": "67131950-ba8a-4350-aa8d-9ca885200d03",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11600879:B3": {
+  "bpm": 149.0,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.718156993389,
+  "mbid": "7c8415f7-52ca-45e8-9e43-6385c1b9cd98",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11600879:B4": {
+  "bpm": 105.8,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.779913663864,
+  "mbid": "d272fc5c-759b-4f10-aa9c-d754f3c45c6d",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11615204:A1": {
+  "beat_confidence": 1.96,
+  "bpm": 101.8,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 576217282,
+  "key": "F",
+  "key_strength": 0.85,
+  "match": 1.0,
+  "note": "F",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11615204:A2": {
+  "beat_confidence": 1.92,
+  "bpm": 92.9,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 576217292,
+  "key": "Am",
+  "key_strength": 0.95,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11615204:A3": {
+  "beat_confidence": 1.94,
+  "bpm": 88.0,
+  "camelot": "6A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 576217302,
+  "key": "Gm",
+  "key_strength": 0.84,
+  "match": 1.0,
+  "note": "G",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11615204:A4": {
+  "beat_confidence": 0.72,
+  "bpm": 152.7,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 576217312,
+  "key": "E",
+  "key_strength": 0.84,
+  "match": 1.0,
+  "note": "E",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11615204:B1": {
+  "beat_confidence": 2.85,
+  "bpm": 92.7,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 576217322,
+  "key": "C",
+  "key_strength": 0.89,
+  "match": 1.0,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11615204:B2": {
+  "beat_confidence": 3.48,
+  "bpm": 104.9,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 576217332,
+  "key": "Am",
+  "key_strength": 0.76,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11615204:B3": {
+  "beat_confidence": 1.95,
+  "bpm": 62.6,
+  "camelot": "9B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 576217342,
+  "key": "G",
+  "key_strength": 0.82,
+  "match": 0.98,
+  "note": "G",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11615204:B4": {
+  "beat_confidence": 0.47,
+  "bpm": 100.3,
+  "camelot": "2A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 576217352,
+  "key": "Ebm",
+  "key_strength": 0.86,
+  "match": 1.0,
+  "note": "Eb",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11615204:C1": {
+  "beat_confidence": 0.52,
+  "bpm": 105.7,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 576217362,
+  "key": "Em",
+  "key_strength": 0.83,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11615204:C2": {
+  "beat_confidence": 1.28,
+  "bpm": 95.0,
+  "camelot": "10A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 576217372,
+  "key": "Bm",
+  "key_strength": 0.9,
+  "match": 1.0,
+  "note": "B",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11615204:C3": {
+  "beat_confidence": 1.27,
+  "bpm": 95.9,
+  "camelot": "10A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 576217382,
+  "key": "Bm",
+  "key_strength": 0.91,
+  "match": 1.0,
+  "note": "B",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11615204:C4": {
+  "beat_confidence": 0.82,
+  "bpm": 147.1,
+  "camelot": "5B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 576217392,
+  "key": "Eb",
+  "key_strength": 0.9,
+  "match": 1.0,
+  "note": "Eb",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11615204:D1": {
+  "beat_confidence": 2.9,
+  "bpm": 108.0,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 576217402,
+  "key": "Em",
+  "key_strength": 0.88,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11615204:D2": {
+  "beat_confidence": 3.96,
+  "bpm": 88.0,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 576217412,
+  "key": "F",
+  "key_strength": 0.87,
+  "match": 1.0,
+  "note": "F",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11615204:D3": {
+  "beat_confidence": 1.98,
+  "bpm": 89.9,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 142342989,
+  "key": "C",
+  "key_strength": 0.82,
+  "match": 1.0,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11634867:A1": {
+  "bpm": 103.0,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.69543671608,
+  "mbid": "ae83e81e-c3d5-4e67-a014-381b7e730a1e",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11634867:A2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11634867:A3": {
+  "bpm": 98.4,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.685908079147,
+  "mbid": "02ce4d65-ac3a-4bfb-8074-909e2d77d4ad",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11634867:B1": {
+  "bpm": 93.2,
+  "camelot": "1A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "G#m",
+  "key_strength": 0.729805827141,
+  "mbid": "b25df809-049f-47d8-a40c-1425361900e1",
+  "note": "G#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11634867:B2": {
+  "bpm": 98.4,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.417760550976,
+  "mbid": "7ac3f6f4-dfe3-47ec-8328-860919291a8f",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11634867:B4": {
+  "bpm": 95.0,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.612385809422,
+  "mbid": "8069e12f-da53-45f0-b4a6-34332ded20b1",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11634867:C1": {
+  "bpm": 95.2,
+  "camelot": "3B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Db",
+  "key_strength": 0.783440053463,
+  "mbid": "d32345d8-12b0-4750-a0c9-8efc27d01662",
+  "note": "C#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11634867:C2": {
+  "bpm": 100.1,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.759231984615,
+  "mbid": "bbc69e4e-d659-49d0-b6c6-3e37883a1705",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11634867:C3": {
+  "beat_confidence": 2.14,
+  "bpm": 95.3,
+  "camelot": "9B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 3440378,
+  "key": "G",
+  "key_strength": 0.83,
+  "match": 0.97,
+  "note": "G",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11634867:C4": {
+  "bpm": 100.1,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.402999728918,
+  "mbid": "7ae0d823-631c-423c-a5c2-b0d1f178026d",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11634867:D1": {
+  "bpm": 93.2,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "E",
+  "key_strength": 0.50049084425,
+  "mbid": "9da17689-b557-464c-85ff-1a62006753ad",
+  "note": "E",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11634867:D2": {
+  "bpm": 96.2,
+  "camelot": "2B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F#",
+  "key_strength": 0.557757377625,
+  "mbid": "a0a4c790-fe18-4bf9-9f13-9aefb434e585",
+  "note": "F#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11634867:D3": {
+  "bpm": 93.3,
+  "camelot": "11B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "A",
+  "key_strength": 0.765279710293,
+  "mbid": "c3648efa-0370-4602-bc45-4c1dbc395bf1",
+  "note": "A",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
  "1165115:A1": {
   "bpm": 128.5,
   "camelot": "7A",
@@ -933,6 +2492,23 @@
   "note": "G",
   "scale": "major",
   "source": "acousticbrainz"
+ },
+ "11684749:A": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11684749:B": {
+  "beat_confidence": 3.62,
+  "bpm": 126.1,
+  "camelot": "5B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 465230252,
+  "key": "Eb",
+  "key_strength": 0.42,
+  "match": 1.0,
+  "note": "Eb",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "11701503:A1": {
   "bpm": 94.4,
@@ -1044,6 +2620,161 @@
   "mbid": "ef01d50c-3fc0-4291-9cd3-99e78e2302a2",
   "note": "A",
   "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11753365:A1": {
+  "beat_confidence": 3.49,
+  "bpm": 120.0,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 701017422,
+  "key": "C",
+  "key_strength": 0.81,
+  "match": 1.0,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "11753365:A2": {
+  "beat_confidence": 2.03,
+  "bpm": 119.8,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 701017432,
+  "key": "F#m",
+  "key_strength": 0.8,
+  "match": 1.0,
+  "note": "F#",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11753365:B1": {
+  "beat_confidence": 3.65,
+  "bpm": 120.2,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 701017442,
+  "key": "Fm",
+  "key_strength": 0.87,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11753365:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11753365:B3": {
+  "beat_confidence": 3.85,
+  "bpm": 132.1,
+  "camelot": "6A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 701017462,
+  "key": "Gm",
+  "key_strength": 0.68,
+  "match": 1.0,
+  "note": "G",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "11770803:A1": {
+  "bpm": 72.7,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.423071652651,
+  "mbid": "1310df73-12c0-4f54-a00b-c5e1b7de0a50",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11770803:A2": {
+  "bpm": 162.0,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Em",
+  "key_strength": 0.73466783762,
+  "mbid": "f5793603-584c-423c-986b-d801d8dad4b7",
+  "note": "E",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11770803:B1": {
+  "bpm": 139.2,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.563398957253,
+  "mbid": "7d2d5e03-6b99-4048-b3a9-e2ab205f2f4e",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11770803:B2": {
+  "bpm": 128.1,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.569552958012,
+  "mbid": "72ffd774-8e3a-4b36-acb8-756b102fe5ee",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11770803:B3": {
+  "bpm": 84.7,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.532416701317,
+  "mbid": "aa4f773f-6586-4642-bfcd-2e8d3d12b86a",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11770803:C1": {
+  "bpm": 153.0,
+  "camelot": "4B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ab",
+  "key_strength": 0.761807024479,
+  "mbid": "cfddf617-5378-4325-8f4f-aba072bf0f28",
+  "note": "G#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11770803:C2": {
+  "bpm": 120.2,
+  "camelot": "6A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Gm",
+  "key_strength": 0.586699604988,
+  "mbid": "48d5b2d5-57c6-4f61-b7e2-14e9f8b7a346",
+  "note": "G",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11770803:D1": {
+  "bpm": 67.7,
+  "camelot": "9B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "G",
+  "key_strength": 0.692745447159,
+  "mbid": "a7696cdb-d9e4-4cb8-bfa6-e2666873ed0c",
+  "note": "G",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11770803:D2": {
+  "bpm": 152.1,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.704049229622,
+  "mbid": "88f39942-045d-423b-94dd-620af04818b3",
+  "note": "C",
+  "scale": "minor",
   "source": "acousticbrainz"
  },
  "11820005:A1": {
@@ -1178,6 +2909,161 @@
   "scale": "major",
   "source": "acousticbrainz"
  },
+ "11850350:A1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11850350:B1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11850350:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "11854219:A": {
+  "bpm": 124.9,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.654363036156,
+  "mbid": "32256114-eced-4bd2-be48-7e83471b5cb6",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11854219:B": {
+  "bpm": 118.0,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.507906615734,
+  "mbid": "f47e7db2-6786-4e4d-af4e-362ca5394ef0",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11926069:A1": {
+  "bpm": 108.0,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F#m",
+  "key_strength": 0.749622404575,
+  "mbid": "783a144b-f6d5-4122-bab0-3fcd71fa7208",
+  "note": "F#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11926069:A2": {
+  "bpm": 118.0,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.54986011982,
+  "mbid": "6234b03a-2158-421e-a31d-6ee9e6b02849",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11926069:B1": {
+  "bpm": 122.1,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.775914907455,
+  "mbid": "d696367e-dc9b-4c6f-adf3-d7509f65eacf",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11926069:B2": {
+  "bpm": 118.0,
+  "camelot": "12A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C#m",
+  "key_strength": 0.450814753771,
+  "mbid": "81c91728-bfb6-4c66-91c2-00d7dee1685e",
+  "note": "C#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11976992:A1": {
+  "bpm": 129.7,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.603865802288,
+  "mbid": "3865607b-cf7e-4f48-820f-db27b22655ea",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11976992:A2": {
+  "bpm": 126.9,
+  "camelot": "2A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ebm",
+  "key_strength": 0.527209639549,
+  "mbid": "8f1f3c17-3a60-452e-9f88-488871ff47ba",
+  "note": "D#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11976992:A3": {
+  "bpm": 128.5,
+  "camelot": "10A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bm",
+  "key_strength": 0.81005525589,
+  "mbid": "c5bed4c1-37ce-4f08-98b1-9058f566ed34",
+  "note": "B",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11976992:B1": {
+  "bpm": 144.4,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.614992976189,
+  "mbid": "9a41cafc-7fbb-4859-b04c-e12bea915f38",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "11976992:B2": {
+  "bpm": 125.5,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.623647809029,
+  "mbid": "9dfa21f7-a3f7-4104-a120-a1c566177744",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11976992:B3": {
+  "bpm": 78.3,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.458666980267,
+  "mbid": "5b3c478b-dc5a-415c-a468-d2c74002d278",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "11976992:B4": {
+  "bpm": 91.0,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.578766584396,
+  "mbid": "64972ad5-e043-4cbf-bf35-4fde7e3937a4",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
  "12037626:A1": {
   "bpm": 135.1,
   "camelot": "1A",
@@ -1288,6 +3174,98 @@
   "mbid": "4a6263a5-534d-4c5f-a66e-8419c4161be7",
   "note": "C#",
   "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12049169:A1": {
+  "bpm": 106.8,
+  "camelot": "6A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Gm",
+  "key_strength": 0.77302801609,
+  "mbid": "b25e2296-2b27-40c1-990c-6d17b896b201",
+  "note": "G",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12049169:A2": {
+  "bpm": 131.3,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Em",
+  "key_strength": 0.623360574245,
+  "mbid": "45e2cd2d-354b-4230-96b0-5009a7d086d7",
+  "note": "E",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12049169:A3": {
+  "bpm": 142.2,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.794783055782,
+  "mbid": "a33b8551-a001-4297-8f1d-d0c2d52f425a",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12049169:A4": {
+  "bpm": 100.8,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.781235337257,
+  "mbid": "e3cc34c4-a460-46b7-94c0-16999bce39f1",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12049169:B1": {
+  "bpm": 122.5,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.853479206562,
+  "mbid": "dcaf7d0a-e9d3-4ff7-982d-6d79951c4726",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12049169:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12049169:B3": {
+  "bpm": 108.4,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Em",
+  "key_strength": 0.664891004562,
+  "mbid": "966bbaa7-afc9-4812-a461-181c07569475",
+  "note": "E",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12049169:B4": {
+  "bpm": 92.9,
+  "camelot": "10B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "D",
+  "key_strength": 0.796030521393,
+  "mbid": "7c9cf045-21cd-4627-a9b2-3d9b6c0e6956",
+  "note": "D",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12049169:B5": {
+  "bpm": 100.7,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.695033669472,
+  "mbid": "4faf9b25-5226-4243-9397-ec275489ccb1",
+  "note": "F",
+  "scale": "major",
   "source": "acousticbrainz"
  },
  "12069591:A1": {
@@ -1534,6 +3512,129 @@
   "scale": "major",
   "source": "deezer-preview"
  },
+ "1210618:A1": {
+  "bpm": 94.3,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.591097831726,
+  "mbid": "c5815696-8bb9-4d5c-b838-46668df80ac0",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "1210618:A2": {
+  "bpm": 92.6,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.785420954227,
+  "mbid": "d4b695ca-99ad-4c96-a4cb-96f4ae3425d4",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "1210618:A4": {
+  "bpm": 96.9,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.528367221355,
+  "mbid": "73a7d514-0e57-4b4f-9127-1d656597d3eb",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "1210618:A5": {
+  "bpm": 93.1,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.548459947109,
+  "mbid": "6fa76131-82ce-4c35-961a-923948d4303c",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "1210618:A6": {
+  "bpm": 100.0,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.531729102135,
+  "mbid": "12fdc9ef-95df-4b57-bea1-c20c503b1bbd",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "1210618:B1": {
+  "bpm": 95.1,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.602998912334,
+  "mbid": "90a8a27e-d95d-43b4-a968-9c7e03db7ebf",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "1210618:B2": {
+  "bpm": 91.6,
+  "camelot": "1A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "G#m",
+  "key_strength": 0.718542873859,
+  "mbid": "87d0a026-8e9e-4ea8-9d0a-6c203d9f06ed",
+  "note": "G#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "1210618:B3": {
+  "bpm": 100.4,
+  "camelot": "12A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C#m",
+  "key_strength": 0.452796965837,
+  "mbid": "82c13765-c96a-42b0-ab85-4a4f5017c77e",
+  "note": "C#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "1210618:B4": {
+  "bpm": 93.8,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Em",
+  "key_strength": 0.483748942614,
+  "mbid": "bf1605ce-3565-45ad-8f38-e123c56dbc4e",
+  "note": "E",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "1210618:B5": {
+  "bpm": 88.8,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.612038075924,
+  "mbid": "d82d5b56-2201-4200-8ff7-fcfc42039907",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "1210618:B6": {
+  "beat_confidence": 3.23,
+  "bpm": 92.1,
+  "camelot": "1A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 884736942,
+  "key": "G#m",
+  "key_strength": 0.53,
+  "match": 1.0,
+  "note": "Ab",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
  "12125064:A1": {
   "bpm": 163.5,
   "camelot": "6B",
@@ -1764,6 +3865,31 @@
   "checked": "2026-10-26T10:02:58.873466+00:00",
   "source": "none"
  },
+ "12128702:A1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12128702:A2": {
+  "beat_confidence": 3.27,
+  "bpm": 130.0,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2201624927,
+  "key": "Em",
+  "key_strength": 0.85,
+  "match": 0.76,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "12128702:B1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12128702:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
  "12197000:A1": {
   "beat_confidence": 1.5,
   "bpm": 104.9,
@@ -1936,6 +4062,58 @@
   "note": "G",
   "scale": "major",
   "source": "acousticbrainz"
+ },
+ "12217057:A1": {
+  "beat_confidence": 2.73,
+  "bpm": 126.0,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 851130082,
+  "key": "Dm",
+  "key_strength": 0.89,
+  "match": 1.0,
+  "note": "D",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "12217057:A2": {
+  "beat_confidence": 3.16,
+  "bpm": 125.0,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 851130092,
+  "key": "Em",
+  "key_strength": 0.78,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "12217057:B1": {
+  "beat_confidence": 3.65,
+  "bpm": 125.1,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 851130112,
+  "key": "Fm",
+  "key_strength": 0.88,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "12217057:B2": {
+  "beat_confidence": 3.86,
+  "bpm": 130.5,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 851130132,
+  "key": "Am",
+  "key_strength": 0.96,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "12219258:A1": {
   "bpm": 119.6,
@@ -2270,6 +4448,124 @@
   "scale": "minor",
   "source": "deezer-preview"
  },
+ "12253742:A1": {
+  "bpm": 99.0,
+  "camelot": "11B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "A",
+  "key_strength": 0.7552562356,
+  "mbid": "a96728d1-d730-453e-be59-c844600ef1bc",
+  "note": "A",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12253742:A2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12253742:A3": {
+  "bpm": 105.6,
+  "camelot": "10B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "D",
+  "key_strength": 0.702048540115,
+  "mbid": "49598a24-135a-43f6-97bf-100d9a282068",
+  "note": "D",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12253742:A4": {
+  "bpm": 132.1,
+  "camelot": "12A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C#m",
+  "key_strength": 0.845947802067,
+  "mbid": "62050248-6e50-4afd-8695-75a1ccafe100",
+  "note": "C#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12253742:A5": {
+  "bpm": 156.1,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.569740474224,
+  "mbid": "94efdb10-c4cd-4fe7-8eff-5f5c550cc85b",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12253742:A6": {
+  "bpm": 120.2,
+  "camelot": "11B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "A",
+  "key_strength": 0.682584524155,
+  "mbid": "3a8eeffa-83a5-4d5b-b4a8-bc2f6a3f939a",
+  "note": "A",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12253742:B1": {
+  "bpm": 140.5,
+  "camelot": "4B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ab",
+  "key_strength": 0.834399819374,
+  "mbid": "a7370fd6-e6c4-435a-b07f-903efae636be",
+  "note": "G#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12253742:B2": {
+  "bpm": 91.8,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.806857526302,
+  "mbid": "a3547c8d-524c-4534-bf79-04b4fc0f1e4b",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12253742:B3": {
+  "bpm": 132.0,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.796581149101,
+  "mbid": "f66de8a5-1ed4-499e-8417-56e37748dafa",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12253742:B4": {
+  "bpm": 89.3,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.772832155228,
+  "mbid": "fbfb3dec-0d6a-49c7-bb0f-e2548e7edc6e",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12253742:B5": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12253742:B6": {
+  "bpm": 112.7,
+  "camelot": "3B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Db",
+  "key_strength": 0.740695059299,
+  "mbid": "a01be277-62b9-4c1d-8b0d-5cb41f1c5750",
+  "note": "C#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
  "12253923:A1": {
   "beat_confidence": 2.2,
   "bpm": 117.1,
@@ -2397,6 +4693,18 @@
   "scale": "major",
   "source": "acousticbrainz"
  },
+ "12273734:A1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12273734:A2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12273734:B": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
  "12298932:1": {
   "beat_confidence": 3.52,
   "bpm": 124.0,
@@ -2436,6 +4744,251 @@
   "scale": "minor",
   "source": "deezer-preview"
  },
+ "12326287:A1": {
+  "bpm": 123.0,
+  "camelot": "12A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C#m",
+  "key_strength": 0.719618618488,
+  "mbid": "5942708d-39f7-4fa6-ae7f-48817fb69be8",
+  "note": "C#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12326287:A2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12326287:B1": {
+  "beat_confidence": 0.49,
+  "bpm": 111.2,
+  "camelot": "2A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 1226632972,
+  "key": "Ebm",
+  "key_strength": 0.73,
+  "match": 0.76,
+  "note": "Eb",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "12326287:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12326287:C1": {
+  "beat_confidence": 1.67,
+  "bpm": 124.0,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 600785782,
+  "key": "E",
+  "key_strength": 0.91,
+  "match": 1.0,
+  "note": "E",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "12326287:C2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12326287:D1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12326287:D2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12418449:A1": {
+  "beat_confidence": 3.87,
+  "bpm": 95.9,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2793753,
+  "key": "E",
+  "key_strength": 0.7,
+  "match": 1.0,
+  "note": "E",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "12418449:A2": {
+  "beat_confidence": 3.53,
+  "bpm": 84.5,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 3616650,
+  "key": "C",
+  "key_strength": 0.58,
+  "match": 1.0,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "12418449:A3": {
+  "bpm": 97.8,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.5485034585,
+  "mbid": "43395e30-d6ab-47fc-adb1-ff6aff372c42",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12418449:A4": {
+  "bpm": 93.7,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.853472828865,
+  "mbid": "3024bb7d-d076-44a1-83a0-50206bfd3961",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12418449:B1": {
+  "bpm": 93.3,
+  "camelot": "12A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C#m",
+  "key_strength": 0.636489868164,
+  "mbid": "2dce450c-5a89-4d15-906f-cde84ec5f0b3",
+  "note": "C#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12418449:B2": {
+  "bpm": 87.4,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.618262410164,
+  "mbid": "c46a9eb3-7b2b-4560-8151-05611a784225",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12418449:B3": {
+  "bpm": 164.1,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.462514281273,
+  "mbid": "5a0f780d-b43b-4a56-9cf6-64a99fff533f",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12418449:B4": {
+  "bpm": 91.7,
+  "camelot": "6A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Gm",
+  "key_strength": 0.501758575439,
+  "mbid": "edf92344-a034-488f-a06c-5aeb436aa4e2",
+  "note": "G",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12418449:C1": {
+  "bpm": 86.9,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.567892193794,
+  "mbid": "e9d5b204-b6ab-4460-b84c-6410e270202d",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12418449:C2": {
+  "bpm": 77.5,
+  "camelot": "1B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "B",
+  "key_strength": 0.672387361526,
+  "mbid": "1b65302e-7a73-4637-9812-4d1ec90c6ce3",
+  "note": "B",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12418449:C3": {
+  "bpm": 101.3,
+  "camelot": "12A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C#m",
+  "key_strength": 0.719297945499,
+  "mbid": "7c24344a-554a-4ba2-998a-f6ad23ca943d",
+  "note": "C#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12418449:C4": {
+  "bpm": 106.2,
+  "camelot": "12A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C#m",
+  "key_strength": 0.710492789745,
+  "mbid": "04cd1f0f-9c09-4827-9b62-86390acfe07b",
+  "note": "C#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12418449:D1": {
+  "beat_confidence": 3.71,
+  "bpm": 91.5,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 3616661,
+  "key": "F#m",
+  "key_strength": 0.49,
+  "match": 1.0,
+  "note": "F#",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "12418449:D2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12418449:D3": {
+  "bpm": 96.9,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.753412008286,
+  "mbid": "8cd86dbe-20b5-42fd-839b-f0e6b4144e9b",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12418449:D4": {
+  "bpm": 94.0,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.594274401665,
+  "mbid": "17b77cf1-c3af-4e74-9ca5-cb3c51609b0a",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12418449:D5": {
+  "beat_confidence": 2.86,
+  "bpm": 88.9,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 3616665,
+  "key": "Fm",
+  "key_strength": 0.79,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
  "12433082:A": {
   "checked": "2026-10-26T10:02:58.873466+00:00",
   "source": "none"
@@ -2470,6 +5023,72 @@
   "scale": "minor",
   "source": "deezer-preview"
  },
+ "12520140:A1": {
+  "bpm": 128.4,
+  "camelot": "3B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Db",
+  "key_strength": 0.503859996796,
+  "mbid": "9b5087d1-6a9e-403e-bc51-b36f1fae7dfe",
+  "note": "C#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12520140:A2": {
+  "bpm": 126.0,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.660413682461,
+  "mbid": "c6fb0b18-4702-4b11-9428-260788c56889",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12520140:A3": {
+  "bpm": 125.9,
+  "camelot": "5B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Eb",
+  "key_strength": 0.62415510416,
+  "mbid": "823c894e-578e-4c1b-bd7b-a6535e483336",
+  "note": "D#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12520140:B1": {
+  "bpm": 123.0,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.70578789711,
+  "mbid": "68ad8705-7789-4679-9fcd-8884f7c69680",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12520140:B2": {
+  "bpm": 123.0,
+  "camelot": "4B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ab",
+  "key_strength": 0.808076381683,
+  "mbid": "bccefbfb-93a0-4f2b-8e12-55bf5fe58101",
+  "note": "G#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12520140:B3": {
+  "bpm": 124.0,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.718234717846,
+  "mbid": "3adf63f3-421e-4574-a276-684e8934779b",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
  "12540044:A": {
   "beat_confidence": 3.81,
   "bpm": 128.0,
@@ -2495,6 +5114,43 @@
   "note": "G",
   "scale": "major",
   "source": "deezer-preview"
+ },
+ "12557764:A1": {
+  "bpm": 120.6,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.683220148087,
+  "mbid": "27e5ba94-ca20-4e7f-a154-de526bc6d87b",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12557764:A2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12557764:B1": {
+  "bpm": 104.6,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.622396469116,
+  "mbid": "c2c8b5df-3620-4184-9914-88d9fa89fd66",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12557764:B2": {
+  "bpm": 111.5,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.635558128357,
+  "mbid": "7e90be56-f22e-4b59-b785-416ad5af8086",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
  },
  "12593047:A1": {
   "bpm": 123.8,
@@ -2556,6 +5212,71 @@
   "key_strength": 0.89,
   "match": 1.0,
   "note": "B",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "12614410:A": {
+  "beat_confidence": 2.56,
+  "bpm": 132.0,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2465032025,
+  "key": "C",
+  "key_strength": 0.92,
+  "match": 1.0,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "12614410:B": {
+  "beat_confidence": 2.68,
+  "bpm": 126.9,
+  "camelot": "3B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2465032035,
+  "key": "Db",
+  "key_strength": 0.85,
+  "match": 1.0,
+  "note": "C#",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "12638505:A1": {
+  "beat_confidence": 3.44,
+  "bpm": 112.0,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 678650352,
+  "key": "Dm",
+  "key_strength": 0.92,
+  "match": 1.0,
+  "note": "D",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "12638505:B1": {
+  "beat_confidence": 3.42,
+  "bpm": 112.0,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 678650362,
+  "key": "Dm",
+  "key_strength": 0.92,
+  "match": 1.0,
+  "note": "D",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "12638505:B2": {
+  "beat_confidence": 3.42,
+  "bpm": 112.0,
+  "camelot": "10B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 678650372,
+  "key": "D",
+  "key_strength": 0.74,
+  "match": 1.0,
+  "note": "D",
   "scale": "major",
   "source": "deezer-preview"
  },
@@ -2750,6 +5471,226 @@
   "scale": "major",
   "source": "acousticbrainz"
  },
+ "12652166:A5": {
+  "bpm": 98.5,
+  "camelot": "3B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Db",
+  "key_strength": 0.519149780273,
+  "mbid": "c9298ec5-4bda-4b90-bb38-ea4e8884c5c2",
+  "note": "C#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12652166:B2": {
+  "bpm": 102.9,
+  "camelot": "3B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Db",
+  "key_strength": 0.596336245537,
+  "mbid": "cfc77bb1-f70c-47bd-af43-a20d34acf1a1",
+  "note": "C#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12652166:B3": {
+  "bpm": 172.3,
+  "camelot": "2B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F#",
+  "key_strength": 0.651622474194,
+  "mbid": "6e550fd8-d525-4904-9cfa-bbc035a813ad",
+  "note": "F#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12652166:B4": {
+  "bpm": 107.0,
+  "camelot": "3B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Db",
+  "key_strength": 0.800449550152,
+  "mbid": "e442da41-7b89-4238-87d2-d8ce81a50950",
+  "note": "C#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12652166:B5": {
+  "bpm": 132.8,
+  "camelot": "4B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ab",
+  "key_strength": 0.692878007889,
+  "mbid": "034ca23a-0326-434c-a04e-07d4a4bf68e9",
+  "note": "G#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12675255:A1": {
+  "bpm": 122.7,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.742089152336,
+  "mbid": "260fa4c5-16e5-4995-a16f-be541c59bd72",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12675255:A2": {
+  "bpm": 103.3,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.796279370785,
+  "mbid": "6840ba17-95fd-4de7-8d66-9429c7d98019",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12675255:B1": {
+  "bpm": 154.8,
+  "camelot": "4B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ab",
+  "key_strength": 0.66286534071,
+  "mbid": "1591b459-c767-470f-ac7e-a1cdecaa148b",
+  "note": "G#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12699641:A1": {
+  "bpm": 119.9,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F#m",
+  "key_strength": 0.489672482014,
+  "mbid": "c83e9bcc-1603-4400-a854-c175941998e8",
+  "note": "F#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12699641:A2": {
+  "bpm": 120.0,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.513029575348,
+  "mbid": "98c2e286-3cbb-44c8-8dc9-e7a93b6c6851",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12699641:B1": {
+  "bpm": 122.1,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.662437558174,
+  "mbid": "b0623c22-c930-42ad-8676-6d872f6cec4c",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12699641:B2": {
+  "bpm": 123.8,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.663934528828,
+  "mbid": "02ff7fd6-c9ea-4add-834b-ab5b2e1cf0a4",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12710971:A1": {
+  "bpm": 104.0,
+  "camelot": "4B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ab",
+  "key_strength": 0.686623156071,
+  "mbid": "d562d4ad-17a3-43bf-a973-090bdf020982",
+  "note": "G#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12710971:A2": {
+  "bpm": 110.0,
+  "camelot": "6A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Gm",
+  "key_strength": 0.815076708794,
+  "mbid": "afd5676e-8cc8-4560-a3d9-948c5741dfa6",
+  "note": "G",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12710971:A3": {
+  "bpm": 120.1,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.753498733044,
+  "mbid": "7fb72df8-0636-4766-8465-7b04c658700c",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12710971:A4": {
+  "bpm": 113.0,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "E",
+  "key_strength": 0.623275458813,
+  "mbid": "1d7d45ae-5167-46ff-881e-e2c4c51fda02",
+  "note": "E",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12710971:B1": {
+  "bpm": 114.0,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.627381801605,
+  "mbid": "71566aef-5be5-47b0-b1b4-957b87d4f1ad",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12710971:B2": {
+  "bpm": 143.9,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.59690964222,
+  "mbid": "6f519306-3741-41ac-b63e-71630489f119",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12710971:B3": {
+  "bpm": 114.9,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.877104222775,
+  "mbid": "3a9a6085-fd87-401e-84fe-834b19fba82b",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12710971:B4": {
+  "bpm": 135.6,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Em",
+  "key_strength": 0.64921194315,
+  "mbid": "9c7da893-f7a0-4e36-b8d1-6449f374e756",
+  "note": "E",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
  "12712993:A": {
   "checked": "2026-10-26T10:02:58.873466+00:00",
   "source": "none"
@@ -2778,6 +5719,138 @@
  "12730421:B2": {
   "checked": "2026-10-26T10:02:58.873466+00:00",
   "source": "none"
+ },
+ "12741038:A1": {
+  "bpm": 164.7,
+  "camelot": "2A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ebm",
+  "key_strength": 0.826140105724,
+  "mbid": "375e2184-9f8b-484b-9a88-b3aec620163a",
+  "note": "D#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12741038:A2": {
+  "bpm": 103.8,
+  "camelot": "10B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "D",
+  "key_strength": 0.727172136307,
+  "mbid": "4327b0a9-cb42-4eca-8f8e-9a5528cebc41",
+  "note": "D",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12741038:A3": {
+  "bpm": 100.9,
+  "camelot": "9B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "G",
+  "key_strength": 0.557442963123,
+  "mbid": "15fc6135-0bb7-4ef5-89fb-76dd16620a54",
+  "note": "G",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12741038:A4": {
+  "bpm": 161.7,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.746629476547,
+  "mbid": "0cd0a4ae-2d8a-4bb3-b80f-e635ed15d57b",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12741038:A5": {
+  "bpm": 99.7,
+  "camelot": "5B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Eb",
+  "key_strength": 0.56307977438,
+  "mbid": "52b81e2a-292c-45bd-a5c5-19cb9cecac1d",
+  "note": "D#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12741038:A6": {
+  "bpm": 96.3,
+  "camelot": "9B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "G",
+  "key_strength": 0.704827070236,
+  "mbid": "61b23c88-d643-4477-9e03-92c2c280eda3",
+  "note": "G",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12741038:B1": {
+  "bpm": 96.0,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.569807052612,
+  "mbid": "be292a5b-fdd7-45c2-b404-24a965726ad0",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12741038:B2": {
+  "bpm": 91.7,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.587514936924,
+  "mbid": "8c943304-506c-4651-b7d1-045998cb09a0",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12741038:B3": {
+  "bpm": 161.8,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.708828985691,
+  "mbid": "f56290ce-548b-445a-872a-6ad51f04bf40",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12741038:B4": {
+  "bpm": 101.5,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.725482106209,
+  "mbid": "ef6dc031-f15f-4848-8190-4970db4f4410",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12741038:B5": {
+  "bpm": 109.3,
+  "camelot": "9B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "G",
+  "key_strength": 0.630253076553,
+  "mbid": "d621ed86-ed73-4455-8d95-2d118b9f3b9e",
+  "note": "G",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12741038:B6": {
+  "bpm": 91.9,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.569882214069,
+  "mbid": "e3ccff5f-6e9b-4855-abbc-57380c47debb",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
  },
  "12746598:A1": {
   "bpm": 98.0,
@@ -2899,6 +5972,30 @@
   "note": "A",
   "scale": "minor",
   "source": "acousticbrainz"
+ },
+ "12765277:A": {
+  "bpm": 120.0,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "E",
+  "key_strength": 0.721114933491,
+  "mbid": "82e5ba40-be1a-497e-9601-3328dfc56e56",
+  "note": "E",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12765277:B": {
+  "beat_confidence": 1.81,
+  "bpm": 120.1,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 1212569982,
+  "key": "Am",
+  "key_strength": 0.72,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "12765451:A1": {
   "bpm": 124.9,
@@ -3075,6 +6172,143 @@
   "key_strength": 0.648965895176,
   "mbid": "11432279-b07a-4ab2-9a57-65414b6bc9a3",
   "note": "G",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12765588:A1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12765588:A2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12765588:B1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12765588:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12769670:A1": {
+  "bpm": 120.3,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Em",
+  "key_strength": 0.500173091888,
+  "mbid": "8d0bc5c0-31a2-4767-9742-f6989e3d1441",
+  "note": "E",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12769670:A2": {
+  "bpm": 92.6,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.823366641998,
+  "mbid": "28a51b1a-e984-4af0-beea-28d7db810298",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12769670:B1": {
+  "bpm": 70.8,
+  "camelot": "4B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ab",
+  "key_strength": 0.593048334122,
+  "mbid": "3d1d41cf-81a3-4181-a823-040dbe6ea1ee",
+  "note": "G#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12769670:B2": {
+  "bpm": 129.9,
+  "camelot": "2A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ebm",
+  "key_strength": 0.806178748608,
+  "mbid": "4136e191-03d1-4549-96b2-dbe827990a1d",
+  "note": "D#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12769670:B3": {
+  "bpm": 172.3,
+  "camelot": "2A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ebm",
+  "key_strength": 0.666692137718,
+  "mbid": "40ba1fed-d67c-45f2-9c00-2592469648a0",
+  "note": "D#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12822546:A1": {
+  "bpm": 133.9,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.582645535469,
+  "mbid": "f467ac09-8cc1-4446-827e-c72b000e4a13",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12822546:A2": {
+  "bpm": 134.6,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.684949159622,
+  "mbid": "c0f86e49-370e-410a-b73f-996816e6449f",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12822546:B1": {
+  "bpm": 131.9,
+  "camelot": "11B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "A",
+  "key_strength": 0.346443325281,
+  "mbid": "ce74e6dc-1a0b-4dc8-8c9c-ec34b01e3890",
+  "note": "A",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12822546:B2": {
+  "bpm": 135.9,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.559197664261,
+  "mbid": "74b6d0ed-7e02-4224-b1c8-30d42bf14f50",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12827:A": {
+  "bpm": 137.9,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.787526428699,
+  "mbid": "61756587-6841-4c89-9e79-7aaa67808b05",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12827:B": {
+  "bpm": 139.8,
+  "camelot": "2A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ebm",
+  "key_strength": 0.545211970806,
+  "mbid": "fa125786-b12e-444e-81bf-d0a395939af5",
+  "note": "D#",
   "scale": "minor",
   "source": "acousticbrainz"
  },
@@ -3332,6 +6566,111 @@
   "scale": "minor",
   "source": "deezer-preview"
  },
+ "12890235:A1": {
+  "bpm": 112.0,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.546378493309,
+  "mbid": "c44749fa-23b8-4d87-93d6-153edb7cbe86",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12890235:A2": {
+  "bpm": 178.2,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "E",
+  "key_strength": 0.724403917789,
+  "mbid": "21d0994f-a5d2-4ee9-be11-f360c5912d87",
+  "note": "E",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12890235:B1": {
+  "bpm": 85.0,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.676969468594,
+  "mbid": "ae5a7103-1784-4037-9037-0c80a2c5f7eb",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12890235:B2": {
+  "bpm": 107.0,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.663835346699,
+  "mbid": "e69a17d6-bdde-472c-916c-472435a7491d",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12890235:B3": {
+  "bpm": 80.1,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.640435516834,
+  "mbid": "7b594085-2a06-4440-b4b7-3719c43effaf",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12896443:A1": {
+  "beat_confidence": 4.03,
+  "bpm": 119.0,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 562139672,
+  "key": "Dm",
+  "key_strength": 0.89,
+  "match": 1.0,
+  "note": "D",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "12896443:A2": {
+  "beat_confidence": 3.27,
+  "bpm": 126.1,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 562139682,
+  "key": "F",
+  "key_strength": 0.85,
+  "match": 1.0,
+  "note": "F",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "12896443:B1": {
+  "bpm": 124.0,
+  "camelot": "5B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Eb",
+  "key_strength": 0.616548657417,
+  "mbid": "c5e5c833-ad2a-491d-a591-e393692a79b4",
+  "note": "D#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "12896443:B2": {
+  "beat_confidence": 3.76,
+  "bpm": 127.1,
+  "camelot": "6A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 562139702,
+  "key": "Gm",
+  "key_strength": 0.9,
+  "match": 1.0,
+  "note": "G",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
  "12923923:A1": {
   "bpm": 115.5,
   "camelot": "7A",
@@ -3409,6 +6748,38 @@
   "scale": "major",
   "source": "acousticbrainz"
  },
+ "12930998:A": {
+  "bpm": 123.9,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.741853475571,
+  "mbid": "9d981797-a2c2-47f7-89bf-aeff87da8ded",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "12930998:B": {
+  "beat_confidence": 3.82,
+  "bpm": 125.0,
+  "camelot": "5B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2201836187,
+  "key": "Eb",
+  "key_strength": 0.86,
+  "match": 1.0,
+  "note": "Eb",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "12979988:A": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "12979988:B": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
  "12994:A1": {
   "bpm": 131.9,
   "camelot": "6B",
@@ -3442,6 +6813,338 @@
   "mbid": "277e5acf-5487-44b9-8ed3-3e38e29a281d",
   "note": "A#",
   "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13072294:A1": {
+  "beat_confidence": 1.8,
+  "bpm": 129.8,
+  "camelot": "10A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 4173126852,
+  "key": "Bm",
+  "key_strength": 0.7,
+  "match": 0.73,
+  "note": "B",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13072294:A2": {
+  "beat_confidence": 3.42,
+  "bpm": 95.9,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 706101162,
+  "key": "F",
+  "key_strength": 0.89,
+  "match": 1.0,
+  "note": "F",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13072294:A3": {
+  "beat_confidence": 3.92,
+  "bpm": 94.9,
+  "camelot": "10B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2657252792,
+  "key": "D",
+  "key_strength": 0.87,
+  "match": 0.87,
+  "note": "D",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13072294:A4": {
+  "beat_confidence": 1.67,
+  "bpm": 77.5,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 3185763341,
+  "key": "Fm",
+  "key_strength": 0.88,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13072294:A5": {
+  "beat_confidence": 2.35,
+  "bpm": 84.9,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 706101192,
+  "key": "C",
+  "key_strength": 0.87,
+  "match": 1.0,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13072294:A6": {
+  "beat_confidence": 3.56,
+  "bpm": 89.9,
+  "camelot": "1A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 706101202,
+  "key": "G#m",
+  "key_strength": 0.76,
+  "match": 1.0,
+  "note": "Ab",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13072294:B1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13072294:B2": {
+  "beat_confidence": 2.21,
+  "bpm": 84.5,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 706101222,
+  "key": "Em",
+  "key_strength": 0.77,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13072294:B3": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13072294:B4": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13072294:B5": {
+  "beat_confidence": 4.01,
+  "bpm": 84.1,
+  "camelot": "1A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 706101242,
+  "key": "G#m",
+  "key_strength": 0.89,
+  "match": 1.0,
+  "note": "Ab",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13072294:B6": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13072294:B7": {
+  "beat_confidence": 4.07,
+  "bpm": 77.5,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 3539238711,
+  "key": "Cm",
+  "key_strength": 0.45,
+  "match": 0.98,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13072294:B8": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13072294:C1": {
+  "beat_confidence": 2.98,
+  "bpm": 82.0,
+  "camelot": "3B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 706101282,
+  "key": "Db",
+  "key_strength": 0.83,
+  "match": 1.0,
+  "note": "C#",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13072294:C2": {
+  "beat_confidence": 3.72,
+  "bpm": 84.0,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 706101292,
+  "key": "Cm",
+  "key_strength": 0.87,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13072294:C3": {
+  "beat_confidence": 3.16,
+  "bpm": 91.6,
+  "camelot": "10B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 706101302,
+  "key": "D",
+  "key_strength": 0.64,
+  "match": 1.0,
+  "note": "D",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13072294:C4": {
+  "beat_confidence": 3.28,
+  "bpm": 88.1,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 706101312,
+  "key": "Cm",
+  "key_strength": 0.81,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13072294:C5": {
+  "beat_confidence": 0.85,
+  "bpm": 77.2,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 4204003392,
+  "key": "Am",
+  "key_strength": 0.83,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13072294:C6": {
+  "beat_confidence": 2.78,
+  "bpm": 84.9,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 1006452632,
+  "key": "F",
+  "key_strength": 0.84,
+  "match": 0.85,
+  "note": "F",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13072294:C7": {
+  "beat_confidence": 2.71,
+  "bpm": 119.9,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 416655082,
+  "key": "C",
+  "key_strength": 0.8,
+  "match": 1.0,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13072294:D1": {
+  "beat_confidence": 2.32,
+  "bpm": 93.0,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 628909362,
+  "key": "C",
+  "key_strength": 0.88,
+  "match": 1.0,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13072294:D2": {
+  "beat_confidence": 1.77,
+  "bpm": 72.8,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 706101362,
+  "key": "C",
+  "key_strength": 0.77,
+  "match": 0.98,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13072294:D3": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13072294:D4": {
+  "bpm": 85.0,
+  "camelot": "3B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Db",
+  "key_strength": 0.497752010822,
+  "mbid": "08484599-7591-4ff7-8bb3-c772dcc9060d",
+  "note": "C#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13072294:D5": {
+  "beat_confidence": 2.98,
+  "bpm": 79.7,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 3580369001,
+  "key": "Cm",
+  "key_strength": 0.83,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13072294:D6": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13076114:A1": {
+  "bpm": 123.9,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "E",
+  "key_strength": 0.675147771835,
+  "mbid": "3a1cc76a-b27d-427c-beed-bae270ebc90f",
+  "note": "E",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13076114:A2": {
+  "bpm": 118.9,
+  "camelot": "10B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "D",
+  "key_strength": 0.708421349525,
+  "mbid": "e4581add-663c-4331-afa1-fa45f7e8ae25",
+  "note": "D",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13076114:B1": {
+  "beat_confidence": 3.66,
+  "bpm": 124.0,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 766711842,
+  "key": "F#m",
+  "key_strength": 0.84,
+  "match": 0.85,
+  "note": "F#",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13076114:B2": {
+  "bpm": 123.9,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.771045148373,
+  "mbid": "8c9adad0-0b0e-4be0-9543-adf27bb93c25",
+  "note": "C",
+  "scale": "major",
   "source": "acousticbrainz"
  },
  "13105750:A1": {
@@ -3527,6 +7230,14 @@
   "scale": "minor",
   "source": "deezer-preview"
  },
+ "13116493:A": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13116493:B": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
  "13135986:A.1": {
   "beat_confidence": 2.36,
   "bpm": 132.9,
@@ -3551,6 +7262,58 @@
   "match": 1.0,
   "note": "Bb",
   "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13145532:A1": {
+  "beat_confidence": 1.87,
+  "bpm": 117.8,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 661358472,
+  "key": "Am",
+  "key_strength": 0.77,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13145532:A2": {
+  "beat_confidence": 1.03,
+  "bpm": 120.1,
+  "camelot": "1A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 661358482,
+  "key": "G#m",
+  "key_strength": 0.83,
+  "match": 1.0,
+  "note": "Ab",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13145532:B1": {
+  "beat_confidence": 2.36,
+  "bpm": 118.1,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 661358492,
+  "key": "C",
+  "key_strength": 0.82,
+  "match": 1.0,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13145532:B2": {
+  "beat_confidence": 3.81,
+  "bpm": 116.1,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 661358502,
+  "key": "F#m",
+  "key_strength": 0.9,
+  "match": 1.0,
+  "note": "F#",
+  "scale": "minor",
   "source": "deezer-preview"
  },
  "13181220:A1": {
@@ -3603,6 +7366,138 @@
   "scale": "minor",
   "source": "deezer-preview"
  },
+ "13183592:A1": {
+  "bpm": 110.0,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.538348793983,
+  "mbid": "b6ddc9b3-8bfa-4386-8542-274b9e4da403",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13183592:A2": {
+  "bpm": 110.0,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.488239198923,
+  "mbid": "296dc86e-273e-4d83-9ba7-73066615f463",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13183592:B1": {
+  "bpm": 120.0,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.550289988518,
+  "mbid": "09f7d8ed-4ee0-4f19-a9a4-b442b6d2e775",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13183592:B2": {
+  "bpm": 125.0,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.746460735798,
+  "mbid": "4b05ddd9-80f3-40f6-b7bd-c977de983bdf",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13183592:B3": {
+  "bpm": 120.0,
+  "camelot": "10B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "D",
+  "key_strength": 0.652732551098,
+  "mbid": "c978d5dc-8bc1-4122-8ab9-a0bebf21cb59",
+  "note": "D",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13202042:A1": {
+  "bpm": 109.7,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F#m",
+  "key_strength": 0.626062631607,
+  "mbid": "a35a0803-7390-475a-b222-8d772c69eb55",
+  "note": "F#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13202042:A2": {
+  "bpm": 117.6,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.636883556843,
+  "mbid": "f5963a78-0971-47b6-9546-68c5561a92be",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13202042:A3": {
+  "bpm": 135.1,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.65304338932,
+  "mbid": "3a4fd134-b94d-4636-a175-ca3a790376ce",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13202042:B1": {
+  "bpm": 102.8,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.785691738129,
+  "mbid": "5ace99ad-b61e-4432-a165-89819b08adca",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13202042:B2": {
+  "bpm": 107.2,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.588497042656,
+  "mbid": "3edf99dd-9352-4180-813a-a338408ca887",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13202042:B3": {
+  "bpm": 162.4,
+  "camelot": "11B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "A",
+  "key_strength": 0.724119186401,
+  "mbid": "59d92427-48e3-4517-9250-a726d5983e62",
+  "note": "A",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13202042:B4": {
+  "bpm": 95.0,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.633598148823,
+  "mbid": "f921d647-48d3-46ce-81d9-f2d767ecdae4",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
  "13222175:A1": {
   "beat_confidence": 3.56,
   "bpm": 124.9,
@@ -3623,6 +7518,148 @@
  "13222175:B2": {
   "checked": "2026-10-26T10:02:58.873466+00:00",
   "source": "none"
+ },
+ "13242319:A1": {
+  "beat_confidence": 3.86,
+  "bpm": 99.9,
+  "camelot": "5B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 1212539332,
+  "key": "Eb",
+  "key_strength": 0.8,
+  "match": 1.0,
+  "note": "Eb",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13242319:A2": {
+  "bpm": 128.0,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "E",
+  "key_strength": 0.462662786245,
+  "mbid": "07a902ed-a7b2-49cf-9a91-8f0d5b6213b5",
+  "note": "E",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13242319:A3": {
+  "beat_confidence": 2.42,
+  "bpm": 109.5,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 1212539352,
+  "key": "Em",
+  "key_strength": 0.92,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13242319:A4": {
+  "beat_confidence": 3.52,
+  "bpm": 116.7,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 1218322192,
+  "key": "Am",
+  "key_strength": 0.74,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13242319:B1": {
+  "bpm": 114.9,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.732757210732,
+  "mbid": "1714682e-7a3f-48d0-ba11-dc92f1091f1e",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13242319:B2": {
+  "beat_confidence": 3.85,
+  "bpm": 99.9,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 1212539392,
+  "key": "Am",
+  "key_strength": 0.9,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13242319:B3": {
+  "beat_confidence": 1.72,
+  "bpm": 111.8,
+  "camelot": "5B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 1212539402,
+  "key": "Eb",
+  "key_strength": 0.49,
+  "match": 1.0,
+  "note": "Eb",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13242319:B4": {
+  "bpm": 120.0,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "E",
+  "key_strength": 0.721114933491,
+  "mbid": "82e5ba40-be1a-497e-9601-3328dfc56e56",
+  "note": "E",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13243218:A1": {
+  "bpm": 131.7,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Em",
+  "key_strength": 0.650040984154,
+  "mbid": "a49cac61-f88f-441a-beb0-d431e0d373a1",
+  "note": "E",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13243218:A2": {
+  "bpm": 135.1,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.590209305286,
+  "mbid": "6c80ddf0-69a6-49e5-94fc-7ccf5d9756a6",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13243218:A3": {
+  "bpm": 127.8,
+  "camelot": "11B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "A",
+  "key_strength": 0.674525439739,
+  "mbid": "c25d097b-5876-48e3-a555-69e23bb444a5",
+  "note": "A",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13243218:B1": {
+  "bpm": 118.3,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.740368783474,
+  "mbid": "38df44dc-38ff-499a-bc5e-1aa9e1d04228",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
  },
  "13248842:A1": {
   "beat_confidence": 3.82,
@@ -3657,6 +7694,45 @@
  "13248842:B2": {
   "checked": "2026-10-26T10:02:58.873466+00:00",
   "source": "none"
+ },
+ "13251649:A1": {
+  "beat_confidence": 3.72,
+  "bpm": 128.0,
+  "camelot": "3B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 616615602,
+  "key": "Db",
+  "key_strength": 0.51,
+  "match": 1.0,
+  "note": "C#",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13251649:B1": {
+  "beat_confidence": 2.74,
+  "bpm": 124.0,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 616615612,
+  "key": "C",
+  "key_strength": 0.77,
+  "match": 1.0,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13251649:B2": {
+  "beat_confidence": 3.64,
+  "bpm": 120.0,
+  "camelot": "1A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 616615622,
+  "key": "G#m",
+  "key_strength": 0.71,
+  "match": 1.0,
+  "note": "Ab",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "13274311:A1": {
   "beat_confidence": 2.21,
@@ -3697,6 +7773,61 @@
   "scale": "major",
   "source": "deezer-preview"
  },
+ "13274311:B2": {
+  "bpm": 125.1,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.538845658302,
+  "mbid": "cb0a6719-4e9a-47a9-80ba-0380cbe4a52e",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13308241:A1": {
+  "bpm": 134.8,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.610775828362,
+  "mbid": "849d41dd-e234-46dc-9a5a-841d83ed6b30",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13308241:A2": {
+  "bpm": 110.0,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.676269471645,
+  "mbid": "b26bc064-fb52-433e-af02-fc2ab58e6bb0",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13308241:B1": {
+  "bpm": 122.8,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.643965661526,
+  "mbid": "763b2206-0110-413a-9e87-9cd7b53f77cc",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13308241:B2": {
+  "bpm": 83.4,
+  "camelot": "1B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "B",
+  "key_strength": 0.585706293583,
+  "mbid": "f091cf76-14fb-4e56-a79a-830f5257d7c5",
+  "note": "B",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
  "13360264:A": {
   "beat_confidence": 3.37,
   "bpm": 134.7,
@@ -3726,6 +7857,200 @@
   "note": "F",
   "scale": "major",
   "source": "deezer-preview"
+ },
+ "13379392:A1": {
+  "bpm": 104.8,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F#m",
+  "key_strength": 0.400163412094,
+  "mbid": "8bcd05df-a126-4f00-b495-385cb3273c8f",
+  "note": "F#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13379392:A2": {
+  "bpm": 138.7,
+  "camelot": "4B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ab",
+  "key_strength": 0.384012043476,
+  "mbid": "c499e318-1435-41fc-b126-750c81c964cc",
+  "note": "G#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13379392:A3": {
+  "bpm": 115.2,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.702238082886,
+  "mbid": "dafe578d-3331-42d2-acc6-1e443e366c5e",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13379392:A4": {
+  "bpm": 96.3,
+  "camelot": "5B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Eb",
+  "key_strength": 0.536754071712,
+  "mbid": "41b0a541-eda2-4f6a-8a86-49fa7b7e4e8c",
+  "note": "D#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13379392:A5": {
+  "bpm": 172.3,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.493883192539,
+  "mbid": "d191f871-ba62-4b33-9203-ba61c11a3d86",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13379392:A6": {
+  "bpm": 95.7,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.743027508259,
+  "mbid": "ccca365c-560d-48ed-b179-618eb6f54fd3",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13379392:B1": {
+  "bpm": 105.2,
+  "camelot": "12A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C#m",
+  "key_strength": 0.558073878288,
+  "mbid": "6965117a-53fb-46dc-a34d-65d36721c004",
+  "note": "C#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13379392:B2": {
+  "bpm": 111.0,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F#m",
+  "key_strength": 0.746312201023,
+  "mbid": "88cc5f44-ced9-4141-a8fd-5e15f964db91",
+  "note": "F#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13379392:B3": {
+  "bpm": 119.0,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.430009841919,
+  "mbid": "3daabfc8-265b-42b4-b3c9-c866b33cc822",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13379392:B4": {
+  "bpm": 91.6,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.647117912769,
+  "mbid": "29a8b5c7-a02a-4486-ae20-0a46cd4b3a1f",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13379392:B5": {
+  "bpm": 107.8,
+  "camelot": "4B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ab",
+  "key_strength": 0.757373511791,
+  "mbid": "1ee3d821-92c2-4a44-8c78-7eefc6b4b00e",
+  "note": "G#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13379392:B6": {
+  "bpm": 104.6,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.57303082943,
+  "mbid": "c9518f43-d1c0-4ca8-b560-0ce790060ec4",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13402773:A1": {
+  "bpm": 126.0,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.745822906494,
+  "mbid": "28360e22-3cc5-4a3d-b3c4-5eb00ab9c869",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13402773:B1": {
+  "beat_confidence": 2.96,
+  "bpm": 124.2,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 666219762,
+  "key": "F#m",
+  "key_strength": 0.85,
+  "match": 1.0,
+  "note": "F#",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13402773:B2": {
+  "beat_confidence": 2.23,
+  "bpm": 119.8,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 666219772,
+  "key": "Cm",
+  "key_strength": 0.85,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13439160:A1": {
+  "beat_confidence": 2.69,
+  "bpm": 150.4,
+  "camelot": "9B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 3363950871,
+  "key": "G",
+  "key_strength": 0.84,
+  "match": 0.83,
+  "note": "G",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13439160:A2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13439160:B1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13439160:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
  },
  "13443162:A": {
   "bpm": 121.0,
@@ -3895,6 +8220,215 @@
   "checked": "2026-10-26T10:02:58.873466+00:00",
   "source": "none"
  },
+ "13464176:A": {
+  "bpm": 126.3,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.560984551907,
+  "mbid": "2a897f9c-1022-48c8-bc1a-b626164d9051",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13464176:B": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13467999:A1": {
+  "beat_confidence": 3.86,
+  "bpm": 94.8,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2132919007,
+  "key": "F#m",
+  "key_strength": 0.87,
+  "match": 1.0,
+  "note": "F#",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13467999:A2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13467999:A3": {
+  "bpm": 94.6,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.417544454336,
+  "mbid": "962f2802-4785-48f7-9b53-5574d3fc61da",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13467999:B1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13467999:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13467999:B3": {
+  "bpm": 92.3,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.536545753479,
+  "mbid": "98914aeb-9630-4095-a5db-e62019c50b31",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13468682:A": {
+  "bpm": 88.3,
+  "camelot": "3B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Db",
+  "key_strength": 0.534639239311,
+  "mbid": "6afbad05-4970-4600-ad1f-051c7d49afb1",
+  "note": "C#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13468682:B": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13479343:A1": {
+  "bpm": 105.0,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.757705748081,
+  "mbid": "0e01ae52-1055-42ef-b367-654cecaa090a",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13479343:A2": {
+  "bpm": 117.0,
+  "camelot": "5B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Eb",
+  "key_strength": 0.795636177063,
+  "mbid": "c5ece5e0-2edb-46c0-aefa-6fca3e36b3b1",
+  "note": "Eb",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13479343:B1": {
+  "bpm": 118.0,
+  "camelot": "10B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "D",
+  "key_strength": 0.706390202045,
+  "mbid": "1eb41158-9d3e-4a66-b984-979a4853b94f",
+  "note": "D",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13479343:B2": {
+  "bpm": 119.0,
+  "camelot": "4B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ab",
+  "key_strength": 0.551115751266,
+  "mbid": "4207e0c6-ec44-4c7d-a55e-8b64e480d288",
+  "note": "Ab",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13479343:B3": {
+  "bpm": 118.0,
+  "camelot": "10A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bm",
+  "key_strength": 0.594137012959,
+  "mbid": "bd65d09b-caf4-47f0-be33-9889cc8269df",
+  "note": "B",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13479810:A1": {
+  "bpm": 114.7,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.710841476917,
+  "mbid": "f60ad1b7-738f-4d1e-9a44-303e6c1227b9",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13479810:A2": {
+  "bpm": 139.9,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.749346911907,
+  "mbid": "5373c374-878b-4001-91c5-96aaa1302126",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13479810:A3": {
+  "bpm": 122.2,
+  "camelot": "11B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "A",
+  "key_strength": 0.61760187149,
+  "mbid": "32aba347-321b-46db-9adf-a64584ae9736",
+  "note": "A",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13479810:B1": {
+  "bpm": 117.6,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.77761143446,
+  "mbid": "ea773201-1e5f-4b12-89f3-0d9d52de7e2f",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13479810:B2": {
+  "bpm": 89.2,
+  "camelot": "1B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "B",
+  "key_strength": 0.626381456852,
+  "mbid": "18e670ff-a1aa-43bd-8e8d-6efd92f8bd97",
+  "note": "B",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13479810:B3": {
+  "bpm": 154.4,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.414910167456,
+  "mbid": "f49c524f-f147-482d-a91d-2cf5ebe6d9ec",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13479810:B4": {
+  "bpm": 127.1,
+  "camelot": "11B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "A",
+  "key_strength": 0.720542192459,
+  "mbid": "931b7eb5-9578-439c-9b86-b1c387e659ce",
+  "note": "A",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
  "13483432:A": {
   "bpm": 126.9,
   "camelot": "3A",
@@ -3905,6 +8439,265 @@
   "note": "A#",
   "scale": "minor",
   "source": "acousticbrainz"
+ },
+ "13485907:Cassette-A1": {
+  "bpm": 93.9,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.563510835171,
+  "mbid": "306c94b5-c8bb-40f3-b4ff-a8bcbba1d167",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13485907:Cassette-A2": {
+  "beat_confidence": 3.77,
+  "bpm": 90.1,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 59966641,
+  "key": "Cm",
+  "key_strength": 0.56,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13485907:Cassette-A3": {
+  "bpm": 165.6,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.566278874874,
+  "mbid": "6801b5e2-b41e-4bbd-8459-769b7638fc86",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13485907:Cassette-A4": {
+  "bpm": 95.0,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.53063839674,
+  "mbid": "c8c47c47-5429-4a0f-a58b-3aa36585e295",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13485907:Cassette-A5": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13485907:Cassette-A6": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13485907:Cassette-B1": {
+  "bpm": 99.5,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.772121906281,
+  "mbid": "93507c04-a58f-4ff4-bea2-105dc799996d",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13485907:Cassette-B2": {
+  "bpm": 96.0,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "E",
+  "key_strength": 0.696010410786,
+  "mbid": "04880e4e-d79e-4ca3-b54e-9eb4b94449de",
+  "note": "E",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13485907:Cassette-B3": {
+  "bpm": 184.6,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.571019291878,
+  "mbid": "5eb1f771-186d-4f0a-9c4b-661a8643a955",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13485907:Cassette-B4": {
+  "bpm": 84.9,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.526699364185,
+  "mbid": "ad93b7ff-25c2-48bd-8535-50c3f1ca3773",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13485907:Cassette-B5": {
+  "beat_confidence": 3.95,
+  "bpm": 86,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2793752,
+  "key": "C",
+  "key_strength": 0.56,
+  "match": 1.0,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13485907:Cassette-B6": {
+  "bpm": 89.1,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.70009380579,
+  "mbid": "57e3ec3e-4edf-4eeb-86c4-44a5e8bb7dde",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13485907:Cassette-B7": {
+  "beat_confidence": 4.03,
+  "bpm": 91.5,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2793759,
+  "key": "F#m",
+  "key_strength": 0.52,
+  "match": 1.0,
+  "note": "F#",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13485907:LP-A1": {
+  "bpm": 93.9,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.563510835171,
+  "mbid": "306c94b5-c8bb-40f3-b4ff-a8bcbba1d167",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13485907:LP-A2": {
+  "beat_confidence": 3.77,
+  "bpm": 90.1,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 59966641,
+  "key": "Cm",
+  "key_strength": 0.56,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13485907:LP-A3": {
+  "bpm": 165.6,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.566278874874,
+  "mbid": "6801b5e2-b41e-4bbd-8459-769b7638fc86",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13485907:LP-A4": {
+  "bpm": 95.0,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.53063839674,
+  "mbid": "c8c47c47-5429-4a0f-a58b-3aa36585e295",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13485907:LP-A5": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13485907:LP-A6": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13485907:LP-B1": {
+  "bpm": 99.5,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.772121906281,
+  "mbid": "93507c04-a58f-4ff4-bea2-105dc799996d",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13485907:LP-B2": {
+  "bpm": 96.0,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "E",
+  "key_strength": 0.696010410786,
+  "mbid": "04880e4e-d79e-4ca3-b54e-9eb4b94449de",
+  "note": "E",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13485907:LP-B4": {
+  "bpm": 84.9,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.526699364185,
+  "mbid": "ad93b7ff-25c2-48bd-8535-50c3f1ca3773",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13485907:LP-B5": {
+  "beat_confidence": 3.95,
+  "bpm": 86,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2793752,
+  "key": "C",
+  "key_strength": 0.56,
+  "match": 1.0,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13485907:LP-B6": {
+  "bpm": 89.1,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.70009380579,
+  "mbid": "57e3ec3e-4edf-4eeb-86c4-44a5e8bb7dde",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13485907:LP-B7": {
+  "beat_confidence": 4.03,
+  "bpm": 91.5,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2793759,
+  "key": "F#m",
+  "key_strength": 0.52,
+  "match": 1.0,
+  "note": "F#",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "13493142:A1": {
   "bpm": 113.4,
@@ -4144,6 +8937,177 @@
   "scale": "major",
   "source": "deezer-preview"
  },
+ "13550700:A": {
+  "bpm": 129.4,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.633311808109,
+  "mbid": "ebb0ff00-c2f1-4ade-8a35-c0f39385150e",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13550700:B1": {
+  "bpm": 145.4,
+  "camelot": "1A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "G#m",
+  "key_strength": 0.594453632832,
+  "mbid": "f881d4f9-df51-477a-8c15-13bc1f8c5f81",
+  "note": "G#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13550700:B2": {
+  "bpm": 128.4,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.646609604359,
+  "mbid": "56089aae-8cff-4a8f-a151-37df8d73dffe",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13555782:A1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13555782:A2": {
+  "bpm": 163.7,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.654767394066,
+  "mbid": "a1076920-68cc-4576-9615-d67c08dd4cf1",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13555782:A3": {
+  "bpm": 78.5,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Em",
+  "key_strength": 0.681037068367,
+  "mbid": "e7ad8bc2-fd34-4b64-b4ed-118847fc309f",
+  "note": "E",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13555782:A4": {
+  "bpm": 68.0,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.457478106022,
+  "mbid": "737f555e-ed78-495e-9ede-d896b5227505",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13555782:B1": {
+  "beat_confidence": 3.63,
+  "bpm": 90.0,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 624740482,
+  "key": "Bbm",
+  "key_strength": 0.89,
+  "match": 1.0,
+  "note": "Bb",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13555782:B2": {
+  "bpm": 96.7,
+  "camelot": "9B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "G",
+  "key_strength": 0.599963307381,
+  "mbid": "f3161e48-1477-41dd-948b-b18b1fcb54fd",
+  "note": "G",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13555782:B3": {
+  "bpm": 130.0,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.704774320126,
+  "mbid": "bf8c38c9-0619-4283-abb0-1604fbcb450d",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13555782:C1": {
+  "bpm": 125.7,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.864487230778,
+  "mbid": "f819714b-744b-4de6-8f20-a562eb89835a",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13555782:C2": {
+  "bpm": 123.5,
+  "camelot": "10B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "D",
+  "key_strength": 0.747643232346,
+  "mbid": "4508c7ca-4134-4212-a50b-daf3125f40c2",
+  "note": "D",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13555782:D1": {
+  "bpm": 129.7,
+  "camelot": "6A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Gm",
+  "key_strength": 0.448384732008,
+  "mbid": "c15eb11a-779c-48a4-81e9-64932d003a79",
+  "note": "G",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13555782:D2": {
+  "bpm": 164.7,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.54831802845,
+  "mbid": "1bdf9c42-9947-49b7-9569-8610d835d2bb",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13555782:D3": {
+  "bpm": 138.1,
+  "camelot": "6A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Gm",
+  "key_strength": 0.543326616287,
+  "mbid": "b826b6b6-12ba-4f8b-b30e-774cf7757775",
+  "note": "G",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13555782:D4": {
+  "bpm": 134.6,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.738505125046,
+  "mbid": "67ab9676-86ff-4b48-9e94-d4b93a870851",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
  "13628012:A1": {
   "checked": "2026-10-26T10:02:58.873466+00:00",
   "source": "none"
@@ -4183,6 +9147,204 @@
  "13628012:D3": {
   "checked": "2026-10-26T10:02:58.873466+00:00",
   "source": "none"
+ },
+ "13663374:A": {
+  "bpm": 126.0,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.54628008604,
+  "mbid": "c1a4c0fe-f958-4f14-98f7-afe60f335d15",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13663374:AA": {
+  "bpm": 126.0,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.487166345119,
+  "mbid": "c9ff18ce-eb6c-4014-8d62-f8ef27ca2fb6",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13667744:A": {
+  "beat_confidence": 3.6,
+  "bpm": 124.9,
+  "camelot": "9B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 1212584562,
+  "key": "G",
+  "key_strength": 0.93,
+  "match": 1.0,
+  "note": "G",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13667744:B": {
+  "bpm": 120.0,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.599062383175,
+  "mbid": "51d96e79-148d-42ba-a35e-0c2dd1870a21",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13700483:A1": {
+  "beat_confidence": 2.53,
+  "bpm": 123.0,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 678190212,
+  "key": "Fm",
+  "key_strength": 0.86,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13700483:A2": {
+  "bpm": 100.0,
+  "camelot": "10B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "D",
+  "key_strength": 0.358108818531,
+  "mbid": "f17e0a62-9dad-44c8-9513-4a3edc4898cc",
+  "note": "D",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13700483:B1": {
+  "beat_confidence": 3.94,
+  "bpm": 105.9,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 678190232,
+  "key": "Em",
+  "key_strength": 0.87,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13700483:B2": {
+  "bpm": 120.0,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Em",
+  "key_strength": 0.626613974571,
+  "mbid": "eb7cb4cc-19e2-4e5c-bc05-c469a9cdf206",
+  "note": "E",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13700483:B3": {
+  "beat_confidence": 3.74,
+  "bpm": 119.9,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 678190252,
+  "key": "Em",
+  "key_strength": 0.95,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13700483:B4": {
+  "beat_confidence": 3.9,
+  "bpm": 120.0,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 678190262,
+  "key": "Em",
+  "key_strength": 0.91,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13700483:C1": {
+  "beat_confidence": 3.19,
+  "bpm": 126.8,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 675082302,
+  "key": "Em",
+  "key_strength": 0.81,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13700483:C2": {
+  "beat_confidence": 2.84,
+  "bpm": 128.2,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 678190282,
+  "key": "Am",
+  "key_strength": 0.9,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13700483:C3": {
+  "beat_confidence": 3.94,
+  "bpm": 106.1,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 678190292,
+  "key": "Cm",
+  "key_strength": 0.78,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13700483:D1": {
+  "beat_confidence": 3.03,
+  "bpm": 123.0,
+  "camelot": "10A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 678190302,
+  "key": "Bm",
+  "key_strength": 0.81,
+  "match": 1.0,
+  "note": "B",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "13700483:D2": {
+  "beat_confidence": 3.54,
+  "bpm": 124.9,
+  "camelot": "3B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 678190312,
+  "key": "Db",
+  "key_strength": 0.83,
+  "match": 1.0,
+  "note": "C#",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13700483:D3": {
+  "beat_confidence": 3.34,
+  "bpm": 119.8,
+  "camelot": "9A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 678190322,
+  "key": "Em",
+  "key_strength": 0.82,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "13758369:A1": {
   "beat_confidence": 1.21,
@@ -4247,6 +9409,65 @@
   "scale": "minor",
   "source": "deezer-preview"
  },
+ "13768683:A1": {
+  "bpm": 140.0,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F#m",
+  "key_strength": 0.584303200245,
+  "mbid": "5e45c2f2-95bd-4348-a9ef-b30d7cf5904f",
+  "note": "F#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13768683:B1": {
+  "bpm": 142.0,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.562160730362,
+  "mbid": "8b891966-4300-4e6d-a252-7ffbfe874067",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13768683:B2": {
+  "bpm": 138.0,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.702323913574,
+  "mbid": "9a454f5c-4912-49ba-b28c-0c1dce23e110",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13792951:A": {
+  "beat_confidence": 3.82,
+  "bpm": 133.0,
+  "camelot": "9B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2204981637,
+  "key": "G",
+  "key_strength": 0.49,
+  "match": 1.0,
+  "note": "G",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "13792951:B": {
+  "beat_confidence": 1.07,
+  "bpm": 65.0,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2204981647,
+  "key": "Fm",
+  "key_strength": 0.49,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
  "13798110:A": {
   "bpm": 128.4,
   "camelot": "3A",
@@ -4266,6 +9487,50 @@
   "key_strength": 0.615450143814,
   "mbid": "1a3b4cef-eb46-4d77-a4b2-ac0fef345bb9",
   "note": "A",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13798584:A1": {
+  "bpm": 132.0,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.693425774574,
+  "mbid": "9cb66d6d-be6e-453a-ad96-aa573d698eee",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13798584:A2": {
+  "bpm": 128.0,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.760889053345,
+  "mbid": "2b5240eb-7808-4bf5-8b98-3e4ca8800a4f",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13798584:B1": {
+  "bpm": 130.7,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.554942250252,
+  "mbid": "b7ddcf0f-3b23-4851-87c4-14ba085e12cc",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13798584:B2": {
+  "bpm": 130.7,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.506101369858,
+  "mbid": "29b720c7-872f-41f8-a80a-9a19332163db",
+  "note": "F",
   "scale": "major",
   "source": "acousticbrainz"
  },
@@ -4331,6 +9596,138 @@
   "note": "E",
   "scale": "minor",
   "source": "deezer-preview"
+ },
+ "13835058:A1": {
+  "bpm": 111.5,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.607664585114,
+  "mbid": "f4dc4c76-79c1-4a72-90c8-1954a4d5592c",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13835058:A2": {
+  "bpm": 90.2,
+  "camelot": "10B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "D",
+  "key_strength": 0.859616816044,
+  "mbid": "abcf9f3d-a72b-401c-a416-5442a4acf232",
+  "note": "D",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13835058:B": {
+  "bpm": 117.4,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.667192816734,
+  "mbid": "fc3132d3-0cbc-48ef-9cda-089e62ee2674",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13868503:A": {
+  "bpm": 126.0,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.5250248909,
+  "mbid": "5ad608ec-d65d-41a6-aa6a-1223efaf06e4",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13868503:B1": {
+  "bpm": 126.0,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.505630075932,
+  "mbid": "dbff359e-18f9-4826-b7e2-86f724f96576",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13868503:B2": {
+  "bpm": 126.0,
+  "camelot": "9B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "G",
+  "key_strength": 0.611435472965,
+  "mbid": "48f56282-9245-4083-9580-d4d613b3425d",
+  "note": "G",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13895683:A1": {
+  "bpm": 123.9,
+  "camelot": "8B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "C",
+  "key_strength": 0.510160446167,
+  "mbid": "4b0a0eeb-3b93-458b-8e02-7671952fe17b",
+  "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13895683:A2": {
+  "bpm": 129.0,
+  "camelot": "4B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ab",
+  "key_strength": 0.416433095932,
+  "mbid": "8285cba6-6992-4f9b-869b-5745819ca336",
+  "note": "G#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13895683:A3": {
+  "bpm": 120.0,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.647065460682,
+  "mbid": "4346c96c-f202-4e42-879b-7433d78d8a18",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13895683:B1": {
+  "bpm": 124.0,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.577930927277,
+  "mbid": "dc4f8494-5d14-4938-a058-c72db85e9a3f",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "13895683:B2": {
+  "bpm": 125.0,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.78672093153,
+  "mbid": "94eea11d-10ed-4392-9582-0c6008b88862",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "13895683:B3": {
+  "bpm": 123.9,
+  "camelot": "11B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "A",
+  "key_strength": 0.712941646576,
+  "mbid": "3bdef141-9d50-44da-96e0-b83c7628f0b7",
+  "note": "A",
+  "scale": "major",
+  "source": "acousticbrainz"
  },
  "13926639:A1": {
   "beat_confidence": 2.04,
@@ -4423,6 +9820,139 @@
  "13926639:B5": {
   "checked": "2026-10-26T10:02:58.873466+00:00",
   "source": "none"
+ },
+ "13944132:A1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13944132:A2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13944132:A3": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13944132:A4": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13944132:B1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13944132:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13944132:B3": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:A1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:A2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:A3": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:A4": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:A5": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:A6": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:A7": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:A8": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:B1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:B10": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:B3": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:B4": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:B5": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:B6": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:B7": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:B8": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "13967403:B9": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "14022881:a1": {
+  "bpm": 128.9,
+  "camelot": "10B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "D",
+  "key_strength": 0.714910566807,
+  "mbid": "5eb4efc7-9f22-4219-a6db-d640237a0189",
+  "note": "D",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "14022881:b1": {
+  "bpm": 133.0,
+  "camelot": "12B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "E",
+  "key_strength": 0.309560745955,
+  "mbid": "c6c25c0d-a2c7-4e95-8278-f9219037617d",
+  "note": "E",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "14022881:b2": {
+  "bpm": 84.9,
+  "camelot": "2B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F#",
+  "key_strength": 0.808706879616,
+  "mbid": "ea03ec56-a145-45b4-ba9f-bd8e54360749",
+  "note": "F#",
+  "scale": "major",
+  "source": "acousticbrainz"
  },
  "14027946:A": {
   "checked": "2026-10-26T10:02:58.873466+00:00",
@@ -7106,6 +12636,34 @@
   "checked": "2026-10-26T10:02:58.873466+00:00",
   "source": "none"
  },
+ "156530:A1": {
+  "beat_confidence": 3.42,
+  "bpm": 98.3,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 89825261,
+  "key": "Cm",
+  "key_strength": 0.49,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "156530:B1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "156530:B2": {
+  "bpm": 99.6,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F",
+  "key_strength": 0.685028910637,
+  "mbid": "2893af9f-6362-4131-8b94-5efdbc93e304",
+  "note": "F",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
  "15693796:A": {
   "bpm": 128.0,
   "camelot": "12A",
@@ -9667,6 +15225,21 @@
   "scale": "minor",
   "source": "acousticbrainz"
  },
+ "2325882:A": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "2325882:B": {
+  "bpm": 128.9,
+  "camelot": "10A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bm",
+  "key_strength": 0.457201361656,
+  "mbid": "052066af-9502-4f81-9946-73771b5beb98",
+  "note": "B",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
  "23375357:A1": {
   "bpm": 93.9,
   "camelot": "3A",
@@ -9822,6 +15395,131 @@
   "key_strength": 0.480380654335,
   "mbid": "ae687a54-7929-430a-bcf2-8476ad979f2b",
   "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "2357477:A1": {
+  "bpm": 89.6,
+  "camelot": "3B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Db",
+  "key_strength": 0.575217247009,
+  "mbid": "e83c9409-8317-43eb-956d-a76db7136cdb",
+  "note": "C#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "2357477:A2": {
+  "bpm": 86.9,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.699228525162,
+  "mbid": "763a559f-e2ce-40e2-98ac-3b883bb6e15f",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "2357477:A3": {
+  "bpm": 100.2,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.727523207664,
+  "mbid": "e49e8587-89c9-4634-a82a-259b6d433b7d",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "2357477:B1": {
+  "bpm": 96.0,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.222893044353,
+  "mbid": "ded95a11-b694-4afa-b226-9033ca41cfd0",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "2357477:B2": {
+  "bpm": 88.0,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.430289357901,
+  "mbid": "7d0ddf93-4057-4efd-a720-45731abcd559",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "2357477:B3": {
+  "bpm": 86.0,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.396011471748,
+  "mbid": "2982c34f-389f-4080-a845-5998ef2cb90a",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "2357477:C1": {
+  "bpm": 86.9,
+  "camelot": "1A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "G#m",
+  "key_strength": 0.656962633133,
+  "mbid": "843f2638-e504-45ed-8448-61e64150ccd8",
+  "note": "G#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "2357477:C2": {
+  "bpm": 92.9,
+  "camelot": "10A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bm",
+  "key_strength": 0.438213020563,
+  "mbid": "a4bfe083-6aab-4749-b845-ee7ece710f07",
+  "note": "B",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "2357477:C3": {
+  "bpm": 85.1,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.621571004391,
+  "mbid": "2cf31187-9758-48ef-a4da-2e39b91fcf52",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "2357477:D1": {
+  "bpm": 94.0,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.494848966599,
+  "mbid": "aac456ea-c747-4e49-ab33-0ab6a874b2bc",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "2357477:D2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "2357477:D3": {
+  "bpm": 91.0,
+  "camelot": "6A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Gm",
+  "key_strength": 0.686462163925,
+  "mbid": "ee907c20-1da7-416a-89d3-dba3902d8be0",
+  "note": "G",
   "scale": "minor",
   "source": "acousticbrainz"
  },
@@ -14797,6 +20495,28 @@
   "scale": "major",
   "source": "deezer-preview"
  },
+ "3127881:A": {
+  "bpm": 128.0,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.556020081043,
+  "mbid": "86647c18-d09f-49ff-ba35-cb2996bf7de1",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "3127881:B": {
+  "bpm": 124.0,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.421980023384,
+  "mbid": "76c8a95b-c9f6-4501-9f08-e288559e2c24",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
  "31430825:A1": {
   "bpm": 95.7,
   "camelot": "2A",
@@ -18751,6 +24471,37 @@
   "scale": "major",
   "source": "acousticbrainz"
  },
+ "5743691:A1": {
+  "bpm": 144.0,
+  "camelot": "2A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Ebm",
+  "key_strength": 0.804131865501,
+  "mbid": "147b028b-95c5-43b8-9783-27319fb2cb29",
+  "note": "D#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "5743691:A2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "5743691:A3": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "5743691:B1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "5743691:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "5743691:B3": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
  "5845633:A1": {
   "beat_confidence": 3.01,
   "bpm": 155.2,
@@ -18865,6 +24616,139 @@
   "key_strength": 0.537746608257,
   "mbid": "533fd1ac-4a9c-4383-a0a3-f22d6b600a74",
   "note": "C",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "6293924:A2": {
+  "bpm": 166.2,
+  "camelot": "10A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bm",
+  "key_strength": 0.679370462894,
+  "mbid": "5a409250-9671-4667-8abf-edd56248fe43",
+  "note": "B",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "6293924:A3": {
+  "bpm": 98.1,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.398347914219,
+  "mbid": "36209df7-74d0-43c6-91bb-91af1bd1f3df",
+  "note": "F",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "6293924:A4": {
+  "beat_confidence": 2.07,
+  "bpm": 113.0,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 423535322,
+  "key": "Cm",
+  "key_strength": 0.87,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "6293924:B1": {
+  "beat_confidence": 2.19,
+  "bpm": 93.9,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 423535332,
+  "key": "Cm",
+  "key_strength": 0.93,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "6293924:B2": {
+  "bpm": 90.0,
+  "camelot": "1A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "G#m",
+  "key_strength": 0.707281291485,
+  "mbid": "302e927f-37a4-49b0-9be9-c31822270cc4",
+  "note": "G#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "6293924:B3": {
+  "bpm": 178.2,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.725661158562,
+  "mbid": "4d6e2420-adc8-464e-8156-4be405e3ec2f",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "6293924:C1": {
+  "beat_confidence": 3.05,
+  "bpm": 116.1,
+  "camelot": "2A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 423535362,
+  "key": "Ebm",
+  "key_strength": 0.78,
+  "match": 1.0,
+  "note": "Eb",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "6293924:C2": {
+  "bpm": 114.9,
+  "camelot": "11B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "A",
+  "key_strength": 0.726127028465,
+  "mbid": "bacc3dfc-87ea-4330-aeca-b0098d3a0727",
+  "note": "A",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "6293924:C3": {
+  "beat_confidence": 2.07,
+  "bpm": 106.6,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 423535382,
+  "key": "Fm",
+  "key_strength": 0.98,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "6293924:D1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "6293924:D2": {
+  "bpm": 97.9,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.799671947956,
+  "mbid": "d786bb12-058f-4a66-bb15-fbaa3755921d",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "6293924:D3": {
+  "bpm": 90.0,
+  "camelot": "11B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "A",
+  "key_strength": 0.758123338223,
+  "mbid": "227c2b28-51f0-47a6-b870-7b6b15cf7efc",
+  "note": "A",
   "scale": "major",
   "source": "acousticbrainz"
  },
@@ -19279,6 +25163,27 @@
   "scale": "minor",
   "source": "deezer-preview"
  },
+ "7801083:A": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "7801083:B1": {
+  "beat_confidence": 3.76,
+  "bpm": 123.9,
+  "camelot": "7B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 3042177531,
+  "key": "F",
+  "key_strength": 0.76,
+  "match": 0.86,
+  "note": "F",
+  "scale": "major",
+  "source": "deezer-preview"
+ },
+ "7801083:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
  "7833081:A1": {
   "checked": "2026-10-26T10:02:58.873466+00:00",
   "source": "none"
@@ -19491,6 +25396,22 @@
   "scale": "minor",
   "source": "deezer-preview"
  },
+ "8192702:A1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "8192702:A2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "8192702:B1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "8192702:B2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
  "8313301:A1": {
   "bpm": 120.0,
   "camelot": "4A",
@@ -19621,6 +25542,74 @@
   "mbid": "b7e01fdf-a6f2-442c-a6ff-e8598ae449ae",
   "note": "A",
   "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "8593295:A": {
+  "bpm": 125.0,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.64482909441,
+  "mbid": "94ca6949-a4e7-4e01-9942-6e20a9d6a819",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "8593295:B": {
+  "beat_confidence": 3.69,
+  "bpm": 127.9,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "deezer_id": 2547881922,
+  "key": "Fm",
+  "key_strength": 0.91,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
+ },
+ "8628680:A1": {
+  "bpm": 106.5,
+  "camelot": "3A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bbm",
+  "key_strength": 0.642947554588,
+  "mbid": "f54e89fa-7aed-4e26-bc4e-bf434b338887",
+  "note": "A#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "8628680:A2": {
+  "bpm": 116.4,
+  "camelot": "3B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Db",
+  "key_strength": 0.753324151039,
+  "mbid": "4b3d0ad1-396d-4a29-953f-db8e5c118e98",
+  "note": "C#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "8628680:B1": {
+  "bpm": 120.0,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.473797053099,
+  "mbid": "2187ece7-e8f4-45ff-b406-cd7d17297e27",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "8628680:B2": {
+  "bpm": 122.0,
+  "camelot": "9B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "G",
+  "key_strength": 0.616096496582,
+  "mbid": "90ee5bf5-3ed1-40c5-8757-58e54d79cc01",
+  "note": "G",
+  "scale": "major",
   "source": "acousticbrainz"
  },
  "8763564:A": {
@@ -19969,6 +25958,43 @@
   "scale": "minor",
   "source": "acousticbrainz"
  },
+ "973588:A1": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "973588:A2": {
+  "bpm": 128.7,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F#m",
+  "key_strength": 0.678437411785,
+  "mbid": "e2c1c626-70e7-4dce-a32d-eddbbaef1a4a",
+  "note": "F#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "973588:B1": {
+  "bpm": 125.0,
+  "camelot": "7A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Dm",
+  "key_strength": 0.699823856354,
+  "mbid": "31981088-4d9e-4369-8564-66639e10cb8b",
+  "note": "D",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "973588:B2": {
+  "bpm": 133.0,
+  "camelot": "11A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "F#m",
+  "key_strength": 0.64093375206,
+  "mbid": "9c715907-6739-43d2-8aeb-35fb38efd92f",
+  "note": "F#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
  "9763329:A1": {
   "bpm": 90.5,
   "camelot": "8B",
@@ -20208,6 +26234,120 @@
   "mbid": "ff393676-7b62-4598-980d-459d0ad0d551",
   "note": "A",
   "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "9950029:A1": {
+  "bpm": 93.3,
+  "camelot": "1A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "G#m",
+  "key_strength": 0.760411679745,
+  "mbid": "09c72b89-3a5a-4d0d-aead-db959ea9e195",
+  "note": "G#",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "9950029:A2": {
+  "bpm": 89.7,
+  "camelot": "10B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "D",
+  "key_strength": 0.628577113152,
+  "mbid": "43004b7f-0fcd-427e-8f8c-5a9629d21fe6",
+  "note": "D",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "9950029:A3": {
+  "bpm": 98.4,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.725702345371,
+  "mbid": "61647b81-17f4-4692-9c19-7c956951bc00",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "9950029:A4": {
+  "bpm": 99.5,
+  "camelot": "11B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "A",
+  "key_strength": 0.896097719669,
+  "mbid": "bc225c74-ef46-413d-a2dc-75d88c4a00c8",
+  "note": "A",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "9950029:B1": {
+  "bpm": 109.8,
+  "camelot": "5A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Cm",
+  "key_strength": 0.736695230007,
+  "mbid": "f4005dda-84ed-48d8-9870-cd4f697f2b5f",
+  "note": "C",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "9950029:B2": {
+  "bpm": 114.1,
+  "camelot": "9B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "G",
+  "key_strength": 0.85252904892,
+  "mbid": "5dc360e3-b39a-4279-beca-cf0a30f1870a",
+  "note": "G",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "9950029:B3": {
+  "bpm": 125.4,
+  "camelot": "6B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Bb",
+  "key_strength": 0.74862498045,
+  "mbid": "8f6c4330-53c7-4e61-b94f-9a2f506e7684",
+  "note": "A#",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "9950029:B4": {
+  "bpm": 121.0,
+  "camelot": "8A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Am",
+  "key_strength": 0.54692274332,
+  "mbid": "43cc82e9-24dd-49af-a543-5e0245f10f98",
+  "note": "A",
+  "scale": "minor",
+  "source": "acousticbrainz"
+ },
+ "9950029:C1": {
+  "bpm": 140.0,
+  "camelot": "11B",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "A",
+  "key_strength": 0.793599784374,
+  "mbid": "2197cfe0-f03f-4188-ac97-b33de0dcf657",
+  "note": "A",
+  "scale": "major",
+  "source": "acousticbrainz"
+ },
+ "9950029:C2": {
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "source": "none"
+ },
+ "9950029:C3": {
+  "bpm": 115.7,
+  "camelot": "4A",
+  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "key": "Fm",
+  "key_strength": 0.742730915546,
+  "mbid": "8e722f3f-468c-4278-9c90-c3e8a7b8c445",
+  "note": "F",
+  "scale": "minor",
   "source": "acousticbrainz"
  }
 }
