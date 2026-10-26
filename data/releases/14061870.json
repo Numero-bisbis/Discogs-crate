@@ -657,5 +657,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14061870-Manu-Chao-Clandestino-Esperando-La-Ultima-Ola-Bloody-Border",
+ "videos": [
+  {
+   "duration": 0,
+   "title": "Manu Chao - Clandestino (Full Album)",
+   "uri": "https://www.youtube.com/watch?v=DOs5lmxDo74"
+  },
+  {
+   "duration": 230,
+   "title": "Manu Chao – Desaparecido (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=HQaPT58mh8k"
+  },
+  {
+   "duration": 242,
+   "title": "Manu Chao – Mentira (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=VOiKe_ArXA8"
+  },
+  {
+   "duration": 253,
+   "title": "Manu Chao – Bongo Bong (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=cfLIlP-GAmg"
+  },
+  {
+   "duration": 149,
+   "title": "Manu Chao – Clandestino (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=7AzimrAgWbA"
+  },
+  {
+   "duration": 156,
+   "title": "Manu Chao – Mama Call (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=5lhU2YmVN1Q"
+  },
+  {
+   "duration": 123,
+   "title": "Manu Chao - Je ne t'aime plus (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=Qn6IBCYVQAY"
+  },
+  {
+   "duration": 142,
+   "title": "Manu Chao - Minha galera (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=Xfc7sBSn2Z0"
+  }
+ ],
  "year": 2019
 }

@@ -103,5 +103,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13181220-Kapote-Brasiliko",
+ "videos": [
+  {
+   "duration": 348,
+   "title": "Kapote - Brasiliko [Toy Tonics]",
+   "uri": "https://www.youtube.com/watch?v=uVi3_kLFEyQ"
+  },
+  {
+   "duration": 323,
+   "title": "Kapote - Brasiliko (Giovanni Damico Remix)",
+   "uri": "https://www.youtube.com/watch?v=gK7SdhwKuI8"
+  },
+  {
+   "duration": 384,
+   "title": "Kapote - Brasiliko (Byron The Aquarius Remix)",
+   "uri": "https://www.youtube.com/watch?v=E1gdNc5qnqM"
+  },
+  {
+   "duration": 412,
+   "title": "Kapote - Salva Tion",
+   "uri": "https://www.youtube.com/watch?v=ltXJVnalhrg"
+  }
+ ],
  "year": 2019
 }

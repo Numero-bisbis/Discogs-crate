@@ -583,5 +583,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/20593756-Mac-Miller-Faces",
+ "videos": [
+  {
+   "duration": 328,
+   "title": "Mac Miller - New Faces v2 (feat. Earl Sweatshirt and Da$h)",
+   "uri": "https://www.youtube.com/watch?v=Nw5i_AtWERk"
+  },
+  {
+   "duration": 261,
+   "title": "Mac Miller - Colors and Shapes",
+   "uri": "https://www.youtube.com/watch?v=K22_5LBuB9Y"
+  },
+  {
+   "duration": 156,
+   "title": "Mac Miller - Rain (feat. Vince Staples)",
+   "uri": "https://www.youtube.com/watch?v=qywP8zmCoh8"
+  },
+  {
+   "duration": 399,
+   "title": "Mac Miller - Friends (feat. ScHoolboy Q)",
+   "uri": "https://www.youtube.com/watch?v=_CvVJkCWtkA"
+  }
+ ],
  "year": 2021
 }

@@ -124,5 +124,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12923923-Kanye-West-Ye",
+ "videos": [
+  {
+   "duration": 0,
+   "title": "Kanye West - Ye  (Full Album)",
+   "uri": "https://www.youtube.com/watch?v=IRJN6tNoffU"
+  },
+  {
+   "duration": 275,
+   "title": "I Thought About Killing You",
+   "uri": "https://www.youtube.com/watch?v=no1YszVVybo"
+  },
+  {
+   "duration": 189,
+   "title": "Yikes",
+   "uri": "https://www.youtube.com/watch?v=kPPyUO6m3-4"
+  },
+  {
+   "duration": 147,
+   "title": "Kanye West - All Mine (Lyric Video)",
+   "uri": "https://www.youtube.com/watch?v=TrQ7w1bdNvY"
+  },
+  {
+   "duration": 206,
+   "title": "Wouldn't Leave",
+   "uri": "https://www.youtube.com/watch?v=nMkXJohQiuQ"
+  },
+  {
+   "duration": 124,
+   "title": "No Mistakes",
+   "uri": "https://www.youtube.com/watch?v=4I8gDpuvZt4"
+  },
+  {
+   "duration": 272,
+   "title": "Ghost Town",
+   "uri": "https://www.youtube.com/watch?v=qAsHVwl-MU4"
+  },
+  {
+   "duration": 217,
+   "title": "Kanye West - Violent Crimes (Lyric Video)",
+   "uri": "https://www.youtube.com/watch?v=DSY7u8Jg9c0"
+  }
+ ],
  "year": 2018
 }

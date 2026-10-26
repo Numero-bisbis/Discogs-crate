@@ -158,5 +158,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12675255-Harvey-Sutherland-Amethyst",
+ "videos": [
+  {
+   "duration": 448,
+   "title": "RA Live: Harvey Sutherland in Melbourne",
+   "uri": "https://www.youtube.com/watch?v=wCQTazzRj9A"
+  },
+  {
+   "duration": 411,
+   "title": "Harvey Sutherland - I Can See",
+   "uri": "https://www.youtube.com/watch?v=kr3hYhHQX0M"
+  },
+  {
+   "duration": 550,
+   "title": "Harvey Sutherland - I Can See (Rings Around Saturn Remix)",
+   "uri": "https://www.youtube.com/watch?v=_EKb2qtAzm0"
+  },
+  {
+   "duration": 199,
+   "title": "Harvey Sutherland — Amethyst — Official Video",
+   "uri": "https://www.youtube.com/watch?v=43y0KY7HkSA"
+  }
+ ],
  "year": 2018
 }

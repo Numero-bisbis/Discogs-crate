@@ -133,5 +133,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13076114-Various-Top-Tracks-Vol-6",
+ "videos": [
+  {
+   "duration": 409,
+   "title": "Jad & The - Strings That Never Win (TOY TONICS - TOYT088) 2019 GER Issue 12\"",
+   "uri": "https://www.youtube.com/watch?v=FU-Qr5OIml8"
+  },
+  {
+   "duration": 380,
+   "title": "Harry Wolfman - The Accord",
+   "uri": "https://www.youtube.com/watch?v=dblfLzdfoD4"
+  },
+  {
+   "duration": 364,
+   "title": "Black Loops feat Felipe Gordon - Mia Negrita",
+   "uri": "https://www.youtube.com/watch?v=oV3-B7BNHc4"
+  },
+  {
+   "duration": 359,
+   "title": "Demuja - J On G",
+   "uri": "https://www.youtube.com/watch?v=HsHCPsoNHms"
+  }
+ ],
  "year": 2019
 }

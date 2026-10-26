@@ -75,5 +75,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12730421-Obscure-Shape-SHDW-Der-Sturm",
+ "videos": [
+  {
+   "duration": 390,
+   "title": "Obscure Shape & SHDW - Der Sturm",
+   "uri": "https://www.youtube.com/watch?v=BnQgcxgy0go"
+  },
+  {
+   "duration": 370,
+   "title": "SHDW & Obscure Shape - Zeit Des Erwachens",
+   "uri": "https://www.youtube.com/watch?v=Ry5pWZCh8NU"
+  },
+  {
+   "duration": 338,
+   "title": "Obscure Shape & SHDW - Tränen Der Sonne",
+   "uri": "https://www.youtube.com/watch?v=Iw2A0oVJhPE"
+  },
+  {
+   "duration": 390,
+   "title": "Obscure Shape & SHDW - Der Sturm",
+   "uri": "https://www.youtube.com/watch?v=BnQgcxgy0go"
+  },
+  {
+   "duration": 370,
+   "title": "SHDW & Obscure Shape - Zeit Des Erwachens",
+   "uri": "https://www.youtube.com/watch?v=Ry5pWZCh8NU"
+  },
+  {
+   "duration": 338,
+   "title": "Obscure Shape & SHDW - Tränen Der Sonne",
+   "uri": "https://www.youtube.com/watch?v=Iw2A0oVJhPE"
+  }
+ ],
  "year": 2018
 }

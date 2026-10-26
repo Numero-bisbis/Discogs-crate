@@ -162,5 +162,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13895683-Various-Step-Back-Trax-004",
+ "videos": [
+  {
+   "duration": 323,
+   "title": "Júlio Cruz - Thank U (Step Back Trax 004)",
+   "uri": "https://www.youtube.com/watch?v=I3dskO4jDjU"
+  },
+  {
+   "duration": 385,
+   "title": "Dr. Shemp - Luv You Bby [Step Back Trax 004]",
+   "uri": "https://www.youtube.com/watch?v=h3QmBD3qucY"
+  },
+  {
+   "duration": 442,
+   "title": "PREMIERE: S.Kull & Solution 99 - Rainbow Rave",
+   "uri": "https://www.youtube.com/watch?v=KQJxoI-Z68g"
+  },
+  {
+   "duration": 356,
+   "title": "Lucid Beginnings by Milesybwoy [The Lit House EP]",
+   "uri": "https://www.youtube.com/watch?v=Ut_AopV_S6Q"
+  }
+ ],
  "year": 2019
 }

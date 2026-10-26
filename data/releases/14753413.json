@@ -383,5 +383,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14753413-Khruangbin-Leon-Bridges-Texas-Sun",
+ "videos": [
+  {
+   "duration": 253,
+   "title": "Khruangbin & Leon Bridges - Texas Sun (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=zSWNWWREtsI"
+  },
+  {
+   "duration": 315,
+   "title": "Khruangbin & Leon Bridges - Midnight (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=JzXsCxFNOFw"
+  },
+  {
+   "duration": 284,
+   "title": "Khruangbin & Leon Bridges ‘C-Side’ (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=JF2jxqQVloM"
+  },
+  {
+   "duration": 407,
+   "title": "Khruangbin & Leon Bridges - Conversion (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=2YwOT9Mx8Ys"
+  },
+  {
+   "duration": 0,
+   "title": "Khruangbin & Leon Bridges - Texas Sun (Full EP)",
+   "uri": "https://www.youtube.com/watch?v=2fSbveOfYyc"
+  }
+ ],
  "year": 2020
 }

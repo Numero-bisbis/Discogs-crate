@@ -112,5 +112,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12710971-Insólito-UniVerso-La-Candela-Del-Río",
+ "videos": [
+  {
+   "duration": 326,
+   "title": "Yo Soy Mi Río",
+   "uri": "https://www.youtube.com/watch?v=KLgWAmh07j0"
+  },
+  {
+   "duration": 485,
+   "title": "Machurucuto",
+   "uri": "https://www.youtube.com/watch?v=JFhdZ3qCNHY"
+  },
+  {
+   "duration": 462,
+   "title": "Insolito UniVerso - Lloviendo en Guatire",
+   "uri": "https://www.youtube.com/watch?v=_Wsnamegrlc"
+  },
+  {
+   "duration": 232,
+   "title": "Insólito UniVerso - El vuelo del Gabán",
+   "uri": "https://www.youtube.com/watch?v=2GD4U2vs5og"
+  },
+  {
+   "duration": 222,
+   "title": "Insolito UniVerso - Vuelve  (live chez Ben)",
+   "uri": "https://www.youtube.com/watch?v=P44-dkTjacA"
+  }
+ ],
  "year": 2018
 }

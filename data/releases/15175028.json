@@ -81,5 +81,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/15175028-Julian-Muller-2-Prosperity-On-Mars-EP-",
+ "videos": [
+  {
+   "duration": 407,
+   "title": "Julian Muller - Prosperity On Mars [LT067]",
+   "uri": "https://www.youtube.com/watch?v=unrbMwVOKvo"
+  },
+  {
+   "duration": 341,
+   "title": "Julian Muller - Sidonia [LT067]",
+   "uri": "https://www.youtube.com/watch?v=eYSrS8AhTdw"
+  },
+  {
+   "duration": 399,
+   "title": "Julian Muller - Aurora's Night [LT067]",
+   "uri": "https://www.youtube.com/watch?v=vS4PzkGqF28"
+  },
+  {
+   "duration": 437,
+   "title": "Julian Muller - Reality [LT067]",
+   "uri": "https://www.youtube.com/watch?v=Qmxwspi3oxc"
+  }
+ ],
  "year": 2020
 }

@@ -101,5 +101,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13944132-Hugo-Heredia-Mananita-Pampera",
+ "videos": [
+  {
+   "duration": 518,
+   "title": "Hugo Heredia ‎– Tunita",
+   "uri": "https://www.youtube.com/watch?v=TvMTMOPsW50"
+  },
+  {
+   "duration": 540,
+   "title": "Hugo Heredia ‎– Al Bebbe Guia",
+   "uri": "https://www.youtube.com/watch?v=z76V8Fb84P4"
+  },
+  {
+   "duration": 478,
+   "title": "Hugo Heredia - El Beto",
+   "uri": "https://www.youtube.com/watch?v=gWGmijYk6XI"
+  },
+  {
+   "duration": 518,
+   "title": "Hugo Heredia ‎– Tunita",
+   "uri": "https://www.youtube.com/watch?v=TvMTMOPsW50"
+  },
+  {
+   "duration": 540,
+   "title": "Hugo Heredia ‎– Al Bebbe Guia",
+   "uri": "https://www.youtube.com/watch?v=z76V8Fb84P4"
+  }
+ ],
  "year": 2019
 }

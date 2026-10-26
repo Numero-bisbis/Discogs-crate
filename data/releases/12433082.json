@@ -72,5 +72,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12433082-Partner-Music-High-Praise-Edits-Volume-II",
+ "videos": [
+  {
+   "duration": 316,
+   "title": "Partner Music - Patu",
+   "uri": "https://www.youtube.com/watch?v=TNib8T9JYRE"
+  },
+  {
+   "duration": 347,
+   "title": "Partner Music - My People [High Praise]",
+   "uri": "https://www.youtube.com/watch?v=BnH2DQ9syWc"
+  }
+ ],
  "year": 2018
 }

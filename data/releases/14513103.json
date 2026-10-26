@@ -2319,5 +2319,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14513103-Eminem-The-Slim-Shady-LP-Expanded-Edition",
+ "videos": [
+  {
+   "duration": 250,
+   "title": "Eminem - My Name Is (Dirty Version) (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=LDj8kkVwisY"
+  },
+  {
+   "duration": 215,
+   "title": "Eminem - Guilty Conscience (Director's Cut) ft. Dr. Dre",
+   "uri": "https://www.youtube.com/watch?v=Xbw_BxDwdjk"
+  },
+  {
+   "duration": 239,
+   "title": "Eminem - Role Model",
+   "uri": "https://www.youtube.com/watch?v=ubEublECnMU"
+  },
+  {
+   "duration": 229,
+   "title": "Eminem - Just Don't Give A F***",
+   "uri": "https://www.youtube.com/watch?v=wIQWRHJq_kE"
+  }
+ ],
  "year": 2019
 }

@@ -160,5 +160,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12520140-Various-Step-Back-Trax-003",
+ "videos": [
+  {
+   "duration": 299,
+   "title": "Subjoi - Treat You Right",
+   "uri": "https://www.youtube.com/watch?v=Dy28r7c9ST0"
+  },
+  {
+   "duration": 333,
+   "title": "Interplanetary Criminal - What Would I Do Without Your Love",
+   "uri": "https://www.youtube.com/watch?v=N9OSX7MTUDY"
+  },
+  {
+   "duration": 380,
+   "title": "SLIM HUSTLA - Remain unseen",
+   "uri": "https://www.youtube.com/watch?v=Whxxa1cTLZY"
+  },
+  {
+   "duration": 306,
+   "title": "Etur Usheo - Dreamin For You",
+   "uri": "https://www.youtube.com/watch?v=croNBZH9VqI"
+  },
+  {
+   "duration": 387,
+   "title": "Slamb - SOS",
+   "uri": "https://www.youtube.com/watch?v=C7PrIRTawg8"
+  },
+  {
+   "duration": 370,
+   "title": "Paperkraft - Please Step Back [Step Back Trax 003]",
+   "uri": "https://www.youtube.com/watch?v=ojLLa89HcCI"
+  }
+ ],
  "year": 2018
 }

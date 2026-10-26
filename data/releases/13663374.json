@@ -69,5 +69,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13663374-Floorplan-So-Glad-I-Feel-Him-Moving",
+ "videos": [
+  {
+   "duration": 433,
+   "title": "So Glad",
+   "uri": "https://www.youtube.com/watch?v=cngy4Fbth2c"
+  },
+  {
+   "duration": 371,
+   "title": "I Feel Him Moving",
+   "uri": "https://www.youtube.com/watch?v=qdmBjA3QuN4"
+  },
+  {
+   "duration": 433,
+   "title": "So Glad",
+   "uri": "https://www.youtube.com/watch?v=cngy4Fbth2c"
+  },
+  {
+   "duration": 371,
+   "title": "I Feel Him Moving",
+   "uri": "https://www.youtube.com/watch?v=qdmBjA3QuN4"
+  }
+ ],
  "year": 2019
 }

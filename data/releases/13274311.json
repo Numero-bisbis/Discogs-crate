@@ -102,5 +102,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13274311-Mr-Oizo-Rythme-Plat",
+ "videos": [
+  {
+   "duration": 163,
+   "title": "Rythme Plat",
+   "uri": "https://www.youtube.com/watch?v=OXoJo1saxdU"
+  },
+  {
+   "duration": 146,
+   "title": "Viandes Légumes Véhicules",
+   "uri": "https://www.youtube.com/watch?v=jLyaBIwhisk"
+  },
+  {
+   "duration": 181,
+   "title": "Dolce Vita",
+   "uri": "https://www.youtube.com/watch?v=Sq1dwQYGYxc"
+  },
+  {
+   "duration": 156,
+   "title": "Nuque",
+   "uri": "https://www.youtube.com/watch?v=19AIYrgrzrc"
+  }
+ ],
  "year": 2019
 }

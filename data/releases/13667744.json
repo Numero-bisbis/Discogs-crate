@@ -69,5 +69,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13667744-Sworn-Virgins-Lazer-Beam",
+ "videos": [
+  {
+   "duration": 252,
+   "title": "Sworn Virgins - Lazer Beam - Video",
+   "uri": "https://www.youtube.com/watch?v=gILIx2mq9Mk"
+  },
+  {
+   "duration": 417,
+   "title": "Sworn Virgins - Take Your Lady (MIDH Premiere)",
+   "uri": "https://www.youtube.com/watch?v=T40xIpn834U"
+  },
+  {
+   "duration": 402,
+   "title": "Lazer Beam",
+   "uri": "https://www.youtube.com/watch?v=eX-k-F5PUaE"
+  },
+  {
+   "duration": 417,
+   "title": "Take Your Lady",
+   "uri": "https://www.youtube.com/watch?v=lcxidNzv8pE"
+  }
+ ],
  "year": 2019
 }

@@ -1423,5 +1423,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/24076022-Dr-Dre-2001",
+ "videos": [
+  {
+   "duration": 291,
+   "title": "Dr. Dre - Still D.R.E. ft. Snoop Dogg",
+   "uri": "https://www.youtube.com/watch?v=_CL6n0FJZpk"
+  },
+  {
+   "duration": 198,
+   "title": "Dr. Dre - The Next Episode (Official Music Video) ft. Snoop Dogg, Kurupt, Nate Dogg",
+   "uri": "https://www.youtube.com/watch?v=QZXc39hT8t4"
+  }
+ ],
  "year": 2022
 }

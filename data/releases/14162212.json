@@ -92,5 +92,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14162212-Vance-And-Suzzanne-I-Cant-Get-Along-Without-You",
+ "videos": [
+  {
+   "duration": 401,
+   "title": "Vance And Suzzanne - I Can't Get Along Without You",
+   "uri": "https://www.youtube.com/watch?v=BpYWboeV8hU"
+  },
+  {
+   "duration": 401,
+   "title": "Vance and Suzzanne -  I Can't Get Along Without You (Official)",
+   "uri": "https://www.youtube.com/watch?v=5eERRvr3WmE"
+  },
+  {
+   "duration": 400,
+   "title": "Vance and Suzzanne -  I Can't Get Along Without You (Instrumental) (Official)",
+   "uri": "https://www.youtube.com/watch?v=NI8OXNKv7-A"
+  },
+  {
+   "duration": 381,
+   "title": "Vance And Suzzanne - I Can't Get Along Without You (12\" Disco-Boogie 1980)",
+   "uri": "https://www.youtube.com/watch?v=ryIlNm4gSHg"
+  }
+ ],
  "year": 2019
 }

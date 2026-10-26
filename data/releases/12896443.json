@@ -83,5 +83,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12896443-Madcat-4-The-Doors-Of-Perception",
+ "videos": [
+  {
+   "duration": 312,
+   "title": "HOUSE: Madcat - Le Jeu du Roi d'Ur [Pont Neuf]",
+   "uri": "https://www.youtube.com/watch?v=WDCDY__EQuA"
+  },
+  {
+   "duration": 371,
+   "title": "Madcat - Pardès",
+   "uri": "https://www.youtube.com/watch?v=Zzxvk7lX-90"
+  },
+  {
+   "duration": 328,
+   "title": "Madcat - Call Me Ishmael",
+   "uri": "https://www.youtube.com/watch?v=vE95VNiq6zQ"
+  },
+  {
+   "duration": 390,
+   "title": "Madcat - In-Yo",
+   "uri": "https://www.youtube.com/watch?v=4BJWFwc_Ejc"
+  }
+ ],
  "year": 2018
 }

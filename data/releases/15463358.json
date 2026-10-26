@@ -68,5 +68,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/15463358-Karenn-Music-Sounds-Better-With-Shoe",
+ "videos": [
+  {
+   "duration": 424,
+   "title": "Karenn - On Request",
+   "uri": "https://www.youtube.com/watch?v=SSbmvzWRjoY"
+  },
+  {
+   "duration": 389,
+   "title": "Karenn - Shoes Off",
+   "uri": "https://www.youtube.com/watch?v=suVvlts_0mY"
+  },
+  {
+   "duration": 424,
+   "title": "Karenn - On Request",
+   "uri": "https://www.youtube.com/watch?v=SSbmvzWRjoY"
+  },
+  {
+   "duration": 389,
+   "title": "Karenn - Shoes Off",
+   "uri": "https://www.youtube.com/watch?v=suVvlts_0mY"
+  }
+ ],
  "year": 2020
 }

@@ -69,5 +69,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12979988-Bugs-Bunny-7-001",
+ "videos": [
+  {
+   "duration": 549,
+   "title": "BUGS BUNNY - Track 1 -  [ TOONEYLUNES 001 ]",
+   "uri": "https://www.youtube.com/watch?v=5WdlAtbwbdI"
+  },
+  {
+   "duration": 611,
+   "title": "BUGS BUNNY - Track 2  - [ TOONEYLUNES 001 ]",
+   "uri": "https://www.youtube.com/watch?v=5iucK3v0wGY"
+  }
+ ],
  "year": 2018
 }

@@ -126,5 +126,42 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14950541-Koichi-Sakai-Afla-Sackey-Wono",
+ "videos": [
+  {
+   "duration": 317,
+   "title": "Atenteben Blues",
+   "uri": "https://www.youtube.com/watch?v=-Eonz4cLoag"
+  },
+  {
+   "duration": 274,
+   "title": "Wono",
+   "uri": "https://www.youtube.com/watch?v=JRIj5u-wt9o"
+  },
+  {
+   "duration": 277,
+   "title": "Yamb (feat. Kadialy Kouyate)",
+   "uri": "https://www.youtube.com/watch?v=EeGT6q67ztk"
+  },
+  {
+   "duration": 124,
+   "title": "Rebirth",
+   "uri": "https://www.youtube.com/watch?v=FsgF8Nz_k-8"
+  },
+  {
+   "duration": 344,
+   "title": "Niege",
+   "uri": "https://www.youtube.com/watch?v=8cRkBJAKWo8"
+  },
+  {
+   "duration": 278,
+   "title": "Jingo",
+   "uri": "https://www.youtube.com/watch?v=dnlm39G1moo"
+  },
+  {
+   "duration": 285,
+   "title": "Suolo",
+   "uri": "https://www.youtube.com/watch?v=0_hTDiVg4FI"
+  }
+ ],
  "year": 2020
 }

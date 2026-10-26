@@ -75,5 +75,22 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13107097-Dirty-Channels-Take-It-Easy-001",
+ "videos": [
+  {
+   "duration": 462,
+   "title": "Born In Douala (Original Mix)",
+   "uri": "https://www.youtube.com/watch?v=bONSrVYQ_dA"
+  },
+  {
+   "duration": 405,
+   "title": "DIRTY CHANNELS - THOSE DAYS (TAKE IT EASY 001)",
+   "uri": "https://www.youtube.com/watch?v=B8ovuh0vbOc"
+  },
+  {
+   "duration": 412,
+   "title": "The Lord (Original Mix)",
+   "uri": "https://www.youtube.com/watch?v=5vLHndMH0hU"
+  }
+ ],
  "year": 2019
 }

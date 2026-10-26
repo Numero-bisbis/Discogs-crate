@@ -442,5 +442,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13479343-Breakbot-Another-You",
+ "videos": [
+  {
+   "duration": 284,
+   "title": "Breakbot - Devotion (feat. Irfane)",
+   "uri": "https://www.youtube.com/watch?v=v0iIeww60uc"
+  },
+  {
+   "duration": 164,
+   "title": "Breakbot - Another You (Feat. Ruckazoid) (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=dybNNo8y48k"
+  },
+  {
+   "duration": 321,
+   "title": "Breakbot - Don't Stop the Dance (feat. Delafleur)",
+   "uri": "https://www.youtube.com/watch?v=QbGW9NvTqJM"
+  },
+  {
+   "duration": 287,
+   "title": "Breakbot (feat. Irfane) - Devotion (Yuksek Remix)",
+   "uri": "https://www.youtube.com/watch?v=0nslZfGp6PU"
+  },
+  {
+   "duration": 284,
+   "title": "Breakbot - Devotion (feat. Irfane)",
+   "uri": "https://www.youtube.com/watch?v=v0iIeww60uc"
+  }
+ ],
  "year": 2019
 }

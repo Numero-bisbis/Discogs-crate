@@ -80,5 +80,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14840189-DJ-Gigola-Kev-Koko-Sueño",
+ "videos": [
+  {
+   "duration": 262,
+   "title": "DJ Gigola & Kev Koko – Sueño (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=1Tc378JmWTg"
+  },
+  {
+   "duration": 325,
+   "title": "DJ Gigola & Kev Koko – Blow [LFEK006]",
+   "uri": "https://www.youtube.com/watch?v=d-QyakDGYHo"
+  }
+ ],
  "year": 2020
 }

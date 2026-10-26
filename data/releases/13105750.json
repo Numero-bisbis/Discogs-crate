@@ -83,5 +83,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13105750-Krystal-Klear-The-Division",
+ "videos": [
+  {
+   "duration": 397,
+   "title": "Krystal Klear - Neutron Dance",
+   "uri": "https://www.youtube.com/watch?v=oRVeF5KPngE"
+  },
+  {
+   "duration": 263,
+   "title": "Krystal Klear Division Ave",
+   "uri": "https://www.youtube.com/watch?v=n5S8NBG4tOY"
+  },
+  {
+   "duration": 545,
+   "title": "Krystal Klear -  Shockzoid",
+   "uri": "https://www.youtube.com/watch?v=TIzlppfwBYQ"
+  },
+  {
+   "duration": 361,
+   "title": "Krystal Klear   Moonshake Miner",
+   "uri": "https://www.youtube.com/watch?v=RQu5XfNXkdc"
+  },
+  {
+   "duration": 317,
+   "title": "Gerd Janson dropping Krystal Klear's \"Neutron Dance\" at Sugar Mountain",
+   "uri": "https://www.youtube.com/watch?v=oTj1XZVQXaA"
+  }
+ ],
  "year": 2019
 }

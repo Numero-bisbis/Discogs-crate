@@ -188,5 +188,87 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13453290-Chicha-Libre-Sonido-Amazonico",
+ "videos": [
+  {
+   "duration": 321,
+   "title": "Chicha Libre Popcorn Andino",
+   "uri": "https://www.youtube.com/watch?v=JqcaqOnrems"
+  },
+  {
+   "duration": 258,
+   "title": "Sonido Amazonico",
+   "uri": "https://www.youtube.com/watch?v=V9sIVi_zg5E"
+  },
+  {
+   "duration": 243,
+   "title": "Primavera en la Selva",
+   "uri": "https://www.youtube.com/watch?v=PH7Fz26Bwr8"
+  },
+  {
+   "duration": 295,
+   "title": "El Borrachito",
+   "uri": "https://www.youtube.com/watch?v=75-dg9GWce8"
+  },
+  {
+   "duration": 320,
+   "title": "Popcorn Andino",
+   "uri": "https://www.youtube.com/watch?v=mzsyCovCz0A"
+  },
+  {
+   "duration": 299,
+   "title": "Indian Summer",
+   "uri": "https://www.youtube.com/watch?v=NDGYCc58kXc"
+  },
+  {
+   "duration": 274,
+   "title": "Gnosienne No.1",
+   "uri": "https://www.youtube.com/watch?v=oymgy5bke-I"
+  },
+  {
+   "duration": 245,
+   "title": "Tres Pasajeros",
+   "uri": "https://www.youtube.com/watch?v=0YR4NDI6CiE"
+  },
+  {
+   "duration": 258,
+   "title": "Sonido Amazonico",
+   "uri": "https://www.youtube.com/watch?v=V9sIVi_zg5E"
+  },
+  {
+   "duration": 295,
+   "title": "El Borrachito",
+   "uri": "https://www.youtube.com/watch?v=75-dg9GWce8"
+  },
+  {
+   "duration": 243,
+   "title": "Primavera en la Selva",
+   "uri": "https://www.youtube.com/watch?v=PH7Fz26Bwr8"
+  },
+  {
+   "duration": 299,
+   "title": "Indian Summer",
+   "uri": "https://www.youtube.com/watch?v=NDGYCc58kXc"
+  },
+  {
+   "duration": 320,
+   "title": "Popcorn Andino",
+   "uri": "https://www.youtube.com/watch?v=mzsyCovCz0A"
+  },
+  {
+   "duration": 245,
+   "title": "Tres Pasajeros",
+   "uri": "https://www.youtube.com/watch?v=0YR4NDI6CiE"
+  },
+  {
+   "duration": 274,
+   "title": "Gnosienne No.1",
+   "uri": "https://www.youtube.com/watch?v=oymgy5bke-I"
+  },
+  {
+   "duration": 247,
+   "title": "The Hungry song",
+   "uri": "https://www.youtube.com/watch?v=ImhyrUIfLE8"
+  }
+ ],
  "year": 2019
 }

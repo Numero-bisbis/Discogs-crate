@@ -3119,5 +3119,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/25901449-Eminem-The-Eminem-Show",
+ "videos": [
+  {
+   "duration": 114,
+   "title": "Eminem - The Eminem Show / unboxing cd /",
+   "uri": "https://www.youtube.com/watch?v=WAK9BwJ_IMQ"
+  },
+  {
+   "duration": 357,
+   "title": "Eminem - White America (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=RZIzD0ZfTFg"
+  },
+  {
+   "duration": 313,
+   "title": "Eminem - Cleanin' Out My Closet (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=RQ9_TKayu9s"
+  },
+  {
+   "duration": 298,
+   "title": "Eminem - Without Me (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=YVkUvmDQ3HY"
+  },
+  {
+   "duration": 326,
+   "title": "Eminem - Sing For The Moment (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=D4hAVemuQXY"
+  },
+  {
+   "duration": 287,
+   "title": "Eminem - Superman (Clean Version) ft. Dina Rae",
+   "uri": "https://www.youtube.com/watch?v=8kYkciD9VjU"
+  }
+ ],
  "year": 2023
 }

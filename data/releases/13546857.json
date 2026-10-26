@@ -129,5 +129,22 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13546857-Floorplan-v-Mark-Broom-Floorplan-v-Mark-Broom",
+ "videos": [
+  {
+   "duration": 341,
+   "title": "Floorplan | Never Grow Old (Mark Broom Dubplate Mix) | EPM Music",
+   "uri": "https://www.youtube.com/watch?v=t9zsFt7cKGc"
+  },
+  {
+   "duration": 313,
+   "title": "Mark Broom | Jungle | EPM Music",
+   "uri": "https://www.youtube.com/watch?v=BggsqGAgNbI"
+  },
+  {
+   "duration": 532,
+   "title": "Floorplan | He Can Save You (Re-Plant) | EPM Music",
+   "uri": "https://www.youtube.com/watch?v=foLQ7X27EOY"
+  }
+ ],
  "year": 2019
 }

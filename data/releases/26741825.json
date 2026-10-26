@@ -443,5 +443,67 @@
   }
  ],
  "uri": "https://www.discogs.com/release/26741825-Metallica-72-Seasons",
+ "videos": [
+  {
+   "duration": 460,
+   "title": "72 Seasons",
+   "uri": "https://www.youtube.com/watch?v=0rVIEj7zgOo"
+  },
+  {
+   "duration": 372,
+   "title": "Shadows Follow",
+   "uri": "https://www.youtube.com/watch?v=Ers4wEtekIk"
+  },
+  {
+   "duration": 331,
+   "title": "Screaming Suicide",
+   "uri": "https://www.youtube.com/watch?v=8T8F02JesPU"
+  },
+  {
+   "duration": 417,
+   "title": "Sleepwalk My Life Away",
+   "uri": "https://www.youtube.com/watch?v=QqWBKUQhwOU"
+  },
+  {
+   "duration": 424,
+   "title": "You Must Burn!",
+   "uri": "https://www.youtube.com/watch?v=FaiBb2wjUWI"
+  },
+  {
+   "duration": 202,
+   "title": "Lux Æterna",
+   "uri": "https://www.youtube.com/watch?v=ZlnfVNrBTUc"
+  },
+  {
+   "duration": 350,
+   "title": "Crown of Barbed Wire",
+   "uri": "https://www.youtube.com/watch?v=p3rpZ1-Dctg"
+  },
+  {
+   "duration": 406,
+   "title": "Chasing Light",
+   "uri": "https://www.youtube.com/watch?v=miTEAoEvhkQ"
+  },
+  {
+   "duration": 397,
+   "title": "If Darkness Had a Son",
+   "uri": "https://www.youtube.com/watch?v=GkUC44CWwjw"
+  },
+  {
+   "duration": 274,
+   "title": "Too Far Gone?",
+   "uri": "https://www.youtube.com/watch?v=JQ6pykI3HrY"
+  },
+  {
+   "duration": 334,
+   "title": "Room of Mirrors",
+   "uri": "https://www.youtube.com/watch?v=m8DI-SQ_Thw"
+  },
+  {
+   "duration": 0,
+   "title": "Inamorata",
+   "uri": "https://www.youtube.com/watch?v=xc7y9U6WkP0"
+  }
+ ],
  "year": 2023
 }

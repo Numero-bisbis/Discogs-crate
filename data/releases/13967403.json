@@ -241,5 +241,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13967403-Jeen-Bassa-Cassava-Pone",
+ "videos": [
+  {
+   "duration": 175,
+   "title": "Jeen Bassa - Hold You Down feat. Shepherd Manyika",
+   "uri": "https://www.youtube.com/watch?v=Yxy0FbGntIA"
+  },
+  {
+   "duration": 113,
+   "title": "Jeen Bassa — Ancestral Rivers [CASSAVA PONE]",
+   "uri": "https://www.youtube.com/watch?v=8jpNUEFHgf8"
+  },
+  {
+   "duration": 175,
+   "title": "Jeen Bassa - Hold You Down feat. Shepherd Manyika",
+   "uri": "https://www.youtube.com/watch?v=Yxy0FbGntIA"
+  },
+  {
+   "duration": 113,
+   "title": "Jeen Bassa — Ancestral Rivers [CASSAVA PONE]",
+   "uri": "https://www.youtube.com/watch?v=8jpNUEFHgf8"
+  }
+ ],
  "year": 2019
 }

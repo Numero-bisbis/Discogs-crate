@@ -82,5 +82,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13145532-Felipe-Gordon-Shir-Khan-Presents-Black-Jukebox-26",
+ "videos": [
+  {
+   "duration": 275,
+   "title": "Felipe Gordon - Maria's Piano",
+   "uri": "https://www.youtube.com/watch?v=9c-qwWk6JEw"
+  },
+  {
+   "duration": 325,
+   "title": "Mod Heart",
+   "uri": "https://www.youtube.com/watch?v=XpQ1ohSycP0"
+  },
+  {
+   "duration": 276,
+   "title": "Felipe Gordon - Babe",
+   "uri": "https://www.youtube.com/watch?v=ZXr2_crS1jA"
+  },
+  {
+   "duration": 365,
+   "title": "Felipe Gordon - Changes",
+   "uri": "https://www.youtube.com/watch?v=D9X_PBwadTo"
+  }
+ ],
  "year": 2019
 }

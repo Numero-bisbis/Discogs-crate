@@ -80,5 +80,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12462744-Ghost-Culture-Axon-",
+ "videos": [
+  {
+   "duration": 379,
+   "title": "Ghost Culture - Axon [PH80]",
+   "uri": "https://www.youtube.com/watch?v=9pzOqaX0TPI"
+  },
+  {
+   "duration": 397,
+   "title": "Ghost Culture - Axon (Legowelt Remix) [PH80]",
+   "uri": "https://www.youtube.com/watch?v=3YlWLPN56PU"
+  },
+  {
+   "duration": 379,
+   "title": "Ghost Culture - Axon [PH80]",
+   "uri": "https://www.youtube.com/watch?v=9pzOqaX0TPI"
+  },
+  {
+   "duration": 397,
+   "title": "Ghost Culture - Axon (Legowelt Remix) [PH80]",
+   "uri": "https://www.youtube.com/watch?v=3YlWLPN56PU"
+  }
+ ],
  "year": 2018
 }

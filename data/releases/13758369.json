@@ -180,5 +180,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13758369-Bellaire-Georges-Contrasts",
+ "videos": [
+  {
+   "duration": 319,
+   "title": "Bellaire & Georges - Absolutely",
+   "uri": "https://www.youtube.com/watch?v=aKBYyAIeTrI"
+  },
+  {
+   "duration": 296,
+   "title": "Bellaire & Georges - Contrasts",
+   "uri": "https://www.youtube.com/watch?v=F5ytNRdvefM"
+  },
+  {
+   "duration": 331,
+   "title": "Bellaire - At the Jazz Club",
+   "uri": "https://www.youtube.com/watch?v=vaETJFN2qtE"
+  },
+  {
+   "duration": 267,
+   "title": "About love",
+   "uri": "https://www.youtube.com/watch?v=3UXH4W5wgyU"
+  },
+  {
+   "duration": 314,
+   "title": "Thin",
+   "uri": "https://www.youtube.com/watch?v=WByC4Mp_r-Y"
+  }
+ ],
  "year": 2019
 }

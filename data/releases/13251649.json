@@ -107,5 +107,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13251649-Various-COD3-QR-002",
+ "videos": [
+  {
+   "duration": 491,
+   "title": "Viral 101",
+   "uri": "https://www.youtube.com/watch?v=yGdpZ2cjOqg"
+  },
+  {
+   "duration": 388,
+   "title": "44th Romance",
+   "uri": "https://www.youtube.com/watch?v=3tdWuTgegUo"
+  },
+  {
+   "duration": 425,
+   "title": "Multiverse by Moonlight",
+   "uri": "https://www.youtube.com/watch?v=aDLlTPgNix8"
+  },
+  {
+   "duration": 491,
+   "title": "Viral 101",
+   "uri": "https://www.youtube.com/watch?v=yGdpZ2cjOqg"
+  },
+  {
+   "duration": 388,
+   "title": "44th Romance",
+   "uri": "https://www.youtube.com/watch?v=3tdWuTgegUo"
+  },
+  {
+   "duration": 425,
+   "title": "Multiverse by Moonlight",
+   "uri": "https://www.youtube.com/watch?v=aDLlTPgNix8"
+  }
+ ],
  "year": 2019
 }

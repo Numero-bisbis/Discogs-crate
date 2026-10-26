@@ -93,5 +93,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12557764-Tony-Allen-Jeff-Mills-Tomorrow-Comes-The-Harvest",
+ "videos": [
+  {
+   "duration": 0,
+   "title": "TONY ALLEN & JEFF MILLS - TOMORROW COMES THE HARVEST",
+   "uri": "https://www.youtube.com/watch?v=UoeBCPptWxE"
+  },
+  {
+   "duration": 431,
+   "title": "Tony Allen & Jeff Mills - The Seed",
+   "uri": "https://www.youtube.com/watch?v=fdJ0OuDezSM"
+  },
+  {
+   "duration": 0,
+   "title": "TONY ALLEN & JEFF MILLS - TOMORROW COMES THE HARVEST",
+   "uri": "https://www.youtube.com/watch?v=UoeBCPptWxE"
+  },
+  {
+   "duration": 431,
+   "title": "Tony Allen & Jeff Mills - The Seed",
+   "uri": "https://www.youtube.com/watch?v=fdJ0OuDezSM"
+  }
+ ],
  "year": 2018
 }

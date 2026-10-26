@@ -95,5 +95,22 @@
   }
  ],
  "uri": "https://www.discogs.com/release/20159635-Margee-2-In-My-Sleep",
+ "videos": [
+  {
+   "duration": 530,
+   "title": "PREMIERE: Margee - In My Sleep (DJ Nature Remix) [Other Goodness]",
+   "uri": "https://www.youtube.com/watch?v=_uh9rOnjboA"
+  },
+  {
+   "duration": 462,
+   "title": "PREMIERE: Margee - Wrong Dream [Other Goodness]",
+   "uri": "https://www.youtube.com/watch?v=dmekvLAFjO0"
+  },
+  {
+   "duration": 676,
+   "title": "PREMIERE: Margee - Wrong Dream (Hardway Bros Cosmic Intervention) [Other Goodness]",
+   "uri": "https://www.youtube.com/watch?v=Li08viAZ4xY"
+  }
+ ],
  "year": 2021
 }

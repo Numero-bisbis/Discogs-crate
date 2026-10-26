@@ -117,5 +117,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14130502-Makoto-Terashita-Meets-Harold-Land-Topology",
+ "videos": [
+  {
+   "duration": 0,
+   "title": "寺下誠 (Makoto Terashita) - Dragon Dance (Japanese Jazz)",
+   "uri": "https://www.youtube.com/watch?v=bS1Jfr71LDM"
+  },
+  {
+   "duration": 468,
+   "title": "Makoto Terashita meets Harold Land - World Peace",
+   "uri": "https://www.youtube.com/watch?v=fYmUDFpDBPI"
+  },
+  {
+   "duration": 238,
+   "title": "Makoto Terashita meets Harold Land - Dear Friends",
+   "uri": "https://www.youtube.com/watch?v=53lmKMH0h3Y"
+  },
+  {
+   "duration": 471,
+   "title": "Makoto Terashita meets Harold Land - Takeuma",
+   "uri": "https://www.youtube.com/watch?v=ubSvTofjqro"
+  },
+  {
+   "duration": 377,
+   "title": "Makoto Terashita meets Harold Land - I Ha To Bo",
+   "uri": "https://www.youtube.com/watch?v=Sii1a38eEjM"
+  },
+  {
+   "duration": 533,
+   "title": "Makoto Terashita meets Harold Land - Crossing",
+   "uri": "https://www.youtube.com/watch?v=_bzUY8XkVvc"
+  }
+ ],
  "year": 2019
 }

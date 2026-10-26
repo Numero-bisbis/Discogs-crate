@@ -172,5 +172,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14248879-Various-Repsies-002",
+ "videos": [
+  {
+   "duration": 0,
+   "title": "Various – Repsies 002",
+   "uri": "https://www.youtube.com/watch?v=CeTflpjitHk"
+  },
+  {
+   "duration": 363,
+   "title": "Repsies 002 - Fatta Connection (Partner Music Edit)",
+   "uri": "https://www.youtube.com/watch?v=qCog_btZo5A"
+  },
+  {
+   "duration": 248,
+   "title": "WORK IT BABY - JOE CLEEN EDIT (REPSIES 002)",
+   "uri": "https://www.youtube.com/watch?v=BBBZnRV6Ttg"
+  },
+  {
+   "duration": 340,
+   "title": "Repsies 002 - Bala (Jus Nowhere Edit)",
+   "uri": "https://www.youtube.com/watch?v=7sR0YYIzFHc"
+  },
+  {
+   "duration": 325,
+   "title": "Repsies 002 - Idris (Keith Lorraine Edit)",
+   "uri": "https://www.youtube.com/watch?v=Y7zE8ljDZog"
+  }
+ ],
  "year": 2019
 }

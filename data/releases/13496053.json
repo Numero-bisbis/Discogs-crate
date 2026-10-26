@@ -117,5 +117,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13496053-Band-Of-Skulls-Love-Is-All-You-Love",
+ "videos": [
+  {
+   "duration": 205,
+   "title": "Band Of Skulls - Love Is All You Love (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=GLy2GX0vd1o"
+  },
+  {
+   "duration": 212,
+   "title": "Band Of Skulls - Cool Your Battles (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=0xcWXFFJ0HQ"
+  },
+  {
+   "duration": 203,
+   "title": "Band Of Skulls - Cool Your Battles",
+   "uri": "https://www.youtube.com/watch?v=4rsoAg6cusQ"
+  },
+  {
+   "duration": 205,
+   "title": "Band Of Skulls - Love Is All You Love (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=GLy2GX0vd1o"
+  },
+  {
+   "duration": 212,
+   "title": "Band Of Skulls - Cool Your Battles (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=0xcWXFFJ0HQ"
+  },
+  {
+   "duration": 203,
+   "title": "Band Of Skulls - Cool Your Battles",
+   "uri": "https://www.youtube.com/watch?v=4rsoAg6cusQ"
+  }
+ ],
  "year": 2019
 }

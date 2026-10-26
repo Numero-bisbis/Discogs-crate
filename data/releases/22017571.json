@@ -364,5 +364,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/22017571-Jessy-Lanza-DJ-Kicks",
+ "videos": [
+  {
+   "duration": 4027,
+   "title": "Jessy Lanza - DJ-Kicks",
+   "uri": "https://www.youtube.com/watch?v=I2AHYGWzlEQ"
+  },
+  {
+   "duration": 4020,
+   "title": "Jessy Lanza - DJ-Kicks",
+   "uri": "https://www.youtube.com/watch?v=dqQAPY2bdfU"
+  },
+  {
+   "duration": 4020,
+   "title": "Jessy Lanza - DJ-Kicks",
+   "uri": "https://www.youtube.com/watch?v=dqQAPY2bdfU"
+  },
+  {
+   "duration": 4027,
+   "title": "Jessy Lanza - DJ-Kicks",
+   "uri": "https://www.youtube.com/watch?v=I2AHYGWzlEQ"
+  }
+ ],
  "year": 2021
 }

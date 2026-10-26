@@ -133,5 +133,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/35407495-Tame-Impala-Deadbeat",
+ "videos": [
+  {
+   "duration": 234,
+   "title": "Tame Impala - Dracula (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=xnP7qKxwzjg"
+  },
+  {
+   "duration": 268,
+   "title": "Tame Impala - Loser (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=s3a4OQR-10M"
+  },
+  {
+   "duration": 568,
+   "title": "Tame Impala - End Of Summer (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=ulkdUfItyxI"
+  },
+  {
+   "duration": 125,
+   "title": "Tame Impala - Deadbeat CD Unboxing",
+   "uri": "https://www.youtube.com/watch?v=6HXfFiPuCkw"
+  }
+ ],
  "year": 2025
 }

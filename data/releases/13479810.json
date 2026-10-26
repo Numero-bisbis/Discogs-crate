@@ -227,5 +227,42 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13479810-Roy-Ayers-Silver-Vibrations",
+ "videos": [
+  {
+   "duration": 356,
+   "title": "Roy Ayers - Good Good Music",
+   "uri": "https://www.youtube.com/watch?v=KBPJ2bMvBYo"
+  },
+  {
+   "duration": 441,
+   "title": "Roy Ayers - Chicago",
+   "uri": "https://www.youtube.com/watch?v=OWUOyLLIufU"
+  },
+  {
+   "duration": 479,
+   "title": "Roy Ayers - Lots Of Love",
+   "uri": "https://www.youtube.com/watch?v=Qjfw5ZmB9JQ"
+  },
+  {
+   "duration": 399,
+   "title": "Roy Ayers - Keep On Movin'",
+   "uri": "https://www.youtube.com/watch?v=9FNFFwBFJRg"
+  },
+  {
+   "duration": 338,
+   "title": "Roy Ayers - Silver Vibrations",
+   "uri": "https://www.youtube.com/watch?v=aoyzxVLbO7s"
+  },
+  {
+   "duration": 344,
+   "title": "Roy Ayers - D.C. City",
+   "uri": "https://www.youtube.com/watch?v=nbnA-0hYPuI"
+  },
+  {
+   "duration": 289,
+   "title": "Roy Ayers - Smiling With Our Eyes",
+   "uri": "https://www.youtube.com/watch?v=Qn3vKJryx7E"
+  }
+ ],
  "year": 2019
 }

@@ -111,5 +111,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/15322610-Mr-Oizo-Feat-Roméo-Elvis-Pharmacist",
+ "videos": [
+  {
+   "duration": 226,
+   "title": "Mr. Oizo - Pharmacist (feat. Roméo Elvis) [Official Audio]",
+   "uri": "https://www.youtube.com/watch?v=3GvWU83OY34"
+  },
+  {
+   "duration": 226,
+   "title": "Tsicamrahp",
+   "uri": "https://www.youtube.com/watch?v=kA4fG-EjtHs"
+  },
+  {
+   "duration": 226,
+   "title": "Mr. Oizo - Pharmacist (feat. Roméo Elvis) [Official Audio]",
+   "uri": "https://www.youtube.com/watch?v=3GvWU83OY34"
+  },
+  {
+   "duration": 226,
+   "title": "Tsicamrahp",
+   "uri": "https://www.youtube.com/watch?v=kA4fG-EjtHs"
+  }
+ ],
  "year": 2020
 }

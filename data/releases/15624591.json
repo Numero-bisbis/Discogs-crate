@@ -101,5 +101,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/15624591-Waaju-Grown",
+ "videos": [
+  {
+   "duration": 384,
+   "title": "Grown",
+   "uri": "https://www.youtube.com/watch?v=dM4Mkcb4kYA"
+  },
+  {
+   "duration": 482,
+   "title": "Wassoulou",
+   "uri": "https://www.youtube.com/watch?v=umo6WmNjXsI"
+  },
+  {
+   "duration": 389,
+   "title": "Rollando",
+   "uri": "https://www.youtube.com/watch?v=p5xatlpFgI4"
+  },
+  {
+   "duration": 465,
+   "title": "Moleman",
+   "uri": "https://www.youtube.com/watch?v=XU3EhqGfu1k"
+  },
+  {
+   "duration": 384,
+   "title": "Grown",
+   "uri": "https://www.youtube.com/watch?v=dM4Mkcb4kYA"
+  },
+  {
+   "duration": 482,
+   "title": "Wassoulou",
+   "uri": "https://www.youtube.com/watch?v=umo6WmNjXsI"
+  },
+  {
+   "duration": 389,
+   "title": "Rollando",
+   "uri": "https://www.youtube.com/watch?v=p5xatlpFgI4"
+  },
+  {
+   "duration": 465,
+   "title": "Moleman",
+   "uri": "https://www.youtube.com/watch?v=XU3EhqGfu1k"
+  }
+ ],
  "year": 2020
 }

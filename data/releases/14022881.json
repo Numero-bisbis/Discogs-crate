@@ -77,5 +77,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14022881-Four-Tet-Anna-Painting",
+ "videos": [
+  {
+   "duration": 462,
+   "title": "Four Tet - Anna Painting",
+   "uri": "https://www.youtube.com/watch?v=hBxmnfI4ryk"
+  },
+  {
+   "duration": 377,
+   "title": "Four Tet - Lahaina Noon",
+   "uri": "https://www.youtube.com/watch?v=Q8v2Wra-YoU"
+  },
+  {
+   "duration": 253,
+   "title": "Four Tet - Breath",
+   "uri": "https://www.youtube.com/watch?v=fCuPRW0P74s"
+  },
+  {
+   "duration": 462,
+   "title": "Four Tet - Anna Painting",
+   "uri": "https://www.youtube.com/watch?v=hBxmnfI4ryk"
+  },
+  {
+   "duration": 377,
+   "title": "Four Tet - Lahaina Noon",
+   "uri": "https://www.youtube.com/watch?v=Q8v2Wra-YoU"
+  },
+  {
+   "duration": 253,
+   "title": "Four Tet - Breath",
+   "uri": "https://www.youtube.com/watch?v=fCuPRW0P74s"
+  }
+ ],
  "year": 2019
 }

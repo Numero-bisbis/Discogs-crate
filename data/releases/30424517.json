@@ -1224,5 +1224,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/30424517-Nia-Archives-Silence-Is-Loud",
+ "videos": [
+  {
+   "duration": 158,
+   "title": "Nia Archives - Silence Is Loud",
+   "uri": "https://www.youtube.com/watch?v=tHxEQ1oaYig"
+  },
+  {
+   "duration": 181,
+   "title": "Nia Archives - Crowded Roomz",
+   "uri": "https://www.youtube.com/watch?v=dMwzooIPbHw"
+  },
+  {
+   "duration": 199,
+   "title": "Nia Archives - Unfinished Business",
+   "uri": "https://www.youtube.com/watch?v=bQtEJX_bLds"
+  },
+  {
+   "duration": 0,
+   "title": "Nia Archives | Boiler Room Nottingham: International Women's Day",
+   "uri": "https://www.youtube.com/watch?v=RsZ8bxz68rg"
+  },
+  {
+   "duration": 0,
+   "title": "Nia Archives - Silence Is Loud (Island Records / Hijinxx 6500353 side A) 2024",
+   "uri": "https://www.youtube.com/watch?v=lLrlRy_xpXs"
+  },
+  {
+   "duration": 0,
+   "title": "Nia Archives - Silence Is Loud (Island Records / Hijinxx 6500353 side B) 2024",
+   "uri": "https://www.youtube.com/watch?v=n0xjIw5GN6k"
+  }
+ ],
  "year": 2024
 }

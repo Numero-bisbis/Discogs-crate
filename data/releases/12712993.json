@@ -104,5 +104,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12712993-Jon-K-Pat-Thomas-3-Asafo-Enye-Woa",
+ "videos": [
+  {
+   "duration": 386,
+   "title": "Pat Thomas - Enye Woa",
+   "uri": "https://www.youtube.com/watch?v=KBt8iLg8v78"
+  },
+  {
+   "duration": 287,
+   "title": "Jon K. – Asafo",
+   "uri": "https://www.youtube.com/watch?v=ueUBn8HsP9s"
+  }
+ ],
  "year": 2018
 }

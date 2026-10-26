@@ -69,5 +69,22 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12614410-BTraits-Peoples-Nation",
+ "videos": [
+  {
+   "duration": 411,
+   "title": "B. TRAITS - PEOPLE'S NATION (IN.TOTO)",
+   "uri": "https://www.youtube.com/watch?v=lUFI-ThR0e0"
+  },
+  {
+   "duration": 410,
+   "title": "B.Traits - People’s Nation [INTOTO003]",
+   "uri": "https://www.youtube.com/watch?v=Kxjuwi7dLj0"
+  },
+  {
+   "duration": 391,
+   "title": "B.Traits - Inside My Love [INTOTO003]",
+   "uri": "https://www.youtube.com/watch?v=Lp20s8Y_pbU"
+  }
+ ],
  "year": 2018
 }

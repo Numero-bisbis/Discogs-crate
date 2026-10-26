@@ -92,5 +92,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13829445-90-Process-No-Warehouse-Needed-EP",
+ "videos": [
+  {
+   "duration": 303,
+   "title": "90 Process - No Warehouse Needed [LT052]",
+   "uri": "https://www.youtube.com/watch?v=Zs3dLZgCn6I"
+  },
+  {
+   "duration": 296,
+   "title": "90 Process - Hate In The Pants [LT052]",
+   "uri": "https://www.youtube.com/watch?v=8ce74nnXI_g"
+  },
+  {
+   "duration": 289,
+   "title": "90 Process - Strange Feeling [LT052]",
+   "uri": "https://www.youtube.com/watch?v=LIBZrs2SlFA"
+  },
+  {
+   "duration": 372,
+   "title": "90 Process - Knowledge Wasn't My Plan [LT052]",
+   "uri": "https://www.youtube.com/watch?v=Am6kK70EW9A"
+  },
+  {
+   "duration": 441,
+   "title": "90 Process - Strictly Cut [LT052]",
+   "uri": "https://www.youtube.com/watch?v=BmPhnLmjn2M"
+  }
+ ],
  "year": 2019
 }

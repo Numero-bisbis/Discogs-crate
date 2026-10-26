@@ -367,5 +367,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/31431314-OutKast-Stankonia",
+ "videos": [
+  {
+   "duration": 299,
+   "title": "Outkast - Ms. Jackson (Official HD Video)",
+   "uri": "https://www.youtube.com/watch?v=MYxAiK6VnXw"
+  },
+  {
+   "duration": 265,
+   "title": "Outkast - B.O.B. (Bombs Over Baghdad) (Official HD Video)",
+   "uri": "https://www.youtube.com/watch?v=lVehcuJXe6I"
+  },
+  {
+   "duration": 265,
+   "title": "Outkast - B.O.B. (Official HD Video)",
+   "uri": "https://www.youtube.com/watch?v=fVyVIsvQoaE"
+  },
+  {
+   "duration": 413,
+   "title": "OutKast - Stankonia (Stanklove) (Official Audio) ft. Big Rube, Sleepy Brown",
+   "uri": "https://www.youtube.com/watch?v=EADVHxEdHs4"
+  },
+  {
+   "duration": 271,
+   "title": "Ms. Jackson",
+   "uri": "https://www.youtube.com/watch?v=CSD2J8yaMmM"
+  },
+  {
+   "duration": 89,
+   "title": "?",
+   "uri": "https://www.youtube.com/watch?v=3d7v9vmWJkA"
+  }
+ ],
  "year": 2024
 }

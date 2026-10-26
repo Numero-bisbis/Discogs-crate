@@ -146,5 +146,77 @@
   }
  ],
  "uri": "https://www.discogs.com/release/15823307-Myd-All-Inclusive",
+ "videos": [
+  {
+   "duration": 209,
+   "title": "The Sun (Moodoïd Remix)",
+   "uri": "https://www.youtube.com/watch?v=_MKJ5bY2C6U"
+  },
+  {
+   "duration": 205,
+   "title": "Myd - The Sun (8-bit Cover)",
+   "uri": "https://www.youtube.com/watch?v=VtXYe6JHDfI"
+  },
+  {
+   "duration": 296,
+   "title": "All Inclusive (Canblaster Remix)",
+   "uri": "https://www.youtube.com/watch?v=xvFoj0gfYZ4"
+  },
+  {
+   "duration": 487,
+   "title": "Bingo (Cassius Remix)",
+   "uri": "https://www.youtube.com/watch?v=56Nr-i4iL6k"
+  },
+  {
+   "duration": 176,
+   "title": "Myd - All Inclusive (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=vJsnUDD_gwU"
+  },
+  {
+   "duration": 225,
+   "title": "Myd - Bingo (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=-YtPtxXerj4"
+  },
+  {
+   "duration": 211,
+   "title": "Myd - The Sun",
+   "uri": "https://www.youtube.com/watch?v=K2os_Be0azs"
+  },
+  {
+   "duration": 211,
+   "title": "Myd - The Sun (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=3bCpUWeXjag"
+  },
+  {
+   "duration": 176,
+   "title": "Myd - All Inclusive (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=vJsnUDD_gwU"
+  },
+  {
+   "duration": 225,
+   "title": "Myd - Bingo (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=-YtPtxXerj4"
+  },
+  {
+   "duration": 209,
+   "title": "The Sun (Moodoïd Remix)",
+   "uri": "https://www.youtube.com/watch?v=_MKJ5bY2C6U"
+  },
+  {
+   "duration": 205,
+   "title": "Myd - The Sun (8-bit Cover)",
+   "uri": "https://www.youtube.com/watch?v=VtXYe6JHDfI"
+  },
+  {
+   "duration": 296,
+   "title": "All Inclusive (Canblaster Remix)",
+   "uri": "https://www.youtube.com/watch?v=xvFoj0gfYZ4"
+  },
+  {
+   "duration": 487,
+   "title": "Bingo (Cassius Remix)",
+   "uri": "https://www.youtube.com/watch?v=56Nr-i4iL6k"
+  }
+ ],
  "year": 2020
 }

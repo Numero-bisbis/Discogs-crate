@@ -418,5 +418,92 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14747099-Thelma-Houston-Any-Way-You-Like-It",
+ "videos": [
+  {
+   "duration": 376,
+   "title": "Thelma Houston - Any Way You Like It (1976) - A1 - Any Way You Like It",
+   "uri": "https://www.youtube.com/watch?v=bdsHbl3ghRk"
+  },
+  {
+   "duration": 343,
+   "title": "Thelma Houston - Any Way You Like It (1976) - A2 - Don't Leave Me This Way",
+   "uri": "https://www.youtube.com/watch?v=LCA-CfBCTaE"
+  },
+  {
+   "duration": 306,
+   "title": "Thelma Houston - Any Way You Like It (1976) - A3 - Don't Know Why I Love You",
+   "uri": "https://www.youtube.com/watch?v=6CCf9DhHUWs"
+  },
+  {
+   "duration": 255,
+   "title": "Thelma Houston - Any Way You Like It (1976) - B1 - Come To Me",
+   "uri": "https://www.youtube.com/watch?v=QQaRra4p5lM"
+  },
+  {
+   "duration": 241,
+   "title": "Thelma Houston - Any Way You Like It (1976) - B2 - Don't Make Me Pay (For Another Girl's Mistake)",
+   "uri": "https://www.youtube.com/watch?v=I7zuv6Bgupc"
+  },
+  {
+   "duration": 232,
+   "title": "Thelma Houston - Any Way You Like It (1976) - B3 - Sharing Something Perfect Between Ourselves",
+   "uri": "https://www.youtube.com/watch?v=Wk_i2UXGemM"
+  },
+  {
+   "duration": 191,
+   "title": "Thelma Houston - Any Way You Like It (1976) - B4 - If It's The Last Thing I Do",
+   "uri": "https://www.youtube.com/watch?v=qB0aQHs4y4k"
+  },
+  {
+   "duration": 231,
+   "title": "Thelma Houston - Any Way You Like It (1976) - B5 - Differently",
+   "uri": "https://www.youtube.com/watch?v=pBtcqAn8EdI"
+  },
+  {
+   "duration": 343,
+   "title": "Don't Leave Me This Way",
+   "uri": "https://www.youtube.com/watch?v=rUdw7V-FC_Q"
+  },
+  {
+   "duration": 376,
+   "title": "Any Way You Like It",
+   "uri": "https://www.youtube.com/watch?v=IyF_w2hnPec"
+  },
+  {
+   "duration": 343,
+   "title": "Don't Leave Me This Way",
+   "uri": "https://www.youtube.com/watch?v=rUdw7V-FC_Q"
+  },
+  {
+   "duration": 306,
+   "title": "Don't Know Why I Love You",
+   "uri": "https://www.youtube.com/watch?v=A2nIyJg_6gc"
+  },
+  {
+   "duration": 255,
+   "title": "Come To Me",
+   "uri": "https://www.youtube.com/watch?v=mSM9WnYLvso"
+  },
+  {
+   "duration": 241,
+   "title": "Don't Make Me Pay (For Another Girl's Mistake)",
+   "uri": "https://www.youtube.com/watch?v=nYKuMKBxgN8"
+  },
+  {
+   "duration": 232,
+   "title": "Sharing Something Perfect Between Ourselves",
+   "uri": "https://www.youtube.com/watch?v=MswfvrpheY8"
+  },
+  {
+   "duration": 191,
+   "title": "If It's The Last Thing I Do",
+   "uri": "https://www.youtube.com/watch?v=Hi5KURISsVw"
+  },
+  {
+   "duration": 231,
+   "title": "Differently",
+   "uri": "https://www.youtube.com/watch?v=9PWRAwZ7yT4"
+  }
+ ],
  "year": 1977
 }

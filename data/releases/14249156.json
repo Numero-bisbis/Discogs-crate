@@ -175,5 +175,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14249156-ABSL-Sugar-47-Anetha-Dont-Rush-To-Grow-Up",
+ "videos": [
+  {
+   "duration": 603,
+   "title": "ABSL - Et Le Soleil Ne Vint Pas- MTY001",
+   "uri": "https://www.youtube.com/watch?v=hv4mI7iLIPE"
+  },
+  {
+   "duration": 476,
+   "title": "ABSL & Anetha - Elles [Mama Told Ya]",
+   "uri": "https://www.youtube.com/watch?v=JbXKvTsCBGA"
+  },
+  {
+   "duration": 411,
+   "title": "Sugar - Vapouring Sun - MTY001",
+   "uri": "https://www.youtube.com/watch?v=yZDXoLkQK5w"
+  },
+  {
+   "duration": 491,
+   "title": "Sugar & Anetha - Candy from strangers [Mama Told Ya]",
+   "uri": "https://www.youtube.com/watch?v=_Dsrq6Z04SI"
+  }
+ ],
  "year": 2019
 }

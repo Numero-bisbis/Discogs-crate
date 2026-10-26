@@ -94,5 +94,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/23870063-Kev-Koko-DJ-Gigola-Perra-Inmunda-No-Es-Amor",
+ "videos": [
+  {
+   "duration": 500,
+   "title": "Kev Koko, DJ Gigola, Perra Inmunda - No es amor (Full album)",
+   "uri": "https://www.youtube.com/watch?v=3ZboYYkXMXs"
+  },
+  {
+   "duration": 92,
+   "title": "Kev Koko, DJ Gigola, Perra Inmunda - No Es Amor",
+   "uri": "https://www.youtube.com/watch?v=VKgtoVStmNk"
+  },
+  {
+   "duration": 184,
+   "title": "Beso De Angel",
+   "uri": "https://www.youtube.com/watch?v=RPfLXp0P2EI"
+  },
+  {
+   "duration": 225,
+   "title": "Mas Y Mas",
+   "uri": "https://www.youtube.com/watch?v=liRJzqcERfg"
+  },
+  {
+   "duration": 500,
+   "title": "Kev Koko, DJ Gigola, Perra Inmunda - No es amor (Full album)",
+   "uri": "https://www.youtube.com/watch?v=3ZboYYkXMXs"
+  }
+ ],
  "year": 2022
 }

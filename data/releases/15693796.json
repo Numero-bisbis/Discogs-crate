@@ -99,5 +99,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/15693796-Caribou-Never-Come-Back-Four-Tet-Morgan-Geist-Remixes",
+ "videos": [
+  {
+   "duration": 466,
+   "title": "CARIBOU - Never Come Back (Four Tet Remix)",
+   "uri": "https://www.youtube.com/watch?v=eS7GstfXPwg"
+  },
+  {
+   "duration": 439,
+   "title": "CARIBOU - Never Come Back (Morgan Geist Remix)",
+   "uri": "https://www.youtube.com/watch?v=O8BItzJeEUg"
+  },
+  {
+   "duration": 466,
+   "title": "CARIBOU - Never Come Back (Four Tet Remix)",
+   "uri": "https://www.youtube.com/watch?v=eS7GstfXPwg"
+  },
+  {
+   "duration": 439,
+   "title": "CARIBOU - Never Come Back (Morgan Geist Remix)",
+   "uri": "https://www.youtube.com/watch?v=O8BItzJeEUg"
+  }
+ ],
  "year": 2020
 }

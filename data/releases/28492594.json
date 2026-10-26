@@ -1095,5 +1095,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/28492594-Big-Pun-Capital-Punishment",
+ "videos": [
+  {
+   "duration": 260,
+   "title": "Tres Leches (Triboro Trilogy)",
+   "uri": "https://www.youtube.com/watch?v=VFoTCRL52u8"
+  },
+  {
+   "duration": 198,
+   "title": "Big Pun - I'm Not a Player",
+   "uri": "https://www.youtube.com/watch?v=DtGwr4J2kfA"
+  },
+  {
+   "duration": 271,
+   "title": "Big Pun, Fat Joe - Twinz (Deep Cover 98)",
+   "uri": "https://www.youtube.com/watch?v=AiwvPmRTv6M"
+  },
+  {
+   "duration": 278,
+   "title": "Big Pun - Still Not a Player (Official Video) ft. Joe",
+   "uri": "https://www.youtube.com/watch?v=7Xue-dOOLiY"
+  },
+  {
+   "duration": 274,
+   "title": "Big Pun, Noriega - You Came Up",
+   "uri": "https://www.youtube.com/watch?v=ibdvIKLgtg8"
+  }
+ ],
  "year": 2023
 }

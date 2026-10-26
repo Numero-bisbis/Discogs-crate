@@ -82,5 +82,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/15180231-Viper-Diva-Born-To-Be-Slytherin-EP",
+ "videos": [
+  {
+   "duration": 398,
+   "title": "Viper Diva - Born To Be Slytherin (Tbilisi Mix) [SAIKE01]",
+   "uri": "https://www.youtube.com/watch?v=wU_8RYnqhDg"
+  },
+  {
+   "duration": 372,
+   "title": "Viper Diva - En Y [SAIKE01]",
+   "uri": "https://www.youtube.com/watch?v=uDRg6xPdIlk"
+  },
+  {
+   "duration": 348,
+   "title": "Viper Diva - Hold Me Back [SAIKE01]",
+   "uri": "https://www.youtube.com/watch?v=V4-UPCu5pWU"
+  },
+  {
+   "duration": 366,
+   "title": "Viper Diva - Cold Heart Prediction [SAIKE01]",
+   "uri": "https://www.youtube.com/watch?v=yI0IM-CXysQ"
+  }
+ ],
  "year": 2020
 }

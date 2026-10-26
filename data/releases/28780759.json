@@ -490,5 +490,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/28780759-The-Beatles-Now-And-Then-Love-Me-Do",
+ "videos": [
+  {
+   "duration": 276,
+   "title": "The Beatles - The Beatles - Now And Then (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=Opxhh9Oh3rg"
+  },
+  {
+   "duration": 144,
+   "title": "Love Me Do (2023 Mix)",
+   "uri": "https://www.youtube.com/watch?v=LEHmEC9aWis"
+  }
+ ],
  "year": 2023
 }

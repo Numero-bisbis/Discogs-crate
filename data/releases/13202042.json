@@ -1276,5 +1276,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13202042-Chaka-Khan-Hello-Happiness",
+ "videos": [
+  {
+   "duration": 300,
+   "title": "Chaka Khan - Hello Happiness",
+   "uri": "https://www.youtube.com/watch?v=JG6D59k9U8Q"
+  },
+  {
+   "duration": 241,
+   "title": "Chaka Khan - Like Sugar (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=RecY5iZn6B0"
+  },
+  {
+   "duration": 300,
+   "title": "Chaka Khan - Hello Happiness",
+   "uri": "https://www.youtube.com/watch?v=JG6D59k9U8Q"
+  },
+  {
+   "duration": 241,
+   "title": "Chaka Khan - Like Sugar (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=RecY5iZn6B0"
+  },
+  {
+   "duration": 300,
+   "title": "Chaka Khan - Hello Happiness",
+   "uri": "https://www.youtube.com/watch?v=JG6D59k9U8Q"
+  }
+ ],
  "year": 2019
 }

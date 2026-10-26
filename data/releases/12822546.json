@@ -82,5 +82,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12822546-Tim-Tama-A-Taste-Of-The-Heart",
+ "videos": [
+  {
+   "duration": 417,
+   "title": "Tima Tama - The Wars Of The Roses [ARTSCOLLECTIVE028]",
+   "uri": "https://www.youtube.com/watch?v=S4MFU2xyNKE"
+  },
+  {
+   "duration": 410,
+   "title": "Tim Tama - Teflon Love [ARTSCOLLECTIVE028]",
+   "uri": "https://www.youtube.com/watch?v=Srn7netJgXE"
+  },
+  {
+   "duration": 453,
+   "title": "Tim Tama - Duality [ARTSCOLLECTIVE028]",
+   "uri": "https://www.youtube.com/watch?v=TSvgI_P73-8"
+  },
+  {
+   "duration": 287,
+   "title": "Tim Tama - The Gallows [ARTSCOLLECTIVE028]",
+   "uri": "https://www.youtube.com/watch?v=iP4WP9Ep-L0"
+  }
+ ],
  "year": 2018
 }

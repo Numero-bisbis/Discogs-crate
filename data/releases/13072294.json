@@ -596,5 +596,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13072294-Various-Gangster-Music-Vol-1",
+ "videos": [
+  {
+   "duration": 42,
+   "title": "Gangster Music Vol. 1 [Gangster Doodles]",
+   "uri": "https://www.youtube.com/watch?v=hArg48dA4Z4"
+  },
+  {
+   "duration": 289,
+   "title": "On My Shit",
+   "uri": "https://www.youtube.com/watch?v=KPhmqUQvb8E"
+  },
+  {
+   "duration": 171,
+   "title": "Naeem - Shiraz (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=9qfzL0H6K5U"
+  },
+  {
+   "duration": 42,
+   "title": "Gangster Music Vol. 1 [Gangster Doodles]",
+   "uri": "https://www.youtube.com/watch?v=hArg48dA4Z4"
+  },
+  {
+   "duration": 289,
+   "title": "On My Shit",
+   "uri": "https://www.youtube.com/watch?v=KPhmqUQvb8E"
+  },
+  {
+   "duration": 171,
+   "title": "Naeem - Shiraz (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=9qfzL0H6K5U"
+  }
+ ],
  "year": 2019
 }

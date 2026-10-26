@@ -84,5 +84,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14748262-Schwefelgelb-Die-Stimme-Drängt",
+ "videos": [
+  {
+   "duration": 277,
+   "title": "Die Dünne Hand",
+   "uri": "https://www.youtube.com/watch?v=b00E-wEXoE8"
+  },
+  {
+   "duration": 329,
+   "title": "Die Augen Gehen",
+   "uri": "https://www.youtube.com/watch?v=O9lJ941YQtM"
+  },
+  {
+   "duration": 383,
+   "title": "Auf Die Erde",
+   "uri": "https://www.youtube.com/watch?v=1Fkt_A0oRq8"
+  },
+  {
+   "duration": 349,
+   "title": "Das Bild Das Wiederkehrt",
+   "uri": "https://www.youtube.com/watch?v=EqbNi3NS0W0"
+  },
+  {
+   "duration": 277,
+   "title": "Die Dünne Hand",
+   "uri": "https://www.youtube.com/watch?v=b00E-wEXoE8"
+  },
+  {
+   "duration": 329,
+   "title": "Die Augen Gehen",
+   "uri": "https://www.youtube.com/watch?v=O9lJ941YQtM"
+  },
+  {
+   "duration": 383,
+   "title": "Auf Die Erde",
+   "uri": "https://www.youtube.com/watch?v=1Fkt_A0oRq8"
+  },
+  {
+   "duration": 349,
+   "title": "Das Bild Das Wiederkehrt",
+   "uri": "https://www.youtube.com/watch?v=EqbNi3NS0W0"
+  }
+ ],
  "year": 2020
 }

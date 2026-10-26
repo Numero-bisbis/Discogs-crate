@@ -127,5 +127,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13468682-Ol-Dirty-Bastard-Intoxicated",
+ "videos": [
+  {
+   "duration": 258,
+   "title": "Intoxicated (feat. Raekwon, Method Man, Macy Gray) [Official Audio]",
+   "uri": "https://www.youtube.com/watch?v=hTfLCA1Kjso"
+  },
+  {
+   "duration": 176,
+   "title": "**UNRELEASED TRACK -- \"OBEY ME\" by Ol' Dirty Bastard (Shash'U Remix)",
+   "uri": "https://www.youtube.com/watch?v=SOEDQmClHHw"
+  },
+  {
+   "duration": 258,
+   "title": "Intoxicated (feat. Raekwon, Method Man, Macy Gray) [Official Audio]",
+   "uri": "https://www.youtube.com/watch?v=hTfLCA1Kjso"
+  },
+  {
+   "duration": 176,
+   "title": "**UNRELEASED TRACK -- \"OBEY ME\" by Ol' Dirty Bastard (Shash'U Remix)",
+   "uri": "https://www.youtube.com/watch?v=SOEDQmClHHw"
+  }
+ ],
  "year": 2019
 }

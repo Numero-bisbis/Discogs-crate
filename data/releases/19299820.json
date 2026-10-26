@@ -100,5 +100,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/19299820-DJ-Deep-Traumer-Grugru",
+ "videos": [
+  {
+   "duration": 595,
+   "title": "Dj Deep - Grugru",
+   "uri": "https://www.youtube.com/watch?v=D9UEn0q4xOw"
+  },
+  {
+   "duration": 619,
+   "title": "Traumer - Grugru [TTM002]",
+   "uri": "https://www.youtube.com/watch?v=X1jQVRcdO-U"
+  }
+ ],
  "year": 2021
 }

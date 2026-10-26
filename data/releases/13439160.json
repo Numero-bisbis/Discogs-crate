@@ -125,5 +125,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13439160-Various-Night-Riders-EP",
+ "videos": [
+  {
+   "duration": 336,
+   "title": "Jehan - Waves",
+   "uri": "https://www.youtube.com/watch?v=OPwTNql9Gg4"
+  },
+  {
+   "duration": 333,
+   "title": "Tech Support - Hello",
+   "uri": "https://www.youtube.com/watch?v=60QsqyyjglA"
+  },
+  {
+   "duration": 373,
+   "title": "Mangabey - Pesci's Delight",
+   "uri": "https://www.youtube.com/watch?v=V0tVfpqhbp4"
+  },
+  {
+   "duration": 322,
+   "title": "Ari Bald - Snatching Yo Sushi",
+   "uri": "https://www.youtube.com/watch?v=yr_rZgHG0VQ"
+  }
+ ],
  "year": 2019
 }

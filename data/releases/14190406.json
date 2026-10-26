@@ -83,5 +83,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14190406-Шакке-Клуб-Навсегда-Kisloty-Forever-EP-",
+ "videos": [
+  {
+   "duration": 186,
+   "title": "Шакке (Schacke) - Don't Look For Me [КЛУБ001]",
+   "uri": "https://www.youtube.com/watch?v=upRBpMsvLyk"
+  },
+  {
+   "duration": 359,
+   "title": "Шакке (Schacke) - Klub Tema [КЛУБ001]",
+   "uri": "https://www.youtube.com/watch?v=WqgdiHqWT8g"
+  },
+  {
+   "duration": 362,
+   "title": "Шакке (Schacke) - Kisloty People [КЛУБ001]",
+   "uri": "https://www.youtube.com/watch?v=FundLlhlUgk"
+  },
+  {
+   "duration": 456,
+   "title": "Шакке (Schacke) - Check It [КЛУБ001]",
+   "uri": "https://www.youtube.com/watch?v=FtZ-kX0uD5o"
+  }
+ ],
  "year": 2019
 }

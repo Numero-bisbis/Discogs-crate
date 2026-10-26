@@ -776,5 +776,42 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14210644-TylerCreator-Igor",
+ "videos": [
+  {
+   "duration": 51,
+   "title": "IGOR'S THEME",
+   "uri": "https://www.youtube.com/watch?v=CEVXcP3VC3Y"
+  },
+  {
+   "duration": 49,
+   "title": "WHATSGOOD",
+   "uri": "https://www.youtube.com/watch?v=paOZTlqI1wk"
+  },
+  {
+   "duration": 29,
+   "title": "a boy is a gun*",
+   "uri": "https://www.youtube.com/watch?v=hoq-IBivKnM"
+  },
+  {
+   "duration": 48,
+   "title": "NEW MAGIC WAND",
+   "uri": "https://www.youtube.com/watch?v=h0i3QO_9_8s"
+  },
+  {
+   "duration": 267,
+   "title": "EARFQUAKE",
+   "uri": "https://www.youtube.com/watch?v=HmAsUQEFYGI"
+  },
+  {
+   "duration": 234,
+   "title": "A BOY IS A GUN*",
+   "uri": "https://www.youtube.com/watch?v=9JQDPjpfiGw"
+  },
+  {
+   "duration": 119,
+   "title": "I THINK",
+   "uri": "https://www.youtube.com/watch?v=rkRdgFvuiYk"
+  }
+ ],
  "year": 2019
 }

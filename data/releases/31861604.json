@@ -235,5 +235,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/31861604-Amadou-Mariam-La-Vie-Est-Belle",
+ "videos": [
+  {
+   "duration": 181,
+   "title": "Amadou & Mariam - Sabali (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=NRtQmqqfdoc"
+  },
+  {
+   "duration": 216,
+   "title": "BLOND:ISH, Francis Mercier, Amadou & Mariam - Sete (Official Lyric Video) | Insomniac Records",
+   "uri": "https://www.youtube.com/watch?v=I5IN5xDRoaU"
+  },
+  {
+   "duration": 181,
+   "title": "Amadou & Mariam - Sabali (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=NRtQmqqfdoc"
+  },
+  {
+   "duration": 216,
+   "title": "BLOND:ISH, Francis Mercier, Amadou & Mariam - Sete (Official Lyric Video) | Insomniac Records",
+   "uri": "https://www.youtube.com/watch?v=I5IN5xDRoaU"
+  }
+ ],
  "year": 2024
 }

@@ -101,5 +101,22 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13502140-Lil-Yachty-feat-Lil-Baby-SaintLaurentYSL",
+ "videos": [
+  {
+   "duration": 365,
+   "title": "Lil Yachty - SaintLaurentYSL ft. Lil Baby (The Martinez Brothers Re-Edit)",
+   "uri": "https://www.youtube.com/watch?v=RWsoVXmPTnY"
+  },
+  {
+   "duration": 368,
+   "title": "Lil Yachty feat Lil Baby – SaintLaurentYSL (The Martinez Brothers re-edit) YSL 2019",
+   "uri": "https://www.youtube.com/watch?v=8l8YySlNeRA"
+  },
+  {
+   "duration": 446,
+   "title": "The Martinez Brothers - Backyard Boogie (NYC Mix)",
+   "uri": "https://www.youtube.com/watch?v=kTBEdDMphwA"
+  }
+ ],
  "year": 2019
 }

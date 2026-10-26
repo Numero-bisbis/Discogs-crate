@@ -127,5 +127,42 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13467999-Dr-Dre-Nuthin-But-A-G-Thang",
+ "videos": [
+  {
+   "duration": 239,
+   "title": "Dr. Dre - Nuthin' But A \"G\" Thang (feat. Snoop Doggy Dogg) (Radio Mix)",
+   "uri": "https://www.youtube.com/watch?v=hALMoXQG0Mk"
+  },
+  {
+   "duration": 241,
+   "title": "Dr. Dre - Nuthin' But A \"G\" Thang (feat. Snoop Doggy Dogg) (LP Version)",
+   "uri": "https://www.youtube.com/watch?v=jywFauFV9os"
+  },
+  {
+   "duration": 281,
+   "title": "Dr. Dre - Nuthin' But A \"G\" Thang (feat. Snoop Doggy Dogg) (Club Mix)",
+   "uri": "https://www.youtube.com/watch?v=cUwFAia_eeE"
+  },
+  {
+   "duration": 192,
+   "title": "Dr. Dre - Nuthin' But A \"G\" Thang (feat. Snoop Doggy Dogg) (Freestyle Remix)",
+   "uri": "https://www.youtube.com/watch?v=bSftyj1-6ro"
+  },
+  {
+   "duration": 249,
+   "title": "Dr. Dre - Nuthin' But A \"G\" Thang (Instrumental)",
+   "uri": "https://www.youtube.com/watch?v=UuR66Fy9668"
+  },
+  {
+   "duration": 273,
+   "title": "Dr. Dre - Nuthin' But A \"G\" Thang (Vibe Instrumental)",
+   "uri": "https://www.youtube.com/watch?v=E9JXOjoBifg"
+  },
+  {
+   "duration": 285,
+   "title": "Dr Dre - Nuthin' But A \"G\" Thang [Official Music Video]",
+   "uri": "https://www.youtube.com/watch?v=8GliyDgAGQI"
+  }
+ ],
  "year": 2019
 }

@@ -67,5 +67,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12930998-Rebuke-Along-Came-Polly",
+ "videos": [
+  {
+   "duration": 395,
+   "title": "Rebuke - Along Came Polly",
+   "uri": "https://www.youtube.com/watch?v=MJHbiLHLls4"
+  },
+  {
+   "duration": 376,
+   "title": "Rebuke - Rolo",
+   "uri": "https://www.youtube.com/watch?v=4puOYQCHupI"
+  },
+  {
+   "duration": 395,
+   "title": "Rebuke - Along Came Polly",
+   "uri": "https://www.youtube.com/watch?v=MJHbiLHLls4"
+  },
+  {
+   "duration": 376,
+   "title": "Rebuke - Rolo",
+   "uri": "https://www.youtube.com/watch?v=4puOYQCHupI"
+  }
+ ],
  "year": 2018
 }

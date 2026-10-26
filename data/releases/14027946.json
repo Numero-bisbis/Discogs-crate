@@ -68,5 +68,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14027946-Alicia-Myers-I-Want-To-Thank-You",
+ "videos": [
+  {
+   "duration": 475,
+   "title": "Alicia Myers ‎– I Want To Thank You (Kon's Shine Your Light Remix)",
+   "uri": "https://www.youtube.com/watch?v=kMnJyzXNHRs"
+  },
+  {
+   "duration": 471,
+   "title": "Alicia Myers - I Want To Thank You (Kon's Dub)",
+   "uri": "https://www.youtube.com/watch?v=F1W6CLJFgyw"
+  },
+  {
+   "duration": 384,
+   "title": "\"I Want To Thank You\" (Extended)(1981) Alicia Myers",
+   "uri": "https://www.youtube.com/watch?v=0jrHOYcBN8Y"
+  },
+  {
+   "duration": 380,
+   "title": "Alicia Myers - I want to thank you",
+   "uri": "https://www.youtube.com/watch?v=R9wGnnwBc9M"
+  }
+ ],
  "year": 2019
 }

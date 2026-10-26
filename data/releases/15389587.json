@@ -82,5 +82,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/15389587-Felipe-Gordon-Jupiter-EP",
+ "videos": [
+  {
+   "duration": 449,
+   "title": "The Júpiter Song",
+   "uri": "https://www.youtube.com/watch?v=LxH68v4vtK8"
+  },
+  {
+   "duration": 410,
+   "title": "Hey, Keep Going",
+   "uri": "https://www.youtube.com/watch?v=VDyZ9qD_3WE"
+  },
+  {
+   "duration": 366,
+   "title": "Acid Horizontal Polka",
+   "uri": "https://www.youtube.com/watch?v=SA3RK-NcxsE"
+  },
+  {
+   "duration": 430,
+   "title": "Snake Jazz",
+   "uri": "https://www.youtube.com/watch?v=TCpWvIPcSQY"
+  },
+  {
+   "duration": 449,
+   "title": "The Júpiter Song",
+   "uri": "https://www.youtube.com/watch?v=LxH68v4vtK8"
+  },
+  {
+   "duration": 410,
+   "title": "Hey, Keep Going",
+   "uri": "https://www.youtube.com/watch?v=VDyZ9qD_3WE"
+  },
+  {
+   "duration": 366,
+   "title": "Acid Horizontal Polka",
+   "uri": "https://www.youtube.com/watch?v=SA3RK-NcxsE"
+  },
+  {
+   "duration": 430,
+   "title": "Snake Jazz",
+   "uri": "https://www.youtube.com/watch?v=TCpWvIPcSQY"
+  }
+ ],
  "year": 2020
 }

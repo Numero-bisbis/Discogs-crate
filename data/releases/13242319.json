@@ -107,5 +107,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/13242319-Phillipi-Rodrigo-Paciencia",
+ "videos": [
+  {
+   "duration": 219,
+   "title": "Phillipi & Rodrigo - Retrogrado - Video",
+   "uri": "https://www.youtube.com/watch?v=x_ECN3PqSZI"
+  },
+  {
+   "duration": 395,
+   "title": "Phillipi & Rodrigo - PACIENCIA DEEWEEDUB' DEEWEE033",
+   "uri": "https://www.youtube.com/watch?v=N1ViK2EbB4Q"
+  },
+  {
+   "duration": 297,
+   "title": "Barbarella",
+   "uri": "https://www.youtube.com/watch?v=lwrSQGORBB8"
+  },
+  {
+   "duration": 258,
+   "title": "Minas",
+   "uri": "https://www.youtube.com/watch?v=VNYzo5JTEzU"
+  },
+  {
+   "duration": 260,
+   "title": "Magnetico",
+   "uri": "https://www.youtube.com/watch?v=2O7ncjGi06w"
+  },
+  {
+   "duration": 187,
+   "title": "Rotina",
+   "uri": "https://www.youtube.com/watch?v=hNa_17UrBPg"
+  },
+  {
+   "duration": 266,
+   "title": "Face",
+   "uri": "https://www.youtube.com/watch?v=pBfWb5CQzrg"
+  },
+  {
+   "duration": 247,
+   "title": "Retrogrado",
+   "uri": "https://www.youtube.com/watch?v=g0K2f9I49Q8"
+  }
+ ],
  "year": 2019
 }

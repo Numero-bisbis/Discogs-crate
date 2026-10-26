@@ -109,5 +109,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/34717032-Himiko-Kikuchi-Flying-Beagle",
+ "videos": [
+  {
+   "duration": 299,
+   "title": "Look Your Back!",
+   "uri": "https://www.youtube.com/watch?v=axcAGi3b5W0"
+  },
+  {
+   "duration": 296,
+   "title": "A Seagull & Clouds",
+   "uri": "https://www.youtube.com/watch?v=ssfSHsnHFqM"
+  },
+  {
+   "duration": 391,
+   "title": "Flying Beagle",
+   "uri": "https://www.youtube.com/watch?v=_WQ4bAw66CU"
+  },
+  {
+   "duration": 298,
+   "title": "Fluffy",
+   "uri": "https://www.youtube.com/watch?v=rtvMzm96PtU"
+  },
+  {
+   "duration": 340,
+   "title": "Sand Storm",
+   "uri": "https://www.youtube.com/watch?v=IhU5iIju6eI"
+  },
+  {
+   "duration": 337,
+   "title": "Baby Talk",
+   "uri": "https://www.youtube.com/watch?v=SkDiNiyc4hY"
+  },
+  {
+   "duration": 373,
+   "title": "The Second Summer",
+   "uri": "https://www.youtube.com/watch?v=8nwSrakHPjc"
+  },
+  {
+   "duration": 305,
+   "title": "Ducky Ducky",
+   "uri": "https://www.youtube.com/watch?v=6kwm_PMb2tg"
+  }
+ ],
  "year": 2025
 }

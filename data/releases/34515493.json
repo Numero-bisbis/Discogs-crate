@@ -145,5 +145,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/34515493-Kokoroko-Tuff-Times-Never-Last",
+ "videos": [
+  {
+   "duration": 264,
+   "title": "Never Lost",
+   "uri": "https://www.youtube.com/watch?v=q4iTRX0WuVc"
+  },
+  {
+   "duration": 324,
+   "title": "Closer To Me",
+   "uri": "https://www.youtube.com/watch?v=4HSvGtUx9lU"
+  },
+  {
+   "duration": 277,
+   "title": "Three Piece Suit (feat. Azekel)",
+   "uri": "https://www.youtube.com/watch?v=l5JQAMB-iYQ"
+  },
+  {
+   "duration": 244,
+   "title": "Kokoroko - Da Du Dah (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=7X_5Ka6xuFo"
+  },
+  {
+   "duration": 245,
+   "title": "Kokoroko - Sweetie - Visualiser",
+   "uri": "https://www.youtube.com/watch?v=VDrS1qrHllE"
+  }
+ ],
  "year": 2025
 }

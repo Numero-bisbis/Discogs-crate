@@ -302,5 +302,57 @@
   }
  ],
  "uri": "https://www.discogs.com/release/22786961-TylerCreator-Call-Me-If-You-Get-Lost",
+ "videos": [
+  {
+   "duration": 332,
+   "title": "Tyler, The Creator - CORSO (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=Lqvwm3zAILI"
+  },
+  {
+   "duration": 86,
+   "title": "Tyler, The Creator - LEMONHEAD (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=a5JCltuobqQ"
+  },
+  {
+   "duration": 121,
+   "title": "Tyler, The Creator - WUSYANAME (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=NJea386275c"
+  },
+  {
+   "duration": 79,
+   "title": "Tyler, The Creator - LUMBERJACK (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=R4Y7JIQlv20"
+  },
+  {
+   "duration": 102,
+   "title": "HOT WIND BLOWS",
+   "uri": "https://www.youtube.com/watch?v=3bgc3k-s0yg"
+  },
+  {
+   "duration": 96,
+   "title": "Tyler, The Creator - JUGGERNAUT (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=icoOOiSlKK0"
+  },
+  {
+   "duration": 219,
+   "title": "WHARF TALK",
+   "uri": "https://www.youtube.com/watch?v=27FswS3KESk"
+  },
+  {
+   "duration": 177,
+   "title": "DOGTOOTH",
+   "uri": "https://www.youtube.com/watch?v=2TVXi_9Bvlg"
+  },
+  {
+   "duration": 239,
+   "title": "HEAVEN TO ME",
+   "uri": "https://www.youtube.com/watch?v=wm_hfvgakcM"
+  },
+  {
+   "duration": 203,
+   "title": "SORRY NOT SORRY",
+   "uri": "https://www.youtube.com/watch?v=LSIOcCcEVaE"
+  }
+ ],
  "year": 2022
 }

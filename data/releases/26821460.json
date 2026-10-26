@@ -1096,5 +1096,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/26821460-Dr-Dre-The-Chronic",
+ "videos": [
+  {
+   "duration": 3798,
+   "title": "Dr. Dre The Chronic 1992",
+   "uri": "https://www.youtube.com/watch?v=kzXAe94y1G8"
+  },
+  {
+   "duration": 0,
+   "title": "Dr. Dre - The Chronic (Instrumental Album)",
+   "uri": "https://www.youtube.com/watch?v=XKHsiXgXKLc"
+  }
+ ],
  "year": 2023
 }

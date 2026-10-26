@@ -297,5 +297,57 @@
   }
  ],
  "uri": "https://www.discogs.com/release/27342945-Lil-Wayne-Tha-Carter-III",
+ "videos": [
+  {
+   "duration": 302,
+   "title": "Lil Wayne - Lollipop ft. Static (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=2IH8tNQAzSs"
+  },
+  {
+   "duration": 246,
+   "title": "Lil Wayne - A Milli",
+   "uri": "https://www.youtube.com/watch?v=1Vf4mMCpNY0"
+  },
+  {
+   "duration": 278,
+   "title": "Lil Wayne - Got Money ft. T-Pain (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=1ohYsK5Y8Dc"
+  },
+  {
+   "duration": 200,
+   "title": "3 Peat",
+   "uri": "https://www.youtube.com/watch?v=sINGvrL61VY"
+  },
+  {
+   "duration": 317,
+   "title": "Mr. Carter",
+   "uri": "https://www.youtube.com/watch?v=pWe75xfn3NA"
+  },
+  {
+   "duration": 309,
+   "title": "Let The Beat Build",
+   "uri": "https://www.youtube.com/watch?v=Acu5xHka6Wg"
+  },
+  {
+   "duration": 270,
+   "title": "Shoot Me Down",
+   "uri": "https://www.youtube.com/watch?v=5txQ3Dl4xnY"
+  },
+  {
+   "duration": 192,
+   "title": "Phone Home",
+   "uri": "https://www.youtube.com/watch?v=1Yym6yveYAY"
+  },
+  {
+   "duration": 266,
+   "title": "Comfortable",
+   "uri": "https://www.youtube.com/watch?v=qDMm0nKaXVU"
+  },
+  {
+   "duration": 287,
+   "title": "Mrs. Officer",
+   "uri": "https://www.youtube.com/watch?v=x2MJXrCaAYY"
+  }
+ ],
  "year": 2023
 }

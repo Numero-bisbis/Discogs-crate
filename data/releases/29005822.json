@@ -247,5 +247,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/29005822-Folamour-Manifesto",
+ "videos": [
+  {
+   "duration": 444,
+   "title": "Manifesto",
+   "uri": "https://www.youtube.com/watch?v=2AmHr5hDp2c"
+  },
+  {
+   "duration": 284,
+   "title": "Folamour, Amadou & Mariam - Voyage (Visualizer)",
+   "uri": "https://www.youtube.com/watch?v=jYl8-1dall4"
+  },
+  {
+   "duration": 339,
+   "title": "Folamour - Poundland Anthem (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=Cs2FxHxYYBU"
+  },
+  {
+   "duration": 273,
+   "title": "Amore",
+   "uri": "https://www.youtube.com/watch?v=tpz9SAsCr8s"
+  },
+  {
+   "duration": 195,
+   "title": "ᐸ/3 Heartbroken",
+   "uri": "https://www.youtube.com/watch?v=2fHLDnj-j2k"
+  },
+  {
+   "duration": 394,
+   "title": "Isla Nostalgia",
+   "uri": "https://www.youtube.com/watch?v=qFd_MUZDIsI"
+  },
+  {
+   "duration": 333,
+   "title": "When A Piano Saves The Day",
+   "uri": "https://www.youtube.com/watch?v=LDdyHeCKmkk"
+  },
+  {
+   "duration": 258,
+   "title": "City Life",
+   "uri": "https://www.youtube.com/watch?v=bDEGoFXAWEc"
+  }
+ ],
  "year": 2023
 }

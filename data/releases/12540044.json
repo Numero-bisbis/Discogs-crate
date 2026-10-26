@@ -70,5 +70,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12540044-James-Welsh-ZurichA65",
+ "videos": [
+  {
+   "duration": 416,
+   "title": "James Welsh - Zurich [PH71]",
+   "uri": "https://www.youtube.com/watch?v=7nqwUcGtgfY"
+  },
+  {
+   "duration": 414,
+   "title": "A65",
+   "uri": "https://www.youtube.com/watch?v=BqDJ3Bm-EYk"
+  }
+ ],
  "year": 2018
 }

@@ -76,5 +76,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14430576-Asquith-Let-Me-EP",
+ "videos": [
+  {
+   "duration": 388,
+   "title": "Asquith - Let Me (Rave Mix) [ASQ004]",
+   "uri": "https://www.youtube.com/watch?v=IhkuARmR8fs"
+  },
+  {
+   "duration": 379,
+   "title": "Asquith - Terror Barrier [ASQ004]",
+   "uri": "https://www.youtube.com/watch?v=D-OC1yyalBc"
+  },
+  {
+   "duration": 565,
+   "title": "Asquith - Higher Power [ASQ004]",
+   "uri": "https://www.youtube.com/watch?v=lKwAFc1OYf4"
+  },
+  {
+   "duration": 388,
+   "title": "Asquith - Let Me (Rave Mix) [ASQ004]",
+   "uri": "https://www.youtube.com/watch?v=IhkuARmR8fs"
+  },
+  {
+   "duration": 379,
+   "title": "Asquith - Terror Barrier [ASQ004]",
+   "uri": "https://www.youtube.com/watch?v=D-OC1yyalBc"
+  },
+  {
+   "duration": 565,
+   "title": "Asquith - Higher Power [ASQ004]",
+   "uri": "https://www.youtube.com/watch?v=lKwAFc1OYf4"
+  }
+ ],
  "year": 2019
 }

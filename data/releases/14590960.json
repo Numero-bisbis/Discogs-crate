@@ -514,5 +514,62 @@
   }
  ],
  "uri": "https://www.discogs.com/release/14590960-Snoop-Dogg-R-G-Rhythm-Gangsta-The-Masterpiece",
+ "videos": [
+  {
+   "duration": 351,
+   "title": "Perfect",
+   "uri": "https://www.youtube.com/watch?v=gIxu26gd-n0"
+  },
+  {
+   "duration": 209,
+   "title": "The Bidness",
+   "uri": "https://www.youtube.com/watch?v=QXTTUXhPdio"
+  },
+  {
+   "duration": 198,
+   "title": "Snoop Dogg - Promise I",
+   "uri": "https://www.youtube.com/watch?v=Gmfv_WEyENI"
+  },
+  {
+   "duration": 281,
+   "title": "No Thang On Me",
+   "uri": "https://www.youtube.com/watch?v=54UvaG3IPfM"
+  },
+  {
+   "duration": 281,
+   "title": "Let's Get Blown",
+   "uri": "https://www.youtube.com/watch?v=jbcGlDfXyTI"
+  },
+  {
+   "duration": 310,
+   "title": "Snoop Dogg - Ups & Downs",
+   "uri": "https://www.youtube.com/watch?v=8IDbFSoKZGo"
+  },
+  {
+   "duration": 267,
+   "title": "Drop It Like It's Hot",
+   "uri": "https://www.youtube.com/watch?v=ldjajgAHAu4"
+  },
+  {
+   "duration": 186,
+   "title": "Bang Out",
+   "uri": "https://www.youtube.com/watch?v=uWCzyTvBUxI"
+  },
+  {
+   "duration": 242,
+   "title": "Oh No",
+   "uri": "https://www.youtube.com/watch?v=Ymrcka0Y1tw"
+  },
+  {
+   "duration": 325,
+   "title": "Can I Get A Flicc Witchu",
+   "uri": "https://www.youtube.com/watch?v=nw_w7O8vLIA"
+  },
+  {
+   "duration": 239,
+   "title": "Snoop Dogg - Signs (Official Music Video) ft. Justin Timberlake, Charlie Wilson",
+   "uri": "https://www.youtube.com/watch?v=seBqMu8CCtg"
+  }
+ ],
  "year": 2019
 }
