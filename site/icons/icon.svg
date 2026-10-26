@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="35%" r="80%"><stop offset="0" stop-color="#2a2420"/><stop offset="1" stop-color="#0e0d0c"/></radialGradient>
+    <radialGradient id="vinyl" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#1c1c1c"/><stop offset="1" stop-color="#050505"/></radialGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".45" stop-color="#fff" stop-opacity=".16"/><stop offset=".55" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="212" fill="url(#vinyl)"/>
+  <g fill="none" stroke="#2b2b2b" stroke-width="1.6">
+    <circle cx="256" cy="256" r="200"/><circle cx="256" cy="256" r="188"/><circle cx="256" cy="256" r="176"/><circle cx="256" cy="256" r="164"/>
+    <circle cx="256" cy="256" r="150"/><circle cx="256" cy="256" r="138"/><circle cx="256" cy="256" r="126"/><circle cx="256" cy="256" r="114"/><circle cx="256" cy="256" r="102"/>
+  </g>
+  <circle cx="256" cy="256" r="212" fill="url(#shine)"/>
+  <!-- label: the 12 Camelot hours as coloured slices -->
+  <g transform="translate(256 256)">
+    <path d="M0 0 L-21.7 -81.1 A84 84 0 0 1 21.7 -81.1 Z" fill="#e8a33d"/>
+    <path d="M0 0 L21.7 -81.1 A84 84 0 0 1 59.4 -59.4 Z" fill="#e8c13d"/>
+    <path d="M0 0 L59.4 -59.4 A84 84 0 0 1 81.1 -21.7 Z" fill="#b8d34a"/>
+    <path d="M0 0 L81.1 -21.7 A84 84 0 0 1 81.1 21.7 Z" fill="#62c46b"/>
+    <path d="M0 0 L81.1 21.7 A84 84 0 0 1 59.4 59.4 Z" fill="#3fbf9a"/>
+    <path d="M0 0 L59.4 59.4 A84 84 0 0 1 21.7 81.1 Z" fill="#38b6c9"/>
+    <path d="M0 0 L21.7 81.1 A84 84 0 0 1 -21.7 81.1 Z" fill="#4a92e0"/>
+    <path d="M0 0 L-21.7 81.1 A84 84 0 0 1 -59.4 59.4 Z" fill="#6b72e6"/>
+    <path d="M0 0 L-59.4 59.4 A84 84 0 0 1 -81.1 21.7 Z" fill="#9a62e0"/>
+    <path d="M0 0 L-81.1 21.7 A84 84 0 0 1 -81.1 -21.7 Z" fill="#c95ccf"/>
+    <path d="M0 0 L-81.1 -21.7 A84 84 0 0 1 -59.4 -59.4 Z" fill="#e05a9a"/>
+    <path d="M0 0 L-59.4 -59.4 A84 84 0 0 1 -21.7 -81.1 Z" fill="#e8664f"/>
+    <circle r="30" fill="#e8a33d"/>
+    <circle r="9" fill="#0e0d0c"/>
+  </g>
+</svg>

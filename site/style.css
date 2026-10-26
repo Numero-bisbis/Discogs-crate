@@ -18,7 +18,7 @@ button.danger { color: var(--bad); }
 select, input { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 6px 8px; min-width: 0; }
 input:focus, select:focus, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
 
-.top { position: sticky; top: 0; z-index: 5; display: flex; gap: 16px; align-items: center; padding: 10px 16px; background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+.top { position: sticky; top: 0; z-index: 5; display: flex; gap: 16px; align-items: center; padding: 10px 16px; background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); flex-wrap: wrap; padding-top: max(10px, env(safe-area-inset-top)); }
 .brand { font-weight: 700; font-size: 18px; display: flex; align-items: center; gap: 8px; letter-spacing: .02em; }
 .disc { width: 22px; height: 22px; border-radius: 50%; background: radial-gradient(circle, var(--bg) 0 2px, var(--accent) 3px 7px, #0c0c0c 8px); box-shadow: 0 0 0 1px var(--line); }
 .tabs { display: flex; gap: 4px; }
@@ -92,12 +92,13 @@ td small { color: var(--muted); }
 .mix-name:hover, .mix-name:focus { border-color: var(--line); padding-left: 8px; }
 .actions { display: flex; gap: 6px; flex-wrap: wrap; }
 ol.mix { list-style: none; padding: 0; margin: 10px 0 24px; }
-.item { display: grid; grid-template-columns: 16px 48px 1fr auto auto; gap: 10px; align-items: center; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; }
+.item { display: grid; grid-template-columns: 28px 48px 1fr auto auto; gap: 10px; align-items: center; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; }
 .item.missing { display: block; color: var(--muted); }
-.item.dragging { opacity: .4; } .item.over { border-color: var(--accent); }
+.item.dragging { position: relative; z-index: 3; box-shadow: 0 8px 24px rgb(0 0 0 / .35); border-color: var(--accent); opacity: .95; }
+.item.drop-before { box-shadow: 0 -3px 0 var(--accent); } .item.drop-after { box-shadow: 0 3px 0 var(--accent); }
 .item .noimg { width: 48px; height: 48px; border-radius: 4px; background: var(--panel2); }
 .item img { width: 48px; height: 48px; border-radius: 4px; object-fit: cover; background: var(--panel2); }
-.grip { color: var(--muted); cursor: grab; }
+.grip { color: var(--muted); cursor: grab; touch-action: none; user-select: none; -webkit-user-select: none; display: flex; align-items: center; justify-content: center; align-self: stretch; margin: -8px 0 -8px -10px; padding: 0 4px 0 10px; font-size: 16px; letter-spacing: -2px; }
 .ti { display: flex; flex-direction: column; min-width: 0; }
 .ti span, .ti small { color: var(--muted); } .ti small { font-size: 12px; }
 .tk { display: flex; align-items: center; gap: 8px; }
@@ -123,9 +124,10 @@ code { background: var(--panel2); padding: 1px 5px; border-radius: 4px; }
   #search { order: 3; max-width: none; width: 100%; margin: 0; }
   .grid { grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 10px; }
   .mix-layout { grid-template-columns: 1fr; }
-  .item { grid-template-columns: 40px 1fr auto; }
-  .item .grip { display: none; } .item img { width: 40px; height: 40px; }
-  .item .mv { grid-column: 1 / -1; justify-content: flex-end; }
+  .item { grid-template-columns: 30px 40px 1fr auto; }
+  .item img, .item .noimg { width: 40px; height: 40px; }
+  .item .grip { font-size: 20px; grid-row: span 2; }
+  .item .mv { grid-column: 3 / -1; justify-content: flex-end; }
   .trans { padding-left: 24px; } .trans::before { left: 8px; }
   .rec-head img { width: 120px; height: 120px; }
 }
@@ -139,3 +141,7 @@ button.wide { width: 100%; margin-top: 10px; }
 .src-est { color: var(--ok); border-color: color-mix(in srgb, var(--ok) 40%, transparent); }
 .src-you { color: var(--accent); border-color: color-mix(in srgb, var(--accent) 50%, transparent); }
 .src-none { color: var(--bad); border-color: color-mix(in srgb, var(--bad) 40%, transparent); }
+
+.draft-bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; background: color-mix(in srgb, var(--accent) 12%, var(--panel)); border: 1px solid color-mix(in srgb, var(--accent) 45%, transparent); border-radius: 10px; padding: 10px 12px; margin: 8px 0; }
+.draft-tag { font-style: normal; font-size: 11px; color: var(--accent); margin-left: 4px; }
+.mix-list li button span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }

@@ -419,10 +419,11 @@
       const m = newMix(name);
       m.tracks = res.tracks;
       m.generated = { ...gen };
+      m.draft = true;
       saveUser();
       $('#drawer').hidden = true;
       setView('mixes');
-      toast(res.short ? `Only found ${res.tracks.length} tracks that chain well` : 'Mix generated');
+      toast(res.short ? `Only found ${res.tracks.length} tracks that chain well` : 'Draft mix ready');
     };
     $('#drawer').hidden = false;
   }
@@ -442,7 +443,7 @@
   }
 
   function renderMixes() {
-    $('#mixes').innerHTML = user.mixes.map((m) => `<li><button data-id="${m.id}" class="${m.id === currentMixId ? 'active' : ''}">${esc(m.name)} <small>${m.tracks.length}</small></button></li>`).join('') || '<li class="empty">No mixes yet.</li>';
+    $('#mixes').innerHTML = user.mixes.map((m) => `<li><button data-id="${m.id}" class="${m.id === currentMixId ? 'active' : ''}"><span>${esc(m.name)}${m.draft ? ' <em class="draft-tag">draft</em>' : ''}</span> <small>${m.tracks.length}</small></button></li>`).join('') || '<li class="empty">No mixes yet.</li>';
     $$('#mixes button').forEach((b) => (b.onclick = () => { currentMixId = b.dataset.id; store.set('currentMix', currentMixId); renderMixes(); }));
     const m = currentMix();
     const main = $('#mix-main');
@@ -452,8 +453,13 @@
     }
     const items = m.tracks.map(trackObj);
     let html = `<div class="row mix-head"><input class="mix-name" value="${esc(m.name)}" aria-label="Mix name">
-      <div class="actions">${m.generated ? '<button class="small" data-a="regen" title="Same settings, different picks">Regenerate</button>' : ''}<button class="small" data-a="auto" title="Reorder for smoothest BPM and key steps">Auto-order</button>
+      <div class="actions"><button class="small" data-a="auto" title="Reorder for smoothest BPM and key steps">Auto-order</button>
+      <button class="small" data-a="dup" title="Make a copy to try a variation">Duplicate</button>
       <button class="small" data-a="copy">Copy as text</button><button class="small danger" data-a="del">Delete</button></div></div>`;
+    if (m.draft) {
+      html += `<div class="draft-bar"><div><b>Draft.</b> Happy with it? Save it to keep it. You can still rename, reorder, add and remove tracks afterwards.</div>
+        <div class="actions"><button class="primary" data-a="save">Save mix</button><button data-a="regen" title="Same settings, different picks">Regenerate</button><button data-a="discard">Discard</button></div></div>`;
+    }
     const recs = new Map();
     items.forEach((t) => t && recs.set(t.r.iid || t.r.id, t.r));
     const total = items.reduce((s, t) => s + ((t && t.dur) || 0), 0);
@@ -461,7 +467,7 @@
     items.forEach((t, i) => {
       if (!t) { html += `<li class="item missing" data-i="${i}">A track that's no longer in your collection <button class="small" data-rm="${i}">Remove</button></li>`; return; }
       if (i > 0 && items[i - 1]) html += transitionHtml(items[i - 1], t);
-      html += `<li class="item" draggable="true" data-i="${i}"><span class="grip" aria-hidden="true">⋮⋮</span>
+      html += `<li class="item" data-i="${i}"><span class="grip" title="Drag to reorder" aria-label="Drag to reorder">⋮⋮</span>
         ${t.r.thumb ? `<img src="${esc(t.r.thumb)}" alt="" loading="lazy">` : '<span class="noimg"></span>'}
         <div class="ti"><b>${esc(t.title)}</b><span>${esc(t.artist)}</span><small>${esc(t.r.title)} · ${esc(t.r.labels[0]?.catno || '')} · side ${esc(t.side || '?')}, <b>${esc(t.pos)}</b></small></div>
         <div class="tk"><span class="bpm">${t.bpm ? t.bpm : '–'}</span>${camBadge(t.cam, t.key)}</div>
@@ -493,6 +499,13 @@
       if (b.dataset.a === 'auto') { autoOrder(m); renderMixes(); toast('Reordered'); }
       if (b.dataset.a === 'regen') { const res = generateMix(m.generated); if (!res.error) { m.tracks = res.tracks; saveUser(); renderMixes(); toast('New version'); } }
       if (b.dataset.a === 'copy') copyMix(m);
+      if (b.dataset.a === 'save') { m.draft = false; saveUser(); renderMixes(); toast('Mix saved'); }
+      if (b.dataset.a === 'discard') { user.mixes = user.mixes.filter((x) => x !== m); currentMixId = user.mixes[0]?.id || null; store.set('currentMix', currentMixId); saveUser(); renderMixes(); toast('Draft discarded'); }
+      if (b.dataset.a === 'dup') {
+        const c = { ...m, id: uid(), name: m.name + ' (copy)', tracks: [...m.tracks], draft: false, created: Date.now() };
+        user.mixes.splice(user.mixes.indexOf(m), 0, c);
+        currentMixId = c.id; store.set('currentMix', currentMixId); saveUser(); renderMixes(); toast('Copy made');
+      }
       if (b.dataset.a === 'del') {
         if (b.dataset.armed) { user.mixes = user.mixes.filter((x) => x !== m); currentMixId = user.mixes[0]?.id || null; store.set('currentMix', currentMixId); saveUser(); renderMixes(); }
         else { b.dataset.armed = '1'; b.textContent = 'Click again to delete'; }
@@ -502,15 +515,50 @@
     $$('[data-up]', main).forEach((b) => (b.onclick = () => move(+b.dataset.up, +b.dataset.up - 1)));
     $$('[data-down]', main).forEach((b) => (b.onclick = () => move(+b.dataset.down, +b.dataset.down + 1)));
     $$('[data-rm]', main).forEach((b) => (b.onclick = () => { m.tracks.splice(+b.dataset.rm, 1); saveUser(); renderMixes(); }));
-    let dragFrom = null;
-    $$('li.item[draggable]', main).forEach((li) => {
-      li.ondragstart = (e) => { dragFrom = +li.dataset.i; e.dataTransfer.effectAllowed = 'move'; li.classList.add('dragging'); };
-      li.ondragend = () => li.classList.remove('dragging');
-      li.ondragover = (e) => { e.preventDefault(); li.classList.add('over'); };
-      li.ondragleave = () => li.classList.remove('over');
-      li.ondrop = (e) => { e.preventDefault(); if (dragFrom !== null) move(dragFrom, +li.dataset.i); dragFrom = null; };
-    });
+    wireDrag(main, move);
     $$('table.sug .add', main).forEach((b) => (b.onclick = () => addToMix(b.closest('tr').dataset.k)));
+  }
+
+  // Drag by the grip to reorder. Pointer events, so it works with a finger on iPhone as well as a mouse.
+  function wireDrag(main, move) {
+    $$('.grip', main).forEach((grip) => {
+      grip.onpointerdown = (e) => {
+        e.preventDefault();
+        const li = grip.closest('li.item');
+        const from = +li.dataset.i;
+        const items = $$('li.item', main);
+        const rects = items.map((x) => x.getBoundingClientRect());
+        const r0 = li.getBoundingClientRect();
+        const startY = e.clientY, startScroll = window.scrollY;
+        let to = from;
+        li.classList.add('dragging');
+        grip.setPointerCapture(e.pointerId);
+        const mark = () => items.forEach((x, k) => { x.classList.toggle('drop-before', k === to && to < from); x.classList.toggle('drop-after', k === to && to > from); });
+        grip.onpointermove = (ev) => {
+          if (ev.clientY < 150) window.scrollBy(0, -12);
+          else if (ev.clientY > window.innerHeight - 70) window.scrollBy(0, 12);
+          const dy = ev.clientY - startY + (window.scrollY - startScroll);
+          li.style.transform = `translateY(${dy}px)`;
+          const center = r0.top + r0.height / 2 + dy;
+          to = from;
+          rects.forEach((rc, k) => {
+            const mid = rc.top + rc.height / 2;
+            if (k < from && center < mid) to = Math.min(to, k);
+            if (k > from && center > mid) to = Math.max(to, k);
+          });
+          mark();
+        };
+        const end = () => {
+          grip.onpointermove = grip.onpointerup = grip.onpointercancel = null;
+          li.style.transform = '';
+          li.classList.remove('dragging');
+          items.forEach((x) => x.classList.remove('drop-before', 'drop-after'));
+          if (to !== from) move(from, to);
+        };
+        grip.onpointerup = end;
+        grip.onpointercancel = end;
+      };
+    });
   }
 
   function copyMix(m) {
