@@ -321,7 +321,10 @@
       select('cam', 'Key', camOptions(), rf.cam, 'Any') +
       `<label class="f keep"><span>Sort</span><select data-f="sort">${[['added', 'Recently added'], ['artist', 'Artist'], ['title', 'Title'], ['year', 'Year (new → old)'], ['yearAsc', 'Year (old → new)'], ['label', 'Label / cat no.'], ['rating', 'My rating']]
         .map(([v, n]) => `<option value="${v}"${rf.sort === v ? ' selected' : ''}>${n}</option>`).join('')}</select></label>` +
-      `<span class="count">${list.length} of ${all.length} records</span>`;
+      `<span class="count">${list.length} of ${all.length} records</span>` +
+      `<button type="button" class="crate-btn" title="Flick through covers. Turning the phone sideways opens it too."><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="9" y="5" width="6" height="14" rx="1"/><path d="M6.5 6.5 3 8v8l3.5 1.5M17.5 6.5 21 8v8l-3.5 1.5"/></svg>Crate</button>`;
+    recordList = list;
+    $('#record-filters .crate-btn').onclick = () => openCrate();
     $$('#record-filters select, #record-filters input').forEach((s) => (s.onchange = () => { rf[s.dataset.f] = s.value; store.set('rf', rf); renderRecords(); }));
     wireFilterHead('record-filters', rf, RK, () => { store.set('rf', rf); renderRecords(); });
 
@@ -332,6 +335,84 @@
         </button>`).join('')
       : `<p class="empty">${DATA.releases.length ? 'No records match these filters.' : 'No records yet. The first sync fills this in.'}</p>`;
     $$('#record-grid .card').forEach((c) => (c.onclick = () => openRecord(DATA.releases.find((r) => String(r.iid || r.id) === c.dataset.id))));
+  }
+
+  // ---------- Crate mode: flick through the covers of the records shown in Records ----------
+  let recordList = [];
+  let crateAt = 0;
+  function openCrate() {
+    const list = recordList;
+    if (!list.length) return;
+    const el = $('#crate');
+    const cover = (r) => (r.cover && !/spacer\.gif/.test(r.cover) ? r.cover : '');
+    $('.cf', el).innerHTML = list.map((r, i) => `<div class="cf-item" data-i="${i}"><div class="cf-cover">${cover(r) ? `<img data-src="${esc(cover(r))}" alt="">` : `<div class="nocover"></div>`}</div></div>`).join('');
+    el.hidden = false;
+    document.body.classList.add('crate-on');
+    crateAt = Math.min(crateAt, list.length - 1);
+    requestAnimationFrame(() => { crateScrollTo(crateAt, false); crateLayout(); });
+  }
+  function closeCrate() {
+    $('#crate').hidden = true;
+    document.body.classList.remove('crate-on');
+  }
+  function crateStep() { return $('#crate .cf-item')?.offsetWidth || 1; }
+  function crateScrollTo(i, smooth = true) {
+    $('#crate .cf').scrollTo({ left: i * crateStep(), behavior: smooth && !reduceMotion() ? 'smooth' : 'auto' });
+  }
+  function crateLayout() {
+    const box = $('#crate .cf');
+    const step = crateStep();
+    const pos = box.scrollLeft / step;
+    const items = box.children;
+    const W = $('#crate .cf-cover')?.offsetWidth || step;
+    const push = (W - step) / 2 + 12;
+    const lo = Math.max(0, Math.floor(pos) - 14), hi = Math.min(items.length - 1, Math.ceil(pos) + 14);
+    for (let i = lo; i <= hi; i++) {
+      const d = i - pos, a = Math.abs(d), sg = Math.sign(d), k = Math.min(a, 1);
+      const c = items[i].firstChild;
+      // Covers past the first neighbour bunch up, as in Cover Flow.
+      c.style.transform = `perspective(900px) translateX(${sg * push * k - sg * Math.max(0, a - 1) * step * 0.62}px) translateZ(${(1 - k) * 60}px) rotateY(${-sg * 52 * k}deg)`;
+      items[i].style.zIndex = 1000 - Math.round(a * 10);
+      const img = c.firstChild;
+      if (img.dataset && img.dataset.src && !img.src) img.src = img.dataset.src;
+    }
+    const i = Math.max(0, Math.min(items.length - 1, Math.round(pos)));
+    if (i !== crateAt || !$('#crate .cf-info').dataset.i) {
+      crateAt = i;
+      const r = recordList[i];
+      const info = $('#crate .cf-info');
+      info.dataset.i = i;
+      info.innerHTML = `<b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small>`;
+      $('#crate .cf-count').textContent = `${i + 1} of ${recordList.length}`;
+    }
+  }
+  function wireCrate() {
+    const el = $('#crate');
+    const box = $('.cf', el);
+    let raf = 0;
+    box.addEventListener('scroll', () => { if (!raf) raf = requestAnimationFrame(() => { raf = 0; crateLayout(); }); }, { passive: true });
+    box.addEventListener('click', (e) => {
+      const it = e.target.closest('.cf-item');
+      if (!it) return;
+      const i = +it.dataset.i;
+      if (i === crateAt) openRecord(recordList[i]); else crateScrollTo(i);
+    });
+    $('.cf-close', el).onclick = closeCrate;
+    $('.cf-open', el).onclick = () => openRecord(recordList[crateAt]);
+    document.addEventListener('keydown', (e) => {
+      if (el.hidden || $('#drawer').classList.contains('open')) return;
+      if (e.key === 'ArrowRight') crateScrollTo(Math.min(recordList.length - 1, crateAt + 1));
+      if (e.key === 'ArrowLeft') crateScrollTo(Math.max(0, crateAt - 1));
+      if (e.key === 'Enter') openRecord(recordList[crateAt]);
+      if (e.key === 'Escape') closeCrate();
+    });
+    window.addEventListener('resize', () => { if (!el.hidden) { crateScrollTo(crateAt, false); crateLayout(); } });
+    // Like the iPod: turn the phone sideways on Records and the crate opens; turn it back and it closes.
+    const sideways = matchMedia('(orientation: landscape) and (max-height: 500px)');
+    sideways.addEventListener('change', (m) => {
+      if (m.matches && view === 'records' && !$('#drawer').classList.contains('open')) openCrate();
+      else if (!m.matches && !el.hidden) closeCrate();
+    });
   }
 
   function openRecord(r) {
@@ -1034,6 +1115,7 @@
     $('.drawer-back').onclick = closeDrawer;
     $('.drawer .close').onclick = closeDrawer;
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && $('#drawer').classList.contains('open')) closeDrawer(); });
+    wireCrate();
     // Back button / swipe-back closes an open record instead of leaving the app.
     window.addEventListener('popstate', () => { if ($('#drawer').classList.contains('open')) hideDrawer(); });
   }

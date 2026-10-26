@@ -432,3 +432,30 @@ body.has-player main { padding-bottom: 300px; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
+
+/* Landscape phones: the record panel takes the whole screen, like in portrait */
+@media (orientation: landscape) and (max-height: 500px) {
+  .drawer-panel { width: 100%; padding-left: max(20px, env(safe-area-inset-left)); padding-right: max(20px, env(safe-area-inset-right)); }
+  .drawer-back { display: none; }
+}
+
+/* Crate mode: Cover Flow style flick-through of the records in view */
+.crate-btn { display: inline-flex; align-items: center; gap: 6px; background: var(--fill); color: var(--text); font-weight: 600; padding: 6px 12px; border-radius: 999px; font-size: 14px; }
+.crate-btn svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linejoin: round; stroke-linecap: round; }
+body.crate-on { overflow: hidden; }
+.crate { --cw: min(46vh, 34vw, 340px); position: fixed; inset: 0; z-index: 28; background: #000; color: #fff; display: flex; flex-direction: column; user-select: none; -webkit-user-select: none; }
+.cf-bar { display: flex; align-items: center; gap: 12px; padding: max(8px, env(safe-area-inset-top)) max(16px, env(safe-area-inset-right)) 4px max(12px, env(safe-area-inset-left)); }
+.cf-bar button { background: rgb(255 255 255 / .14); color: #fff; border-radius: 999px; font-weight: 600; font-size: 14px; padding: 7px 14px; }
+.cf-close { width: 36px; height: 36px; padding: 0 !important; display: grid; place-items: center; }
+.cf-close svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; }
+.cf-count { flex: 1; text-align: center; font-size: 13px; color: rgb(255 255 255 / .55); font-variant-numeric: tabular-nums; }
+.cf { flex: 1; display: flex; align-items: center; overflow-x: auto; overflow-y: hidden; scroll-snap-type: x mandatory; scrollbar-width: none;
+  padding: 0 calc(50% - var(--cw) * .2); -webkit-overflow-scrolling: touch; overscroll-behavior-x: contain; }
+.cf::-webkit-scrollbar { display: none; }
+.cf-item { flex: 0 0 calc(var(--cw) * .4); height: var(--cw); scroll-snap-align: center; display: flex; justify-content: center; position: relative; cursor: pointer; }
+.cf-cover { flex: none; width: var(--cw); height: var(--cw); position: relative; will-change: transform; transition: transform .08s linear;
+  -webkit-box-reflect: below 2px linear-gradient(transparent 62%, rgb(255 255 255 / .22)); }
+.cf-cover img, .cf-cover .nocover { width: 100%; height: 100%; object-fit: cover; display: block; background: #1c1c1e; border-radius: 2px; }
+.cf-info { text-align: center; padding: 6px 16px max(14px, env(safe-area-inset-bottom)); min-height: 74px; display: flex; flex-direction: column; gap: 2px; }
+.cf-info b { font-size: 17px; } .cf-info span { color: rgb(255 255 255 / .75); font-size: 15px; } .cf-info small { color: rgb(255 255 255 / .45); font-size: 12px; }
+@media (prefers-reduced-motion: reduce) { .cf-cover { transition: none; } }
