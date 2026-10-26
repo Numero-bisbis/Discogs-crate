@@ -53,7 +53,7 @@
     none: ['none', 'Looked up, nothing found: add it by hand'],
     pending: ['…', 'Not looked up yet; it will be within a day'],
   };
-  const srcTag = (e) => { const [tag, why] = SRC[e.src] || SRC.pending; return `<span class="src src-${tag === '…' ? 'pending' : tag === 'est.' ? 'est' : tag}" title="${esc(why)}">${tag}</span>`; };
+  const srcTag = (e) => { const [tag, why] = SRC[e.src] || SRC.pending; return `<span role="button" tabindex="0" data-why="${esc(tag + ': ' + why)}" class="src src-${tag === '…' ? 'pending' : tag === 'est.' ? 'est' : tag}" title="${esc(why)}">${tag}</span>`; };
 
   function index() {
     TRACKS = [];
@@ -493,7 +493,7 @@
         <p>${esc([r.format, r.country, r.year].filter(Boolean).join(' · '))}</p>
         <p class="tags">${[...r.genres, ...r.styles].map((g) => `<span>${esc(g)}</span>`).join('')}</p>
         <p><a class="ext" href="${esc(r.url)}" target="_blank" rel="noopener">Open on Discogs ↗</a></p></div></div>
-      <div class="table-wrap"><table class="tl"><thead><tr><th>Pos</th><th>Track</th><th>Time</th><th>BPM</th><th>Key</th><th>From</th><th></th></tr></thead><tbody>${rows || '<tr><td colspan="7">No tracklist yet.</td></tr>'}</tbody></table></div>
+      <div class="table-wrap"><table class="tl"><thead><tr><th>Pos</th><th>Track</th><th>Time</th><th>BPM</th><th>Key</th><th title="Where the BPM and key came from. Tap a tag to see what it means.">Source</th><th></th></tr></thead><tbody>${rows || '<tr><td colspan="7">No tracklist yet.</td></tr>'}</tbody></table></div>
       <p class="hint">From: <b>DB</b> = AcousticBrainz database, <b>est.</b> = estimated from a 30-second preview, <b>you</b> = your edit, <b>none</b> = nothing found, <b>…</b> = not looked up yet. Type over any value to fix it.</p>
       ${r.vids && r.vids.length ? `<h3>More videos <small>from this record's Discogs page</small></h3><div class="vids">${r.vids.map(([id, title]) => `<button class="vid" data-video="${esc(id)}" data-title="${esc(title)}" data-sub="${esc(r.artist + ' · ' + r.title)}">${PLAY_SVG}<span>${esc(title)}</span></button>`).join('')}</div>` : ''}`;
     wireEdits($('#drawer-body'));
@@ -577,7 +577,7 @@
     $$('#track-filters select, #track-filters input').forEach((s) => (s.onchange = () => { tf[s.dataset.f] = s.value; store.set('tf', tf); trackLimit = 300; renderTracks(); }));
     wireFilterHead('track-filters', tf, TK, () => { store.set('tf', tf); trackLimit = 300; renderTracks(); });
 
-    const head = [['pos', 'Pos'], ['title', 'Track'], ['artist', 'Artist'], ['record', 'Record'], ['bpm', 'BPM'], ['key', 'Key'], ['src', 'From'], ['dur', 'Time'], ['year', 'Year'], ['label', 'Label']];
+    const head = [['pos', 'Pos'], ['title', 'Track'], ['artist', 'Artist'], ['record', 'Record'], ['bpm', 'BPM'], ['key', 'Key'], ['src', 'Source'], ['dur', 'Time'], ['year', 'Year'], ['label', 'Label']];
     const mix = currentMix();
     $('#track-table').innerHTML = `<thead><tr>${head.map(([k, n]) => `<th data-s="${k}" class="${tf.sort === k ? (tf.dir > 0 ? 'asc' : 'desc') : ''}">${n}</th>`).join('')}<th></th></tr></thead><tbody>${list
       .slice(0, trackLimit)
@@ -1176,6 +1176,8 @@
     $('.drawer .close').onclick = closeDrawer;
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && $('#drawer').classList.contains('open')) closeDrawer(); });
     wireCrate();
+    // Phones can't hover, so tapping a BPM/key source tag explains it.
+    document.addEventListener('click', (e) => { const t = e.target.closest('[data-why]'); if (t) toast(t.dataset.why); });
     // On phones the tab bar lives outside the sticky header: iOS Safari lets a fixed bar inside a sticky one drift with the page.
     const phone = matchMedia('(max-width: 720px)');
     const nav = $('.tabs');

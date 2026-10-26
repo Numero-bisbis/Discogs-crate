@@ -154,7 +154,7 @@ table.tl .add { white-space: nowrap; }
 @media (prefers-color-scheme: light) { .cam { color: hsl(var(--h) 75% 30%); background: hsl(var(--h) 65% 50% / .14); } }
 .cam.none { background: none; color: var(--faint); }
 
-.src { font-size: 11px; font-weight: 500; color: var(--muted); white-space: nowrap; }
+.src { font-size: 11px; font-weight: 500; color: var(--muted); white-space: nowrap; cursor: help; }
 .src-DB { color: var(--good); }
 .src-est { color: var(--ok); }
 .src-you { color: var(--accent); }
