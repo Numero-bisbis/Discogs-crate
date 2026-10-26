@@ -685,7 +685,7 @@
     if (fb > 0) s = Math.max(s, 0.9);
     if (fb < 0) s = Math.min(s, 0.2);
     const weak = parts.filter((p) => p[1] < 0.5).sort((x, y) => x[1] - y[1]).map((p) => p[0]);
-    const why = fb > 0 ? 'you liked this one' : fb < 0 ? 'you marked this as not working' : weak.length ? 'weak on ' + weak.slice(0, 2).join(' and ') : s >= 0.8 ? 'strong on every count' : 'decent all round';
+    const why = fb > 0 ? 'you liked this one' : fb < 0 ? 'you marked this as not working' : weak.length ? 'weak on ' + weak.slice(0, 2).join(' and ') : parts.every((p) => p[1] >= 0.75) ? 'strong on every count' : s >= 0.75 ? 'good match' : 'decent all round';
     const detail = parts.map((p) => `${p[0]} ${Math.round(p[1] * 100)}`).join(' · ');
     return { n: Math.round(Math.max(0, Math.min(1, s)) * 100), why, detail };
   }

@@ -205,8 +205,8 @@ body.locked { position: fixed; left: 0; right: 0; overflow: hidden; }
 .mix-name { font-size: 22px; font-weight: 600; flex: 1; min-width: 160px; }
 .actions { display: flex; gap: 6px; flex-wrap: wrap; }
 .mix-actions { margin: 10px 0 4px; }
-ol.mix { list-style: none; padding: 0; margin: 12px 0 28px; background: var(--panel); border-radius: 10px; overflow: hidden; }
-.item { display: grid; grid-template-columns: 22px 50px 1fr auto auto; gap: 12px; align-items: center; padding: 9px 14px 9px 10px; background: var(--panel); }
+ol.mix { list-style: none; padding: 0; margin: 12px 0 28px; }
+.item { display: grid; grid-template-columns: 22px 50px 1fr auto auto; gap: 12px; align-items: center; padding: 9px 14px 9px 10px; background: var(--panel); border-radius: 10px; }
 .item.missing { display: flex; justify-content: space-between; align-items: center; color: var(--muted); }
 .item.dragging { position: relative; z-index: 3; box-shadow: 0 10px 30px rgb(0 0 0 / .35); border-radius: 10px; }
 .item.drop-before { box-shadow: inset 0 2px 0 var(--accent); } .item.drop-after { box-shadow: inset 0 -2px 0 var(--accent); }
@@ -223,8 +223,8 @@ ol.mix { list-style: none; padding: 0; margin: 12px 0 28px; background: var(--pa
 .mv button { width: 30px; height: 30px; padding: 0; background: none; color: var(--muted); }
 .mv button:hover { color: var(--accent); }
 /* the step between two tracks: a quiet line of text, coloured by how easy the blend is */
-.trans { display: flex; flex-wrap: wrap; gap: 2px 12px; font-size: 12px; padding: 5px 14px 5px 84px; position: relative; background: var(--panel); border-top: .5px solid var(--sep); border-bottom: .5px solid var(--sep); }
-.trans::before { content: ""; position: absolute; left: 40px; top: 50%; width: 7px; height: 7px; margin-top: -3.5px; border-radius: 50%; background: var(--faint); }
+.trans { display: flex; flex-wrap: wrap; align-items: center; gap: 2px 12px; font-size: 12px; padding: 10px 14px 10px 84px; position: relative; background: transparent; }
+.trans::before { content: ""; position: absolute; left: 42px; top: 0; bottom: 0; width: 3px; border-radius: 2px; background: var(--faint); opacity: .7; }
 .trans.good::before { background: var(--good); } .trans.ok::before { background: var(--ok); } .trans.bad::before { background: var(--bad); }
 .trans span.unk { color: var(--muted); }
 .trans .score { flex-basis: 100%; color: var(--muted); }
@@ -409,7 +409,7 @@ body.has-player main { padding-bottom: 300px; }
   .item img, .item .noimg { width: 44px; height: 44px; }
   .item .grip { font-size: 20px; grid-row: span 2; }
   .item .mv { grid-column: 3 / -1; justify-content: flex-end; margin-top: -6px; }
-  .trans { padding-left: 76px; } .trans::before { left: 37px; }
+  .trans { padding-left: 76px; } .trans::before { left: 39px; }
   .gen { grid-template-columns: 1fr 1fr; }
   .player { left: 8px; right: 8px; width: auto; bottom: calc(var(--nav-h) + 8px + env(safe-area-inset-bottom)); }
   .pl-media iframe { max-height: 190px; }
