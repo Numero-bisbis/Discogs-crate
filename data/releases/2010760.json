@@ -232,5 +232,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/2010760-The-Roots-Organix",
+ "videos": [
+  {
+   "duration": 3753,
+   "title": "The Roots - Organix (Full Album)",
+   "uri": "https://www.youtube.com/watch?v=cDYMaCCAdS4"
+  },
+  {
+   "duration": 375,
+   "title": "The Roots - Pass the popcorn",
+   "uri": "https://www.youtube.com/watch?v=kEGryvfh1w4"
+  }
+ ],
  "year": 0
 }

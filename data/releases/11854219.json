@@ -71,5 +71,57 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11854219-DJ-Koze-Pick-Up",
+ "videos": [
+  {
+   "duration": 0,
+   "title": "Pick Up (12\" Extended Disco Version)",
+   "uri": "https://www.youtube.com/watch?v=WLFnqY8nfPc"
+  },
+  {
+   "duration": 591,
+   "title": "DJ Koze - The Love Truck (Pampa031)",
+   "uri": "https://www.youtube.com/watch?v=AwV11BYKsoE"
+  },
+  {
+   "duration": 399,
+   "title": "Pick Up",
+   "uri": "https://www.youtube.com/watch?v=1LWLTsVyMeE"
+  },
+  {
+   "duration": 221,
+   "title": "Pick Up (12'' Extended Disco Version) (Mixed)",
+   "uri": "https://www.youtube.com/watch?v=IAvps_Qws7A"
+  },
+  {
+   "duration": 0,
+   "title": "Operator (DJ Koze's 12 inch Extended Disco Version)",
+   "uri": "https://www.youtube.com/watch?v=-pVWSIs-ARM"
+  },
+  {
+   "duration": 0,
+   "title": "Pick Up (12\" Extended Disco Version)",
+   "uri": "https://www.youtube.com/watch?v=WLFnqY8nfPc"
+  },
+  {
+   "duration": 591,
+   "title": "DJ Koze - The Love Truck (Pampa031)",
+   "uri": "https://www.youtube.com/watch?v=AwV11BYKsoE"
+  },
+  {
+   "duration": 399,
+   "title": "Pick Up",
+   "uri": "https://www.youtube.com/watch?v=1LWLTsVyMeE"
+  },
+  {
+   "duration": 221,
+   "title": "Pick Up (12'' Extended Disco Version) (Mixed)",
+   "uri": "https://www.youtube.com/watch?v=IAvps_Qws7A"
+  },
+  {
+   "duration": 0,
+   "title": "Operator (DJ Koze's 12 inch Extended Disco Version)",
+   "uri": "https://www.youtube.com/watch?v=-pVWSIs-ARM"
+  }
+ ],
  "year": 2018
 }

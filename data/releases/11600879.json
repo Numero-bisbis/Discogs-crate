@@ -263,5 +263,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11600879-Nu-Guinea-Nuova-Napoli",
+ "videos": [
+  {
+   "duration": 289,
+   "title": "NU GUINEA - JE VULESSE (NG01)",
+   "uri": "https://www.youtube.com/watch?v=iyJDeKLayyA"
+  },
+  {
+   "duration": 289,
+   "title": "NU GUINEA - JE VULESSE (NG01)",
+   "uri": "https://www.youtube.com/watch?v=iyJDeKLayyA"
+  },
+  {
+   "duration": 0,
+   "title": "Nu Guinea - Nuova Napoli (Full LP)",
+   "uri": "https://www.youtube.com/watch?v=VIboC497y2E"
+  },
+  {
+   "duration": 219,
+   "title": "Nu Genea - Nuova Napoli (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=EnixBM0h0V4"
+  }
+ ],
  "year": 2018
 }

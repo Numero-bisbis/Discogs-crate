@@ -618,5 +618,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/788768-Ashford-Simpson-Stay-Free",
+ "videos": [
+  {
+   "duration": 323,
+   "title": "Stay Free",
+   "uri": "https://www.youtube.com/watch?v=naGzBbEtveM"
+  },
+  {
+   "duration": 286,
+   "title": "Follow Your Heart",
+   "uri": "https://www.youtube.com/watch?v=E2aj3Pv3_Fw"
+  },
+  {
+   "duration": 394,
+   "title": "Nobody Knows",
+   "uri": "https://www.youtube.com/watch?v=Gyj31oVbRzY"
+  },
+  {
+   "duration": 222,
+   "title": "Crazy",
+   "uri": "https://www.youtube.com/watch?v=tDN3uImn_l4"
+  },
+  {
+   "duration": 420,
+   "title": "Ashford & Simpson - Found A Cure",
+   "uri": "https://www.youtube.com/watch?v=G2QvJrOzu4s"
+  },
+  {
+   "duration": 350,
+   "title": "Dance Forever",
+   "uri": "https://www.youtube.com/watch?v=DWRjzfeg-wU"
+  }
+ ],
  "year": 1979
 }

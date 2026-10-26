@@ -93,5 +93,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/8192702-Yuri-Shulgin-Polyphonic-Mind",
+ "videos": [
+  {
+   "duration": 377,
+   "title": "Yuri Shulgin - Polyphonic Mind",
+   "uri": "https://www.youtube.com/watch?v=p4zfQTRa8Bw"
+  },
+  {
+   "duration": 361,
+   "title": "Yuri Shulgin - Nothing In The City",
+   "uri": "https://www.youtube.com/watch?v=N_2855RCr8M"
+  },
+  {
+   "duration": 377,
+   "title": "Yuri Shulgin - Polyphonic Mind",
+   "uri": "https://www.youtube.com/watch?v=p4zfQTRa8Bw"
+  },
+  {
+   "duration": 361,
+   "title": "Yuri Shulgin - Nothing In The City",
+   "uri": "https://www.youtube.com/watch?v=N_2855RCr8M"
+  }
+ ],
  "year": 2016
 }

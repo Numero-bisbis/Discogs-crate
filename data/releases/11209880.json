@@ -80,5 +80,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11209880-Peter-Croce-Peter-Croce-Edits",
+ "videos": [
+  {
+   "duration": 415,
+   "title": "PETER CROCE - PROLETARIAT BLUES (RNT032)",
+   "uri": "https://www.youtube.com/watch?v=mBycebEIaqQ"
+  },
+  {
+   "duration": 410,
+   "title": "Peter Croce - Spirit Dance",
+   "uri": "https://www.youtube.com/watch?v=KnJl8sTx8Ng"
+  },
+  {
+   "duration": 436,
+   "title": "Peter Croce - Get Up & Boogie",
+   "uri": "https://www.youtube.com/watch?v=os385Pbe4j8"
+  },
+  {
+   "duration": 342,
+   "title": "Peter Croce   Made In China",
+   "uri": "https://www.youtube.com/watch?v=iQ9IVyABcs8"
+  }
+ ],
  "year": 2017
 }

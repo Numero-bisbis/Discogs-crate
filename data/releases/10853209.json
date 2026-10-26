@@ -68,5 +68,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/10853209-Enrico-Sangiuliano-Astral-Projection",
+ "videos": [
+  {
+   "duration": 485,
+   "title": "Enrico Sangiuliano - Astral Projection - Drumcode - DC176",
+   "uri": "https://www.youtube.com/watch?v=Qds6cxR4Inw"
+  },
+  {
+   "duration": 433,
+   "title": "Enrico Sangiuliano - Blooming Era - Drumcode - DC176",
+   "uri": "https://www.youtube.com/watch?v=lMdWIilg418"
+  }
+ ],
  "year": 2017
 }

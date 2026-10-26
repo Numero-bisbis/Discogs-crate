@@ -123,5 +123,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/9806558-Vicente-Fernández-Palabra-De-Rey",
+ "videos": [
+  {
+   "duration": 2283,
+   "title": "Palabra de rey Vicente Fernandez",
+   "uri": "https://www.youtube.com/watch?v=ZBihnJ6cKNs"
+  },
+  {
+   "duration": 2283,
+   "title": "Palabra de rey Vicente Fernandez",
+   "uri": "https://www.youtube.com/watch?v=ZBihnJ6cKNs"
+  }
+ ],
  "year": 1969
 }

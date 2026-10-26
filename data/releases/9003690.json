@@ -72,5 +72,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/9003690-Phillipi-Rodrigo-Mantra-New-Beach",
+ "videos": [
+  {
+   "duration": 351,
+   "title": "Phillipi & Rodrigo - Mantra - DEEWEE017",
+   "uri": "https://www.youtube.com/watch?v=yODIyytRt8c"
+  },
+  {
+   "duration": 388,
+   "title": "Phillipi & Rodrigo - New Beach - DEEWEE017",
+   "uri": "https://www.youtube.com/watch?v=BeQG1v_gxfQ"
+  }
+ ],
  "year": 2016
 }

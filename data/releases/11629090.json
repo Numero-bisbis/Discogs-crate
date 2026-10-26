@@ -87,5 +87,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11629090-Black-Bones-5-Black-Bones-3",
+ "videos": [
+  {
+   "duration": 447,
+   "title": "Black Bones #3  A1 - Love Sick",
+   "uri": "https://www.youtube.com/watch?v=QFyB1EO-vko"
+  },
+  {
+   "duration": 298,
+   "title": "Black Bones #3  - A2 Desert Flower",
+   "uri": "https://www.youtube.com/watch?v=-6jg5B17W2k"
+  },
+  {
+   "duration": 290,
+   "title": "Black Bones #3 B1 - She Should Know (Dub 3)",
+   "uri": "https://www.youtube.com/watch?v=yTUUFGYvXko"
+  },
+  {
+   "duration": 238,
+   "title": "Black Bones #3 - B2 Lion Of Judah",
+   "uri": "https://www.youtube.com/watch?v=OydNuqV3Mwk"
+  }
+ ],
  "year": 2018
 }

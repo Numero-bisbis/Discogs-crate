@@ -79,5 +79,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/297076-The-Sound-Of-The-Murray-Sound-Of-The-Murray",
+ "videos": [
+  {
+   "duration": 338,
+   "title": "The Sound Of The Murray ‎– Sound Of The Murray (Pub Mix)",
+   "uri": "https://www.youtube.com/watch?v=l1Nf6n0b2MU"
+  },
+  {
+   "duration": 379,
+   "title": "B2 - The Sound Of The Murray - Bada Thing",
+   "uri": "https://www.youtube.com/watch?v=47v17qGVI9Q"
+  }
+ ],
  "year": 2004
 }

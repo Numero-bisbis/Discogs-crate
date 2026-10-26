@@ -383,5 +383,52 @@
   }
  ],
  "uri": "https://www.discogs.com/release/259432-Jay-Z-The-Black-Album",
+ "videos": [
+  {
+   "duration": 293,
+   "title": "Allure",
+   "uri": "https://www.youtube.com/watch?v=o_e8CAZC3Tw"
+  },
+  {
+   "duration": 193,
+   "title": "Lucifer",
+   "uri": "https://www.youtube.com/watch?v=Oy9LHIDtmGc"
+  },
+  {
+   "duration": 251,
+   "title": "Encore",
+   "uri": "https://www.youtube.com/watch?v=7VksyVUAwi8"
+  },
+  {
+   "duration": 293,
+   "title": "Allure",
+   "uri": "https://www.youtube.com/watch?v=o_e8CAZC3Tw"
+  },
+  {
+   "duration": 193,
+   "title": "Lucifer",
+   "uri": "https://www.youtube.com/watch?v=Oy9LHIDtmGc"
+  },
+  {
+   "duration": 251,
+   "title": "Encore",
+   "uri": "https://www.youtube.com/watch?v=7VksyVUAwi8"
+  },
+  {
+   "duration": 321,
+   "title": "Jay-Z The Black Album remix",
+   "uri": "https://www.youtube.com/watch?v=-bWeQoWA1S0"
+  },
+  {
+   "duration": 588,
+   "title": "Pete Rock  Jay-Z Black Album Remix",
+   "uri": "https://www.youtube.com/watch?v=c4XLb-La174"
+  },
+  {
+   "duration": 234,
+   "title": "Encore Jay Z (Black Album Remix - The Moss Green Album)",
+   "uri": "https://www.youtube.com/watch?v=pQuAy8YcDo8"
+  }
+ ],
  "year": 2003
 }

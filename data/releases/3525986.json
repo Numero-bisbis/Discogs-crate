@@ -541,5 +541,12 @@
   }
  ],
  "uri": "https://www.discogs.com/release/3525986-Sidney-Bechet-Et-Django-Reinhardt-Deux-Géants-Du-Jazz",
+ "videos": [
+  {
+   "duration": 201,
+   "title": "Petite Fleur de Sidney Bechet",
+   "uri": "https://www.youtube.com/watch?v=MFEo4QJIyk8"
+  }
+ ],
  "year": 1964
 }

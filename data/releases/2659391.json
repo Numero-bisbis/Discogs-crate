@@ -109,5 +109,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/2659391-Ray-Barretto-Acid",
+ "videos": [
+  {
+   "duration": 354,
+   "title": "El Nuevo Barretto (Remastered 2024)",
+   "uri": "https://www.youtube.com/watch?v=Ulqs5dlcqok"
+  },
+  {
+   "duration": 166,
+   "title": "Mercy, Mercy Baby (Remastered 2024)",
+   "uri": "https://www.youtube.com/watch?v=gS7b71vjGOM"
+  },
+  {
+   "duration": 306,
+   "title": "Acid (Remastered 2024)",
+   "uri": "https://www.youtube.com/watch?v=4_gLAxcdLL4"
+  },
+  {
+   "duration": 169,
+   "title": "A Deeper Shade Of Soul (Remastered 2024)",
+   "uri": "https://www.youtube.com/watch?v=wMPHWb8kPg8"
+  },
+  {
+   "duration": 509,
+   "title": "Espíritu Libre (Remastered 2024)",
+   "uri": "https://www.youtube.com/watch?v=DoybyP_vX4E"
+  },
+  {
+   "duration": 233,
+   "title": "Sola Te Dejaré (Remastered 2024)",
+   "uri": "https://www.youtube.com/watch?v=acB04PwTTO8"
+  },
+  {
+   "duration": 230,
+   "title": "Soul Drummers (Remastered 2024)",
+   "uri": "https://www.youtube.com/watch?v=b70zwphgcFs"
+  },
+  {
+   "duration": 150,
+   "title": "The Teacher Of Love (Remastered 2024)",
+   "uri": "https://www.youtube.com/watch?v=uBBEwr8H650"
+  }
+ ],
  "year": 0
 }

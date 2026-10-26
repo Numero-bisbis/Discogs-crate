@@ -77,5 +77,22 @@
   }
  ],
  "uri": "https://www.discogs.com/release/7774586-Wehbba-Systematic-Shades-Vol-1",
+ "videos": [
+  {
+   "duration": 376,
+   "title": "Wehbba - Um-Den-Kern [SYST0107]",
+   "uri": "https://www.youtube.com/watch?v=ZMnjWuz0Xek"
+  },
+  {
+   "duration": 406,
+   "title": "Wehbba - Visage [SYST0107]",
+   "uri": "https://www.youtube.com/watch?v=nLWjzh7ZPyU"
+  },
+  {
+   "duration": 464,
+   "title": "Wehbba - View-of-Delft [SYST0107]",
+   "uri": "https://www.youtube.com/watch?v=QSrsF4vH5SQ"
+  }
+ ],
  "year": 2015
 }

@@ -2041,5 +2041,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/9402988-Amy-Winehouse-Back-To-Black",
+ "videos": [
+  {
+   "duration": 248,
+   "title": "Amy Winehouse - Back To Black",
+   "uri": "https://www.youtube.com/watch?v=TJAfLE39ZZ8"
+  },
+  {
+   "duration": 222,
+   "title": "Amy Winehouse - Rehab",
+   "uri": "https://www.youtube.com/watch?v=KUmZp8pR1uc"
+  },
+  {
+   "duration": 255,
+   "title": "Amy Winehouse - You Know I'm No Good",
+   "uri": "https://www.youtube.com/watch?v=b-I2s5zRbHg"
+  },
+  {
+   "duration": 195,
+   "title": "Amy Winehouse - Tears Dry On Their Own",
+   "uri": "https://www.youtube.com/watch?v=ojdbDYahiCQ"
+  },
+  {
+   "duration": 169,
+   "title": "Amy Winehouse - Love Is A Losing Game",
+   "uri": "https://www.youtube.com/watch?v=nMO5Ko_77Hk"
+  },
+  {
+   "duration": 199,
+   "title": "Amy Winehouse - Just Friends",
+   "uri": "https://www.youtube.com/watch?v=IvRnrIv3mpM"
+  }
+ ],
  "year": 2016
 }

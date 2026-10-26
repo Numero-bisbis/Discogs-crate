@@ -125,5 +125,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11926069-Various-SBEDITZ003",
+ "videos": [
+  {
+   "duration": 323,
+   "title": "JAD & THE - DEBBIE DOES DELAY (SBEDITZ003)",
+   "uri": "https://www.youtube.com/watch?v=95byFCh3a_g"
+  },
+  {
+   "duration": 335,
+   "title": "Tender Games - So Hot",
+   "uri": "https://www.youtube.com/watch?v=EmI6Z_YVPAw"
+  },
+  {
+   "duration": 412,
+   "title": "Swales - Feel This Way",
+   "uri": "https://www.youtube.com/watch?v=DppimIcq_hU"
+  },
+  {
+   "duration": 392,
+   "title": "SlothBoogie - Acid Fantasy [SBEDITZ]",
+   "uri": "https://www.youtube.com/watch?v=eCJ-4-7cHKE"
+  }
+ ],
  "year": 2018
 }

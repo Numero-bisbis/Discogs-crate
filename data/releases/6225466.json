@@ -73,5 +73,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/6225466-Sam-Paganini-Satellite",
+ "videos": [
+  {
+   "duration": 403,
+   "title": "Sam Paganini - Rave",
+   "uri": "https://www.youtube.com/watch?v=FqSawZDe1Gs"
+  },
+  {
+   "duration": 378,
+   "title": "Sam Paganini - Dusty - Drumcode - DCCD10",
+   "uri": "https://www.youtube.com/watch?v=nr_qPXoqXTQ"
+  },
+  {
+   "duration": 390,
+   "title": "Sam Paganini - Toxic - Drumcode - DCCD10",
+   "uri": "https://www.youtube.com/watch?v=704f0qfWlCU"
+  },
+  {
+   "duration": 406,
+   "title": "Sam Paganini - Rave [Drumcode]",
+   "uri": "https://www.youtube.com/watch?v=nkF4AXl9SD8"
+  }
+ ],
  "year": 2014
 }

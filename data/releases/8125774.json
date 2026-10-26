@@ -81,5 +81,22 @@
   }
  ],
  "uri": "https://www.discogs.com/release/8125774-Martin-Hayes-3-Martin-Hayes-Edits",
+ "videos": [
+  {
+   "duration": 369,
+   "title": "Martin Hayes - Get On Down",
+   "uri": "https://www.youtube.com/watch?v=z1YFgtamYME"
+  },
+  {
+   "duration": 315,
+   "title": "Martin Hayes - Make Me Dance",
+   "uri": "https://www.youtube.com/watch?v=_QRMGGheczg"
+  },
+  {
+   "duration": 344,
+   "title": "Martin Hayes - Ol' Funky Music",
+   "uri": "https://www.youtube.com/watch?v=va5KIm8qVco"
+  }
+ ],
  "year": 2016
 }

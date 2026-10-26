@@ -82,5 +82,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11400715-Boncana-Maïga-Koyma-Hondo",
+ "videos": [
+  {
+   "duration": 242,
+   "title": "Boncana Maïga – Koyma Hondo (OVJ)",
+   "uri": "https://www.youtube.com/watch?v=iEZvGZzsxcw"
+  },
+  {
+   "duration": 272,
+   "title": "Boncana Maïga – Yala M'Le",
+   "uri": "https://www.youtube.com/watch?v=U_g1uSsRODg"
+  },
+  {
+   "duration": 258,
+   "title": "Zourou",
+   "uri": "https://www.youtube.com/watch?v=Tfdq9gibLQ4"
+  },
+  {
+   "duration": 270,
+   "title": "[REISSUE] Boncana Maïga - Yala M’le (Hot Casa Records)",
+   "uri": "https://www.youtube.com/watch?v=5-C2oEC9otI"
+  },
+  {
+   "duration": 145,
+   "title": "Petroci",
+   "uri": "https://www.youtube.com/watch?v=caAfAvea2jM"
+  },
+  {
+   "duration": 241,
+   "title": "Boncana Maïga: Koyma Hondo (Official)",
+   "uri": "https://www.youtube.com/watch?v=YOsEzyM3rLM"
+  }
+ ],
  "year": 2018
 }

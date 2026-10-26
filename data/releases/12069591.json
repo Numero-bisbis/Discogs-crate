@@ -154,5 +154,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12069591-Amber-Mark-Conexão",
+ "videos": [
+  {
+   "duration": 300,
+   "title": "Conexão",
+   "uri": "https://www.youtube.com/watch?v=62SLvzxcQQU"
+  },
+  {
+   "duration": 303,
+   "title": "Amber Mark - Love Me Right (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=EWvXfmwuiHU"
+  },
+  {
+   "duration": 234,
+   "title": "Amber Mark - Love Is Stronger Than Pride (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=9AP26kSxIa4"
+  },
+  {
+   "duration": 230,
+   "title": "All The Work",
+   "uri": "https://www.youtube.com/watch?v=vEbzs9ekyT4"
+  },
+  {
+   "duration": 300,
+   "title": "Conexão",
+   "uri": "https://www.youtube.com/watch?v=62SLvzxcQQU"
+  },
+  {
+   "duration": 303,
+   "title": "Amber Mark - Love Me Right (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=EWvXfmwuiHU"
+  },
+  {
+   "duration": 234,
+   "title": "Amber Mark - Love Is Stronger Than Pride (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=9AP26kSxIa4"
+  },
+  {
+   "duration": 230,
+   "title": "All The Work",
+   "uri": "https://www.youtube.com/watch?v=vEbzs9ekyT4"
+  }
+ ],
  "year": 2018
 }

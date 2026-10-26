@@ -243,5 +243,87 @@
   }
  ],
  "uri": "https://www.discogs.com/release/743014-Al-Santiago-Presents-Yambú-Yambú",
+ "videos": [
+  {
+   "duration": 227,
+   "title": "Hippopatamus",
+   "uri": "https://www.youtube.com/watch?v=3VmMl5XvGR0"
+  },
+  {
+   "duration": 256,
+   "title": "Cosas Del Amor",
+   "uri": "https://www.youtube.com/watch?v=g5cZHenMqzw"
+  },
+  {
+   "duration": 294,
+   "title": "Dinamita",
+   "uri": "https://www.youtube.com/watch?v=_jgCtiPSqDc"
+  },
+  {
+   "duration": 311,
+   "title": "Vecindad",
+   "uri": "https://www.youtube.com/watch?v=uN5L46Vddxc"
+  },
+  {
+   "duration": 303,
+   "title": "Movin' On",
+   "uri": "https://www.youtube.com/watch?v=8lO5Xu2h6gc"
+  },
+  {
+   "duration": 307,
+   "title": "A New Thing",
+   "uri": "https://www.youtube.com/watch?v=8xwKzmObvd8"
+  },
+  {
+   "duration": 314,
+   "title": "Caballo",
+   "uri": "https://www.youtube.com/watch?v=pF8gHJRYrgk"
+  },
+  {
+   "duration": 243,
+   "title": "Profesor",
+   "uri": "https://www.youtube.com/watch?v=q_f2tM3hvpU"
+  },
+  {
+   "duration": 227,
+   "title": "Hippopatamus",
+   "uri": "https://www.youtube.com/watch?v=3VmMl5XvGR0"
+  },
+  {
+   "duration": 256,
+   "title": "Cosas Del Amor",
+   "uri": "https://www.youtube.com/watch?v=g5cZHenMqzw"
+  },
+  {
+   "duration": 294,
+   "title": "Dinamita",
+   "uri": "https://www.youtube.com/watch?v=_jgCtiPSqDc"
+  },
+  {
+   "duration": 311,
+   "title": "Vecindad",
+   "uri": "https://www.youtube.com/watch?v=uN5L46Vddxc"
+  },
+  {
+   "duration": 303,
+   "title": "Movin' On",
+   "uri": "https://www.youtube.com/watch?v=8lO5Xu2h6gc"
+  },
+  {
+   "duration": 307,
+   "title": "A New Thing",
+   "uri": "https://www.youtube.com/watch?v=8xwKzmObvd8"
+  },
+  {
+   "duration": 314,
+   "title": "Caballo",
+   "uri": "https://www.youtube.com/watch?v=pF8gHJRYrgk"
+  },
+  {
+   "duration": 243,
+   "title": "Profesor",
+   "uri": "https://www.youtube.com/watch?v=q_f2tM3hvpU"
+  }
+ ],
  "year": 1975
 }

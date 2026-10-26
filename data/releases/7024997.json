@@ -542,5 +542,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/7024997-Lucas-Arruda-SOLAR",
+ "videos": [
+  {
+   "duration": 410,
+   "title": "Lucas Arruda - SOLAR (Official)",
+   "uri": "https://www.youtube.com/watch?v=hv5vIrRce5c"
+  },
+  {
+   "duration": 304,
+   "title": "Lucas Arruda - Uma Onda (Official)",
+   "uri": "https://www.youtube.com/watch?v=ZAl7vxNnaeE"
+  },
+  {
+   "duration": 335,
+   "title": "Lucas Arruda - Melt The Night (Feat. Leon Ware) (Official)",
+   "uri": "https://www.youtube.com/watch?v=sI6e13NwnZo"
+  },
+  {
+   "duration": 3151,
+   "title": "Lucas Arruda - Solar (Álbum Completo/Full Album) 2015",
+   "uri": "https://www.youtube.com/watch?v=lQzM8qAbbjs"
+  },
+  {
+   "duration": 410,
+   "title": "Lucas Arruda - SOLAR (Official)",
+   "uri": "https://www.youtube.com/watch?v=hv5vIrRce5c"
+  },
+  {
+   "duration": 304,
+   "title": "Lucas Arruda - Uma Onda (Official)",
+   "uri": "https://www.youtube.com/watch?v=ZAl7vxNnaeE"
+  },
+  {
+   "duration": 335,
+   "title": "Lucas Arruda - Melt The Night (Feat. Leon Ware) (Official)",
+   "uri": "https://www.youtube.com/watch?v=sI6e13NwnZo"
+  },
+  {
+   "duration": 3151,
+   "title": "Lucas Arruda - Solar (Álbum Completo/Full Album) 2015",
+   "uri": "https://www.youtube.com/watch?v=lQzM8qAbbjs"
+  }
+ ],
  "year": 2015
 }

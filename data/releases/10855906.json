@@ -78,5 +78,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/10855906-Victor-Ruiz-2-Thomas-Schumacher-Soulforce-EP",
+ "videos": [
+  {
+   "duration": 256,
+   "title": "Victor Ruiz & Thomas Schumacher – Tumbleweed",
+   "uri": "https://www.youtube.com/watch?v=Z2_hpCdy658"
+  },
+  {
+   "duration": 460,
+   "title": "Thomas Schumacher & Victor Ruiz - Soulforce",
+   "uri": "https://www.youtube.com/watch?v=zPIs_D8TIJQ"
+  },
+  {
+   "duration": 256,
+   "title": "Victor Ruiz & Thomas Schumacher – Tumbleweed",
+   "uri": "https://www.youtube.com/watch?v=Z2_hpCdy658"
+  },
+  {
+   "duration": 460,
+   "title": "Thomas Schumacher & Victor Ruiz - Soulforce",
+   "uri": "https://www.youtube.com/watch?v=zPIs_D8TIJQ"
+  }
+ ],
  "year": 2017
 }

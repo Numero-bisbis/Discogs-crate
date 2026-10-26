@@ -93,5 +93,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12126315-Tony-Allen-Black-Voices-Remixes",
+ "videos": [
+  {
+   "duration": 481,
+   "title": "TONY ALLEN - GET TOGETHER (FOLAMOUR IN HARMONY REMIX) (COMET 083)",
+   "uri": "https://www.youtube.com/watch?v=KvvxORBC9Xc"
+  },
+  {
+   "duration": 361,
+   "title": "Tony Allen - The Same Blood (NIT Cosmic Remix) [Black Voices Remixes]",
+   "uri": "https://www.youtube.com/watch?v=6pMeeU53ZgQ"
+  }
+ ],
  "year": 2018
 }

@@ -177,5 +177,22 @@
   }
  ],
  "uri": "https://www.discogs.com/release/815398-Nomad-Soul-Candy-Mountain",
+ "videos": [
+  {
+   "duration": 388,
+   "title": "Candy Mountain (Nellee Hooper Remix)",
+   "uri": "https://www.youtube.com/watch?v=AzJnTuTu5eQ"
+  },
+  {
+   "duration": 288,
+   "title": "Candy Mountain (DJ Intellectual Mix)",
+   "uri": "https://www.youtube.com/watch?v=P1dVUsqVkbI"
+  },
+  {
+   "duration": 236,
+   "title": "Candy Mountain (Radio Mix)",
+   "uri": "https://www.youtube.com/watch?v=rsJVSSR9T7Y"
+  }
+ ],
  "year": 1991
 }

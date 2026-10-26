@@ -78,5 +78,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/10616350-Gerd-Janson-Shan-14-Surrender",
+ "videos": [
+  {
+   "duration": 414,
+   "title": "Gerd Janson & Shan - Surrender [REGRD004]",
+   "uri": "https://www.youtube.com/watch?v=oM5gcscvczw"
+  },
+  {
+   "duration": 387,
+   "title": "Gerd Janson & Shan - Gentle Pace [REGRD004]",
+   "uri": "https://www.youtube.com/watch?v=HijddqUjFys"
+  },
+  {
+   "duration": 414,
+   "title": "Gerd Janson & Shan - Surrender [REGRD004]",
+   "uri": "https://www.youtube.com/watch?v=oM5gcscvczw"
+  },
+  {
+   "duration": 387,
+   "title": "Gerd Janson & Shan - Gentle Pace [REGRD004]",
+   "uri": "https://www.youtube.com/watch?v=HijddqUjFys"
+  }
+ ],
  "year": 2017
 }

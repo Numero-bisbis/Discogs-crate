@@ -627,5 +627,57 @@
   }
  ],
  "uri": "https://www.discogs.com/release/601954-Quincy-Jones-Smackwater-Jack",
+ "videos": [
+  {
+   "duration": 0,
+   "title": "Quincy Jones - Smackwater Jack LP, side 1, 1971",
+   "uri": "https://www.youtube.com/watch?v=zhTBZPrsuwc"
+  },
+  {
+   "duration": 0,
+   "title": "Quincy Jones - Smackwater Jack LP, side 2, 1971",
+   "uri": "https://www.youtube.com/watch?v=QNAWdyR-vo0"
+  },
+  {
+   "duration": 212,
+   "title": "Smackwater Jack",
+   "uri": "https://www.youtube.com/watch?v=cTUczdxQ1F4"
+  },
+  {
+   "duration": 270,
+   "title": "Cast Your Fate To The Wind",
+   "uri": "https://www.youtube.com/watch?v=vAJyOLtMhiM"
+  },
+  {
+   "duration": 234,
+   "title": "Ironside (Theme From \"Ironside\")",
+   "uri": "https://www.youtube.com/watch?v=fdXoDwGQT78"
+  },
+  {
+   "duration": 592,
+   "title": "What's Going On?",
+   "uri": "https://www.youtube.com/watch?v=m5cFxG1pm6k"
+  },
+  {
+   "duration": 317,
+   "title": "Theme From \"The Anderson Tapes\"",
+   "uri": "https://www.youtube.com/watch?v=osZ5UojP630"
+  },
+  {
+   "duration": 261,
+   "title": "Brown Ballad",
+   "uri": "https://www.youtube.com/watch?v=xOxkz2tZv_4"
+  },
+  {
+   "duration": 243,
+   "title": "Hikky Burr (Theme From \"The Bill Cosby Show\")",
+   "uri": "https://www.youtube.com/watch?v=ez26QXBCwzU"
+  },
+  {
+   "duration": 396,
+   "title": "Guitar Blues Odyssey: From Roots To Fruits",
+   "uri": "https://www.youtube.com/watch?v=k3kOr-Kar4A"
+  }
+ ],
  "year": 1971
 }

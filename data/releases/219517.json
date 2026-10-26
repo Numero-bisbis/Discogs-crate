@@ -564,5 +564,77 @@
   }
  ],
  "uri": "https://www.discogs.com/release/219517-Nas-Illmatic",
+ "videos": [
+  {
+   "duration": 0,
+   "title": "Nas - Illmatic (Full Album)",
+   "uri": "https://www.youtube.com/watch?v=7hsYF0UxaWc"
+  },
+  {
+   "duration": 106,
+   "title": "The Genesis",
+   "uri": "https://www.youtube.com/watch?v=Ufc81wjxOyE"
+  },
+  {
+   "duration": 294,
+   "title": "N.Y. State of Mind",
+   "uri": "https://www.youtube.com/watch?v=aKcZTyojUM8"
+  },
+  {
+   "duration": 211,
+   "title": "Life's a Bitch",
+   "uri": "https://www.youtube.com/watch?v=aps4sHL-Gis"
+  },
+  {
+   "duration": 291,
+   "title": "The World Is Yours",
+   "uri": "https://www.youtube.com/watch?v=U_u6mqary2A"
+  },
+  {
+   "duration": 261,
+   "title": "Halftime",
+   "uri": "https://www.youtube.com/watch?v=wjmrHOwm4tw"
+  },
+  {
+   "duration": 249,
+   "title": "Memory Lane (Sittin' in da Park)",
+   "uri": "https://www.youtube.com/watch?v=ImSoA_fAVL4"
+  },
+  {
+   "duration": 326,
+   "title": "One Love",
+   "uri": "https://www.youtube.com/watch?v=985vOw2eD28"
+  },
+  {
+   "duration": 199,
+   "title": "One Time 4 Your Mind",
+   "uri": "https://www.youtube.com/watch?v=c2VuqIqHR2g"
+  },
+  {
+   "duration": 253,
+   "title": "Represent",
+   "uri": "https://www.youtube.com/watch?v=igkhtN1AWkQ"
+  },
+  {
+   "duration": 203,
+   "title": "It Ain't Hard to Tell",
+   "uri": "https://www.youtube.com/watch?v=0yCJs3GrjpE"
+  },
+  {
+   "duration": 248,
+   "title": "NaS - Star Wars (Prod. By Large Professor)",
+   "uri": "https://www.youtube.com/watch?v=6Pe9yrjoCzs"
+  },
+  {
+   "duration": 207,
+   "title": "Nas It Ain't Hard To Tell (10th Anniversary Edition Remix)",
+   "uri": "https://www.youtube.com/watch?v=lzQ0h7xpavg"
+  },
+  {
+   "duration": 253,
+   "title": "Nas - Represent (Clean Version)",
+   "uri": "https://www.youtube.com/watch?v=4C9oJcju_RA"
+  }
+ ],
  "year": 0
 }

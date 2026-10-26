@@ -82,5 +82,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11180623-Stephan-Bodzin-Strand",
+ "videos": [
+  {
+   "duration": 470,
+   "title": "AL009 - Stephan Bodzin - Strand",
+   "uri": "https://www.youtube.com/watch?v=ZDxJulewTg8"
+  },
+  {
+   "duration": 506,
+   "title": "AL009 - Stephan Bodzin - Catamaran",
+   "uri": "https://www.youtube.com/watch?v=s8Hynelpfao"
+  },
+  {
+   "duration": 468,
+   "title": "Stephan Bodzin - Strand [Vinylrip HQ]",
+   "uri": "https://www.youtube.com/watch?v=NlG_wIAXyAg"
+  },
+  {
+   "duration": 499,
+   "title": "Stephan Bodzin - Catamaran [Vinylrip HQ]",
+   "uri": "https://www.youtube.com/watch?v=mw9w6llP9BA"
+  },
+  {
+   "duration": 470,
+   "title": "AL009 - Stephan Bodzin - Strand",
+   "uri": "https://www.youtube.com/watch?v=ZDxJulewTg8"
+  },
+  {
+   "duration": 506,
+   "title": "AL009 - Stephan Bodzin - Catamaran",
+   "uri": "https://www.youtube.com/watch?v=s8Hynelpfao"
+  },
+  {
+   "duration": 468,
+   "title": "Stephan Bodzin - Strand [Vinylrip HQ]",
+   "uri": "https://www.youtube.com/watch?v=NlG_wIAXyAg"
+  },
+  {
+   "duration": 499,
+   "title": "Stephan Bodzin - Catamaran [Vinylrip HQ]",
+   "uri": "https://www.youtube.com/watch?v=mw9w6llP9BA"
+  }
+ ],
  "year": 2017
 }

@@ -80,5 +80,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11568157-Felipe-Gordon-Mi-Casa-Su-Casa",
+ "videos": [
+  {
+   "duration": 303,
+   "title": "Felipe Gordon - Gangster Fass [quintessentials 58]",
+   "uri": "https://www.youtube.com/watch?v=Yo1u-mWa1go"
+  },
+  {
+   "duration": 477,
+   "title": "Felipe Gordon - Ella Va [quintessentials 58]",
+   "uri": "https://www.youtube.com/watch?v=qik0b2RlaMA"
+  },
+  {
+   "duration": 390,
+   "title": "Felipe Gordon - Arpegios extendidos",
+   "uri": "https://www.youtube.com/watch?v=0i9gc7OwNQ0"
+  },
+  {
+   "duration": 402,
+   "title": "Felipe Gordon - Su Casa, Mi Casa",
+   "uri": "https://www.youtube.com/watch?v=OUuf158Izo0"
+  }
+ ],
  "year": 2018
 }

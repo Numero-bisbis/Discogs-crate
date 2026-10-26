@@ -82,5 +82,22 @@
   }
  ],
  "uri": "https://www.discogs.com/release/9600402-Hade-4-Hade-Edits",
+ "videos": [
+  {
+   "duration": 544,
+   "title": "HADE - Say What U Wanna Say",
+   "uri": "https://www.youtube.com/watch?v=6VSS34yWfr8"
+  },
+  {
+   "duration": 164,
+   "title": "Hade - Jeep Cherokee XJ",
+   "uri": "https://www.youtube.com/watch?v=IxWS8gwb3Go"
+  },
+  {
+   "duration": 516,
+   "title": "Hade - My Thang",
+   "uri": "https://www.youtube.com/watch?v=DoECJxDnWPk"
+  }
+ ],
  "year": 2017
 }

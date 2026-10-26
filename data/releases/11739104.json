@@ -114,5 +114,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11739104-Mark-Broom-Dank-EP",
+ "videos": [
+  {
+   "duration": 339,
+   "title": "Mark Broom - Dank",
+   "uri": "https://www.youtube.com/watch?v=A2He8U9g0gE"
+  },
+  {
+   "duration": 390,
+   "title": "Dank (Dave Simon Remix)",
+   "uri": "https://www.youtube.com/watch?v=MvDog8fY2yw"
+  },
+  {
+   "duration": 347,
+   "title": "Mark Broom - Dank (Flug Remix)",
+   "uri": "https://www.youtube.com/watch?v=zPgqlMs2T2w"
+  },
+  {
+   "duration": 401,
+   "title": "Dank (Luca Agnelli Remix)",
+   "uri": "https://www.youtube.com/watch?v=rUCWyYKGxu0"
+  },
+  {
+   "duration": 339,
+   "title": "Mark Broom - Dank",
+   "uri": "https://www.youtube.com/watch?v=A2He8U9g0gE"
+  },
+  {
+   "duration": 390,
+   "title": "Dank (Dave Simon Remix)",
+   "uri": "https://www.youtube.com/watch?v=MvDog8fY2yw"
+  },
+  {
+   "duration": 347,
+   "title": "Mark Broom - Dank (Flug Remix)",
+   "uri": "https://www.youtube.com/watch?v=zPgqlMs2T2w"
+  },
+  {
+   "duration": 401,
+   "title": "Dank (Luca Agnelli Remix)",
+   "uri": "https://www.youtube.com/watch?v=rUCWyYKGxu0"
+  }
+ ],
  "year": 2018
 }

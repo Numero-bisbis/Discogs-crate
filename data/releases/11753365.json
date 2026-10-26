@@ -89,5 +89,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11753365-madcat-4-Petite-Musique-De-Chanvre",
+ "videos": [
+  {
+   "duration": 305,
+   "title": "Madcat - Get Ya Under My Skin",
+   "uri": "https://www.youtube.com/watch?v=PB5uusBcKfE"
+  },
+  {
+   "duration": 324,
+   "title": "madcat - G.A.O.T.U (Great Architect Of The Universe)",
+   "uri": "https://www.youtube.com/watch?v=n8hO79f3nI4"
+  },
+  {
+   "duration": 271,
+   "title": "madcat - Sunset",
+   "uri": "https://www.youtube.com/watch?v=eGkfqt3C9aQ"
+  },
+  {
+   "duration": 254,
+   "title": "madcat - Es Vedra (The Mystical Island)",
+   "uri": "https://www.youtube.com/watch?v=Gpji4DMhlqw"
+  },
+  {
+   "duration": 397,
+   "title": "Madcat - Astro Pulvis",
+   "uri": "https://www.youtube.com/watch?v=z67loYjRFuM"
+  }
+ ],
  "year": 2018
 }

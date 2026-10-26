@@ -75,5 +75,22 @@
   }
  ],
  "uri": "https://www.discogs.com/release/10995910-Austin-Ato-Song-For-Mr-Lewis-EP",
+ "videos": [
+  {
+   "duration": 546,
+   "title": "PREMIERE: Austin Ato - Song For Mr. Lewis [Phonica White]",
+   "uri": "https://www.youtube.com/watch?v=2alUBgJj5UM"
+  },
+  {
+   "duration": 304,
+   "title": "Austin Ato - Song For Mr. Lewis (Dub) [PHONICAWHITE017]",
+   "uri": "https://www.youtube.com/watch?v=-XwEAahdE4k"
+  },
+  {
+   "duration": 385,
+   "title": "Austin Ato - Morning [PHONICAWHITE017]",
+   "uri": "https://www.youtube.com/watch?v=BobNbRFi1U4"
+  }
+ ],
  "year": 2017
 }

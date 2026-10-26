@@ -175,5 +175,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11978482-Various-Heads-Records-South-African-Disco-Dub-Edits",
+ "videos": [
+  {
+   "duration": 389,
+   "title": "William & The Young Five - You Turn Me On (JKriv Rework)",
+   "uri": "https://www.youtube.com/watch?v=iinNblc35dk"
+  },
+  {
+   "duration": 389,
+   "title": "You Turn Me On (JKriv Rework)",
+   "uri": "https://www.youtube.com/watch?v=D7gQg_2ioMw"
+  },
+  {
+   "duration": 379,
+   "title": "Thabong (Frankie Francis Bubblegum Dub)",
+   "uri": "https://www.youtube.com/watch?v=f3dr2XjxTRI"
+  },
+  {
+   "duration": 459,
+   "title": "Turn It Up (Frankie Francis 3AM Re-Edit)",
+   "uri": "https://www.youtube.com/watch?v=_OKymhWS6GQ"
+  },
+  {
+   "duration": 216,
+   "title": "Picnic",
+   "uri": "https://www.youtube.com/watch?v=4cn2L3HSH5A"
+  }
+ ],
  "year": 2018
 }

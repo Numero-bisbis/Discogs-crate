@@ -144,5 +144,62 @@
   }
  ],
  "uri": "https://www.discogs.com/release/100020-Sister-Sledge-Love-Somebody-Today",
+ "videos": [
+  {
+   "duration": 310,
+   "title": "Sister Sledge - Let's Go On Vacation",
+   "uri": "https://www.youtube.com/watch?v=COWdjL4_KKA"
+  },
+  {
+   "duration": 300,
+   "title": "Sister Sledge - Reach Your Peak",
+   "uri": "https://www.youtube.com/watch?v=6mT9kK5nfqI"
+  },
+  {
+   "duration": 275,
+   "title": "Sister Sledge - Easy Street",
+   "uri": "https://www.youtube.com/watch?v=o7oH-I9pWWY"
+  },
+  {
+   "duration": 269,
+   "title": "You Fooled Around",
+   "uri": "https://www.youtube.com/watch?v=Knu3BZZPGhk"
+  },
+  {
+   "duration": 275,
+   "title": "Sister Sledge  -  Easy Street",
+   "uri": "https://www.youtube.com/watch?v=yYffDZpHv0Y"
+  },
+  {
+   "duration": 296,
+   "title": "Reach Your Peak",
+   "uri": "https://www.youtube.com/watch?v=oSPhE_eYKpA"
+  },
+  {
+   "duration": 307,
+   "title": "Sister Sledge - Let's Go On Vacation",
+   "uri": "https://www.youtube.com/watch?v=D-3-PhEqdrg"
+  },
+  {
+   "duration": 210,
+   "title": "Sister Sledge - Got To Love Somebody (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=GewHOc5jmoc"
+  },
+  {
+   "duration": 252,
+   "title": "Sister Sledge  ~ I'm A Good Girl (1980)",
+   "uri": "https://www.youtube.com/watch?v=2D3Dlrv-bIg"
+  },
+  {
+   "duration": 245,
+   "title": "Sister Sledge - Pretty Baby",
+   "uri": "https://www.youtube.com/watch?v=X_76OiBdmfY"
+  },
+  {
+   "duration": 276,
+   "title": "Sister Sledge - How to Love",
+   "uri": "https://www.youtube.com/watch?v=IzP0SJ0vQNk"
+  }
+ ],
  "year": 1980
 }

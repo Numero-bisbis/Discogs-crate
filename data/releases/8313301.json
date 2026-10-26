@@ -81,5 +81,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/8313301-Folamour-Oyabun-EP",
+ "videos": [
+  {
+   "duration": 468,
+   "title": "Folamour - Novalaise",
+   "uri": "https://www.youtube.com/watch?v=ln7Lj4aKoTI"
+  },
+  {
+   "duration": 394,
+   "title": "Folamour - La Pierre et Le Sabre",
+   "uri": "https://www.youtube.com/watch?v=1ztUqaSbcyI"
+  },
+  {
+   "duration": 425,
+   "title": "Folamour - Rue D'Amsterdam",
+   "uri": "https://www.youtube.com/watch?v=GM6yCRNR-4Q"
+  },
+  {
+   "duration": 491,
+   "title": "Folamour - L'île Des Gauchers",
+   "uri": "https://www.youtube.com/watch?v=KhpE4jWjJLs"
+  },
+  {
+   "duration": 468,
+   "title": "Folamour - Novalaise",
+   "uri": "https://www.youtube.com/watch?v=ln7Lj4aKoTI"
+  },
+  {
+   "duration": 394,
+   "title": "Folamour - La Pierre et Le Sabre",
+   "uri": "https://www.youtube.com/watch?v=1ztUqaSbcyI"
+  },
+  {
+   "duration": 425,
+   "title": "Folamour - Rue D'Amsterdam",
+   "uri": "https://www.youtube.com/watch?v=GM6yCRNR-4Q"
+  },
+  {
+   "duration": 491,
+   "title": "Folamour - L'île Des Gauchers",
+   "uri": "https://www.youtube.com/watch?v=KhpE4jWjJLs"
+  }
+ ],
  "year": 2016
 }

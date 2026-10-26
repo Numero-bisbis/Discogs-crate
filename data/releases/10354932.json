@@ -277,5 +277,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/10354932-50-Cent-Best-Of",
+ "videos": [
+  {
+   "duration": 248,
+   "title": "50 Cent - In Da Club (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=5qm8PH4xAss"
+  },
+  {
+   "duration": 258,
+   "title": "50 Cent - Just A Lil Bit",
+   "uri": "https://www.youtube.com/watch?v=GllEDACUbNo"
+  },
+  {
+   "duration": 259,
+   "title": "50 Cent - 21 Questions (Official Music Video) ft. Nate Dogg",
+   "uri": "https://www.youtube.com/watch?v=cDMhlvbOFaM"
+  },
+  {
+   "duration": 250,
+   "title": "50 Cent - Candy Shop (Official Music Video) ft. Olivia",
+   "uri": "https://www.youtube.com/watch?v=SRcnnId15BA"
+  },
+  {
+   "duration": 299,
+   "title": "50 Cent - P.I.M.P. (Snoop Dogg Remix) ft. Snoop Dogg, G-Unit",
+   "uri": "https://www.youtube.com/watch?v=UDApZhXTpH8"
+  }
+ ],
  "year": 2017
 }

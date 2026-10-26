@@ -94,5 +94,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12167724-Anthony-Fade-Mind-Games-EP",
+ "videos": [
+  {
+   "duration": 337,
+   "title": "Mind Games",
+   "uri": "https://www.youtube.com/watch?v=cKJs7dZIbns"
+  },
+  {
+   "duration": 370,
+   "title": "M1 Cause Everyones Gotta Have Fun",
+   "uri": "https://www.youtube.com/watch?v=p1y98l_02kk"
+  },
+  {
+   "duration": 378,
+   "title": "I'm Weak",
+   "uri": "https://www.youtube.com/watch?v=-gieCW1TcJ8"
+  },
+  {
+   "duration": 296,
+   "title": "Dr. Ice",
+   "uri": "https://www.youtube.com/watch?v=bLxhanM3ViM"
+  }
+ ],
  "year": 2018
 }

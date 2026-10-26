@@ -69,5 +69,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12101626-Insólito-UniVerso-Vuelve-Décima",
+ "videos": [
+  {
+   "duration": 211,
+   "title": "Vuelve",
+   "uri": "https://www.youtube.com/watch?v=d6hKhxy4QoI"
+  },
+  {
+   "duration": 177,
+   "title": "Décima",
+   "uri": "https://www.youtube.com/watch?v=kGU_ZNsDCpk"
+  }
+ ],
  "year": 2018
 }

@@ -84,5 +84,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12128702-Vitess-Panama-Peppers-EP",
+ "videos": [
+  {
+   "duration": 396,
+   "title": "Vitess - Panama Peppers",
+   "uri": "https://www.youtube.com/watch?v=6owGUhLjIsg"
+  },
+  {
+   "duration": 428,
+   "title": "Vitess - Rude",
+   "uri": "https://www.youtube.com/watch?v=s8QJnJ0wWXw"
+  },
+  {
+   "duration": 421,
+   "title": "Vitess - GSH",
+   "uri": "https://www.youtube.com/watch?v=1FAYtZGfWWo"
+  },
+  {
+   "duration": 395,
+   "title": "Jazz Affairs",
+   "uri": "https://www.youtube.com/watch?v=SGGXTbkDqd8"
+  },
+  {
+   "duration": 396,
+   "title": "Vitess - Panama Peppers",
+   "uri": "https://www.youtube.com/watch?v=6owGUhLjIsg"
+  },
+  {
+   "duration": 428,
+   "title": "Vitess - Rude",
+   "uri": "https://www.youtube.com/watch?v=s8QJnJ0wWXw"
+  },
+  {
+   "duration": 421,
+   "title": "Vitess - GSH",
+   "uri": "https://www.youtube.com/watch?v=1FAYtZGfWWo"
+  },
+  {
+   "duration": 395,
+   "title": "Jazz Affairs",
+   "uri": "https://www.youtube.com/watch?v=SGGXTbkDqd8"
+  }
+ ],
  "year": 2018
 }

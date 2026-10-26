@@ -85,5 +85,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/2473305-Barker-Baumecker-Candyflip",
+ "videos": [
+  {
+   "duration": 327,
+   "title": "Barker & Baumecker - The Hole",
+   "uri": "https://www.youtube.com/watch?v=DbFWYM9Zhdc"
+  },
+  {
+   "duration": 559,
+   "title": "Barker & baumecker- candyflip",
+   "uri": "https://www.youtube.com/watch?v=Uhovaf7p6mc"
+  },
+  {
+   "duration": 327,
+   "title": "Barker & Baumecker - The Hole",
+   "uri": "https://www.youtube.com/watch?v=DbFWYM9Zhdc"
+  },
+  {
+   "duration": 559,
+   "title": "Barker & baumecker- candyflip",
+   "uri": "https://www.youtube.com/watch?v=Uhovaf7p6mc"
+  }
+ ],
  "year": 2010
 }

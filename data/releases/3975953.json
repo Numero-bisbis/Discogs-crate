@@ -1735,5 +1735,42 @@
   }
  ],
  "uri": "https://www.discogs.com/release/3975953-Kendrick-Lamar-Good-Kid-MAAD-City",
+ "videos": [
+  {
+   "duration": 351,
+   "title": "m.A.A.d city",
+   "uri": "https://www.youtube.com/watch?v=mprkqDNUQb0"
+  },
+  {
+   "duration": 215,
+   "title": "good kid",
+   "uri": "https://www.youtube.com/watch?v=raZ03s1rzd0"
+  },
+  {
+   "duration": 215,
+   "title": "good kid",
+   "uri": "https://www.youtube.com/watch?v=kjUyud5KtiE"
+  },
+  {
+   "duration": 325,
+   "title": "The Art of Peer Pressure",
+   "uri": "https://www.youtube.com/watch?v=t93uK0DKvEk"
+  },
+  {
+   "duration": 387,
+   "title": "Money Trees",
+   "uri": "https://www.youtube.com/watch?v=Iy-dJwHVX84"
+  },
+  {
+   "duration": 0,
+   "title": "Sing About Me, I'm Dying Of Thirst",
+   "uri": "https://www.youtube.com/watch?v=75wmW7xjyog"
+  },
+  {
+   "duration": 387,
+   "title": "Money Trees",
+   "uri": "https://www.youtube.com/watch?v=HJNa9Ih3haA"
+  }
+ ],
  "year": 2012
 }

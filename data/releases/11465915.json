@@ -75,5 +75,22 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11465915-Ramiro-Lopez-Being-Alone",
+ "videos": [
+  {
+   "duration": 397,
+   "title": "Ramiro Lopez - Being Alone",
+   "uri": "https://www.youtube.com/watch?v=Gcr8wFshg0o"
+  },
+  {
+   "duration": 426,
+   "title": "Ramiro Lopez - Der Raum",
+   "uri": "https://www.youtube.com/watch?v=I8DMyHRCoJE"
+  },
+  {
+   "duration": 380,
+   "title": "Ramiro Lopez - Dark Science",
+   "uri": "https://www.youtube.com/watch?v=7tMxNGY6Q6g"
+  }
+ ],
  "year": 2018
 }

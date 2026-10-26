@@ -71,5 +71,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/10069281-Monsalve-Y-Los-Forajidos-Abeja--Black-Decker",
+ "videos": [
+  {
+   "duration": 296,
+   "title": "Monsalve Y Los Forajidos - Abeja",
+   "uri": "https://www.youtube.com/watch?v=ECzy-pAjZhU"
+  },
+  {
+   "duration": 301,
+   "title": "Monsalve Y Los Forajidos - Black & Decker",
+   "uri": "https://www.youtube.com/watch?v=uiTWEvkFgPU"
+  }
+ ],
  "year": 2017
 }

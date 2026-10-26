@@ -81,5 +81,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/2325882-Paul-Chambers-2-Yeah-Techno",
+ "videos": [
+  {
+   "duration": 257,
+   "title": "Paul Chambers - Yeah, Techno! (Soulwax Remix)",
+   "uri": "https://www.youtube.com/watch?v=_wZmFjQDnec"
+  },
+  {
+   "duration": 170,
+   "title": "2 Many Djs feat. Paul Chambers - Yeah, Techno!",
+   "uri": "https://www.youtube.com/watch?v=kyFJTO_1vVA"
+  },
+  {
+   "duration": 400,
+   "title": "Paul Chambers - Yeah, Techno!",
+   "uri": "https://www.youtube.com/watch?v=Ecp5ASQSzsE"
+  },
+  {
+   "duration": 257,
+   "title": "Paul Chambers - Yeah, Techno! (Soulwax Remix)",
+   "uri": "https://www.youtube.com/watch?v=_wZmFjQDnec"
+  },
+  {
+   "duration": 170,
+   "title": "2 Many Djs feat. Paul Chambers - Yeah, Techno!",
+   "uri": "https://www.youtube.com/watch?v=kyFJTO_1vVA"
+  }
+ ],
  "year": 2010
 }

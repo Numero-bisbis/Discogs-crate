@@ -80,5 +80,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/10737-Robert-Hood-The-Greatest-Dancer",
+ "videos": [
+  {
+   "duration": 333,
+   "title": "Robert Hood - A1 - The Greatest Dancer (Live At Motor)",
+   "uri": "https://www.youtube.com/watch?v=VlkyFp5zepg"
+  },
+  {
+   "duration": 281,
+   "title": "Robert Hood - B1 - The Greatest Dancer (Studio Version)",
+   "uri": "https://www.youtube.com/watch?v=0AtGhHQZy5U"
+  },
+  {
+   "duration": 333,
+   "title": "Robert Hood - A1 - The Greatest Dancer (Live At Motor)",
+   "uri": "https://www.youtube.com/watch?v=VlkyFp5zepg"
+  },
+  {
+   "duration": 281,
+   "title": "Robert Hood - B1 - The Greatest Dancer (Studio Version)",
+   "uri": "https://www.youtube.com/watch?v=0AtGhHQZy5U"
+  },
+  {
+   "duration": 285,
+   "title": "Robert Hood - The Greatest Dancer",
+   "uri": "https://www.youtube.com/watch?v=j-CiUUfmcoI"
+  },
+  {
+   "duration": 418,
+   "title": "Robert Hood – Dancer",
+   "uri": "https://www.youtube.com/watch?v=viAldomRag0"
+  }
+ ],
  "year": 2001
 }

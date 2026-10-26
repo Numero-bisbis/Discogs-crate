@@ -167,5 +167,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/10302121-Quantic-Nidia-Góngora-Curao",
+ "videos": [
+  {
+   "duration": 4134,
+   "title": "Quantic & Nidia Góngora - Curao (Full Album) 2017",
+   "uri": "https://www.youtube.com/watch?v=IbVrNDmj1k8"
+  },
+  {
+   "duration": 261,
+   "title": "Quantic & Nidia Góngora - Que Me Duele?",
+   "uri": "https://www.youtube.com/watch?v=KFEC9XeAMW8"
+  }
+ ],
  "year": 2017
 }

@@ -70,5 +70,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/10362729-Kölsch-Speicher-97",
+ "videos": [
+  {
+   "duration": 668,
+   "title": "Kölsch - Goodbye",
+   "uri": "https://www.youtube.com/watch?v=0joIn0wkpIs"
+  },
+  {
+   "duration": 443,
+   "title": "Kölsch - PUSH",
+   "uri": "https://www.youtube.com/watch?v=sjmJw0tEaIM"
+  },
+  {
+   "duration": 668,
+   "title": "Kölsch - Goodbye",
+   "uri": "https://www.youtube.com/watch?v=0joIn0wkpIs"
+  },
+  {
+   "duration": 443,
+   "title": "Kölsch - PUSH",
+   "uri": "https://www.youtube.com/watch?v=sjmJw0tEaIM"
+  }
+ ],
  "year": 2017
 }

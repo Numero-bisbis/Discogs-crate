@@ -69,5 +69,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/9891801-Bolis-Pupul-Wèi-Teknow",
+ "videos": [
+  {
+   "duration": 560,
+   "title": "Bolis Pupul - Wei - DEEWEE020",
+   "uri": "https://www.youtube.com/watch?v=Vod9e4brRYg"
+  },
+  {
+   "duration": 318,
+   "title": "Bolis Pupul - Teknow - DEEWEE020",
+   "uri": "https://www.youtube.com/watch?v=oxtmcpVlIH8"
+  },
+  {
+   "duration": 560,
+   "title": "Bolis Pupul - Wei - DEEWEE020",
+   "uri": "https://www.youtube.com/watch?v=Vod9e4brRYg"
+  },
+  {
+   "duration": 318,
+   "title": "Bolis Pupul - Teknow - DEEWEE020",
+   "uri": "https://www.youtube.com/watch?v=oxtmcpVlIH8"
+  }
+ ],
  "year": 2017
 }

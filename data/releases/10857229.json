@@ -91,5 +91,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/10857229-Tale-Of-Us-Vaal-2-Monument",
+ "videos": [
+  {
+   "duration": 362,
+   "title": "AL006 - Tale Of Us & Vaal - Monument",
+   "uri": "https://www.youtube.com/watch?v=n0AL2h0DWzg"
+  },
+  {
+   "duration": 373,
+   "title": "AL006 - Tale Of Us & Vaal - The Hangar",
+   "uri": "https://www.youtube.com/watch?v=LxEFP8cFwjM"
+  },
+  {
+   "duration": 362,
+   "title": "AL006 - Tale Of Us & Vaal - Monument",
+   "uri": "https://www.youtube.com/watch?v=n0AL2h0DWzg"
+  },
+  {
+   "duration": 373,
+   "title": "AL006 - Tale Of Us & Vaal - The Hangar",
+   "uri": "https://www.youtube.com/watch?v=LxEFP8cFwjM"
+  }
+ ],
  "year": 2017
 }

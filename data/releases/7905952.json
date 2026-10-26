@@ -85,5 +85,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/7905952-Thomas-Schumacher-Victor-Ruiz-2-Apollo",
+ "videos": [
+  {
+   "duration": 346,
+   "title": "Thomas Schumacher & Victor Ruiz - Apollo",
+   "uri": "https://www.youtube.com/watch?v=HAnYtsqC5x8"
+  },
+  {
+   "duration": 251,
+   "title": "Thomas Schumacher & Victor Ruiz - Satellite",
+   "uri": "https://www.youtube.com/watch?v=rHxTeVViI34"
+  },
+  {
+   "duration": 281,
+   "title": "Thomas Schumacher & Victor Ruiz - Geist",
+   "uri": "https://www.youtube.com/watch?v=9d0w2p-6Nv4"
+  },
+  {
+   "duration": 471,
+   "title": "Thomas Schumacher, Victor Ruiz - Geist",
+   "uri": "https://www.youtube.com/watch?v=y_jOtZuqvWo"
+  },
+  {
+   "duration": 346,
+   "title": "Thomas Schumacher & Victor Ruiz - Apollo",
+   "uri": "https://www.youtube.com/watch?v=HAnYtsqC5x8"
+  },
+  {
+   "duration": 251,
+   "title": "Thomas Schumacher & Victor Ruiz - Satellite",
+   "uri": "https://www.youtube.com/watch?v=rHxTeVViI34"
+  },
+  {
+   "duration": 281,
+   "title": "Thomas Schumacher & Victor Ruiz - Geist",
+   "uri": "https://www.youtube.com/watch?v=9d0w2p-6Nv4"
+  },
+  {
+   "duration": 471,
+   "title": "Thomas Schumacher, Victor Ruiz - Geist",
+   "uri": "https://www.youtube.com/watch?v=y_jOtZuqvWo"
+  }
+ ],
  "year": 2015
 }

@@ -101,5 +101,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11976992-Ezra-Collective-Juan-Pablo-The-Philosopher",
+ "videos": [
+  {
+   "duration": 1398,
+   "title": "Ezra Collective - Juan Pablo: The Philosopher [Full EP]",
+   "uri": "https://www.youtube.com/watch?v=egqklLjQ2dw"
+  },
+  {
+   "duration": 303,
+   "title": "Ezra Collective - Juan Pablo",
+   "uri": "https://www.youtube.com/watch?v=Y2ztrtoWEI4"
+  }
+ ],
  "year": 2018
 }

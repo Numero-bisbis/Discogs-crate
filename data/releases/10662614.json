@@ -71,5 +71,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/10662614-Klanken-Vier-Vijf",
+ "videos": [
+  {
+   "duration": 346,
+   "title": "Klanken - Vier - DEEWEE024",
+   "uri": "https://www.youtube.com/watch?v=MldPssvTwYo"
+  },
+  {
+   "duration": 395,
+   "title": "Klanken - Vijf - DEEWEE024",
+   "uri": "https://www.youtube.com/watch?v=rApo2nXjFrU"
+  }
+ ],
  "year": 2017
 }

@@ -422,5 +422,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12125064-Kanye-West-Late-Registration",
+ "videos": [
+  {
+   "duration": 326,
+   "title": "Kanye West - Touch The Sky (MTV Version) ft. Lupe Fiasco",
+   "uri": "https://www.youtube.com/watch?v=YkwQbuAGLj4"
+  },
+  {
+   "duration": 192,
+   "title": "Kanye West - Heard 'Em Say ft. Adam Levine",
+   "uri": "https://www.youtube.com/watch?v=elVF7oG0pQs"
+  },
+  {
+   "duration": 302,
+   "title": "Kanye West - Diamonds From Sierra Leone",
+   "uri": "https://www.youtube.com/watch?v=92FCRmggNqQ"
+  },
+  {
+   "duration": 222,
+   "title": "Kanye West - Gold Digger ft. Jamie Foxx",
+   "uri": "https://www.youtube.com/watch?v=6vwNcNOTVzY"
+  }
+ ],
  "year": 2018
 }

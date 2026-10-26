@@ -356,5 +356,52 @@
   }
  ],
  "uri": "https://www.discogs.com/release/4867259-Gregory-Porter-Liquid-Spirit",
+ "videos": [
+  {
+   "duration": 236,
+   "title": "No Love Dying",
+   "uri": "https://www.youtube.com/watch?v=nIrb9sO4iYM"
+  },
+  {
+   "duration": 190,
+   "title": "Lonesome Lover",
+   "uri": "https://www.youtube.com/watch?v=2NwOBUqt-tA"
+  },
+  {
+   "duration": 212,
+   "title": "Water Under Bridges",
+   "uri": "https://www.youtube.com/watch?v=hpzFhVokZ2o"
+  },
+  {
+   "duration": 212,
+   "title": "Gregory Porter - Hey Laura (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=ZWUAKq-reLQ"
+  },
+  {
+   "duration": 223,
+   "title": "Musical Genocide",
+   "uri": "https://www.youtube.com/watch?v=aWEl_5MlxXc"
+  },
+  {
+   "duration": 258,
+   "title": "Brown Grass",
+   "uri": "https://www.youtube.com/watch?v=-CMGYdM5iOA"
+  },
+  {
+   "duration": 288,
+   "title": "Movin'",
+   "uri": "https://www.youtube.com/watch?v=H5fMDPV7t_I"
+  },
+  {
+   "duration": 249,
+   "title": "Wolfcry",
+   "uri": "https://www.youtube.com/watch?v=MxN6ucQ3mio"
+  },
+  {
+   "duration": 203,
+   "title": "Time Is Ticking",
+   "uri": "https://www.youtube.com/watch?v=cqjev1P66pU"
+  }
+ ],
  "year": 2013
 }

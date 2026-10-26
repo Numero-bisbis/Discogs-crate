@@ -127,5 +127,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11434445-Gwen-McCrae-Keep-The-Fire-Burning-Funky-Sensation",
+ "videos": [
+  {
+   "duration": 414,
+   "title": "Gwen McCrae - Keep The Fire Burning (12\" Club Re-Mix 1982)",
+   "uri": "https://www.youtube.com/watch?v=ed9QQHOUeG4"
+  },
+  {
+   "duration": 397,
+   "title": "Gwen McCrae - Funky Sensation",
+   "uri": "https://www.youtube.com/watch?v=8-AgEDH0hJA"
+  },
+  {
+   "duration": 344,
+   "title": "Gwen McCrae - Keep The Fire Burning (Extended)",
+   "uri": "https://www.youtube.com/watch?v=3AKw_6G_e00"
+  },
+  {
+   "duration": 331,
+   "title": "Gwen McCrae - Keep The Fire Burning 1982 (Remastered)",
+   "uri": "https://www.youtube.com/watch?v=TZiCmKHnakQ"
+  },
+  {
+   "duration": 306,
+   "title": "Gwen McCrae - Keep The Fire Burning (Dave Lee fka Joey Negro Feed The Flame Mix)",
+   "uri": "https://www.youtube.com/watch?v=PfzU3oLfSXU"
+  },
+  {
+   "duration": 354,
+   "title": "Gwen McCrae - Keep The Fire Burning (Dj \"S\" Rework)",
+   "uri": "https://www.youtube.com/watch?v=C_0hJf1TAww"
+  }
+ ],
  "year": 2018
 }

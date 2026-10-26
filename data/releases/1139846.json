@@ -101,5 +101,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/1139846-2Pac-Feat-Dr-Dre-Roger-Troutman-California-Love",
+ "videos": [
+  {
+   "duration": 286,
+   "title": "California Love (Original Version)",
+   "uri": "https://www.youtube.com/watch?v=J7_bMdYfSws"
+  },
+  {
+   "duration": 339,
+   "title": "2Pac - California Love (Remix) (feat. Dr. Dre)",
+   "uri": "https://www.youtube.com/watch?v=PK17simO-_g"
+  },
+  {
+   "duration": 250,
+   "title": "2PAC- California Love [(RMX) Instrumental]",
+   "uri": "https://www.youtube.com/watch?v=zrL6GSG3dCU"
+  },
+  {
+   "duration": 283,
+   "title": "2Pac - California Love (Instrumental) (Greatest Hits Instrumentals)",
+   "uri": "https://www.youtube.com/watch?v=5PJkBHMaWvk"
+  },
+  {
+   "duration": 407,
+   "title": "2Pac ft. Dr. Dre and Roger Troutman - California Love (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=N0VdRLdg2ng"
+  }
+ ],
  "year": 1995
 }

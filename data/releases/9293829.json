@@ -273,5 +273,62 @@
   }
  ],
  "uri": "https://www.discogs.com/release/9293829-Miles-Davis-Birth-Of-The-Cool",
+ "videos": [
+  {
+   "duration": 155,
+   "title": "Move (Remastered 1998)",
+   "uri": "https://www.youtube.com/watch?v=I9ik43_XsNU"
+  },
+  {
+   "duration": 194,
+   "title": "Jeru (Remastered 1998)",
+   "uri": "https://www.youtube.com/watch?v=qH1x4ODEJo4"
+  },
+  {
+   "duration": 202,
+   "title": "Moon Dreams (Remastered 1998)",
+   "uri": "https://www.youtube.com/watch?v=xLWTnzYjOwY"
+  },
+  {
+   "duration": 194,
+   "title": "Venus De Milo (Remastered 1998)",
+   "uri": "https://www.youtube.com/watch?v=ApAv7hfkf40"
+  },
+  {
+   "duration": 155,
+   "title": "Budo (Remastered 1998)",
+   "uri": "https://www.youtube.com/watch?v=Ij1RVSnJ37Q"
+  },
+  {
+   "duration": 170,
+   "title": "Deception (Remastered 1998)",
+   "uri": "https://www.youtube.com/watch?v=ELH41tXT_ts"
+  },
+  {
+   "duration": 191,
+   "title": "Godchild (Remastered 1998)",
+   "uri": "https://www.youtube.com/watch?v=rj0W39jVJg8"
+  },
+  {
+   "duration": 182,
+   "title": "Boplicity (Remastered 1998)",
+   "uri": "https://www.youtube.com/watch?v=yD1vqbKTBrM"
+  },
+  {
+   "duration": 188,
+   "title": "Rocker (Remastered 1998)",
+   "uri": "https://www.youtube.com/watch?v=Y8_vARqOpGg"
+  },
+  {
+   "duration": 140,
+   "title": "Israel (Remastered 1998)",
+   "uri": "https://www.youtube.com/watch?v=zmZXKQ0dBbI"
+  },
+  {
+   "duration": 197,
+   "title": "Rouge (Remastered 1998)",
+   "uri": "https://www.youtube.com/watch?v=hWv9n2v6NFY"
+  }
+ ],
  "year": 2016
 }

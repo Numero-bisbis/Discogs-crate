@@ -154,5 +154,52 @@
   }
  ],
  "uri": "https://www.discogs.com/release/3450561-Pacheco-Y-Monguito-El-Unico-La-Crema",
+ "videos": [
+  {
+   "duration": 243,
+   "title": "Chambelón",
+   "uri": "https://www.youtube.com/watch?v=4o9q3fEpc-o"
+  },
+  {
+   "duration": 173,
+   "title": "La Rebelión",
+   "uri": "https://www.youtube.com/watch?v=X5u-Ns5t6X4"
+  },
+  {
+   "duration": 209,
+   "title": "Quítate El Chaquetón",
+   "uri": "https://www.youtube.com/watch?v=MOWRiEWLKMI"
+  },
+  {
+   "duration": 297,
+   "title": "El Pajaro y El Cazador - Pacheco y Monguito El Unico",
+   "uri": "https://www.youtube.com/watch?v=vEvwLYoX37M"
+  },
+  {
+   "duration": 177,
+   "title": "Sasonando",
+   "uri": "https://www.youtube.com/watch?v=KN7k1coAkHc"
+  },
+  {
+   "duration": 154,
+   "title": "Pacheco & Monguito ''El Unico''- El Diablo",
+   "uri": "https://www.youtube.com/watch?v=YArkWNVMKD4"
+  },
+  {
+   "duration": 168,
+   "title": "No Tienes Corazón",
+   "uri": "https://www.youtube.com/watch?v=1tVR7TbWKRk"
+  },
+  {
+   "duration": 151,
+   "title": "El Diablo",
+   "uri": "https://www.youtube.com/watch?v=XrPPHmUPTDQ"
+  },
+  {
+   "duration": 304,
+   "title": "Amanecer Guajiro - Pacheco y Monguito 'El Unico'",
+   "uri": "https://www.youtube.com/watch?v=2Py_izEVfOM"
+  }
+ ],
  "year": 1980
 }

@@ -798,5 +798,42 @@
   }
  ],
  "uri": "https://www.discogs.com/release/2922191-Metronomy-The-English-Riviera",
+ "videos": [
+  {
+   "duration": 2612,
+   "title": "Metronomy - The English Riviera (Full album)",
+   "uri": "https://www.youtube.com/watch?v=1k072RTcI-E"
+  },
+  {
+   "duration": 312,
+   "title": "Metronomy - She Wants (Music Video)",
+   "uri": "https://www.youtube.com/watch?v=ntVV3dTo-qw"
+  },
+  {
+   "duration": 2612,
+   "title": "Metronomy - The English Riviera (Full album)",
+   "uri": "https://www.youtube.com/watch?v=1k072RTcI-E"
+  },
+  {
+   "duration": 2612,
+   "title": "Metronomy - The English Riviera (Full album)",
+   "uri": "https://www.youtube.com/watch?v=1k072RTcI-E"
+  },
+  {
+   "duration": 312,
+   "title": "Metronomy - She Wants (Music Video)",
+   "uri": "https://www.youtube.com/watch?v=ntVV3dTo-qw"
+  },
+  {
+   "duration": 436,
+   "title": "Metronomy - The Look (Fred Falke Remix)",
+   "uri": "https://www.youtube.com/watch?v=IR6NFF1DKGY"
+  },
+  {
+   "duration": 0,
+   "title": "Metronomy - The English Riviera (Instrumental)",
+   "uri": "https://www.youtube.com/watch?v=EYj1G5hLJXw"
+  }
+ ],
  "year": 2011
 }

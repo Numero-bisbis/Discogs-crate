@@ -75,5 +75,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/6426201-Ghost-Culture-Giudecca",
+ "videos": [
+  {
+   "duration": 443,
+   "title": "Giudecca (Gabe Gurnsey / Factory Floor Remix)",
+   "uri": "https://www.youtube.com/watch?v=MreZI33oq1c"
+  },
+  {
+   "duration": 270,
+   "title": "Ghost Culture - Giudecca (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=pN6RJKp2knA"
+  },
+  {
+   "duration": 391,
+   "title": "Ghost Culture - Half Open [PH33]",
+   "uri": "https://www.youtube.com/watch?v=p1rMdufUOds"
+  },
+  {
+   "duration": 443,
+   "title": "Giudecca (Gabe Gurnsey / Factory Floor Remix)",
+   "uri": "https://www.youtube.com/watch?v=MreZI33oq1c"
+  }
+ ],
  "year": 2014
 }

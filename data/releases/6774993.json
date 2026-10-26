@@ -68,5 +68,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/6774993-Alan-Fitzpatrick-Turn-Down-The-Lights",
+ "videos": [
+  {
+   "duration": 468,
+   "title": "Alan Fitzpatrick - Organic - Drumcode - DC134",
+   "uri": "https://www.youtube.com/watch?v=VBn9DdDF5VM"
+  },
+  {
+   "duration": 474,
+   "title": "Alan Fitzpatrick - Turn Down The Lights - Drumcode - DC134",
+   "uri": "https://www.youtube.com/watch?v=8bodm7vspZE"
+  },
+  {
+   "duration": 468,
+   "title": "Alan Fitzpatrick - Organic - Drumcode - DC134",
+   "uri": "https://www.youtube.com/watch?v=VBn9DdDF5VM"
+  },
+  {
+   "duration": 474,
+   "title": "Alan Fitzpatrick - Turn Down The Lights - Drumcode - DC134",
+   "uri": "https://www.youtube.com/watch?v=8bodm7vspZE"
+  }
+ ],
  "year": 2015
 }

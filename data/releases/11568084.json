@@ -97,5 +97,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11568084-Acid-Mondays-Universal-Rhythm",
+ "videos": [
+  {
+   "duration": 575,
+   "title": "Acid Mondays - Universal Rhythm",
+   "uri": "https://www.youtube.com/watch?v=-LqnS3bFbQs"
+  },
+  {
+   "duration": 410,
+   "title": "Acid Mondays - Universal Rhythm (The Maghreban Soul Remix)",
+   "uri": "https://www.youtube.com/watch?v=cZsw6I7RZvI"
+  },
+  {
+   "duration": 575,
+   "title": "Acid Mondays - Universal Rhythm (Instrumental)",
+   "uri": "https://www.youtube.com/watch?v=rhYJFCjL4AI"
+  },
+  {
+   "duration": 439,
+   "title": "Acid Mondays - Universal Rhythm (Dub Mix)",
+   "uri": "https://www.youtube.com/watch?v=B3PXmvqD6-8"
+  }
+ ],
  "year": 2018
 }

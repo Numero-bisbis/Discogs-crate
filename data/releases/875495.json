@@ -145,5 +145,47 @@
   }
  ],
  "uri": "https://www.discogs.com/release/875495-The-John-Coltrane-Quartette-Coltrane",
+ "videos": [
+  {
+   "duration": 396,
+   "title": "Tunji",
+   "uri": "https://www.youtube.com/watch?v=V5BANWNvxJ0"
+  },
+  {
+   "duration": 455,
+   "title": "Miles' Mode",
+   "uri": "https://www.youtube.com/watch?v=YS5V_8s2ak4"
+  },
+  {
+   "duration": 327,
+   "title": "Soul Eyes",
+   "uri": "https://www.youtube.com/watch?v=Y_z4pYO4Y_g"
+  },
+  {
+   "duration": 396,
+   "title": "Tunji",
+   "uri": "https://www.youtube.com/watch?v=V5BANWNvxJ0"
+  },
+  {
+   "duration": 455,
+   "title": "Miles' Mode",
+   "uri": "https://www.youtube.com/watch?v=YS5V_8s2ak4"
+  },
+  {
+   "duration": 327,
+   "title": "Soul Eyes",
+   "uri": "https://www.youtube.com/watch?v=Y_z4pYO4Y_g"
+  },
+  {
+   "duration": 379,
+   "title": "The Inch Worm",
+   "uri": "https://www.youtube.com/watch?v=3FoZvkTfQd8"
+  },
+  {
+   "duration": 0,
+   "title": "Out Of This World",
+   "uri": "https://www.youtube.com/watch?v=6aKHMd_jESI"
+  }
+ ],
  "year": 1962
 }

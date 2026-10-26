@@ -91,5 +91,57 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11912257-Waaju-Waaju",
+ "videos": [
+  {
+   "duration": 391,
+   "title": "Waaju",
+   "uri": "https://www.youtube.com/watch?v=EngH5tyr300"
+  },
+  {
+   "duration": 423,
+   "title": "Kaolack",
+   "uri": "https://www.youtube.com/watch?v=V3k-qly8BMo"
+  },
+  {
+   "duration": 501,
+   "title": "Ali's Mali",
+   "uri": "https://www.youtube.com/watch?v=yr4pOsOEg7U"
+  },
+  {
+   "duration": 385,
+   "title": "Maroc",
+   "uri": "https://www.youtube.com/watch?v=yaekOpn9JPQ"
+  },
+  {
+   "duration": 356,
+   "title": "Neleh",
+   "uri": "https://www.youtube.com/watch?v=UgeeQkmDbpw"
+  },
+  {
+   "duration": 391,
+   "title": "Waaju",
+   "uri": "https://www.youtube.com/watch?v=EngH5tyr300"
+  },
+  {
+   "duration": 423,
+   "title": "Kaolack",
+   "uri": "https://www.youtube.com/watch?v=V3k-qly8BMo"
+  },
+  {
+   "duration": 501,
+   "title": "Ali's Mali",
+   "uri": "https://www.youtube.com/watch?v=yr4pOsOEg7U"
+  },
+  {
+   "duration": 385,
+   "title": "Maroc",
+   "uri": "https://www.youtube.com/watch?v=yaekOpn9JPQ"
+  },
+  {
+   "duration": 356,
+   "title": "Neleh",
+   "uri": "https://www.youtube.com/watch?v=UgeeQkmDbpw"
+  }
+ ],
  "year": 2018
 }

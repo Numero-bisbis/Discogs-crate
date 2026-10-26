@@ -78,5 +78,22 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11410470-Anthony-Fade-Auto-Disco",
+ "videos": [
+  {
+   "duration": 374,
+   "title": "Anthony Fade - Higher",
+   "uri": "https://www.youtube.com/watch?v=MgPSOcx16dk"
+  },
+  {
+   "duration": 345,
+   "title": "Anthony Fade - YMMF (Auto Disco Mix)",
+   "uri": "https://www.youtube.com/watch?v=5pG4o6ZJ0KY"
+  },
+  {
+   "duration": 297,
+   "title": "Anthony Fade - No Limit",
+   "uri": "https://www.youtube.com/watch?v=2EnbL4McR-g"
+  }
+ ],
  "year": 2018
 }

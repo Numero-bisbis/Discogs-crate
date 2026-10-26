@@ -195,5 +195,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/6943133-Etienne-De-Crécy-With-Kilo-Kish-Etienne-De-Crécy-With-Baxter-Dury-Follow-Family",
+ "videos": [
+  {
+   "duration": 245,
+   "title": "Etienne de Crécy with Baxter Dury - Family (Audio) ft. Baxter Dury",
+   "uri": "https://www.youtube.com/watch?v=XDJazlU0AxE"
+  },
+  {
+   "duration": 212,
+   "title": "Etienne de Crécy with Kilo Kish - Follow (Audio) ft. Kilo Kish",
+   "uri": "https://www.youtube.com/watch?v=S8tQ11tu1n0"
+  }
+ ],
  "year": 2015
 }

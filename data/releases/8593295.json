@@ -69,5 +69,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/8593295-Midland-Final-Credits",
+ "videos": [
+  {
+   "duration": 440,
+   "title": "Midland 'Final Credits'",
+   "uri": "https://www.youtube.com/watch?v=dVExpCA_H3A"
+  },
+  {
+   "duration": 357,
+   "title": "Midland - Vigilante [REGRD003]",
+   "uri": "https://www.youtube.com/watch?v=1A7arqYtOQI"
+  },
+  {
+   "duration": 440,
+   "title": "Midland 'Final Credits'",
+   "uri": "https://www.youtube.com/watch?v=dVExpCA_H3A"
+  },
+  {
+   "duration": 357,
+   "title": "Midland - Vigilante [REGRD003]",
+   "uri": "https://www.youtube.com/watch?v=1A7arqYtOQI"
+  }
+ ],
  "year": 2016
 }

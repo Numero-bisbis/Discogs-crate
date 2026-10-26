@@ -232,5 +232,32 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11316873-Lords-Of-The-Underground-Here-Come-The-Lords",
+ "videos": [
+  {
+   "duration": 258,
+   "title": "Here Come The Lords (Explicit)",
+   "uri": "https://www.youtube.com/watch?v=K-mtA_HNJjs"
+  },
+  {
+   "duration": 248,
+   "title": "Chief Rocka",
+   "uri": "https://www.youtube.com/watch?v=TBqrcwcZ-88"
+  },
+  {
+   "duration": 272,
+   "title": "Funky Child",
+   "uri": "https://www.youtube.com/watch?v=9zZ10Jw5ecc"
+  },
+  {
+   "duration": 244,
+   "title": "Madd Skillz (Explicit)",
+   "uri": "https://www.youtube.com/watch?v=jQ91YghgWVI"
+  },
+  {
+   "duration": 249,
+   "title": "Psycho (Explicit)",
+   "uri": "https://www.youtube.com/watch?v=0kpI0mvM6V8"
+  }
+ ],
  "year": 2018
 }

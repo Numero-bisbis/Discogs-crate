@@ -315,5 +315,22 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12149773-John-Coltrane-Both-Directions-At-Once-The-Lost-Album",
+ "videos": [
+  {
+   "duration": 0,
+   "title": "John Coltrane  - Both Directions at Once - The Lost Album - 1963",
+   "uri": "https://www.youtube.com/watch?v=-xH8WiV-6yA"
+  },
+  {
+   "duration": 0,
+   "title": "John Coltrane - Both Directions At Once The Lost Album | 1st Impressions",
+   "uri": "https://www.youtube.com/watch?v=MRLCL5GTKm4"
+  },
+  {
+   "duration": 0,
+   "title": "John Coltrane / Lost Album / 1-A",
+   "uri": "https://www.youtube.com/watch?v=s78PjCHu0Bs"
+  }
+ ],
  "year": 2018
 }

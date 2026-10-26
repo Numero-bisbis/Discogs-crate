@@ -70,5 +70,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11466547-Anna-Speicher-101",
+ "videos": [
+  {
+   "duration": 400,
+   "title": "The Dansant",
+   "uri": "https://www.youtube.com/watch?v=8QFRQyCMURo"
+  },
+  {
+   "duration": 437,
+   "title": "Hidden Beauties",
+   "uri": "https://www.youtube.com/watch?v=brDscSzeSA8"
+  },
+  {
+   "duration": 400,
+   "title": "The Dansant",
+   "uri": "https://www.youtube.com/watch?v=8QFRQyCMURo"
+  },
+  {
+   "duration": 437,
+   "title": "Hidden Beauties",
+   "uri": "https://www.youtube.com/watch?v=brDscSzeSA8"
+  }
+ ],
  "year": 2018
 }

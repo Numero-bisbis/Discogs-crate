@@ -121,5 +121,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11701503-Yussef-Kamaal-Black-Focus",
+ "videos": [
+  {
+   "duration": 127,
+   "title": "Yussef Kamaal - Mansur's Message",
+   "uri": "https://www.youtube.com/watch?v=Dqk0LtYpKEg"
+  },
+  {
+   "duration": 0,
+   "title": "Yussef Kamaal - Black Focus (Full Album Upload)",
+   "uri": "https://www.youtube.com/watch?v=4D8YPDdsxYU"
+  }
+ ],
  "year": 2017
 }

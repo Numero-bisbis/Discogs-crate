@@ -94,5 +94,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/9048621-Rufus-6-Wildflowers",
+ "videos": [
+  {
+   "duration": 346,
+   "title": "Rufus - Wildflowers (BR002)",
+   "uri": "https://www.youtube.com/watch?v=PrT2atokyyw"
+  },
+  {
+   "duration": 511,
+   "title": "Rufus - Rodha's Groove (BR002)",
+   "uri": "https://www.youtube.com/watch?v=mxEkO4TxlRA"
+  },
+  {
+   "duration": 396,
+   "title": "Rufus - Wildflowers - Leo Pol Remix (BR002)",
+   "uri": "https://www.youtube.com/watch?v=dhjhoHrPyj0"
+  },
+  {
+   "duration": 401,
+   "title": "Rufus - Out the Numbers (BR002)",
+   "uri": "https://www.youtube.com/watch?v=ni99r_skAVs"
+  }
+ ],
  "year": 2016
 }

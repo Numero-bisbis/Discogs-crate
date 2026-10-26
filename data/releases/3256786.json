@@ -157,5 +157,22 @@
   }
  ],
  "uri": "https://www.discogs.com/release/3256786-Jay-Z-The-Blueprint",
+ "videos": [
+  {
+   "duration": 200,
+   "title": "U Don't Know",
+   "uri": "https://www.youtube.com/watch?v=jjCPc-47NmI"
+  },
+  {
+   "duration": 238,
+   "title": "Never Change",
+   "uri": "https://www.youtube.com/watch?v=zpJVMALzap4"
+  },
+  {
+   "duration": 221,
+   "title": "Blueprint (Momma Loves Me)",
+   "uri": "https://www.youtube.com/watch?v=dKvgphSdG84"
+  }
+ ],
  "year": 2011
 }

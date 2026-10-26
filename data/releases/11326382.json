@@ -158,5 +158,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11326382-Various-Nomada-White",
+ "videos": [
+  {
+   "duration": 348,
+   "title": "Felipe Gordon - Damn, I'm Smooth",
+   "uri": "https://www.youtube.com/watch?v=vhf78_IjIZA"
+  },
+  {
+   "duration": 250,
+   "title": "4004 - Part 1, Part 2 & More",
+   "uri": "https://www.youtube.com/watch?v=POqBeegr4ck"
+  },
+  {
+   "duration": 348,
+   "title": "Felipe Gordon - Damn, I'm Smooth",
+   "uri": "https://www.youtube.com/watch?v=vhf78_IjIZA"
+  },
+  {
+   "duration": 250,
+   "title": "4004 - Part 1, Part 2 & More",
+   "uri": "https://www.youtube.com/watch?v=POqBeegr4ck"
+  }
+ ],
  "year": 2017
 }

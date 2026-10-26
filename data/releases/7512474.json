@@ -68,5 +68,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/7512474-Klanken-DrieTwee",
+ "videos": [
+  {
+   "duration": 269,
+   "title": "Klanken - Drie - DEEWEE002",
+   "uri": "https://www.youtube.com/watch?v=qaTTILw-ALg"
+  },
+  {
+   "duration": 340,
+   "title": "Klanken - Twee - DEEWEE002",
+   "uri": "https://www.youtube.com/watch?v=koj1GE4mimA"
+  },
+  {
+   "duration": 269,
+   "title": "Klanken - Drie - DEEWEE002",
+   "uri": "https://www.youtube.com/watch?v=qaTTILw-ALg"
+  },
+  {
+   "duration": 340,
+   "title": "Klanken - Twee - DEEWEE002",
+   "uri": "https://www.youtube.com/watch?v=koj1GE4mimA"
+  }
+ ],
  "year": 2015
 }

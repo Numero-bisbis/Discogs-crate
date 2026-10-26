@@ -78,5 +78,22 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12273734-Balako-Balako-Edits",
+ "videos": [
+  {
+   "duration": 335,
+   "title": "Unknown Artist - Batuque (Balako Edit) [Afro-Brazilian Disco]",
+   "uri": "https://www.youtube.com/watch?v=F9WiX1r01NE"
+  },
+  {
+   "duration": 497,
+   "title": "Balako - Honey Honey Honey",
+   "uri": "https://www.youtube.com/watch?v=qf_fyLKqsOQ"
+  },
+  {
+   "duration": 369,
+   "title": "Balako - Deixa Acontecer (Balako edit)",
+   "uri": "https://www.youtube.com/watch?v=FE6mLW_HT3c"
+  }
+ ],
  "year": 2018
 }

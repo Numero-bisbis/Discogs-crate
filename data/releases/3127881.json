@@ -82,5 +82,27 @@
   }
  ],
  "uri": "https://www.discogs.com/release/3127881-Blawan-What-You-Do-With-What-You-Have",
+ "videos": [
+  {
+   "duration": 386,
+   "title": "Blawan - What You Do With What You Have",
+   "uri": "https://www.youtube.com/watch?v=-1wirGsdK4U"
+  },
+  {
+   "duration": 312,
+   "title": "Blawan - Vibe Decorum",
+   "uri": "https://www.youtube.com/watch?v=52xgqnidvho"
+  },
+  {
+   "duration": 386,
+   "title": "Blawan - What You Do With What You Have",
+   "uri": "https://www.youtube.com/watch?v=-1wirGsdK4U"
+  },
+  {
+   "duration": 312,
+   "title": "Blawan - Vibe Decorum",
+   "uri": "https://www.youtube.com/watch?v=52xgqnidvho"
+  }
+ ],
  "year": 2011
 }

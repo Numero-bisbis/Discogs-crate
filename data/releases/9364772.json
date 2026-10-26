@@ -76,5 +76,22 @@
   }
  ],
  "uri": "https://www.discogs.com/release/9364772-Future-Sound-Of-Antwerp-Tom-Cruise-Scientologist",
+ "videos": [
+  {
+   "duration": 300,
+   "title": "Future Sound of Antwerp - Tom Cruise, Scientologist - DEEWEE018",
+   "uri": "https://www.youtube.com/watch?v=11wQFI-z2bU"
+  },
+  {
+   "duration": 473,
+   "title": "Future Sound of Antwerp - Schone Augen - DEEWEE018",
+   "uri": "https://www.youtube.com/watch?v=vinDf_DsFPg"
+  },
+  {
+   "duration": 405,
+   "title": "Future Sound of Antwerp - Volium - DEEWEE018",
+   "uri": "https://www.youtube.com/watch?v=ofStFyYzcnE"
+  }
+ ],
  "year": 2016
 }

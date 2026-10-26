@@ -269,5 +269,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/12107616-Lord-Echo-Harmonies",
+ "videos": [
+  {
+   "duration": 0,
+   "title": "Lord Echo - Harmonies",
+   "uri": "https://www.youtube.com/watch?v=TzpA_FRRIdo"
+  },
+  {
+   "duration": 332,
+   "title": "Lord Echo - Woah! There's No Limit - feat. Mara TK",
+   "uri": "https://www.youtube.com/watch?v=oyPfWsTSnB4"
+  }
+ ],
  "year": 2018
 }

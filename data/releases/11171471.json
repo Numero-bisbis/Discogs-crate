@@ -69,5 +69,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11171471-Yotam-Avni-Mabruk-EP",
+ "videos": [
+  {
+   "duration": 404,
+   "title": "IV76 - Yotam Avni - Midas Touch - Mabruk EP",
+   "uri": "https://www.youtube.com/watch?v=vcgmJtMXnEY"
+  },
+  {
+   "duration": 423,
+   "title": "IV76 - Yotam Avni - Jorniel - Mabruk EP",
+   "uri": "https://www.youtube.com/watch?v=YHWhY1-phBY"
+  }
+ ],
  "year": 2017
 }

@@ -65,5 +65,12 @@
   }
  ],
  "uri": "https://www.discogs.com/release/8763564-Unknown-Artist-What-A-Day-",
+ "videos": [
+  {
+   "duration": 526,
+   "title": "Unknown Artist - What A Day [DIGWAH01]",
+   "uri": "https://www.youtube.com/watch?v=NcCJG4jZl7k"
+  }
+ ],
  "year": 2016
 }

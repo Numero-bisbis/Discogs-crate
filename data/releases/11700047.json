@@ -71,5 +71,17 @@
   }
  ],
  "uri": "https://www.discogs.com/release/11700047-Peggy-Gou-Day-Without-Yesterday-Six-O-Six",
+ "videos": [
+  {
+   "duration": 340,
+   "title": "Peggy Gou - Day Without Yesterday",
+   "uri": "https://www.youtube.com/watch?v=O1v_5lXosAg"
+  },
+  {
+   "duration": 367,
+   "title": "Peggy Gou - Six O Six",
+   "uri": "https://www.youtube.com/watch?v=RRdhsYeC_AU"
+  }
+ ],
  "year": 2018
 }

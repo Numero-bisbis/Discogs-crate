@@ -68,5 +68,37 @@
   }
  ],
  "uri": "https://www.discogs.com/release/6585672-Maceo-Plex-Conjure-Infinity",
+ "videos": [
+  {
+   "duration": 810,
+   "title": "MACEO PLEX - CONJURE INFINITY (2014) VINYL",
+   "uri": "https://www.youtube.com/watch?v=vNFgJhmZoec"
+  },
+  {
+   "duration": 442,
+   "title": "Maceo Plex - Conjure Dreams - Drumcode - DC136",
+   "uri": "https://www.youtube.com/watch?v=b2RcZQNMy5s"
+  },
+  {
+   "duration": 442,
+   "title": "Maceo Plex - Conjure Dreams - Drumcode - DC136",
+   "uri": "https://www.youtube.com/watch?v=b2RcZQNMy5s"
+  },
+  {
+   "duration": 374,
+   "title": "Maceo Plex - Conjure Floyd - Drumcode - DC136",
+   "uri": "https://www.youtube.com/watch?v=kTJWT2TIzlQ"
+  },
+  {
+   "duration": 810,
+   "title": "MACEO PLEX - CONJURE INFINITY (2014) VINYL",
+   "uri": "https://www.youtube.com/watch?v=vNFgJhmZoec"
+  },
+  {
+   "duration": 442,
+   "title": "Maceo Plex - Conjure Dreams - Drumcode - DC136",
+   "uri": "https://www.youtube.com/watch?v=b2RcZQNMy5s"
+  }
+ ],
  "year": 2015
 }
