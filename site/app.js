@@ -1116,6 +1116,12 @@
     $('.drawer .close').onclick = closeDrawer;
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && $('#drawer').classList.contains('open')) closeDrawer(); });
     wireCrate();
+    // On phones the tab bar lives outside the sticky header: iOS Safari lets a fixed bar inside a sticky one drift with the page.
+    const phone = matchMedia('(max-width: 720px)');
+    const nav = $('.tabs');
+    const placeNav = () => (phone.matches ? document.body.appendChild(nav) : $('.top').insertBefore(nav, $('.search-wrap')));
+    phone.addEventListener('change', placeNav);
+    placeNav();
     // Back button / swipe-back closes an open record instead of leaving the app.
     window.addEventListener('popstate', () => { if ($('#drawer').classList.contains('open')) hideDrawer(); });
   }
