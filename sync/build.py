@@ -29,8 +29,9 @@ def main():
             tracks.append({
                 "k": t["key"], "pos": t["position"], "side": t["side"], "title": t["title"],
                 "artist": t["artist"], "dur": t["duration"],
-                "bpm": a.get("bpm"), "key": a.get("key"), "cam": a.get("camelot"),
-                "src": a.get("source") if a.get("source") != "none" else None,
+                "bpm": round(a["bpm"]) if a.get("bpm") else None, "key": a.get("key"), "cam": a.get("camelot"),
+                # acousticbrainz | deezer-preview | none (looked, nothing found) | null (not looked up yet)
+                "src": a.get("source"),
             })
         releases.append({
             "id": bi["id"], "iid": it.get("instance_id"),

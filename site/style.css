@@ -129,3 +129,13 @@ code { background: var(--panel2); padding: 1px 5px; border-radius: 4px; }
   .trans { padding-left: 24px; } .trans::before { left: 8px; }
   .rec-head img { width: 120px; height: 120px; }
 }
+
+button.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); font-weight: 600; }
+button.wide { width: 100%; margin-top: 10px; }
+.gen { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; margin: 14px 0 6px; }
+.gen .f select, .gen .f input { max-width: none; width: 100%; }
+.src { font-size: 11px; padding: 0 5px; border-radius: 4px; border: 1px solid var(--line); color: var(--muted); white-space: nowrap; }
+.src-DB { color: var(--good); border-color: color-mix(in srgb, var(--good) 40%, transparent); }
+.src-est { color: var(--ok); border-color: color-mix(in srgb, var(--ok) 40%, transparent); }
+.src-you { color: var(--accent); border-color: color-mix(in srgb, var(--accent) 50%, transparent); }
+.src-none { color: var(--bad); border-color: color-mix(in srgb, var(--bad) 40%, transparent); }

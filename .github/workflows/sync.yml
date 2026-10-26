@@ -43,7 +43,8 @@ jobs:
 
       - name: Find BPM and key
         env:
-          ENRICH_MINUTES: "40"
+          # Code pushes publish quickly; the hourly runs do the long BPM/key work.
+          ENRICH_MINUTES: ${{ github.event_name == 'push' && '3' || '40' }}
         run: python sync/enrich.py
 
       - name: Build site data

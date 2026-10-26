@@ -36,9 +36,19 @@
       key: o.key ?? t.key ?? null,
       cam: o.cam ?? t.cam ?? null,
       edited: !!(o.bpm || o.cam),
-      src: o.bpm || o.cam ? 'manual' : t.src,
+      src: o.bpm || o.cam ? 'manual' : t.src || 'pending',
     };
   }
+
+  // Where a BPM/key value came from, as [short tag, explanation].
+  const SRC = {
+    acousticbrainz: ['DB', 'From the AcousticBrainz music database (full-track analysis)'],
+    'deezer-preview': ['est.', 'Estimated from a 30-second preview; check by ear'],
+    manual: ['you', 'Your own edit'],
+    none: ['none', 'Looked up, nothing found: add it by hand'],
+    pending: ['…', 'Not looked up yet; it will be within a day'],
+  };
+  const srcTag = (e) => { const [tag, why] = SRC[e.src] || SRC.pending; return `<span class="src src-${tag === '…' ? 'pending' : tag === 'est.' ? 'est' : tag}" title="${esc(why)}">${tag}</span>`; };
 
   function index() {
     TRACKS = [];
@@ -60,6 +70,11 @@
     return [...m.entries()].sort((a, b) => b[1] - a[1] || String(a[0]).localeCompare(b[0]));
   }
 
+  const CAMS = [];
+  for (let n = 1; n <= 12; n++) for (const l of 'AB') CAMS.push(n + l);
+
+  const camOptions = () => CAMS.map((c) => [c, null, `${c} · ${C.camToKey(c)}`]);
+
   // ---------- UI helpers ----------
   function toast(msg) {
     const t = $('#toast');
@@ -71,7 +86,7 @@
 
   function select(name, label, options, value, allLabel = 'All') {
     return `<label class="f"><span>${label}</span><select data-f="${name}"><option value="">${allLabel}</option>${options
-      .map(([v, n]) => `<option value="${esc(v)}"${String(v) === String(value) ? ' selected' : ''}>${esc(v)}${n != null ? ` (${n})` : ''}</option>`)
+      .map(([v, n, label]) => `<option value="${esc(v)}"${String(v) === String(value) ? ' selected' : ''}>${esc(label || v)}${n != null ? ` (${n})` : ''}</option>`)
       .join('')}</select></label>`;
   }
 
@@ -114,7 +129,11 @@
       (!rf.style || r.styles.includes(rf.style)) &&
       (!rf.label || r.labels.some((l) => l.name === rf.label)) &&
       (!rf.folder || r.folder === rf.folder) &&
-      (!rf.decade || (r.year && String(Math.floor(r.year / 10) * 10) === rf.decade)));
+      (!rf.decade || (r.year && String(Math.floor(r.year / 10) * 10) === rf.decade)) &&
+      (!(rf.bpmMin || rf.bpmMax || rf.cam) || r.tracks.some((t) => {
+        const e = eff(t);
+        return (!rf.bpmMin || e.bpm >= +rf.bpmMin) && (!rf.bpmMax || e.bpm <= +rf.bpmMax) && (!rf.cam || e.cam === rf.cam);
+      })));
     const sorters = {
       added: (a, b) => String(b.added).localeCompare(String(a.added)),
       artist: (a, b) => a.artist.localeCompare(b.artist) || (a.year || 0) - (b.year || 0),
@@ -134,10 +153,12 @@
       select('label', 'Label', facet(all, (r) => r.labels.map((l) => l.name)), rf.label) +
       select('decade', 'Decade', facet(all, (r) => [r.year ? String(Math.floor(r.year / 10) * 10) : null]).sort((a, b) => b[0] - a[0]), rf.decade) +
       (folders.length ? select('folder', 'Folder', folders, rf.folder) : '') +
+      `<label class="f"><span>BPM</span><span class="range"><input data-f="bpmMin" value="${esc(rf.bpmMin || '')}" placeholder="min" inputmode="numeric">–<input data-f="bpmMax" value="${esc(rf.bpmMax || '')}" placeholder="max" inputmode="numeric"></span></label>` +
+      select('cam', 'Key', camOptions(), rf.cam, 'Any') +
       `<label class="f"><span>Sort</span><select data-f="sort">${[['added', 'Recently added'], ['artist', 'Artist'], ['title', 'Title'], ['year', 'Year (new → old)'], ['yearAsc', 'Year (old → new)'], ['label', 'Label / cat no.'], ['rating', 'My rating']]
         .map(([v, n]) => `<option value="${v}"${rf.sort === v ? ' selected' : ''}>${n}</option>`).join('')}</select></label>` +
       `<span class="count">${list.length} of ${all.length} records</span>`;
-    $$('#record-filters select').forEach((s) => (s.onchange = () => { rf[s.dataset.f] = s.value; store.set('rf', rf); renderRecords(); }));
+    $$('#record-filters select, #record-filters input').forEach((s) => (s.onchange = () => { rf[s.dataset.f] = s.value; store.set('rf', rf); renderRecords(); }));
 
     $('#record-grid').innerHTML = list.length
       ? list.map((r) => `<button class="card" data-id="${r.iid || r.id}">
@@ -154,8 +175,8 @@
       const e = eff(t);
       return `<tr data-k="${esc(t.k)}"><td class="pos">${esc(t.pos)}</td><td><b>${esc(t.title)}</b>${t.artist !== r.artist ? `<br><small>${esc(t.artist)}</small>` : ''}</td>
         <td class="num">${fmtDur(t.dur)}</td>
-        <td class="num"><input class="bpm-in" value="${e.bpm ?? ''}" placeholder="BPM" inputmode="decimal" title="Source: ${esc(e.src || 'none')}"></td>
-        <td><input class="key-in" value="${e.cam ?? ''}" placeholder="Key" title="${esc(e.key || 'Type 8A, Am, F#m…')}"></td>
+        <td class="num"><input class="bpm-in" value="${e.bpm ?? ''}" placeholder="BPM" inputmode="numeric"></td>
+        <td><input class="key-in" value="${e.cam ?? ''}" placeholder="Key" title="${esc(e.key || 'Type 8A, Am, F#m…')}"></td><td>${srcTag(e)}</td>
         <td><button class="small add" title="Add to ${esc(mix ? mix.name : 'a new mix')}">+ Mix</button></td></tr>`;
     }).join('');
     $('#drawer-body').innerHTML = `
@@ -165,8 +186,8 @@
         <p>${esc([r.format, r.country, r.year].filter(Boolean).join(' · '))}</p>
         <p class="tags">${[...r.genres, ...r.styles].map((g) => `<span>${esc(g)}</span>`).join('')}</p>
         <p><a href="${esc(r.url)}" target="_blank" rel="noopener">Open on Discogs ↗</a></p></div></div>
-      <table class="tl"><thead><tr><th>Pos</th><th>Track</th><th>Time</th><th>BPM</th><th>Key</th><th></th></tr></thead><tbody>${rows || '<tr><td colspan="6">No tracklist yet.</td></tr>'}</tbody></table>
-      <p class="hint">BPM and key are estimates. Type over any value to fix it; it's kept as your own edit.</p>`;
+      <table class="tl"><thead><tr><th>Pos</th><th>Track</th><th>Time</th><th>BPM</th><th>Key</th><th>From</th><th></th></tr></thead><tbody>${rows || '<tr><td colspan="7">No tracklist yet.</td></tr>'}</tbody></table>
+      <p class="hint">From: <b>DB</b> = AcousticBrainz database, <b>est.</b> = estimated from a 30-second preview, <b>you</b> = your edit, <b>none</b> = nothing found, <b>…</b> = not looked up yet. Type over any value to fix it.</p>`;
     wireEdits($('#drawer-body'));
     $('#drawer').hidden = false;
   }
@@ -189,7 +210,7 @@
     if (bpm !== undefined) {
       const v = parseFloat(String(bpm).replace(',', '.'));
       if (String(bpm).trim() === '') delete o.bpm;
-      else if (v > 30 && v < 300) o.bpm = Math.round(v * 10) / 10;
+      else if (v > 30 && v < 300) o.bpm = Math.round(v);
       else return false;
     }
     if (key !== undefined) {
@@ -217,6 +238,9 @@
     if (tf.has === 'bpm' && !e.bpm) return false;
     if (tf.has === 'missing' && e.bpm && e.cam) return false;
     if (tf.has === 'edited' && !e.edited) return false;
+    if (tf.has === 'notfound' && e.src !== 'none') return false;
+    if (tf.has === 'pending' && e.src !== 'pending') return false;
+    if (tf.has === 'est' && e.src !== 'deezer-preview') return false;
     return true;
   }
 
@@ -227,24 +251,23 @@
       artist: (t) => norm(t.artist), title: (t) => norm(t.title), record: (t) => norm(t.r.title),
       pos: (t) => t.pos, bpm: (t) => eff(t).bpm ?? (tf.dir > 0 ? 1e9 : -1),
       key: (t) => { const p = C.parseCam(eff(t).cam); return p ? p.n * 2 + (p.l === 'B') : (tf.dir > 0 ? 1e9 : -1); },
-      year: (t) => t.r.year || 0, label: (t) => norm(t.r.labels[0]?.name), dur: (t) => t.dur || 0,
+      src: (t) => eff(t).src, year: (t) => t.r.year || 0, label: (t) => norm(t.r.labels[0]?.name), dur: (t) => t.dur || 0,
     }[tf.sort] || ((t) => norm(t.artist));
     list.sort((a, b) => { const x = col(a), y = col(b); return (x < y ? -1 : x > y ? 1 : 0) * tf.dir || a.k.localeCompare(b.k); });
 
-    const allCams = [];
-    for (let n = 1; n <= 12; n++) for (const l of 'AB') allCams.push([n + l, null]);
+    const allCams = camOptions();
     $('#track-filters').innerHTML =
       select('genre', 'Genre', facet(DATA.releases, (r) => r.genres), tf.genre) +
       select('style', 'Style', facet(DATA.releases, (r) => r.styles), tf.style) +
       `<label class="f"><span>BPM</span><span class="range"><input data-f="bpmMin" value="${esc(tf.bpmMin || '')}" placeholder="min" inputmode="numeric">–<input data-f="bpmMax" value="${esc(tf.bpmMax || '')}" placeholder="max" inputmode="numeric"></span></label>` +
       select('cam', 'Key', allCams.map(([c]) => [c, null]), tf.cam, 'Any') +
       select('compat', 'Mixes with', allCams.map(([c]) => [c, null]), tf.compat, 'Any') +
-      `<label class="f"><span>Show</span><select data-f="has">${[['', 'All tracks'], ['bpm', 'With BPM'], ['missing', 'Missing BPM/key'], ['edited', 'My edits']]
+      `<label class="f"><span>Show</span><select data-f="has">${[['', 'All tracks'], ['bpm', 'With BPM'], ['missing', 'Missing BPM/key'], ['notfound', 'Not found'], ['pending', 'Not looked up yet'], ['est', 'Estimated (check by ear)'], ['edited', 'My edits']]
         .map(([v, n]) => `<option value="${v}"${(tf.has || '') === v ? ' selected' : ''}>${n}</option>`).join('')}</select></label>` +
       `<span class="count">${list.length} tracks</span>`;
     $$('#track-filters select, #track-filters input').forEach((s) => (s.onchange = () => { tf[s.dataset.f] = s.value; store.set('tf', tf); trackLimit = 300; renderTracks(); }));
 
-    const head = [['pos', 'Pos'], ['title', 'Track'], ['artist', 'Artist'], ['record', 'Record'], ['bpm', 'BPM'], ['key', 'Key'], ['dur', 'Time'], ['year', 'Year'], ['label', 'Label']];
+    const head = [['pos', 'Pos'], ['title', 'Track'], ['artist', 'Artist'], ['record', 'Record'], ['bpm', 'BPM'], ['key', 'Key'], ['src', 'From'], ['dur', 'Time'], ['year', 'Year'], ['label', 'Label']];
     const mix = currentMix();
     $('#track-table').innerHTML = `<thead><tr>${head.map(([k, n]) => `<th data-s="${k}" class="${tf.sort === k ? (tf.dir > 0 ? 'asc' : 'desc') : ''}">${n}</th>`).join('')}<th></th></tr></thead><tbody>${list
       .slice(0, trackLimit)
@@ -252,8 +275,8 @@
         const e = eff(t);
         return `<tr data-k="${esc(t.k)}"><td class="pos">${esc(t.pos)}</td><td><b>${esc(t.title)}</b></td><td>${esc(t.artist)}</td>
           <td><a href="#" class="rec">${esc(t.r.title)}</a></td>
-          <td class="num"><input class="bpm-in${e.edited ? ' edited' : ''}" value="${e.bpm ?? ''}" inputmode="decimal" title="Source: ${esc(e.src || 'none')}"></td>
-          <td><input class="key-in${e.edited ? ' edited' : ''}" value="${e.cam ?? ''}" title="${esc(e.key || 'Type 8A, Am, F#m…')}"></td>
+          <td class="num"><input class="bpm-in${e.edited ? ' edited' : ''}" value="${e.bpm ?? ''}" inputmode="numeric"></td>
+          <td><input class="key-in${e.edited ? ' edited' : ''}" value="${e.cam ?? ''}" title="${esc(e.key || 'Type 8A, Am, F#m…')}"></td><td>${srcTag(e)}</td>
           <td class="num">${fmtDur(t.dur)}</td><td class="num">${t.r.year || ''}</td><td>${esc(t.r.labels[0]?.name || '')}</td>
           <td><button class="small add" title="Add to ${esc(mix ? mix.name : 'a new mix')}">+</button></td></tr>`;
       }).join('')}</tbody>`;
@@ -324,6 +347,86 @@
     saveUser();
   }
 
+  // ---------- mix generator ----------
+  // Builds a playable vinyl set: never two tracks from the same record back to back (you can't
+  // cue the record that's playing), each record used once where possible, tempo following a
+  // start → end curve, and each step chosen for the smoothest pitch and key move.
+  const gen = store.get('gen', { genre: '', style: '', from: 120, to: 126, cam: '', n: 10 });
+
+  function generateMix(o) {
+    const pool = TRACKS.map((t) => trackObj(t.k)).filter((t) => t.bpm && t.cam &&
+      (!o.genre || t.r.genres.includes(o.genre)) && (!o.style || t.r.styles.includes(o.style)));
+    if (pool.length < 2) return { error: 'Not enough tracks with BPM and key match those choices yet.' };
+    const n = Math.max(2, Math.min(+o.n || 10, 40));
+    const from = +o.from || 120, to = +o.to || from;
+    const target = (i) => from + ((to - from) * i) / Math.max(1, n - 1);
+    const near = (bpm, tgt) => Math.min(...[1, 2, 0.5].map((m) => Math.abs(bpm * m - tgt) / tgt));
+    const range = settings.pitchRange;
+
+    // Opening track: close to the start tempo (and start key if chosen), with a little randomness.
+    const openers = pool
+      .map((t) => ({ t, s: near(t.bpm, from) * 10 + (o.cam ? 1 - (C.camRelation(o.cam, t.cam).score ?? 0) : 0) + Math.random() * 0.3 }))
+      .sort((a, b) => a.s - b.s).slice(0, 6);
+    const first = openers[Math.floor(Math.random() * openers.length)].t;
+    const set = [first], usedRec = new Set([first.r]), used = new Set([first.k]);
+    while (set.length < n) {
+      const prev = set[set.length - 1], tgt = target(set.length);
+      let best = null, bestScore = -Infinity;
+      for (const c of pool) {
+        if (used.has(c.k) || c.r === prev.r) continue;
+        const tr = C.transition(prev, c, { pitchRange: range });
+        if (!tr.bpmScore || tr.pitched.score === 0) continue;
+        const fit = Math.max(0, 1 - near(c.bpm, tgt) / 0.06);
+        const score = tr.score * 0.6 + fit * 0.4 - (usedRec.has(c.r) ? 0.4 : 0) + Math.random() * 0.1;
+        if (score > bestScore) { best = c; bestScore = score; }
+      }
+      if (!best) break;
+      set.push(best); used.add(best.k); usedRec.add(best.r);
+    }
+    return { tracks: set.map((t) => t.k), short: set.length < n };
+  }
+
+  function openGenerator() {
+    const styles = facet(DATA.releases.filter((r) => !gen.genre || r.genres.includes(gen.genre)), (r) => r.styles);
+    $('#drawer-body').innerHTML = `<h2>Generate a mix</h2>
+      <p class="sub">Picks tracks you own that match, orders them so each step needs little pitch change and the keys sit well together, and never puts two tracks from the same record back to back. Only tracks with both BPM and key are used.</p>
+      <div class="gen">
+        ${select('genre', 'Genre', facet(DATA.releases, (r) => r.genres), gen.genre, 'Any')}
+        ${select('style', 'Style', styles, gen.style, 'Any')}
+        <label class="f"><span>Start BPM</span><input data-f="from" value="${esc(gen.from)}" inputmode="numeric"></label>
+        <label class="f"><span>End BPM</span><input data-f="to" value="${esc(gen.to)}" inputmode="numeric"></label>
+        ${select('cam', 'Start key', camOptions(), gen.cam, 'Any')}
+        <label class="f"><span>Tracks</span><input data-f="n" value="${esc(gen.n)}" inputmode="numeric"></label>
+      </div>
+      <p class="sub" id="gen-count"></p>
+      <div class="row"><button id="gen-go" class="primary">Generate</button></div>`;
+    const count = () => {
+      const k = TRACKS.filter((t) => { const e = eff(t); return e.bpm && e.cam && (!gen.genre || t.r.genres.includes(gen.genre)) && (!gen.style || t.r.styles.includes(gen.style)); }).length;
+      $('#gen-count').textContent = `${k} tracks to choose from.`;
+    };
+    $$('.gen select, .gen input', $('#drawer-body')).forEach((el) => (el.onchange = () => {
+      gen[el.dataset.f] = el.value;
+      if (el.dataset.f === 'genre') { gen.style = ''; store.set('gen', gen); openGenerator(); return; }
+      store.set('gen', gen); count();
+    }));
+    count();
+    $('#gen-go').onclick = () => {
+      $$('.gen select, .gen input', $('#drawer-body')).forEach((el) => (gen[el.dataset.f] = el.value));
+      store.set('gen', gen);
+      const res = generateMix(gen);
+      if (res.error) { toast(res.error); return; }
+      const name = `${gen.style || gen.genre || 'Mix'} ${gen.from}→${gen.to}`;
+      const m = newMix(name);
+      m.tracks = res.tracks;
+      m.generated = { ...gen };
+      saveUser();
+      $('#drawer').hidden = true;
+      setView('mixes');
+      toast(res.short ? `Only found ${res.tracks.length} tracks that chain well` : 'Mix generated');
+    };
+    $('#drawer').hidden = false;
+  }
+
   function transitionHtml(a, b) {
     const tr = C.transition(a, b, { pitchRange: settings.pitchRange });
     const bits = [];
@@ -344,12 +447,12 @@
     const m = currentMix();
     const main = $('#mix-main');
     if (!m) {
-      main.innerHTML = `<div class="empty"><p>Create a mix, then add tracks from Records or Tracks with the <b>+</b> button.</p><p>Each step shows how much to pitch the next record and whether the keys sit well together on the Camelot wheel.</p></div>`;
+      main.innerHTML = `<div class="empty"><p>Tap <b>Generate a mix</b> to have one built from a genre and BPM range, or create an empty mix and add tracks from Records or Tracks with the <b>+</b> button.</p><p>Each step shows how much to pitch the next record and whether the keys sit well together on the Camelot wheel.</p></div>`;
       return;
     }
     const items = m.tracks.map(trackObj);
     let html = `<div class="row mix-head"><input class="mix-name" value="${esc(m.name)}" aria-label="Mix name">
-      <div class="actions"><button class="small" data-a="auto" title="Reorder for smoothest BPM and key steps">Auto-order</button>
+      <div class="actions">${m.generated ? '<button class="small" data-a="regen" title="Same settings, different picks">Regenerate</button>' : ''}<button class="small" data-a="auto" title="Reorder for smoothest BPM and key steps">Auto-order</button>
       <button class="small" data-a="copy">Copy as text</button><button class="small danger" data-a="del">Delete</button></div></div>`;
     const recs = new Map();
     items.forEach((t) => t && recs.set(t.r.iid || t.r.id, t.r));
@@ -373,7 +476,8 @@
     }
     const last = [...m.tracks].reverse().find((k) => byKey.has(k));
     if (last) {
-      const sug = suggestions(last, new Set(m.tracks));
+      const g = m.generated || {};
+      const sug = suggestions(last, new Set(m.tracks)).filter(({ t }) => (!g.genre || t.r.genres.includes(g.genre)) && (!g.style || t.r.styles.includes(g.style)));
       const lt = trackObj(last);
       html += `<h3>What could come next <small>after ${esc(lt.title)}${lt.bpm ? ' · ' + lt.bpm + ' BPM' : ''}${lt.cam ? ' · ' + lt.cam : ''}</small></h3>`;
       html += sug.length ? `<table class="sug"><tbody>${sug.map(({ t, tr }) => `<tr data-k="${esc(t.k)}"><td>${camBadge(t.cam, t.key)}</td><td class="num">${t.bpm ?? '–'}</td>
@@ -387,6 +491,7 @@
     $('.mix-name', main).onchange = (e) => { m.name = e.target.value.trim() || m.name; saveUser(); renderMixes(); };
     $$('[data-a]', main).forEach((b) => (b.onclick = () => {
       if (b.dataset.a === 'auto') { autoOrder(m); renderMixes(); toast('Reordered'); }
+      if (b.dataset.a === 'regen') { const res = generateMix(m.generated); if (!res.error) { m.tracks = res.tracks; saveUser(); renderMixes(); toast('New version'); } }
       if (b.dataset.a === 'copy') copyMix(m);
       if (b.dataset.a === 'del') {
         if (b.dataset.armed) { user.mixes = user.mixes.filter((x) => x !== m); currentMixId = user.mixes[0]?.id || null; store.set('currentMix', currentMixId); saveUser(); renderMixes(); }
@@ -522,6 +627,7 @@
     let t;
     $('#search').oninput = () => { clearTimeout(t); t = setTimeout(() => { trackLimit = 300; render(); }, 120); };
     $('#new-mix').onclick = () => { newMix(); renderMixes(); };
+    $('#gen-mix').onclick = openGenerator;
     const close = () => { $('#drawer').hidden = true; if (view === 'tracks') renderTracks(); if (view === 'mixes') renderMixes(); };
     $('.drawer-back').onclick = close;
     $('.drawer .close').onclick = close;
