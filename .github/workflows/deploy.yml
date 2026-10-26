@@ -1,0 +1,46 @@
+name: Deploy site
+
+# Publishes code changes straight away; the hourly sync job does the slow Discogs and BPM work.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "site/**"
+      - "sync/build.py"
+      - "sync/common.py"
+      - "sync/tracks.py"
+      - ".github/workflows/deploy.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: python sync/build.py
+      - name: Include saved edits and mixes
+        run: |
+          if [ -f user/state.json ]; then mkdir -p site/user && cp user/state.json site/user/; fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}

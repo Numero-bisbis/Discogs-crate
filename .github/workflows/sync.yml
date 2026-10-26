@@ -4,12 +4,6 @@ on:
   schedule:
     - cron: "17 * * * *" # every hour; a run with nothing new takes about a minute
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths-ignore:
-      - "data/**"
-      - "user/**"
-      - "README.md"
 
 permissions:
   contents: write
@@ -43,12 +37,8 @@ jobs:
 
       - name: Find BPM and key
         env:
-          # Code pushes publish quickly; the hourly runs do the long BPM/key work.
-          ENRICH_MINUTES: ${{ github.event_name == 'push' && '3' || '40' }}
+          ENRICH_MINUTES: "40"
         run: python sync/enrich.py
-
-      - name: Build site data
-        run: python sync/build.py
 
       - name: Save synced data to the repo
         run: |
@@ -57,11 +47,16 @@ jobs:
           git add data
           if git diff --cached --quiet; then
             echo "No collection changes"
+            git pull --rebase origin main
           else
             git commit -m "Sync collection $(date -u +%Y-%m-%dT%H:%MZ)"
             git pull --rebase origin main
             git push origin HEAD:main
           fi
+
+      # Built after the pull above, so code pushed while this run was busy is included.
+      - name: Build site data
+        run: python sync/build.py
 
       - name: Include saved edits and mixes
         run: |
