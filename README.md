@@ -9,7 +9,7 @@ A web app for browsing a Discogs record collection and planning mixes to play on
 
 ## How it stays up to date
 
-A GitHub Actions workflow (`.github/workflows/sync.yml`) runs every 3 hours:
+A GitHub Actions workflow (`.github/workflows/sync.yml`) runs every hour:
 
 1. `sync/sync_discogs.py` reads the collection from the Discogs API and fetches tracklists for records it hasn't seen before. Removed records drop out.
 2. `sync/enrich.py` looks up BPM and key for new tracks: AcousticBrainz first (via a MusicBrainz match), then a local Essentia analysis of Deezer's 30-second preview. It stops after 40 minutes and continues on the next run, so the first full pass over a large collection takes a few runs.
