@@ -522,18 +522,20 @@
   const gen = store.get('gen', { genre: '', style: '', from: 120, to: 126, cam: '', n: 10 });
 
   function generateMix(o) {
-    const pool = TRACKS.map((t) => trackObj(t.k)).filter((t) => t.bpm && t.cam &&
+    const keys = !o.nokeys;
+    const pool = TRACKS.map((t) => trackObj(t.k)).filter((t) => t.bpm && (t.cam || !keys) &&
       (!o.genre || t.r.genres.includes(o.genre)) && (!o.style || t.r.styles.includes(o.style)));
-    if (pool.length < 2) return { error: 'Not enough tracks with BPM and key match those choices yet.' };
+    if (pool.length < 2) return { error: `Not enough tracks with BPM${keys ? ' and key' : ''} match those choices yet.` };
     const n = Math.max(2, Math.min(+o.n || 10, 40));
-    const from = +o.from || 120, to = +o.to || from;
-    const target = (i) => from + ((to - from) * i) / Math.max(1, n - 1);
+    // No end BPM: no tempo plan, each step just takes the smoothest pitch move from the last track.
+    const from = +o.from || 120, to = +o.to || null;
+    const target = (i) => (to ? from + ((to - from) * i) / Math.max(1, n - 1) : null);
     const near = (bpm, tgt) => Math.min(...[1, 2, 0.5].map((m) => Math.abs(bpm * m - tgt) / tgt));
     const range = settings.pitchRange;
 
     // Opening track: close to the start tempo (and start key if chosen), with a little randomness.
     const openers = pool
-      .map((t) => ({ t, s: near(t.bpm, from) * 10 + (o.cam ? 1 - (C.camRelation(o.cam, t.cam).score ?? 0) : 0) + Math.random() * 0.3 }))
+      .map((t) => ({ t, s: near(t.bpm, from) * 10 + (keys && o.cam ? 1 - (C.camRelation(o.cam, t.cam).score ?? 0) : 0) + Math.random() * 0.3 }))
       .sort((a, b) => a.s - b.s).slice(0, 6);
     const first = openers[Math.floor(Math.random() * openers.length)].t;
     const set = [first], usedRec = new Set([first.r]), used = new Set([first.k]);
@@ -543,9 +545,10 @@
       for (const c of pool) {
         if (used.has(c.k) || c.r === prev.r) continue;
         const tr = C.transition(prev, c, { pitchRange: range });
-        if (!tr.bpmScore || tr.pitched.score === 0) continue;
-        const fit = Math.max(0, 1 - near(c.bpm, tgt) / 0.06);
-        const score = tr.score * 0.6 + fit * 0.4 - (usedRec.has(c.r) ? 0.4 : 0) + Math.random() * 0.1;
+        if (!tr.bpmScore || (keys && tr.pitched.score === 0)) continue;
+        const step = keys ? tr.score : tr.bpmScore;
+        const fit = tgt ? Math.max(0, 1 - near(c.bpm, tgt) / 0.06) : step;
+        const score = step * 0.6 + fit * 0.4 - (usedRec.has(c.r) ? 0.4 : 0) + Math.random() * 0.1;
         if (score > bestScore) { best = c; bestScore = score; }
       }
       if (!best) break;
@@ -557,21 +560,22 @@
   // The Generate tab: settings, then a draft you can tweak, regenerate, or save into My mixes.
   function renderGenerate() {
     const styles = facet(DATA.releases.filter((r) => !gen.genre || r.genres.includes(gen.genre)), (r) => r.styles);
-    const k = TRACKS.filter((t) => { const e = eff(t); return e.bpm && e.cam && (!gen.genre || t.r.genres.includes(gen.genre)) && (!gen.style || t.r.styles.includes(gen.style)); }).length;
+    const k = TRACKS.filter((t) => { const e = eff(t); return e.bpm && (e.cam || gen.nokeys) && (!gen.genre || t.r.genres.includes(gen.genre)) && (!gen.style || t.r.styles.includes(gen.style)); }).length;
     const d = user.draft;
     let html = `<section class="card-s gen-card"><h2>Generate a mix</h2>
-      <p class="sub">Picks tracks you own that match, orders them so each step needs little pitch change and the keys sit well together, and never puts two tracks from the same record back to back. Only tracks with both BPM and key are used.</p>
+      <p class="sub">Picks tracks you own that match, orders them so each step needs little pitch change and the keys sit well together, and never puts two tracks from the same record back to back. Only tracks with a BPM are used${gen.nokeys ? '' : ', and they need a key too unless you ignore keys'}. Leave End BPM empty to let the tempo drift naturally.</p>
       <div class="gen">
         ${select('genre', 'Genre', facet(DATA.releases, (r) => r.genres), gen.genre, 'Any')}
         ${select('style', 'Style', styles, gen.style, 'Any')}
         <label class="f"><span>Start BPM</span><input data-f="from" value="${esc(gen.from)}" inputmode="numeric"></label>
-        <label class="f"><span>End BPM</span><input data-f="to" value="${esc(gen.to)}" inputmode="numeric"></label>
-        ${select('cam', 'Start key', camOptions(), gen.cam, 'Any')}
+        <label class="f"><span>End BPM <small>(optional)</small></span><input data-f="to" value="${esc(gen.to ?? '')}" placeholder="Any" inputmode="numeric"></label>
+        ${gen.nokeys ? '' : select('cam', 'Start key', camOptions(), gen.cam, 'Any')}
         <label class="f"><span>Tracks</span><input data-f="n" value="${esc(gen.n)}" inputmode="numeric"></label>
       </div>
+      <label class="switch"><input type="checkbox" data-f="nokeys"${gen.nokeys ? ' checked' : ''}><span></span>Ignore keys <small>(match on tempo only)</small></label>
       <div class="row"><button id="gen-go" class="primary">${d ? 'Generate again' : 'Generate'}</button><span class="sub">${k} tracks to choose from</span></div></section>`;
     if (d) {
-      html += `<section class="draft"><div class="draft-bar"><div><b>Draft</b> · ${esc(d.generated.style || d.generated.genre || 'Any genre')}, ${esc(d.generated.from)}→${esc(d.generated.to)} BPM. Reorder or remove tracks here, then save it.</div>
+      html += `<section class="draft"><div class="draft-bar"><div><b>Draft</b> · ${esc(d.generated.style || d.generated.genre || 'Any genre')}, ${esc(d.generated.from)}${d.generated.to ? '→' + esc(d.generated.to) : '+'} BPM${d.generated.nokeys ? ', keys ignored' : ''}. Reorder or remove tracks here, then save it.</div>
         <div class="save-row"><input id="draft-name" value="${esc(d.name)}" aria-label="Mix name" placeholder="Name this mix">
         <button class="primary" data-a="save">Save to My mixes</button><button data-a="regen">Regenerate</button><button data-a="discard">Clear</button></div></div>
         ${mixBodyHtml(d)}</section>`;
@@ -580,14 +584,16 @@
     }
     const root = $('#generate');
     root.innerHTML = html;
-    $$('.gen select, .gen input', root).forEach((el) => (el.onchange = () => {
-      gen[el.dataset.f] = el.value;
+    const val = (el) => (el.type === 'checkbox' ? el.checked : el.value);
+    $$('.gen select, .gen input, .switch input', root).forEach((el) => (el.onchange = () => {
+      gen[el.dataset.f] = val(el);
       if (el.dataset.f === 'genre') gen.style = '';
       store.set('gen', gen);
-      renderGenerate();
+      // Typed numbers don't redraw, so tapping Generate straight after typing still lands.
+      if (el.type !== 'text') renderGenerate();
     }));
     $('#gen-go').onclick = () => {
-      $$('.gen select, .gen input', root).forEach((el) => (gen[el.dataset.f] = el.value));
+      $$('.gen select, .gen input, .switch input', root).forEach((el) => (gen[el.dataset.f] = val(el)));
       store.set('gen', gen);
       makeDraft();
     };
@@ -615,7 +621,7 @@
     const res = generateMix(gen);
     if (res.error) { toast(res.error); return; }
     const keepName = user.draft && user.draft.renamed ? user.draft.name : null;
-    user.draft = { name: keepName || `${gen.style || gen.genre || 'Mix'} ${gen.from}→${gen.to}`, tracks: res.tracks, generated: { ...gen } };
+    user.draft = { name: keepName || `${gen.style || gen.genre || 'Mix'} ${gen.from}${gen.to ? '→' + gen.to : ''}`, tracks: res.tracks, generated: { ...gen } };
     saveUser();
     renderGenerate();
     toast(res.short ? `Only found ${res.tracks.length} tracks that chain well` : 'New draft ready');
