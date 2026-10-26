@@ -31,6 +31,9 @@ def match(tracks, videos):
             vids.append((vid, v.get("title") or "", v.get("duration") or 0))
     best = {}  # track key -> (score, video id)
     for vid, vtitle, vdur in vids:
+        # Full-album uploads cover every track; they go to "More videos" instead.
+        if re.search(r"full\s*(album|lp|ep)|complete\s*album|\bfull\s*side", vtitle, re.I):
+            continue
         vw = set(words(vtitle))
         cands = []
         for t in tracks:
