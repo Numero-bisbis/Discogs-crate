@@ -227,6 +227,9 @@ ol.mix { list-style: none; padding: 0; margin: 12px 0 28px; background: var(--pa
 .trans::before { content: ""; position: absolute; left: 40px; top: 50%; width: 7px; height: 7px; margin-top: -3.5px; border-radius: 50%; background: var(--faint); }
 .trans.good::before { background: var(--good); } .trans.ok::before { background: var(--ok); } .trans.bad::before { background: var(--bad); }
 .trans span.unk { color: var(--muted); }
+.trans .score { flex-basis: 100%; color: var(--muted); }
+.trans .score b { font-weight: 700; font-variant-numeric: tabular-nums; margin-right: 4px; }
+.trans .score.good b { color: var(--good); } .trans .score.ok b { color: var(--ok); } .trans .score.bad b { color: var(--bad); }
 .good { color: var(--good); } .ok { color: var(--ok); } .bad { color: var(--bad); } .unk { color: var(--muted); }
 h3 { font-size: 20px; margin: 28px 0 10px; font-weight: 700; }
 h3 small { color: var(--muted); font-weight: 400; font-size: 14px; }

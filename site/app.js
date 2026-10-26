@@ -672,9 +672,29 @@
   }
 
   const THUMB_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 11v9H4v-9zM7 11l4-7c1.4 0 2.3 1.1 2 2.5L12.5 10H18a2 2 0 0 1 2 2.3l-1.2 6A2 2 0 0 1 16.8 20H7"/></svg>';
+  // 0..100: how well b follows a, from tempo, key, sound, style/era/label, energy and your thumbs.
+  function compat(a, b, tr) {
+    const parts = [];
+    if (tr.bpmScore != null) parts.push(['tempo', tr.bpmScore, 0.3]);
+    if (tr.pitched && tr.pitched.score != null) parts.push(['key', tr.pitched.score, 0.25]);
+    parts.push([a.snd && b.snd ? 'sound and style' : 'style', affinity(a, b), 0.3]);
+    if (a.snd && b.snd && a.snd.e != null && b.snd.e != null) parts.push(['energy', vibeFit('', a, b), 0.15]);
+    const w = parts.reduce((x, p) => x + p[2], 0);
+    let s = parts.reduce((x, p) => x + p[1] * p[2], 0) / w;
+    const fb = feedback(a.k, b.k);
+    if (fb > 0) s = Math.max(s, 0.9);
+    if (fb < 0) s = Math.min(s, 0.2);
+    const weak = parts.filter((p) => p[1] < 0.5).sort((x, y) => x[1] - y[1]).map((p) => p[0]);
+    const why = fb > 0 ? 'you liked this one' : fb < 0 ? 'you marked this as not working' : weak.length ? 'weak on ' + weak.slice(0, 2).join(' and ') : s >= 0.8 ? 'strong on every count' : 'decent all round';
+    const detail = parts.map((p) => `${p[0]} ${Math.round(p[1] * 100)}`).join(' · ');
+    return { n: Math.round(Math.max(0, Math.min(1, s)) * 100), why, detail };
+  }
+
   function transitionHtml(a, b) {
     const tr = C.transition(a, b, { pitchRange: settings.pitchRange });
-    const bits = [];
+    const cs = compat(a, b, tr);
+    const cls = cs.n >= 75 ? 'good' : cs.n >= 50 ? 'ok' : 'bad';
+    const bits = [`<span class="score ${cls}" title="${esc(cs.detail)}"><b>${cs.n}</b> ${esc(cs.why)}</span>`];
     if (tr.pitch) {
       const pct = tr.pitch.pct;
       bits.push(`<span class="${relClass(tr.bpmScore)}">${a.bpm} → ${b.bpm} BPM${tr.pitch.mult !== 1 ? (tr.pitch.mult === 2 ? ' (double-time)' : ' (half-time)') : ''} · ${fmtPitch(pct)}${Math.abs(pct) > settings.pitchRange ? ' (beyond ±' + settings.pitchRange + '%)' : ''}</span>`);
@@ -689,7 +709,7 @@
     if (a.snd && b.snd) { const sim = soundSim(a.snd, b.snd); bits.push(`<span class="${sim > 0.6 ? 'good' : sim > 0.25 ? 'ok' : 'bad'}">sound ${sim > 0.6 ? 'very close' : sim > 0.25 ? 'related' : 'contrasting'}</span>`); }
     const fb = feedback(a.k, b.k);
     const fbBtns = `<span class="fb"><button class="${fb > 0 ? 'on' : ''}" data-fa="${esc(a.k)}" data-fbk="${esc(b.k)}" data-v="1" aria-label="This transition works" title="Works well: the generator will reuse it">${THUMB_SVG}</button><button class="down${fb < 0 ? ' on' : ''}" data-fa="${esc(a.k)}" data-fbk="${esc(b.k)}" data-v="-1" aria-label="This transition doesn't work" title="Doesn't work: the generator will avoid it">${THUMB_SVG}</button></span>`;
-    return `<li class="trans ${relClass(tr.score)}">${bits.join('')}${fbBtns}</li>`;
+    return `<li class="trans ${cls}">${bits.join('')}${fbBtns}</li>`;
   }
 
   // Track list, transitions, records to pull and next-track ideas for a mix or the draft.
