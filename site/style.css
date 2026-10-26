@@ -145,3 +145,18 @@ button.wide { width: 100%; margin-top: 10px; }
 .draft-bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; background: color-mix(in srgb, var(--accent) 12%, var(--panel)); border: 1px solid color-mix(in srgb, var(--accent) 45%, transparent); border-radius: 10px; padding: 10px 12px; margin: 8px 0; }
 .draft-tag { font-style: normal; font-size: 11px; color: var(--accent); margin-left: 4px; }
 .mix-list li button span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.mix-title { margin: 0; font-size: 20px; flex: 1; min-width: 0; overflow-wrap: anywhere; }
+.mix-name.editing { border-color: var(--accent); padding-left: 8px; background: var(--panel); }
+.mix-actions { margin: 6px 0 4px; }
+.save-row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.save-row input { flex: 1; min-width: 180px; font-weight: 600; }
+.gen-card { max-width: none; }
+.draft .draft-bar { flex-direction: column; align-items: stretch; }
+@media (max-width: 720px) {
+  .tabs { overflow-x: auto; max-width: 100%; scrollbar-width: none; }
+  .tabs button { padding: 6px 9px; white-space: nowrap; }
+}
+
+.tabs .ico { display: none; }
+@media (max-width: 720px) { .tabs .lbl { display: none; } .tabs .ico { display: inline; } }

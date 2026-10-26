@@ -17,6 +17,8 @@
   const user = store.get('user', { overrides: {}, mixes: [], updated: 0 });
   const settings = store.get('settings', { pitchRange: 8, ghToken: '', ghRepo: '' });
   let currentMixId = store.get('currentMix', null);
+  // Older versions kept generated drafts inside the mixes list; treat those as saved mixes now.
+  user.mixes.forEach((m) => delete m.draft);
 
   function saveUser() {
     user.updated = Date.now();
@@ -107,7 +109,7 @@
     view = v;
     $$('.tabs button').forEach((b) => b.classList.toggle('active', b.dataset.view === v));
     $$('.view').forEach((s) => s.classList.toggle('active', s.id === 'view-' + v));
-    $('#search').hidden = v === 'settings' || v === 'mixes';
+    $('#search').hidden = !['records', 'tracks'].includes(v);
     render();
     try { history.replaceState(null, '', '#' + v); } catch { /* sandboxed */ }
   }
@@ -116,6 +118,7 @@
     if (view === 'records') renderRecords();
     else if (view === 'tracks') renderTracks();
     else if (view === 'mixes') renderMixes();
+    else if (view === 'generate') renderGenerate();
     else renderSettings();
   }
 
@@ -386,9 +389,12 @@
     return { tracks: set.map((t) => t.k), short: set.length < n };
   }
 
-  function openGenerator() {
+  // The Generate tab: settings, then a draft you can tweak, regenerate, or save into My mixes.
+  function renderGenerate() {
     const styles = facet(DATA.releases.filter((r) => !gen.genre || r.genres.includes(gen.genre)), (r) => r.styles);
-    $('#drawer-body').innerHTML = `<h2>Generate a mix</h2>
+    const k = TRACKS.filter((t) => { const e = eff(t); return e.bpm && e.cam && (!gen.genre || t.r.genres.includes(gen.genre)) && (!gen.style || t.r.styles.includes(gen.style)); }).length;
+    const d = user.draft;
+    let html = `<section class="card-s gen-card"><h2>Generate a mix</h2>
       <p class="sub">Picks tracks you own that match, orders them so each step needs little pitch change and the keys sit well together, and never puts two tracks from the same record back to back. Only tracks with both BPM and key are used.</p>
       <div class="gen">
         ${select('genre', 'Genre', facet(DATA.releases, (r) => r.genres), gen.genre, 'Any')}
@@ -398,34 +404,56 @@
         ${select('cam', 'Start key', camOptions(), gen.cam, 'Any')}
         <label class="f"><span>Tracks</span><input data-f="n" value="${esc(gen.n)}" inputmode="numeric"></label>
       </div>
-      <p class="sub" id="gen-count"></p>
-      <div class="row"><button id="gen-go" class="primary">Generate</button></div>`;
-    const count = () => {
-      const k = TRACKS.filter((t) => { const e = eff(t); return e.bpm && e.cam && (!gen.genre || t.r.genres.includes(gen.genre)) && (!gen.style || t.r.styles.includes(gen.style)); }).length;
-      $('#gen-count').textContent = `${k} tracks to choose from.`;
-    };
-    $$('.gen select, .gen input', $('#drawer-body')).forEach((el) => (el.onchange = () => {
+      <div class="row"><button id="gen-go" class="primary">${d ? 'Generate again' : 'Generate'}</button><span class="sub">${k} tracks to choose from</span></div></section>`;
+    if (d) {
+      html += `<section class="draft"><div class="draft-bar"><div><b>Draft</b> · ${esc(d.generated.style || d.generated.genre || 'Any genre')}, ${esc(d.generated.from)}→${esc(d.generated.to)} BPM. Reorder or remove tracks here, then save it.</div>
+        <div class="save-row"><input id="draft-name" value="${esc(d.name)}" aria-label="Mix name" placeholder="Name this mix">
+        <button class="primary" data-a="save">Save to My mixes</button><button data-a="regen">Regenerate</button><button data-a="discard">Clear</button></div></div>
+        ${mixBodyHtml(d)}</section>`;
+    } else {
+      html += '<p class="empty">Pick your settings and tap Generate. The draft shows up here, and nothing goes into My mixes until you save it.</p>';
+    }
+    const root = $('#generate');
+    root.innerHTML = html;
+    $$('.gen select, .gen input', root).forEach((el) => (el.onchange = () => {
       gen[el.dataset.f] = el.value;
-      if (el.dataset.f === 'genre') { gen.style = ''; store.set('gen', gen); openGenerator(); return; }
-      store.set('gen', gen); count();
-    }));
-    count();
-    $('#gen-go').onclick = () => {
-      $$('.gen select, .gen input', $('#drawer-body')).forEach((el) => (gen[el.dataset.f] = el.value));
+      if (el.dataset.f === 'genre') gen.style = '';
       store.set('gen', gen);
-      const res = generateMix(gen);
-      if (res.error) { toast(res.error); return; }
-      const name = `${gen.style || gen.genre || 'Mix'} ${gen.from}→${gen.to}`;
-      const m = newMix(name);
-      m.tracks = res.tracks;
-      m.generated = { ...gen };
-      m.draft = true;
-      saveUser();
-      $('#drawer').hidden = true;
-      setView('mixes');
-      toast(res.short ? `Only found ${res.tracks.length} tracks that chain well` : 'Draft mix ready');
+      renderGenerate();
+    }));
+    $('#gen-go').onclick = () => {
+      $$('.gen select, .gen input', root).forEach((el) => (gen[el.dataset.f] = el.value));
+      store.set('gen', gen);
+      makeDraft();
     };
-    $('#drawer').hidden = false;
+    if (!d) return;
+    $('#draft-name').onchange = (e) => { d.name = e.target.value.trim() || d.name; saveUser(); };
+    $$('[data-a]', root).forEach((b) => (b.onclick = () => {
+      if (b.dataset.a === 'regen') { gen.genre = d.generated.genre; Object.assign(gen, d.generated); makeDraft(); }
+      if (b.dataset.a === 'discard') { user.draft = null; saveUser(); renderGenerate(); }
+      if (b.dataset.a === 'save') {
+        const name = $('#draft-name').value.trim() || d.name;
+        const m = { id: uid(), name, tracks: [...d.tracks], generated: d.generated, created: Date.now() };
+        user.mixes.unshift(m);
+        user.draft = null;
+        currentMixId = m.id;
+        store.set('currentMix', currentMixId);
+        saveUser();
+        setView('mixes');
+        toast(`Saved to My mixes`);
+      }
+    }));
+    wireMixBody(root, d, renderGenerate, (k) => { if (!d.tracks.includes(k)) { d.tracks.push(k); saveUser(); renderGenerate(); } });
+  }
+
+  function makeDraft() {
+    const res = generateMix(gen);
+    if (res.error) { toast(res.error); return; }
+    const keepName = user.draft && user.draft.renamed ? user.draft.name : null;
+    user.draft = { name: keepName || `${gen.style || gen.genre || 'Mix'} ${gen.from}→${gen.to}`, tracks: res.tracks, generated: { ...gen } };
+    saveUser();
+    renderGenerate();
+    toast(res.short ? `Only found ${res.tracks.length} tracks that chain well` : 'New draft ready');
   }
 
   function transitionHtml(a, b) {
@@ -442,28 +470,13 @@
     return `<li class="trans ${relClass(tr.score)}">${bits.join('')}</li>`;
   }
 
-  function renderMixes() {
-    $('#mixes').innerHTML = user.mixes.map((m) => `<li><button data-id="${m.id}" class="${m.id === currentMixId ? 'active' : ''}"><span>${esc(m.name)}${m.draft ? ' <em class="draft-tag">draft</em>' : ''}</span> <small>${m.tracks.length}</small></button></li>`).join('') || '<li class="empty">No mixes yet.</li>';
-    $$('#mixes button').forEach((b) => (b.onclick = () => { currentMixId = b.dataset.id; store.set('currentMix', currentMixId); renderMixes(); }));
-    const m = currentMix();
-    const main = $('#mix-main');
-    if (!m) {
-      main.innerHTML = `<div class="empty"><p>Tap <b>Generate a mix</b> to have one built from a genre and BPM range, or create an empty mix and add tracks from Records or Tracks with the <b>+</b> button.</p><p>Each step shows how much to pitch the next record and whether the keys sit well together on the Camelot wheel.</p></div>`;
-      return;
-    }
+  // Track list, transitions, records to pull and next-track ideas for a mix or the draft.
+  function mixBodyHtml(m) {
     const items = m.tracks.map(trackObj);
-    let html = `<div class="row mix-head"><input class="mix-name" value="${esc(m.name)}" aria-label="Mix name">
-      <div class="actions"><button class="small" data-a="auto" title="Reorder for smoothest BPM and key steps">Auto-order</button>
-      <button class="small" data-a="dup" title="Make a copy to try a variation">Duplicate</button>
-      <button class="small" data-a="copy">Copy as text</button><button class="small danger" data-a="del">Delete</button></div></div>`;
-    if (m.draft) {
-      html += `<div class="draft-bar"><div><b>Draft.</b> Happy with it? Save it to keep it. You can still rename, reorder, add and remove tracks afterwards.</div>
-        <div class="actions"><button class="primary" data-a="save">Save mix</button><button data-a="regen" title="Same settings, different picks">Regenerate</button><button data-a="discard">Discard</button></div></div>`;
-    }
     const recs = new Map();
     items.forEach((t) => t && recs.set(t.r.iid || t.r.id, t.r));
     const total = items.reduce((s, t) => s + ((t && t.dur) || 0), 0);
-    html += `<p class="sub">${items.length} tracks from ${recs.size} records${total ? ` · about ${Math.round(total / 60)} min if played in full` : ''}</p><ol class="mix">`;
+    let html = `<p class="sub">${items.length} tracks from ${recs.size} records${total ? ` · about ${Math.round(total / 60)} min if played in full` : ''}${items.length > 1 ? ' · drag ⋮⋮ to reorder' : ''}</p><ol class="mix">`;
     items.forEach((t, i) => {
       if (!t) { html += `<li class="item missing" data-i="${i}">A track that's no longer in your collection <button class="small" data-rm="${i}">Remove</button></li>`; return; }
       if (i > 0 && items[i - 1]) html += transitionHtml(items[i - 1], t);
@@ -474,6 +487,7 @@
         <div class="mv"><button class="small" data-up="${i}" aria-label="Move up">↑</button><button class="small" data-down="${i}" aria-label="Move down">↓</button><button class="small" data-rm="${i}" aria-label="Remove">×</button></div></li>`;
     });
     html += '</ol>';
+    if (!items.length) html += '<p class="sub">Add tracks with the <b>+</b> button in Records or Tracks.</p>';
     if (recs.size) {
       html += `<h3>Records to pull</h3><ul class="pull">${[...recs.values()].map((r) => {
         const sides = [...new Set(items.filter((t) => t && t.r === r).map((t) => t.pos))].join(', ');
@@ -492,31 +506,64 @@
         <td><button class="small add">+</button></td></tr>`).join('')}</tbody></table>`
         : '<p class="sub">No good matches yet. Suggestions need BPM and key on the last track, so add them by hand if they are missing.</p>';
     }
+    return html;
+  }
+
+  function wireMixBody(root, m, rerender, add) {
+    const move = (i, j) => { if (j < 0 || j >= m.tracks.length) return; const [x] = m.tracks.splice(i, 1); m.tracks.splice(j, 0, x); saveUser(); rerender(); };
+    $$('[data-up]', root).forEach((b) => (b.onclick = () => move(+b.dataset.up, +b.dataset.up - 1)));
+    $$('[data-down]', root).forEach((b) => (b.onclick = () => move(+b.dataset.down, +b.dataset.down + 1)));
+    $$('[data-rm]', root).forEach((b) => (b.onclick = () => { m.tracks.splice(+b.dataset.rm, 1); saveUser(); rerender(); }));
+    wireDrag(root, move);
+    $$('table.sug .add', root).forEach((b) => (b.onclick = () => add(b.closest('tr').dataset.k)));
+  }
+
+  // My mixes: only saved mixes. Rename, reorder, add, remove, duplicate, delete.
+  let renaming = false;
+  function renderMixes() {
+    $('#mixes').innerHTML = user.mixes.map((m) => `<li><button data-id="${m.id}" class="${m.id === currentMixId ? 'active' : ''}"><span>${esc(m.name)}</span> <small>${m.tracks.length}</small></button></li>`).join('') || '<li class="empty">No saved mixes yet.</li>';
+    $$('#mixes button').forEach((b) => (b.onclick = () => { currentMixId = b.dataset.id; renaming = false; store.set('currentMix', currentMixId); renderMixes(); }));
+    const m = currentMix();
+    const main = $('#mix-main');
+    if (!m) {
+      main.innerHTML = `<div class="empty"><p>Your saved mixes live here. Build one in the <b>Generate</b> tab and save it, or tap <b>+ New</b> and add tracks from Records or Tracks with the <b>+</b> button.</p></div>`;
+      return;
+    }
+    let html = renaming
+      ? `<div class="row mix-head"><input class="mix-name editing" id="rename-input" value="${esc(m.name)}" aria-label="Mix name"><div class="actions"><button class="primary small" data-a="rename-ok">Save name</button><button class="small" data-a="rename-cancel">Cancel</button></div></div>`
+      : `<div class="row mix-head"><h2 class="mix-title">${esc(m.name)}</h2><button class="small" data-a="rename">✎ Rename</button></div>`;
+    html += `<div class="actions mix-actions"><button class="small" data-a="auto" title="Reorder for smoothest BPM and key steps">Auto-order</button>
+      <button class="small" data-a="dup" title="Make a copy to try a variation">Duplicate</button>
+      <button class="small" data-a="copy">Copy as text</button><button class="small danger" data-a="del">Delete</button></div>`;
+    html += mixBodyHtml(m);
     main.innerHTML = html;
 
-    $('.mix-name', main).onchange = (e) => { m.name = e.target.value.trim() || m.name; saveUser(); renderMixes(); };
-    $$('[data-a]', main).forEach((b) => (b.onclick = () => {
-      if (b.dataset.a === 'auto') { autoOrder(m); renderMixes(); toast('Reordered'); }
-      if (b.dataset.a === 'regen') { const res = generateMix(m.generated); if (!res.error) { m.tracks = res.tracks; saveUser(); renderMixes(); toast('New version'); } }
-      if (b.dataset.a === 'copy') copyMix(m);
-      if (b.dataset.a === 'save') { m.draft = false; saveUser(); renderMixes(); toast('Mix saved'); }
-      if (b.dataset.a === 'discard') { user.mixes = user.mixes.filter((x) => x !== m); currentMixId = user.mixes[0]?.id || null; store.set('currentMix', currentMixId); saveUser(); renderMixes(); toast('Draft discarded'); }
-      if (b.dataset.a === 'dup') {
-        const c = { ...m, id: uid(), name: m.name + ' (copy)', tracks: [...m.tracks], draft: false, created: Date.now() };
-        user.mixes.splice(user.mixes.indexOf(m), 0, c);
-        currentMixId = c.id; store.set('currentMix', currentMixId); saveUser(); renderMixes(); toast('Copy made');
-      }
-      if (b.dataset.a === 'del') {
-        if (b.dataset.armed) { user.mixes = user.mixes.filter((x) => x !== m); currentMixId = user.mixes[0]?.id || null; store.set('currentMix', currentMixId); saveUser(); renderMixes(); }
-        else { b.dataset.armed = '1'; b.textContent = 'Click again to delete'; }
-      }
-    }));
-    const move = (i, j) => { if (j < 0 || j >= m.tracks.length) return; const [x] = m.tracks.splice(i, 1); m.tracks.splice(j, 0, x); saveUser(); renderMixes(); };
-    $$('[data-up]', main).forEach((b) => (b.onclick = () => move(+b.dataset.up, +b.dataset.up - 1)));
-    $$('[data-down]', main).forEach((b) => (b.onclick = () => move(+b.dataset.down, +b.dataset.down + 1)));
-    $$('[data-rm]', main).forEach((b) => (b.onclick = () => { m.tracks.splice(+b.dataset.rm, 1); saveUser(); renderMixes(); }));
-    wireDrag(main, move);
-    $$('table.sug .add', main).forEach((b) => (b.onclick = () => addToMix(b.closest('tr').dataset.k)));
+    if (renaming) {
+      const inp = $('#rename-input');
+      inp.focus(); inp.select();
+      const ok = () => { m.name = inp.value.trim() || m.name; renaming = false; saveUser(); renderMixes(); toast('Renamed'); };
+      inp.onkeydown = (e) => { if (e.key === 'Enter') ok(); if (e.key === 'Escape') { renaming = false; renderMixes(); } };
+      $('[data-a=rename-ok]', main).onclick = ok;
+      $('[data-a=rename-cancel]', main).onclick = () => { renaming = false; renderMixes(); };
+    }
+    $$('[data-a]', main).forEach((b) => {
+      if (b.dataset.a.startsWith('rename-')) return;
+      b.onclick = () => {
+        if (b.dataset.a === 'rename') { renaming = true; renderMixes(); }
+        if (b.dataset.a === 'auto') { autoOrder(m); renderMixes(); toast('Reordered'); }
+        if (b.dataset.a === 'copy') copyMix(m);
+        if (b.dataset.a === 'dup') {
+          const c = { ...m, id: uid(), name: m.name + ' (copy)', tracks: [...m.tracks], created: Date.now() };
+          user.mixes.splice(user.mixes.indexOf(m), 0, c);
+          currentMixId = c.id; store.set('currentMix', currentMixId); saveUser(); renderMixes(); toast('Copy made');
+        }
+        if (b.dataset.a === 'del') {
+          if (b.dataset.armed) { user.mixes = user.mixes.filter((x) => x !== m); currentMixId = user.mixes[0]?.id || null; store.set('currentMix', currentMixId); saveUser(); renderMixes(); }
+          else { b.dataset.armed = '1'; b.textContent = 'Tap again to delete'; }
+        }
+      };
+    });
+    wireMixBody(main, m, renderMixes, addToMix);
   }
 
   // Drag by the grip to reorder. Pointer events, so it works with a finger on iPhone as well as a mouse.
@@ -675,7 +722,6 @@
     let t;
     $('#search').oninput = () => { clearTimeout(t); t = setTimeout(() => { trackLimit = 300; render(); }, 120); };
     $('#new-mix').onclick = () => { newMix(); renderMixes(); };
-    $('#gen-mix').onclick = openGenerator;
     const close = () => { $('#drawer').hidden = true; if (view === 'tracks') renderTracks(); if (view === 'mixes') renderMixes(); };
     $('.drawer-back').onclick = close;
     $('.drawer .close').onclick = close;
@@ -694,7 +740,7 @@
     const s = $('#status');
     if (DATA.generated) s.textContent = `${DATA.releases.length} records · ${TRACKS.length} tracks · synced ${new Date(DATA.generated).toLocaleString()}`;
     const v = location.hash.slice(1);
-    setView(['records', 'tracks', 'mixes', 'settings'].includes(v) ? v : 'records');
+    setView(['records', 'tracks', 'generate', 'mixes', 'settings'].includes(v) ? v : 'records');
     remoteLoad(false).catch(() => {});
   }
   boot();

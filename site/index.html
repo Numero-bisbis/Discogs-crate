@@ -20,8 +20,9 @@
   <nav class="tabs" role="tablist">
     <button data-view="records" class="active">Records</button>
     <button data-view="tracks">Tracks</button>
-    <button data-view="mixes">Mixes</button>
-    <button data-view="settings">Settings</button>
+    <button data-view="generate">Generate</button>
+    <button data-view="mixes">My mixes</button>
+    <button data-view="settings" aria-label="Settings"><span class="lbl">Settings</span><span class="ico" aria-hidden="true">⚙︎</span></button>
   </nav>
   <input id="search" type="search" placeholder="Search artist, title, label, catno…" autocomplete="off">
 </header>
@@ -39,11 +40,12 @@
     <button class="more" id="track-more" hidden>Show more</button>
   </section>
 
+  <section id="view-generate" class="view"><div id="generate"></div></section>
+
   <section id="view-mixes" class="view">
     <div class="mix-layout">
       <aside class="mix-list">
-        <div class="row"><h2>Mixes</h2><button id="new-mix" class="small">+ New</button></div>
-        <button id="gen-mix" class="primary wide">✨ Generate a mix</button>
+        <div class="row"><h2>My mixes</h2><button id="new-mix" class="small">+ New</button></div>
         <ul id="mixes"></ul>
       </aside>
       <div class="mix-main" id="mix-main"></div>

@@ -33,7 +33,7 @@ jobs:
       - run: pip install requests
       - run: python sync/build.py
       - name: Make browsers fetch the new code
-        run: sed -i -E "s/(app|camelot)\.js\"/\1.js?v=${GITHUB_SHA::8}\"/g; s/style\.css\"/style.css?v=${GITHUB_SHA::8}\"/g" site/index.html
+        run: sed -i -E "s/(app|camelot)\.js\"/\1.js?v=${GITHUB_SHA::8}\"/g; s/style\.css\"/style.css?v=${GITHUB_SHA::8}\"/g; s/(apple-touch-icon|icon-192|icon-512)\.png\"/\1.png?v=${GITHUB_SHA::8}\"/g" site/index.html
       - name: Include saved edits and mixes
         run: |
           if [ -f user/state.json ]; then mkdir -p site/user && cp user/state.json site/user/; fi
