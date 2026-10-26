@@ -269,6 +269,15 @@ code { background: var(--fill); padding: 1px 5px; border-radius: 4px; font-size:
 .play svg { width: 13px; height: 13px; margin-left: 2px; }
 .play:hover { background: var(--panel3); }
 .play.on { background: var(--accent); color: var(--accent-ink); }
+.snips { display: inline-flex; gap: 4px; flex: none; }
+.play svg path[stroke-width] { fill: none; }
+.ytb { flex: none; width: 28px; height: 28px; padding: 0; border-radius: 50%; display: inline-grid; place-items: center; background: none; color: var(--muted); }
+.ytb svg { width: 19px; height: 19px; stroke-width: 1.7; }
+.ytb:hover, .ytb.on { color: #ff3b30; background: var(--fill); }
+.ytb.none svg { width: 15px; height: 15px; }
+.ytb.none { color: var(--faint); }
+.ytb.none:hover { color: var(--accent); }
+.pl-more { flex: none; font-size: 13px; font-weight: 500; padding: 4px 6px; white-space: nowrap; }
 .play.none { background: none; color: var(--faint); }
 .play.none svg { margin: 0; width: 15px; height: 15px; }
 .play.none:hover { color: var(--accent); }
@@ -360,7 +369,7 @@ body.has-player main { padding-bottom: 300px; }
   table.tracks th:nth-child(8), table.tracks td:nth-child(8),
   table.tracks th:nth-child(9), table.tracks td:nth-child(9),
   table.tracks th:nth-child(10), table.tracks td:nth-child(10) { display: none; }
-  table.tracks td:nth-child(2) { min-width: 160px; }
+  table.tracks td:nth-child(2) { min-width: 200px; }
   table.tracks th, table.tracks td { padding: 9px 6px; }
 
   .mix-layout { grid-template-columns: 1fr; gap: 6px; }

@@ -116,69 +116,141 @@
   }
 
   // ---------- snippets ----------
-  // A YouTube video linked on Discogs if one matches the track, else Deezer's 30-second preview,
-  // else a YouTube search in a new tab.
+  // ▶ is a quick 30-second preview for recognising a track: Deezer (the match found during sync,
+  // else a live search), then Apple Music. The YouTube button plays the full video linked on
+  // Discogs, or searches YouTube when there isn't one.
   const PLAY_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10.5-6.5z" fill="currentColor"/></svg>';
+  const PAUSE_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13M16 5.5v13" stroke-width="3.2"/></svg>';
+  const YT_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="5.5" width="19" height="13" rx="3.5"/><path d="M10 9.2v5.6l4.8-2.8z" fill="currentColor" stroke="none"/></svg>';
   const SEARCH_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg>';
+  const ytSearch = (t) => `https://www.youtube.com/results?search_query=${encodeURIComponent(`${t.artist} ${t.title}`)}`;
   function playBtn(t) {
-    if (t.yt || t.dz) return `<button class="play${playing === t.k ? ' on' : ''}" data-play="${esc(t.k)}" title="Play a snippet" aria-label="Play ${esc(t.title)}">${PLAY_SVG}</button>`;
-    const q = encodeURIComponent(`${t.artist} ${t.title}`);
-    return `<a class="play none" href="https://www.youtube.com/results?search_query=${q}" target="_blank" rel="noopener" title="No snippet linked: search YouTube" aria-label="Search YouTube for ${esc(t.title)}">${SEARCH_SVG}</a>`;
+    const on = playing === 'p:' + t.k;
+    const quick = `<button class="play${on ? ' on' : ''}" data-play="${esc(t.k)}" title="Quick listen (30 s preview)" aria-label="Preview ${esc(t.title)}">${on ? PAUSE_SVG : PLAY_SVG}</button>`;
+    const video = t.yt
+      ? `<button class="ytb${playing === 'v:' + t.k ? ' on' : ''}" data-yt="${esc(t.k)}" title="Watch the YouTube video linked on Discogs" aria-label="YouTube video of ${esc(t.title)}">${YT_SVG}</button>`
+      : `<a class="ytb none" href="${ytSearch(t)}" target="_blank" rel="noopener" title="Search YouTube" aria-label="Search YouTube for ${esc(t.title)}">${SEARCH_SVG}</a>`;
+    return `<span class="snips">${quick}${video}</span>`;
   }
 
-  function deezerPreview(id) {
-    // Deezer's API has no CORS headers, but it does answer JSONP.
+  // Deezer's and Apple's search APIs have no CORS headers, but both answer JSONP.
+  function jsonp(url) {
     return new Promise((resolve, reject) => {
-      const cb = 'crateDz' + uid(), s = document.createElement('script');
+      const cb = 'crateCb' + uid(), s = document.createElement('script');
       const done = () => { delete window[cb]; s.remove(); clearTimeout(timer); };
-      const timer = setTimeout(() => { done(); reject(new Error('timeout')); }, 8000);
-      window[cb] = (j) => { done(); j && j.preview ? resolve(j.preview) : reject(new Error('no preview')); };
+      const timer = setTimeout(() => { done(); reject(new Error('timeout')); }, 7000);
+      window[cb] = (j) => { done(); resolve(j); };
       s.onerror = () => { done(); reject(new Error('blocked')); };
-      s.src = `https://api.deezer.com/track/${encodeURIComponent(id)}?output=jsonp&callback=${cb}`;
+      s.src = `${url}${url.includes('?') ? '&' : '?'}callback=${cb}`;
       document.head.appendChild(s);
     });
   }
+  const words = (x) => norm(x).replace(/[([].*?[)\]]/g, ' ').match(/[a-z0-9]+/g) || [];
+  // Best search hit whose title (and artist, unless it's a compilation) looks like this track.
+  function pickHit(t, hits, title, artist) {
+    const tw = words(t.title), aw = words(t.artist).filter((w) => w.length > 2);
+    const various = /^various/i.test(t.artist);
+    let best = null, bestScore = 0;
+    for (const h of hits || []) {
+      const hw = new Set(words(title(h))), ha = norm(artist(h));
+      const score = tw.length ? tw.filter((w) => hw.has(w)).length / tw.length : 0;
+      if (score < 0.6 || (!various && aw.length && !aw.some((w) => ha.includes(w)))) continue;
+      if (score > bestScore) { best = h; bestScore = score; }
+    }
+    return best;
+  }
+  const previews = new Map(); // track key -> {url, from} | null, for this visit
+  async function findPreview(t) {
+    if (previews.has(t.k)) return previews.get(t.k);
+    const q = `${t.artist.replace(/^various.*/i, '')} ${t.title.replace(/\s*[([].*?[)\]]/g, '')}`.trim();
+    let found = null;
+    if (t.dz) {
+      try { const j = await jsonp(`https://api.deezer.com/track/${encodeURIComponent(t.dz)}?output=jsonp`); if (j.preview) found = { url: j.preview, from: 'Deezer' }; } catch { /* try search */ }
+    }
+    if (!found) {
+      try {
+        const j = await jsonp(`https://api.deezer.com/search?q=${encodeURIComponent(q)}&limit=15&output=jsonp`);
+        const h = pickHit(t, j.data, (x) => x.title, (x) => x.artist && x.artist.name);
+        if (h && h.preview) found = { url: h.preview, from: 'Deezer' };
+      } catch { /* try Apple */ }
+    }
+    if (!found) {
+      try {
+        const j = await jsonp(`https://itunes.apple.com/search?term=${encodeURIComponent(q)}&entity=song&limit=15`);
+        const h = pickHit(t, j.results, (x) => x.trackName, (x) => x.artistName);
+        if (h && h.previewUrl) found = { url: h.previewUrl, from: 'Apple Music' };
+      } catch { /* nothing found */ }
+    }
+    previews.set(t.k, found);
+    return found;
+  }
 
-  let playing = null;
-  function showPlayer(key, title, sub, media) {
+  let playing = null; // 'p:<track>' preview, 'v:<track>' track video, 'v:<video id>' other video
+  // One audio element for the whole visit: once a tap has started it, iOS lets it play again later.
+  const audio = document.createElement('audio');
+  audio.controls = true;
+  audio.setAttribute('playsinline', '');
+  const SILENT = 'data:audio/wav;base64,UklGRiQAAABXQVZFZm10IBAAAAABAAEARKwAAIhYAQACABAAZGF0YQAAAAA=';
+  function markPlaying() {
+    $$('[data-play], [data-yt], [data-video]').forEach((b) => {
+      const key = b.dataset.play ? 'p:' + b.dataset.play : 'v:' + (b.dataset.yt || b.dataset.video);
+      b.classList.toggle('on', key === playing);
+      if (b.dataset.play) b.innerHTML = key === playing ? PAUSE_SVG : PLAY_SVG;
+    });
+  }
+  function showPlayer(key, title, sub, more) {
     const p = $('#player');
     $('.pl-info b', p).textContent = title;
     $('.pl-info small', p).textContent = sub;
-    $('.pl-media', p).innerHTML = media;
+    const m = $('.pl-more', p);
+    m.hidden = !more;
+    if (more) { m.href = more.href; m.textContent = more.label; }
     p.hidden = false;
     document.body.classList.add('has-player');
     requestAnimationFrame(() => p.classList.add('show'));
     playing = key;
-    $$('.play.on').forEach((b) => b.classList.remove('on'));
-    $$(`[data-play="${CSS.escape(key)}"], [data-video="${CSS.escape(key)}"]`).forEach((b) => b.classList.add('on'));
+    markPlaying();
   }
   function closePlayer() {
     const p = $('#player');
+    audio.pause();
     p.classList.remove('show');
     $('.pl-media', p).innerHTML = '';
     p.hidden = true;
     document.body.classList.remove('has-player');
     playing = null;
-    $$('.on[data-play], .on[data-video]').forEach((b) => b.classList.remove('on'));
+    markPlaying();
   }
-  const ytFrame = (id) => `<iframe src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(id)}?autoplay=1&playsinline=1&rel=0&modestbranding=1" title="YouTube video" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
-  async function playTrack(k) {
+  function playVideo(key, id, title, sub) {
+    if (playing === key) { closePlayer(); return; }
+    audio.pause();
+    showPlayer(key, title, sub + ' · YouTube', { href: `https://www.youtube.com/watch?v=${encodeURIComponent(id)}`, label: 'Open in YouTube ↗' });
+    $('#player .pl-media').innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(id)}?autoplay=1&playsinline=1&rel=0&modestbranding=1" title="YouTube video" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
+  }
+  async function previewTrack(k) {
     const t = byKey.get(k);
     if (!t) return;
-    if (playing === k) { closePlayer(); return; }
+    const key = 'p:' + k;
+    if (playing === key) { closePlayer(); return; }
     const sub = `${t.artist} · ${t.r.title} · ${t.pos}`;
-    if (t.yt) { showPlayer(k, t.title, sub + ' · YouTube', ytFrame(t.yt)); return; }
-    // Make the audio element inside the tap so iOS lets it play once the preview link arrives.
-    showPlayer(k, t.title, sub + ' · Deezer preview, 30 s', '<audio controls autoplay playsinline></audio>');
-    const audio = $('#player audio');
+    const more = t.yt ? { href: `https://www.youtube.com/watch?v=${t.yt}`, label: 'Video ↗' } : { href: ytSearch(t), label: 'YouTube ↗' };
+    showPlayer(key, t.title, sub + ' · finding a preview…', more);
+    const media = $('#player .pl-media');
+    media.innerHTML = '';
+    media.appendChild(audio);
+    // Start playback inside the tap (silently) so iOS allows the real preview once it's found.
+    audio.src = SILENT;
     audio.play().catch(() => {});
-    try {
-      audio.src = await deezerPreview(t.dz);
-      if (playing === k) audio.play().catch(() => {});
-    } catch {
-      if (playing !== k) return;
-      const q = encodeURIComponent(`${t.artist} ${t.title}`);
-      $('#player .pl-media').innerHTML = `<p class="sub">Deezer's preview didn't load. <a href="https://www.youtube.com/results?search_query=${q}" target="_blank" rel="noopener">Search YouTube instead ↗</a></p>`;
+    const found = await findPreview(t);
+    if (playing !== key) return;
+    if (found) {
+      $('#player .pl-info small').textContent = `${sub} · ${found.from} preview`;
+      audio.src = found.url;
+      audio.play().catch(() => {});
+    } else {
+      audio.pause();
+      $('#player .pl-info small').textContent = sub;
+      media.innerHTML = `<p class="sub">No preview found for this one.${t.yt ? ' Tap the YouTube button to watch the video.' : ` <a href="${ytSearch(t)}" target="_blank" rel="noopener">Search YouTube ↗</a>`}</p>`;
     }
   }
 
@@ -846,12 +918,12 @@
   // ---------- boot ----------
   function wire() {
     document.addEventListener('click', (e) => {
-      const b = e.target.closest('[data-play], [data-video]');
+      const b = e.target.closest('[data-play], [data-yt], [data-video]');
       if (!b) return;
       e.preventDefault();
-      if (b.dataset.play) playTrack(b.dataset.play);
-      else if (playing === b.dataset.video) closePlayer();
-      else showPlayer(b.dataset.video, b.dataset.title, b.dataset.sub + ' · YouTube', ytFrame(b.dataset.video));
+      if (b.dataset.play) previewTrack(b.dataset.play);
+      else if (b.dataset.yt) { const t = byKey.get(b.dataset.yt); playVideo('v:' + t.k, t.yt, t.title, `${t.artist} · ${t.r.title} · ${t.pos}`); }
+      else playVideo('v:' + b.dataset.video, b.dataset.video, b.dataset.title, b.dataset.sub);
     });
     $('#player .pl-close').onclick = closePlayer;
     $$('.tabs button').forEach((b) => (b.onclick = () => setView(b.dataset.view)));

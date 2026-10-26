@@ -6,7 +6,7 @@ A web app for browsing a Discogs record collection and planning mixes to play on
 - **Tracks**: every track in the collection, sortable and filterable by BPM, key (Camelot), genre and style. "Mixes with" shows tracks whose key sits well with a chosen key.
 - **Mixes**: build ordered playlists from tracks you own. Every step shows how far to pitch the next record and whether the keys work, including the key shift that pitching causes on vinyl (no key lock on a turntable). Lists the records to pull and the side/position of each track, suggests what could come next, and can auto-order a mix.
 - **Edits**: BPM and key are estimates; type over any value to correct it.
-- **Snippets**: the ▶ button plays the YouTube video linked to that track on Discogs, or Deezer's 30-second preview when there is no video. Tracks with neither get a YouTube search link instead.
+- **Snippets**: ▶ plays a quick 30-second preview (Deezer, else Apple Music) to recognise a track; the YouTube button plays the full video linked on Discogs, or searches YouTube when there isn't one.
 
 ## How it stays up to date
 

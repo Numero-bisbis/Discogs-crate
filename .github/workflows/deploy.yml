@@ -39,7 +39,7 @@ jobs:
       - run: pip install requests
       - run: python sync/build.py
       - name: Make browsers fetch the new code
-        run: sed -i -E "s/(app|camelot)\.js\"/\1.js?v=$(git rev-parse --short HEAD)\"/g; s/style\.css\"/style.css?v=$(git rev-parse --short HEAD)\"/g; s/(apple-touch-icon|icon-192|icon-512)\.png\"/\1.png?v=$(git rev-parse --short HEAD)\"/g" site/index.html
+        run: sed -i -E "s/(app|camelot)\.js\"/\1.js?v=$(git rev-parse --short HEAD)\"/g; s/style\.css\"/style.css?v=$(git rev-parse --short HEAD)\"/g; s/(crate-180|crate-192|crate-512)\.png\"/\1.png?v=$(git rev-parse --short HEAD)\"/g; s/manifest\.webmanifest\"/manifest.webmanifest?v=$(git rev-parse --short HEAD)\"/g" site/index.html site/manifest.webmanifest
       - name: Include saved edits and mixes
         run: |
           if [ -f user/state.json ]; then mkdir -p site/user && cp user/state.json site/user/; fi
