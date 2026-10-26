@@ -229,6 +229,7 @@ ol.mix { list-style: none; padding: 0; margin: 12px 0 28px; background: var(--pa
 .trans span.unk { color: var(--muted); }
 .trans .score { flex-basis: 100%; color: var(--muted); }
 .trans .score b { font-weight: 700; font-variant-numeric: tabular-nums; margin-right: 4px; }
+table.sug .cscore { font-variant-numeric: tabular-nums; margin-right: 2px; } table.sug .cscore.good { color: var(--good); } table.sug .cscore.ok { color: var(--ok); } table.sug .cscore.bad { color: var(--bad); }
 .trans .score.good b { color: var(--good); } .trans .score.ok b { color: var(--ok); } .trans .score.bad b { color: var(--bad); }
 .good { color: var(--good); } .ok { color: var(--ok); } .bad { color: var(--bad); } .unk { color: var(--muted); }
 h3 { font-size: 20px; margin: 28px 0 10px; font-weight: 700; }

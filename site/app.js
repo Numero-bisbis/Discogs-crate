@@ -690,6 +690,11 @@
     return { n: Math.round(Math.max(0, Math.min(1, s)) * 100), why, detail };
   }
 
+  function sugScore(a, b, tr) {
+    const cs = compat(a, b, tr);
+    return `<b class="cscore ${cs.n >= 75 ? 'good' : cs.n >= 50 ? 'ok' : 'bad'}" title="${esc(cs.why + ': ' + cs.detail)}">${cs.n}</b> `;
+  }
+
   function transitionHtml(a, b) {
     const tr = C.transition(a, b, { pitchRange: settings.pitchRange });
     const cs = compat(a, b, tr);
@@ -743,8 +748,9 @@
       const lt = trackObj(last);
       html += `<h3>What could come next <small>after ${esc(lt.title)}${lt.bpm ? ' · ' + lt.bpm + ' BPM' : ''}${lt.cam ? ' · ' + lt.cam : ''}</small></h3>`;
       html += sug.length ? `<table class="sug"><tbody>${sug.map(({ t, tr }) => `<tr data-k="${esc(t.k)}"><td>${camBadge(t.cam, t.key)}</td><td class="num">${t.bpm ?? '–'}</td>
-        <td><b>${esc(t.title)}</b><br><small>${esc(t.artist)} · ${esc(t.r.title)} ${esc(t.pos)}</small></td>
-        <td><small class="${relClass(tr.score)}">${tr.pitch ? fmtPitch(tr.pitch.pct) + ' · ' : ''}${esc(tr.pitched.label)}</small></td>
+        <td><b>${esc(t.title)}</b><br><small>${esc(t.artist)} · ${esc(t.r.title)} ${esc(t.pos)}</small>
+          <br><small class="${relClass(tr.score)}">${sugScore(lt, t, tr)}${tr.pitch ? fmtPitch(tr.pitch.pct) + ' · ' : ''}${esc(tr.pitched.label)}</small></td>
+        <td>${playBtn(t)}</td>
         <td><button class="small add">+</button></td></tr>`).join('')}</tbody></table>`
         : '<p class="sub">No good matches yet. Suggestions need BPM and key on the last track, so add them by hand if they are missing.</p>';
     }
