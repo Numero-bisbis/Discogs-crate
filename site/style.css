@@ -2,7 +2,7 @@
 :root {
   --bg: #000; --panel: #1c1c1e; --panel2: #2c2c2e; --panel3: #3a3a3c; --fill: rgb(118 118 128 / .24);
   --sep: #38383a; --text: #fff; --muted: #98989f; --faint: #636366;
-  --accent: #ff9f0a; --accent-ink: #000; --accent-soft: rgb(255 159 10 / .16);
+  --accent: #8a8dff; --accent-ink: #fff; --accent-soft: rgb(138 141 255 / .16);
   --good: #30d158; --ok: #ffd60a; --bad: #ff453a;
   --bar: rgb(22 22 24 / .82);
   --nav-h: 0px;
@@ -12,8 +12,8 @@
   :root {
     --bg: #f2f2f7; --panel: #fff; --panel2: #e9e9ee; --panel3: #dcdce1; --fill: rgb(118 118 128 / .12);
     --sep: #d8d8dc; --text: #000; --muted: #6c6c70; --faint: #aeaeb2;
-    --accent: #d26a00; --accent-ink: #fff; --accent-soft: rgb(210 106 0 / .1);
-    --good: #248a3d; --ok: #a05a00; --bad: #d70015;
+    --accent: #5856d6; --accent-ink: #fff; --accent-soft: rgb(88 86 214 / .1);
+    --good: #248a3d; --ok: #b25000; --bad: #d70015;
     --bar: rgb(249 249 249 / .86);
     color-scheme: light;
   }
@@ -42,8 +42,8 @@ button:active, .button:active { opacity: .6; }
 button.small { padding: 5px 10px; font-size: 13px; border-radius: 7px; }
 button.danger { color: var(--bad); }
 button.danger[data-armed] { background: var(--bad); color: #fff; }
-button.primary { background: var(--accent); color: var(--accent-ink); font-weight: 600; }
-button.primary:hover { background: var(--accent); opacity: .9; }
+button.primary { background: var(--text); color: var(--bg); font-weight: 600; }
+button.primary:hover { background: var(--text); opacity: .85; }
 button.wide { width: 100%; margin-top: 10px; }
 select, input {
   background: var(--fill); border: 0; border-radius: 8px; padding: 7px 10px; min-width: 0; color: var(--text);
@@ -180,7 +180,7 @@ body.locked { position: fixed; left: 0; right: 0; overflow: hidden; }
 .rec-head > div:last-child { flex: 1; min-width: 220px; }
 .rec-head h2 { margin: 0; font-size: 22px; line-height: 1.2; font-weight: 700; }
 .rec-head p { margin: 2px 0; color: var(--muted); font-size: 14px; }
-.rec-head .artist { color: var(--accent); font-size: 20px; margin-bottom: 6px; }
+.rec-head .artist { color: var(--text); font-size: 18px; margin-bottom: 6px; }
 .tags { display: flex; flex-wrap: wrap; gap: 4px; padding-top: 4px; }
 .tags span { background: var(--fill); border-radius: 5px; padding: 1px 7px; font-size: 12px; color: var(--muted); }
 .hint, .sub { color: var(--muted); font-size: 13px; }
@@ -195,8 +195,8 @@ body.locked { position: fixed; left: 0; right: 0; overflow: hidden; }
 .mix-list li + li { border-top: .5px solid var(--sep); }
 .mix-list li button { width: 100%; text-align: left; display: flex; justify-content: space-between; background: none; color: var(--text); border-radius: 0; padding: 11px 14px; font-weight: 400; }
 .mix-list li button:hover { background: var(--fill); }
-.mix-list li button.active { background: var(--accent); color: var(--accent-ink); }
-.mix-list li button.active small { color: inherit; opacity: .75; }
+.mix-list li button.active { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.mix-list li button.active small { color: inherit; }
 .mix-list li button span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .mix-list small { color: var(--muted); font-variant-numeric: tabular-nums; }
 .mix-list .empty { padding: 14px; text-align: left; }
