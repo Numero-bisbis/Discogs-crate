@@ -195,6 +195,7 @@
     $$('.view').forEach((s) => s.classList.toggle('active', s.id === 'view-' + v));
     $('.search-wrap').hidden = !['records', 'tracks'].includes(v);
     document.body.dataset.view = v;
+    $('#ltitle').textContent = { records: 'Records', tracks: 'Tracks', generate: 'Generate', mixes: 'My mixes', settings: 'Settings' }[v];
     render();
     window.scrollTo(0, 0);
     try { history.replaceState(null, '', '#' + v); } catch { /* sandboxed */ }
@@ -813,6 +814,7 @@
   const reduceMotion = () => window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   function openDrawer(title) {
     $('#drawer-title').textContent = title || '';
+    $('.drawer .close').lastChild.textContent = $('#ltitle').textContent; // iOS names the screen you go back to
     if (!$('#drawer').classList.contains('open')) {
       drawerScroll = window.scrollY;
       document.body.classList.add('locked');
