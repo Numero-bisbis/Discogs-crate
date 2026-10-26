@@ -2,7 +2,8 @@ name: Sync collection
 
 on:
   schedule:
-    - cron: "17 * * * *" # every hour; a run with nothing new takes about a minute
+    # GitHub sometimes skips scheduled runs when busy, so ask twice an hour; runs queue, never overlap.
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 permissions:
