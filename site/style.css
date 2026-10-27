@@ -334,7 +334,9 @@ code { background: var(--fill); padding: 1px 5px; border-radius: 4px; font-size:
 .pl-media iframe { display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; background: #000; }
 .pl-media audio { display: block; width: calc(100% - 20px); margin: 0 10px 12px; }
 .pl-media .sub { margin: 0 14px 12px; }
-body.has-player main { padding-bottom: 300px; }
+body.has-player main { padding-bottom: calc(var(--player-h, 280px) + 40px); }
+/* With a record open the player sits over the record, so the record's own list makes room for it */
+body.has-player .drawer-panel { padding-bottom: calc(var(--player-h, 280px) + 32px + env(safe-area-inset-bottom)); }
 
 /* ---------- tablet and phone ---------- */
 @media (max-width: 860px) {
@@ -425,7 +427,10 @@ body.has-player main { padding-bottom: 300px; }
   .gen { grid-template-columns: 1fr 1fr; }
   .player { left: 8px; right: 8px; width: auto; bottom: calc(var(--nav-h) + 8px + env(safe-area-inset-bottom)); }
   .pl-media iframe { max-height: 190px; }
-  body.has-player main { padding-bottom: calc(var(--nav-h) + 300px + env(safe-area-inset-bottom)); }
+  body.has-player main { padding-bottom: calc(var(--nav-h) + var(--player-h, 280px) + 24px + env(safe-area-inset-bottom)); }
+  /* The tab bar is hidden under an open record, so the player drops to the bottom edge */
+  body.locked .player { bottom: calc(8px + env(safe-area-inset-bottom)); }
+  body.has-player .drawer-panel { padding-bottom: calc(var(--player-h, 280px) + 24px + env(safe-area-inset-bottom)); }
   .tt { gap: 8px; }
 }
 

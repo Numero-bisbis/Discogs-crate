@@ -1176,6 +1176,8 @@
     $('.drawer .close').onclick = closeDrawer;
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && $('#drawer').classList.contains('open')) closeDrawer(); });
     wireCrate();
+    // Content below makes room for exactly as much player as is showing (a video is much taller than a preview).
+    new ResizeObserver(([e]) => document.documentElement.style.setProperty('--player-h', `${Math.ceil(e.target.offsetHeight)}px`)).observe($('#player'));
     // Phones can't hover, so tapping a BPM/key source tag explains it.
     document.addEventListener('click', (e) => { const t = e.target.closest('[data-why]'); if (t) toast(t.dataset.why); });
     // On phones the tab bar lives outside the sticky header: iOS Safari lets a fixed bar inside a sticky one drift with the page.
