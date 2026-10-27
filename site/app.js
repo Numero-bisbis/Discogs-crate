@@ -887,12 +887,6 @@
     });
     html += '</ol>';
     if (!items.length) html += '<p class="sub">Add tracks with the <b>+</b> button in Records or Tracks.</p>';
-    if (recs.size) {
-      html += `<h3>Records to pull</h3><ul class="pull">${[...recs.values()].map((r) => {
-        const sides = [...new Set(items.filter((t) => t && t.r === r).map((t) => t.pos))].join(', ');
-        return `<li><b>${esc(r.artist)} – ${esc(r.title)}</b> <small>${esc(r.labels[0]?.catno || '')} · ${esc(sides)}</small></li>`;
-      }).join('')}</ul>`;
-    }
     const last = [...m.tracks].reverse().find((k) => byKey.has(k));
     if (last) {
       const g = m.generated || {};
@@ -905,6 +899,12 @@
         <td>${playBtn(t)}</td>
         <td><button class="small add">+</button></td></tr>`).join('')}</tbody></table>`
         : '<p class="sub">No good matches yet. Suggestions need BPM and key on the last track, so add them by hand if they are missing.</p>';
+    }
+    if (recs.size) {
+      html += `<h3>Records to pull</h3><ul class="pull">${[...recs.values()].map((r) => {
+        const sides = [...new Set(items.filter((t) => t && t.r === r).map((t) => t.pos))].join(', ');
+        return `<li><b>${esc(r.artist)} – ${esc(r.title)}</b> <small>${esc(r.labels[0]?.catno || '')} · ${esc(sides)}</small></li>`;
+      }).join('')}</ul>`;
     }
     return html;
   }
