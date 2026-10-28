@@ -305,6 +305,15 @@ code { background: var(--fill); padding: 1px 5px; border-radius: 4px; font-size:
 .ytb svg { width: 19px; height: 19px; stroke-width: 1.7; }
 .ytb:hover, .ytb.on { color: #ff3b30; background: var(--fill); }
 .ytb.none svg { width: 15px; height: 15px; }
+.spb { flex: none; width: 28px; height: 28px; padding: 0; border-radius: 50%; display: inline-grid; place-items: center; background: none; color: var(--muted); }
+.spb svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; }
+.spb:hover, .spb.on { color: #1db954; background: var(--fill); }
+.sp-mix { display: inline-flex; align-items: center; gap: 8px; margin: 2px 0 6px; }
+.sp-mix svg { width: 18px; height: 18px; fill: none; stroke: #1db954; stroke-width: 1.8; stroke-linecap: round; }
+.sp-ctl { display: flex; align-items: center; gap: 6px; padding: 0 12px 12px; }
+.sp-ctl button { width: 40px; height: 36px; padding: 0; font-size: 16px; border-radius: 10px; }
+.sp-ctl .sub { margin: 0 0 0 6px; }
+ol.steps { padding-left: 20px; line-height: 1.5; } ol.steps li { margin: 4px 0; }
 .ytb.none { color: var(--faint); }
 .ytb.none:hover { color: var(--accent); }
 .pl-more { flex: none; font-size: 13px; font-weight: 500; padding: 4px 6px; white-space: nowrap; }

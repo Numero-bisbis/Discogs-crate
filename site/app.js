@@ -124,6 +124,7 @@
   const PAUSE_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13M16 5.5v13" stroke-width="3.2"/></svg>';
   const YT_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="5.5" width="19" height="13" rx="3.5"/><path d="M10 9.2v5.6l4.8-2.8z" fill="currentColor" stroke="none"/></svg>';
   const SEARCH_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg>';
+  const SP_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9.5"/><path d="M7.5 9.6c3-.9 6.4-.6 9.1.9M8 12.6c2.5-.7 5.1-.4 7.3.8M8.6 15.4c1.9-.5 3.8-.3 5.4.6"/></svg>';
   const ytSearch = (t) => `https://www.youtube.com/results?search_query=${encodeURIComponent(`${t.artist} ${t.title}`)}`;
   function playBtn(t) {
     const on = playing === 'p:' + t.k;
@@ -131,7 +132,8 @@
     const video = t.yt
       ? `<button class="ytb${playing === 'v:' + t.k ? ' on' : ''}" data-yt="${esc(t.k)}" title="Watch the YouTube video linked on Discogs" aria-label="YouTube video of ${esc(t.title)}">${YT_SVG}</button>`
       : `<a class="ytb none" href="${ytSearch(t)}" target="_blank" rel="noopener" title="Search YouTube" aria-label="Search YouTube for ${esc(t.title)}">${SEARCH_SVG}</a>`;
-    return `<span class="snips">${quick}${video}</span>`;
+    const full = spOn() ? `<button class="spb${playing === 's:' + t.k ? ' on' : ''}" data-sp="${esc(t.k)}" title="Play the full track with Spotify" aria-label="Play ${esc(t.title)} on Spotify">${SP_SVG}</button>` : '';
+    return `<span class="snips">${quick}${video}${full}</span>`;
   }
 
   // Deezer's and Apple's search APIs have no CORS headers, but both answer JSONP.
@@ -193,8 +195,8 @@
   audio.setAttribute('playsinline', '');
   const SILENT = 'data:audio/wav;base64,UklGRiQAAABXQVZFZm10IBAAAAABAAEARKwAAIhYAQACABAAZGF0YQAAAAA=';
   function markPlaying() {
-    $$('[data-play], [data-yt], [data-video]').forEach((b) => {
-      const key = b.dataset.play ? 'p:' + b.dataset.play : 'v:' + (b.dataset.yt || b.dataset.video);
+    $$('[data-play], [data-yt], [data-video], [data-sp]').forEach((b) => {
+      const key = b.dataset.play ? 'p:' + b.dataset.play : b.dataset.sp ? 's:' + b.dataset.sp : 'v:' + (b.dataset.yt || b.dataset.video);
       b.classList.toggle('on', key === playing);
       if (b.dataset.play) b.innerHTML = key === playing ? PAUSE_SVG : PLAY_SVG;
     });
@@ -215,6 +217,7 @@
   function closePlayer() {
     const p = $('#player');
     audio.pause();
+    if (playing && playing.startsWith('s:')) spStop();
     p.classList.remove('show');
     $('.pl-media', p).innerHTML = '';
     p.hidden = true;
@@ -225,6 +228,7 @@
   function playVideo(key, id, title, sub) {
     if (playing === key) { closePlayer(); return; }
     audio.pause();
+    if (playing && playing.startsWith('s:')) spStop();
     showPlayer(key, title, sub + ' · YouTube', { href: `https://www.youtube.com/watch?v=${encodeURIComponent(id)}`, label: 'Open in YouTube ↗' });
     $('#player .pl-media').innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(id)}?autoplay=1&playsinline=1&rel=0&modestbranding=1" title="YouTube video" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
   }
@@ -233,6 +237,7 @@
     if (!t) return;
     const key = 'p:' + k;
     if (playing === key) { closePlayer(); return; }
+    if (playing && playing.startsWith('s:')) spStop();
     const sub = `${t.artist} · ${t.r.title} · ${t.pos}`;
     const more = t.yt ? { href: `https://www.youtube.com/watch?v=${t.yt}`, label: 'Video ↗' } : { href: ytSearch(t), label: 'YouTube ↗' };
     showPlayer(key, t.title, sub + ' · finding a preview…', more);
@@ -253,6 +258,193 @@
       $('#player .pl-info small').textContent = sub;
       media.innerHTML = `<p class="sub">No preview found for this one.${t.yt ? ' Tap the YouTube button to watch the video.' : ` <a href="${ytSearch(t)}" target="_blank" rel="noopener">Search YouTube ↗</a>`}</p>`;
     }
+  }
+
+  // ---------- Spotify: full tracks through your own Premium account ----------
+  // Login is OAuth with PKCE, so only a public client ID lives here and the token stays in this browser.
+  // Computers play inside the page (Web Playback SDK); phones can't, so there Crate drives the Spotify app (Spotify Connect).
+  const SP = { token: store.get('sp', null), ready: null, uris: [], keys: [], poll: 0, sdk: null };
+  const spMatches = store.get('spMatch', {});
+  const SP_SCOPES = 'streaming user-read-email user-read-private user-read-playback-state user-modify-playback-state';
+  const spRedirect = () => location.origin + location.pathname;
+  function spOn() { return !!(settings.spClient && SP.token); }
+  const canSdk = !/iPhone|iPad|iPod|Android/i.test(navigator.userAgent) && !(navigator.maxTouchPoints > 1 && /Mac/.test(navigator.userAgent));
+  const b64url = (buf) => btoa(String.fromCharCode(...new Uint8Array(buf))).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+  async function spLogin() {
+    const verifier = b64url(crypto.getRandomValues(new Uint8Array(48)));
+    const challenge = b64url(await crypto.subtle.digest('SHA-256', new TextEncoder().encode(verifier)));
+    store.set('spVerifier', verifier);
+    location.href = 'https://accounts.spotify.com/authorize?' + new URLSearchParams({
+      client_id: settings.spClient, response_type: 'code', redirect_uri: spRedirect(),
+      code_challenge_method: 'S256', code_challenge: challenge, scope: SP_SCOPES,
+    });
+  }
+  function spLogout() { SP.token = null; store.set('sp', null); spStop(); }
+  async function spTokenRequest(params) {
+    const r = await fetch('https://accounts.spotify.com/api/token', {
+      method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: new URLSearchParams({ client_id: settings.spClient, ...params }),
+    });
+    const j = await r.json().catch(() => ({}));
+    if (!r.ok) throw new Error(j.error_description || j.error || r.status);
+    SP.token = { access: j.access_token, refresh: j.refresh_token || (SP.token && SP.token.refresh), exp: Date.now() + (j.expires_in - 60) * 1000 };
+    store.set('sp', SP.token);
+  }
+  async function spCallback() {
+    const q = new URLSearchParams(location.search);
+    if (!q.get('code') && !q.get('error')) return;
+    history.replaceState(null, '', spRedirect() + '#settings');
+    if (q.get('error')) { toast('Spotify login cancelled'); return; }
+    try {
+      await spTokenRequest({ grant_type: 'authorization_code', code: q.get('code'), redirect_uri: spRedirect(), code_verifier: store.get('spVerifier', '') });
+      toast('Spotify connected: tracks now have a Spotify button');
+    } catch (e) { toast('Spotify login failed: ' + e.message); }
+  }
+  async function spAccess() {
+    if (!SP.token) throw new Error('connect Spotify in Settings first');
+    if (Date.now() > SP.token.exp) {
+      try { await spTokenRequest({ grant_type: 'refresh_token', refresh_token: SP.token.refresh }); }
+      catch (e) { spLogout(); throw new Error('Spotify login expired, connect again in Settings'); }
+    }
+    return SP.token.access;
+  }
+  async function sp(path, opts = {}) {
+    const r = await fetch('https://api.spotify.com/v1' + path, { ...opts, headers: { Authorization: 'Bearer ' + (await spAccess()), ...(opts.body ? { 'Content-Type': 'application/json' } : {}) } });
+    if (r.status === 204 || r.status === 202) return null;
+    const j = await r.json().catch(() => null);
+    if (!r.ok) {
+      const e = new Error((j && j.error && j.error.message) || 'error ' + r.status);
+      e.status = r.status; e.reason = j && j.error && j.error.reason;
+      throw e;
+    }
+    return j;
+  }
+  // Same matching rules as the previews; the answer is remembered so each track is searched once.
+  async function spFind(t) {
+    if (t.k in spMatches) return spMatches[t.k];
+    const title = t.title.replace(/\s*[([].*?[)\]]/g, '').trim();
+    const artist = /^various/i.test(t.artist) ? '' : t.artist.replace(/\s*\(\d+\)$/, '');
+    let hit = null;
+    for (const q of [`track:${title}${artist ? ` artist:${artist}` : ''}`, `${artist} ${title}`]) {
+      const j = await sp('/search?type=track&limit=10&q=' + encodeURIComponent(q));
+      hit = pickHit(t, j.tracks && j.tracks.items, (x) => x.name, (x) => x.artists.map((a) => a.name).join(' '));
+      if (hit) break;
+    }
+    spMatches[t.k] = hit ? hit.uri : '';
+    store.set('spMatch', spMatches);
+    return spMatches[t.k];
+  }
+  function spSdk() {
+    if (SP.ready) return SP.ready;
+    SP.ready = new Promise((resolve, reject) => {
+      const timer = setTimeout(() => reject(new Error('the Spotify player did not start')), 15000);
+      window.onSpotifyWebPlaybackSDKReady = () => {
+        const pl = new window.Spotify.Player({ name: 'Crate', getOAuthToken: (cb) => spAccess().then(cb, () => {}), volume: 0.8 });
+        pl.addListener('ready', ({ device_id }) => { clearTimeout(timer); resolve(device_id); });
+        pl.addListener('initialization_error', (e) => reject(new Error(e.message)));
+        pl.addListener('authentication_error', (e) => reject(new Error(e.message)));
+        pl.addListener('account_error', () => reject(new Error('Spotify Premium is needed for full tracks')));
+        pl.addListener('player_state_changed', (st) => st && spShow(st.track_window.current_track && st.track_window.current_track.uri, st.paused));
+        pl.connect();
+        SP.sdk = pl;
+      };
+      const sc = document.createElement('script');
+      sc.src = 'https://sdk.scdn.co/spotify-player.js';
+      sc.onerror = () => reject(new Error('could not load the Spotify player'));
+      document.head.appendChild(sc);
+    });
+    SP.ready.catch(() => { SP.ready = null; });
+    return SP.ready;
+  }
+  async function spDevice() {
+    if (canSdk) return spSdk();
+    const j = await sp('/me/player/devices');
+    const d = j.devices.find((x) => x.is_active) || j.devices.find((x) => /smartphone/i.test(x.type)) || j.devices[0];
+    return d ? d.id : null;
+  }
+  function spMsg(html) {
+    $('#player .pl-media').innerHTML = `<p class="sub">${html}</p>`;
+  }
+  // Plays one track, or a whole mix in order from `start`.
+  async function spPlay(keys, start = 0) {
+    const first = byKey.get(keys[start]);
+    if (!first) return;
+    const key = 's:' + first.k;
+    if (playing === key) { closePlayer(); return; }
+    audio.pause();
+    const many = keys.length - start > 1;
+    showPlayer(key, first.title, `${first.artist} · finding it on Spotify…`, null);
+    spMsg('');
+    try {
+      const uris = [], ks = [];
+      for (let i = start; i < keys.length; i++) {
+        const t = byKey.get(keys[i]);
+        if (!t) continue;
+        if (many) $('#player .pl-info small').textContent = `Finding the mix on Spotify… ${i - start + 1} of ${keys.length - start}`;
+        const u = await spFind(t);
+        if (playing !== key) return;
+        if (u) { uris.push(u); ks.push(t.k); }
+      }
+      if (!uris.length) {
+        $('#player .pl-info small').textContent = `${first.artist} · ${first.r.title} · ${first.pos}`;
+        spMsg('Not on Spotify, as far as Crate can tell. Try ▶ or YouTube.');
+        return;
+      }
+      const dev = await spDevice();
+      if (!dev) {
+        spMsg(`Spotify isn't open on any of your devices. Open the Spotify app, play anything for a second, then tap again. <a href="https://open.spotify.com/track/${uris[0].split(':').pop()}" target="_blank" rel="noopener">Open in Spotify ↗</a>`);
+        return;
+      }
+      await sp(`/me/player/play?device_id=${encodeURIComponent(dev)}`, { method: 'PUT', body: JSON.stringify({ uris }) });
+      SP.uris = uris; SP.keys = ks;
+      if (many && ks.length < keys.length - start) toast(`${keys.length - start - ks.length} of the mix's tracks aren't on Spotify and are skipped`);
+      $('#player .pl-media').innerHTML = `<div class="sp-ctl"><button data-spc="previous" aria-label="Previous">⏮</button><button data-spc="toggle" aria-label="Pause">⏸</button><button data-spc="next" aria-label="Next">⏭</button><span class="sub">${canSdk ? 'Playing here' : 'Playing in your Spotify app'}</span></div>`;
+      $$('#player [data-spc]').forEach((b) => (b.onclick = () => spControl(b.dataset.spc)));
+      spShow(uris[0], false);
+      clearInterval(SP.poll);
+      if (!canSdk) SP.poll = setInterval(spPoll, 4000);
+    } catch (e) {
+      if (playing !== key) return;
+      $('#player .pl-info small').textContent = `${first.artist} · ${first.r.title} · ${first.pos}`;
+      spMsg(e.status === 403 ? 'Spotify refused to play: full tracks need Premium, and the app has to list your account under Users in the Spotify dashboard.' : 'Spotify: ' + esc(e.message));
+    }
+  }
+  // Shows the track Spotify is on, with where it sits in your crate.
+  function spShow(uri, paused) {
+    if (!playing || !playing.startsWith('s:')) return;
+    const i = SP.uris.indexOf(uri);
+    const t = i >= 0 ? byKey.get(SP.keys[i]) : null;
+    if (t) {
+      $('#player .pl-info b').textContent = t.title;
+      $('#player .pl-info small').textContent = `${t.artist} · ${t.r.title} · ${t.pos}${SP.uris.length > 1 ? ` · ${i + 1} of ${SP.uris.length}` : ''} · Spotify`;
+      if (playing !== 's:' + t.k) { playing = 's:' + t.k; markPlaying(); }
+    }
+    const tg = $('#player [data-spc="toggle"]');
+    if (tg) { tg.textContent = paused ? '▶' : '⏸'; tg.setAttribute('aria-label', paused ? 'Play' : 'Pause'); tg.dataset.paused = paused ? '1' : ''; }
+  }
+  async function spPoll() {
+    if (!playing || !playing.startsWith('s:')) { clearInterval(SP.poll); return; }
+    try { const st = await sp('/me/player'); if (st && st.item) spShow(st.item.uri, !st.is_playing); } catch { /* try again next tick */ }
+  }
+  async function spControl(what) {
+    try {
+      if (canSdk && SP.sdk) {
+        if (what === 'toggle') await SP.sdk.togglePlay();
+        else if (what === 'next') await SP.sdk.nextTrack();
+        else await SP.sdk.previousTrack();
+        return;
+      }
+      const paused = $('#player [data-spc="toggle"]').dataset.paused;
+      if (what === 'toggle') await sp(paused ? '/me/player/play' : '/me/player/pause', { method: 'PUT' });
+      else await sp('/me/player/' + what, { method: 'POST' });
+      setTimeout(spPoll, 600);
+    } catch (e) { toast('Spotify: ' + e.message); }
+  }
+  function spStop() {
+    clearInterval(SP.poll);
+    if (canSdk && SP.sdk) SP.sdk.pause().catch(() => {});
+    else if (SP.token && SP.uris.length) sp('/me/player/pause', { method: 'PUT' }).catch(() => {});
+    SP.uris = []; SP.keys = [];
   }
 
   function relClass(score) {
@@ -875,7 +1067,7 @@
     const recs = new Map();
     items.forEach((t) => t && recs.set(t.r.iid || t.r.id, t.r));
     const total = items.reduce((s, t) => s + ((t && t.dur) || 0), 0);
-    let html = `<p class="sub">${items.length} tracks from ${recs.size} records${total ? ` · about ${Math.round(total / 60)} min if played in full` : ''}${items.length > 1 ? ' · drag ⋮⋮ to reorder' : ''}</p><ol class="mix">`;
+    let html = `<p class="sub">${items.length} tracks from ${recs.size} records${total ? ` · about ${Math.round(total / 60)} min if played in full` : ''}${items.length > 1 ? ' · drag ⋮⋮ to reorder' : ''}</p>${spOn() && items.some(Boolean) ? `<button class="sp-mix" data-spmix>${SP_SVG}Play the mix on Spotify</button>` : ''}<ol class="mix">`;
     items.forEach((t, i) => {
       if (!t) { html += `<li class="item missing" data-i="${i}">A track that's no longer in your collection <button class="small" data-rm="${i}">Remove</button></li>`; return; }
       if (i > 0 && items[i - 1]) html += transitionHtml(items[i - 1], t);
@@ -910,6 +1102,8 @@
   }
 
   function wireMixBody(root, m, rerender, add) {
+    const spm = $('[data-spmix]', root);
+    if (spm) spm.onclick = () => spPlay(m.tracks.filter((k) => byKey.has(k)));
     const move = (i, j) => { if (j < 0 || j >= m.tracks.length) return; const [x] = m.tracks.splice(i, 1); m.tracks.splice(j, 0, x); saveUser(); rerender(); };
     $$('[data-up]', root).forEach((b) => (b.onclick = () => move(+b.dataset.up, +b.dataset.up - 1)));
     $$('[data-down]', root).forEach((b) => (b.onclick = () => move(+b.dataset.down, +b.dataset.down + 1)));
@@ -1035,6 +1229,15 @@
         <p>${withBpm} tracks have a BPM and ${withKey} have a key. ${src.map(([s, c]) => `${esc(s)}: ${c}`).join(' · ')}</p></section>
       <section class="card-s"><h2>Mixing</h2>
         <label class="f"><span>Turntable pitch range</span><select id="pitch">${[8, 16, 50].map((v) => `<option${settings.pitchRange === v ? ' selected' : ''} value="${v}">±${v}%</option>`).join('')}</select></label></section>
+      <section class="card-s" id="sp-card"><h2>Full tracks with Spotify <small>(optional, Premium)</small></h2>
+        ${SP.token ? `<p>Connected. Each track has a Spotify button (the round wave icon) that plays the whole song, and mixes have <b>Play the mix on Spotify</b>. ${canSdk ? 'On this computer it plays right here in Crate.' : 'On a phone it plays through your Spotify app, controlled from Crate: open the Spotify app once first.'}</p>
+        <div class="row"><button id="sp-out">Disconnect</button><button id="sp-forget">Search again for tracks not found</button></div>`
+        : `<p>Plays whole songs from your own Spotify account, next to the snippets and YouTube. One-time setup, about 3 minutes:</p>
+        <ol class="steps"><li>Open <a href="https://developer.spotify.com/dashboard" target="_blank" rel="noopener">developer.spotify.com/dashboard</a>, log in with your Spotify account and tap <b>Create app</b>.</li>
+        <li>Any name and description. Under <b>Redirect URIs</b> add exactly <code>${esc(spRedirect())}</code>. Tick <b>Web API</b> and <b>Web Playback SDK</b>, accept and save.</li>
+        <li>Open the app's <b>Settings</b>, copy the <b>Client ID</b> and paste it below. No secret is needed.</li></ol>
+        <label class="f"><span>Spotify Client ID</span><input id="sp-client" value="${esc(settings.spClient || '')}" placeholder="32 letters and numbers" autocomplete="off" spellcheck="false"></label>
+        <div class="row"><button id="sp-in" class="primary">Connect Spotify</button></div>`}</section>
       <section class="card-s"><h2>Your edits and mixes</h2>
         <p>${n} edited tracks and ${user.mixes.length} mixes are saved in this browser.</p>
         <div class="row"><button id="export">Download backup</button><label class="button">Restore backup<input type="file" id="import" accept="application/json" hidden></label></div></section>
@@ -1044,6 +1247,14 @@
         <label class="f"><span>Token</span><input id="gh-token" type="password" value="${esc(settings.ghToken)}" placeholder="github_pat_…"></label>
         <div class="row"><button id="gh-save">Save and sync now</button><span id="gh-status" class="sub"></span></div></section>`;
     $('#pitch').onchange = (e) => { settings.pitchRange = +e.target.value; store.set('settings', settings); };
+    if ($('#sp-in')) $('#sp-in').onclick = () => {
+      settings.spClient = $('#sp-client').value.trim();
+      if (!/^[0-9a-f]{32}$/i.test(settings.spClient)) { toast('That doesn\'t look like a Client ID: it is 32 letters and numbers'); return; }
+      store.set('settings', settings);
+      spLogin();
+    };
+    if ($('#sp-out')) $('#sp-out').onclick = () => { spLogout(); toast('Spotify disconnected'); renderSettings(); };
+    if ($('#sp-forget')) $('#sp-forget').onclick = () => { Object.keys(spMatches).forEach((k) => { if (!spMatches[k]) delete spMatches[k]; }); store.set('spMatch', spMatches); toast('Tracks not found will be searched again'); };
     $('#export').onclick = () => {
       const blob = new Blob([JSON.stringify(user, null, 1)], { type: 'application/json' });
       const a = document.createElement('a');
@@ -1160,10 +1371,11 @@
   // ---------- boot ----------
   function wire() {
     document.addEventListener('click', (e) => {
-      const b = e.target.closest('[data-play], [data-yt], [data-video]');
+      const b = e.target.closest('[data-play], [data-yt], [data-video], [data-sp]');
       if (!b) return;
       e.preventDefault();
-      if (b.dataset.play) previewTrack(b.dataset.play);
+      if (b.dataset.sp) spPlay([b.dataset.sp]);
+      else if (b.dataset.play) previewTrack(b.dataset.play);
       else if (b.dataset.yt) { const t = byKey.get(b.dataset.yt); playVideo('v:' + t.k, t.yt, t.title, `${t.artist} · ${t.r.title} · ${t.pos}`); }
       else playVideo('v:' + b.dataset.video, b.dataset.video, b.dataset.title, b.dataset.sub);
     });
@@ -1192,6 +1404,7 @@
 
   async function boot() {
     wire();
+    spCallback();
     try {
       const r = await fetch('data.json', { cache: 'no-cache' });
       DATA = await r.json();
