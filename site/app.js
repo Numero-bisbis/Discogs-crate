@@ -125,6 +125,10 @@
   const YT_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="5.5" width="19" height="13" rx="3.5"/><path d="M10 9.2v5.6l4.8-2.8z" fill="currentColor" stroke="none"/></svg>';
   const SEARCH_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg>';
   const SP_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9.5"/><path d="M7.5 9.6c3-.9 6.4-.6 9.1.9M8 12.6c2.5-.7 5.1-.4 7.3.8M8.6 15.4c1.9-.5 3.8-.3 5.4.6"/></svg>';
+  const SP_PLAY = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10.5-6.5z" fill="currentColor"/></svg>';
+  const SP_PAUSE = '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6.5" y="5" width="4" height="14" rx="1" fill="currentColor"/><rect x="13.5" y="5" width="4" height="14" rx="1" fill="currentColor"/></svg>';
+  const SP_NEXT = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6v12l8-6zM12 6v12l8-6z" fill="currentColor"/><rect x="19" y="6" width="2" height="12" rx=".8" fill="currentColor"/></svg>';
+  const SP_PREV = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6v12l-8-6zM12 6v12l-8-6z" fill="currentColor"/><rect x="3" y="6" width="2" height="12" rx=".8" fill="currentColor"/></svg>';
   const ytSearch = (t) => `https://www.youtube.com/results?search_query=${encodeURIComponent(`${t.artist} ${t.title}`)}`;
   function playBtn(t) {
     const on = playing === 'p:' + t.k;
@@ -344,7 +348,7 @@
         pl.addListener('initialization_error', (e) => reject(new Error(e.message)));
         pl.addListener('authentication_error', (e) => reject(new Error(e.message)));
         pl.addListener('account_error', () => reject(new Error('Spotify Premium is needed for full tracks')));
-        pl.addListener('player_state_changed', (st) => st && spShow(st.track_window.current_track && st.track_window.current_track.uri, st.paused));
+        pl.addListener('player_state_changed', (st) => st && spShow(st.track_window.current_track && st.track_window.current_track.uri, st.paused, st.position, st.duration));
         pl.connect();
         SP.sdk = pl;
       };
@@ -366,85 +370,121 @@
     $('#player .pl-media').innerHTML = `<p class="sub">${html}</p>`;
   }
   // Plays one track, or a whole mix in order from `start`.
+  // Plays the list `keys` (a mix, or the record a track is on) starting at `start`, so next and previous
+  // move through the mix or along the record, like the needle would.
   async function spPlay(keys, start = 0) {
     const first = byKey.get(keys[start]);
     if (!first) return;
     const key = 's:' + first.k;
     if (playing === key) { closePlayer(); return; }
     audio.pause();
-    const many = keys.length - start > 1;
     showPlayer(key, first.title, `${first.artist} · finding it on Spotify…`, null);
     spMsg('');
     try {
-      const uris = [], ks = [];
-      for (let i = start; i < keys.length; i++) {
-        const t = byKey.get(keys[i]);
-        if (!t) continue;
-        if (many) $('#player .pl-info small').textContent = `Finding the mix on Spotify… ${i - start + 1} of ${keys.length - start}`;
-        const u = await spFind(t);
-        if (playing !== key) return;
-        if (u) { uris.push(u); ks.push(t.k); }
-      }
-      if (!uris.length) {
+      // The chosen track first, so a miss shows up at once; then the rest of the list (remembered after the first time).
+      const firstUri = await spFind(first);
+      if (playing !== key) return;
+      if (!firstUri) {
         $('#player .pl-info small').textContent = `${first.artist} · ${first.r.title} · ${first.pos}`;
         spMsg('Not on Spotify, as far as Crate can tell. Try ▶ or YouTube.');
         return;
       }
+      const uris = [], ks = [];
+      for (let i = 0; i < keys.length; i++) {
+        const t = byKey.get(keys[i]);
+        if (!t) continue;
+        if (keys.length > 1 && !(t.k in spMatches)) $('#player .pl-info small').textContent = `Lining up the ${keys.length} tracks on Spotify… ${i + 1}`;
+        const u = await spFind(t);
+        if (playing !== key) return;
+        if (u) { uris.push(u); ks.push(t.k); }
+      }
       const dev = await spDevice();
       if (!dev) {
-        spMsg(`Spotify isn't open on any of your devices. Open the Spotify app, play anything for a second, then tap again. <a href="https://open.spotify.com/track/${uris[0].split(':').pop()}" target="_blank" rel="noopener">Open in Spotify ↗</a>`);
+        spMsg(`Spotify isn't open on any of your devices. Open the Spotify app, play anything for a second, then tap again. <a href="https://open.spotify.com/track/${firstUri.split(':').pop()}" target="_blank" rel="noopener">Open in Spotify ↗</a>`);
         return;
       }
-      await sp(`/me/player/play?device_id=${encodeURIComponent(dev)}`, { method: 'PUT', body: JSON.stringify({ uris }) });
-      SP.uris = uris; SP.keys = ks;
-      if (many && ks.length < keys.length - start) toast(`${keys.length - start - ks.length} of the mix's tracks aren't on Spotify and are skipped`);
-      $('#player .pl-media').innerHTML = `<div class="sp-ctl"><button data-spc="previous" aria-label="Previous">⏮</button><button data-spc="toggle" aria-label="Pause">⏸</button><button data-spc="next" aria-label="Next">⏭</button><span class="sub">${canSdk ? 'Playing here' : 'Playing in your Spotify app'}</span></div>`;
+      SP.dev = dev; SP.uris = uris; SP.keys = ks;
+      $('#player .pl-media').innerHTML = `<div class="sp-ctl">
+        <div class="sp-bar"><i></i></div><div class="sp-times"><span class="sp-pos">0:00</span><span class="sp-where"></span><span class="sp-dur"></span></div>
+        <div class="sp-btns"><button data-spc="previous" aria-label="Previous track">${SP_PREV}</button><button data-spc="toggle" class="sp-main" aria-label="Pause">${SP_PAUSE}</button><button data-spc="next" aria-label="Next track">${SP_NEXT}</button></div></div>`;
       $$('#player [data-spc]').forEach((b) => (b.onclick = () => spControl(b.dataset.spc)));
-      spShow(uris[0], false);
+      await spJump(ks.indexOf(first.k));
       clearInterval(SP.poll);
-      if (!canSdk) SP.poll = setInterval(spPoll, 4000);
+      SP.poll = setInterval(spPoll, 1000);
     } catch (e) {
       if (playing !== key) return;
       $('#player .pl-info small').textContent = `${first.artist} · ${first.r.title} · ${first.pos}`;
       spMsg(e.status === 403 ? 'Spotify refused to play: full tracks need Premium, and the app has to list your account under Users in the Spotify dashboard.' : 'Spotify: ' + esc(e.message));
     }
   }
+  // Crate moves through the list itself: more dependable than Spotify's own next/previous on a phone.
+  async function spJump(i) {
+    if (i < 0 || i >= SP.uris.length) return;
+    SP.cur = i;
+    await sp(`/me/player/play?device_id=${encodeURIComponent(SP.dev)}`, { method: 'PUT', body: JSON.stringify({ uris: SP.uris, offset: { position: i } }) });
+    SP.at = { pos: 0, dur: 0, t: performance.now(), paused: false };
+    spShow(SP.uris[i], false);
+  }
+  const fmtMs = (ms) => { const sec = Math.max(0, Math.round(ms / 1000)); return `${Math.floor(sec / 60)}:${String(sec % 60).padStart(2, '0')}`; };
   // Shows the track Spotify is on, with where it sits in your crate.
-  function spShow(uri, paused) {
+  function spShow(uri, paused, pos, dur) {
     if (!playing || !playing.startsWith('s:')) return;
     const i = SP.uris.indexOf(uri);
     const t = i >= 0 ? byKey.get(SP.keys[i]) : null;
     if (t) {
+      SP.cur = i;
       $('#player .pl-info b').textContent = t.title;
-      $('#player .pl-info small').textContent = `${t.artist} · ${t.r.title} · ${t.pos}${SP.uris.length > 1 ? ` · ${i + 1} of ${SP.uris.length}` : ''} · Spotify`;
+      $('#player .pl-info small').textContent = `${t.artist} · ${t.r.title} · side ${t.side || '?'}, ${t.pos}`;
+      const w = $('#player .sp-where');
+      if (w) w.textContent = SP.uris.length > 1 ? `${i + 1} of ${SP.uris.length}` : '';
       if (playing !== 's:' + t.k) { playing = 's:' + t.k; markPlaying(); }
     }
+    if (pos != null) SP.at = { pos, dur, t: performance.now(), paused };
+    else if (SP.at) SP.at.paused = paused;
     const tg = $('#player [data-spc="toggle"]');
-    if (tg) { tg.textContent = paused ? '▶' : '⏸'; tg.setAttribute('aria-label', paused ? 'Play' : 'Pause'); tg.dataset.paused = paused ? '1' : ''; }
+    if (tg) { tg.innerHTML = paused ? SP_PLAY : SP_PAUSE; tg.setAttribute('aria-label', paused ? 'Play' : 'Pause'); tg.dataset.paused = paused ? '1' : ''; }
+    $('#player .sp-btns [data-spc="previous"]')?.toggleAttribute('disabled', SP.cur <= 0 && SP.uris.length < 2);
+    $('#player .sp-btns [data-spc="next"]')?.toggleAttribute('disabled', SP.cur >= SP.uris.length - 1);
+    spTick();
+  }
+  function spTick() {
+    const a = SP.at, bar = $('#player .sp-bar i');
+    if (!a || !bar) return;
+    const pos = Math.min(a.dur || Infinity, a.pos + (a.paused ? 0 : performance.now() - a.t));
+    bar.style.width = a.dur ? `${(pos / a.dur) * 100}%` : '0';
+    $('#player .sp-pos').textContent = fmtMs(pos);
+    $('#player .sp-dur').textContent = a.dur ? fmtMs(a.dur) : '';
   }
   async function spPoll() {
     if (!playing || !playing.startsWith('s:')) { clearInterval(SP.poll); return; }
-    try { const st = await sp('/me/player'); if (st && st.item) spShow(st.item.uri, !st.is_playing); } catch { /* try again next tick */ }
+    if (canSdk && SP.sdk) {
+      const st = await SP.sdk.getCurrentState().catch(() => null);
+      if (st) spShow(st.track_window.current_track && st.track_window.current_track.uri, st.paused, st.position, st.duration);
+      return;
+    }
+    spTick();
+    if ((SP.polls = (SP.polls || 0) + 1) % 3) return;
+    try { const st = await sp('/me/player'); if (st && st.item) spShow(st.item.uri, !st.is_playing, st.progress_ms, st.item.duration_ms); } catch { /* try again next tick */ }
   }
   async function spControl(what) {
     try {
-      if (canSdk && SP.sdk) {
-        if (what === 'toggle') await SP.sdk.togglePlay();
-        else if (what === 'next') await SP.sdk.nextTrack();
-        else await SP.sdk.previousTrack();
-        return;
+      if (what === 'next') return await spJump((SP.cur || 0) + 1);
+      if (what === 'previous') {
+        const a = SP.at, pos = a ? a.pos + (a.paused ? 0 : performance.now() - a.t) : 0;
+        return await spJump(pos > 4000 || SP.cur <= 0 ? SP.cur || 0 : SP.cur - 1); // like any player: back to the start first
       }
       const paused = $('#player [data-spc="toggle"]').dataset.paused;
-      if (what === 'toggle') await sp(paused ? '/me/player/play' : '/me/player/pause', { method: 'PUT' });
-      else await sp('/me/player/' + what, { method: 'POST' });
-      setTimeout(spPoll, 600);
+      if (canSdk && SP.sdk) await SP.sdk.togglePlay();
+      else await sp(`/me/player/${paused ? 'play' : 'pause'}?device_id=${encodeURIComponent(SP.dev)}`, { method: 'PUT' });
+      spShow(SP.uris[SP.cur], !paused);
+      if (!canSdk) setTimeout(spPoll, 700);
     } catch (e) { toast('Spotify: ' + e.message); }
   }
   function spStop() {
     clearInterval(SP.poll);
     if (canSdk && SP.sdk) SP.sdk.pause().catch(() => {});
-    else if (SP.token && SP.uris.length) sp('/me/player/pause', { method: 'PUT' }).catch(() => {});
-    SP.uris = []; SP.keys = [];
+    else if (SP.token && SP.uris.length) sp(`/me/player/pause${SP.dev ? '?device_id=' + encodeURIComponent(SP.dev) : ''}`, { method: 'PUT' }).catch(() => {});
+    SP.uris = []; SP.keys = []; SP.at = null;
   }
 
   function relClass(score) {
@@ -1374,7 +1414,12 @@
       const b = e.target.closest('[data-play], [data-yt], [data-video], [data-sp]');
       if (!b) return;
       e.preventDefault();
-      if (b.dataset.sp) spPlay([b.dataset.sp]);
+      if (b.dataset.sp) {
+        // In a mix, play on through the mix; anywhere else, along the record the track is on.
+        const list = b.closest('ol.mix');
+        const keys = list ? [...new Set($$('[data-sp]', list).map((x) => x.dataset.sp))] : (byKey.get(b.dataset.sp)?.r.tracks || []).map((t) => t.k);
+        spPlay(keys, Math.max(0, keys.indexOf(b.dataset.sp)));
+      }
       else if (b.dataset.play) previewTrack(b.dataset.play);
       else if (b.dataset.yt) { const t = byKey.get(b.dataset.yt); playVideo('v:' + t.k, t.yt, t.title, `${t.artist} · ${t.r.title} · ${t.pos}`); }
       else playVideo('v:' + b.dataset.video, b.dataset.video, b.dataset.title, b.dataset.sub);

@@ -310,9 +310,18 @@ code { background: var(--fill); padding: 1px 5px; border-radius: 4px; font-size:
 .spb:hover, .spb.on { color: #1db954; background: var(--fill); }
 .sp-mix { display: inline-flex; align-items: center; gap: 8px; margin: 2px 0 6px; }
 .sp-mix svg { width: 18px; height: 18px; fill: none; stroke: #1db954; stroke-width: 1.8; stroke-linecap: round; }
-.sp-ctl { display: flex; align-items: center; gap: 6px; padding: 0 12px 12px; }
-.sp-ctl button { width: 40px; height: 36px; padding: 0; font-size: 16px; border-radius: 10px; }
-.sp-ctl .sub { margin: 0 0 0 6px; }
+.sp-ctl { padding: 2px 14px 12px; }
+.sp-bar { height: 4px; border-radius: 2px; background: var(--fill); overflow: hidden; }
+.sp-bar i { display: block; height: 100%; width: 0; background: var(--text); border-radius: 2px; transition: width .9s linear; }
+.sp-times { display: flex; justify-content: space-between; font-size: 11px; color: var(--muted); font-variant-numeric: tabular-nums; margin-top: 4px; }
+.sp-btns { display: flex; justify-content: center; align-items: center; gap: 28px; margin-top: 2px; }
+.sp-btns button { width: 44px; height: 44px; padding: 0; border-radius: 50%; background: none; color: var(--text); display: grid; place-items: center; }
+.sp-btns button svg { width: 26px; height: 26px; }
+.sp-btns button:active { background: var(--fill); }
+.sp-btns button[disabled] { opacity: .3; }
+.sp-btns .sp-main { width: 52px; height: 52px; background: var(--text); color: var(--bg); }
+.sp-btns .sp-main svg { width: 24px; height: 24px; }
+.sp-btns .sp-main:active { background: var(--text); opacity: .8; }
 ol.steps { padding-left: 20px; line-height: 1.5; } ol.steps li { margin: 4px 0; }
 .ytb.none { color: var(--faint); }
 .ytb.none:hover { color: var(--accent); }
