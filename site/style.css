@@ -304,7 +304,8 @@ code { background: var(--fill); padding: 1px 5px; border-radius: 4px; font-size:
 .ytb { flex: none; width: 28px; height: 28px; padding: 0; border-radius: 50%; display: inline-grid; place-items: center; background: none; color: var(--muted); }
 .ytb svg { width: 19px; height: 19px; stroke-width: 1.7; }
 .ytb:hover, .ytb.on { color: #ff3b30; background: var(--fill); }
-.ytb.none svg { width: 15px; height: 15px; }
+.ytb.none { opacity: .6; } /* same logo; dimmer because it opens a YouTube search, not a linked video */
+.ytb.none:hover { opacity: 1; }
 .spb { flex: none; width: 28px; height: 28px; padding: 0; border-radius: 50%; display: inline-grid; place-items: center; background: none; color: var(--muted); }
 .spb svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; }
 .spb:hover, .spb.on { color: #1db954; background: var(--fill); }

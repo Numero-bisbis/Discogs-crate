@@ -135,7 +135,7 @@
     const quick = `<button class="play${on ? ' on' : ''}" data-play="${esc(t.k)}" title="Quick listen (30 s preview)" aria-label="Preview ${esc(t.title)}">${on ? PAUSE_SVG : PLAY_SVG}</button>`;
     const video = t.yt
       ? `<button class="ytb${playing === 'v:' + t.k ? ' on' : ''}" data-yt="${esc(t.k)}" title="Watch the YouTube video linked on Discogs" aria-label="YouTube video of ${esc(t.title)}">${YT_SVG}</button>`
-      : `<a class="ytb none" href="${ytSearch(t)}" target="_blank" rel="noopener" title="Search YouTube" aria-label="Search YouTube for ${esc(t.title)}">${SEARCH_SVG}</a>`;
+      : `<a class="ytb none" href="${ytSearch(t)}" target="_blank" rel="noopener" title="No video linked on Discogs: search YouTube" aria-label="Search YouTube for ${esc(t.title)}">${YT_SVG}</a>`;
     const full = spOn() ? `<button class="spb${playing === 's:' + t.k ? ' on' : ''}" data-sp="${esc(t.k)}" title="Play the full track with Spotify" aria-label="Play ${esc(t.title)} on Spotify">${SP_SVG}</button>` : '';
     return `<span class="snips">${quick}${video}${full}</span>`;
   }
