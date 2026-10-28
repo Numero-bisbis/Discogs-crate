@@ -322,6 +322,8 @@ code { background: var(--fill); padding: 1px 5px; border-radius: 4px; font-size:
 .sp-btns button[disabled] { opacity: .3; }
 .sp-btns .sp-main { width: 52px; height: 52px; background: var(--text); color: var(--bg); }
 .sp-btns .sp-main svg { width: 24px; height: 24px; }
+.sp-open { display: block; text-align: center; font-size: 13px; margin-top: 6px; color: var(--muted); }
+.sp-open.wake { display: block; margin: 10px auto 0; width: fit-content; padding: 8px 16px; border-radius: 999px; background: #1db954; color: #000; font-weight: 600; font-size: 15px; }
 .sp-btns .sp-main:active { background: var(--text); opacity: .8; }
 ol.steps { padding-left: 20px; line-height: 1.5; } ol.steps li { margin: 4px 0; }
 .ytb.none { color: var(--faint); }

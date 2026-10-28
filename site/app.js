@@ -348,7 +348,7 @@
         pl.addListener('initialization_error', (e) => reject(new Error(e.message)));
         pl.addListener('authentication_error', (e) => reject(new Error(e.message)));
         pl.addListener('account_error', () => reject(new Error('Spotify Premium is needed for full tracks')));
-        pl.addListener('player_state_changed', (st) => st && spShow(st.track_window.current_track && st.track_window.current_track.uri, st.paused, st.position, st.duration));
+        pl.addListener('player_state_changed', (st) => { if (!st) return; const c = st.track_window.current_track; spShow(c && c.uri, st.paused, st.position, st.duration, c && c.name); });
         pl.connect();
         SP.sdk = pl;
       };
@@ -370,45 +370,90 @@
     $('#player .pl-media').innerHTML = `<p class="sub">${html}</p>`;
   }
   // Plays one track, or a whole mix in order from `start`.
-  // Plays the list `keys` (a mix, or the record a track is on) starting at `start`, so next and previous
-  // move through the mix or along the record, like the needle would.
-  async function spPlay(keys, start = 0) {
+  // The record as an album on Spotify, with its track list, found once and remembered.
+  async function spAlbum(r) {
+    const ck = 'album:' + r.id;
+    if (ck in spMatches) return spMatches[ck];
+    const title = r.title.replace(/\s*[([].*?[)\]]/g, '').trim();
+    const artist = /^various/i.test(r.artist) ? '' : r.artist.replace(/\s*\(\d+\)$/, '');
+    let hit = null;
+    for (const q of [`album:${title}${artist ? ` artist:${artist}` : ''}`, `${artist} ${title}`]) {
+      const j = await sp('/search?type=album&limit=10&q=' + encodeURIComponent(q));
+      hit = pickHit({ title, artist: r.artist }, j.albums && j.albums.items, (x) => x.name, (x) => x.artists.map((a) => a.name).join(' '));
+      if (hit) break;
+    }
+    let found = '';
+    if (hit) {
+      const j = await sp(`/albums/${hit.id}/tracks?limit=50`);
+      found = { uri: hit.uri, id: hit.id, tracks: (j.items || []).map((x) => ({ uri: x.uri, name: x.name })) };
+    }
+    spMatches[ck] = found;
+    store.set('spMatch', spMatches);
+    return found;
+  }
+  // Pairs the record's tracks with the album's: by title, else by running order.
+  function spAlbumMap(r, album) {
+    const map = new Map(), used = new Set();
+    r.tracks.forEach((t, i) => {
+      const hit = pickHit(t, album.tracks.filter((x) => !used.has(x.uri)), (x) => x.name, () => t.artist);
+      const x = hit || (album.tracks.length === r.tracks.length ? album.tracks[i] : null);
+      if (x && !used.has(x.uri)) { used.add(x.uri); map.set(t.k, x.uri); }
+    });
+    return map;
+  }
+
+  // A record plays as its album on Spotify, so Spotify itself handles next, previous and carrying on to the
+  // next track, even with Crate in the background. A mix (or a record that isn't there as an album) plays as a list.
+  async function spPlay(keys, start = 0, record = null) {
     const first = byKey.get(keys[start]);
     if (!first) return;
     const key = 's:' + first.k;
     if (playing === key) { closePlayer(); return; }
     audio.pause();
+    SP.retry = null;
     showPlayer(key, first.title, `${first.artist} · finding it on Spotify…`, null);
     spMsg('');
     try {
-      // The chosen track first, so a miss shows up at once; then the rest of the list (remembered after the first time).
-      const firstUri = await spFind(first);
-      if (playing !== key) return;
-      if (!firstUri) {
-        $('#player .pl-info small').textContent = `${first.artist} · ${first.r.title} · ${first.pos}`;
-        spMsg('Not on Spotify, as far as Crate can tell. Try ▶ or YouTube.');
-        return;
-      }
-      const uris = [], ks = [];
-      for (let i = 0; i < keys.length; i++) {
-        const t = byKey.get(keys[i]);
-        if (!t) continue;
-        if (keys.length > 1 && !(t.k in spMatches)) $('#player .pl-info small').textContent = `Lining up the ${keys.length} tracks on Spotify… ${i + 1}`;
-        const u = await spFind(t);
+      let body = null;
+      SP.uris = []; SP.keys = []; SP.mode = 'list';
+      if (record) {
+        const album = await spAlbum(record).catch(() => '');
         if (playing !== key) return;
-        if (u) { uris.push(u); ks.push(t.k); }
+        if (album) {
+          const map = spAlbumMap(record, album);
+          if (map.has(first.k)) {
+            SP.mode = 'album'; SP.album = album;
+            SP.uris = album.tracks.map((x) => x.uri);
+            SP.keys = SP.uris.map((u) => [...map].find(([, v]) => v === u)?.[0] || null);
+            body = { context_uri: album.uri, offset: { uri: map.get(first.k) } };
+          }
+        }
       }
-      const dev = await spDevice();
-      if (!dev) {
-        spMsg(`Spotify isn't open on any of your devices. Open the Spotify app, play anything for a second, then tap again. <a href="https://open.spotify.com/track/${firstUri.split(':').pop()}" target="_blank" rel="noopener">Open in Spotify ↗</a>`);
-        return;
+      if (!body) {
+        const firstUri = await spFind(first);
+        if (playing !== key) return;
+        if (!firstUri) {
+          $('#player .pl-info small').textContent = `${first.artist} · ${first.r.title} · ${first.pos}`;
+          spMsg('Not on Spotify, as far as Crate can tell. Try ▶ or YouTube.');
+          return;
+        }
+        for (let i = 0; i < keys.length; i++) {
+          const t = byKey.get(keys[i]);
+          if (!t) continue;
+          if (keys.length > 1 && !(t.k in spMatches)) $('#player .pl-info small').textContent = `Lining up the ${keys.length} tracks on Spotify… ${i + 1}`;
+          const u = await spFind(t);
+          if (playing !== key) return;
+          if (u) { SP.uris.push(u); SP.keys.push(t.k); }
+        }
+        body = { uris: SP.uris, offset: { position: SP.keys.indexOf(first.k) } };
       }
-      SP.dev = dev; SP.uris = uris; SP.keys = ks;
       $('#player .pl-media').innerHTML = `<div class="sp-ctl">
         <div class="sp-bar"><i></i></div><div class="sp-times"><span class="sp-pos">0:00</span><span class="sp-where"></span><span class="sp-dur"></span></div>
-        <div class="sp-btns"><button data-spc="previous" aria-label="Previous track">${SP_PREV}</button><button data-spc="toggle" class="sp-main" aria-label="Pause">${SP_PAUSE}</button><button data-spc="next" aria-label="Next track">${SP_NEXT}</button></div></div>`;
+        <div class="sp-btns"><button data-spc="previous" aria-label="Previous track">${SP_PREV}</button><button data-spc="toggle" class="sp-main" aria-label="Pause">${SP_PAUSE}</button><button data-spc="next" aria-label="Next track">${SP_NEXT}</button></div>
+        <a class="sp-open" href="${spOpenUrl(body)}" target="_blank" rel="noopener">Open in Spotify ↗</a></div>`;
       $$('#player [data-spc]').forEach((b) => (b.onclick = () => spControl(b.dataset.spc)));
-      await spJump(ks.indexOf(first.k));
+      SP.body = body;
+      await spStart(body, key);
       clearInterval(SP.poll);
       SP.poll = setInterval(spPoll, 1000);
     } catch (e) {
@@ -417,33 +462,57 @@
       spMsg(e.status === 403 ? 'Spotify refused to play: full tracks need Premium, and the app has to list your account under Users in the Spotify dashboard.' : 'Spotify: ' + esc(e.message));
     }
   }
-  // Crate moves through the list itself: more dependable than Spotify's own next/previous on a phone.
-  async function spJump(i) {
-    if (i < 0 || i >= SP.uris.length) return;
-    SP.cur = i;
-    await sp(`/me/player/play?device_id=${encodeURIComponent(SP.dev)}`, { method: 'PUT', body: JSON.stringify({ uris: SP.uris, offset: { position: i } }) });
+  const spOpenUrl = (body) => body.context_uri ? `https://open.spotify.com/album/${body.context_uri.split(':').pop()}` : `https://open.spotify.com/track/${body.uris[body.offset.position].split(':').pop()}`;
+  // Starts playback on this computer or on the phone's Spotify app. If the app isn't awake, says so plainly and
+  // tries again by itself as soon as you come back to Crate from Spotify.
+  async function spStart(body, key) {
+    const wake = () => {
+      SP.retry = () => spStart(body, key);
+      const m = $('#player .sp-where');
+      if (m) m.textContent = '';
+      $('#player .pl-info small').textContent = 'Spotify needs to be open: tap Open Spotify, then come back';
+      const o = $('#player .sp-open');
+      if (o) { o.textContent = 'Open Spotify ↗'; o.classList.add('wake'); o.href = spOpenUrl(body); }
+    };
+    let dev;
+    try { dev = await spDevice(); } catch (e) { if (e.status === 404) dev = null; else throw e; }
+    if (playing !== key) return;
+    if (!dev) { wake(); return; }
+    try {
+      await sp(`/me/player/play?device_id=${encodeURIComponent(dev)}`, { method: 'PUT', body: JSON.stringify(body) });
+    } catch (e) {
+      if (e.status === 404 || e.reason === 'NO_ACTIVE_DEVICE') { wake(); return; }
+      throw e;
+    }
+    SP.dev = dev; SP.retry = null;
+    const o = $('#player .sp-open');
+    if (o) { o.textContent = 'Open in Spotify ↗'; o.classList.remove('wake'); }
     SP.at = { pos: 0, dur: 0, t: performance.now(), paused: false };
-    spShow(SP.uris[i], false);
+    const u = body.context_uri ? body.offset.uri : body.uris[body.offset.position];
+    spShow(u, false);
+    if (!canSdk) setTimeout(spPoll, 1200);
   }
   const fmtMs = (ms) => { const sec = Math.max(0, Math.round(ms / 1000)); return `${Math.floor(sec / 60)}:${String(sec % 60).padStart(2, '0')}`; };
   // Shows the track Spotify is on, with where it sits in your crate.
-  function spShow(uri, paused, pos, dur) {
+  function spShow(uri, paused, pos, dur, name) {
     if (!playing || !playing.startsWith('s:')) return;
     const i = SP.uris.indexOf(uri);
-    const t = i >= 0 ? byKey.get(SP.keys[i]) : null;
+    const t = i >= 0 && SP.keys[i] ? byKey.get(SP.keys[i]) : null;
+    if (i >= 0) SP.cur = i;
     if (t) {
-      SP.cur = i;
       $('#player .pl-info b').textContent = t.title;
       $('#player .pl-info small').textContent = `${t.artist} · ${t.r.title} · side ${t.side || '?'}, ${t.pos}`;
-      const w = $('#player .sp-where');
-      if (w) w.textContent = SP.uris.length > 1 ? `${i + 1} of ${SP.uris.length}` : '';
       if (playing !== 's:' + t.k) { playing = 's:' + t.k; markPlaying(); }
+    } else if (name) {
+      $('#player .pl-info b').textContent = name;
+      $('#player .pl-info small').textContent = i >= 0 ? 'On the album, not on your record' : 'Spotify';
     }
+    const w = $('#player .sp-where');
+    if (w && i >= 0) w.textContent = SP.uris.length > 1 ? `${i + 1} of ${SP.uris.length}` : '';
     if (pos != null) SP.at = { pos, dur, t: performance.now(), paused };
     else if (SP.at) SP.at.paused = paused;
     const tg = $('#player [data-spc="toggle"]');
     if (tg) { tg.innerHTML = paused ? SP_PLAY : SP_PAUSE; tg.setAttribute('aria-label', paused ? 'Play' : 'Pause'); tg.dataset.paused = paused ? '1' : ''; }
-    $('#player .sp-btns [data-spc="previous"]')?.toggleAttribute('disabled', SP.cur <= 0 && SP.uris.length < 2);
     $('#player .sp-btns [data-spc="next"]')?.toggleAttribute('disabled', SP.cur >= SP.uris.length - 1);
     spTick();
   }
@@ -455,36 +524,50 @@
     $('#player .sp-pos').textContent = fmtMs(pos);
     $('#player .sp-dur').textContent = a.dur ? fmtMs(a.dur) : '';
   }
-  async function spPoll() {
+  async function spPoll(now) {
     if (!playing || !playing.startsWith('s:')) { clearInterval(SP.poll); return; }
+    if (SP.retry) return;
     if (canSdk && SP.sdk) {
       const st = await SP.sdk.getCurrentState().catch(() => null);
-      if (st) spShow(st.track_window.current_track && st.track_window.current_track.uri, st.paused, st.position, st.duration);
+      if (st) { const c = st.track_window.current_track; spShow(c && c.uri, st.paused, st.position, st.duration, c && c.name); }
       return;
     }
     spTick();
-    if ((SP.polls = (SP.polls || 0) + 1) % 3) return;
-    try { const st = await sp('/me/player'); if (st && st.item) spShow(st.item.uri, !st.is_playing, st.progress_ms, st.item.duration_ms); } catch { /* try again next tick */ }
+    if (now !== true && (SP.polls = (SP.polls || 0) + 1) % 3) return;
+    try { const st = await sp('/me/player'); if (st && st.item) spShow(st.item.uri, !st.is_playing, st.progress_ms, st.item.duration_ms, st.item.name); } catch { /* try again next tick */ }
   }
   async function spControl(what) {
+    if (SP.retry) { SP.retry(); return; }
+    const dev = SP.dev ? `?device_id=${encodeURIComponent(SP.dev)}` : '';
     try {
-      if (what === 'next') return await spJump((SP.cur || 0) + 1);
-      if (what === 'previous') {
-        const a = SP.at, pos = a ? a.pos + (a.paused ? 0 : performance.now() - a.t) : 0;
-        return await spJump(pos > 4000 || SP.cur <= 0 ? SP.cur || 0 : SP.cur - 1); // like any player: back to the start first
+      if (what === 'toggle') {
+        const paused = $('#player [data-spc="toggle"]').dataset.paused;
+        if (canSdk && SP.sdk) await SP.sdk.togglePlay();
+        else await sp(`/me/player/${paused ? 'play' : 'pause'}${dev}`, { method: 'PUT' });
+        spShow(SP.uris[SP.cur], !paused);
+      } else if (canSdk && SP.sdk) {
+        await (what === 'next' ? SP.sdk.nextTrack() : SP.sdk.previousTrack());
+      } else {
+        await sp(`/me/player/${what}${dev}`, { method: 'POST' }); // Spotify moves within the album or list it is playing
+        if (what === 'next' && SP.cur < SP.uris.length - 1) spShow(SP.uris[SP.cur + 1], false, 0, 0);
       }
-      const paused = $('#player [data-spc="toggle"]').dataset.paused;
-      if (canSdk && SP.sdk) await SP.sdk.togglePlay();
-      else await sp(`/me/player/${paused ? 'play' : 'pause'}?device_id=${encodeURIComponent(SP.dev)}`, { method: 'PUT' });
-      spShow(SP.uris[SP.cur], !paused);
-      if (!canSdk) setTimeout(spPoll, 700);
-    } catch (e) { toast('Spotify: ' + e.message); }
+      if (!canSdk) setTimeout(() => spPoll(true), 800);
+    } catch (e) {
+      if (e.status === 404 || e.reason === 'NO_ACTIVE_DEVICE') { SP.retry = () => spStart(SP.body, playing); toast('Spotify went to sleep: tap Open Spotify, then come back'); return; }
+      toast('Spotify: ' + e.message);
+    }
   }
+  // Coming back from the Spotify app: start what was waiting, or catch up with what's playing now.
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState !== 'visible' || !playing || !playing.startsWith('s:')) return;
+    if (SP.retry) setTimeout(() => SP.retry && SP.retry(), 700);
+    else spPoll(true);
+  });
   function spStop() {
     clearInterval(SP.poll);
     if (canSdk && SP.sdk) SP.sdk.pause().catch(() => {});
     else if (SP.token && SP.uris.length) sp(`/me/player/pause${SP.dev ? '?device_id=' + encodeURIComponent(SP.dev) : ''}`, { method: 'PUT' }).catch(() => {});
-    SP.uris = []; SP.keys = []; SP.at = null;
+    SP.uris = []; SP.keys = []; SP.at = null; SP.retry = null;
   }
 
   function relClass(score) {
@@ -1418,7 +1501,7 @@
         // In a mix, play on through the mix; anywhere else, along the record the track is on.
         const list = b.closest('ol.mix');
         const keys = list ? [...new Set($$('[data-sp]', list).map((x) => x.dataset.sp))] : (byKey.get(b.dataset.sp)?.r.tracks || []).map((t) => t.k);
-        spPlay(keys, Math.max(0, keys.indexOf(b.dataset.sp)));
+        spPlay(keys, Math.max(0, keys.indexOf(b.dataset.sp)), list ? null : byKey.get(b.dataset.sp)?.r);
       }
       else if (b.dataset.play) previewTrack(b.dataset.play);
       else if (b.dataset.yt) { const t = byKey.get(b.dataset.yt); playVideo('v:' + t.k, t.yt, t.title, `${t.artist} · ${t.r.title} · ${t.pos}`); }
