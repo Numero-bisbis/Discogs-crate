@@ -1057,54 +1057,159 @@
     return Math.max(0, 1 - Math.abs(d) / 25); // smooth, steady and eclectic keep the energy level
   }
 
+  // Bridge: a path from one track to another through your own records. Each step moves a fraction of the way
+  // from A to B in tempo, sound and energy, and the last one has to hand over cleanly to B. A small beam search
+  // keeps a few candidate paths alive so one greedy early choice can't strand the mix.
+  function generateBridge(o) {
+    const A = trackObj(o.a), B = trackObj(o.b);
+    if (!A || !B) return { error: 'Pick a start and an end track first' };
+    if (A.k === B.k) return { error: 'Pick two different tracks' };
+    const keys = !o.nokeys, range = settings.pitchRange;
+    const k = Math.max(1, Math.min(+o.n || 6, 20));
+    const pool = TRACKS.map((t) => trackObj(t.k)).filter((t) => t.bpm && (t.cam || !keys) && t.k !== A.k && t.k !== B.k &&
+      (!o.genre || t.r.genres.includes(o.genre)) && (!o.style || t.r.styles.includes(o.style)));
+    if (pool.length < k) return { error: `Not enough tracks with BPM${keys ? ' and key' : ''} to build that bridge.` };
+    const near = (bpm, tgt) => Math.min(...[1, 2, 0.5].map((m) => Math.abs(bpm * m - tgt) / tgt));
+    const f = (i) => i / (k + 1);
+    const bpmT = (i) => (A.bpm && B.bpm ? A.bpm + (B.bpm - A.bpm) * f(i) : null);
+    const vA = A.snd && A.snd.v, vB = B.snd && B.snd.v;
+    const vT = (i) => (vA && vB ? vA.map((x, j) => x + (vB[j] - x) * f(i)) : null);
+    const eA = A.snd && A.snd.e, eB = B.snd && B.snd.e;
+    const eT = (i) => (eA != null && eB != null ? eA + (eB - eA) * f(i) : null);
+    const step = (prev, c, i) => {
+      if (c.r === prev.r) return null;
+      const tr = C.transition(prev, c, { pitchRange: range });
+      if (!tr.bpmScore || (keys && tr.pitched.score === 0)) return null;
+      const fb = feedback(prev.k, c.k);
+      if (fb < 0) return null;
+      const st = keys ? tr.score : tr.bpmScore;
+      let sc = st * 0.35 + affinity(prev, c) * 0.15 + fb * 0.5;
+      const tb = bpmT(i);
+      sc += 0.2 * (tb ? Math.max(0, 1 - near(c.bpm, tb) / 0.06) : st);
+      const tv = vT(i);
+      sc += 0.2 * (tv && c.snd ? Math.max(0, Math.min(1, (soundSim(c.snd, { v: tv }) + 0.45) / 1.25)) : 0.4);
+      const te = eT(i);
+      sc += 0.1 * (te != null && c.snd && c.snd.e != null ? Math.max(0, 1 - Math.abs(c.snd.e - te) / 25) : 0.5);
+      if (i === k) { // hands over to B
+        if (c.r === B.r) return null;
+        const tr2 = C.transition(c, B, { pitchRange: range });
+        if (!tr2.bpmScore || (keys && tr2.pitched.score === 0)) return null;
+        sc += (keys ? tr2.score : tr2.bpmScore) * 0.5 + affinity(c, B) * 0.2;
+      }
+      return sc;
+    };
+    const W = 6;
+    let beams = [{ path: [A], recs: new Set([A.r, B.r]), s: 0 }];
+    for (let i = 1; i <= k; i++) {
+      const next = [];
+      for (const bm of beams) {
+        const last = bm.path[bm.path.length - 1], inPath = new Set(bm.path.map((t) => t.k));
+        const local = [];
+        for (const c of pool) {
+          if (inPath.has(c.k)) continue;
+          let sc = step(last, c, i);
+          if (sc == null) continue;
+          sc += (bm.recs.has(c.r) ? -0.4 : 0) + Math.random() * 0.06;
+          local.push({ c, sc });
+        }
+        local.sort((x, y) => y.sc - x.sc).slice(0, W).forEach(({ c, sc }) => next.push({ path: [...bm.path, c], recs: new Set([...bm.recs, c.r]), s: bm.s + sc }));
+      }
+      if (!next.length) break;
+      beams = next.sort((x, y) => y.s - x.s).slice(0, W);
+    }
+    const best = beams[0];
+    const tracks = [...best.path.map((t) => t.k), B.k];
+    return { tracks, short: best.path.length - 1 < k };
+  }
+
   // The Generate tab: settings, then a draft you can tweak, regenerate, or save into My mixes.
+  const VIBES = [['', 'Smooth'], ['build', 'Build energy'], ['down', 'Wind down'], ['eclectic', 'Eclectic']];
+  function trackLine(t) {
+    const e = eff(t);
+    return `<b>${esc(t.title)}</b><small>${esc(t.artist)} · ${esc(t.r.title)}${e.bpm ? ' · ' + e.bpm + ' BPM' : ''}${e.cam ? ' · ' + esc(e.cam) : ''}</small>`;
+  }
+  function pickerHtml(slot, label) {
+    const t = gen[slot] && byKey.get(gen[slot]);
+    return `<div class="gr pick"><span class="gl">${label}</span><div class="picker" data-slot="${slot}">${t
+      ? `<div class="pick-chip">${playBtn(t)}<div>${trackLine(t)}</div><button class="pick-x" data-clear="${slot}" aria-label="Change ${label.toLowerCase()} track">×</button></div>`
+      : `<input type="search" class="pick-in" data-pick="${slot}" placeholder="Search your tracks" autocomplete="off" spellcheck="false" enterkeyhint="search"><div class="pick-list" hidden></div>`}</div></div>`;
+  }
   function renderGenerate() {
+    const bridge = gen.mode === 'bridge';
     const styles = facet(DATA.releases.filter((r) => !gen.genre || r.genres.includes(gen.genre)), (r) => r.styles);
     const pool = () => TRACKS.filter((t) => { const e = eff(t); return e.bpm && (e.cam || gen.nokeys) && (!gen.genre || t.r.genres.includes(gen.genre)) && (!gen.style || t.r.styles.includes(gen.style)); }).length;
     const k = pool();
     // Typed style names snap to the real one, whatever the case; anything else means Any.
     const pickStyle = (v) => { v = v.trim().toLowerCase(); if (!v) return ''; const hit = styles.find(([s]) => s.toLowerCase() === v); if (hit) return hit[0]; const near = styles.filter(([s]) => s.toLowerCase().includes(v)); return near.length === 1 ? near[0][0] : ''; };
     const d = user.draft;
-    let html = `<section class="card-s gen-card"><h2>Generate a mix</h2>
-      <p class="sub">Picks tracks you own that match, orders them so each step needs little pitch change and the keys sit well together, and never puts two tracks from the same record back to back. Only tracks with a BPM are used${gen.nokeys ? '' : ', and they need a key too unless you ignore keys'}. Leave End BPM empty to let the tempo drift naturally.</p>
-      <div class="gen">
-        ${select('genre', 'Genre', facet(DATA.releases, (r) => r.genres), gen.genre, 'Any')}
-        <label class="f"><span>Style <small>(type to search)</small></span><input type="search" data-f="style" list="style-list" value="${esc(gen.style)}" placeholder="Any" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="done"></label>
-        <datalist id="style-list">${styles.map(([v, n]) => `<option value="${esc(v)}">${n} records</option>`).join('')}</datalist>
-        <label class="f"><span>Start BPM</span><input data-f="from" value="${esc(gen.from)}" inputmode="numeric"></label>
-        <label class="f"><span>End BPM <small>(optional)</small></span><input data-f="to" value="${esc(gen.to ?? '')}" placeholder="Any" inputmode="numeric"></label>
-        ${gen.nokeys ? '' : select('cam', 'Start key', camOptions(), gen.cam, 'Any')}
-        <label class="f"><span>Vibe</span><select data-f="vibe">${[['', 'Smooth: tracks that sound alike'], ['build', 'Build energy'], ['down', 'Wind down'], ['eclectic', 'Eclectic: contrast, still mixable']]
-          .map(([v, n]) => `<option value="${v}"${(gen.vibe || '') === v ? ' selected' : ''}>${n}</option>`).join('')}</select></label>
-        <label class="f"><span>Tracks</span><input data-f="n" value="${esc(gen.n)}" inputmode="numeric"></label>
+    const opt = (list, cur, any) => `<option value="">${any}</option>` + list.map(([v, n]) => `<option value="${esc(v)}"${String(v) === String(cur) ? ' selected' : ''}>${esc(v)}${n != null ? ` (${n})` : ''}</option>`).join('');
+    const nMax = bridge ? 20 : 40, nMin = bridge ? 1 : 2, n = Math.max(nMin, Math.min(nMax, +gen.n || (bridge ? 6 : 10)));
+    let html = `<section class="gen-card"><h2>Generate a mix</h2>
+      <div class="seg" role="tablist" aria-label="Kind of mix"><button role="tab" data-mode="" aria-selected="${!bridge}">Tempo plan</button><button role="tab" data-mode="bridge" aria-selected="${bridge}">Bridge two tracks</button></div>
+      <p class="sub gen-what">${bridge
+        ? 'Pick where the mix starts and where it should land. Crate fills the gap with your records, moving a little closer to the end track in tempo, sound and energy with every step.'
+        : 'Picks tracks you own that match, orders them so each step needs little pitch change and the keys sit well together, and never puts two tracks from the same record back to back.'}</p>
+      ${bridge ? `<div class="group">${pickerHtml('a', 'From')}${pickerHtml('b', 'To')}</div>` : ''}
+      <div class="group gen">
+        <label class="gr"><span class="gl">Genre</span><select data-f="genre">${opt(facet(DATA.releases, (r) => r.genres), gen.genre, 'Any')}</select></label>
+        <label class="gr"><span class="gl">Style</span><input type="search" data-f="style" list="style-list" value="${esc(gen.style)}" placeholder="Any, type to search" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="done"></label>
+        <datalist id="style-list">${styles.map(([v, c]) => `<option value="${esc(v)}">${c} records</option>`).join('')}</datalist>
+        ${bridge ? '' : `<label class="gr"><span class="gl">Start BPM</span><input data-f="from" value="${esc(gen.from)}" inputmode="numeric"></label>
+        <label class="gr"><span class="gl">End BPM</span><input data-f="to" value="${esc(gen.to ?? '')}" placeholder="Any" inputmode="numeric"></label>
+        ${gen.nokeys ? '' : `<label class="gr"><span class="gl">Start key</span><select data-f="cam">${opt(camOptions(), gen.cam, 'Any')}</select></label>`}`}
+        <div class="gr"><span class="gl">${bridge ? 'Tracks in between' : 'Tracks'}</span><div class="stepper"><button type="button" data-step="-1" aria-label="Fewer"${n <= nMin ? ' disabled' : ''}>−</button><b>${n}</b><button type="button" data-step="1" aria-label="More"${n >= nMax ? ' disabled' : ''}>+</button></div></div>
+        <label class="gr"><span class="gl">Ignore keys <small>tempo only</small></span><span class="switch"><input type="checkbox" data-f="nokeys"${gen.nokeys ? ' checked' : ''}><span></span></span></label>
       </div>
-      <label class="switch"><input type="checkbox" data-f="nokeys"${gen.nokeys ? ' checked' : ''}><span></span>Ignore keys <small>(match on tempo only)</small></label>
-      <div class="row"><button id="gen-go" class="primary">${d ? 'Generate again' : 'Generate'}</button><span class="sub">${k} tracks to choose from</span></div></section>`;
+      ${bridge ? '' : `<div class="group-h">Vibe</div><div class="chips" role="radiogroup" aria-label="Vibe">${VIBES.map(([v, l]) => `<button type="button" role="radio" data-vibe="${v}" aria-checked="${(gen.vibe || '') === v}">${l}</button>`).join('')}</div>`}
+      <div class="gen-go"><button id="gen-go" class="primary">${d ? 'Generate again' : 'Generate'}</button><span class="sub">${k} tracks to choose from</span></div></section>`;
     if (d) {
-      html += `<section class="draft"><div class="draft-bar"><div><b>Draft</b> · ${esc(d.generated.style || d.generated.genre || 'Any genre')}, ${esc(d.generated.from)}${d.generated.to ? '→' + esc(d.generated.to) : '+'} BPM${d.generated.nokeys ? ', keys ignored' : ''}. Reorder or remove tracks here, then save it.</div>
+      const g = d.generated || {};
+      const A = g.mode === 'bridge' && byKey.get(g.a), B = g.mode === 'bridge' && byKey.get(g.b);
+      html += `<section class="draft"><div class="draft-bar"><div><b>Draft</b> · ${A && B ? `bridge from ${esc(A.title)} to ${esc(B.title)}` : `${esc(g.style || g.genre || 'Any genre')}, ${esc(g.from)}${g.to ? '→' + esc(g.to) : '+'} BPM`}${g.nokeys ? ', keys ignored' : ''}. Reorder or remove tracks here, then save it.</div>
         <div class="save-row"><input id="draft-name" value="${esc(d.name)}" aria-label="Mix name" placeholder="Name this mix">
         <button class="primary" data-a="save">Save to My mixes</button><button data-a="regen">Regenerate</button><button data-a="discard">Clear</button></div></div>
         ${mixBodyHtml(d)}</section>`;
     } else {
-      html += '<p class="empty">Pick your settings and tap Generate. The draft shows up here, and nothing goes into My mixes until you save it.</p>';
+      html += `<p class="empty">${bridge ? 'Pick a From and a To track and tap Generate.' : 'Pick your settings and tap Generate.'} The draft shows up here, and nothing goes into My mixes until you save it.</p>`;
     }
     const root = $('#generate');
     root.innerHTML = html;
     const val = (el) => (el.type === 'checkbox' ? el.checked : el.dataset.f === 'style' ? pickStyle(el.value) : el.value);
-    $$('.gen select, .gen input, .switch input', root).forEach((el) => (el.onchange = () => {
+    $$('.gen-card [data-f]', root).forEach((el) => (el.onchange = () => {
       gen[el.dataset.f] = val(el);
       if (el.dataset.f === 'genre') gen.style = '';
       store.set('gen', gen);
       if (el.dataset.f === 'style') {
         el.value = gen.style;
-        $('.row .sub', root).textContent = `${pool()} tracks to choose from`;
+        $('.gen-go .sub', root).textContent = `${pool()} tracks to choose from`;
         return;
       }
       // Typed numbers don't redraw, so tapping Generate straight after typing still lands.
       if (el.type !== 'text') renderGenerate();
     }));
+    $$('.seg [data-mode]', root).forEach((b) => (b.onclick = () => { gen.mode = b.dataset.mode; gen.n = gen.mode === 'bridge' ? 6 : 10; store.set('gen', gen); renderGenerate(); }));
+    $$('[data-vibe]', root).forEach((b) => (b.onclick = () => { gen.vibe = b.dataset.vibe; store.set('gen', gen); $$('[data-vibe]', root).forEach((x) => x.setAttribute('aria-checked', x === b)); }));
+    $$('[data-step]', root).forEach((b) => (b.onclick = () => { gen.n = Math.max(nMin, Math.min(nMax, n + +b.dataset.step)); store.set('gen', gen); renderGenerate(); }));
+    $$('[data-clear]', root).forEach((b) => (b.onclick = () => { gen[b.dataset.clear] = ''; store.set('gen', gen); renderGenerate(); setTimeout(() => $(`[data-pick="${b.dataset.clear}"]`)?.focus(), 0); }));
+    $$('[data-pick]', root).forEach((inp) => {
+      const list = inp.nextElementSibling;
+      inp.oninput = () => {
+        const ws = norm(inp.value).split(/\s+/).filter(Boolean);
+        if (!ws.length) { list.hidden = true; return; }
+        const hits = [];
+        for (const t of TRACKS) {
+          const hay = norm(`${t.title} ${t.artist} ${t.r.title}`);
+          if (ws.every((w) => hay.includes(w))) { hits.push(t); if (hits.length >= 40) break; }
+        }
+        hits.sort((x, y) => !!eff(y).bpm - !!eff(x).bpm);
+        list.innerHTML = hits.slice(0, 8).map((t) => `<button type="button" data-choose="${esc(t.k)}">${trackLine(t)}</button>`).join('') || '<p class="sub">No track matches</p>';
+        list.hidden = false;
+        $$('[data-choose]', list).forEach((b) => (b.onclick = () => { gen[inp.dataset.pick] = b.dataset.choose; store.set('gen', gen); renderGenerate(); }));
+      };
+    });
     $('#gen-go').onclick = () => {
-      $$('.gen select, .gen input, .switch input', root).forEach((el) => (gen[el.dataset.f] = val(el)));
+      $$('.gen-card [data-f]', root).forEach((el) => (gen[el.dataset.f] = val(el)));
+      gen.n = n;
       store.set('gen', gen);
       makeDraft();
     };
@@ -1129,13 +1234,15 @@
   }
 
   function makeDraft() {
-    const res = generateMix(gen);
+    const bridge = gen.mode === 'bridge';
+    const res = bridge ? generateBridge(gen) : generateMix(gen);
     if (res.error) { toast(res.error); return; }
     const keepName = user.draft && user.draft.renamed ? user.draft.name : null;
-    user.draft = { name: keepName || `${gen.style || gen.genre || 'Mix'} ${gen.from}${gen.to ? '→' + gen.to : ''}`, tracks: res.tracks, generated: { ...gen } };
+    const name = bridge ? `${byKey.get(gen.a).title} → ${byKey.get(gen.b).title}` : `${gen.style || gen.genre || 'Mix'} ${gen.from}${gen.to ? '→' + gen.to : ''}`;
+    user.draft = { name: keepName || name, tracks: res.tracks, generated: { ...gen } };
     saveUser();
     renderGenerate();
-    toast(res.short ? `Only found ${res.tracks.length} tracks that chain well` : 'New draft ready');
+    toast(res.short ? (bridge ? 'The bridge came out shorter: not enough tracks link those two smoothly' : `Only found ${res.tracks.length} tracks that chain well`) : 'New draft ready');
   }
 
   const THUMB_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 11v9H4v-9zM7 11l4-7c1.4 0 2.3 1.1 2 2.5L12.5 10H18a2 2 0 0 1 2 2.3l-1.2 6A2 2 0 0 1 16.8 20H7"/></svg>';
@@ -1517,7 +1624,7 @@
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && $('#drawer').classList.contains('open')) closeDrawer(); });
     wireCrate();
     // Content below makes room for exactly as much player as is showing (a video is much taller than a preview).
-    new ResizeObserver(([e]) => document.documentElement.style.setProperty('--player-h', `${Math.ceil(e.target.offsetHeight)}px`)).observe($('#player'));
+    new ResizeObserver(([e]) => document.documentElement.style.setProperty('--player-h', `${Math.ceil(e.target.offsetHeight)}px`)).observe($('#player'), { box: 'border-box' });
     // Phones can't hover, so tapping a BPM/key source tag explains it.
     document.addEventListener('click', (e) => { const t = e.target.closest('[data-why]'); if (t) toast(t.dataset.why); });
     // On phones the tab bar lives outside the sticky header: iOS Safari lets a fixed bar inside a sticky one drift with the page.
