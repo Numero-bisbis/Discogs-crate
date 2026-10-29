@@ -395,11 +395,9 @@ ol.steps { padding-left: 20px; line-height: 1.5; } ol.steps li { margin: 4px 0; 
 
 .player {
   position: fixed; z-index: 35; right: 20px; bottom: calc(20px + env(safe-area-inset-bottom)); width: 360px;
-  /* Dark glass in every theme, so it reads as one calm "now playing" bar over light pages and dark covers alike */
-  --text: #fff; --muted: rgb(235 235 245 / .62); --faint: rgb(235 235 245 / .3); --fill: rgb(255 255 255 / .12); --panel3: rgb(255 255 255 / .2);
-  --sep: rgb(255 255 255 / .1); --bg: #000; --accent: #8a8dff; color-scheme: dark; color: var(--text);
-  background: rgb(30 30 32 / .84); -webkit-backdrop-filter: saturate(1.8) blur(24px); backdrop-filter: saturate(1.8) blur(24px);
-  border-radius: 14px; overflow: hidden; box-shadow: 0 10px 32px rgb(0 0 0 / .3), 0 0 0 .5px rgb(255 255 255 / .08);
+  /* Same frosted material as the tab bar, so it belongs to the page instead of sitting on top of it */
+  color: var(--text); background: var(--bar); -webkit-backdrop-filter: saturate(1.8) blur(24px); backdrop-filter: saturate(1.8) blur(24px);
+  border-radius: 14px; overflow: hidden; box-shadow: 0 8px 28px rgb(0 0 0 / .14), 0 0 0 .5px var(--sep);
   transform: translateY(12px); opacity: 0; transition: transform .25s ease, opacity .2s;
 }
 .player.show { transform: none; opacity: 1; }
@@ -506,19 +504,19 @@ body.has-player .drawer-panel { padding-bottom: calc(var(--player-h, 280px) + 32
   /* Docked like a music app's mini player: full width, sitting straight on the tab bar */
   .player {
     left: 0; right: 0; width: auto; bottom: calc(var(--nav-h) + env(safe-area-inset-bottom)); border-radius: 14px 14px 0 0;
-    box-shadow: 0 -6px 20px rgb(0 0 0 / .16);
+    box-shadow: 0 -.5px 0 var(--sep);
   }
   .pl-media iframe { max-height: 190px; }
   body.has-player main { padding-bottom: calc(var(--nav-h) + var(--player-h, 280px) + 16px + env(safe-area-inset-bottom)); }
   /* The tab bar is hidden under an open record, so the player drops to the very bottom and fills the home-bar strip */
-  body.locked .player { bottom: 0; padding-bottom: env(safe-area-inset-bottom); }
+  body.locked .player { bottom: 0; padding-bottom: max(4px, calc(env(safe-area-inset-bottom) - 18px)); }
   body.has-player .drawer-panel { padding-bottom: calc(var(--player-h, 280px) + 16px); }
   .tt { gap: 8px; }
 }
 
 /* Spotify as a one-line mini player: track on the left, controls on the right, a hairline of progress on top */
 .player.sp .pl-head { min-height: 60px; padding: 10px 8px 10px 14px; }
-.player.sp .pl-info { margin-right: 126px; }
+.player.sp .pl-info { margin-right: 162px; }
 .player.sp .sp-ctl { padding: 0; }
 .player.sp .sp-bar { position: absolute; top: 0; left: 0; right: 0; height: 3px; border-radius: 0; background: rgb(255 255 255 / .1); }
 .player.sp .sp-bar i { border-radius: 0; background: #1db954; }
@@ -528,10 +526,18 @@ body.has-player .drawer-panel { padding-bottom: calc(var(--player-h, 280px) + 32
 .player.sp .sp-btns button svg { width: 21px; height: 21px; }
 .player.sp .sp-btns .sp-main { width: 38px; height: 38px; margin: 0 2px; }
 .player.sp .sp-btns .sp-main svg { width: 17px; height: 17px; }
-.player.sp .sp-open:not(.wake) { display: none; }
+/* Open in Spotify shrinks to the Spotify logo beside the controls */
+.player.sp .sp-open:not(.wake) {
+  position: absolute; top: 12px; right: 166px; width: 36px; height: 36px; margin: 0; font-size: 0; border-radius: 50%;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%231db954' stroke-width='1.8' stroke-linecap='round'%3E%3Ccircle cx='12' cy='12' r='9.5'/%3E%3Cpath d='M7.5 9.6c3-.9 6.4-.6 9.1.9M8 12.6c2.5-.7 5.1-.4 7.3.8M8.6 15.4c1.9-.5 3.8-.3 5.4.6'/%3E%3C/svg%3E") center / 22px no-repeat;
+}
 .player.sp .sp-open.wake { margin: 0 auto 12px; }
 .player.sp .pl-media > .sub { margin-top: -2px; }
 /* Over the crate, a small floating bar in the corner instead of a sheet across the covers */
+body.crate-on .player {
+  --text: #fff; --muted: rgb(235 235 245 / .62); --faint: rgb(235 235 245 / .3); --fill: rgb(255 255 255 / .12); --panel3: rgb(255 255 255 / .2);
+  --sep: rgb(255 255 255 / .1); --bg: #000; color-scheme: dark; background: rgb(30 30 32 / .84); box-shadow: 0 10px 32px rgb(0 0 0 / .3), 0 0 0 .5px rgb(255 255 255 / .08);
+}
 body.crate-on .player { left: auto; right: max(16px, env(safe-area-inset-right)); bottom: max(14px, env(safe-area-inset-bottom)); width: min(380px, calc(100% - 32px)); border-radius: 14px; padding-bottom: 0; }
 /* ...and the record's caption moves aside (wide screens) or above it (narrow), so neither covers the other */
 body.has-player .cf-info { padding-bottom: calc(var(--player-h, 60px) + 24px); }
