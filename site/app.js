@@ -213,6 +213,7 @@
     m.hidden = !more;
     if (more) { m.href = more.href; m.textContent = more.label; }
     p.hidden = false;
+    p.classList.toggle('sp', key.startsWith('s:'));
     document.body.classList.add('has-player');
     requestAnimationFrame(() => p.classList.add('show'));
     playing = key;
@@ -501,7 +502,7 @@
     if (i >= 0) SP.cur = i;
     if (t) {
       $('#player .pl-info b').textContent = t.title;
-      $('#player .pl-info small').textContent = `${t.artist} · ${t.r.title} · side ${t.side || '?'}, ${t.pos}`;
+      $('#player .pl-info small').textContent = `${SP.uris.length > 1 ? `${i + 1}/${SP.uris.length} · ` : ''}${t.artist} · ${t.r.title} · ${t.pos}`;
       if (playing !== 's:' + t.k) { playing = 's:' + t.k; markPlaying(); }
     } else if (name) {
       $('#player .pl-info b').textContent = name;
