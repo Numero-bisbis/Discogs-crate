@@ -510,6 +510,9 @@ body.has-player .drawer-panel { padding-bottom: calc(var(--player-h, 280px) + 32
   body.has-player main { padding-bottom: calc(var(--nav-h) + var(--player-h, 280px) + 16px + env(safe-area-inset-bottom)); }
   /* The tab bar is hidden under an open record, so the player drops to the very bottom and fills the home-bar strip */
   body.locked .player { bottom: 0; padding-bottom: max(4px, calc(env(safe-area-inset-bottom) - 18px)); }
+  /* The iPhone home-screen app can stop fixed elements short of the screen's bottom edge while a record is open.
+     A solid shadow carries the bar's colour on down, so whatever is left below reads as part of the player. */
+  body.locked .player { box-shadow: 0 -.5px 0 var(--sep), 0 140px 0 0 var(--panel); background: var(--panel); }
   body.has-player .drawer-panel { padding-bottom: calc(var(--player-h, 280px) + 16px); }
   .tt { gap: 8px; }
 }
