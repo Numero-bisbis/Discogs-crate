@@ -269,7 +269,9 @@
   // Login is OAuth with PKCE, so only a public client ID lives here and the token stays in this browser.
   // Computers play inside the page (Web Playback SDK); phones can't, so there Crate drives the Spotify app (Spotify Connect).
   const SP = { token: store.get('sp', null), ready: null, uris: [], keys: [], poll: 0, sdk: null };
-  const spMatches = store.get('spMatch', {});
+  // Matches made before Crate asked for your country's catalogue can point at releases you can't play, so they're redone once.
+  const spMatches = store.get('spMatchV') === 2 ? store.get('spMatch', {}) : {};
+  store.set('spMatchV', 2);
   const SP_SCOPES = 'streaming user-read-email user-read-private user-read-playback-state user-modify-playback-state';
   const spRedirect = () => location.origin + location.pathname;
   function spOn() { return !!(settings.spClient && SP.token); }
@@ -331,8 +333,8 @@
     const artist = /^various/i.test(t.artist) ? '' : t.artist.replace(/\s*\(\d+\)$/, '');
     let hit = null;
     for (const q of [`track:${title}${artist ? ` artist:${artist}` : ''}`, `${artist} ${title}`]) {
-      const j = await sp('/search?type=track&limit=10&q=' + encodeURIComponent(q));
-      hit = pickHit(t, j.tracks && j.tracks.items, (x) => x.name, (x) => x.artists.map((a) => a.name).join(' '));
+      const j = await sp('/search?type=track&market=from_token&limit=10&q=' + encodeURIComponent(q));
+      hit = pickHit(t, j.tracks && j.tracks.items.filter((x) => x.is_playable !== false), (x) => x.name, (x) => x.artists.map((a) => a.name).join(' '));
       if (hit) break;
     }
     spMatches[t.k] = hit ? hit.uri : '';
@@ -377,16 +379,22 @@
     if (ck in spMatches) return spMatches[ck];
     const title = r.title.replace(/\s*[([].*?[)\]]/g, '').trim();
     const artist = /^various/i.test(r.artist) ? '' : r.artist.replace(/\s*\(\d+\)$/, '');
-    let hit = null;
-    for (const q of [`album:${title}${artist ? ` artist:${artist}` : ''}`, `${artist} ${title}`]) {
-      const j = await sp('/search?type=album&limit=10&q=' + encodeURIComponent(q));
-      hit = pickHit({ title, artist: r.artist }, j.albums && j.albums.items, (x) => x.name, (x) => x.artists.map((a) => a.name).join(' '));
-      if (hit) break;
-    }
+    // Several editions can share a name and some aren't playable where you are, so the first edition with playable tracks wins.
     let found = '';
-    if (hit) {
-      const j = await sp(`/albums/${hit.id}/tracks?limit=50`);
-      found = { uri: hit.uri, id: hit.id, tracks: (j.items || []).map((x) => ({ uri: x.uri, name: x.name })) };
+    const tried = new Set();
+    for (const q of [`album:${title}${artist ? ` artist:${artist}` : ''}`, `${artist} ${title}`]) {
+      const j = await sp('/search?type=album&market=from_token&limit=10&q=' + encodeURIComponent(q));
+      let items = (j.albums && j.albums.items || []).filter((x) => !tried.has(x.id));
+      for (let n = 0; n < 3 && !found; n++) {
+        const hit = pickHit({ title, artist: r.artist }, items, (x) => x.name, (x) => x.artists.map((a) => a.name).join(' '));
+        if (!hit) break;
+        tried.add(hit.id);
+        items = items.filter((x) => x !== hit);
+        const tj = await sp(`/albums/${hit.id}/tracks?market=from_token&limit=50`);
+        const tracks = (tj.items || []).filter((x) => x.is_playable !== false).map((x) => ({ uri: x.uri, name: x.name }));
+        if (tracks.length) found = { uri: hit.uri, id: hit.id, tracks };
+      }
+      if (found) break;
     }
     spMatches[ck] = found;
     store.set('spMatch', spMatches);
@@ -416,7 +424,7 @@
     spMsg('');
     try {
       let body = null;
-      SP.uris = []; SP.keys = []; SP.mode = 'list';
+      SP.uris = []; SP.keys = []; SP.mode = 'list'; SP.fellBack = false;
       if (record) {
         const album = await spAlbum(record).catch(() => '');
         if (playing !== key) return;
@@ -492,6 +500,17 @@
     const u = body.context_uri ? body.offset.uri : body.uris[body.offset.position];
     spShow(u, false);
     if (!canSdk) setTimeout(spPoll, 1200);
+    // If the album edition Spotify picked won't actually play that track, play the track on its own instead.
+    if (!canSdk && body.context_uri && !SP.fellBack) setTimeout(async () => {
+      if (playing !== key || SP.fellBack) return;
+      const st = await sp('/me/player').catch(() => null);
+      if (playing !== key || (st && st.is_playing && st.item)) return;
+      const t = byKey.get(key.slice(2));
+      const solo = t && await spFind(t).catch(() => '');
+      if (!solo || playing !== key) return;
+      SP.fellBack = true; SP.mode = 'list'; SP.uris = [solo]; SP.keys = [t.k];
+      spStart({ uris: [solo], offset: { position: 0 } }, key);
+    }, 4000);
   }
   const fmtMs = (ms) => { const sec = Math.max(0, Math.round(ms / 1000)); return `${Math.floor(sec / 60)}:${String(sec % 60).padStart(2, '0')}`; };
   // Shows the track Spotify is on, with where it sits in your crate.
