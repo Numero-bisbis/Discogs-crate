@@ -825,12 +825,26 @@
       $('#crate .cf-count').textContent = `${i + 1} of ${n}`;
     }
   }
-  // Tap the record in front (or the wheel's centre) and it turns round like a sleeve in your hands: the back shows its tracks.
-  const FL = { open: false, i: -1, slot: null, from: '' };
+  // Tap the record in front and it turns round like a sleeve in your hands: the back shows its tracks.
+  const FL = { open: false, i: -1, slot: null, frames: null };
   function flipBack(r) {
     const url = coverUrl(r);
     return `<div class="fl-head">${url ? `<img src="${esc(url)}" alt="">` : ''}<div><b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small></div><button class="fl-open">Open record</button></div>
       <ol class="fl-list">${r.tracks.map((t) => { const e = eff(t); return `<li><span class="fl-pos">${esc(t.pos)}</span><div class="fl-t"><b>${esc(t.title)}</b>${t.artist !== r.artist ? `<small>${esc(t.artist)}</small>` : ''}</div><span class="fl-meta">${[e.bpm, e.cam].filter(Boolean).map(esc).join(' · ')}</span>${playBtn(t)}</li>`; }).join('') || '<li class="sub">No tracklist yet.</li>'}</ol>`;
+  }
+  // Pulled out of the row, then turned over sideways like a sleeve in your hands.
+  function flipFrames(card, slot) {
+    card.style.transform = '';
+    const to = card.getBoundingClientRect(), from = slot.getBoundingClientRect();
+    const dx = from.left + from.width / 2 - to.left - to.width / 2, dy = from.top + from.height / 2 - to.top - to.height / 2;
+    const sq = Math.min(to.height, from.width * 1.15);
+    const f = (x, y, sx, sy, r) => `translate(${x.toFixed(1)}px,${y.toFixed(1)}px) scale(${sx.toFixed(4)},${sy.toFixed(4)}) rotateY(${r}deg)`;
+    return [
+      { transform: f(dx, dy, from.width / to.width, from.height / to.height, 0), offset: 0 },
+      { transform: f(0, -8, sq / to.width, sq / to.height, 0), offset: 0.32, easing: 'cubic-bezier(.45,0,.3,1)' },
+      { transform: f(0, -4, (sq * 1.12) / to.width, (sq * 1.04) / to.height, 90), offset: 0.66, easing: 'cubic-bezier(.3,0,.25,1)' },
+      { transform: f(0, 0, 1, 1, 180), offset: 1 },
+    ];
   }
   function flipOpen(i) {
     const r = recordList[i], slot = CF.slots.find((c) => c.dataset.i === String(i));
@@ -841,17 +855,12 @@
     $('.fl-back', box).innerHTML = flipBack(r);
     $('.fl-back .fl-open', box).onclick = () => openRecord(r);
     box.hidden = false;
-    card.style.transition = 'none';
-    card.style.transform = '';
-    const to = card.getBoundingClientRect(), from = slot.getBoundingClientRect();
-    FL.from = `translate(${(from.left + from.width / 2 - to.left - to.width / 2).toFixed(1)}px,${(from.top + from.height / 2 - to.top - to.height / 2).toFixed(1)}px) scale(${(from.width / to.width).toFixed(4)},${(from.height / to.height).toFixed(4)}) rotateY(0deg)`;
-    card.style.transform = FL.from;
-    void card.offsetWidth;
-    card.style.transition = '';
+    FL.frames = flipFrames(card, slot);
     Object.assign(FL, { open: true, i, slot });
     slot.classList.add('away');
     box.classList.add('on');
-    card.style.transform = 'translate(0px,0px) scale(1,1) rotateY(180deg)';
+    card.style.transform = FL.frames[3].transform;
+    if (!reduceMotion()) card.animate(FL.frames, { duration: 950, fill: 'none' });
     $('.fl-back', box).scrollTop = 0;
   }
   function flipClose(now) {
@@ -861,61 +870,9 @@
     box.classList.remove('on');
     const done = () => { box.hidden = true; slot.classList.remove('away'); };
     if (now || reduceMotion()) { done(); return; }
-    card.style.transform = FL.from;
-    setTimeout(done, 560);
-  }
-  // A click wheel, like the iPod's: run a finger round the ring to move one record per notch (faster turns skip more),
-  // press the centre to turn the record over, MENU goes back, ⏯ plays the record in front.
-  function wireWheel(w) {
-    let g = null;
-    const geo = (e) => {
-      const r = w.getBoundingClientRect(), dx = e.clientX - (r.left + r.width / 2), dy = e.clientY - (r.top + r.height / 2);
-      return { a: Math.atan2(dy, dx) * 180 / Math.PI, rad: Math.hypot(dx, dy) / (r.width / 2) };
-    };
-    const step = (k) => {
-      if (FL.open) { $('#crate .fl-back').scrollBy({ top: k * 44 }); return; }
-      crateGo(Math.round(CF.target) + k);
-    };
-    w.addEventListener('pointerdown', (e) => {
-      e.preventDefault();
-      w.setPointerCapture(e.pointerId);
-      const p = geo(e);
-      g = { ...p, acc: 0, turned: 0, t0: performance.now(), lt: performance.now() };
-      w.classList.add('held');
-    });
-    w.addEventListener('pointermove', (e) => {
-      if (!g || g.rad < 0.4) return;
-      const p = geo(e), now = performance.now();
-      let d = p.a - g.a;
-      if (d > 180) d -= 360; else if (d < -180) d += 360;
-      g.a = p.a;
-      g.turned += Math.abs(d);
-      const speed = Math.abs(d) / Math.max(8, now - g.lt) * 1000; // degrees per second
-      g.lt = now;
-      g.acc += d * (speed > 700 ? 2.5 : speed > 350 ? 1.6 : 1);
-      const NOTCH = 20;
-      while (g.acc >= NOTCH) { g.acc -= NOTCH; step(1); }
-      while (g.acc <= -NOTCH) { g.acc += NOTCH; step(-1); }
-    });
-    const end = (e) => {
-      if (!g) return;
-      w.classList.remove('held');
-      const tap = g.turned < 10 && performance.now() - g.t0 < 600, p = g;
-      g = null;
-      if (!tap || e.type !== 'pointerup') return;
-      const r = recordList[Math.round(CF.pos)];
-      if (p.rad < 0.4) { FL.open ? flipClose() : flipOpen(Math.round(CF.pos)); return; }
-      const a = p.a;
-      if (a >= -135 && a < -45) FL.open ? flipClose() : closeCrate();
-      else if (a >= -45 && a < 45) step(1);
-      else if (a >= 135 || a < -135) step(-1);
-      else if (r && r.tracks.length) {
-        if (spOn()) spPlay(r.tracks.map((t) => t.k), 0, r);
-        else previewTrack(r.tracks[0].k);
-      }
-    };
-    w.addEventListener('pointerup', end);
-    w.addEventListener('pointercancel', end);
+    card.style.transform = FL.frames[0].transform;
+    const back = [...FL.frames].reverse().map((k) => ({ transform: k.transform, offset: 1 - k.offset }));
+    card.animate(back, { duration: 800, fill: 'none' }).onfinish = done;
   }
   function wireCrate() {
     const el = $('#crate');
@@ -964,7 +921,6 @@
       clearTimeout(wheelT);
       wheelT = setTimeout(() => crateGo(Math.round(CF.pos)), 120);
     }, { passive: false });
-    wireWheel($('.cf-wheel', el));
     $('.cf-flip', el).addEventListener('click', (e) => { if (e.target === e.currentTarget) flipClose(); });
     $('.cf-close', el).onclick = () => (FL.open ? flipClose() : closeCrate());
     $('.cf-grid', el).onclick = () => { store.set('crateSideways', false); closeCrate(); toast('Grid view. Tap Crate to flick through again.'); };

@@ -599,35 +599,17 @@ body.crate-on { overflow: hidden; }
 .cf-info { text-align: center; padding: 6px 16px max(14px, env(safe-area-inset-bottom)); min-height: 74px; display: flex; flex-direction: column; gap: 2px; }
 .cf-info b { font-size: 17px; } .cf-info span { color: rgb(255 255 255 / .75); font-size: 15px; } .cf-info small { color: rgb(255 255 255 / .45); font-size: 12px; }
 
-/* Crate: the click wheel (bottom left) */
-.cf-wheel {
-  --wd: 116px; position: absolute; left: max(16px, env(safe-area-inset-left)); bottom: max(12px, env(safe-area-inset-bottom)); z-index: 6;
-  width: var(--wd); height: var(--wd); border-radius: 50%; touch-action: none; cursor: grab;
-  background: radial-gradient(circle, transparent 0 25%, rgb(255 255 255 / .09) 25.5% 100%); box-shadow: inset 0 0 0 .5px rgb(255 255 255 / .14);
-  color: rgb(255 255 255 / .6); font-size: 9px; font-weight: 700; letter-spacing: .08em; transition: background .15s;
-}
-.cf-wheel.held { background: radial-gradient(circle, transparent 0 25%, rgb(255 255 255 / .14) 25.5% 100%); }
-.cf-wheel > span { position: absolute; display: grid; place-items: center; pointer-events: none; }
-.cf-wheel svg { width: 13px; height: 13px; fill: currentColor; stroke: currentColor; stroke-width: 1.6; }
-.cw-menu { top: 8px; left: 0; right: 0; }
-.cw-play { bottom: 8px; left: 0; right: 0; }
-.cw-prev { left: 9px; top: 0; bottom: 0; }
-.cw-next { right: 9px; top: 0; bottom: 0; }
-.cw-center { left: 30%; top: 30%; width: 40%; height: 40%; border-radius: 50%; background: rgb(255 255 255 / .1); box-shadow: inset 0 0 0 .5px rgb(255 255 255 / .16); }
-.cf-info { padding-left: 150px; padding-right: 150px; }
-@media (max-width: 600px) { .cf-info { padding-right: 16px; align-items: flex-start; text-align: left; } }
-body.has-player .cf-info { padding-left: 150px; }
 .cf-cover.away { opacity: 0 !important; }
 
 /* Crate: a record turned over shows its back, with the tracks */
-.cf-flip { position: absolute; inset: 0; z-index: 5; display: grid; place-items: center; perspective: 1400px; background: rgb(0 0 0 / 0); transition: background .45s; }
+.cf-flip { position: absolute; inset: 0; z-index: 5; display: grid; place-items: center; perspective: 900px; background: rgb(0 0 0 / 0); transition: background .6s; }
 .cf-flip.on { background: rgb(0 0 0 / .72); }
 .fl-card {
   position: relative; width: min(560px, calc(100vw - 32px)); height: min(calc(100% - 96px), 560px); margin-top: 16px;
-  transform-style: preserve-3d; -webkit-transform-style: preserve-3d; transition: transform .55s cubic-bezier(.3, .7, .2, 1);
+  transform-style: preserve-3d; -webkit-transform-style: preserve-3d;
 }
 .fl-front, .fl-back { position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden; border-radius: 4px; overflow: hidden; }
-.fl-front { background: #1c1c1e; }
+.fl-front { background: #1c1c1e; transform: rotateY(0deg); }
 .fl-front img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .fl-back {
   transform: rotateY(180deg); overflow-y: auto; overscroll-behavior: contain; -webkit-overflow-scrolling: touch;
