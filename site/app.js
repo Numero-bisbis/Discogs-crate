@@ -1630,7 +1630,6 @@
     if (!$('#drawer').classList.contains('open')) {
       drawerScroll = window.scrollY;
       document.body.classList.add('locked');
-      document.body.style.top = `-${drawerScroll}px`;
       try { history.pushState({ drawer: 1 }, ''); drawerPushed = true; } catch { drawerPushed = false; }
     }
     clearTimeout(hideDrawer._t);
@@ -1644,7 +1643,6 @@
     clearTimeout(hideDrawer._t);
     hideDrawer._t = setTimeout(() => { if (!d.classList.contains('open')) d.hidden = true; }, reduceMotion() ? 0 : 260);
     document.body.classList.remove('locked');
-    document.body.style.top = '';
     window.scrollTo(0, drawerScroll);
     drawerPushed = false;
     if (view === 'tracks') renderTracks();
