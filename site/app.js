@@ -838,18 +838,18 @@
     card.style.transform = '';
     const to = card.getBoundingClientRect(), from = slot.getBoundingClientRect();
     const dx = from.left + from.width / 2 - to.left - to.width / 2, dy = from.top + from.height / 2 - to.top - to.height / 2;
-    const sq = Math.min(to.height, from.width * 1.15);
-    const f = (x, y, sx, sy, r) => `translate(${x.toFixed(1)}px,${y.toFixed(1)}px) scale(${sx.toFixed(4)},${sy.toFixed(4)}) rotateY(${r}deg)`;
-    const mx = (sq * 1.12) / to.width, my = (sq * 1.04) / to.height;
+    // The front is a square in the middle of the card, so scaling evenly keeps the artwork square all the way out
+    const s0 = from.height / to.height, s1 = Math.min(1, (from.height * 1.15) / to.height), s2 = s1 * 1.08;
+    const f = (x, y, sc, r) => `translate(${x.toFixed(1)}px,${y.toFixed(1)}px) scale(${sc.toFixed(4)},${sc.toFixed(4)}) rotateY(${r}deg)`;
     return {
       a: [
-        { transform: f(dx, dy, from.width / to.width, from.height / to.height, 0), offset: 0 },
-        { transform: f(0, -8, sq / to.width, sq / to.height, 0), offset: 0.5, easing: 'cubic-bezier(.45,0,.3,1)' },
-        { transform: f(0, -4, mx, my, 90), offset: 1 },
+        { transform: f(dx, dy, s0, 0), offset: 0 },
+        { transform: f(0, -8, s1, 0), offset: 0.5, easing: 'cubic-bezier(.45,0,.3,1)' },
+        { transform: f(0, -4, s2, 90), offset: 1 },
       ],
       b: [
-        { transform: f(0, -4, mx, my, -90), offset: 0, easing: 'cubic-bezier(.2,.6,.25,1)' },
-        { transform: f(0, 0, 1, 1, 0), offset: 1 },
+        { transform: f(0, -4, s2, -90), offset: 0, easing: 'cubic-bezier(.2,.6,.25,1)' },
+        { transform: f(0, 0, 1, 0), offset: 1 },
       ],
     };
   }
@@ -874,10 +874,10 @@
     $('.fl-back', box).scrollTop = 0;
     const seq = FL.seq = (FL.seq || 0) + 1;
     card.dataset.face = 'front';
-    await flipRun(card, FL.frames.a, 560);
+    await flipRun(card, FL.frames.a, 380);
     if (seq !== FL.seq) return;
     card.dataset.face = 'back';
-    await flipRun(card, FL.frames.b, 420);
+    await flipRun(card, FL.frames.b, 300);
   }
   async function flipClose(now) {
     if (!FL.open) return;
@@ -889,10 +889,10 @@
     if (now) { done(); return; }
     card.getAnimations().forEach((a) => a.cancel());
     card.dataset.face = 'back';
-    await flipRun(card, rev(FL.frames.b), 320);
+    await flipRun(card, rev(FL.frames.b), 230);
     if (seq !== FL.seq) return done();
     card.dataset.face = 'front';
-    await flipRun(card, rev(FL.frames.a), 480);
+    await flipRun(card, rev(FL.frames.a), 340);
     done();
   }
   function wireCrate() {

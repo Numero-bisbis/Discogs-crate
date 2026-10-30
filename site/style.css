@@ -611,7 +611,7 @@ body.crate-on { overflow: hidden; }
 }
 .fl-front, .fl-back { position: absolute; inset: 0; border-radius: 4px; overflow: hidden; }
 .fl-card[data-face="front"] .fl-back, .fl-card[data-face="back"] .fl-front { visibility: hidden; }
-.fl-front { background: #1c1c1e; }
+.fl-front { background: #1c1c1e; inset: 0 auto; left: 50%; width: auto; height: 100%; aspect-ratio: 1; transform: translateX(-50%); border-radius: 2px; }
 .fl-front img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .fl-back {
   overflow-y: auto; overscroll-behavior: contain; -webkit-overflow-scrolling: touch;
