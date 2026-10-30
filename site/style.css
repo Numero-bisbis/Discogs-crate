@@ -467,9 +467,22 @@ body.has-player .drawer-panel { padding-bottom: calc(var(--player-h, 280px) + 32
   .rec-head > div:last-child { min-width: 0; width: 100%; }
   .rec-head > img, .rec-nocover { width: min(250px, 66vw); height: min(250px, 66vw); }
   .tags { justify-content: center; }
-  table.tl th:nth-child(3), table.tl td:nth-child(3) { display: none; }
-  table.tl th, table.tl td { padding: 9px 5px; }
-  table.tl td:first-child, table.tl th:first-child { padding-left: 12px; }
+  /* A record's track list fits the screen: position, time and source move under the title, nothing scrolls sideways */
+  table.tl { width: 100%; font-size: 14px; }
+  table.tl th:nth-child(1), table.tl td:nth-child(1),
+  table.tl th:nth-child(3), table.tl td:nth-child(3),
+  table.tl th:nth-child(6), table.tl td:nth-child(6) { display: none; }
+  table.tl th, table.tl td { padding: 8px 4px; }
+  table.tl td:nth-child(2), table.tl th:nth-child(2) { padding-left: 10px; width: 100%; max-width: 0; }
+  table.tl td:last-child, table.tl th:last-child { padding-right: 10px; }
+  table.tl .tt { gap: 6px; }
+  table.tl .tt > div { overflow: hidden; }
+  table.tl .tt b { font-size: 15px; font-weight: 500; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; line-height: 1.25; }
+  table.tl .s-only { display: block; font-size: 12px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  /* With Spotify on, the dimmed YouTube search button makes way (a linked video stays) */
+  table.tl .tt:has(.spb) .ytb.none { display: none; }
+  table.tl .add { width: 28px; height: 28px; padding: 0; border-radius: 50%; font-size: 0; }
+  table.tl .add::before { content: "+"; font-size: 19px; }
   .bpm-in { width: 48px; } .key-in { width: 44px; }
 
   /* Tracks: artist sits under the title; time, year and label are dropped to save width */
@@ -523,6 +536,11 @@ body.has-player .drawer-panel { padding-bottom: calc(var(--player-h, 280px) + 32
 .player.sp .sp-ctl { padding: 0; }
 .player.sp .sp-bar { position: absolute; top: 0; left: 0; right: 0; height: 3px; border-radius: 0; background: rgb(255 255 255 / .1); }
 .player.sp .sp-bar i { border-radius: 0; background: #1db954; }
+/* a taller invisible strip makes the thin line easy to grab; it thickens while you drag */
+.player.sp .sp-bar { overflow: visible; cursor: pointer; touch-action: none; z-index: 2; transition: height .15s; }
+.player.sp .sp-bar::before { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 18px; }
+.player.sp .sp-bar.seeking { height: 7px; }
+.player.sp .sp-bar.seeking i { transition: none; }
 .player.sp .sp-times { display: none; }
 .player.sp .sp-btns { position: absolute; top: 0; right: 42px; height: 60px; gap: 0; margin: 0; }
 .player.sp .sp-btns button { width: 40px; height: 40px; }

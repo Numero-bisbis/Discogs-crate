@@ -461,6 +461,7 @@
         <div class="sp-btns"><button data-spc="previous" aria-label="Previous track">${SP_PREV}</button><button data-spc="toggle" class="sp-main" aria-label="Pause">${SP_PAUSE}</button><button data-spc="next" aria-label="Next track">${SP_NEXT}</button></div>
         <a class="sp-open" href="${spOpenUrl(body)}" target="_blank" rel="noopener">Open in Spotify ↗</a></div>`;
       $$('#player [data-spc]').forEach((b) => (b.onclick = () => spControl(b.dataset.spc)));
+      spSeekBar($('#player .sp-bar'));
       SP.body = body;
       await spStart(body, key);
       clearInterval(SP.poll);
@@ -538,7 +539,7 @@
   }
   function spTick() {
     const a = SP.at, bar = $('#player .sp-bar i');
-    if (!a || !bar) return;
+    if (!a || !bar || SP.drag != null) return;
     const pos = Math.min(a.dur || Infinity, a.pos + (a.paused ? 0 : performance.now() - a.t));
     bar.style.width = a.dur ? `${(pos / a.dur) * 100}%` : '0';
     $('#player .sp-pos').textContent = fmtMs(pos);
@@ -555,6 +556,42 @@
     spTick();
     if (now !== true && (SP.polls = (SP.polls || 0) + 1) % 3) return;
     try { const st = await sp('/me/player'); if (st && st.item) spShow(st.item.uri, !st.is_playing, st.progress_ms, st.item.duration_ms, st.item.name); } catch { /* try again next tick */ }
+  }
+  // The progress line doubles as a scrubber: touch or drag along it, let go, and Spotify jumps there.
+  function spSeekBar(bar) {
+    const frac = (ev) => { const r = bar.getBoundingClientRect(); return Math.max(0, Math.min(1, (ev.clientX - r.left) / r.width)); };
+    bar.onpointerdown = (e) => {
+      if (!SP.at || !SP.at.dur || SP.retry) return;
+      e.preventDefault();
+      bar.setPointerCapture(e.pointerId);
+      bar.classList.add('seeking');
+      const small = $('#player .pl-info small'), was = small.textContent;
+      const show = (ev) => {
+        SP.drag = frac(ev);
+        bar.firstElementChild.style.width = `${SP.drag * 100}%`;
+        small.textContent = `${fmtMs(SP.drag * SP.at.dur)} / ${fmtMs(SP.at.dur)}`;
+      };
+      show(e);
+      bar.onpointermove = show;
+      bar.onpointerup = bar.onpointercancel = (ev) => {
+        bar.onpointermove = bar.onpointerup = bar.onpointercancel = null;
+        bar.classList.remove('seeking');
+        small.textContent = was;
+        const f = SP.drag;
+        SP.drag = null;
+        if (ev.type === 'pointerup' && f != null) spSeek(Math.round(f * SP.at.dur));
+        else spTick();
+      };
+    };
+  }
+  async function spSeek(ms) {
+    SP.at = { ...SP.at, pos: ms, t: performance.now() };
+    spTick();
+    try {
+      if (canSdk && SP.sdk) await SP.sdk.seek(ms);
+      else await sp(`/me/player/seek?position_ms=${ms}${SP.dev ? `&device_id=${encodeURIComponent(SP.dev)}` : ''}`, { method: 'PUT' });
+    } catch (e) { toast('Spotify: ' + e.message); }
+    if (!canSdk) setTimeout(() => spPoll(true), 800);
   }
   async function spControl(what) {
     if (SP.retry) { SP.retry(); return; }
@@ -814,7 +851,7 @@
     const mix = currentMix();
     const rows = r.tracks.map((t) => {
       const e = eff(t);
-      return `<tr data-k="${esc(t.k)}"><td class="pos">${esc(t.pos)}</td><td><div class="tt">${playBtn(t)}<div><b>${esc(t.title)}</b>${t.artist !== r.artist ? `<br><small>${esc(t.artist)}</small>` : ''}</div></div></td>
+      return `<tr data-k="${esc(t.k)}"><td class="pos">${esc(t.pos)}</td><td><div class="tt">${playBtn(t)}<div><b>${esc(t.title)}</b>${t.artist !== r.artist ? `<br><small>${esc(t.artist)}</small>` : ''}<small class="s-only">${esc(t.pos)}${t.dur ? ' · ' + fmtDur(t.dur) : ''} ${srcTag(e)}</small></div></div></td>
         <td class="num">${fmtDur(t.dur)}</td>
         <td class="num"><input class="bpm-in" value="${e.bpm ?? ''}" placeholder="BPM" inputmode="numeric"></td>
         <td><input class="key-in" value="${e.cam ?? ''}" placeholder="Key" title="${esc(e.key || 'Type 8A, Am, F#m…')}"></td><td>${srcTag(e)}</td>
