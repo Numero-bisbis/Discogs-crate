@@ -832,21 +832,33 @@
     return `<div class="fl-head">${url ? `<img src="${esc(url)}" alt="">` : ''}<div><b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small></div><button class="fl-open">Open record</button></div>
       <ol class="fl-list">${r.tracks.map((t) => { const e = eff(t); return `<li><span class="fl-pos">${esc(t.pos)}</span><div class="fl-t"><b>${esc(t.title)}</b>${t.artist !== r.artist ? `<small>${esc(t.artist)}</small>` : ''}</div><span class="fl-meta">${[e.bpm, e.cam].filter(Boolean).map(esc).join(' · ')}</span>${playBtn(t)}</li>`; }).join('') || '<li class="sub">No tracklist yet.</li>'}</ol>`;
   }
-  // Pulled out of the row, then turned over sideways like a sleeve in your hands.
+  // Pulled out of the row, then turned over sideways like a sleeve in your hands. The turn is two quarter turns with
+  // the faces swapped edge-on in between, so it doesn't depend on backface-visibility (unreliable on iPhone).
   function flipFrames(card, slot) {
     card.style.transform = '';
     const to = card.getBoundingClientRect(), from = slot.getBoundingClientRect();
     const dx = from.left + from.width / 2 - to.left - to.width / 2, dy = from.top + from.height / 2 - to.top - to.height / 2;
     const sq = Math.min(to.height, from.width * 1.15);
     const f = (x, y, sx, sy, r) => `translate(${x.toFixed(1)}px,${y.toFixed(1)}px) scale(${sx.toFixed(4)},${sy.toFixed(4)}) rotateY(${r}deg)`;
-    return [
-      { transform: f(dx, dy, from.width / to.width, from.height / to.height, 0), offset: 0 },
-      { transform: f(0, -8, sq / to.width, sq / to.height, 0), offset: 0.32, easing: 'cubic-bezier(.45,0,.3,1)' },
-      { transform: f(0, -4, (sq * 1.12) / to.width, (sq * 1.04) / to.height, 90), offset: 0.66, easing: 'cubic-bezier(.3,0,.25,1)' },
-      { transform: f(0, 0, 1, 1, 180), offset: 1 },
-    ];
+    const mx = (sq * 1.12) / to.width, my = (sq * 1.04) / to.height;
+    return {
+      a: [
+        { transform: f(dx, dy, from.width / to.width, from.height / to.height, 0), offset: 0 },
+        { transform: f(0, -8, sq / to.width, sq / to.height, 0), offset: 0.5, easing: 'cubic-bezier(.45,0,.3,1)' },
+        { transform: f(0, -4, mx, my, 90), offset: 1 },
+      ],
+      b: [
+        { transform: f(0, -4, mx, my, -90), offset: 0, easing: 'cubic-bezier(.2,.6,.25,1)' },
+        { transform: f(0, 0, 1, 1, 0), offset: 1 },
+      ],
+    };
   }
-  function flipOpen(i) {
+  const flipRun = (card, frames, ms, ease = 'linear') => {
+    card.style.transform = frames[frames.length - 1].transform;
+    return new Promise((ok) => { card.animate(frames, { duration: ms, easing: ease }).onfinish = ok; });
+  };
+  const rev = (frames) => [...frames].reverse().map((k) => ({ transform: k.transform, offset: 1 - k.offset }));
+  async function flipOpen(i) {
     const r = recordList[i], slot = CF.slots.find((c) => c.dataset.i === String(i));
     if (!r || !slot || FL.open) return;
     const box = $('#crate .cf-flip'), card = $('.fl-card', box);
@@ -859,20 +871,30 @@
     Object.assign(FL, { open: true, i, slot });
     slot.classList.add('away');
     box.classList.add('on');
-    card.style.transform = FL.frames[3].transform;
-    if (!reduceMotion()) card.animate(FL.frames, { duration: 950, fill: 'none' });
     $('.fl-back', box).scrollTop = 0;
+    const seq = FL.seq = (FL.seq || 0) + 1;
+    if (reduceMotion()) { card.dataset.face = 'back'; card.style.transform = FL.frames.b[1].transform; return; }
+    card.dataset.face = 'front';
+    await flipRun(card, FL.frames.a, 560);
+    if (seq !== FL.seq) return;
+    card.dataset.face = 'back';
+    await flipRun(card, FL.frames.b, 420);
   }
-  function flipClose(now) {
+  async function flipClose(now) {
     if (!FL.open) return;
     const box = $('#crate .cf-flip'), card = $('.fl-card', box), slot = FL.slot;
     FL.open = false;
+    const seq = FL.seq = (FL.seq || 0) + 1;
     box.classList.remove('on');
     const done = () => { box.hidden = true; slot.classList.remove('away'); };
     if (now || reduceMotion()) { done(); return; }
-    card.style.transform = FL.frames[0].transform;
-    const back = [...FL.frames].reverse().map((k) => ({ transform: k.transform, offset: 1 - k.offset }));
-    card.animate(back, { duration: 800, fill: 'none' }).onfinish = done;
+    card.getAnimations().forEach((a) => a.cancel());
+    card.dataset.face = 'back';
+    await flipRun(card, rev(FL.frames.b), 320);
+    if (seq !== FL.seq) return done();
+    card.dataset.face = 'front';
+    await flipRun(card, rev(FL.frames.a), 480);
+    done();
   }
   function wireCrate() {
     const el = $('#crate');
