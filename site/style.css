@@ -587,7 +587,7 @@ body.crate-on { overflow: hidden; }
 .cf-close { width: 36px; height: 36px; padding: 0 !important; display: grid; place-items: center; }
 .cf-close svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; }
 .cf-count { flex: 1; text-align: center; font-size: 13px; color: rgb(255 255 255 / .55); font-variant-numeric: tabular-nums; }
-.cf { flex: 1; position: relative; overflow: hidden; touch-action: none; cursor: grab; }
+.cf { flex: 1; position: relative; z-index: 1; overflow: hidden; touch-action: none; cursor: grab; }
 .cf:active { cursor: grabbing; }
 .cf-cover { position: absolute; left: 50%; top: 50%; width: var(--cw); height: var(--cw); margin: calc(var(--cw) / -2) 0 0 calc(var(--cw) / -2);
   will-change: transform; backface-visibility: hidden; -webkit-backface-visibility: hidden; background: #1c1c1e; border-radius: 2px;
@@ -598,3 +598,53 @@ body.crate-on { overflow: hidden; }
 .cf-grid svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 1.8; }
 .cf-info { text-align: center; padding: 6px 16px max(14px, env(safe-area-inset-bottom)); min-height: 74px; display: flex; flex-direction: column; gap: 2px; }
 .cf-info b { font-size: 17px; } .cf-info span { color: rgb(255 255 255 / .75); font-size: 15px; } .cf-info small { color: rgb(255 255 255 / .45); font-size: 12px; }
+
+/* Crate: the click wheel (bottom left) */
+.cf-wheel {
+  --wd: 116px; position: absolute; left: max(16px, env(safe-area-inset-left)); bottom: max(12px, env(safe-area-inset-bottom)); z-index: 6;
+  width: var(--wd); height: var(--wd); border-radius: 50%; touch-action: none; cursor: grab;
+  background: radial-gradient(circle, transparent 0 25%, rgb(255 255 255 / .09) 25.5% 100%); box-shadow: inset 0 0 0 .5px rgb(255 255 255 / .14);
+  color: rgb(255 255 255 / .6); font-size: 9px; font-weight: 700; letter-spacing: .08em; transition: background .15s;
+}
+.cf-wheel.held { background: radial-gradient(circle, transparent 0 25%, rgb(255 255 255 / .14) 25.5% 100%); }
+.cf-wheel > span { position: absolute; display: grid; place-items: center; pointer-events: none; }
+.cf-wheel svg { width: 13px; height: 13px; fill: currentColor; stroke: currentColor; stroke-width: 1.6; }
+.cw-menu { top: 8px; left: 0; right: 0; }
+.cw-play { bottom: 8px; left: 0; right: 0; }
+.cw-prev { left: 9px; top: 0; bottom: 0; }
+.cw-next { right: 9px; top: 0; bottom: 0; }
+.cw-center { left: 30%; top: 30%; width: 40%; height: 40%; border-radius: 50%; background: rgb(255 255 255 / .1); box-shadow: inset 0 0 0 .5px rgb(255 255 255 / .16); }
+.cf-info { padding-left: 150px; padding-right: 150px; }
+@media (max-width: 600px) { .cf-info { padding-right: 16px; align-items: flex-start; text-align: left; } }
+body.has-player .cf-info { padding-left: 150px; }
+.cf-cover.away { opacity: 0 !important; }
+
+/* Crate: a record turned over shows its back, with the tracks */
+.cf-flip { position: absolute; inset: 0; z-index: 5; display: grid; place-items: center; perspective: 1400px; background: rgb(0 0 0 / 0); transition: background .45s; }
+.cf-flip.on { background: rgb(0 0 0 / .72); }
+.fl-card {
+  position: relative; width: min(560px, calc(100vw - 32px)); height: min(calc(100% - 96px), 560px); margin-top: 16px;
+  transform-style: preserve-3d; -webkit-transform-style: preserve-3d; transition: transform .55s cubic-bezier(.3, .7, .2, 1);
+}
+.fl-front, .fl-back { position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden; border-radius: 4px; overflow: hidden; }
+.fl-front { background: #1c1c1e; }
+.fl-front img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.fl-back {
+  transform: rotateY(180deg); overflow-y: auto; overscroll-behavior: contain; -webkit-overflow-scrolling: touch;
+  background: linear-gradient(#2a2a2d, #1d1d1f); color: #fff; box-shadow: 0 20px 60px rgb(0 0 0 / .6), inset 0 0 0 .5px rgb(255 255 255 / .1);
+  --text: #fff; --muted: rgb(235 235 245 / .6); --faint: rgb(235 235 245 / .3); --fill: rgb(255 255 255 / .12); --panel3: rgb(255 255 255 / .2); --sep: rgb(255 255 255 / .1); --accent: #8a8dff;
+}
+.fl-head { position: sticky; top: 0; z-index: 1; display: flex; align-items: center; gap: 12px; padding: 12px 14px; background: rgb(42 42 45 / .92); -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px); border-bottom: .5px solid var(--sep); }
+.fl-head img { width: 52px; height: 52px; flex: none; border-radius: 3px; object-fit: cover; box-shadow: 0 2px 8px rgb(0 0 0 / .4); }
+.fl-head > div { flex: 1; min-width: 0; display: flex; flex-direction: column; line-height: 1.3; }
+.fl-head b { font-size: 16px; } .fl-head span { color: var(--muted); font-size: 13px; } .fl-head small { color: var(--faint); font-size: 11px; }
+.fl-head b, .fl-head span, .fl-head small { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.fl-open { flex: none; background: rgb(255 255 255 / .14); color: #fff; border-radius: 999px; font-size: 13px; font-weight: 600; padding: 6px 12px; }
+.fl-list { list-style: none; margin: 0; padding: 0 0 8px; }
+.fl-list li { display: flex; align-items: center; gap: 10px; padding: 7px 10px 7px 14px; }
+.fl-list li + li { border-top: .5px solid var(--sep); }
+.fl-pos { width: 24px; flex: none; color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+.fl-t { flex: 1; min-width: 0; display: flex; flex-direction: column; line-height: 1.25; }
+.fl-t b { font-weight: 500; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.fl-t small { color: var(--muted); font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.fl-meta { flex: none; color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }

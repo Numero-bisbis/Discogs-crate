@@ -777,6 +777,7 @@
     crateRender();
   }
   function closeCrate() {
+    if (FL.open) flipClose(true);
     $('#crate').hidden = true;
     document.body.classList.remove('crate-on');
     cancelAnimationFrame(CF.raf); CF.raf = 0;
@@ -792,14 +793,14 @@
     const dt = Math.min(64, now - CF.last); CF.last = now;
     if (!CF.drag) {
       const d = CF.target - CF.pos;
-      CF.pos = Math.abs(d) < 0.002 ? CF.target : CF.pos + d * (1 - Math.exp(-dt / (reduceMotion() ? 1 : 85)));
+      CF.pos = Math.abs(d) < 0.002 ? CF.target : CF.pos + d * (1 - Math.exp(-dt / (reduceMotion() ? 1 : 105)));
     }
     crateRender();
     CF.raf = CF.drag || CF.pos !== CF.target ? requestAnimationFrame(crateTick) : 0;
   }
   function crateRender() {
     const W = CF.W || 1, n = recordList.length, base = Math.round(CF.pos);
-    const gap = W * 0.56, step = W * 0.2;
+    const gap = W * 0.62, step = W * 0.16;
     CF.slots.forEach((c, j) => {
       const i = base + j - HALF;
       if (i < 0 || i >= n) { c.style.visibility = 'hidden'; return; }
@@ -811,7 +812,8 @@
       }
       const d = i - CF.pos, a = Math.abs(d), sg = Math.sign(d), k = Math.min(a, 1);
       const x = sg * (k * gap + Math.max(0, a - 1) * step);
-      c.style.transform = `translate3d(${x.toFixed(1)}px,0,0) perspective(800px) translateZ(${((1 - k) * 70).toFixed(1)}px) rotateY(${(-sg * 58 * k).toFixed(2)}deg)`;
+      // iPod look: the record in front faces you, the rest stand in two tight rows turned 70° away
+      c.style.transform = `translate3d(${x.toFixed(1)}px,0,0) perspective(700px) translateZ(${((1 - k) * 90).toFixed(1)}px) rotateY(${(-sg * 70 * k).toFixed(2)}deg)`;
       c.style.zIndex = 100 - Math.round(a * 10);
       c.style.opacity = a > HALF - 1 ? Math.max(0, HALF - a) : 1;
     });
@@ -822,6 +824,98 @@
       $('#crate .cf-info').innerHTML = `<b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small>`;
       $('#crate .cf-count').textContent = `${i + 1} of ${n}`;
     }
+  }
+  // Tap the record in front (or the wheel's centre) and it turns round like a sleeve in your hands: the back shows its tracks.
+  const FL = { open: false, i: -1, slot: null, from: '' };
+  function flipBack(r) {
+    const url = coverUrl(r);
+    return `<div class="fl-head">${url ? `<img src="${esc(url)}" alt="">` : ''}<div><b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small></div><button class="fl-open">Open record</button></div>
+      <ol class="fl-list">${r.tracks.map((t) => { const e = eff(t); return `<li><span class="fl-pos">${esc(t.pos)}</span><div class="fl-t"><b>${esc(t.title)}</b>${t.artist !== r.artist ? `<small>${esc(t.artist)}</small>` : ''}</div><span class="fl-meta">${[e.bpm, e.cam].filter(Boolean).map(esc).join(' · ')}</span>${playBtn(t)}</li>`; }).join('') || '<li class="sub">No tracklist yet.</li>'}</ol>`;
+  }
+  function flipOpen(i) {
+    const r = recordList[i], slot = CF.slots.find((c) => c.dataset.i === String(i));
+    if (!r || !slot || FL.open) return;
+    const box = $('#crate .cf-flip'), card = $('.fl-card', box);
+    const url = coverUrl(r);
+    if (url) $('.fl-front img', box).src = url; else $('.fl-front img', box).removeAttribute('src');
+    $('.fl-back', box).innerHTML = flipBack(r);
+    $('.fl-back .fl-open', box).onclick = () => openRecord(r);
+    box.hidden = false;
+    card.style.transition = 'none';
+    card.style.transform = '';
+    const to = card.getBoundingClientRect(), from = slot.getBoundingClientRect();
+    FL.from = `translate(${(from.left + from.width / 2 - to.left - to.width / 2).toFixed(1)}px,${(from.top + from.height / 2 - to.top - to.height / 2).toFixed(1)}px) scale(${(from.width / to.width).toFixed(4)},${(from.height / to.height).toFixed(4)}) rotateY(0deg)`;
+    card.style.transform = FL.from;
+    void card.offsetWidth;
+    card.style.transition = '';
+    Object.assign(FL, { open: true, i, slot });
+    slot.classList.add('away');
+    box.classList.add('on');
+    card.style.transform = 'translate(0px,0px) scale(1,1) rotateY(180deg)';
+    $('.fl-back', box).scrollTop = 0;
+  }
+  function flipClose(now) {
+    if (!FL.open) return;
+    const box = $('#crate .cf-flip'), card = $('.fl-card', box), slot = FL.slot;
+    FL.open = false;
+    box.classList.remove('on');
+    const done = () => { box.hidden = true; slot.classList.remove('away'); };
+    if (now || reduceMotion()) { done(); return; }
+    card.style.transform = FL.from;
+    setTimeout(done, 560);
+  }
+  // A click wheel, like the iPod's: run a finger round the ring to move one record per notch (faster turns skip more),
+  // press the centre to turn the record over, MENU goes back, ⏯ plays the record in front.
+  function wireWheel(w) {
+    let g = null;
+    const geo = (e) => {
+      const r = w.getBoundingClientRect(), dx = e.clientX - (r.left + r.width / 2), dy = e.clientY - (r.top + r.height / 2);
+      return { a: Math.atan2(dy, dx) * 180 / Math.PI, rad: Math.hypot(dx, dy) / (r.width / 2) };
+    };
+    const step = (k) => {
+      if (FL.open) { $('#crate .fl-back').scrollBy({ top: k * 44 }); return; }
+      crateGo(Math.round(CF.target) + k);
+    };
+    w.addEventListener('pointerdown', (e) => {
+      e.preventDefault();
+      w.setPointerCapture(e.pointerId);
+      const p = geo(e);
+      g = { ...p, acc: 0, turned: 0, t0: performance.now(), lt: performance.now() };
+      w.classList.add('held');
+    });
+    w.addEventListener('pointermove', (e) => {
+      if (!g || g.rad < 0.4) return;
+      const p = geo(e), now = performance.now();
+      let d = p.a - g.a;
+      if (d > 180) d -= 360; else if (d < -180) d += 360;
+      g.a = p.a;
+      g.turned += Math.abs(d);
+      const speed = Math.abs(d) / Math.max(8, now - g.lt) * 1000; // degrees per second
+      g.lt = now;
+      g.acc += d * (speed > 700 ? 2.5 : speed > 350 ? 1.6 : 1);
+      const NOTCH = 20;
+      while (g.acc >= NOTCH) { g.acc -= NOTCH; step(1); }
+      while (g.acc <= -NOTCH) { g.acc += NOTCH; step(-1); }
+    });
+    const end = (e) => {
+      if (!g) return;
+      w.classList.remove('held');
+      const tap = g.turned < 10 && performance.now() - g.t0 < 600, p = g;
+      g = null;
+      if (!tap || e.type !== 'pointerup') return;
+      const r = recordList[Math.round(CF.pos)];
+      if (p.rad < 0.4) { FL.open ? flipClose() : flipOpen(Math.round(CF.pos)); return; }
+      const a = p.a;
+      if (a >= -135 && a < -45) FL.open ? flipClose() : closeCrate();
+      else if (a >= -45 && a < 45) step(1);
+      else if (a >= 135 || a < -135) step(-1);
+      else if (r && r.tracks.length) {
+        if (spOn()) spPlay(r.tracks.map((t) => t.k), 0, r);
+        else previewTrack(r.tracks[0].k);
+      }
+    };
+    w.addEventListener('pointerup', end);
+    w.addEventListener('pointercancel', end);
   }
   function wireCrate() {
     const el = $('#crate');
@@ -851,7 +945,7 @@
         const hit = document.elementFromPoint(e.clientX, e.clientY), c = hit && hit.closest('.cf-cover');
         const i = c && c.dataset.i !== '' ? +c.dataset.i : null;
         CF.pos = g.pos;
-        if (i === Math.round(CF.pos)) openRecord(recordList[i]); else if (i != null) crateGo(i); else crateGo(Math.round(CF.pos));
+        if (i === Math.round(CF.pos)) flipOpen(i); else if (i != null) crateGo(i); else crateGo(Math.round(CF.pos));
         return;
       }
       const [t0, x0] = g.samples[0], [t1, x1] = g.samples[g.samples.length - 1];
@@ -870,15 +964,18 @@
       clearTimeout(wheelT);
       wheelT = setTimeout(() => crateGo(Math.round(CF.pos)), 120);
     }, { passive: false });
-    $('.cf-close', el).onclick = closeCrate;
+    wireWheel($('.cf-wheel', el));
+    $('.cf-flip', el).addEventListener('click', (e) => { if (e.target === e.currentTarget) flipClose(); });
+    $('.cf-close', el).onclick = () => (FL.open ? flipClose() : closeCrate());
     $('.cf-grid', el).onclick = () => { store.set('crateSideways', false); closeCrate(); toast('Grid view. Tap Crate to flick through again.'); };
     $('.cf-open', el).onclick = () => openRecord(recordList[Math.round(CF.pos)]);
     document.addEventListener('keydown', (e) => {
       if (el.hidden || $('#drawer').classList.contains('open')) return;
+      if (FL.open && e.key !== 'Escape' && e.key !== 'Enter') return;
       if (e.key === 'ArrowRight') crateGo(Math.round(CF.target) + 1);
       if (e.key === 'ArrowLeft') crateGo(Math.round(CF.target) - 1);
-      if (e.key === 'Enter') openRecord(recordList[Math.round(CF.pos)]);
-      if (e.key === 'Escape') closeCrate();
+      if (e.key === 'Enter') FL.open ? flipClose() : flipOpen(Math.round(CF.pos));
+      if (e.key === 'Escape') FL.open ? flipClose() : closeCrate();
     });
     window.addEventListener('resize', () => { if (!el.hidden) { CF.W = CF.slots[0].offsetWidth; crateRender(); } });
     // Like the iPod: turn the phone sideways on Records and the crate opens, unless you chose the grid.
