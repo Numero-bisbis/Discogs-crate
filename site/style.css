@@ -146,8 +146,11 @@ td small { color: var(--muted); font-size: 13px; }
 .bpm-in:hover, .key-in:hover, .bpm-in:focus, .key-in:focus { background: var(--fill); }
 .edited { color: var(--accent); }
 .more { display: flex; margin: 18px auto; }
-table.tracks td .add { width: 28px; height: 28px; padding: 0; font-size: 18px; border-radius: 50%; }
-table.tl .add { white-space: nowrap; }
+/* Add to mix: a tinted round + like iOS list accessories; on wide screens the record list also says "Mix" */
+td .add { height: 30px; min-width: 30px; padding: 0; gap: 3px; border-radius: 15px; background: var(--accent-soft); color: var(--accent); font-size: 14px; font-weight: 600; }
+td .add svg { width: 16px; height: 16px; stroke-width: 2.4; }
+td .add:has(.al) { padding: 0 11px 0 8px; }
+td .add:hover { background: var(--accent); color: var(--accent-ink); }
 
 /* Camelot key: small coloured label like DJ software uses */
 .cam { display: inline-block; min-width: 34px; text-align: center; padding: 1px 5px; border-radius: 4px; font-size: 12px; font-weight: 600; font-variant-numeric: tabular-nums; background: hsl(var(--h) 65% 50% / .2); color: hsl(var(--h) 80% 70%); }
@@ -483,8 +486,8 @@ body.has-player .drawer-panel { padding-bottom: calc(var(--player-h, 280px) + 32
   table.tl .s-only { display: block; font-size: 12px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   /* With Spotify on, the dimmed YouTube search button makes way (a linked video stays) */
   table.tl .tt:has(.spb) .ytb.none { display: none; }
-  table.tl .add { width: 28px; height: 28px; padding: 0; border-radius: 50%; font-size: 0; }
-  table.tl .add::before { content: "+"; font-size: 19px; }
+  td .add .al { display: none; }
+  td .add:has(.al) { padding: 0; }
   .bpm-in { width: 48px; } .key-in { width: 44px; }
 
   /* Tracks: artist sits under the title; time, year and label are dropped to save width */

@@ -124,6 +124,7 @@
   const PAUSE_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13M16 5.5v13" stroke-width="3.2"/></svg>';
   const YT_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="5.5" width="19" height="13" rx="3.5"/><path d="M10 9.2v5.6l4.8-2.8z" fill="currentColor" stroke="none"/></svg>';
   const SEARCH_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg>';
+  const ADD_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 6v12M6 12h12"/></svg>';
   const SP_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9.5"/><path d="M7.5 9.6c3-.9 6.4-.6 9.1.9M8 12.6c2.5-.7 5.1-.4 7.3.8M8.6 15.4c1.9-.5 3.8-.3 5.4.6"/></svg>';
   const SP_PLAY = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10.5-6.5z" fill="currentColor"/></svg>';
   const SP_PAUSE = '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6.5" y="5" width="4" height="14" rx="1" fill="currentColor"/><rect x="13.5" y="5" width="4" height="14" rx="1" fill="currentColor"/></svg>';
@@ -855,7 +856,7 @@
         <td class="num">${fmtDur(t.dur)}</td>
         <td class="num"><input class="bpm-in" value="${e.bpm ?? ''}" placeholder="BPM" inputmode="numeric"></td>
         <td><input class="key-in" value="${e.cam ?? ''}" placeholder="Key" title="${esc(e.key || 'Type 8A, Am, F#m…')}"></td><td>${srcTag(e)}</td>
-        <td><button class="small add" title="Add to ${esc(mix ? mix.name : 'a new mix')}">+ Mix</button></td></tr>`;
+        <td><button class="small add" title="Add to ${esc(mix ? mix.name : 'a new mix')}" aria-label="Add to mix">${ADD_SVG}<span class="al">Mix</span></button></td></tr>`;
     }).join('');
     $('#drawer-body').innerHTML = `
       ${r.cover ? `<div class="rec-bg" style="background-image:url('${esc(r.cover)}')"></div>` : ''}
@@ -960,7 +961,7 @@
           <td class="num"><input class="bpm-in${e.edited ? ' edited' : ''}" value="${e.bpm ?? ''}" inputmode="numeric"></td>
           <td><input class="key-in${e.edited ? ' edited' : ''}" value="${e.cam ?? ''}" title="${esc(e.key || 'Type 8A, Am, F#m…')}"></td><td>${srcTag(e)}</td>
           <td class="num">${fmtDur(t.dur)}</td><td class="num">${t.r.year || ''}</td><td>${esc(t.r.labels[0]?.name || '')}</td>
-          <td><button class="small add" title="Add to ${esc(mix ? mix.name : 'a new mix')}">+</button></td></tr>`;
+          <td><button class="small add" title="Add to ${esc(mix ? mix.name : 'a new mix')}" aria-label="Add to mix">${ADD_SVG}</button></td></tr>`;
       }).join('')}</tbody>`;
     $$('#track-table th[data-s]').forEach((th) => (th.onclick = () => { tf.dir = tf.sort === th.dataset.s ? -tf.dir : 1; tf.sort = th.dataset.s; store.set('tf', tf); renderTracks(); }));
     $$('#track-table a.rec').forEach((a) => (a.onclick = (ev) => { ev.preventDefault(); openRecord(byKey.get(a.closest('tr').dataset.k).r); }));
@@ -1376,7 +1377,7 @@
         <td><b>${esc(t.title)}</b><br><small>${esc(t.artist)} · ${esc(t.r.title)} ${esc(t.pos)}</small>
           <br><small class="${relClass(tr.score)}">${sugScore(lt, t, tr)}${tr.pitch ? fmtPitch(tr.pitch.pct) + ' · ' : ''}${esc(tr.pitched.label)}</small></td>
         <td>${playBtn(t)}</td>
-        <td><button class="small add">+</button></td></tr>`).join('')}</tbody></table>`
+        <td><button class="small add" aria-label="Add to mix">${ADD_SVG}</button></td></tr>`).join('')}</tbody></table>`
         : '<p class="sub">No good matches yet. Suggestions need BPM and key on the last track, so add them by hand if they are missing.</p>';
     }
     if (recs.size) {
