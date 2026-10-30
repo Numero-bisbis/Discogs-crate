@@ -425,7 +425,7 @@
     spMsg('');
     try {
       let body = null;
-      SP.uris = []; SP.keys = []; SP.mode = 'list'; SP.fellBack = false;
+      SP.uris = []; SP.keys = []; SP.mode = 'list'; SP.fellBack = false; SP.ended = false; SP.seen = false; SP.skipping = null; clearTimeout(SP.endT);
       if (record) {
         const album = await spAlbum(record).catch(() => '');
         if (playing !== key) return;
@@ -516,9 +516,43 @@
   }
   const fmtMs = (ms) => { const sec = Math.max(0, Math.round(ms / 1000)); return `${Math.floor(sec / 60)}:${String(sec % 60).padStart(2, '0')}`; };
   // Shows the track Spotify is on, with where it sits in your crate.
+  // Crate only plays what's on your shelf: when the record or mix runs out, it stops instead of letting Spotify
+  // carry on with its own suggestions, and album tracks your pressing doesn't have are skipped.
+  function spEnd() {
+    clearTimeout(SP.endT);
+    if (SP.ended) return;
+    SP.ended = true;
+    if (canSdk && SP.sdk) SP.sdk.pause().catch(() => {});
+    else sp(`/me/player/pause${SP.dev ? '?device_id=' + encodeURIComponent(SP.dev) : ''}`, { method: 'PUT' }).catch(() => {});
+    if (SP.at) SP.at = { ...SP.at, pos: SP.at.dur, paused: true };
+    $('#player .pl-info small').textContent = `End of the ${SP.mode === 'album' ? 'record' : 'list'} · ▶ plays it again`;
+    const tg = $('#player [data-spc="toggle"]');
+    if (tg) { tg.innerHTML = SP_PLAY; tg.setAttribute('aria-label', 'Play again'); tg.dataset.paused = '1'; }
+    spTick();
+  }
+  function spWatchEnd(i, paused, pos, dur) {
+    clearTimeout(SP.endT);
+    if (SP.ended || paused || pos == null || !dur) return;
+    const ownedAfter = SP.keys.some((k, j) => j > i && k);
+    if (!ownedAfter) SP.endT = setTimeout(spEnd, Math.max(0, dur - pos - 250));
+  }
   function spShow(uri, paused, pos, dur, name) {
     if (!playing || !playing.startsWith('s:')) return;
+    if (SP.ended) return;
     const i = SP.uris.indexOf(uri);
+    if (uri && pos != null) {
+      if (i >= 0) SP.seen = true;
+      else if (SP.seen && !paused) { spEnd(); return; } // Spotify has moved on to something that isn't yours
+      if (i >= 0 && !SP.keys[i] && !paused && SP.mode === 'album') {
+        const nxt = SP.keys.findIndex((k, j) => j > i && k);
+        if (nxt < 0) { spEnd(); return; }
+        if (SP.skipping !== nxt) {
+          SP.skipping = nxt;
+          sp(`/me/player/play${SP.dev ? '?device_id=' + encodeURIComponent(SP.dev) : ''}`, { method: 'PUT', body: JSON.stringify({ context_uri: SP.album.uri, offset: { uri: SP.uris[nxt] } }) }).catch(() => {});
+        }
+      }
+    }
+    spWatchEnd(i, paused, pos, dur);
     const t = i >= 0 && SP.keys[i] ? byKey.get(SP.keys[i]) : null;
     if (i >= 0) SP.cur = i;
     if (t) {
@@ -588,6 +622,7 @@
   async function spSeek(ms) {
     SP.at = { ...SP.at, pos: ms, t: performance.now() };
     spTick();
+    spWatchEnd(SP.cur, SP.at.paused, ms, SP.at.dur);
     try {
       if (canSdk && SP.sdk) await SP.sdk.seek(ms);
       else await sp(`/me/player/seek?position_ms=${ms}${SP.dev ? `&device_id=${encodeURIComponent(SP.dev)}` : ''}`, { method: 'PUT' });
@@ -598,6 +633,13 @@
     if (SP.retry) { SP.retry(); return; }
     const dev = SP.dev ? `?device_id=${encodeURIComponent(SP.dev)}` : '';
     try {
+      if (what === 'toggle' && SP.ended) {
+        SP.ended = false; SP.seen = false; SP.skipping = null;
+        const first = SP.keys.find(Boolean);
+        const body = SP.mode === 'album' ? { context_uri: SP.album.uri, offset: { uri: SP.uris[SP.keys.indexOf(first)] } } : { uris: SP.uris, offset: { position: 0 } };
+        await spStart(body, playing);
+        return;
+      }
       if (what === 'toggle') {
         const paused = $('#player [data-spc="toggle"]').dataset.paused;
         if (canSdk && SP.sdk) await SP.sdk.togglePlay();
@@ -626,6 +668,7 @@
     if (canSdk && SP.sdk) SP.sdk.pause().catch(() => {});
     else if (SP.token && SP.uris.length) sp(`/me/player/pause${SP.dev ? '?device_id=' + encodeURIComponent(SP.dev) : ''}`, { method: 'PUT' }).catch(() => {});
     SP.uris = []; SP.keys = []; SP.at = null; SP.retry = null;
+    clearTimeout(SP.endT);
   }
 
   function relClass(score) {
