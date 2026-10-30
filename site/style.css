@@ -568,7 +568,8 @@ body.has-player .cf-info { padding-bottom: calc(var(--player-h, 60px) + 24px); }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  *, *::before, *::after { animation: none !important; transition: none !important; }
+  /* everywhere except Crate mode, which Fly wants animated regardless */
+  :not(.crate, .crate *), :not(.crate, .crate *)::before, :not(.crate, .crate *)::after { animation: none !important; transition: none !important; }
 }
 
 /* Landscape phones: the record panel takes the whole screen, like in portrait */

@@ -793,7 +793,7 @@
     const dt = Math.min(64, now - CF.last); CF.last = now;
     if (!CF.drag) {
       const d = CF.target - CF.pos;
-      CF.pos = Math.abs(d) < 0.002 ? CF.target : CF.pos + d * (1 - Math.exp(-dt / (reduceMotion() ? 1 : 105)));
+      CF.pos = Math.abs(d) < 0.002 ? CF.target : CF.pos + d * (1 - Math.exp(-dt / 105)); // Crate is all motion, so it animates even with Reduce Motion on (Fly's choice)
     }
     crateRender();
     CF.raf = CF.drag || CF.pos !== CF.target ? requestAnimationFrame(crateTick) : 0;
@@ -873,7 +873,6 @@
     box.classList.add('on');
     $('.fl-back', box).scrollTop = 0;
     const seq = FL.seq = (FL.seq || 0) + 1;
-    if (reduceMotion()) { card.dataset.face = 'back'; card.style.transform = FL.frames.b[1].transform; return; }
     card.dataset.face = 'front';
     await flipRun(card, FL.frames.a, 560);
     if (seq !== FL.seq) return;
@@ -887,7 +886,7 @@
     const seq = FL.seq = (FL.seq || 0) + 1;
     box.classList.remove('on');
     const done = () => { box.hidden = true; slot.classList.remove('away'); };
-    if (now || reduceMotion()) { done(); return; }
+    if (now) { done(); return; }
     card.getAnimations().forEach((a) => a.cancel());
     card.dataset.face = 'back';
     await flipRun(card, rev(FL.frames.b), 320);
