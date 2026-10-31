@@ -124,6 +124,7 @@
   const PAUSE_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13M16 5.5v13" stroke-width="3.2"/></svg>';
   const YT_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="5.5" width="19" height="13" rx="3.5"/><path d="M10 9.2v5.6l4.8-2.8z" fill="currentColor" stroke="none"/></svg>';
   const SEARCH_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg>';
+  const SWAP_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8h13M14 5l3 3-3 3M20 16H7M10 13l-3 3 3 3"/></svg>';
   const ADD_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 6v12M6 12h12"/></svg>';
   const SP_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9.5"/><path d="M7.5 9.6c3-.9 6.4-.6 9.1.9M8 12.6c2.5-.7 5.1-.4 7.3.8M8.6 15.4c1.9-.5 3.8-.3 5.4.6"/></svg>';
   const SP_PLAY = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10.5-6.5z" fill="currentColor"/></svg>';
@@ -1209,6 +1210,7 @@
         if (!tr.bpmScore || (keys && tr.pitched.score === 0)) continue;
         const fb = feedback(prev.k, c.k);
         if (fb < 0) continue;
+        if (o.minc && compat(prev, c, tr).n < +o.minc) continue;
         const step = keys ? tr.score : tr.bpmScore;
         const fit = tgt ? Math.max(0, 1 - near(c.bpm, tgt) / 0.06) : step;
         const aff = affinity(prev, c);
@@ -1257,6 +1259,7 @@
       if (!tr.bpmScore || (keys && tr.pitched.score === 0)) return null;
       const fb = feedback(prev.k, c.k);
       if (fb < 0) return null;
+      if (o.minc && compat(prev, c, tr).n < +o.minc) return null;
       const st = keys ? tr.score : tr.bpmScore;
       let sc = st * 0.35 + affinity(prev, c) * 0.15 + fb * 0.5;
       const tb = bpmT(i);
@@ -1269,6 +1272,7 @@
         if (c.r === B.r) return null;
         const tr2 = C.transition(c, B, { pitchRange: range });
         if (!tr2.bpmScore || (keys && tr2.pitched.score === 0)) return null;
+        if (o.minc && compat(c, B, tr2).n < +o.minc) return null;
         sc += (keys ? tr2.score : tr2.bpmScore) * 0.5 + affinity(c, B) * 0.2;
       }
       return sc;
@@ -1332,6 +1336,7 @@
         ${bridge ? '' : `<label class="gr"><span class="gl">Start BPM</span><input data-f="from" value="${esc(gen.from)}" inputmode="numeric"></label>
         <label class="gr"><span class="gl">End BPM</span><input data-f="to" value="${esc(gen.to ?? '')}" placeholder="Any" inputmode="numeric"></label>
         ${gen.nokeys ? '' : `<label class="gr"><span class="gl">Start key</span><select data-f="cam">${opt(camOptions(), gen.cam, 'Any')}</select></label>`}`}
+        <label class="gr"><span class="gl">Min. match <small>between tracks</small></span><select data-f="minc">${[['', 'Any'], ['50', '50 or more'], ['60', '60 or more'], ['70', '70 or more'], ['80', '80 or more'], ['90', '90 or more']].map(([v, l]) => `<option value="${v}"${String(gen.minc || '') === v ? ' selected' : ''}>${l}</option>`).join('')}</select></label>
         <div class="gr"><span class="gl">${bridge ? 'Tracks in between' : 'Tracks'}</span><div class="stepper"><button type="button" data-step="-1" aria-label="Fewer"${n <= nMin ? ' disabled' : ''}>−</button><b>${n}</b><button type="button" data-step="1" aria-label="More"${n >= nMax ? ' disabled' : ''}>+</button></div></div>
         <label class="gr"><span class="gl">Ignore keys <small>tempo only</small></span><span class="switch"><input type="checkbox" data-f="nokeys"${gen.nokeys ? ' checked' : ''}><span></span></span></label>
       </div>
@@ -1340,7 +1345,7 @@
     if (d) {
       const g = d.generated || {};
       const A = g.mode === 'bridge' && byKey.get(g.a), B = g.mode === 'bridge' && byKey.get(g.b);
-      html += `<section class="draft"><div class="draft-bar"><div><b>Draft</b> · ${A && B ? `bridge from ${esc(A.title)} to ${esc(B.title)}` : `${esc(g.style || g.genre || 'Any genre')}, ${esc(g.from)}${g.to ? '→' + esc(g.to) : '+'} BPM`}${g.nokeys ? ', keys ignored' : ''}. Reorder or remove tracks here, then save it.</div>
+      html += `<section class="draft"><div class="draft-bar"><div><b>Draft</b> · ${A && B ? `bridge from ${esc(A.title)} to ${esc(B.title)}` : `${esc(g.style || g.genre || 'Any genre')}, ${esc(g.from)}${g.to ? '→' + esc(g.to) : '+'} BPM`}${g.nokeys ? ', keys ignored' : ''}${g.minc ? `, every step ${esc(g.minc)}+` : ''}. Reorder or remove tracks here, then save it.</div>
         <div class="save-row"><input id="draft-name" value="${esc(d.name)}" aria-label="Mix name" placeholder="Name this mix">
         <button class="primary" data-a="save">Save to My mixes</button><button data-a="regen">Regenerate</button><button data-a="discard">Clear</button></div></div>
         ${mixBodyHtml(d)}</section>`;
@@ -1444,11 +1449,12 @@
     return `<b class="cscore ${cs.n >= 75 ? 'good' : cs.n >= 50 ? 'ok' : 'bad'}" title="${esc(cs.why + ': ' + cs.detail)}">${cs.n}</b> `;
   }
 
+  const openTrans = new Set(); // transition details left open, kept across redraws
   function transitionHtml(a, b) {
     const tr = C.transition(a, b, { pitchRange: settings.pitchRange });
     const cs = compat(a, b, tr);
     const cls = cs.n >= 75 ? 'good' : cs.n >= 50 ? 'ok' : 'bad';
-    const bits = [`<span class="score ${cls}" title="${esc(cs.detail)}"><b>${cs.n}</b> ${esc(cs.why)}</span>`];
+    const bits = [`<span class="score ${cls}">${esc(cs.why)} <small>· ${esc(cs.detail)}</small></span>`];
     if (tr.pitch) {
       const pct = tr.pitch.pct;
       bits.push(`<span class="${relClass(tr.bpmScore)}">${a.bpm} → ${b.bpm} BPM${tr.pitch.mult !== 1 ? (tr.pitch.mult === 2 ? ' (double-time)' : ' (half-time)') : ''} · ${fmtPitch(pct)}${Math.abs(pct) > settings.pitchRange ? ' (beyond ±' + settings.pitchRange + '%)' : ''}</span>`);
@@ -1463,7 +1469,10 @@
     if (a.snd && b.snd) { const sim = soundSim(a.snd, b.snd); bits.push(`<span class="${sim > 0.55 ? 'good' : sim > 0.2 ? 'ok' : 'bad'}">sound ${sim > 0.55 ? 'very close' : sim > 0.2 ? 'related' : 'contrasting'}</span>`); }
     const fb = feedback(a.k, b.k);
     const fbBtns = `<span class="fb"><button class="${fb > 0 ? 'on' : ''}" data-fa="${esc(a.k)}" data-fbk="${esc(b.k)}" data-v="1" aria-label="This transition works" title="Works well: the generator will reuse it">${THUMB_SVG}</button><button class="down${fb < 0 ? ' on' : ''}" data-fa="${esc(a.k)}" data-fbk="${esc(b.k)}" data-v="-1" aria-label="This transition doesn't work" title="Doesn't work: the generator will avoid it">${THUMB_SVG}</button></span>`;
-    return `<li class="trans ${cls}">${bits.join('')}${fbBtns}</li>`;
+    // One slim line (score, tempo move, key move); tap it for the full breakdown and the thumbs.
+    const pk = pairKey(a.k, b.k);
+    const short = [tr.pitch ? fmtPitch(tr.pitch.pct) : 'BPM ?', a.cam && b.cam ? `${a.cam}→${tr.keyAfterPitch}` : 'key ?'].join(' · ');
+    return `<li class="trans ${cls}"><details data-pk="${esc(pk)}"${openTrans.has(pk) ? ' open' : ''}><summary><b class="tsc">${cs.n}</b><span>${esc(short)}</span>${fb ? `<i class="tfb ${fb > 0 ? 'up' : 'down'}">${THUMB_SVG}</i>` : ''}<svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></summary><div class="tdet">${bits.join('')}${fbBtns}</div></details></li>`;
   }
 
   // Track list, transitions, records to pull and next-track ideas for a mix or the draft.
@@ -1480,7 +1489,7 @@
         ${t.r.thumb ? `<img src="${esc(t.r.thumb)}" alt="" loading="lazy">` : '<span class="noimg"></span>'}
         <div class="ti"><b>${esc(t.title)}</b><span>${esc(t.artist)}</span><small>${esc(t.r.title)} · ${esc(t.r.labels[0]?.catno || '')} · side ${esc(t.side || '?')}, <b>${esc(t.pos)}</b></small></div>
         <div class="tk">${playBtn(t)}<span class="bpm">${t.bpm ? t.bpm : '–'}</span>${camBadge(t.cam, t.key)}</div>
-        <div class="mv"><button class="small" data-up="${i}" aria-label="Move up">↑</button><button class="small" data-down="${i}" aria-label="Move down">↓</button><button class="small" data-rm="${i}" aria-label="Remove">×</button></div></li>`;
+        <div class="mv"><button class="small" data-up="${i}" aria-label="Move up">↑</button><button class="small" data-down="${i}" aria-label="Move down">↓</button><button class="small" data-swap="${i}" aria-label="Swap for another track that fits here" title="Swap for another track that fits here">${SWAP_SVG}</button><button class="small" data-rm="${i}" aria-label="Remove">×</button></div></li>`;
     });
     html += '</ol>';
     if (!items.length) html += '<p class="sub">Add tracks with the <b>+</b> button in Records or Tracks.</p>';
@@ -1506,6 +1515,34 @@
     return html;
   }
 
+  // Swap: the track that best fits between its neighbours (compatibility in and out), from the same genre and
+  // style as the mix when it was generated. Swapping the same spot again moves on to the next best, never back.
+  const swapTried = new Map();
+  function swapTrack(m, i) {
+    const cur = trackObj(m.tracks[i]), prev = i > 0 ? trackObj(m.tracks[i - 1]) : null, next = trackObj(m.tracks[i + 1]);
+    const g = m.generated || {}, keys = !g.nokeys;
+    const id = `${m.id || 'draft'}:${i}`;
+    const tried = swapTried.get(id) || new Set();
+    if (cur) tried.add(cur.k);
+    swapTried.set(id, tried);
+    const inMix = new Set(m.tracks);
+    const fit = (a, b) => (a && b ? compat(a, b, C.transition(a, b, { pitchRange: settings.pitchRange })).n : null);
+    let best = null, bestS = -1;
+    for (const t0 of TRACKS) {
+      if (inMix.has(t0.k) || tried.has(t0.k)) continue;
+      const c = trackObj(t0.k);
+      if (!c.bpm || (keys && !c.cam)) continue;
+      if ((g.genre && !c.r.genres.includes(g.genre)) || (g.style && !c.r.styles.includes(g.style))) continue;
+      if ((prev && c.r === prev.r) || (next && c.r === next.r)) continue;
+      const ins = [fit(prev, c), fit(c, next)].filter((x) => x != null);
+      const sc = ins.length ? Math.min(...ins) * 0.6 + (ins.reduce((x, y) => x + y, 0) / ins.length) * 0.4 : (cur && cur.bpm ? 100 - Math.abs(c.bpm - cur.bpm) : 50);
+      if (sc > bestS) { best = c; bestS = sc; }
+    }
+    if (!best) { toast('Nothing else fits that spot. Try removing it instead'); return; }
+    m.tracks[i] = best.k;
+    saveUser();
+    toast(`Swapped in ${best.title} · ${best.artist}`);
+  }
   function wireMixBody(root, m, rerender, add) {
     const spm = $('[data-spmix]', root);
     if (spm) spm.onclick = () => spPlay(m.tracks.filter((k) => byKey.has(k)));
@@ -1514,6 +1551,8 @@
     $$('[data-down]', root).forEach((b) => (b.onclick = () => move(+b.dataset.down, +b.dataset.down + 1)));
     $$('[data-rm]', root).forEach((b) => (b.onclick = () => { m.tracks.splice(+b.dataset.rm, 1); saveUser(); rerender(); }));
     wireDrag(root, move);
+    $$('[data-swap]', root).forEach((b) => (b.onclick = () => { swapTrack(m, +b.dataset.swap); rerender(); }));
+    $$('details[data-pk]', root).forEach((d) => (d.ontoggle = () => (d.open ? openTrans.add(d.dataset.pk) : openTrans.delete(d.dataset.pk))));
     $$('table.sug .add', root).forEach((b) => (b.onclick = () => add(b.closest('tr').dataset.k)));
     $$('.fb button', root).forEach((b) => (b.onclick = () => {
       const key = pairKey(b.dataset.fa, b.dataset.fbk), v = +b.dataset.v;

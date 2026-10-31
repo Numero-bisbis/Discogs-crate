@@ -235,11 +235,21 @@ ol.mix { list-style: none; padding: 0; margin: 12px 0 28px; }
 .mv button { width: 30px; height: 30px; padding: 0; background: none; color: var(--muted); }
 .mv button:hover { color: var(--accent); }
 /* the step between two tracks: a quiet line of text, coloured by how easy the blend is */
-.trans { display: flex; flex-wrap: wrap; align-items: center; gap: 2px 12px; font-size: 12px; padding: 10px 14px 10px 84px; position: relative; background: transparent; }
+.trans { font-size: 12px; padding: 3px 14px 3px 84px; position: relative; background: transparent; }
+.trans summary { display: inline-flex; align-items: center; gap: 8px; list-style: none; cursor: pointer; color: var(--muted); padding: 4px 8px 4px 0; border-radius: 6px; font-variant-numeric: tabular-nums; }
+.trans summary::-webkit-details-marker { display: none; }
+.trans .tsc { font-weight: 700; min-width: 20px; }
+.trans.good .tsc { color: var(--good); } .trans.ok .tsc { color: var(--ok); } .trans.bad .tsc { color: var(--bad); }
+.trans .chev { width: 12px; height: 12px; stroke-width: 2.4; color: var(--faint); transition: transform .15s; }
+.trans details[open] .chev { transform: rotate(90deg); }
+.trans .tfb svg { width: 12px; height: 12px; } .trans .tfb.up { color: var(--good); } .trans .tfb.down { color: var(--bad); } .trans .tfb.down svg { transform: rotate(180deg); }
+.tdet { display: flex; flex-wrap: wrap; align-items: center; gap: 2px 12px; padding: 2px 0 8px; }
+.tdet .score small { color: var(--faint); }
 .trans::before { content: ""; position: absolute; left: 42px; top: 0; bottom: 0; width: 3px; border-radius: 2px; background: var(--faint); opacity: .7; }
 .trans.good::before { background: var(--good); } .trans.ok::before { background: var(--ok); } .trans.bad::before { background: var(--bad); }
 .trans span.unk { color: var(--muted); }
 .trans .score { flex-basis: 100%; color: var(--muted); }
+.mv button svg { width: 15px; height: 15px; }
 .trans .score b { font-weight: 700; font-variant-numeric: tabular-nums; margin-right: 4px; }
 table.sug .cscore { font-variant-numeric: tabular-nums; margin-right: 2px; } table.sug .cscore.good { color: var(--good); } table.sug .cscore.ok { color: var(--ok); } table.sug .cscore.bad { color: var(--bad); }
 .trans .score.good b { color: var(--good); } .trans .score.ok b { color: var(--ok); } .trans .score.bad b { color: var(--bad); }
