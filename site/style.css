@@ -199,7 +199,7 @@ html:has(body.locked), body.locked { overflow: hidden; overscroll-behavior: none
 .hint { margin: 10px 4px 0; line-height: 1.5; }
 
 /* ---------- mixes ---------- */
-.mix-layout { display: grid; grid-template-columns: 240px 1fr; gap: 28px; align-items: start; }
+.mix-layout { display: grid; grid-template-columns: 240px minmax(0, 1fr); gap: 28px; align-items: start; }
 .row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
 .mix-list { position: sticky; top: 76px; }
 .mix-list h2 { font-size: 20px; margin: 0; flex: 1; }
@@ -380,6 +380,9 @@ code { background: var(--fill); padding: 1px 5px; border-radius: 4px; font-size:
 .spb:hover, .spb.on { color: #1db954; background: var(--fill); }
 .sp-mix { display: inline-flex; align-items: center; gap: 8px; margin: 2px 0 6px; }
 .sp-mix svg { width: 18px; height: 18px; fill: none; stroke: #1db954; stroke-width: 1.8; stroke-linecap: round; }
+.mix-play { display: flex; flex-wrap: wrap; gap: 0 8px; }
+.blend-btn svg { stroke: var(--accent); }
+.mix-play + .hint { margin: 0 0 8px; }
 .sp-ctl { padding: 2px 14px 12px; }
 .sp-bar { height: 4px; border-radius: 2px; background: var(--fill); overflow: hidden; }
 .sp-bar i { display: block; height: 100%; width: 0; background: var(--text); border-radius: 2px; transition: width .9s linear; }
@@ -512,7 +515,7 @@ body.has-player .drawer-panel { padding-bottom: calc(var(--player-h, 280px) + 32
   table.tracks th, table.tracks td { padding: 9px 4px; }
   table.tracks td:nth-child(2), table.tracks th:nth-child(2) { padding-left: 12px; }
 
-  .mix-layout { grid-template-columns: 1fr; gap: 6px; }
+  .mix-layout { grid-template-columns: minmax(0, 1fr); gap: 6px; }
   .mix-list { position: static; }
   .mix-list .row h2 { display: none; }
   .mix-list .row { justify-content: flex-end; margin-top: -4px; }
@@ -546,6 +549,8 @@ body.has-player .drawer-panel { padding-bottom: calc(var(--player-h, 280px) + 32
 .player.sp .sp-ctl { padding: 0; }
 .player.sp .sp-bar { position: absolute; top: 0; left: 0; right: 0; height: 3px; border-radius: 0; background: rgb(255 255 255 / .1); }
 .player.sp .sp-bar i { border-radius: 0; background: #1db954; }
+.player.blend .sp-bar i { background: var(--accent); transition: none; }
+.player.blend .sp-bar { cursor: default; }
 /* a taller invisible strip makes the thin line easy to grab; it thickens while you drag */
 .player.sp .sp-bar { overflow: visible; cursor: pointer; touch-action: none; z-index: 2; transition: height .15s; }
 .player.sp .sp-bar::before { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 18px; }

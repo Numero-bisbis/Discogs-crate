@@ -126,6 +126,7 @@
   const SEARCH_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg>';
   const SWAP_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8h13M14 5l3 3-3 3M20 16H7M10 13l-3 3 3 3"/></svg>';
   const ADD_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 6v12M6 12h12"/></svg>';
+  const BLEND_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 17c4 0 5-10 9-10s5 10 9 10M3 7c4 0 5 10 9 10s5-10 9-10"/></svg>';
   const SP_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9.5"/><path d="M7.5 9.6c3-.9 6.4-.6 9.1.9M8 12.6c2.5-.7 5.1-.4 7.3.8M8.6 15.4c1.9-.5 3.8-.3 5.4.6"/></svg>';
   const SP_PLAY = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10.5-6.5z" fill="currentColor"/></svg>';
   const SP_PAUSE = '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6.5" y="5" width="4" height="14" rx="1" fill="currentColor"/><rect x="13.5" y="5" width="4" height="14" rx="1" fill="currentColor"/></svg>';
@@ -215,7 +216,9 @@
     m.hidden = !more;
     if (more) { m.href = more.href; m.textContent = more.label; }
     p.hidden = false;
-    p.classList.toggle('sp', key.startsWith('s:'));
+    if (isBlend() && !key.startsWith('b:')) blStop();
+    p.classList.toggle('sp', /^[sb]:/.test(key));
+    p.classList.toggle('blend', key.startsWith('b:'));
     document.body.classList.add('has-player');
     requestAnimationFrame(() => p.classList.add('show'));
     playing = key;
@@ -225,6 +228,7 @@
     const p = $('#player');
     audio.pause();
     if (playing && playing.startsWith('s:')) spStop();
+    if (isBlend()) blStop();
     p.classList.remove('show');
     $('.pl-media', p).innerHTML = '';
     p.hidden = true;
@@ -267,6 +271,324 @@
     }
   }
 
+  // ---------- Blend: the mix played DJ-style from the 30-second previews ----------
+  // Each preview is decoded and its beat grid found (beats.js). The next track is pitched so its beats run at the
+  // speed of the one playing (vinyl-style, so the key moves with it), dropped in on a beat with its bass cut, the
+  // basses swap halfway, the old track fades out, then the new one eases back to its own tempo.
+  // If the browser won't let Crate read a preview file, that step still tempo-matches and crossfades, just not on the beat.
+  const BL = { keys: [], cur: -1, sess: 0, decks: [], loads: new Map(), timers: [], tick: 0, paused: false, A: null, next: null, els: [] };
+  const BL_FADE = 16, BL_EASE = 5, BL_MAXPITCH = 0.1, BL_MINCONF = 2.8;
+  const isBlend = () => !!(playing && playing.startsWith('b:'));
+  function blCtx() {
+    if (!BL.ctx) {
+      const AC = window.AudioContext || window.webkitAudioContext;
+      BL.ctx = new AC();
+      BL.out = BL.ctx.createDynamicsCompressor(); // keeps the overlap from getting louder than either track alone
+      BL.out.threshold.value = -12; BL.out.ratio.value = 4; BL.out.attack.value = 0.01; BL.out.release.value = 0.25;
+      BL.out.connect(BL.ctx.destination);
+      for (let i = 0; i < 3; i++) { const el = new Audio(); el.setAttribute('playsinline', ''); el.preload = 'auto'; BL.els.push(el); }
+      // iPhones ignore volume on audio elements, so the fallback crossfade there is a quick overlap instead.
+      const probe = BL.els[0]; probe.volume = 0.5; BL.elVolume = probe.volume === 0.5; probe.volume = 1;
+    }
+    try { if (navigator.audioSession) navigator.audioSession.type = 'playback'; } catch { /* older Safari */ }
+    BL.ctx.resume().catch(() => {});
+    // Inside the tap: a silent blip and a silent play on each spare element, so iOS lets them all play later.
+    const s = BL.ctx.createBufferSource();
+    s.buffer = BL.ctx.createBuffer(1, 1, 22050); s.connect(BL.ctx.destination); s.start();
+    BL.els.forEach((el) => { el.src = SILENT; el.play().catch(() => {}); });
+    return BL.ctx;
+  }
+  const decodeAudio = (ab) => new Promise((res, rej) => { const p = BL.ctx.decodeAudioData(ab, res, rej); if (p && p.then) p.then(res, rej); });
+  function blLoad(k) {
+    if (BL.loads.has(k)) return BL.loads.get(k);
+    const p = (async () => {
+      const t = trackObj(k);
+      const found = t && await findPreview(byKey.get(k));
+      if (!found) return null;
+      try {
+        const r = await fetch(found.url, { mode: 'cors', credentials: 'omit' });
+        if (!r.ok) throw new Error('error ' + r.status);
+        const buf = await decodeAudio(await r.arrayBuffer());
+        const ch = buf.numberOfChannels, n = buf.length, mono = new Float32Array(n);
+        for (let c = 0; c < ch; c++) { const d = buf.getChannelData(c); for (let i = 0; i < n; i++) mono[i] += d[i] / ch; }
+        const beat = window.CrateBeats.detect(mono, buf.sampleRate, t.bpm);
+        return { k, t, from: found.from, buf, dur: buf.duration, beat: beat && beat.conf >= BL_MINCONF ? beat : null };
+      } catch {
+        return { k, t, from: found.from, url: found.url, dur: 29.5, beat: null };
+      }
+    })();
+    p.catch(() => BL.loads.delete(k));
+    BL.loads.set(k, p);
+    return p;
+  }
+
+  // A deck is one clip on the shared clock (the audio context): it starts at t0 from clip position o at rate r0,
+  // eases to rate r1 between tR1 and tR2, follows a gain envelope (and a bass cut, in dB) and stops at `end`.
+  function deckPos(d, t) {
+    if (t <= d.t0) return d.o;
+    let p = d.o + (Math.min(t, d.tR1) - d.t0) * d.r0;
+    if (t > d.tR1) {
+      const span = d.tR2 - d.tR1, u = Math.min(t, d.tR2) - d.tR1;
+      if (span > 0) p += d.r0 * u + ((d.r1 - d.r0) * u * u) / (2 * span);
+      if (t > d.tR2) p += (t - d.tR2) * d.r1;
+    }
+    return p;
+  }
+  function deckTime(d, p) { // when the clip reaches position p
+    let lo = d.t0, hi = d.t0 + 900;
+    for (let i = 0; i < 50; i++) { const m = (lo + hi) / 2; if (deckPos(d, m) < p) lo = m; else hi = m; }
+    return hi;
+  }
+  const deckRateAt = (d, t) => (t <= d.tR1 ? d.r0 : t >= d.tR2 ? d.r1 : d.r0 + ((d.r1 - d.r0) * (t - d.tR1)) / (d.tR2 - d.tR1));
+  function envAt(list, t) {
+    if (!list.length) return 1;
+    if (t <= list[0][0]) return list[0][1];
+    for (let i = 1; i < list.length; i++) {
+      const [t1, v1] = list[i], [t0, v0] = list[i - 1];
+      if (t <= t1) return t1 > t0 ? v0 + ((v1 - v0) * (t - t0)) / (t1 - t0) : v1;
+    }
+    return list[list.length - 1][1];
+  }
+  function applyEnv(param, list, now) {
+    param.cancelScheduledValues(0);
+    param.setValueAtTime(envAt(list, now), now);
+    list.filter(([t]) => t > now).forEach(([t, v]) => param.linearRampToValueAtTime(v, t));
+  }
+  function deckStart(d) {
+    const ctx = BL.ctx, now = ctx.currentTime;
+    if (d.src.buf) {
+      const s = ctx.createBufferSource(), g = ctx.createGain(), lo = ctx.createBiquadFilter();
+      s.buffer = d.src.buf;
+      lo.type = 'lowshelf'; lo.frequency.value = 200;
+      s.connect(lo); lo.connect(g); g.connect(BL.out);
+      s.playbackRate.setValueAtTime(d.r0, Math.max(now, d.t0));
+      if (d.tR2 > d.tR1) { s.playbackRate.setValueAtTime(d.r0, d.tR1); s.playbackRate.linearRampToValueAtTime(d.r1, d.tR2); }
+      Object.assign(d, { node: s, g, lo });
+      s.onended = () => { try { s.disconnect(); g.disconnect(); } catch { /* gone */ } };
+      s.start(Math.max(now, d.t0), d.o);
+      s.stop(d.end);
+    } else {
+      d.el = BL.els.find((el) => !BL.decks.some((x) => x.el === el)) || BL.els[0];
+      d.el.preservesPitch = d.el.webkitPreservesPitch = d.el.mozPreservesPitch = false; // vinyl-style, like the rest of Crate
+      d.el.src = d.src.url;
+      d.el.load();
+    }
+    BL.decks.push(d);
+    deckEnv(d);
+  }
+  function deckEnv(d) {
+    if (!d.g) return;
+    const now = BL.ctx.currentTime;
+    applyEnv(d.g.gain, d.gain, now);
+    applyEnv(d.lo.gain, d.bass, now);
+    d.node.stop(d.end);
+  }
+  function deckKill(d) {
+    if (d.node) { try { d.node.onended = null; d.node.stop(); d.node.disconnect(); d.g.disconnect(); } catch { /* not started */ } }
+    if (d.el) d.el.pause();
+    BL.decks = BL.decks.filter((x) => x !== d);
+  }
+  // Audio elements (the fallback) follow their deck's plan from a 50 ms tick.
+  function blTick() {
+    if (!BL.ctx || BL.paused) return;
+    const t = BL.ctx.currentTime;
+    for (const d of [...BL.decks]) {
+      if (t >= d.end + 0.2) { if (d.el) d.el.pause(); BL.decks = BL.decks.filter((x) => x !== d); continue; }
+      if (!d.el || t < d.t0) continue;
+      const el = d.el;
+      if (!d.started) { d.started = true; try { el.currentTime = deckPos(d, t); } catch { /* not seekable yet */ } el.play().catch(() => {}); }
+      const r = Math.round(deckRateAt(d, t) * 500) / 500;
+      if (el.playbackRate !== r) el.playbackRate = r;
+      if (BL.elVolume) el.volume = Math.max(0, Math.min(1, envAt(d.gain, t)));
+      if (t >= d.end) el.pause();
+    }
+    const A = BL.A, bar = $('#player .sp-bar i');
+    if (A && bar && (BL.tick = (BL.tick + 1) % 5) === 0) bar.style.width = `${Math.min(100, (deckPos(A, t) / A.src.dur) * 100)}%`;
+  }
+  // Runs fn when the clock reaches t (a suspended clock holds it back).
+  function blAt(t, fn) {
+    const sess = BL.sess;
+    const go = () => {
+      if (sess !== BL.sess) return;
+      const wait = t - BL.ctx.currentTime;
+      if (wait > 0.03 || BL.paused) BL.timers.push(setTimeout(go, Math.max(30, wait * 1000)));
+      else fn();
+    };
+    go();
+  }
+
+  function planFirst(L, offset) {
+    const now = BL.ctx.currentTime;
+    const o = offset != null ? offset : L.beat ? L.beat.phase : 0;
+    const d = { src: L, t0: now + 0.12, o, r0: 1, r1: 1 };
+    d.tR1 = d.tR2 = d.t0;
+    d.gain = [[d.t0, 0], [d.t0 + 0.3, 1]];
+    d.bass = [[d.t0, 0]];
+    d.end = deckTime(d, L.dur - 0.05);
+    return d;
+  }
+  // Lines B up under A: when it comes in, at what pitch, where in its clip, and the crossfade.
+  function planNext(A, L, soon) {
+    const now = BL.ctx.currentTime;
+    const aEnd = deckTime(A, A.src.dur - 0.05), bDur = L.dur - 0.05;
+    const aB = A.src.beat, bB = L.beat;
+    const earliest = Math.max(now + (soon ? 0.35 : 1.5), A.tR2);
+    let sync = !!(aB && bB && A.src.buf && L.buf), rB = 1, tOut = null, fade = 0, oB = 0, beatLen = 0.5;
+    if (sync) {
+      const k = Math.max(0.5, Math.min(2, 2 ** Math.round(Math.log2(bB.period / aB.period))));
+      rB = (A.r1 * bB.period) / (aB.period * k);
+      if (Math.abs(rB - 1) > BL_MAXPITCH) sync = false;
+    }
+    if (sync) {
+      beatLen = aB.period / A.r1;
+      oB = bB.phase + Math.max(0, Math.ceil((0.2 - bB.phase) / bB.period)) * bB.period;
+      const n0 = Math.round((A.o - aB.phase) / aB.period);
+      for (const beats of [BL_FADE, 8, 4]) {
+        fade = beats * beatLen;
+        if (oB + fade * rB > bDur) continue;
+        const nMin = Math.ceil((deckPos(A, earliest) - aB.phase) / aB.period);
+        const nMax = Math.floor((deckPos(A, aEnd - fade) - aB.phase) / aB.period);
+        if (nMax < nMin) continue;
+        let n = nMin;
+        if (!soon) { n = nMax; while (n > nMin && (n - n0) % 4) n--; } // drop it in on a 4-beat boundary of the playing track
+        tOut = deckTime(A, aB.phase + n * aB.period);
+        break;
+      }
+      if (tOut == null) sync = false;
+    }
+    if (!sync) {
+      const p = A.src.t.bpm && L.t.bpm ? C.pitchNeeded(A.src.t.bpm * A.r1, L.t.bpm) : null;
+      rB = p && Math.abs(p.pct) <= BL_MAXPITCH * 100 ? 1 + p.pct / 100 : 1;
+      fade = L.buf || BL.elVolume ? 6 : 1.2;
+      oB = 0;
+      tOut = soon ? now + 0.35 : Math.max(earliest, aEnd - fade); // as late as the clip allows, so you hear most of it
+      tOut = Math.max(now + 0.1, Math.min(tOut, aEnd - 0.3));
+      fade = Math.max(0.3, Math.min(fade, aEnd - tOut));
+    }
+    const tEnd = tOut + fade, mid = tOut + fade / 2, half = beatLen / 2;
+    const D = { src: L, t0: tOut, o: oB, r0: rB, r1: 1, tR1: tEnd, tR2: tEnd + (rB !== 1 ? BL_EASE : 0), sync, pct: (rB - 1) * 100 };
+    // No room to ease back to its own tempo before its own blend out? Then it stays pitched.
+    if (deckPos(D, D.tR2) + 6 + fade > bDur) { D.r1 = rB; D.tR2 = D.tR1; }
+    if (sync) {
+      D.gain = [[tOut, 0], [mid, 1]];
+      A.gain = [[tOut, envAt(A.gain, tOut)], [mid, 1], [tEnd, 0]];
+      D.bass = [[tOut, -30], [mid - half, -30], [mid + half, 0]];
+      A.bass = [[mid - half, envAt(A.bass, mid - half)], [mid + half, -30]];
+    } else {
+      D.gain = [[tOut, 0], [tEnd, 1]];
+      A.gain = [[tOut, envAt(A.gain, tOut)], [tEnd, 0]];
+      D.bass = [[tOut, 0]];
+    }
+    A.end = tEnd;
+    D.end = deckTime(D, bDur);
+    D.mid = mid;
+    return D;
+  }
+
+  function blUi() {
+    const A = BL.A;
+    if (!A || !isBlend()) return;
+    const t = A.src.t, i = BL.cur, n = BL.keys.length;
+    $('#player .pl-info b').textContent = t.title;
+    const how = A.mixedIn ? (A.sync ? `beatmatched ${fmtPitch(A.pct)}` : `crossfaded${Math.abs(A.pct) > 0.05 ? ' ' + fmtPitch(A.pct) : ''}`) : `${A.src.from} preview`;
+    $('#player .pl-info small').textContent = `Blend ${i + 1}/${n} · ${how} · ${t.artist}`;
+    const nx = $('#player [data-blc="next"]');
+    if (nx) nx.disabled = i >= n - 1;
+  }
+  // Starts the blend at track i, from scratch.
+  async function blStartAt(i, offset) {
+    BL.sess++;
+    BL.timers.forEach(clearTimeout); BL.timers = [];
+    [...BL.decks].forEach(deckKill);
+    BL.A = null; BL.next = null; BL.paused = false;
+    BL.ctx.resume().catch(() => {});
+    const sess = BL.sess;
+    $('#player .pl-info small').textContent = `Blend ${i + 1}/${BL.keys.length} · loading the previews…`;
+    for (; i < BL.keys.length; i++) {
+      const L = await blLoad(BL.keys[i]).catch(() => null);
+      if (sess !== BL.sess) return;
+      if (L) {
+        BL.cur = i;
+        BL.A = planFirst(L, offset);
+        deckStart(BL.A);
+        blUi();
+        blQueue(sess);
+        return;
+      }
+    }
+    spMsg('No previews found for these tracks.');
+  }
+  // Loads the next track and lines it up under the current one.
+  async function blQueue(sess, soon) {
+    const A = BL.A;
+    for (let j = BL.cur + 1; j < BL.keys.length; j++) {
+      const L = await blLoad(BL.keys[j]).catch(() => null);
+      if (sess !== BL.sess || BL.A !== A) return;
+      if (BL.keys[j + 1]) blLoad(BL.keys[j + 1]); // get the one after ready too
+      if (!L) continue;
+      if (BL.ctx.currentTime > A.end - 0.2) { BL.cur = j - 1; return blStartAt(j); } // ran out of clip while loading
+      const D = planNext(A, L, soon);
+      D.mixedIn = true;
+      deckEnv(A);
+      deckStart(D);
+      BL.next = { D, j };
+      blAt(D.mid, () => { BL.cur = j; BL.A = D; BL.next = null; blUi(); blQueue(sess); });
+      return;
+    }
+    blAt(A.end, () => {
+      $('#player .pl-info small').textContent = 'End of the mix · ▶ plays it again';
+      const tg = $('#player [data-blc="toggle"]');
+      if (tg) { tg.innerHTML = SP_PLAY; tg.dataset.ended = '1'; }
+    });
+  }
+  function blNext() {
+    if (!BL.A || BL.cur >= BL.keys.length - 1) return;
+    const now = BL.ctx.currentTime;
+    if (BL.next && BL.next.D.t0 <= now + 0.3) { toast('Already mixing into the next track'); return; }
+    if (BL.next) { deckKill(BL.next.D); BL.next = null; }
+    BL.A.gain = [[now, envAt(BL.A.gain, now)]]; BL.A.bass = [[now, 0]];
+    BL.A.end = deckTime(BL.A, BL.A.src.dur - 0.05);
+    BL.sess++;
+    blQueue(BL.sess, true);
+  }
+  function blToggle(b) {
+    if (b.dataset.ended) { delete b.dataset.ended; b.innerHTML = SP_PAUSE; blStartAt(0); return; }
+    BL.paused = !BL.paused;
+    if (BL.paused) { BL.ctx.suspend(); BL.decks.forEach((d) => d.el && d.el.pause()); }
+    else { BL.ctx.resume(); BL.decks.forEach((d) => d.el && d.started && BL.ctx.currentTime < d.end && d.el.play().catch(() => {})); }
+    b.innerHTML = BL.paused ? SP_PLAY : SP_PAUSE;
+    b.setAttribute('aria-label', BL.paused ? 'Play' : 'Pause');
+  }
+  function blPlay(keys, name) {
+    keys = keys.filter((k) => byKey.has(k));
+    if (!keys.length) return;
+    if (isBlend() && BL.keys.join() === keys.join()) { closePlayer(); return; }
+    blCtx();
+    audio.pause();
+    if (playing && playing.startsWith('s:')) spStop();
+    if (isBlend()) blStop();
+    BL.keys = keys;
+    showPlayer('b:' + keys[0], name || 'Blend', 'Blend · loading the previews…', null);
+    $('#player .pl-media').innerHTML = `<div class="sp-ctl"><div class="sp-bar"><i></i></div>
+      <div class="sp-btns"><button data-blc="prev" aria-label="Previous track">${SP_PREV}</button><button data-blc="toggle" class="sp-main" aria-label="Pause">${SP_PAUSE}</button><button data-blc="next" aria-label="Mix into the next track now">${SP_NEXT}</button></div></div>`;
+    $$('#player [data-blc]').forEach((b) => (b.onclick = () => {
+      if (b.dataset.blc === 'toggle') blToggle(b);
+      else if (b.dataset.blc === 'next') blNext();
+      else blStartAt(Math.max(0, BL.cur - (BL.A && BL.ctx.currentTime - BL.A.t0 < 3 ? 1 : 0)));
+    }));
+    clearInterval(BL.int);
+    BL.int = setInterval(blTick, 50);
+    blStartAt(0);
+  }
+  function blStop() {
+    BL.sess++;
+    BL.timers.forEach(clearTimeout); BL.timers = [];
+    [...BL.decks].forEach(deckKill);
+    BL.els.forEach((el) => el.pause());
+    clearInterval(BL.int);
+    BL.A = null; BL.next = null;
+  }
+
   // ---------- Spotify: full tracks through your own Premium account ----------
   // Login is OAuth with PKCE, so only a public client ID lives here and the token stays in this browser.
   // Computers play inside the page (Web Playback SDK); phones can't, so there Crate drives the Spotify app (Spotify Connect).
@@ -274,7 +596,7 @@
   // Matches made before Crate asked for your country's catalogue can point at releases you can't play, so they're redone once.
   const spMatches = store.get('spMatchV') === 2 ? store.get('spMatch', {}) : {};
   store.set('spMatchV', 2);
-  const SP_SCOPES = 'streaming user-read-email user-read-private user-read-playback-state user-modify-playback-state';
+  const SP_SCOPES = 'streaming user-read-email user-read-private user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public';
   const spRedirect = () => location.origin + location.pathname;
   function spOn() { return !!(settings.spClient && SP.token); }
   const canSdk = !/iPhone|iPad|iPod|Android/i.test(navigator.userAgent) && !(navigator.maxTouchPoints > 1 && /Mac/.test(navigator.userAgent));
@@ -296,7 +618,7 @@
     });
     const j = await r.json().catch(() => ({}));
     if (!r.ok) throw new Error(j.error_description || j.error || r.status);
-    SP.token = { access: j.access_token, refresh: j.refresh_token || (SP.token && SP.token.refresh), exp: Date.now() + (j.expires_in - 60) * 1000 };
+    SP.token = { access: j.access_token, refresh: j.refresh_token || (SP.token && SP.token.refresh), exp: Date.now() + (j.expires_in - 60) * 1000, scope: j.scope || (SP.token && SP.token.scope) || '' };
     store.set('sp', SP.token);
   }
   async function spCallback() {
@@ -670,6 +992,45 @@
     else if (SP.token && SP.uris.length) sp(`/me/player/pause${SP.dev ? '?device_id=' + encodeURIComponent(SP.dev) : ''}`, { method: 'PUT' }).catch(() => {});
     SP.uris = []; SP.keys = []; SP.at = null; SP.retry = null;
     clearTimeout(SP.endT);
+  }
+
+  // A mix as a private playlist in your Spotify account, so Spotify's own Mix feature can blend it.
+  // Saving again replaces the playlist's tracks rather than making another one.
+  async function spSaveList(m, btn) {
+    if (!/playlist-modify/.test((SP.token && SP.token.scope) || '')) {
+      toast('Spotify needs permission to make playlists: connecting again…');
+      setTimeout(spLogin, 1200);
+      throw new Error('scope');
+    }
+    btn.disabled = true;
+    try {
+      const keys = m.tracks.filter((k) => byKey.has(k)), uris = [];
+      for (let i = 0; i < keys.length; i++) {
+        if (!(keys[i] in spMatches)) btn.lastChild.textContent = `Finding the tracks… ${i + 1}/${keys.length}`;
+        const u = await spFind(byKey.get(keys[i]));
+        if (u) uris.push(u);
+      }
+      if (!uris.length) { toast('None of these tracks are on Spotify'); throw new Error('none'); }
+      btn.lastChild.textContent = 'Saving…';
+      let id = m.spList;
+      if (id) {
+        try { await sp(`/playlists/${id}/items`, { method: 'PUT', body: JSON.stringify({ uris: uris.slice(0, 100) }) }); }
+        catch (e) { if (e.status === 404 || e.status === 403) id = null; else throw e; }
+      }
+      if (!id) {
+        const pl = await sp('/me/playlists', { method: 'POST', body: JSON.stringify({ name: m.name, public: false, description: 'A mix from my records, made in Crate' }) });
+        id = pl.id;
+        await sp(`/playlists/${id}/items`, { method: 'POST', body: JSON.stringify({ uris: uris.slice(0, 100) }) });
+      }
+      for (let i = 100; i < uris.length; i += 100) await sp(`/playlists/${id}/items`, { method: 'POST', body: JSON.stringify({ uris: uris.slice(i, i + 100) }) });
+      m.spList = id;
+      saveUser();
+      const missing = keys.length - uris.length;
+      toast(`Saved to Spotify${missing ? ` (${missing} not on Spotify)` : ''}: open it there and tap Mix`);
+    } catch (e) {
+      if (e.message !== 'none') toast(e.status === 403 ? 'Spotify refused: connect again in Settings so Crate can make playlists' : 'Spotify: ' + e.message);
+      throw e;
+    } finally { btn.disabled = false; }
   }
 
   function relClass(score) {
@@ -1481,7 +1842,7 @@
     const recs = new Map();
     items.forEach((t) => t && recs.set(t.r.iid || t.r.id, t.r));
     const total = items.reduce((s, t) => s + ((t && t.dur) || 0), 0);
-    let html = `<p class="sub">${items.length} tracks from ${recs.size} records${total ? ` · about ${Math.round(total / 60)} min if played in full` : ''}${items.length > 1 ? ' · drag ⋮⋮ to reorder' : ''}</p>${spOn() && items.some(Boolean) ? `<button class="sp-mix" data-spmix>${SP_SVG}Play the mix on Spotify</button>` : ''}<ol class="mix">`;
+    let html = `<p class="sub">${items.length} tracks from ${recs.size} records${total ? ` · about ${Math.round(total / 60)} min if played in full` : ''}${items.length > 1 ? ' · drag ⋮⋮ to reorder' : ''}</p>${items.filter(Boolean).length > 1 ? `<div class="mix-play"><button class="sp-mix blend-btn" data-blend title="Plays the 30-second previews back to back like a DJ would: beatmatched, with the bass swapped halfway through each blend">${BLEND_SVG}Blend the previews</button>${spOn() ? `<button class="sp-mix" data-spmix>${SP_SVG}Play on Spotify</button><button class="sp-mix" data-splist title="Saves the mix as a private Spotify playlist, so you can turn on Spotify's own Mix transitions">${SP_SVG}${m.spList ? 'Update the Spotify playlist' : 'Save as Spotify playlist'}</button>` : ''}</div>${m.spList && spOn() ? `<p class="hint">On Spotify: <a href="https://open.spotify.com/playlist/${esc(m.spList)}" target="_blank" rel="noopener">open the playlist ↗</a> and tap <b>Mix</b> for Spotify's own beatmatched transitions (Premium, in the Spotify app; they don't play when Crate drives Spotify).</p>` : ''}` : spOn() && items.some(Boolean) ? `<button class="sp-mix" data-spmix>${SP_SVG}Play the mix on Spotify</button>` : ''}<ol class="mix">`;
     items.forEach((t, i) => {
       if (!t) { html += `<li class="item missing" data-i="${i}">A track that's no longer in your collection <button class="small" data-rm="${i}">Remove</button></li>`; return; }
       if (i > 0 && items[i - 1]) html += transitionHtml(items[i - 1], t);
@@ -1546,6 +1907,10 @@
   function wireMixBody(root, m, rerender, add) {
     const spm = $('[data-spmix]', root);
     if (spm) spm.onclick = () => spPlay(m.tracks.filter((k) => byKey.has(k)));
+    const bl = $('[data-blend]', root);
+    if (bl) bl.onclick = () => blPlay(m.tracks, m.name);
+    const spl = $('[data-splist]', root);
+    if (spl) spl.onclick = () => spSaveList(m, spl).catch(() => {}).then(rerender);
     const move = (i, j) => { if (j < 0 || j >= m.tracks.length) return; const [x] = m.tracks.splice(i, 1); m.tracks.splice(j, 0, x); saveUser(); rerender(); };
     $$('[data-up]', root).forEach((b) => (b.onclick = () => move(+b.dataset.up, +b.dataset.up - 1)));
     $$('[data-down]', root).forEach((b) => (b.onclick = () => move(+b.dataset.down, +b.dataset.down + 1)));

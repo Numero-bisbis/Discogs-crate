@@ -6,6 +6,8 @@ A web app for browsing a Discogs record collection and planning mixes to play on
 - **Tracks**: every track in the collection, sortable and filterable by BPM, key (Camelot), genre and style. "Mixes with" shows tracks whose key sits well with a chosen key.
 - **Mixes**: build ordered playlists from tracks you own. Every step shows how far to pitch the next record and whether the keys work, including the key shift that pitching causes on vinyl (no key lock on a turntable). Lists the records to pull and the side/position of each track, suggests what could come next, and can auto-order a mix.
 - **Edits**: BPM and key are estimates; type over any value to correct it.
+- **Blend**: plays a mix (in Generate or My mixes) from the 30-second previews like a DJ set. Crate finds each preview's beat grid in the browser (`site/beats.js`), pitches the next track so the beats line up (vinyl-style, so the key moves too), drops it in on a beat with the bass cut, swaps the basses halfway through a 16-beat blend, then eases the new track back to its own tempo. If a preview can't be analysed it still tempo-matches and crossfades.
+- **Spotify Mix**: with Spotify connected, "Save as Spotify playlist" puts the mix in your account as a private playlist; open it in the Spotify app and tap **Mix** for Spotify's own transitions (Premium; they don't play over Spotify Connect, so not when Crate drives Spotify).
 - **Snippets**: ▶ plays a quick 30-second preview (Deezer, else Apple Music) to recognise a track; the YouTube button plays the full video linked on Discogs, or searches YouTube when there isn't one.
 
 ## How it stays up to date
