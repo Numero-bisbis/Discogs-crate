@@ -553,6 +553,13 @@ body.has-player .drawer-panel { padding-bottom: calc(var(--player-h, 280px) + 32
 .player.sp .sp-bar i { border-radius: 0; background: #1db954; }
 .player.blend .sp-bar i { background: var(--accent); transition: none; }
 .player.blend .sp-bar { cursor: default; }
+.blend-btn svg[viewBox] rect { stroke: var(--accent); }
+.yb-stage { position: relative; aspect-ratio: 16 / 9; background: #000; }
+.yb-slot { position: absolute; inset: 0; opacity: 0; pointer-events: none; transition: opacity 1.2s; }
+.yb-slot.on { opacity: 1; pointer-events: auto; }
+.yb-slot iframe { display: block; width: 100%; height: 100%; border: 0; }
+.player.yblend .pl-info { margin-right: 162px; }
+@media (max-width: 720px) { .yb-stage { max-height: 190px; aspect-ratio: auto; height: 190px; } }
 /* a taller invisible strip makes the thin line easy to grab; it thickens while you drag */
 .player.sp .sp-bar { overflow: visible; cursor: pointer; touch-action: none; z-index: 2; transition: height .15s; }
 .player.sp .sp-bar::before { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 18px; }

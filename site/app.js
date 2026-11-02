@@ -217,8 +217,10 @@
     if (more) { m.href = more.href; m.textContent = more.label; }
     p.hidden = false;
     if (isBlend() && !key.startsWith('b:')) blStop();
-    p.classList.toggle('sp', /^[sb]:/.test(key));
-    p.classList.toggle('blend', key.startsWith('b:'));
+    if (isYBlend()) ybStop();
+    p.classList.toggle('sp', /^[sby]:/.test(key));
+    p.classList.toggle('blend', /^[by]:/.test(key));
+    p.classList.toggle('yblend', key.startsWith('y:'));
     document.body.classList.add('has-player');
     requestAnimationFrame(() => p.classList.add('show'));
     playing = key;
@@ -229,6 +231,7 @@
     audio.pause();
     if (playing && playing.startsWith('s:')) spStop();
     if (isBlend()) blStop();
+    if (isYBlend()) ybStop();
     p.classList.remove('show');
     $('.pl-media', p).innerHTML = '';
     p.hidden = true;
@@ -587,6 +590,156 @@
     BL.els.forEach((el) => el.pause());
     clearInterval(BL.int);
     BL.A = null; BL.next = null;
+  }
+
+  // ---------- Blend videos: the full songs from the YouTube videos linked on Discogs ----------
+  // YouTube's player gives no access to the sound and only coarse speeds, so this can't beatmatch: near the end of
+  // each song the next video starts and the two crossfade over a few bars. iPhones don't let a page set a video's
+  // volume, so there one player goes straight on to the next song instead.
+  const YB = { keys: [], cur: -1, players: [], act: 0, mixing: null, poll: 0, paused: false, sess: 0 };
+  const YB_FADE = 10, YB_IOS = /iPhone|iPad|iPod/i.test(navigator.userAgent) || (navigator.maxTouchPoints > 1 && /Mac/.test(navigator.userAgent));
+  const isYBlend = () => !!(playing && playing.startsWith('y:'));
+  let ytApi = null;
+  function ytLoadApi() {
+    if (ytApi) return ytApi;
+    ytApi = new Promise((resolve, reject) => {
+      if (window.YT && window.YT.Player) { resolve(window.YT); return; }
+      const prev = window.onYouTubeIframeAPIReady;
+      window.onYouTubeIframeAPIReady = () => { if (prev) prev(); resolve(window.YT); };
+      const s = document.createElement('script');
+      s.src = 'https://www.youtube.com/iframe_api';
+      s.onerror = () => { ytApi = null; reject(new Error('could not load the YouTube player')); };
+      document.head.appendChild(s);
+    });
+    return ytApi;
+  }
+  function ybMakePlayer(slot, id, autoplay) {
+    return new Promise((resolve) => {
+      const p = new window.YT.Player(slot, {
+        videoId: id, host: 'https://www.youtube-nocookie.com',
+        playerVars: { autoplay: autoplay ? 1 : 0, playsinline: 1, rel: 0, modestbranding: 1 },
+        events: { onReady: () => resolve(p), onStateChange: (e) => ybState(p, e.data) },
+      });
+    });
+  }
+  const ybTrack = (i) => byKey.get(YB.keys[i]);
+  const ybA = () => YB.players[YB.act], ybB = () => YB.players[1 - YB.act];
+  function ybShow(i) {
+    const t = ybTrack(i);
+    YB.cur = i;
+    $('#player .pl-info b').textContent = t.title;
+    $('#player .pl-info small').textContent = `Blend ${i + 1}/${YB.keys.length} · ${t.artist} · ${t.r.title}`;
+    $$('#player .yb-slot').forEach((el, j) => el.classList.toggle('on', j === YB.act));
+    const nx = $('#player [data-ybc="next"]');
+    if (nx) nx.disabled = i >= YB.keys.length - 1;
+  }
+  function ybState(p, st) {
+    if (!isYBlend()) return;
+    // A video that ends before the blend started (short song, or the iPhone's single player) goes straight on.
+    if (st === 0 && p === ybA() && !YB.mixing) ybNext(true);
+    if (p === ybA()) {
+      const tg = $('#player [data-ybc="toggle"]');
+      if (tg && (st === 1 || st === 2)) { YB.paused = st === 2; tg.innerHTML = YB.paused ? SP_PLAY : SP_PAUSE; }
+    }
+  }
+  const ybVol = (p, v) => { try { p.setVolume(Math.round(Math.max(0, Math.min(100, v)))); } catch { /* not ready */ } };
+  // Starts the next video on the other player and crossfades into it (equal power, so the middle doesn't dip).
+  function ybNext(cut) {
+    if (YB.mixing || YB.cur >= YB.keys.length - 1) {
+      if (YB.cur >= YB.keys.length - 1 && cut) $('#player .pl-info small').textContent = 'End of the mix';
+      return;
+    }
+    const i = YB.cur + 1, t = ybTrack(i), A = ybA();
+    if (YB_IOS || YB.players.length < 2 || cut) {
+      A.loadVideoById(t.yt);
+      ybVol(A, 100);
+      ybShow(i);
+      return;
+    }
+    const B = ybB(), sess = YB.sess;
+    ybVol(B, 0);
+    B.loadVideoById(t.yt);
+    const t0 = performance.now();
+    YB.mixing = { i };
+    $('#player .pl-info small').textContent = `Blending into ${t.title}…`;
+    const step = () => {
+      if (sess !== YB.sess || !isYBlend()) return;
+      if (YB.paused) { YB.mixing.timer = setTimeout(step, 200); return; }
+      // The fade waits until the new video is actually playing.
+      if (B.getPlayerState && B.getPlayerState() !== 1) { YB.mixing.timer = setTimeout(step, 100); return; }
+      if (!YB.mixing.started) YB.mixing.started = performance.now();
+      const x = Math.min(1, (performance.now() - YB.mixing.started) / (YB_FADE * 1000));
+      ybVol(A, 100 * Math.cos((x * Math.PI) / 2));
+      ybVol(B, 100 * Math.sin((x * Math.PI) / 2));
+      if (x < 1 && performance.now() - t0 < 60000) { YB.mixing.timer = setTimeout(step, 100); return; }
+      try { A.stopVideo(); } catch { /* gone */ }
+      ybVol(B, 100);
+      YB.act = 1 - YB.act;
+      YB.mixing = null;
+      ybShow(i);
+    };
+    step();
+  }
+  // Every half second: progress line, and start the blend when the song is near its end.
+  function ybTick() {
+    if (!isYBlend() || YB.paused) return;
+    const A = ybA();
+    if (!A || !A.getCurrentTime) return;
+    const t = ybTrack(YB.cur), pos = A.getCurrentTime() || 0, dur = A.getDuration() || (t && t.dur) || 0;
+    const bar = $('#player .sp-bar i');
+    if (bar && dur && !YB.mixing) bar.style.width = `${Math.min(100, (pos / dur) * 100)}%`;
+    if (dur > YB_FADE * 2 && !YB.mixing && !YB_IOS && pos >= dur - YB_FADE - 1.5) ybNext(false);
+  }
+  async function ybPlay(keys, name) {
+    const all = keys.filter((k) => byKey.has(k));
+    keys = all.filter((k) => byKey.get(k).yt);
+    if (!keys.length) { toast('None of these tracks has a video linked on Discogs'); return; }
+    if (isYBlend() && YB.keys.join() === keys.join()) { closePlayer(); return; }
+    audio.pause();
+    if (playing && playing.startsWith('s:')) spStop();
+    if (isBlend()) blStop();
+    YB.sess++;
+    YB.keys = keys; YB.cur = 0; YB.act = 0; YB.mixing = null; YB.paused = false; YB.players = [];
+    const first = ybTrack(0);
+    showPlayer('y:' + keys[0], first.title, `Blend 1/${keys.length} · loading YouTube…`, null);
+    $('#player .pl-media').innerHTML = `<div class="yb-stage"><div class="yb-slot on"><div></div></div>${YB_IOS ? '' : '<div class="yb-slot"><div></div></div>'}</div>
+      <div class="sp-ctl"><div class="sp-bar"><i></i></div><div class="sp-btns"><button data-ybc="prev" aria-label="Previous track">${SP_PREV}</button><button data-ybc="toggle" class="sp-main" aria-label="Pause">${SP_PAUSE}</button><button data-ybc="next" aria-label="Blend into the next track now">${SP_NEXT}</button></div></div>
+      ${all.length > keys.length ? `<p class="sub">${all.length - keys.length} of ${all.length} tracks have no video on Discogs and are left out.</p>` : ''}`;
+    $$('#player [data-ybc]').forEach((b) => (b.onclick = () => {
+      const A = ybA();
+      if (!A) return;
+      if (b.dataset.ybc === 'toggle') { if (YB.paused) { A.playVideo(); if (YB.mixing) ybB().playVideo(); } else { A.pauseVideo(); if (YB.mixing) ybB().pauseVideo(); } }
+      else if (b.dataset.ybc === 'next') ybNext(false);
+      else if (!YB.mixing) {
+        const i = (A.getCurrentTime() || 0) > 3 ? YB.cur : Math.max(0, YB.cur - 1);
+        A.loadVideoById(ybTrack(i).yt); ybVol(A, 100); ybShow(i);
+      }
+    }));
+    const sess = YB.sess;
+    try {
+      await ytLoadApi();
+      if (sess !== YB.sess) return;
+      const slots = $$('#player .yb-slot > div');
+      YB.players = await Promise.all(slots.map((el, j) => ybMakePlayer(el, j === 0 ? first.yt : (ybTrack(1) || first).yt, j === 0)));
+      if (sess !== YB.sess) return;
+      // The second player only loaded to be ready; it stays silent and paused until the first blend.
+      if (YB.players[1]) { ybVol(YB.players[1], 0); YB.players[1].pauseVideo(); }
+      ybVol(YB.players[0], 100);
+      YB.players[0].playVideo();
+      ybShow(0);
+      clearInterval(YB.poll);
+      YB.poll = setInterval(ybTick, 500);
+    } catch (e) {
+      if (sess === YB.sess) spMsg('YouTube: ' + esc(e.message));
+    }
+  }
+  function ybStop() {
+    YB.sess++;
+    clearInterval(YB.poll);
+    if (YB.mixing) clearTimeout(YB.mixing.timer);
+    YB.mixing = null;
+    YB.players.forEach((p) => { try { p.destroy(); } catch { /* gone */ } });
+    YB.players = [];
   }
 
   // ---------- Spotify: full tracks through your own Premium account ----------
@@ -1842,7 +1995,7 @@
     const recs = new Map();
     items.forEach((t) => t && recs.set(t.r.iid || t.r.id, t.r));
     const total = items.reduce((s, t) => s + ((t && t.dur) || 0), 0);
-    let html = `<p class="sub">${items.length} tracks from ${recs.size} records${total ? ` · about ${Math.round(total / 60)} min if played in full` : ''}${items.length > 1 ? ' · drag ⋮⋮ to reorder' : ''}</p>${items.filter(Boolean).length > 1 ? `<div class="mix-play"><button class="sp-mix blend-btn" data-blend title="Plays the 30-second previews back to back like a DJ would: beatmatched, with the bass swapped halfway through each blend">${BLEND_SVG}Blend the previews</button>${spOn() ? `<button class="sp-mix" data-spmix>${SP_SVG}Play on Spotify</button><button class="sp-mix" data-splist title="Saves the mix as a private Spotify playlist, so you can turn on Spotify's own Mix transitions">${SP_SVG}${m.spList ? 'Update the Spotify playlist' : 'Save as Spotify playlist'}</button>` : ''}</div>${m.spList && spOn() ? `<p class="hint">On Spotify: <a href="https://open.spotify.com/playlist/${esc(m.spList)}" target="_blank" rel="noopener">open the playlist ↗</a> and tap <b>Mix</b> for Spotify's own beatmatched transitions (Premium, in the Spotify app; they don't play when Crate drives Spotify).</p>` : ''}` : spOn() && items.some(Boolean) ? `<button class="sp-mix" data-spmix>${SP_SVG}Play the mix on Spotify</button>` : ''}<ol class="mix">`;
+    let html = `<p class="sub">${items.length} tracks from ${recs.size} records${total ? ` · about ${Math.round(total / 60)} min if played in full` : ''}${items.length > 1 ? ' · drag ⋮⋮ to reorder' : ''}</p>${items.filter(Boolean).length > 1 ? `<div class="mix-play"><button class="sp-mix blend-btn" data-blend title="Plays the 30-second previews back to back like a DJ would: beatmatched, with the bass swapped halfway through each blend">${BLEND_SVG}Blend the previews</button>${items.some((t) => t && t.yt) ? `<button class="sp-mix blend-btn" data-yblend title="Plays the full songs from the YouTube videos linked on Discogs, crossfading near the end of each one (on iPhone it goes straight on to the next song)">${YT_SVG}Blend the videos</button>` : ''}${spOn() ? `<button class="sp-mix" data-spmix>${SP_SVG}Play on Spotify</button><button class="sp-mix" data-splist title="Saves the mix as a private Spotify playlist, so you can turn on Spotify's own Mix transitions">${SP_SVG}${m.spList ? 'Update the Spotify playlist' : 'Save as Spotify playlist'}</button>` : ''}</div>${m.spList && spOn() ? `<p class="hint">On Spotify: <a href="https://open.spotify.com/playlist/${esc(m.spList)}" target="_blank" rel="noopener">open the playlist ↗</a> and tap <b>Mix</b> for Spotify's own beatmatched transitions (Premium, in the Spotify app; they don't play when Crate drives Spotify).</p>` : ''}` : spOn() && items.some(Boolean) ? `<button class="sp-mix" data-spmix>${SP_SVG}Play the mix on Spotify</button>` : ''}<ol class="mix">`;
     items.forEach((t, i) => {
       if (!t) { html += `<li class="item missing" data-i="${i}">A track that's no longer in your collection <button class="small" data-rm="${i}">Remove</button></li>`; return; }
       if (i > 0 && items[i - 1]) html += transitionHtml(items[i - 1], t);
@@ -1907,6 +2060,8 @@
   function wireMixBody(root, m, rerender, add) {
     const spm = $('[data-spmix]', root);
     if (spm) spm.onclick = () => spPlay(m.tracks.filter((k) => byKey.has(k)));
+    const yb = $('[data-yblend]', root);
+    if (yb) yb.onclick = () => ybPlay(m.tracks, m.name);
     const bl = $('[data-blend]', root);
     if (bl) bl.onclick = () => blPlay(m.tracks, m.name);
     const spl = $('[data-splist]', root);
