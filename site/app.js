@@ -1578,7 +1578,7 @@
       select('compat', 'Mixes with', allCams.map(([c]) => [c, null]), tf.compat, 'Any') +
       `<label class="f"><span>Show</span><select data-f="has">${[['', 'All tracks'], ['bpm', 'With BPM'], ['missing', 'Missing BPM/key'], ['notfound', 'Not found'], ['pending', 'Not looked up yet'], ['est', 'Estimated (check by ear)'], ['edited', 'My edits']]
         .map(([v, n]) => `<option value="${v}"${(tf.has || '') === v ? ' selected' : ''}>${n}</option>`).join('')}</select></label>` +
-      `<span class="count">${list.length} tracks</span>`;
+      `<span class="count">${list.length} tracks</span>` + decksBtn();
     $$('#track-filters select, #track-filters input').forEach((s) => (s.onchange = () => { tf[s.dataset.f] = s.value; store.set('tf', tf); trackLimit = 300; renderTracks(); }));
     wireFilterHead('track-filters', tf, TK, () => { store.set('tf', tf); trackLimit = 300; renderTracks(); });
 
@@ -2096,7 +2096,7 @@
     }
     let html = renaming
       ? `<div class="row mix-head"><input class="mix-name editing" id="rename-input" value="${esc(m.name)}" aria-label="Mix name"><div class="actions"><button class="primary small" data-a="rename-ok">Save name</button><button class="small" data-a="rename-cancel">Cancel</button></div></div>`
-      : `<div class="row mix-head"><h2 class="mix-title">${esc(m.name)}</h2><button class="small" data-a="rename">✎ Rename</button></div>`;
+      : `<div class="row mix-head"><h2 class="mix-title">${esc(m.name)}</h2><button class="small" data-a="rename">✎ Rename</button>${decksBtn()}</div>`;
     html += `<div class="actions mix-actions"><button class="small" data-a="auto" title="Reorder for smoothest BPM and key steps">Auto-order</button>
       <button class="small" data-a="dup" title="Make a copy to try a variation">Duplicate</button>
       <button class="small" data-a="copy">Copy as text</button><button class="small danger" data-a="del">Delete</button></div>`;
@@ -2368,6 +2368,17 @@
     // Back button / swipe-back closes an open record instead of leaving the app.
     window.addEventListener('popstate', () => { if ($('#drawer').classList.contains('open')) hideDrawer(); });
   }
+
+  // ---------- what the Decks view (decks.js) borrows: the Blend audio engine and the collection ----------
+  window.CrateApp = {
+    ctx: () => blCtx(), load: (k) => blLoad(k), track: (k) => trackObj(k), tracks: () => TRACKS, mix: () => currentMix(),
+    view: () => view, busy: () => $('#drawer').classList.contains('open') || !$('#crate').hidden,
+    stopPlayer: () => { if (playing) closePlayer(); },
+    pitchRange: () => settings.pitchRange || 8, cover: (r) => coverUrl(r), relation: (a, b) => C.camRelation(a, b), norm, esc, toast,
+  };
+  const DECKS_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="7" cy="12" r="4.5"/><circle cx="17" cy="12" r="4.5"/><circle cx="7" cy="12" r=".6" fill="currentColor"/><circle cx="17" cy="12" r=".6" fill="currentColor"/></svg>';
+  const decksBtn = () => `<button type="button" class="crate-btn decks-btn" title="Two turntables and a mixer for the previews. Turning the phone sideways opens it too.">${DECKS_SVG}Decks</button>`;
+  document.addEventListener('click', (e) => { if (e.target.closest('.decks-btn') && window.CrateDecks) window.CrateDecks.open(); });
 
   async function boot() {
     wire();
