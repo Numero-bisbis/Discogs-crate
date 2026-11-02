@@ -213,6 +213,8 @@ html:has(body.locked), body.locked { overflow: hidden; overscroll-behavior: none
 .mix-list small { color: var(--muted); font-variant-numeric: tabular-nums; }
 .mix-list .empty { padding: 14px; text-align: left; }
 .mix-head { justify-content: space-between; }
+.mix-head [data-a="rename"] { margin-left: auto; }
+.mix-head .decks-btn { margin-left: 8px; }
 .mix-title { margin: 0; font-size: 28px; font-weight: 700; flex: 1; min-width: 0; overflow-wrap: anywhere; line-height: 1.15; }
 .mix-name { font-size: 22px; font-weight: 600; flex: 1; min-width: 160px; }
 .actions { display: flex; gap: 6px; flex-wrap: wrap; }
@@ -647,3 +649,104 @@ body.crate-on { overflow: hidden; }
 .fl-t b { font-weight: 500; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .fl-t small { color: var(--muted); font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .fl-meta { flex: none; color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+
+/* Decks: two turntables and a mixer for the previews. Always dark, like Crate mode. */
+.decks-btn { margin-left: 8px; }
+body.decks-on { overflow: hidden; }
+.decks {
+  position: fixed; inset: 0; z-index: 40; background: #0b0b0c; color: #fff; user-select: none; -webkit-user-select: none;
+  --muted: rgb(235 235 245 / .6); --faint: rgb(235 235 245 / .3); --fill: rgb(255 255 255 / .1); --accent: #8a8dff;
+  padding: max(8px, env(safe-area-inset-top)) max(10px, env(safe-area-inset-right)) max(8px, env(safe-area-inset-bottom)) max(10px, env(safe-area-inset-left));
+}
+.decks button { background: var(--fill); color: #fff; border-radius: 10px; font-weight: 600; }
+.decks button:disabled { opacity: .35; }
+.dk-main { height: 100%; display: grid; grid-template-columns: minmax(0, 1fr) clamp(104px, 15vw, 150px) minmax(0, 1fr); gap: 10px; }
+.deck { min-width: 0; min-height: 0; display: flex; flex-direction: column; gap: 6px; }
+.dk-head { display: flex; align-items: center; gap: 8px; min-height: 38px; }
+.dk-load { flex: none; width: 36px; height: 36px; padding: 0; font-size: 16px; border-radius: 50% !important; color: var(--accent) !important; }
+.dk-name { flex: 1; min-width: 0; display: flex; flex-direction: column; line-height: 1.25; cursor: pointer; }
+.dk-name b { font-size: 14px; } .dk-name small { font-size: 12px; color: var(--muted); }
+.dk-name b, .dk-name small { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.deck.loading .dk-name small { animation: dkpulse 1s ease-in-out infinite alternate; }
+@keyframes dkpulse { to { opacity: .35; } }
+.dk-bpm { flex: none; text-align: right; display: flex; flex-direction: column; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.dk-bpm b { font-size: 18px; } .dk-bpm small { font-size: 10px; color: var(--muted); letter-spacing: .06em; }
+.dk-wave { position: relative; height: 34px; flex: none; background: rgb(255 255 255 / .05); border-radius: 6px; overflow: hidden; touch-action: none; cursor: pointer; }
+.dk-wave canvas { width: 100%; height: 100%; display: block; }
+.dk-wave i { position: absolute; top: 0; bottom: 0; width: 2px; margin-left: -1px; background: #fff; box-shadow: 0 0 0 1px rgb(0 0 0 / .4); pointer-events: none; }
+.deck.empty .dk-wave i { display: none; }
+.dk-body { flex: 1; min-height: 0; display: flex; align-items: stretch; gap: 8px; }
+.deck[data-d="1"] .dk-body { flex-direction: row-reverse; }
+.dk-plat { flex: 1; min-width: 0; min-height: 0; display: grid; place-items: center; touch-action: none; container-type: size; }
+.dk-disc {
+  width: min(100cqw, 100cqh); height: min(100cqw, 100cqh); border-radius: 50%; position: relative; will-change: transform;
+  background: repeating-radial-gradient(circle, #151517 0 1.5px, #1d1d20 1.5px 3px);
+  box-shadow: 0 0 0 3px #2a2a2d, 0 6px 24px rgb(0 0 0 / .6), inset 0 0 0 1px rgb(255 255 255 / .05);
+}
+.dk-disc::after { content: ""; position: absolute; inset: 0; border-radius: 50%; background: conic-gradient(from 30deg, transparent 0 10%, rgb(255 255 255 / .07) 14%, transparent 20% 60%, rgb(255 255 255 / .05) 64%, transparent 70%); pointer-events: none; }
+.dk-label { position: absolute; inset: 32%; border-radius: 50%; overflow: hidden; background: #3a3a3c; box-shadow: 0 0 0 2px #0b0b0c; }
+.dk-label img { width: 100%; height: 100%; object-fit: cover; display: block; pointer-events: none; }
+.dk-label img:not([src]) { visibility: hidden; }
+.dk-label::after { content: ""; position: absolute; left: 50%; top: 50%; width: 8%; height: 8%; margin: -4% 0 0 -4%; border-radius: 50%; background: #0b0b0c; }
+.dk-mark { position: absolute; left: 50%; top: 3%; width: 3px; height: 14%; margin-left: -1.5px; border-radius: 2px; background: rgb(255 255 255 / .75); }
+.deck.empty .dk-disc { opacity: .5; }
+.dk-btns { flex: none; width: 58px; display: flex; flex-direction: column; justify-content: flex-end; gap: 8px; }
+.dk-btns button { height: 40px; padding: 0; font-size: 12px; letter-spacing: .04em; text-transform: uppercase; }
+.dk-btns .dk-play { height: 52px; }
+.dk-btns .dk-play svg { width: 24px; height: 24px; }
+.dk-btns .dk-play.on { background: var(--accent); }
+.dk-btns .dk-sync.on { background: rgb(138 141 255 / .25); color: var(--accent); box-shadow: inset 0 0 0 1.5px var(--accent); }
+.dk-btns .dk-cue { color: #ffd60a; }
+.dk-pitch { flex: none; width: 40px; display: flex; flex-direction: column; align-items: center; gap: 4px; }
+.dk-pitch small { font-size: 11px; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+/* Faders: vertical ranges (pitch: minus at the top like a Technics; volume: loud at the top) */
+.decks input[type=range] { -webkit-appearance: none; appearance: none; background: none; margin: 0; touch-action: none; cursor: pointer; }
+.dk-pitch input, .mx-ch input { writing-mode: vertical-lr; flex: 1; min-height: 0; width: 34px; }
+.mx-ch input { direction: rtl; }
+.decks input[type=range]::-webkit-slider-runnable-track { background: rgb(255 255 255 / .12); border-radius: 3px; width: 4px; height: 100%; margin: 0 auto; }
+.mx-x input::-webkit-slider-runnable-track { width: 100% !important; height: 4px !important; }
+.decks input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; width: 30px; height: 16px; margin-left: -13px; border-radius: 3px; background: linear-gradient(#e5e5ea, #a1a1a6); box-shadow: 0 2px 4px rgb(0 0 0 / .6), inset 0 -1px 0 rgb(0 0 0 / .25); }
+.mx-x input::-webkit-slider-thumb { width: 18px !important; height: 30px !important; margin: -13px 0 0 !important; }
+.decks input[type=range]::-moz-range-track { background: rgb(255 255 255 / .12); border-radius: 3px; width: 4px; }
+.mx-x input::-moz-range-track { height: 4px; width: auto; }
+.decks input[type=range]::-moz-range-thumb { width: 30px; height: 16px; border: 0; border-radius: 3px; background: linear-gradient(#e5e5ea, #a1a1a6); }
+.mx-x input::-moz-range-thumb { width: 18px; height: 30px; }
+
+.mixer { min-height: 0; display: flex; flex-direction: column; align-items: stretch; gap: 8px; padding: 0 2px; }
+.dk-close { align-self: center; flex: none; width: 36px; height: 36px; padding: 0 !important; border-radius: 50% !important; display: grid; place-items: center; }
+.dk-close svg { width: 16px; height: 16px; stroke-width: 2.4; }
+.mx-chs { flex: 1; min-height: 0; display: flex; justify-content: space-around; background: rgb(255 255 255 / .04); border-radius: 10px; padding: 10px 4px 6px; }
+.mx-ch { display: flex; flex-direction: column; align-items: center; gap: 4px; min-height: 0; }
+.mx-ch small, .mx-x small { font-size: 11px; color: var(--muted); font-weight: 600; text-align: center; }
+.mx-x { flex: none; display: flex; flex-direction: column; gap: 2px; background: rgb(255 255 255 / .04); border-radius: 10px; padding: 8px 8px 4px; }
+.mx-x input { width: 100%; height: 34px; }
+
+.dk-rotate { display: none; }
+@media (orientation: portrait) and (max-width: 600px) {
+  .dk-main { display: none; }
+  .dk-rotate { display: flex; height: 100%; flex-direction: column; align-items: center; justify-content: center; gap: 16px; text-align: center; padding: 24px; color: var(--muted); }
+  .dk-rotate button { padding: 10px 18px; }
+}
+
+/* The track picker slides over the decks */
+.dk-sheet { position: absolute; inset: 0; z-index: 2; background: #1c1c1e; display: flex; flex-direction: column;
+  padding: max(8px, env(safe-area-inset-top)) max(12px, env(safe-area-inset-right)) 0 max(12px, env(safe-area-inset-left)); }
+.sh-head { display: flex; align-items: center; gap: 10px; padding-bottom: 8px; }
+.sh-head b { flex: none; font-size: 16px; }
+.sh-head input { flex: 1; min-width: 0; background: rgb(118 118 128 / .24); color: #fff; border: 0; border-radius: 10px; padding: 8px 12px; font-size: 16px; }
+.sh-head button { flex: none; padding: 8px 14px; color: var(--accent) !important; }
+.sh-tabs { display: flex; gap: 6px; padding-bottom: 8px; overflow-x: auto; scrollbar-width: none; }
+.sh-tabs button { flex: none; padding: 6px 12px; font-size: 13px; border-radius: 999px !important; max-width: 60vw; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.sh-tabs button.on { background: #fff; color: #000; }
+.sh-list { flex: 1; overflow-y: auto; overscroll-behavior: contain; -webkit-overflow-scrolling: touch; list-style: none; margin: 0 calc(-1 * max(12px, env(safe-area-inset-right))) 0 calc(-1 * max(12px, env(safe-area-inset-left))); padding: 0 0 max(12px, env(safe-area-inset-bottom)); }
+.sh-list li + li { border-top: .5px solid rgb(255 255 255 / .08); }
+.sh-list button { width: 100%; display: flex; align-items: center; gap: 10px; background: none !important; border-radius: 0 !important; padding: 7px max(14px, env(safe-area-inset-right)) 7px max(14px, env(safe-area-inset-left)); text-align: left; font-weight: 400; }
+.sh-list button.on { color: var(--accent); }
+.sh-list img, .sh-list .noimg { width: 38px; height: 38px; flex: none; border-radius: 3px; object-fit: cover; background: #3a3a3c; }
+.sh-t { flex: 1; min-width: 0; display: flex; flex-direction: column; line-height: 1.25; }
+.sh-t b { font-weight: 500; font-size: 14px; } .sh-t small { color: var(--muted); font-size: 12px; }
+.sh-t b, .sh-t small { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.sh-m { flex: none; display: flex; flex-direction: column; align-items: flex-end; font-size: 15px; font-variant-numeric: tabular-nums; line-height: 1.2; }
+.sh-m small { font-size: 11px; color: var(--muted); }
+.sh-empty { padding: 24px; text-align: center; color: var(--muted); }
