@@ -1751,31 +1751,42 @@
   // Bridge: a path from one track to another through your own records. Each step moves a fraction of the way
   // from A to B in tempo, sound and energy, and the last one has to hand over cleanly to B. A small beam search
   // keeps a few candidate paths alive so one greedy early choice can't strand the mix.
+  // Either end is optional: with only a start the mix runs on freely from it, and with only an end
+  // it's built backwards from that track, so the set lands on it.
   function generateBridge(o) {
     const A = trackObj(o.a), B = trackObj(o.b);
-    if (!A || !B) return { error: 'Pick a start and an end track first' };
-    if (A.k === B.k) return { error: 'Pick two different tracks' };
+    if (!A && !B) return { error: 'Pick a start track, an end track, or both' };
+    if (A && B && A.k === B.k) return { error: 'Pick two different tracks' };
+    // Backwards (only an end): the path grows from B, and each candidate is the track played before the last one.
+    const back = !A, anchor = A || B, both = !!(A && B);
     const keys = !o.nokeys, range = settings.pitchRange;
     const k = Math.max(1, Math.min(+o.n || 6, 20));
-    const pool = TRACKS.map((t) => trackObj(t.k)).filter((t) => t.bpm && (t.cam || !keys) && t.k !== A.k && t.k !== B.k &&
+    const pool = TRACKS.map((t) => trackObj(t.k)).filter((t) => t.bpm && (t.cam || !keys) && t.k !== A?.k && t.k !== B?.k &&
       (!o.genre || t.r.genres.includes(o.genre)) && (!o.style || t.r.styles.includes(o.style)));
-    if (pool.length < k) return { error: `Not enough tracks with BPM${keys ? ' and key' : ''} to build that bridge.` };
+    if (pool.length < k) return { error: `Not enough tracks with BPM${keys ? ' and key' : ''} to build that${both ? ' bridge' : ' mix'}.` };
     const near = (bpm, tgt) => Math.min(...[1, 2, 0.5].map((m) => Math.abs(bpm * m - tgt) / tgt));
     const f = (i) => i / (k + 1);
-    const bpmT = (i) => (A.bpm && B.bpm ? A.bpm + (B.bpm - A.bpm) * f(i) : null);
-    const vA = A.snd && A.snd.v, vB = B.snd && B.snd.v;
-    const vT = (i) => (vA && vB ? vA.map((x, j) => x + (vB[j] - x) * f(i)) : null);
-    const eA = A.snd && A.snd.e, eB = B.snd && B.snd.e;
-    const eT = (i) => (eA != null && eB != null ? eA + (eB - eA) * f(i) : null);
+    // Targets only exist between two ends; with one end, each step just picks the smoothest move.
+    const bpmT = (i) => (both && A.bpm && B.bpm ? A.bpm + (B.bpm - A.bpm) * f(i) : null);
+    const vA = A?.snd?.v, vB = B?.snd?.v;
+    const vT = (i) => (both && vA && vB ? vA.map((x, j) => x + (vB[j] - x) * f(i)) : null);
+    const eA = A?.snd?.e, eB = B?.snd?.e;
+    const eT = (i) => (both && eA != null && eB != null ? eA + (eB - eA) * f(i) : null);
     const step = (prev, c, i) => {
       if (c.r === prev.r) return null;
-      const tr = C.transition(prev, c, { pitchRange: range });
+      // Going backwards, c is played before prev, so the transition runs c → prev.
+      const [x, y] = back ? [c, prev] : [prev, c];
+      const tr = C.transition(x, y, { pitchRange: range });
       if (!tr.bpmScore || (keys && tr.pitched.score === 0)) return null;
-      const fb = feedback(prev.k, c.k);
+      const fb = feedback(x.k, y.k);
       if (fb < 0) return null;
-      if (o.minc && compat(prev, c, tr).n < +o.minc) return null;
+      if (o.minc && compat(x, y, tr).n < +o.minc) return null;
       const st = keys ? tr.score : tr.bpmScore;
       let sc = st * 0.35 + affinity(prev, c) * 0.15 + fb * 0.5;
+      if (!both) { // one end only: stay in the anchor's world and keep the energy steady
+        sc += 0.2 * st + 0.2 * (anchor.snd && c.snd ? soundFit(anchor.snd, c.snd) : affinity(anchor, c)) + 0.1 * vibeFit('', x, y);
+        return sc;
+      }
       const tb = bpmT(i);
       sc += 0.2 * (tb ? Math.max(0, 1 - near(c.bpm, tb) / 0.06) : st);
       const tv = vT(i);
@@ -1792,7 +1803,7 @@
       return sc;
     };
     const W = 6;
-    let beams = [{ path: [A], recs: new Set([A.r, B.r]), s: 0 }];
+    let beams = [{ path: [anchor], recs: new Set([anchor.r, ...(both ? [B.r] : [])]), s: 0 }];
     for (let i = 1; i <= k; i++) {
       const next = [];
       for (const bm of beams) {
@@ -1811,7 +1822,8 @@
       beams = next.sort((x, y) => y.s - x.s).slice(0, W);
     }
     const best = beams[0];
-    const tracks = [...best.path.map((t) => t.k), B.k];
+    const ks = best.path.map((t) => t.k);
+    const tracks = both ? [...ks, B.k] : back ? ks.reverse() : ks;
     return { tracks, short: best.path.length - 1 < k };
   }
 
@@ -1825,7 +1837,7 @@
     const t = gen[slot] && byKey.get(gen[slot]);
     return `<div class="gr pick"><span class="gl">${label}</span><div class="picker" data-slot="${slot}">${t
       ? `<div class="pick-chip">${playBtn(t)}<div>${trackLine(t)}</div><button class="pick-x" data-clear="${slot}" aria-label="Change ${label.toLowerCase()} track">×</button></div>`
-      : `<input type="search" class="pick-in" data-pick="${slot}" placeholder="Search your tracks" autocomplete="off" spellcheck="false" enterkeyhint="search"><div class="pick-list" hidden></div>`}</div></div>`;
+      : `<input type="search" class="pick-in" data-pick="${slot}" placeholder="Any track (optional)" autocomplete="off" spellcheck="false" enterkeyhint="search"><div class="pick-list" hidden></div>`}</div></div>`;
   }
   function renderGenerate() {
     const bridge = gen.mode === 'bridge';
@@ -1838,9 +1850,9 @@
     const opt = (list, cur, any) => `<option value="">${any}</option>` + list.map(([v, n]) => `<option value="${esc(v)}"${String(v) === String(cur) ? ' selected' : ''}>${esc(v)}${n != null ? ` (${n})` : ''}</option>`).join('');
     const nMax = bridge ? 20 : 40, nMin = bridge ? 1 : 2, n = Math.max(nMin, Math.min(nMax, +gen.n || (bridge ? 6 : 10)));
     let html = `<section class="gen-card"><h2>Generate a mix</h2>
-      <div class="seg" role="tablist" aria-label="Kind of mix"><button role="tab" data-mode="" aria-selected="${!bridge}">Tempo plan</button><button role="tab" data-mode="bridge" aria-selected="${bridge}">Bridge two tracks</button></div>
+      <div class="seg" role="tablist" aria-label="Kind of mix"><button role="tab" data-mode="" aria-selected="${!bridge}">Tempo plan</button><button role="tab" data-mode="bridge" aria-selected="${bridge}">Bridge tracks</button></div>
       <p class="sub gen-what">${bridge
-        ? 'Pick where the mix starts and where it should land. Crate fills the gap with your records, moving a little closer to the end track in tempo, sound and energy with every step.'
+        ? 'Pick where the mix starts, where it should land, or both. With both, Crate fills the gap with your records, moving a little closer to the end track in tempo, sound and energy with every step. With only one, it carries on from your start track, or builds up to your end track.'
         : 'Picks tracks you own that match, orders them so each step needs little pitch change and the keys sit well together, and never puts two tracks from the same record back to back.'}</p>
       ${bridge ? `<div class="group">${pickerHtml('a', 'From')}${pickerHtml('b', 'To')}</div>` : ''}
       <div class="group gen">
@@ -1851,7 +1863,7 @@
         <label class="gr"><span class="gl">End BPM</span><input data-f="to" value="${esc(gen.to ?? '')}" placeholder="Any" inputmode="numeric"></label>
         ${gen.nokeys ? '' : `<label class="gr"><span class="gl">Start key</span><select data-f="cam">${opt(camOptions(), gen.cam, 'Any')}</select></label>`}`}
         <label class="gr"><span class="gl">Min. match <small>between tracks</small></span><select data-f="minc">${[['', 'Any'], ['50', '50 or more'], ['60', '60 or more'], ['70', '70 or more'], ['80', '80 or more'], ['90', '90 or more']].map(([v, l]) => `<option value="${v}"${String(gen.minc || '') === v ? ' selected' : ''}>${l}</option>`).join('')}</select></label>
-        <div class="gr"><span class="gl">${bridge ? 'Tracks in between' : 'Tracks'}</span><div class="stepper"><button type="button" data-step="-1" aria-label="Fewer"${n <= nMin ? ' disabled' : ''}>−</button><b>${n}</b><button type="button" data-step="1" aria-label="More"${n >= nMax ? ' disabled' : ''}>+</button></div></div>
+        <div class="gr"><span class="gl">${!bridge ? 'Tracks' : gen.a && !gen.b ? 'Tracks after' : gen.b && !gen.a ? 'Tracks before' : 'Tracks in between'}</span><div class="stepper"><button type="button" data-step="-1" aria-label="Fewer"${n <= nMin ? ' disabled' : ''}>−</button><b>${n}</b><button type="button" data-step="1" aria-label="More"${n >= nMax ? ' disabled' : ''}>+</button></div></div>
         <label class="gr"><span class="gl">Ignore keys <small>tempo only</small></span><span class="switch"><input type="checkbox" data-f="nokeys"${gen.nokeys ? ' checked' : ''}><span></span></span></label>
       </div>
       ${bridge ? '' : `<div class="group-h">Vibe</div><div class="chips" role="radiogroup" aria-label="Vibe">${VIBES.map(([v, l]) => `<button type="button" role="radio" data-vibe="${v}" aria-checked="${(gen.vibe || '') === v}">${l}</button>`).join('')}</div>`}
@@ -1859,12 +1871,12 @@
     if (d) {
       const g = d.generated || {};
       const A = g.mode === 'bridge' && byKey.get(g.a), B = g.mode === 'bridge' && byKey.get(g.b);
-      html += `<section class="draft"><div class="draft-bar"><div><b>Draft</b> · ${A && B ? `bridge from ${esc(A.title)} to ${esc(B.title)}` : `${esc(g.style || g.genre || 'Any genre')}, ${esc(g.from)}${g.to ? '→' + esc(g.to) : '+'} BPM`}${g.nokeys ? ', keys ignored' : ''}${g.minc ? `, every step ${esc(g.minc)}+` : ''}. Reorder or remove tracks here, then save it.</div>
+      html += `<section class="draft"><div class="draft-bar"><div><b>Draft</b> · ${A && B ? `bridge from ${esc(A.title)} to ${esc(B.title)}` : A ? `starting from ${esc(A.title)}` : B ? `ending on ${esc(B.title)}` : `${esc(g.style || g.genre || 'Any genre')}, ${esc(g.from)}${g.to ? '→' + esc(g.to) : '+'} BPM`}${g.nokeys ? ', keys ignored' : ''}${g.minc ? `, every step ${esc(g.minc)}+` : ''}. Reorder or remove tracks here, then save it.</div>
         <div class="save-row"><input id="draft-name" value="${esc(d.name)}" aria-label="Mix name" placeholder="Name this mix">
         <button class="primary" data-a="save">Save to My mixes</button><button data-a="regen">Regenerate</button><button data-a="discard">Clear</button></div></div>
         ${mixBodyHtml(d)}</section>`;
     } else {
-      html += `<p class="empty">${bridge ? 'Pick a From and a To track and tap Generate.' : 'Pick your settings and tap Generate.'} The draft shows up here, and nothing goes into My mixes until you save it.</p>`;
+      html += `<p class="empty">${bridge ? 'Pick a From track, a To track or both, and tap Generate.' : 'Pick your settings and tap Generate.'} The draft shows up here, and nothing goes into My mixes until you save it.</p>`;
     }
     const root = $('#generate');
     root.innerHTML = html;
@@ -1932,11 +1944,12 @@
     const res = bridge ? generateBridge(gen) : generateMix(gen);
     if (res.error) { toast(res.error); return; }
     const keepName = user.draft && user.draft.renamed ? user.draft.name : null;
-    const name = bridge ? `${byKey.get(gen.a).title} → ${byKey.get(gen.b).title}` : `${gen.style || gen.genre || 'Mix'} ${gen.from}${gen.to ? '→' + gen.to : ''}`;
+    const ta = gen.a && byKey.get(gen.a), tb = gen.b && byKey.get(gen.b);
+    const name = bridge ? (ta && tb ? `${ta.title} → ${tb.title}` : ta ? `From ${ta.title}` : `Into ${tb.title}`) : `${gen.style || gen.genre || 'Mix'} ${gen.from}${gen.to ? '→' + gen.to : ''}`;
     user.draft = { name: keepName || name, tracks: res.tracks, generated: { ...gen } };
     saveUser();
     renderGenerate();
-    toast(res.short ? (bridge ? 'The bridge came out shorter: not enough tracks link those two smoothly' : `Only found ${res.tracks.length} tracks that chain well`) : 'New draft ready');
+    toast(res.short ? (bridge ? (gen.a && gen.b ? 'The bridge came out shorter: not enough tracks link those two smoothly' : `Only found ${res.tracks.length - 1} tracks that chain well`) : `Only found ${res.tracks.length} tracks that chain well`) : 'New draft ready');
   }
 
   const THUMB_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 11v9H4v-9zM7 11l4-7c1.4 0 2.3 1.1 2 2.5L12.5 10H18a2 2 0 0 1 2 2.3l-1.2 6A2 2 0 0 1 16.8 20H7"/></svg>';
