@@ -1253,9 +1253,8 @@
       `<label class="f keep"><span>Sort</span><select data-f="sort">${[['added', 'Recently added'], ['artist', 'Artist'], ['title', 'Title'], ['year', 'Year (new → old)'], ['yearAsc', 'Year (old → new)'], ['label', 'Label / cat no.'], ['rating', 'My rating']]
         .map(([v, n]) => `<option value="${v}"${rf.sort === v ? ' selected' : ''}>${n}</option>`).join('')}</select></label>` +
       `<span class="count">${list.length} of ${all.length} records</span>` +
-      `<button type="button" class="crate-btn" title="Flick through covers. Turning the phone sideways opens it too."><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="9" y="5" width="6" height="14" rx="1"/><path d="M6.5 6.5 3 8v8l3.5 1.5M17.5 6.5 21 8v8l-3.5 1.5"/></svg>Crate</button>`;
+      viewSwitch();
     recordList = list;
-    $('#record-filters .crate-btn').onclick = () => { store.set('crateSideways', true); openCrate(); };
     $$('#record-filters select, #record-filters input').forEach((s) => (s.onchange = () => { rf[s.dataset.f] = s.value; store.set('rf', rf); renderRecords(); }));
     wireFilterHead('record-filters', rf, RK, () => { store.set('rf', rf); renderRecords(); });
 
@@ -1271,12 +1270,15 @@
   // ---------- Crate mode: flick through the covers of the records shown in Records ----------
   // Our own physics instead of native scrolling: a small pool of covers is moved with transforms only,
   // a flick carries on with momentum and settles on the nearest record.
-  let recordList = [];
+  let recordList = [], trackRecs = [], crateList = [];
   const CF = { pos: 0, target: 0, raf: 0, last: 0, drag: null, slots: [], shown: -1, W: 0 };
   const SLOTS = 19, HALF = 9;
   const coverUrl = (r) => (r.cover && !/spacer\.gif/.test(r.cover) ? r.cover : '');
   function openCrate() {
-    if (!recordList.length) return;
+    if (!$('#crate').hidden) return;
+    // Records flicks through the records in view; Tracks through the records the listed tracks are on.
+    crateList = view === 'tracks' ? trackRecs : recordList;
+    if (!crateList.length) { toast('Nothing to flick through. Clear a filter or the search.'); syncSwitches(); return; }
     const el = $('#crate');
     el.hidden = false;
     document.body.classList.add('crate-on');
@@ -1286,19 +1288,21 @@
       CF.slots = [...stage.children];
     }
     CF.slots.forEach((c) => { c.dataset.i = ''; c.firstChild.removeAttribute('src'); });
-    CF.pos = CF.target = Math.min(Math.round(CF.pos), recordList.length - 1);
+    CF.pos = CF.target = Math.min(Math.round(CF.pos), crateList.length - 1);
     CF.shown = -1;
     CF.W = CF.slots[0].offsetWidth;
     crateRender();
+    syncSwitches();
   }
   function closeCrate() {
     if (FL.open) flipClose(true);
     $('#crate').hidden = true;
     document.body.classList.remove('crate-on');
     cancelAnimationFrame(CF.raf); CF.raf = 0;
+    syncSwitches();
   }
   function crateGo(i) {
-    CF.target = Math.max(0, Math.min(recordList.length - 1, i));
+    CF.target = Math.max(0, Math.min(crateList.length - 1, i));
     crateKick();
   }
   function crateKick() {
@@ -1314,7 +1318,7 @@
     CF.raf = CF.drag || CF.pos !== CF.target ? requestAnimationFrame(crateTick) : 0;
   }
   function crateRender() {
-    const W = CF.W || 1, n = recordList.length, base = Math.round(CF.pos);
+    const W = CF.W || 1, n = crateList.length, base = Math.round(CF.pos);
     const gap = W * 0.62, step = W * 0.16;
     CF.slots.forEach((c, j) => {
       const i = base + j - HALF;
@@ -1322,7 +1326,7 @@
       c.style.visibility = '';
       if (c.dataset.i !== String(i)) {
         c.dataset.i = i;
-        const url = coverUrl(recordList[i]);
+        const url = coverUrl(crateList[i]);
         if (url) c.firstChild.src = url; else c.firstChild.removeAttribute('src');
       }
       const d = i - CF.pos, a = Math.abs(d), sg = Math.sign(d), k = Math.min(a, 1);
@@ -1335,7 +1339,7 @@
     const i = Math.max(0, Math.min(n - 1, Math.round(CF.pos)));
     if (i !== CF.shown) {
       CF.shown = i;
-      const r = recordList[i];
+      const r = crateList[i];
       $('#crate .cf-info').innerHTML = `<b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small>`;
       $('#crate .cf-count').textContent = `${i + 1} of ${n}`;
     }
@@ -1374,7 +1378,7 @@
   };
   const rev = (frames) => [...frames].reverse().map((k) => ({ transform: k.transform, offset: 1 - k.offset }));
   async function flipOpen(i) {
-    const r = recordList[i], slot = CF.slots.find((c) => c.dataset.i === String(i));
+    const r = crateList[i], slot = CF.slots.find((c) => c.dataset.i === String(i));
     if (!r || !slot || FL.open) return;
     const box = $('#crate .cf-flip'), card = $('.fl-card', box);
     const url = coverUrl(r);
@@ -1424,7 +1428,7 @@
       const dx = e.clientX - g.x;
       g.moved = Math.max(g.moved, Math.abs(dx));
       let p = g.pos - dx / per();
-      const n = recordList.length - 1;
+      const n = crateList.length - 1;
       if (p < 0) p /= 3; else if (p > n) p = n + (p - n) / 3; // rubber band at the ends
       CF.pos = p;
       const now = performance.now();
@@ -1451,7 +1455,7 @@
     stage.addEventListener('wheel', (e) => {
       const d = Math.abs(e.deltaX) > Math.abs(e.deltaY) ? e.deltaX : e.deltaY;
       e.preventDefault();
-      CF.pos = Math.max(0, Math.min(recordList.length - 1, CF.pos + d / per() / 2));
+      CF.pos = Math.max(0, Math.min(crateList.length - 1, CF.pos + d / per() / 2));
       CF.target = CF.pos;
       crateRender();
       clearTimeout(wheelT);
@@ -1459,8 +1463,8 @@
     }, { passive: false });
     $('.cf-flip', el).addEventListener('click', (e) => { if (e.target === e.currentTarget) flipClose(); });
     $('.cf-close', el).onclick = () => (FL.open ? flipClose() : closeCrate());
-    $('.cf-grid', el).onclick = () => { store.set('crateSideways', false); closeCrate(); toast('Grid view. Tap Crate to flick through again.'); };
-    $('.cf-open', el).onclick = () => openRecord(recordList[Math.round(CF.pos)]);
+    $('.cf-grid', el).outerHTML = viewSwitch();
+    $('.cf-open', el).onclick = () => openRecord(crateList[Math.round(CF.pos)]);
     document.addEventListener('keydown', (e) => {
       if (el.hidden || $('#drawer').classList.contains('open')) return;
       if (FL.open && e.key !== 'Escape' && e.key !== 'Enter') return;
@@ -1470,15 +1474,55 @@
       if (e.key === 'Escape') FL.open ? flipClose() : closeCrate();
     });
     window.addEventListener('resize', () => { if (!el.hidden) { CF.W = CF.slots[0].offsetWidth; crateRender(); } });
-    // Like the iPod: turn the phone sideways on Records and the crate opens, unless you chose the grid.
+    // Like the iPod: turn the phone sideways on Records or Tracks and the view picked in the switcher comes up.
     const sideways = matchMedia('(orientation: landscape) and (max-height: 500px)');
     const auto = () => {
-      if (sideways.matches && view === 'records' && store.get('crateSideways', true) && !$('#drawer').classList.contains('open')) openCrate();
-      else if (!sideways.matches && !el.hidden) closeCrate();
+      if (sideways.matches) {
+        if (MODE_VIEWS.includes(view) && !$('#drawer').classList.contains('open') && currentMode() === 'list') {
+          const m = sideMode();
+          if (m === 'crate') openCrate(); else if (m === 'decks' && window.CrateDecks) window.CrateDecks.open();
+        }
+      } else if (!el.hidden) closeCrate();
     };
     sideways.addEventListener('change', auto);
     setTimeout(auto, 300);
   }
+
+  // ---------- one view switcher, the same on Records and Tracks (and inside Crate and Decks): List · Crate · Decks ----------
+  // Tapping one switches now and is remembered: turning the phone sideways on either page opens that view.
+  const MODE_VIEWS = ['records', 'tracks'];
+  const MODES = [
+    ['list', 'List', '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="7" height="7" rx="1.5"/><rect x="13" y="4" width="7" height="7" rx="1.5"/><rect x="4" y="13" width="7" height="7" rx="1.5"/><rect x="13" y="13" width="7" height="7" rx="1.5"/></svg>', 'The list. Turning the phone sideways keeps it.'],
+    ['crate', 'Crate', '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="9" y="5" width="6" height="14" rx="1"/><path d="M6.5 6.5 3 8v8l3.5 1.5M17.5 6.5 21 8v8l-3.5 1.5"/></svg>', 'Flick through the covers and tap one to turn it over. Turning the phone sideways opens it.'],
+    ['decks', 'Decks', '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="7" cy="12" r="4.5"/><circle cx="17" cy="12" r="4.5"/><circle cx="7" cy="12" r=".6" fill="currentColor"/><circle cx="17" cy="12" r=".6" fill="currentColor"/></svg>', 'Two turntables and a mixer for the previews. Turning the phone sideways opens them.'],
+  ];
+  // What sideways opens until you pick one: Crate on Records (the list if you'd chosen Grid before), Decks on Tracks.
+  const sideMode = () => store.get('sideMode', null) || (view === 'tracks' ? 'decks' : store.get('crateSideways', true) ? 'crate' : 'list');
+  const currentMode = () => (!$('#crate').hidden ? 'crate' : document.body.classList.contains('decks-on') ? 'decks' : 'list');
+  function viewSwitch(cls = '') {
+    const cur = currentMode();
+    return `<div class="vswitch ${cls}" role="group" aria-label="View">${MODES.map(([m, n, svg, why]) =>
+      `<button type="button" data-mode="${m}" aria-pressed="${cur === m}" title="${why}">${svg}<span>${n}</span></button>`).join('')}</div>`;
+  }
+  function syncSwitches() {
+    const cur = currentMode();
+    $$('.vswitch button').forEach((b) => b.setAttribute('aria-pressed', b.dataset.mode === cur));
+  }
+  function setMode(m) {
+    store.set('sideMode', m);
+    const D = window.CrateDecks;
+    if (m === 'crate') { if (D) D.close(); openCrate(); }
+    else if (m === 'decks') { closeCrate(); if (D) D.open(); }
+    else { closeCrate(); if (D) D.close(); }
+    syncSwitches();
+  }
+  document.addEventListener('click', (e) => {
+    const b = e.target.closest('.vswitch button');
+    if (!b) return;
+    // Decks opened from Generate or My mixes have no crate behind them, so List or Crate there just closes the decks.
+    if (!MODE_VIEWS.includes(view)) { if (b.dataset.mode !== 'decks' && window.CrateDecks) window.CrateDecks.close(); return; }
+    setMode(b.dataset.mode);
+  });
 
   function openRecord(r) {
     const mix = currentMix();
@@ -1578,7 +1622,8 @@
       select('compat', 'Mixes with', allCams.map(([c]) => [c, null]), tf.compat, 'Any') +
       `<label class="f"><span>Show</span><select data-f="has">${[['', 'All tracks'], ['bpm', 'With BPM'], ['missing', 'Missing BPM/key'], ['notfound', 'Not found'], ['pending', 'Not looked up yet'], ['est', 'Estimated (check by ear)'], ['edited', 'My edits']]
         .map(([v, n]) => `<option value="${v}"${(tf.has || '') === v ? ' selected' : ''}>${n}</option>`).join('')}</select></label>` +
-      `<span class="count">${list.length} tracks</span>` + decksBtn();
+      `<span class="count">${list.length} tracks</span>` + viewSwitch();
+    trackRecs = [...new Set(list.map((t) => t.r))];
     $$('#track-filters select, #track-filters input').forEach((s) => (s.onchange = () => { tf[s.dataset.f] = s.value; store.set('tf', tf); trackLimit = 300; renderTracks(); }));
     wireFilterHead('track-filters', tf, TK, () => { store.set('tf', tf); trackLimit = 300; renderTracks(); });
 
@@ -2385,6 +2430,7 @@
   // ---------- what the Decks view (decks.js) borrows: the Blend audio engine and the collection ----------
   window.CrateApp = {
     ctx: () => blCtx(), load: (k) => blLoad(k), track: (k) => trackObj(k), tracks: () => TRACKS, mix: () => currentMix(),
+    viewSwitch: (c) => viewSwitch(c), modeChanged: () => syncSwitches(), modeViews: MODE_VIEWS,
     view: () => view, busy: () => $('#drawer').classList.contains('open') || !$('#crate').hidden,
     stopPlayer: () => { if (playing) closePlayer(); },
     pitchRange: () => settings.pitchRange || 8, cover: (r) => coverUrl(r), relation: (a, b) => C.camRelation(a, b), norm, esc, toast,

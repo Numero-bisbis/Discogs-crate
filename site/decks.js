@@ -1,5 +1,5 @@
 /* Decks: two turntables and a mixer for the 30-second previews, like a two-deck DJ setup.
-   Turn the phone sideways on Tracks, Generate or My mixes (or tap Decks). Each deck has a platter (drag it to nudge
+   Pick Decks in the view switcher on Records or Tracks, or turn the phone sideways on Generate or My mixes (or tap Decks). Each deck has a platter (drag it to nudge
    a playing record or move a stopped one), cue, play, a pitch fader and Sync; the mixer has two channel faders and
    a crossfader. Audio runs on the Blend engine's audio context and preview loader in app.js. */
 (function () {
@@ -11,7 +11,7 @@
   const { esc, norm } = APP;
   const REV = 1.8; // seconds of music per platter turn at 33⅓ rpm
   const NAMES = ['A', 'B'];
-  const VIEWS = ['tracks', 'generate', 'mixes'];
+  const VIEWS = ['generate', 'mixes']; // Records and Tracks open whatever their view switcher is set to (app.js)
 
   let root = null, ctx = null, master = null, raf = 0, wake = null, sheetFor = -1, sheetTab = 'mix';
   const X = { fade: 0.5 }; // crossfader: 0 = all A, 1 = all B
@@ -179,7 +179,7 @@
     root.id = 'decks'; root.className = 'decks'; root.hidden = true;
     root.innerHTML = `<div class="dk-main">${deckHtml(0)}
       <section class="mixer">
-        <button class="dk-close" aria-label="Close decks"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+        <button class="dk-close" aria-label="Close decks"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button>${APP.viewSwitch('compact')}
         <div class="mx-chs"><label class="mx-ch"><input type="range" min="0" max="100" value="80" data-ch="0" aria-label="Volume A"><small>A</small></label>
           <label class="mx-ch"><input type="range" min="0" max="100" value="80" data-ch="1" aria-label="Volume B"><small>B</small></label></div>
         <label class="mx-x"><input type="range" min="0" max="100" value="50" aria-label="Crossfader"><small>A · B</small></label>
@@ -362,6 +362,7 @@
     decks.forEach(paint);
     cancelAnimationFrame(raf); raf = requestAnimationFrame(frame);
     keepAwake();
+    APP.modeChanged();
   }
   function close() {
     if (!root || root.hidden) return;
@@ -371,6 +372,7 @@
     document.body.classList.remove('decks-on');
     cancelAnimationFrame(raf); raf = 0;
     if (wake) { wake.release().catch(() => {}); wake = null; }
+    APP.modeChanged();
   }
   // Turn the phone sideways on the track lists and the decks come up; upright again closes them unless music is playing.
   const sideways = matchMedia('(orientation: landscape) and (max-height: 500px)');
