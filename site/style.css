@@ -606,6 +606,30 @@ body.has-player .cf-info { padding-bottom: calc(var(--player-h, 60px) + 24px); }
 .crate-btn { display: inline-flex; align-items: center; gap: 6px; background: var(--fill); color: var(--text); font-weight: 600; padding: 6px 12px; border-radius: 999px; font-size: 14px; }
 .crate-btn svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linejoin: round; stroke-linecap: round; }
 body.crate-on { overflow: hidden; }
+/* The view switcher: an iOS segmented control, the same on Records and Tracks, in Crate and in Decks */
+.vswitch { display: inline-flex; flex: none; gap: 2px; padding: 2px; background: var(--fill); border-radius: 9px; }
+.vswitch button { display: inline-flex; align-items: center; justify-content: center; gap: 5px; min-width: 76px; padding: 5px 12px; border-radius: 7px;
+  background: none; color: var(--text); font-size: 13px; font-weight: 500; box-shadow: none; }
+.vswitch button[aria-pressed="true"] { background: var(--panel3); font-weight: 600; box-shadow: 0 1px 3px rgb(0 0 0 / .18); }
+.vswitch svg { width: 16px; height: 16px; flex: none; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linejoin: round; stroke-linecap: round; }
+.filters .vswitch { align-self: end; }
+@media (prefers-color-scheme: light) { .vswitch button[aria-pressed="true"] { background: #fff; } }
+.crate .vswitch, .decks .vswitch { background: rgb(255 255 255 / .12); }
+.cf-bar .vswitch button, .decks .vswitch button { color: #fff; background: none; border-radius: 7px; padding: 5px 12px; font-size: 13px; font-weight: 500; }
+.crate .vswitch button[aria-pressed="true"], .decks .vswitch button[aria-pressed="true"] { background: rgb(255 255 255 / .28); font-weight: 600; }
+.vswitch.compact { align-self: stretch; }
+.vswitch.compact button { flex: 1; min-width: 0; padding: 7px 0; border-radius: 7px; }
+.vswitch.compact span { display: none; }
+/* Decks over Records or Tracks: the switcher sits where the close button is (List closes them) */
+.decks .vswitch { display: none; }
+body[data-view="records"] .decks .vswitch, body[data-view="tracks"] .decks .vswitch { display: flex; }
+body[data-view="records"] .dk-close, body[data-view="tracks"] .dk-close { display: none; }
+@media (max-width: 720px) {
+  /* on the phone it heads the page, full width, above the filters */
+  .filters > .vswitch { order: -3; flex-basis: 100%; }
+  .filters > .vswitch button { flex: 1; min-width: 0; padding: 6px 0; }
+}
+@media (max-width: 480px) { .cf-bar .vswitch button { min-width: 0; padding: 5px 10px; } .cf-bar .vswitch span { display: none; } .cf-count { display: none; } .cf-bar .vswitch { margin-left: auto; } }
 .crate { --cw: min(46vh, 34vw, 340px); position: fixed; inset: 0; z-index: 28; background: #000; color: #fff; display: flex; flex-direction: column; user-select: none; -webkit-user-select: none; }
 .cf-bar { display: flex; align-items: center; gap: 12px; padding: max(8px, env(safe-area-inset-top)) max(16px, env(safe-area-inset-right)) 4px max(12px, env(safe-area-inset-left)); }
 .cf-bar button { background: rgb(255 255 255 / .14); color: #fff; border-radius: 999px; font-weight: 600; font-size: 14px; padding: 7px 14px; }
