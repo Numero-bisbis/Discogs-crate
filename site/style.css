@@ -653,9 +653,10 @@ body[data-view="records"] .dk-close, body[data-view="tracks"] .dk-close { displa
 /* Crate: a record turned over shows its back, with the tracks */
 .cf-flip { position: absolute; inset: 0; z-index: 5; display: grid; place-items: center; perspective: 900px; background: rgb(0 0 0 / 0); transition: background .6s; }
 .cf-flip.on { background: rgb(0 0 0 / .72); }
+/* A square the size of a sleeve held a little closer than the row (about 1.4x the cover), not a big panel */
 .fl-card {
-  position: relative; width: min(560px, calc(100vw - 32px)); height: min(calc(100% - 96px), 560px); margin-top: 16px;
-  
+  --fl: min(calc(var(--cw) * 1.4), calc(100vw - 32px), calc(100% - 72px), 420px);
+  position: relative; width: var(--fl); height: var(--fl); margin-top: 16px;
 }
 .fl-front, .fl-back { position: absolute; inset: 0; border-radius: 4px; overflow: hidden; }
 .fl-card[data-face="front"] .fl-back, .fl-card[data-face="back"] .fl-front { visibility: hidden; }
@@ -666,20 +667,20 @@ body[data-view="records"] .dk-close, body[data-view="tracks"] .dk-close { displa
   background: linear-gradient(#2a2a2d, #1d1d1f); color: #fff; box-shadow: 0 20px 60px rgb(0 0 0 / .6), inset 0 0 0 .5px rgb(255 255 255 / .1);
   --text: #fff; --muted: rgb(235 235 245 / .6); --faint: rgb(235 235 245 / .3); --fill: rgb(255 255 255 / .12); --panel3: rgb(255 255 255 / .2); --sep: rgb(255 255 255 / .1); --accent: #8a8dff;
 }
-.fl-head { position: sticky; top: 0; z-index: 1; display: flex; align-items: center; gap: 12px; padding: 12px 14px; background: rgb(42 42 45 / .92); -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px); border-bottom: .5px solid var(--sep); }
-.fl-head img { width: 52px; height: 52px; flex: none; border-radius: 3px; object-fit: cover; box-shadow: 0 2px 8px rgb(0 0 0 / .4); }
-.fl-head > div { flex: 1; min-width: 0; display: flex; flex-direction: column; line-height: 1.3; }
-.fl-head b { font-size: 16px; } .fl-head span { color: var(--muted); font-size: 13px; } .fl-head small { color: var(--faint); font-size: 11px; }
+.fl-head { position: sticky; top: 0; z-index: 1; display: flex; align-items: center; gap: 8px; padding: 8px 8px 8px 12px; background: rgb(42 42 45 / .92); -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px); border-bottom: .5px solid var(--sep); }
+.fl-head > div { flex: 1; min-width: 0; display: flex; flex-direction: column; line-height: 1.25; }
+.fl-head b { font-size: 14px; } .fl-head span { color: var(--muted); font-size: 12px; } .fl-head small { color: var(--faint); font-size: 10.5px; }
 .fl-head b, .fl-head span, .fl-head small { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.fl-open { flex: none; background: rgb(255 255 255 / .14); color: #fff; border-radius: 999px; font-size: 13px; font-weight: 600; padding: 6px 12px; }
-.fl-list { list-style: none; margin: 0; padding: 0 0 8px; }
-.fl-list li { display: flex; align-items: center; gap: 10px; padding: 7px 10px 7px 14px; }
+.fl-open { flex: none; background: rgb(255 255 255 / .14); color: #fff; border-radius: 999px; font-size: 12px; font-weight: 600; padding: 5px 10px; }
+.fl-list { list-style: none; margin: 0; padding: 0 0 4px; }
+.fl-list li { display: flex; align-items: center; gap: 6px; padding: 4px 4px 4px 12px; min-height: 38px; }
 .fl-list li + li { border-top: .5px solid var(--sep); }
-.fl-pos { width: 24px; flex: none; color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+.fl-pos { width: 20px; flex: none; color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
 .fl-t { flex: 1; min-width: 0; display: flex; flex-direction: column; line-height: 1.25; }
-.fl-t b { font-weight: 500; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.fl-t small { color: var(--muted); font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.fl-meta { flex: none; color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+.fl-t b { font-weight: 500; font-size: 13.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.fl-t small { color: var(--muted); font-size: 11px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.fl-t small { font-variant-numeric: tabular-nums; }
+.fl-list .play { width: 26px; height: 26px; }
 
 /* Decks: two turntables and a mixer for the previews. Always dark, like Crate mode. */
 .decks-btn { margin-left: 8px; }

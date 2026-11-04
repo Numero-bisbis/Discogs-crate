@@ -1347,9 +1347,9 @@
   // Tap the record in front and it turns round like a sleeve in your hands: the back shows its tracks.
   const FL = { open: false, i: -1, slot: null, frames: null };
   function flipBack(r) {
-    const url = coverUrl(r);
-    return `<div class="fl-head">${url ? `<img src="${esc(url)}" alt="">` : ''}<div><b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small></div><button class="fl-open">Open record</button></div>
-      <ol class="fl-list">${r.tracks.map((t) => { const e = eff(t); return `<li><span class="fl-pos">${esc(t.pos)}</span><div class="fl-t"><b>${esc(t.title)}</b>${t.artist !== r.artist ? `<small>${esc(t.artist)}</small>` : ''}</div><span class="fl-meta">${[e.bpm, e.cam].filter(Boolean).map(esc).join(' · ')}</span>${playBtn(t)}</li>`; }).join('') || '<li class="sub">No tracklist yet.</li>'}</ol>`;
+    // Sized like the sleeve, so it stays narrow: BPM and key sit under each title rather than in a column of their own
+    return `<div class="fl-head"><div><b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small></div><button class="fl-open" title="Open record">Open</button></div>
+      <ol class="fl-list">${r.tracks.map((t) => { const e = eff(t); const sub = [t.artist !== r.artist ? t.artist : '', [e.bpm, e.cam].filter(Boolean).join(' · ')].filter(Boolean).join(' — '); return `<li><span class="fl-pos">${esc(t.pos)}</span><div class="fl-t"><b>${esc(t.title)}</b>${sub ? `<small>${esc(sub)}</small>` : ''}</div>${playBtn(t)}</li>`; }).join('') || '<li class="sub">No tracklist yet.</li>'}</ol>`;
   }
   // Pulled out of the row, then turned over sideways like a sleeve in your hands. The turn is two quarter turns with
   // the faces swapped edge-on in between, so it doesn't depend on backface-visibility (unreliable on iPhone).
