@@ -29,18 +29,35 @@ Synced data is committed to `data/` so each run only does new work. Run it by ha
 - Preview analysis covers 30 seconds of what Deezer thinks is the track. Tempo is usually right but can come out at half or double. Key is right roughly 70% of the time. It may match a different mix than the one on your record.
 - Tracks with no match are retried after 30 days.
 
-## Setup
+## Set up your own Crate
 
-1. Repo **Settings → Pages → Source: GitHub Actions**.
-2. Optional, only if the Discogs collection is private: create a token at Discogs **Settings → Developers → Generate new token** and add it as the repository secret `DISCOGS_TOKEN` (**Settings → Secrets and variables → Actions**). A token also doubles the API rate limit.
-3. Optional, to sync your edits and mixes across devices: create a [fine-grained GitHub token](https://github.com/settings/personal-access-tokens/new) limited to this repository with **Contents: read and write**, then paste it in the app under Settings. Without it, edits and mixes stay in the browser you made them in (use Download backup to move them).
+Anyone can run their own free copy for their Discogs collection. Follow the guide at
+**[numero-bisbis.github.io/Discogs-crate/setup.html](https://numero-bisbis.github.io/Discogs-crate/setup.html)**, which has a button for each step:
 
-To use a different Discogs account, set the repository variable `DISCOGS_USERNAME`.
+1. **Use this template** to make your own copy on GitHub (keep it public).
+2. Add the repository variable `DISCOGS_USERNAME` (**Settings → Secrets and variables → Actions → Variables**) with your Discogs username.
+3. **Settings → Pages → Source: GitHub Actions**.
+4. On the Actions tab, run **Sync collection**. Your site is then at `https://<your-github-name>.github.io/Discogs-crate/`.
+
+A copy starts with no Discogs account. Until `DISCOGS_USERNAME` is set, scheduled syncs are skipped and the site says what to do. The first sync for a new account clears any data that came along with the copy (records, BPM/key, sound profiles, `user/state.json`), so it only ever shows your own collection.
+
+Optional:
+
+- **Private collection**: create a token at Discogs **Settings → Developers → Generate new token** and add it as the repository secret `DISCOGS_TOKEN` (**Settings → Secrets and variables → Actions**). A token also doubles the API rate limit.
+- **Edits and mixes on every device**: create a [fine-grained GitHub token](https://github.com/settings/personal-access-tokens/new) limited to this repository with **Contents: read and write**, then paste it in the app under Settings. Without it, edits and mixes stay in the browser you made them in (use Download backup to move them).
+- **Spotify full tracks**: make your own Spotify developer app; Crate's Settings explains how.
+
+### App updates for copies
+
+`.github/workflows/update-app.yml` runs each night in a copy (never in the original) and takes the latest `site/`, `sync/`, `README.md` and `.gitignore` from [Numero-bisbis/Discogs-crate](https://github.com/Numero-bisbis/Discogs-crate). It never touches `data/` or `user/`, so your collection, edits and mixes stay yours; any changes you made to the app code itself are replaced.
+
+- Turn it off with the repository variable `CRATE_AUTO_UPDATE` set to `off`.
+- GitHub doesn't let a workflow's built-in token change workflow files, so `.github/workflows` only updates if you add a `CRATE_UPDATE_TOKEN` secret: a fine-grained token for your repository with **Contents** and **Workflows** set to read and write. Without it, the run's summary tells you when the workflows changed.
 
 ## Running locally
 
 ```sh
 pip install -r sync/requirements.txt
-python sync/sync_discogs.py && python sync/enrich.py && python sync/build.py
+DISCOGS_USERNAME=<your-discogs-name> python sync/sync_discogs.py && python sync/enrich.py && python sync/build.py
 python -m http.server -d site 8000
 ```

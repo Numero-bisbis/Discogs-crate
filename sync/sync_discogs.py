@@ -5,13 +5,14 @@ for records not seen before. The collection list itself is re-read every run so 
 additions, removals, folder moves and ratings stay current.
 """
 import os
+import shutil
 import sys
 import time
 
 from common import DATA, http_get, load_json, save_json
 
 API = "https://api.discogs.com"
-USERNAME = os.environ.get("DISCOGS_USERNAME", "Philippemccc")
+USERNAME = os.environ.get("DISCOGS_USERNAME", "").strip()
 TOKEN = os.environ.get("DISCOGS_TOKEN", "").strip()
 # Discogs allows 60 req/min with a token and 25 without.
 INTERVAL = 1.1 if TOKEN else 2.5
@@ -58,7 +59,27 @@ def fetch_folders():
     return {f["id"]: f["name"] for f in res.get("folders", [])}
 
 
+def forget_previous_owner():
+    """A copy made from someone else's Crate starts with their synced data. On the first sync for a
+    different Discogs account, drop all of it (records, BPM/key, sound profiles, saved edits and mixes)
+    so the new owner's Crate only ever shows their own collection."""
+    previous = (load_json(DATA / "collection.json", {}) or {}).get("username")
+    if not previous or previous.lower() == USERNAME.lower():
+        return
+    print(f"This copy was synced for {previous} before; clearing that data to start fresh for {USERNAME}")
+    for d in ("releases", "profiles"):
+        shutil.rmtree(DATA / d, ignore_errors=True)
+    for f in (DATA / "audio.json", DATA / "collection.json", DATA.parent / "user" / "state.json"):
+        f.unlink(missing_ok=True)
+
+
 def main():
+    if not USERNAME:
+        sys.exit(
+            "No Discogs username set. In this repository open Settings > Secrets and variables > Actions > "
+            "Variables, add DISCOGS_USERNAME with your Discogs username, then run Sync collection again."
+        )
+    forget_previous_owner()
     items = fetch_collection()
     folders = fetch_folders()
     save_json(DATA / "collection.json", {"username": USERNAME, "folders": folders, "items": items})

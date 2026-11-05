@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Set up your own Crate</title>
+<link rel="icon" type="image/png" sizes="192x192" href="icons/crate-192.png">
+<meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#f2f2f7" media="(prefers-color-scheme: light)">
+<style>
+:root {
+  --bg: #000; --panel: #1c1c1e; --fill: rgb(118 118 128 / .24); --panel3: #3a3a3c;
+  --sep: #38383a; --text: #fff; --muted: #98989f; --faint: #636366; --accent: #8a8dff; --good: #30d158;
+  color-scheme: dark;
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #f2f2f7; --panel: #fff; --fill: rgb(118 118 128 / .12); --panel3: #dcdce1;
+    --sep: #d8d8dc; --text: #000; --muted: #6c6c70; --faint: #aeaeb2; --accent: #5856d6; --good: #248a3d;
+    color-scheme: light;
+  }
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--bg); color: var(--text); }
+body {
+  font: 15px/1.45 -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  padding: max(24px, env(safe-area-inset-top)) 16px max(40px, env(safe-area-inset-bottom));
+}
+main { max-width: 620px; margin: 0 auto; }
+a { color: var(--accent); text-decoration: none; }
+header { display: flex; align-items: center; gap: 12px; margin-bottom: 6px; }
+header img { width: 44px; height: 44px; border-radius: 10px; }
+h1 { font-size: 26px; line-height: 1.15; margin: 0; letter-spacing: -.01em; }
+.lead { color: var(--muted); margin: 10px 0 22px; }
+h2 { font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin: 28px 4px 8px; }
+.card { background: var(--panel); border-radius: 12px; padding: 14px 16px; }
+.card + .card { margin-top: 10px; }
+label { display: block; font-size: 13px; color: var(--muted); margin-bottom: 6px; }
+.inputs { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+input {
+  font: inherit; width: 100%; background: var(--fill); color: var(--text); border: 0; border-radius: 8px; padding: 8px 10px;
+}
+input:focus { outline: 2px solid var(--accent); outline-offset: -2px; }
+input::placeholder { color: var(--faint); }
+.hint { font-size: 13px; color: var(--muted); margin: 8px 0 0; }
+ol.steps { list-style: none; margin: 0; padding: 0; counter-reset: step; }
+ol.steps > li { counter-increment: step; position: relative; padding-left: 40px; }
+ol.steps > li::before {
+  content: counter(step); position: absolute; left: 0; top: 0; width: 28px; height: 28px; border-radius: 50%;
+  display: grid; place-items: center; background: var(--fill); color: var(--accent); font-weight: 600; font-size: 14px;
+}
+.step h3 { font-size: 16px; margin: 3px 0 4px; }
+.step p { margin: 0 0 6px; color: var(--muted); }
+.step p b, .step p code { color: var(--text); }
+code { background: var(--fill); padding: 1px 5px; border-radius: 4px; font-size: 13px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; overflow-wrap: anywhere; }
+.btn {
+  display: inline-flex; align-items: center; gap: 6px; margin-top: 6px; padding: 8px 14px; border-radius: 8px;
+  background: var(--text); color: var(--bg); font-weight: 600;
+}
+.btn:hover { opacity: .85; }
+.btn.alt { background: var(--fill); color: var(--accent); }
+.btn[aria-disabled="true"] { opacity: .35; pointer-events: none; }
+.copy { font: inherit; font-size: 13px; border: 0; background: none; color: var(--accent); cursor: pointer; padding: 0 0 0 6px; }
+.done { color: var(--good); font-size: 13px; margin-left: 6px; }
+footer { color: var(--faint); font-size: 13px; margin-top: 32px; }
+@media (max-width: 420px) { .inputs { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<main>
+  <header><img src="icons/crate-192.png" alt=""><h1>Set up your own Crate</h1></header>
+  <p class="lead">Crate turns your Discogs collection into a crate you can browse and mix from, with BPM, key, previews and mixes. Your own copy is free, runs on your GitHub account, and shows only your records. Setup takes about 5 minutes.</p>
+
+  <h2>First, your names</h2>
+  <div class="card">
+    <div class="inputs">
+      <div><label for="gh">Your GitHub username</label><input id="gh" placeholder="e.g. maxdj" autocomplete="off" autocapitalize="off" spellcheck="false"></div>
+      <div><label for="dg">Your Discogs username</label><input id="dg" placeholder="e.g. max_records" autocomplete="off" autocapitalize="off" spellcheck="false"></div>
+    </div>
+    <p class="hint">No GitHub account yet? <a href="https://github.com/signup" target="_blank" rel="noopener">Create one for free</a>, then come back. The buttons below fill in with your names.</p>
+  </div>
+
+  <h2>Steps</h2>
+  <div class="card">
+    <ol class="steps">
+      <li class="step">
+        <h3>Make your copy</h3>
+        <p>Keep the name <b>Discogs-crate</b> and leave it <b>Public</b> (GitHub only hosts free sites from public repositories). Press <b>Create repository</b>.</p>
+        <a class="btn" target="_blank" rel="noopener" href="https://github.com/new?template_owner=Numero-bisbis&amp;template_name=Discogs-crate&amp;name=Discogs-crate&amp;visibility=public">Use this template</a>
+      </li>
+      <li class="step" style="margin-top:18px">
+        <h3>Tell it your Discogs username</h3>
+        <p>Name: <code>DISCOGS_USERNAME</code><button class="copy" data-copy="DISCOGS_USERNAME">Copy</button><br>Value: <code id="dg-val">your Discogs username</code><button class="copy" data-copy-from="dg">Copy</button><br>Then press <b>Add variable</b>.</p>
+        <a class="btn" data-href="/settings/variables/actions/new" target="_blank" rel="noopener">Add the variable</a>
+      </li>
+      <li class="step" style="margin-top:18px">
+        <h3>Turn on the website</h3>
+        <p>Under <b>Build and deployment</b>, set <b>Source</b> to <b>GitHub Actions</b>.</p>
+        <a class="btn" data-href="/settings/pages" target="_blank" rel="noopener">Open Pages settings</a>
+      </li>
+      <li class="step" style="margin-top:18px">
+        <h3>Pull in your collection</h3>
+        <p>Press <b>Run workflow</b>, then the green <b>Run workflow</b> button. If GitHub asks first, press <b>I understand my workflows, go ahead and enable them</b>. Your records appear within a few minutes; BPM and key fill in over the next few hours. After that it re-syncs by itself twice an hour.</p>
+        <a class="btn" data-href="/actions/workflows/sync.yml" target="_blank" rel="noopener">Run Sync collection</a>
+      </li>
+      <li class="step" style="margin-top:18px">
+        <h3>Open your Crate</h3>
+        <p>On an iPhone, open it in Safari and use <b>Share → Add to Home Screen</b> to get the app icon.</p>
+        <a class="btn" id="site" target="_blank" rel="noopener">Open my Crate</a>
+      </li>
+    </ol>
+  </div>
+
+  <h2>Optional extras</h2>
+  <div class="card step">
+    <h3>Private Discogs collection</h3>
+    <p>Crate reads public collections without a password. Either make yours visible (Discogs <b>Settings → Privacy → Allow others to browse my collection</b>), or generate a Discogs token and add it as the secret <code>DISCOGS_TOKEN</code>. A token also makes the first sync faster.</p>
+    <a class="btn alt" href="https://www.discogs.com/settings/developers" target="_blank" rel="noopener">Get a Discogs token</a>
+    <a class="btn alt" data-href="/settings/secrets/actions/new" target="_blank" rel="noopener">Add the secret</a>
+  </div>
+  <div class="card step">
+    <h3>Full songs with Spotify</h3>
+    <p>If you have Spotify Premium, make your own free Spotify developer app and paste its Client ID in Crate. Crate's <b>Settings</b> tab walks you through it and shows the exact address to use.</p>
+    <a class="btn alt" href="https://developer.spotify.com/dashboard" target="_blank" rel="noopener">Spotify developer dashboard</a>
+  </div>
+  <div class="card step">
+    <h3>Edits and mixes on all your devices</h3>
+    <p>Without this, BPM/key fixes and mixes stay in the browser you made them in. Make a fine-grained token for only your Discogs-crate repository with <b>Contents: read and write</b>, and paste it in Crate's <b>Settings</b>.</p>
+    <a class="btn alt" href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Create a GitHub token</a>
+  </div>
+  <div class="card step">
+    <h3>App updates</h3>
+    <p>Every night your copy picks up the latest app code: new features and fixes. It never takes anyone else's records or mixes, and never changes yours. To stop updates, add the variable <code>CRATE_AUTO_UPDATE</code> with the value <code>off</code>. Changes to the automation itself only come along if you add a <code>CRATE_UPDATE_TOKEN</code> secret (a fine-grained token for your repository with <b>Contents</b> and <b>Workflows</b> set to read and write).</p>
+    <a class="btn alt" data-href="/actions/workflows/update-app.yml" target="_blank" rel="noopener">See update runs</a>
+  </div>
+
+  <footer>Data provided by Discogs. Crate isn't affiliated with Discogs, Spotify or GitHub.</footer>
+</main>
+<script>
+(() => {
+  const $ = (s) => document.querySelector(s);
+  const REPO = 'Discogs-crate';
+  const get = (k) => { try { return localStorage.getItem('crate.setup.' + k) || ''; } catch { return ''; } };
+  const put = (k, v) => { try { localStorage.setItem('crate.setup.' + k, v); } catch {} };
+  // Opened from a friend's own Crate (theirname.github.io), the GitHub name is already known.
+  const host = /^([^.]+)\.github\.io$/i.exec(location.hostname);
+  const own = host && host[1].toLowerCase() !== 'numero-bisbis' ? host[1] : '';
+  $('#gh').value = get('gh') || own;
+  $('#dg').value = get('dg');
+
+  function render() {
+    const gh = $('#gh').value.trim().replace(/^@/, ''), dg = $('#dg').value.trim();
+    put('gh', gh); put('dg', dg);
+    document.querySelectorAll('[data-href]').forEach((a) => {
+      if (gh) { a.href = `https://github.com/${encodeURIComponent(gh)}/${REPO}${a.dataset.href}`; a.removeAttribute('aria-disabled'); }
+      else { a.removeAttribute('href'); a.setAttribute('aria-disabled', 'true'); }
+    });
+    const site = $('#site');
+    if (gh) { site.href = `https://${gh.toLowerCase()}.github.io/${REPO}/`; site.removeAttribute('aria-disabled'); }
+    else { site.removeAttribute('href'); site.setAttribute('aria-disabled', 'true'); }
+    $('#dg-val').textContent = dg || 'your Discogs username';
+  }
+  $('#gh').addEventListener('input', render);
+  $('#dg').addEventListener('input', render);
+  render();
+
+  document.querySelectorAll('.copy').forEach((b) => b.addEventListener('click', async () => {
+    const text = b.dataset.copy || $('#' + b.dataset.copyFrom).value.trim();
+    if (!text) { $('#' + (b.dataset.copyFrom || 'dg')).focus(); return; }
+    try { await navigator.clipboard.writeText(text); } catch { return; }
+    const s = document.createElement('span'); s.className = 'done'; s.textContent = 'Copied';
+    b.after(s); setTimeout(() => s.remove(), 1500);
+  }));
+})();
+</script>
+</body>
+</html>

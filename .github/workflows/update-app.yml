@@ -1,0 +1,73 @@
+name: Update app
+
+# For copies made from the original Crate: each night, take the latest app code (site/, sync/ and the
+# README) from the original repository. Never touches data/ or user/, so your collection, BPM/key edits
+# and mixes stay yours. Does nothing in the original repository itself.
+#
+# To turn it off, add the repository variable CRATE_AUTO_UPDATE with the value off.
+# GitHub doesn't let a workflow change workflow files with its built-in token, so changes to
+# .github/workflows only come along if you add a CRATE_UPDATE_TOKEN secret: a fine-grained token for
+# this repository with Contents and Workflows set to read and write. Without it, the run summary says
+# when the workflows have changed upstream.
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: update-app
+  cancel-in-progress: false
+
+env:
+  UPSTREAM: ${{ vars.CRATE_UPSTREAM || 'Numero-bisbis/Discogs-crate' }}
+
+jobs:
+  update:
+    if: github.repository != (vars.CRATE_UPSTREAM || 'Numero-bisbis/Discogs-crate') && vars.CRATE_AUTO_UPDATE != 'off'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.CRATE_UPDATE_TOKEN || github.token }}
+
+      - name: Take the latest app code from the original Crate
+        id: update
+        env:
+          WITH_WORKFLOWS: ${{ secrets.CRATE_UPDATE_TOKEN != '' }}
+        run: |
+          git fetch --depth=1 "https://github.com/${UPSTREAM}.git" main
+          paths="site sync README.md .gitignore"
+          if [ "$WITH_WORKFLOWS" = "true" ]; then paths="$paths .github/workflows"; fi
+          # Replace each path wholesale, so files removed upstream go away here too.
+          for p in $paths; do
+            git rm -r -q --ignore-unmatch -- "$p"
+            if git cat-file -e "FETCH_HEAD:$p" 2>/dev/null; then git checkout FETCH_HEAD -- "$p"; fi
+          done
+          if [ "$WITH_WORKFLOWS" != "true" ] && ! git diff --quiet HEAD FETCH_HEAD -- .github/workflows; then
+            echo "The original Crate changed its workflows. Copy the files in .github/workflows from https://github.com/${UPSTREAM} by hand, or add a CRATE_UPDATE_TOKEN secret so this happens automatically (see the top of this workflow)." >> "$GITHUB_STEP_SUMMARY"
+            echo "::warning::Workflows changed upstream and were not updated (no CRATE_UPDATE_TOKEN secret)"
+          fi
+          if git diff --cached --quiet; then
+            echo "Already up to date with ${UPSTREAM}"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "crate-update"
+          git config user.email "crate-update@users.noreply.github.com"
+          git commit -q -m "Update app from ${UPSTREAM}@$(git rev-parse --short FETCH_HEAD)"
+          git pull -q --rebase origin main
+          git push origin HEAD:main
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      # Pushes made with the built-in token don't start other workflows, so publish the new code explicitly.
+      - name: Publish the updated app
+        if: steps.update.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref main
