@@ -106,8 +106,119 @@
 
   function select(name, label, options, value, allLabel = 'All') {
     return `<label class="f"><span>${label}</span><select data-f="${name}"><option value="">${allLabel}</option>${options
-      .map(([v, n, label]) => `<option value="${esc(v)}"${String(v) === String(value) ? ' selected' : ''}>${esc(label || v)}${n != null ? ` (${n})` : ''}</option>`)
+      .map(([v, n, label]) => `<option value="${esc(v)}"${n != null ? ` data-n="${n}"` : ''}${String(v) === String(value) ? ' selected' : ''}>${esc(label || v)}</option>`)
       .join('')}</select></label>`;
+  }
+
+  // ---------- menus: our own dropdown in place of the browser's select ----------
+  // Every <select> in the filter bars, the generator and Settings stays in the page (so the existing
+  // change handlers keep working) but is hidden behind a button that opens a light popover on a
+  // computer and a bottom sheet on a phone, with a search field when the list is long.
+  const DD_DOWN = '<svg class="dd-chev" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5"/></svg>';
+  const DD_UPDOWN = '<svg class="dd-chev" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 9.5l4-4 4 4M8 14.5l4 4 4-4"/></svg>';
+  const DD_CHECK = '<svg class="mi-check" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>';
+  function enhanceSelect(sel) {
+    sel.dataset.dd = '1';
+    const host = sel.closest('label');
+    const nameEl = host && host.querySelector('.gl, :scope > span');
+    const name = nameEl ? nameEl.firstChild.textContent.trim() : '';
+    const inBar = !!sel.closest('.filters'), keep = !!sel.closest('.keep');
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'dd' + (inBar ? ' chip' : '');
+    b.setAttribute('aria-haspopup', 'listbox');
+    b.setAttribute('aria-expanded', 'false');
+    sel.classList.add('dd-native');
+    sel.tabIndex = -1;
+    sel.setAttribute('aria-hidden', 'true');
+    sel.before(b); // first in the label, so tapping the label text opens the menu too
+    sel._ddName = name;
+    sel._ddPaint = () => {
+      const o = sel.selectedOptions[0], v = o ? o.textContent : '', set = !!sel.value;
+      b.classList.toggle('set', inBar && set && !keep);
+      b.innerHTML = inBar && name
+        ? (set || keep ? `<span class="dd-k">${esc(name)}</span><span class="dd-v">${esc(v)}</span>` : `<span class="dd-v">${esc(name)}</span>`) + DD_DOWN
+        : `<span class="dd-v">${esc(v)}</span>${DD_UPDOWN}`;
+      b.setAttribute('aria-label', `${name ? name + ': ' : ''}${v}`);
+    };
+    sel._ddPaint();
+    b.onclick = (e) => { e.preventDefault(); openMenu(sel, b); };
+  }
+  new MutationObserver(() => $$('.filters select:not([data-dd]), .gen-card select:not([data-dd]), #settings select:not([data-dd])').forEach(enhanceSelect))
+    .observe(document.body, { childList: true, subtree: true });
+
+  let closeMenu = () => {};
+  function openMenu(sel, btn) {
+    closeMenu();
+    const phone = matchMedia('(max-width: 720px)').matches;
+    const opts = [...sel.options];
+    const wrap = document.createElement('div');
+    wrap.className = 'menu-wrap' + (phone ? ' sheet' : '');
+    wrap.innerHTML = `<div class="menu-back"></div><div class="menu" role="dialog" aria-label="${esc(sel._ddName || 'Choose')}">
+      ${phone ? `<div class="menu-head"><span class="menu-grab"></span><b>${esc(sel._ddName || '')}</b><button type="button" class="menu-done">Done</button></div>` : ''}
+      ${opts.length > 10 ? '<div class="menu-search"><input type="search" placeholder="Search" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search"></div>' : ''}
+      <div class="menu-list" role="listbox">${opts.map((o, i) => `<button type="button" role="option" class="mi" data-i="${i}" aria-selected="${o.selected}"><span class="mi-t">${esc(o.textContent)}</span>${o.dataset.n ? `<span class="mi-n">${esc(o.dataset.n)}</span>` : ''}${DD_CHECK}</button>`).join('')}
+      <p class="mi-none" hidden>Nothing matches</p></div></div>`;
+    document.body.appendChild(wrap);
+    const menu = $('.menu', wrap), list = $('.menu-list', wrap), search = $('.menu-search input', wrap);
+    const items = $$('.mi', wrap);
+
+    if (!phone) {
+      const r = btn.getBoundingClientRect(), vw = innerWidth, vh = innerHeight;
+      const w = Math.min(vw - 16, Math.max(r.width, 230));
+      const below = vh - r.bottom - 12, above = r.top - 12;
+      const up = below < 260 && above > below;
+      let left = btn.closest('.gr') ? r.right - w : r.left;
+      left = Math.max(8, Math.min(left, vw - 8 - w));
+      Object.assign(menu.style, { left: left + 'px', width: w + 'px', maxHeight: Math.min(380, up ? above : below) + 'px' });
+      if (up) menu.style.bottom = vh - r.top + 6 + 'px'; else menu.style.top = r.bottom + 6 + 'px';
+      menu.classList.toggle('up', up);
+    }
+    requestAnimationFrame(() => wrap.classList.add('in'));
+    btn.setAttribute('aria-expanded', 'true');
+    const cur = items.find((it) => it.getAttribute('aria-selected') === 'true');
+    if (cur) list.scrollTop = cur.offsetTop - list.clientHeight / 2 + cur.offsetHeight / 2;
+    (search && !phone ? search : cur || items[0])?.focus({ preventScroll: true });
+
+    const onScroll = (e) => { if (!wrap.contains(e.target)) closeMenu(); };
+    const onKey = (e) => {
+      if (e.key === 'Escape') { e.preventDefault(); closeMenu(); btn.focus(); return; }
+      if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp') return;
+      e.preventDefault();
+      const vis = items.filter((it) => !it.hidden), at = vis.indexOf(document.activeElement);
+      const next = vis[e.key === 'ArrowDown' ? Math.min(vis.length - 1, at + 1) : Math.max(0, at - 1)];
+      next?.focus();
+    };
+    closeMenu = () => {
+      closeMenu = () => {};
+      removeEventListener('scroll', onScroll, true);
+      removeEventListener('resize', closeMenu);
+      document.removeEventListener('keydown', onKey, true);
+      btn.setAttribute('aria-expanded', 'false');
+      wrap.classList.remove('in');
+      wrap.classList.add('out');
+      setTimeout(() => wrap.remove(), phone ? 260 : 120);
+    };
+    if (!phone) addEventListener('scroll', onScroll, true);
+    addEventListener('resize', closeMenu);
+    document.addEventListener('keydown', onKey, true);
+    $('.menu-back', wrap).onclick = () => closeMenu();
+    const done = $('.menu-done', wrap);
+    if (done) done.onclick = () => closeMenu();
+    if (search) search.oninput = () => {
+      const q = norm(search.value);
+      let any = false;
+      items.forEach((it) => { it.hidden = !!q && !norm($('.mi-t', it).textContent).includes(q); any ||= !it.hidden; });
+      $('.mi-none', wrap).hidden = any;
+    };
+    if (search) search.onkeydown = (e) => { if (e.key === 'Enter') { e.preventDefault(); items.find((it) => !it.hidden)?.click(); } };
+    items.forEach((it) => (it.onclick = () => {
+      const changed = sel.selectedIndex !== +it.dataset.i;
+      sel.selectedIndex = +it.dataset.i;
+      sel._ddPaint();
+      closeMenu();
+      if (changed) sel.dispatchEvent(new Event('change', { bubbles: true }));
+    }));
   }
 
   function camBadge(cam, key) {
@@ -1248,7 +1359,7 @@
       select('label', 'Label', facet(all, (r) => r.labels.map((l) => l.name)), rf.label) +
       select('decade', 'Decade', facet(all, (r) => [r.year ? String(Math.floor(r.year / 10) * 10) : null]).sort((a, b) => b[0] - a[0]), rf.decade) +
       (folders.length ? select('folder', 'Folder', folders, rf.folder) : '') +
-      `<label class="f"><span>BPM</span><span class="range"><input data-f="bpmMin" value="${esc(rf.bpmMin || '')}" placeholder="min" inputmode="numeric">–<input data-f="bpmMax" value="${esc(rf.bpmMax || '')}" placeholder="max" inputmode="numeric"></span></label>` +
+      `<label class="f bpm"><span class="range${rf.bpmMin || rf.bpmMax ? ' set' : ''}"><b>BPM</b><input data-f="bpmMin" value="${esc(rf.bpmMin || '')}" placeholder="min" inputmode="numeric" aria-label="Lowest BPM"><i>–</i><input data-f="bpmMax" value="${esc(rf.bpmMax || '')}" placeholder="max" inputmode="numeric" aria-label="Highest BPM"></span></label>` +
       select('cam', 'Key', camOptions(), rf.cam, 'Any') +
       `<label class="f keep"><span>Sort</span><select data-f="sort">${[['added', 'Recently added'], ['artist', 'Artist'], ['title', 'Title'], ['year', 'Year (new → old)'], ['yearAsc', 'Year (old → new)'], ['label', 'Label / cat no.'], ['rating', 'My rating']]
         .map(([v, n]) => `<option value="${v}"${rf.sort === v ? ' selected' : ''}>${n}</option>`).join('')}</select></label>` +
@@ -1617,10 +1728,10 @@
     $('#track-filters').innerHTML = filterHead('track-filters', tf, TK) +
       select('genre', 'Genre', facet(DATA.releases, (r) => r.genres), tf.genre) +
       select('style', 'Style', facet(DATA.releases, (r) => r.styles), tf.style) +
-      `<label class="f"><span>BPM</span><span class="range"><input data-f="bpmMin" value="${esc(tf.bpmMin || '')}" placeholder="min" inputmode="numeric">–<input data-f="bpmMax" value="${esc(tf.bpmMax || '')}" placeholder="max" inputmode="numeric"></span></label>` +
+      `<label class="f bpm"><span class="range${tf.bpmMin || tf.bpmMax ? ' set' : ''}"><b>BPM</b><input data-f="bpmMin" value="${esc(tf.bpmMin || '')}" placeholder="min" inputmode="numeric" aria-label="Lowest BPM"><i>–</i><input data-f="bpmMax" value="${esc(tf.bpmMax || '')}" placeholder="max" inputmode="numeric" aria-label="Highest BPM"></span></label>` +
       select('cam', 'Key', allCams.map(([c]) => [c, null]), tf.cam, 'Any') +
       select('compat', 'Mixes with', allCams.map(([c]) => [c, null]), tf.compat, 'Any') +
-      `<label class="f"><span>Show</span><select data-f="has">${[['', 'All tracks'], ['bpm', 'With BPM'], ['missing', 'Missing BPM/key'], ['notfound', 'Not found'], ['pending', 'Not looked up yet'], ['est', 'Estimated (check by ear)'], ['edited', 'My edits']]
+      `<label class="f"><span>Status</span><select data-f="has">${[['', 'All tracks'], ['bpm', 'With BPM'], ['missing', 'Missing BPM/key'], ['notfound', 'Not found'], ['pending', 'Not looked up yet'], ['est', 'Estimated (check by ear)'], ['edited', 'My edits']]
         .map(([v, n]) => `<option value="${v}"${(tf.has || '') === v ? ' selected' : ''}>${n}</option>`).join('')}</select></label>` +
       `<span class="count">${list.length} tracks</span>` + viewSwitch();
     trackRecs = [...new Set(list.map((t) => t.r))];
@@ -1873,7 +1984,7 @@
   }
 
   // The Generate tab: settings, then a draft you can tweak, regenerate, or save into My mixes.
-  const VIBES = [['', 'Smooth'], ['build', 'Build energy'], ['down', 'Wind down'], ['eclectic', 'Eclectic']];
+  const VIBES = [['', 'Smooth'], ['build', 'Build up'], ['down', 'Wind down'], ['eclectic', 'Eclectic']];
   function trackLine(t) {
     const e = eff(t);
     return `<b>${esc(t.title)}</b><small>${esc(t.artist)} · ${esc(t.r.title)}${e.bpm ? ' · ' + e.bpm + ' BPM' : ''}${e.cam ? ' · ' + esc(e.cam) : ''}</small>`;
@@ -1892,7 +2003,8 @@
     // Typed style names snap to the real one, whatever the case; anything else means Any.
     const pickStyle = (v) => { v = v.trim().toLowerCase(); if (!v) return ''; const hit = styles.find(([s]) => s.toLowerCase() === v); if (hit) return hit[0]; const near = styles.filter(([s]) => s.toLowerCase().includes(v)); return near.length === 1 ? near[0][0] : ''; };
     const d = user.draft;
-    const opt = (list, cur, any) => `<option value="">${any}</option>` + list.map(([v, n]) => `<option value="${esc(v)}"${String(v) === String(cur) ? ' selected' : ''}>${esc(v)}${n != null ? ` (${n})` : ''}</option>`).join('');
+    const opt = (list, cur, any) => `<option value="">${any}</option>` + list.map(([v, n, l]) => `<option value="${esc(v)}"${n != null ? ` data-n="${n}"` : ''}${String(v) === String(cur) ? ' selected' : ''}>${esc(l || v)}</option>`).join('');
+    const MINC = [['', 'Any'], ['50', '50+'], ['60', '60+'], ['70', '70+'], ['80', '80+'], ['90', '90+']];
     const nMax = bridge ? 20 : 40, nMin = bridge ? 1 : 2, n = Math.max(nMin, Math.min(nMax, +gen.n || (bridge ? 6 : 10)));
     let html = `<section class="gen-card"><h2>Generate a mix</h2>
       <div class="seg" role="tablist" aria-label="Kind of mix"><button role="tab" data-mode="" aria-selected="${!bridge}">Tempo plan</button><button role="tab" data-mode="bridge" aria-selected="${bridge}">Bridge tracks</button></div>
@@ -1902,16 +2014,14 @@
       ${bridge ? `<div class="group">${pickerHtml('a', 'From')}${pickerHtml('b', 'To')}</div>` : ''}
       <div class="group gen">
         <label class="gr"><span class="gl">Genre</span><select data-f="genre">${opt(facet(DATA.releases, (r) => r.genres), gen.genre, 'Any')}</select></label>
-        <label class="gr"><span class="gl">Style</span><input type="search" data-f="style" list="style-list" value="${esc(gen.style)}" placeholder="Any, type to search" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="done"></label>
-        <datalist id="style-list">${styles.map(([v, c]) => `<option value="${esc(v)}">${c} records</option>`).join('')}</datalist>
-        ${bridge ? '' : `<label class="gr"><span class="gl">Start BPM</span><input data-f="from" value="${esc(gen.from)}" inputmode="numeric"></label>
-        <label class="gr"><span class="gl">End BPM</span><input data-f="to" value="${esc(gen.to ?? '')}" placeholder="Any" inputmode="numeric"></label>
+        <label class="gr"><span class="gl">Style</span><select data-f="style">${opt(styles, pickStyle(gen.style || ''), 'Any')}</select></label>
+        ${bridge ? '' : `<div class="gr"><span class="gl">BPM <small>start → end</small></span><span class="bpm-pair"><input data-f="from" value="${esc(gen.from)}" inputmode="numeric" aria-label="Start BPM"><i>→</i><input data-f="to" value="${esc(gen.to ?? '')}" placeholder="Any" inputmode="numeric" aria-label="End BPM"></span></div>
         ${gen.nokeys ? '' : `<label class="gr"><span class="gl">Start key</span><select data-f="cam">${opt(camOptions(), gen.cam, 'Any')}</select></label>`}`}
-        <label class="gr"><span class="gl">Min. match <small>between tracks</small></span><select data-f="minc">${[['', 'Any'], ['50', '50 or more'], ['60', '60 or more'], ['70', '70 or more'], ['80', '80 or more'], ['90', '90 or more']].map(([v, l]) => `<option value="${v}"${String(gen.minc || '') === v ? ' selected' : ''}>${l}</option>`).join('')}</select></label>
+        <div class="gr wrap"><span class="gl">Min. match <small>between tracks</small></span><div class="seg mini" role="radiogroup" aria-label="Minimum match between tracks">${MINC.map(([v, l]) => `<button type="button" role="radio" data-minc="${v}" aria-checked="${String(gen.minc || '') === v}">${l}</button>`).join('')}</div></div>
         <div class="gr"><span class="gl">${!bridge ? 'Tracks' : gen.a && !gen.b ? 'Tracks after' : gen.b && !gen.a ? 'Tracks before' : 'Tracks in between'}</span><div class="stepper"><button type="button" data-step="-1" aria-label="Fewer"${n <= nMin ? ' disabled' : ''}>−</button><b>${n}</b><button type="button" data-step="1" aria-label="More"${n >= nMax ? ' disabled' : ''}>+</button></div></div>
         <label class="gr"><span class="gl">Ignore keys <small>tempo only</small></span><span class="switch"><input type="checkbox" data-f="nokeys"${gen.nokeys ? ' checked' : ''}><span></span></span></label>
       </div>
-      ${bridge ? '' : `<div class="group-h">Vibe</div><div class="chips" role="radiogroup" aria-label="Vibe">${VIBES.map(([v, l]) => `<button type="button" role="radio" data-vibe="${v}" aria-checked="${(gen.vibe || '') === v}">${l}</button>`).join('')}</div>`}
+      ${bridge ? '' : `<div class="group-h">Vibe</div><div class="seg vibe" role="radiogroup" aria-label="Vibe">${VIBES.map(([v, l]) => `<button type="button" role="radio" data-vibe="${v}" aria-checked="${(gen.vibe || '') === v}">${l}</button>`).join('')}</div>`}
       <div class="gen-go"><button id="gen-go" class="primary">${d ? 'Generate again' : 'Generate'}</button><span class="sub">${k} tracks to choose from</span></div></section>`;
     if (d) {
       const g = d.generated || {};
@@ -1930,16 +2040,12 @@
       gen[el.dataset.f] = val(el);
       if (el.dataset.f === 'genre') gen.style = '';
       store.set('gen', gen);
-      if (el.dataset.f === 'style') {
-        el.value = gen.style;
-        $('.gen-go .sub', root).textContent = `${pool()} tracks to choose from`;
-        return;
-      }
       // Typed numbers don't redraw, so tapping Generate straight after typing still lands.
       if (el.type !== 'text') renderGenerate();
     }));
     $$('.seg [data-mode]', root).forEach((b) => (b.onclick = () => { gen.mode = b.dataset.mode; gen.n = gen.mode === 'bridge' ? 6 : 10; store.set('gen', gen); renderGenerate(); }));
     $$('[data-vibe]', root).forEach((b) => (b.onclick = () => { gen.vibe = b.dataset.vibe; store.set('gen', gen); $$('[data-vibe]', root).forEach((x) => x.setAttribute('aria-checked', x === b)); }));
+    $$('[data-minc]', root).forEach((b) => (b.onclick = () => { gen.minc = b.dataset.minc; store.set('gen', gen); $$('[data-minc]', root).forEach((x) => x.setAttribute('aria-checked', x === b)); }));
     $$('[data-step]', root).forEach((b) => (b.onclick = () => { gen.n = Math.max(nMin, Math.min(nMax, n + +b.dataset.step)); store.set('gen', gen); renderGenerate(); }));
     $$('[data-clear]', root).forEach((b) => (b.onclick = () => { gen[b.dataset.clear] = ''; store.set('gen', gen); renderGenerate(); setTimeout(() => $(`[data-pick="${b.dataset.clear}"]`)?.focus(), 0); }));
     $$('[data-pick]', root).forEach((inp) => {
