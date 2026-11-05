@@ -1,0 +1,60 @@
+name: Portfolio screenshots
+
+# Takes the screenshots for the Crate portfolio page with the real collection, covers and previews,
+# and commits them as JPEGs to portfolio/shots on this branch. Runs only on this branch.
+on:
+  push:
+    branches: [claude/project-thread-te9e2k]
+    paths:
+      - "portfolio/shoot.js"
+      - ".github/workflows/portfolio-shots.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  shots:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests numpy pillow
+      - run: python sync/build.py
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install --no-save playwright@1.48.2 && npx playwright install --with-deps chromium
+      - name: Shoot
+        run: |
+          python -m http.server -d site 8765 >/dev/null 2>&1 &
+          sleep 2
+          OUT=/tmp/shots node portfolio/shoot.js
+      - name: Convert to JPEG
+        run: |
+          python - <<'PY'
+          import glob, os
+          from PIL import Image
+          os.makedirs('portfolio/shots', exist_ok=True)
+          for f in sorted(glob.glob('/tmp/shots/*.png')):
+              im = Image.open(f).convert('RGB')
+              n = os.path.basename(f)[:-4]
+              w = 780 if n.startswith('phone') else 1600 if n.startswith(('crate', 'decks')) else 2000
+              im = im.resize((w, round(im.height * w / im.width)), Image.LANCZOS)
+              im.save(f'portfolio/shots/{n}.jpg', quality=88, optimize=True, progressive=True)
+              print(n, im.size)
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: portfolio-shots
+          path: /tmp/shots
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898732+github-actions[bot]@users.noreply.github.com"
+          git add portfolio/shots
+          git commit -m "Portfolio screenshots from the live collection" || exit 0
+          git push
