@@ -1,4 +1,6 @@
 """Combine the collection, release details and BPM/key cache into site/data.json."""
+import os
+import shutil
 from datetime import datetime, timezone
 
 import numpy as np
@@ -46,6 +48,20 @@ def sound_profiles(releases):
 
 def main():
     collection = load_json(DATA / "collection.json", {"items": [], "folders": {}})
+    # In GitHub Actions the workflow passes the Discogs account this copy is for. A copy made from someone
+    # else's Crate still holds their data until its first sync, so publish nothing until it matches.
+    owner = os.environ.get("DISCOGS_USERNAME")
+    if owner is not None:
+        owner = owner.strip()
+        if not owner or owner.lower() != (collection.get("username") or "").lower():
+            collection = {"items": [], "folders": {}, "username": owner or None}
+            print("Collection not synced for this account yet: publishing an empty Crate" if owner
+                  else "DISCOGS_USERNAME is not set: publishing the set-up message")
+    user_state = ROOT / "site" / "user" / "state.json"
+    user_state.unlink(missing_ok=True)
+    if collection["items"] and (ROOT / "user" / "state.json").exists():
+        user_state.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy(ROOT / "user" / "state.json", user_state)
     audio = load_json(DATA / "audio.json", {})
     releases = []
     for it in collection["items"]:
@@ -89,6 +105,8 @@ def main():
     out = {
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "username": collection.get("username"),
+        # The app shows how to finish setting up a copy when this is true.
+        "setup": not collection.get("username"),
         "releases": releases,
     }
     save_json(ROOT / "site" / "data.json", out, compact=True)

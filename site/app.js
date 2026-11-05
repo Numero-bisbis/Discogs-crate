@@ -1263,7 +1263,9 @@
           <div class="cover">${r.cover && !/spacer\.gif/.test(r.cover) ? `<img loading="lazy" src="${esc(r.cover)}" alt="">` : '<div class="nocover"></div>'}</div>
           <div class="meta"><b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small></div>
         </button>`).join('')
-      : `<p class="empty">${DATA.releases.length ? 'No records match these filters.' : 'No records yet. The first sync fills this in.'}</p>`;
+      : `<p class="empty">${DATA.releases.length ? 'No records match these filters.' : DATA.setup
+          ? `This Crate isn't connected to a Discogs collection yet. Add the repository variable <code>DISCOGS_USERNAME</code> with your Discogs username, then run <b>Sync collection</b> on the Actions tab. <a href="setup.html">Step-by-step guide</a>`
+          : 'No records yet. The first sync fills this in.'}</p>`;
     $$('#record-grid .card').forEach((c) => (c.onclick = () => openRecord(DATA.releases.find((r) => String(r.iid || r.id) === c.dataset.id))));
   }
 
@@ -2267,7 +2269,10 @@
         <p>Paste a GitHub fine-grained token that can only write to this repository's contents. Your edits and mixes are then saved to <code>user/state.json</code> in the repo and load on any device. The token stays in this browser.</p>
         <label class="f"><span>Repository</span><input id="gh-repo" value="${esc(settings.ghRepo || guessRepo())}" placeholder="owner/repo"></label>
         <label class="f"><span>Token</span><input id="gh-token" type="password" value="${esc(settings.ghToken)}" placeholder="github_pat_…"></label>
-        <div class="row"><button id="gh-save">Save and sync now</button><span id="gh-status" class="sub"></span></div></section>`;
+        <div class="row"><button id="gh-save">Save and sync now</button><span id="gh-status" class="sub"></span></div></section>
+      <section class="card-s"><h2>Share Crate with a friend</h2>
+        <p>Friends can get their own free Crate for their Discogs collection, with all the same features. It runs on their GitHub account, shows only their records, and picks up new app updates each night.</p>
+        <div class="row"><a class="button" href="setup.html">Set up your own Crate</a></div></section>`;
     $('#pitch').onchange = (e) => { settings.pitchRange = +e.target.value; store.set('settings', settings); };
     if ($('#sp-in')) $('#sp-in').onclick = () => {
       settings.spClient = $('#sp-client').value.trim();
