@@ -1310,7 +1310,7 @@
     $$('.view').forEach((s) => s.classList.toggle('active', s.id === 'view-' + v));
     $('.search-wrap').hidden = !['records', 'tracks'].includes(v);
     document.body.dataset.view = v;
-    $('#ltitle').textContent = { records: 'Records', tracks: 'Tracks', generate: 'Generate', mixes: 'My mixes', settings: 'Settings' }[v];
+    $('#ltitle').textContent = { records: 'Records', tracks: 'Tracks', generate: 'Generate', mixes: 'My mixes', value: 'Value', settings: 'Settings' }[v];
     render();
     window.scrollTo(0, 0);
     try { history.replaceState(null, '', '#' + v); } catch { /* sandboxed */ }
@@ -1321,6 +1321,7 @@
     else if (view === 'tracks') renderTracks();
     else if (view === 'mixes') renderMixes();
     else if (view === 'generate') renderGenerate();
+    else if (view === 'value') { if (window.CrateValue) window.CrateValue.render(); }
     else renderSettings();
   }
 
@@ -1653,6 +1654,7 @@
         <p>${esc([r.format, r.country, r.year].filter(Boolean).join(' · '))}</p>
         <p class="tags">${[...r.genres, ...r.styles].map((g) => `<span>${esc(g)}</span>`).join('')}</p>
         <p><a class="ext" href="${esc(r.url)}" target="_blank" rel="noopener">Open on Discogs ↗</a></p></div></div>
+      ${window.CrateValue ? window.CrateValue.recordHtml(r) : ''}
       <div class="table-wrap"><table class="tl"><thead><tr><th>Pos</th><th>Track</th><th>Time</th><th>BPM</th><th>Key</th><th title="Where the BPM and key came from. Tap a tag to see what it means.">Source</th><th></th></tr></thead><tbody>${rows || '<tr><td colspan="7">No tracklist yet.</td></tr>'}</tbody></table></div>
       <p class="hint">From: <b>DB</b> = AcousticBrainz database, <b>est.</b> = estimated from a 30-second preview, <b>you</b> = your edit, <b>none</b> = nothing found, <b>…</b> = not looked up yet. Type over any value to fix it.</p>
       ${r.vids && r.vids.length ? `<h3>More videos <small>from this record's Discogs page</small></h3><div class="vids">${r.vids.map(([id, title]) => `<button class="vid" data-video="${esc(id)}" data-title="${esc(title)}" data-sub="${esc(r.artist + ' · ' + r.title)}">${PLAY_SVG}<span>${esc(title)}</span></button>`).join('')}</div>` : ''}`;
@@ -2355,6 +2357,9 @@
       <section class="card-s"><h2>Collection</h2>
         <p>${DATA.releases.length} records, ${TRACKS.length} tracks from <a href="https://www.discogs.com/user/${esc(DATA.username)}/collection" target="_blank" rel="noopener">${esc(DATA.username || 'Discogs')}</a>. Last synced ${DATA.generated ? new Date(DATA.generated).toLocaleString() : 'never'}; it re-syncs automatically every few hours.</p>
         <p>${withBpm} tracks have a BPM and ${withKey} have a key. ${src.map(([s, c]) => `${esc(s)}: ${c}`).join(' · ')}</p></section>
+      <section class="card-s" id="value-card"><h2>Collection value</h2>
+        <p>The Value tab prices every record on the Discogs marketplace during the regular sync and saves the collection's value once a day, so you can see it grow or drop over time. Discogs keeps no price history, so the graph starts from the first day Crate saved.</p>
+        <p>Without a Discogs token Crate only sees the cheapest copy for sale. For Discogs' own minimum, median and maximum and prices by condition: generate a token at Discogs <b>Settings › Developers</b>, add it to this repository as the secret <code>DISCOGS_TOKEN</code> (<b>Settings › Secrets and variables › Actions</b>), and fill in your <a href="https://www.discogs.com/settings/seller" target="_blank" rel="noopener">seller settings</a> on Discogs once (you don't have to sell anything; Discogs only gives price suggestions to accounts that have them). Prices come in your Discogs currency; set the repository variable <code>DISCOGS_CURRENCY</code> (e.g. USD) to change the one used without a token.</p></section>
       <section class="card-s"><h2>Mixing</h2>
         <label class="f"><span>Turntable pitch range</span><select id="pitch">${[8, 16, 50].map((v) => `<option${settings.pitchRange === v ? ' selected' : ''} value="${v}">±${v}%</option>`).join('')}</select></label></section>
       <section class="card-s" id="sp-card"><h2>Full tracks with Spotify <small>(optional, Premium)</small></h2>
@@ -2539,6 +2544,7 @@
     viewSwitch: (c) => viewSwitch(c), modeChanged: () => syncSwitches(), modeViews: MODE_VIEWS,
     view: () => view, busy: () => $('#drawer').classList.contains('open') || !$('#crate').hidden,
     stopPlayer: () => { if (playing) closePlayer(); },
+    releases: () => DATA.releases, openRecord: (r) => r && openRecord(r),
     pitchRange: () => settings.pitchRange || 8, cover: (r) => coverUrl(r), relation: (a, b) => C.camRelation(a, b), norm, esc, toast,
   };
   const DECKS_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="7" cy="12" r="4.5"/><circle cx="17" cy="12" r="4.5"/><circle cx="7" cy="12" r=".6" fill="currentColor"/><circle cx="17" cy="12" r=".6" fill="currentColor"/></svg>';
@@ -2558,7 +2564,7 @@
     const s = $('#status');
     if (DATA.generated) s.textContent = `${DATA.releases.length} records · ${TRACKS.length} tracks · synced ${new Date(DATA.generated).toLocaleString()}`;
     const v = location.hash.slice(1);
-    setView(['records', 'tracks', 'generate', 'mixes', 'settings'].includes(v) ? v : 'records');
+    setView(['records', 'tracks', 'generate', 'mixes', 'value', 'settings'].includes(v) ? v : 'records');
     remoteLoad(false).catch(() => {});
   }
   boot();

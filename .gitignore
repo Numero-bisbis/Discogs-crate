@@ -3,3 +3,4 @@ __pycache__/
 *.tmp
 .venv/
 .models/
+site/value.json
