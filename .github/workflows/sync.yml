@@ -37,6 +37,16 @@ jobs:
           DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
         run: python sync/sync_discogs.py
 
+      - name: Price the collection and save today's value
+        env:
+          DISCOGS_USERNAME: ${{ vars.DISCOGS_USERNAME || 'Philippemccc' }}
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+          DISCOGS_CURRENCY: ${{ vars.DISCOGS_CURRENCY }}
+          VALUE_MINUTES: "8"
+        # Prices are a nice-to-have: a Discogs hiccup here must not stop the rest of the sync.
+        continue-on-error: true
+        run: python sync/value.py
+
       - name: Find BPM and key
         env:
           ENRICH_MINUTES: "25"

@@ -5,6 +5,7 @@ import numpy as np
 
 from common import DATA, ROOT, join_artists, load_json, save_json
 from tracks import iter_tracks
+from value import write_site as write_value
 from videos import match as match_videos
 
 
@@ -98,6 +99,7 @@ def main():
     n_dz = sum(1 for r in releases for t in r["tracks"] if t.get("dz") and not t.get("yt"))
     print(f"built site/data.json: {len(releases)} records, {n_tracks} tracks, {n_bpm} with BPM, "
           f"{n_yt} with a YouTube video, {n_dz} more with a Deezer preview, {len(snd)} with a sound profile")
+    write_value()
 
 
 if __name__ == "__main__":
