@@ -28,6 +28,7 @@ CURRENCY = (os.environ.get("DISCOGS_CURRENCY") or "EUR").strip().upper()
 INTERVAL = 1.1 if TOKEN else 2.5
 MINUTES = float(os.environ.get("VALUE_MINUTES", "8"))
 MAX_AGE = timedelta(hours=float(os.environ.get("VALUE_MAX_AGE_HOURS", "20")))
+RETRY_NO_SUGGESTIONS = timedelta(hours=3)
 VDIR = DATA / "value"
 
 # Discogs' condition names -> the short grades collectors use
@@ -35,9 +36,17 @@ GRADES = {"Mint (M)": "M", "Near Mint (NM or M-)": "NM", "Very Good Plus (VG+)":
           "Good Plus (G+)": "G+", "Good (G)": "G", "Fair (F)": "F", "Poor (P)": "P"}
 
 
+SEEN = {}  # what Discogs answered for price suggestions this run, for the log
+
+
 def api(path, **params):
     headers = {"Authorization": f"Discogs token={TOKEN}"} if TOKEN else None
     r = http_get(API + path, params=params, headers=headers, min_interval=INTERVAL, host_key="discogs")
+    if "price_suggestions" in path:
+        key = r.status_code if r.status_code != 200 else ("200 empty" if r.text.strip() in ("{}", "") else "200")
+        if key not in SEEN:
+            print(f"  price suggestions for {path.rsplit('/', 1)[-1]}: {key} {r.text[:200]!r}")
+        SEEN[key] = SEEN.get(key, 0) + 1
     if r.status_code in (401, 403, 404, 422):
         return None
     r.raise_for_status()
@@ -85,9 +94,8 @@ def estimate(p):
     return None
 
 
-def price_record(rid, old):
+def price_record(rid, old, cur=CURRENCY):
     out = {"t": datetime.now(timezone.utc).isoformat(timespec="seconds"), "h": old.get("h", [])}
-    cur = CURRENCY
     if TOKEN:
         sug = api(f"/marketplace/price_suggestions/{rid}")
         if sug:
@@ -139,14 +147,23 @@ def main():
     def age(rid):
         t = (prices.get(str(rid)) or {}).get("t")
         return datetime.fromisoformat(t) if t else datetime.min.replace(tzinfo=timezone.utc)
-    due = sorted((rid for rid in ids if now - age(rid) >= MAX_AGE), key=age)
+    # With a token, records that came back without price suggestions (seller settings not filled in yet,
+    # a Discogs hiccup, or simply no sales) are asked again after a few hours instead of a day.
+    def due_now(rid):
+        p = prices.get(str(rid)) or {}
+        wait = MAX_AGE if (p.get("s") or not TOKEN) else RETRY_NO_SUGGESTIONS
+        return now - age(rid) >= wait
+    due = sorted((rid for rid in ids if due_now(rid)), key=age)
     print(f"{len(ids)} records, {len(due)} due for a price check ({'with' if TOKEN else 'without'} a Discogs token)")
+    # Discogs' own collection value comes in the account's currency; list prices in the same one.
+    cv = api(f"/users/{USERNAME}/collection/value") if TOKEN else None
+    cur = (cv and money_currency(cv.get("median"))) or CURRENCY
     stop = time.monotonic() + MINUTES * 60
     done = 0
     for rid in due:
         if time.monotonic() > stop:
             break
-        p = price_record(rid, prices.get(str(rid)) or {})
+        p = price_record(rid, prices.get(str(rid)) or {}, cur)
         add_history_point(p, today)
         prices[str(rid)] = p
         done += 1
@@ -158,8 +175,9 @@ def main():
     save_json(VDIR / "prices.json", prices)
 
     point = {"d": today, "n": len(ids)}
+    if SEEN:
+        print("price suggestion answers: " + ", ".join(f"{k}: {v}" for k, v in SEEN.items()))
     if TOKEN:
-        cv = api(f"/users/{USERNAME}/collection/value")
         if cv:
             for k, short in (("minimum", "dmin"), ("median", "dmed"), ("maximum", "dmax")):
                 v = parse_money(cv.get(k))
