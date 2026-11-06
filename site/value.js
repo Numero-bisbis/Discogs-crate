@@ -12,7 +12,8 @@
     set(k, v) { try { localStorage.setItem('crate.' + k, JSON.stringify(v)); } catch { /* blocked */ } },
   };
   const st = Object.assign({ range: '3M', dim: 'genre', pick: '', sort: 'value', series: '' }, store.get('valueView', {}));
-  const save = () => store.set('valueView', { range: st.range, dim: st.dim, sort: st.sort, series: st.series });
+  const save = () => store.set('valueView', { range: st.range, dim: st.dim, sort: st.sort, series: st.series, lbBy: st.lbBy });
+  const lbShow = {}; // how far each leaderboard is opened: 5, 10, 25 or all
 
   let V = null, loading = null;
   function load() {
@@ -224,14 +225,37 @@
       rare: (a, b) => ((a.p && a.p.n) ?? 1e9) - ((b.p && b.p.n) ?? 1e9),
     };
     list.sort(sorters[st.sort] || sorters.value);
-    const listHtml = list.slice(0, st.more ? undefined : 60).map((x) => {
+    const recRow = (x, rank) => {
       const c = chg(x), p = x.p || {};
       const cover = A.cover(x.r);
       const sub = p.v ? (p.v[0] !== p.v[2] ? `${money(p.v[0], true)}–${money(p.v[2], true)}` : 'cheapest for sale') : p.t ? 'no sales or copies on Discogs' : 'not priced yet';
       return `<button type="button" class="vrec" data-id="${x.r.iid || x.r.id}">
+        ${rank ? `<span class="vr-rank">${rank}</span>` : ''}
         ${cover ? `<img loading="lazy" src="${esc(cover)}" alt="">` : '<span class="nocover"></span>'}
         <span class="vr-t"><b>${esc(x.r.title)}</b><small>${esc(x.r.artist)}</small></span>
         <span class="vr-v"><b>${p.v ? money(p.v[1]) : '–'}</b><small>${c != null && Math.abs(c) >= 0.005 ? changeHtml(p.v[1], p.v[1] - c) : esc(sub)}</small></span></button>`;
+    };
+    const listHtml = list.slice(0, st.more ? undefined : 60).map((x) => recRow(x)).join('');
+
+    // leaderboards: what went up, what went down, what's worth the most. Top 5, tap for more.
+    const pctChg = (x) => { const c = chg(x); return c == null ? null : (c / Math.max(0.01, mid(x) - c)) * 100; };
+    const by = st.lbBy === 'pct' ? pctChg : chg;
+    const pool = list.filter((x) => mid(x) != null);
+    const boards = [
+      ['up', 'Biggest gainers', pool.filter((x) => (chg(x) ?? 0) >= 0.005).sort((a, b) => by(b) - by(a)), `No record has gone up ${changeLabel || 'yet'}.`],
+      ['down', 'Biggest losers', pool.filter((x) => (chg(x) ?? 0) <= -0.005).sort((a, b) => by(a) - by(b)), `No record has gone down ${changeLabel || 'yet'}.`],
+      ['value', 'Most valuable', pool.slice().sort((a, b) => mid(b) - mid(a)), 'No prices yet.'],
+    ];
+    const STEPS = [5, 10, 25, Infinity];
+    const lbHtml = boards.map(([id, title, rows, none]) => {
+      const n = lbShow[id] || 5;
+      const next = STEPS.find((x) => x > n);
+      const more = rows.length > n
+        ? `<button type="button" class="linkish vlb-more" data-lb="${id}" data-n="${next >= rows.length ? 'all' : next}">${next >= rows.length ? `Show all ${rows.length}` : `Show top ${next}`}</button>`
+        : n > 5 && rows.length > 5 ? `<button type="button" class="linkish vlb-more" data-lb="${id}" data-n="5">Show top 5</button>` : '';
+      return `<div class="vlb"><div class="vlb-h"><h3>${esc(title)}</h3><small>${id === 'value' ? 'today' : esc(changeLabel || 'since the first snapshot')}</small></div>
+        ${rows.length ? `<div class="vrecs">${rows.slice(0, n).map((x, i) => recRow(x, i + 1)).join('')}</div>` : `<p class="vlb-none">${esc(none)}</p>`}
+        ${more}</div>`;
     }).join('');
 
     const seriesSeg = k.discogs && k.est && kind !== 'genre'
@@ -248,10 +272,12 @@
       <p class="vnote">${V.since ? `Tracking since ${esc(fmtDate(V.since))}. ` : ''}Discogs keeps no price history, so the line starts from Crate's first daily snapshot. ${st.pick ? `<button type="button" class="linkish" id="vclear">Show the whole collection</button>` : ''}</p>
       ${seriesSeg ? `<div class="vseries">${seriesSeg}</div>` : ''}
       ${tiles}
+      <section class="vsec"><div class="vsec-h"><h2>Leaderboards${st.pick ? ` <small>${esc(st.pick)}</small>` : ''}</h2>${SEG('lbBy', [['eur', 'By amount'], ['pct', 'By %']], st.lbBy === 'pct' ? 'pct' : 'eur')}</div>
+        <div class="vlbs">${lbHtml}</div></section>
       <section class="vsec"><div class="vsec-h"><h2>Breakdown</h2>${SEG('dim', Object.entries(DIMS).map(([v, [l]]) => [v, l]), st.dim)}</div>
         <div class="vbars">${breakdown || '<p class="empty">No prices yet.</p>'}</div>
         ${st.dim === 'genre' ? '<p class="vnote">Each record counts once, under its first genre on Discogs. Tap a genre to see its own line and records.</p>' : '<p class="vnote">Each record counts once, under its first ' + esc(DIMS[st.dim][0].toLowerCase()) + '. Tap one to list its records.</p>'}</section>
-      <section class="vsec"><div class="vsec-h"><h2>${st.pick ? esc(st.pick) : 'Records'} <small>${list.length}</small></h2>
+      <section class="vsec"><div class="vsec-h"><h2>${st.pick ? esc(st.pick) : 'All records'} <small>${list.length}</small></h2>
         <div class="filters vsort"><label class="f keep"><span>Sort</span><select id="vsort">${[['value', 'Worth the most'], ['up', `Gained most (${st.range})`], ['down', `Lost most (${st.range})`], ['cheap', 'Worth the least'], ['rare', 'Fewest for sale']].map(([v, l]) => `<option value="${v}"${st.sort === v ? ' selected' : ''}>${esc(l)}</option>`).join('')}</select></label></div></div>
         <div class="vrecs">${listHtml}</div>
         ${list.length > 60 && !st.more ? `<button class="more" id="vmore">Show all ${list.length}</button>` : ''}</section>
@@ -281,6 +307,7 @@
     $$('.vbar', root).forEach((b) => (b.onclick = () => { st.pick = st.pick === b.dataset.g ? '' : b.dataset.g; st.more = false; render(); }));
     if ($('#vclear')) $('#vclear').onclick = () => { st.pick = ''; render(); };
     $('#vsort').onchange = (e) => { st.sort = e.target.value; save(); render(); };
+    $$('.vlb-more', root).forEach((b) => (b.onclick = () => { lbShow[b.dataset.lb] = b.dataset.n === 'all' ? Infinity : +b.dataset.n; render(); }));
     if ($('#vmore')) $('#vmore').onclick = () => { st.more = true; render(); };
     $$('.vrec', root).forEach((b) => (b.onclick = () => A.openRecord(A.releases().find((r) => String(r.iid || r.id) === b.dataset.id))));
   }
