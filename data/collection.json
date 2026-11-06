@@ -1,6 +1,7 @@
 {
  "folders": {
-  "0": "All"
+  "0": "All",
+  "1": "Uncategorized"
  },
  "items": [
   {
@@ -53,8 +54,19 @@
     "year": 1969
    },
    "date_added": "2026-05-01T20:42:00-07:00",
+   "folder_id": 1,
    "id": 9806558,
    "instance_id": 2141175907,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Very Good Plus (VG+)"
+    },
+    {
+     "field_id": 2,
+     "value": "Good Plus (G+)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -106,8 +118,19 @@
     "year": 1984
    },
    "date_added": "2026-05-01T20:39:53-07:00",
+   "folder_id": 1,
    "id": 12095969,
    "instance_id": 2141175621,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Good Plus (G+)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -160,8 +183,19 @@
     "year": 1977
    },
    "date_added": "2026-05-01T20:37:00-07:00",
+   "folder_id": 1,
    "id": 14747099,
    "instance_id": 2141175220,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Very Good Plus (VG+)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good (VG)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -234,8 +268,19 @@
     "year": 2026
    },
    "date_added": "2026-04-18T14:09:51-07:00",
+   "folder_id": 1,
    "id": 37105539,
    "instance_id": 2136455990,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -300,8 +345,19 @@
     "year": 2020
    },
    "date_added": "2026-04-13T01:46:17-07:00",
+   "folder_id": 1,
    "id": 15993828,
    "instance_id": 2134510148,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -356,8 +412,19 @@
     "year": 2025
    },
    "date_added": "2026-04-13T01:45:21-07:00",
+   "folder_id": 1,
    "id": 34035552,
    "instance_id": 2134510005,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -412,8 +479,19 @@
     "year": 2022
    },
    "date_added": "2026-04-13T01:44:56-07:00",
+   "folder_id": 1,
    "id": 25101643,
    "instance_id": 2134509951,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -470,8 +548,19 @@
     "year": 2025
    },
    "date_added": "2026-01-14T15:58:39-08:00",
+   "folder_id": 1,
    "id": 34717032,
    "instance_id": 2102295731,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -528,8 +617,19 @@
     "year": 2025
    },
    "date_added": "2026-01-11T05:34:02-08:00",
+   "folder_id": 1,
    "id": 35407495,
    "instance_id": 2100894969,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -583,8 +683,19 @@
     "year": 2024
    },
    "date_added": "2026-01-09T08:30:49-08:00",
+   "folder_id": 1,
    "id": 31430825,
    "instance_id": 2099999356,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -658,8 +769,19 @@
     "year": 2022
    },
    "date_added": "2026-01-09T08:30:20-08:00",
+   "folder_id": 1,
    "id": 22786961,
    "instance_id": 2099999144,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -713,8 +835,19 @@
     "year": 2018
    },
    "date_added": "2026-01-09T08:28:04-08:00",
+   "folder_id": 1,
    "id": 12642678,
    "instance_id": 2099998160,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -779,8 +912,19 @@
     "year": 2024
    },
    "date_added": "2026-01-09T08:27:02-08:00",
+   "folder_id": 1,
    "id": 31431314,
    "instance_id": 2099997707,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -857,8 +1001,19 @@
     "year": 2018
    },
    "date_added": "2026-01-09T08:26:46-08:00",
+   "folder_id": 1,
    "id": 12765451,
    "instance_id": 2099997573,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -921,8 +1076,19 @@
     "year": 2019
    },
    "date_added": "2026-01-09T08:26:16-08:00",
+   "folder_id": 1,
    "id": 14210644,
    "instance_id": 2099997372,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -987,8 +1153,19 @@
     "year": 2025
    },
    "date_added": "2026-01-09T08:25:41-08:00",
+   "folder_id": 1,
    "id": 34890758,
    "instance_id": 2099997093,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -1053,8 +1230,19 @@
     "year": 2025
    },
    "date_added": "2025-12-19T10:28:10-08:00",
+   "folder_id": 1,
    "id": 35529886,
    "instance_id": 2091181840,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Near Mint (NM or M-)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good Plus (VG+)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -1110,8 +1298,19 @@
     "year": 2022
    },
    "date_added": "2025-12-11T11:07:35-08:00",
+   "folder_id": 1,
    "id": 23776664,
    "instance_id": 2088689124,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -1180,8 +1379,19 @@
     "year": 2024
    },
    "date_added": "2025-12-11T11:06:49-08:00",
+   "folder_id": 1,
    "id": 31643635,
    "instance_id": 2088688893,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -1250,8 +1460,19 @@
     "year": 2024
    },
    "date_added": "2025-12-11T11:06:30-08:00",
+   "folder_id": 1,
    "id": 35087933,
    "instance_id": 2088688795,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -1305,8 +1526,19 @@
     "year": 2025
    },
    "date_added": "2025-12-11T11:06:11-08:00",
+   "folder_id": 1,
    "id": 35207368,
    "instance_id": 2088688683,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -1371,8 +1603,19 @@
     "year": 2025
    },
    "date_added": "2025-12-11T11:05:56-08:00",
+   "folder_id": 1,
    "id": 33305322,
    "instance_id": 2088688608,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -1451,8 +1694,19 @@
     "year": 2025
    },
    "date_added": "2025-12-11T11:05:34-08:00",
+   "folder_id": 1,
    "id": 33418310,
    "instance_id": 2088688505,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -1525,8 +1779,19 @@
     "year": 2024
    },
    "date_added": "2025-12-11T11:05:16-08:00",
+   "folder_id": 1,
    "id": 30914862,
    "instance_id": 2088688407,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -1579,8 +1844,19 @@
     "year": 2025
    },
    "date_added": "2025-12-11T11:04:10-08:00",
+   "folder_id": 1,
    "id": 35462737,
    "instance_id": 2088688088,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -1635,8 +1911,19 @@
     "year": 2012
    },
    "date_added": "2025-12-11T11:03:27-08:00",
+   "folder_id": 1,
    "id": 14122521,
    "instance_id": 2088687897,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -1694,8 +1981,19 @@
     "year": 2011
    },
    "date_added": "2025-12-11T11:02:32-08:00",
+   "folder_id": 1,
    "id": 2922191,
    "instance_id": 2088687619,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -1751,8 +2049,19 @@
     "year": 2025
    },
    "date_added": "2025-12-11T11:01:53-08:00",
+   "folder_id": 1,
    "id": 34954499,
    "instance_id": 2088687421,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -1805,8 +2114,19 @@
     "year": 2025
    },
    "date_added": "2025-12-11T11:01:22-08:00",
+   "folder_id": 1,
    "id": 34515493,
    "instance_id": 2088687274,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -1894,8 +2214,19 @@
     "year": 2025
    },
    "date_added": "2025-11-12T07:19:49-08:00",
+   "folder_id": 1,
    "id": 35492476,
    "instance_id": 2079328291,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -1958,8 +2289,19 @@
     "year": 2023
    },
    "date_added": "2025-08-21T11:05:23-07:00",
+   "folder_id": 1,
    "id": 26741825,
    "instance_id": 2053348713,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -2025,8 +2367,19 @@
     "year": 2018
    },
    "date_added": "2025-08-21T11:04:01-07:00",
+   "folder_id": 1,
    "id": 12197000,
    "instance_id": 2053348329,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Near Mint (NM or M-)"
+    },
+    {
+     "field_id": 2,
+     "value": "Near Mint (NM or M-)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -2081,8 +2434,19 @@
     "year": 2018
    },
    "date_added": "2025-06-28T04:43:17-07:00",
+   "folder_id": 1,
    "id": 12069591,
    "instance_id": 2036502113,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -2139,8 +2503,19 @@
     "year": 2014
    },
    "date_added": "2025-01-25T06:34:15-08:00",
+   "folder_id": 1,
    "id": 6422335,
    "instance_id": 1911060312,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Very Good Plus (VG+)"
+    },
+    {
+     "field_id": 2,
+     "value": "Near Mint (NM or M-)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -2210,8 +2585,19 @@
     "year": 2017
    },
    "date_added": "2025-01-20T11:46:00-08:00",
+   "folder_id": 1,
    "id": 9763329,
    "instance_id": 1906085391,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -2285,8 +2671,19 @@
     "year": 2023
    },
    "date_added": "2025-01-20T11:45:33-08:00",
+   "folder_id": 1,
    "id": 29005822,
    "instance_id": 1906084761,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -2345,8 +2742,19 @@
     "year": 2023
    },
    "date_added": "2025-01-20T11:45:03-08:00",
+   "folder_id": 1,
    "id": 26705114,
    "instance_id": 1906084086,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -2410,8 +2818,19 @@
     "year": 2018
    },
    "date_added": "2025-01-20T11:44:37-08:00",
+   "folder_id": 1,
    "id": 12746598,
    "instance_id": 1906083549,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -2490,8 +2909,19 @@
     "year": 2023
    },
    "date_added": "2025-01-20T11:43:31-08:00",
+   "folder_id": 1,
    "id": 28492594,
    "instance_id": 1906082148,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -2548,8 +2978,19 @@
     "year": 2017
    },
    "date_added": "2025-01-20T11:43:05-08:00",
+   "folder_id": 1,
    "id": 23375357,
    "instance_id": 1906081605,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -2606,8 +3047,19 @@
     "year": 2020
    },
    "date_added": "2025-01-20T11:40:20-08:00",
+   "folder_id": 1,
    "id": 15461907,
    "instance_id": 1906078122,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -2678,8 +3130,19 @@
     "year": 2022
    },
    "date_added": "2025-01-20T11:38:43-08:00",
+   "folder_id": 1,
    "id": 21842059,
    "instance_id": 1906076199,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -2733,8 +3196,19 @@
     "year": 1980
    },
    "date_added": "2025-01-20T11:38:02-08:00",
+   "folder_id": 1,
    "id": 100020,
    "instance_id": 1906075308,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Very Good Plus (VG+)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good (VG)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -2796,8 +3270,19 @@
     "year": 2024
    },
    "date_added": "2025-01-13T14:41:56-08:00",
+   "folder_id": 1,
    "id": 30361997,
    "instance_id": 1898248449,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -2857,8 +3342,19 @@
     "year": 2024
    },
    "date_added": "2025-01-13T14:40:16-08:00",
+   "folder_id": 1,
    "id": 31940716,
    "instance_id": 1898247003,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -2911,8 +3407,19 @@
     "year": 2024
    },
    "date_added": "2024-11-25T23:52:28-08:00",
+   "folder_id": 1,
    "id": 31114850,
    "instance_id": 1847815182,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -2969,8 +3476,19 @@
     "year": 2024
    },
    "date_added": "2024-11-19T04:15:18-08:00",
+   "folder_id": 1,
    "id": 31861604,
    "instance_id": 1841604780,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -3025,8 +3543,19 @@
     "year": 2021
    },
    "date_added": "2024-11-18T14:34:40-08:00",
+   "folder_id": 1,
    "id": 22017571,
    "instance_id": 1841222037,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -3113,8 +3642,19 @@
     "year": 2024
    },
    "date_added": "2024-11-18T14:34:02-08:00",
+   "folder_id": 1,
    "id": 32036420,
    "instance_id": 1841221599,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -3169,8 +3709,19 @@
     "year": 2021
    },
    "date_added": "2024-11-18T14:33:27-08:00",
+   "folder_id": 1,
    "id": 17842753,
    "instance_id": 1841221095,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -3222,8 +3773,19 @@
     "year": 2024
    },
    "date_added": "2024-09-09T12:06:39-07:00",
+   "folder_id": 1,
    "id": 29811985,
    "instance_id": 1780899923,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -3309,8 +3871,19 @@
     "year": 2019
    },
    "date_added": "2024-07-26T01:25:27-07:00",
+   "folder_id": 1,
    "id": 14513103,
    "instance_id": 1743685971,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -3399,8 +3972,19 @@
     "year": 2023
    },
    "date_added": "2024-07-26T01:24:08-07:00",
+   "folder_id": 1,
    "id": 28199671,
    "instance_id": 1743685503,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -3462,8 +4046,19 @@
     "year": 2022
    },
    "date_added": "2024-07-26T01:23:42-07:00",
+   "folder_id": 1,
    "id": 25246954,
    "instance_id": 1743685338,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -3534,8 +4129,19 @@
     "year": 2020
    },
    "date_added": "2024-07-26T01:23:22-07:00",
+   "folder_id": 1,
    "id": 15216362,
    "instance_id": 1743685224,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -3595,8 +4201,19 @@
     "year": 2022
    },
    "date_added": "2024-07-26T01:22:44-07:00",
+   "folder_id": 1,
    "id": 24037769,
    "instance_id": 1743684969,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -3649,8 +4266,19 @@
     "year": 2023
    },
    "date_added": "2024-07-26T01:21:55-07:00",
+   "folder_id": 1,
    "id": 28855009,
    "instance_id": 1743684675,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -3705,8 +4333,19 @@
     "year": 2018
    },
    "date_added": "2024-07-26T01:21:36-07:00",
+   "folder_id": 1,
    "id": 12253262,
    "instance_id": 1743684582,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -3795,8 +4434,19 @@
     "year": 2023
    },
    "date_added": "2024-07-26T01:20:03-07:00",
+   "folder_id": 1,
    "id": 25901449,
    "instance_id": 1743683979,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -3876,8 +4526,19 @@
     "year": 2024
    },
    "date_added": "2024-07-26T01:19:21-07:00",
+   "folder_id": 1,
    "id": 30501055,
    "instance_id": 1743683646,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -3938,8 +4599,19 @@
     "year": 2023
    },
    "date_added": "2024-07-26T01:18:23-07:00",
+   "folder_id": 1,
    "id": 27394311,
    "instance_id": 1743683277,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -4002,8 +4674,19 @@
     "year": 2022
    },
    "date_added": "2024-07-26T01:18:07-07:00",
+   "folder_id": 1,
    "id": 30634468,
    "instance_id": 1743683175,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -4072,8 +4755,19 @@
     "year": 2023
    },
    "date_added": "2024-07-26T01:17:23-07:00",
+   "folder_id": 1,
    "id": 27342945,
    "instance_id": 1743682920,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -4138,8 +4832,19 @@
     "year": 2024
    },
    "date_added": "2024-04-23T16:40:27-07:00",
+   "folder_id": 1,
    "id": 30453809,
    "instance_id": 1663481530,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -4202,8 +4907,15 @@
     "year": 2024
    },
    "date_added": "2024-04-23T16:39:36-07:00",
+   "folder_id": 1,
    "id": 30471842,
    "instance_id": 1663481059,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -4286,8 +4998,19 @@
     "year": 2023
    },
    "date_added": "2024-04-23T16:39:17-07:00",
+   "folder_id": 1,
    "id": 29088673,
    "instance_id": 1663480831,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -4350,8 +5073,19 @@
     "year": 2024
    },
    "date_added": "2024-04-23T12:18:32-07:00",
+   "folder_id": 1,
    "id": 30424517,
    "instance_id": 1663271010,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -4421,8 +5155,19 @@
     "year": 2012
    },
    "date_added": "2023-12-15T03:52:10-08:00",
+   "folder_id": 1,
    "id": 3975953,
    "instance_id": 1535631931,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -4473,8 +5218,19 @@
     "year": 2003
    },
    "date_added": "2023-12-15T03:51:07-08:00",
+   "folder_id": 1,
    "id": 259432,
    "instance_id": 1535631316,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -4537,8 +5293,19 @@
     "year": 2021
    },
    "date_added": "2023-12-15T03:50:41-08:00",
+   "folder_id": 1,
    "id": 19419058,
    "instance_id": 1535630995,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -4601,8 +5368,19 @@
     "year": 2018
    },
    "date_added": "2023-12-15T03:50:14-08:00",
+   "folder_id": 1,
    "id": 12253923,
    "instance_id": 1535630701,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -4657,8 +5435,19 @@
     "year": 2018
    },
    "date_added": "2023-12-15T03:49:09-08:00",
+   "folder_id": 1,
    "id": 11416588,
    "instance_id": 1535629933,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -4710,8 +5499,19 @@
     "year": 2011
    },
    "date_added": "2023-12-15T03:47:40-08:00",
+   "folder_id": 1,
    "id": 3256786,
    "instance_id": 1535629042,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -4775,8 +5575,19 @@
     "year": 2016
    },
    "date_added": "2023-12-15T03:46:53-08:00",
+   "folder_id": 1,
    "id": 11820005,
    "instance_id": 1535628595,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -4828,8 +5639,19 @@
     "year": 2021
    },
    "date_added": "2023-12-15T03:46:27-08:00",
+   "folder_id": 1,
    "id": 19161760,
    "instance_id": 1535628376,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -4884,8 +5706,19 @@
     "year": 2023
    },
    "date_added": "2023-12-15T03:45:50-08:00",
+   "folder_id": 1,
    "id": 26821460,
    "instance_id": 1535628028,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -4943,8 +5776,19 @@
     "year": 2016
    },
    "date_added": "2023-12-15T03:45:08-08:00",
+   "folder_id": 1,
    "id": 8149748,
    "instance_id": 1535627722,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5015,8 +5859,19 @@
     "year": 2022
    },
    "date_added": "2023-12-15T03:44:01-08:00",
+   "folder_id": 1,
    "id": 25642276,
    "instance_id": 1535627200,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5096,8 +5951,19 @@
     "year": 2023
    },
    "date_added": "2023-12-15T03:43:27-08:00",
+   "folder_id": 1,
    "id": 28780759,
    "instance_id": 1535626960,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5149,8 +6015,19 @@
     "year": 2023
    },
    "date_added": "2023-12-15T03:42:47-08:00",
+   "folder_id": 1,
    "id": 28789117,
    "instance_id": 1535626621,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5221,8 +6098,19 @@
     "year": 2020
    },
    "date_added": "2023-12-15T03:41:48-08:00",
+   "folder_id": 1,
    "id": 15724598,
    "instance_id": 1535626066,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5278,8 +6166,23 @@
     "year": 2021
    },
    "date_added": "2023-12-15T03:40:25-08:00",
+   "folder_id": 1,
    "id": 17016147,
    "instance_id": 1535625349,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "Open and played\n"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5333,8 +6236,19 @@
     "year": 1967
    },
    "date_added": "2023-03-22T09:09:16-07:00",
+   "folder_id": 1,
    "id": 2060132,
    "instance_id": 1303742795,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Near Mint (NM or M-)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good Plus (VG+)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5383,8 +6297,19 @@
     "year": 0
    },
    "date_added": "2023-03-22T09:06:19-07:00",
+   "folder_id": 1,
    "id": 12219258,
    "instance_id": 1303740263,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Near Mint (NM or M-)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good Plus (VG+)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5437,8 +6362,19 @@
     "year": 1973
    },
    "date_added": "2023-03-22T09:04:10-07:00",
+   "folder_id": 1,
    "id": 3732420,
    "instance_id": 1303738562,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Near Mint (NM or M-)"
+    },
+    {
+     "field_id": 2,
+     "value": "Near Mint (NM or M-)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5492,8 +6428,19 @@
     "year": 1979
    },
    "date_added": "2023-03-22T07:11:32-07:00",
+   "folder_id": 1,
    "id": 788768,
    "instance_id": 1303645910,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Very Good Plus (VG+)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good Plus (VG+)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5547,8 +6494,19 @@
     "year": 1972
    },
    "date_added": "2023-03-22T07:08:58-07:00",
+   "folder_id": 1,
    "id": 3104354,
    "instance_id": 1303644125,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Near Mint (NM or M-)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5613,8 +6571,19 @@
     "year": 1980
    },
    "date_added": "2023-03-22T07:06:38-07:00",
+   "folder_id": 1,
    "id": 3450561,
    "instance_id": 1303642253,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Near Mint (NM or M-)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good (VG)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5675,8 +6644,19 @@
     "year": 2013
    },
    "date_added": "2022-12-15T08:11:03-08:00",
+   "folder_id": 1,
    "id": 4867259,
    "instance_id": 1206806071,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5731,8 +6711,19 @@
     "year": 2010
    },
    "date_added": "2022-12-15T08:07:12-08:00",
+   "folder_id": 1,
    "id": 11247130,
    "instance_id": 1206802333,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5792,8 +6783,19 @@
     "year": 2020
    },
    "date_added": "2022-12-15T08:05:59-08:00",
+   "folder_id": 1,
    "id": 15693796,
    "instance_id": 1206801367,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5848,8 +6850,19 @@
     "year": 2017
    },
    "date_added": "2022-12-15T08:04:56-08:00",
+   "folder_id": 1,
    "id": 11017944,
    "instance_id": 1206800686,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5922,8 +6935,19 @@
     "year": 2016
    },
    "date_added": "2022-12-15T08:04:35-08:00",
+   "folder_id": 1,
    "id": 8566870,
    "instance_id": 1206800422,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -5976,8 +7000,19 @@
     "year": 2018
    },
    "date_added": "2022-12-15T08:03:44-08:00",
+   "folder_id": 1,
    "id": 12125064,
    "instance_id": 1206799903,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -6033,8 +7068,19 @@
     "year": 2018
    },
    "date_added": "2022-12-15T08:02:35-08:00",
+   "folder_id": 1,
    "id": 12923923,
    "instance_id": 1206799141,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -6113,8 +7159,19 @@
     "year": 2016
    },
    "date_added": "2022-12-15T08:02:00-08:00",
+   "folder_id": 1,
    "id": 9402988,
    "instance_id": 1206798757,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -6177,8 +7234,19 @@
     "year": 2016
    },
    "date_added": "2022-12-15T08:01:20-08:00",
+   "folder_id": 1,
    "id": 9293829,
    "instance_id": 1206798310,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -6240,8 +7308,19 @@
     "year": 2019
    },
    "date_added": "2022-12-15T08:00:34-08:00",
+   "folder_id": 1,
    "id": 14590960,
    "instance_id": 1206797794,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -6312,8 +7391,19 @@
     "year": 2022
    },
    "date_added": "2022-12-15T08:00:10-08:00",
+   "folder_id": 1,
    "id": 24076022,
    "instance_id": 1206797533,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -6379,8 +7469,19 @@
     "year": 2017
    },
    "date_added": "2022-12-15T07:59:30-08:00",
+   "folder_id": 1,
    "id": 10354932,
    "instance_id": 1206797089,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -6451,8 +7552,19 @@
     "year": 2022
    },
    "date_added": "2022-09-10T04:34:42-07:00",
+   "folder_id": 1,
    "id": 23870063,
    "instance_id": 1125746576,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -6523,8 +7635,19 @@
     "year": 2022
    },
    "date_added": "2022-08-17T05:42:28-07:00",
+   "folder_id": 1,
    "id": 23870063,
    "instance_id": 1106120552,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -6586,8 +7709,19 @@
     "year": 2019
    },
    "date_added": "2022-07-29T03:14:15-07:00",
+   "folder_id": 1,
    "id": 13502140,
    "instance_id": 1090622516,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -6649,8 +7783,19 @@
     "year": 2018
    },
    "date_added": "2022-07-27T06:05:02-07:00",
+   "folder_id": 1,
    "id": 11316873,
    "instance_id": 1089143582,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -6710,8 +7855,19 @@
     "year": 2017
    },
    "date_added": "2022-07-27T06:04:34-07:00",
+   "folder_id": 1,
    "id": 10090232,
    "instance_id": 1089143330,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Near Mint (NM or M-)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -6797,8 +7953,19 @@
     "year": 2019
    },
    "date_added": "2022-07-27T06:03:49-07:00",
+   "folder_id": 1,
    "id": 14061870,
    "instance_id": 1089142910,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -6863,8 +8030,19 @@
     "year": 2022
    },
    "date_added": "2022-03-12T05:42:05-08:00",
+   "folder_id": 1,
    "id": 22379017,
    "instance_id": 972485279,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -6937,8 +8115,15 @@
     "year": 2021
    },
    "date_added": "2022-03-06T14:09:30-08:00",
+   "folder_id": 1,
    "id": 20726371,
    "instance_id": 967675411,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -6988,8 +8173,19 @@
     "year": 2020
    },
    "date_added": "2022-01-13T09:50:58-08:00",
+   "folder_id": 1,
    "id": 15624591,
    "instance_id": 912563107,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -7054,8 +8250,19 @@
     "year": 2021
    },
    "date_added": "2021-12-10T11:38:05-08:00",
+   "folder_id": 1,
    "id": 20593756,
    "instance_id": 878714335,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -7107,8 +8314,19 @@
     "year": 2021
    },
    "date_added": "2021-11-23T07:42:57-08:00",
+   "folder_id": 1,
    "id": 20705146,
    "instance_id": 864507295,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -7166,6 +8384,7 @@
     "year": 2015
    },
    "date_added": "2021-09-29T11:43:52-07:00",
+   "folder_id": 1,
    "id": 7384779,
    "instance_id": 819131341,
    "rating": 0
@@ -7221,8 +8440,19 @@
     "year": 2021
    },
    "date_added": "2021-09-29T11:43:21-07:00",
+   "folder_id": 1,
    "id": 20159635,
    "instance_id": 819130906,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -7284,8 +8514,19 @@
     "year": 2021
    },
    "date_added": "2021-07-26T03:38:39-07:00",
+   "folder_id": 1,
    "id": 19299820,
    "instance_id": 765553789,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -7357,8 +8598,19 @@
     "year": 2019
    },
    "date_added": "2021-06-03T03:12:47-07:00",
+   "folder_id": 1,
    "id": 14249156,
    "instance_id": 721599745,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -7419,8 +8671,19 @@
     "year": 2021
    },
    "date_added": "2021-06-02T07:02:47-07:00",
+   "folder_id": 1,
    "id": 18510643,
    "instance_id": 720944950,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -7476,8 +8739,19 @@
     "year": 2020
    },
    "date_added": "2021-06-02T07:01:49-07:00",
+   "folder_id": 1,
    "id": 16501821,
    "instance_id": 720944260,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -7546,8 +8820,19 @@
     "year": 2020
    },
    "date_added": "2021-05-26T09:34:12-07:00",
+   "folder_id": 1,
    "id": 14950541,
    "instance_id": 714983272,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -7604,8 +8889,19 @@
     "year": 2020
    },
    "date_added": "2021-05-26T09:33:39-07:00",
+   "folder_id": 1,
    "id": 16424160,
    "instance_id": 714982735,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -7656,6 +8952,7 @@
     "year": 2021
    },
    "date_added": "2021-05-24T05:28:27-07:00",
+   "folder_id": 1,
    "id": 18718993,
    "instance_id": 712962271,
    "rating": 0
@@ -7730,6 +9027,7 @@
     "year": 2021
    },
    "date_added": "2021-05-24T05:26:49-07:00",
+   "folder_id": 1,
    "id": 18599686,
    "instance_id": 712961017,
    "rating": 0
@@ -7804,8 +9102,19 @@
     "year": 2020
    },
    "date_added": "2020-11-09T10:51:30-08:00",
+   "folder_id": 1,
    "id": 15631518,
    "instance_id": 523264516,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -7878,8 +9187,19 @@
     "year": 2020
    },
    "date_added": "2020-11-09T10:51:26-08:00",
+   "folder_id": 1,
    "id": 15631518,
    "instance_id": 523264491,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -7940,8 +9260,19 @@
     "year": 2020
    },
    "date_added": "2020-10-21T14:50:08-07:00",
+   "folder_id": 1,
    "id": 15818101,
    "instance_id": 517609319,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -7997,8 +9328,19 @@
     "year": 2020
    },
    "date_added": "2020-10-21T14:49:50-07:00",
+   "folder_id": 1,
    "id": 15823307,
    "instance_id": 517609243,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -8069,8 +9411,19 @@
     "year": 2020
    },
    "date_added": "2020-10-21T14:49:32-07:00",
+   "folder_id": 1,
    "id": 15322610,
    "instance_id": 517609162,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -8129,9 +9482,20 @@
     "year": 2020
    },
    "date_added": "2020-07-21T09:53:29-07:00",
+   "folder_id": 1,
    "id": 15597967,
    "instance_id": 491236320,
-   "rating": 0
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 5
   },
   {
    "basic_information": {
@@ -8189,9 +9553,20 @@
     "year": 2020
    },
    "date_added": "2020-07-21T09:53:23-07:00",
+   "folder_id": 1,
    "id": 15597967,
    "instance_id": 491236308,
-   "rating": 0
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 5
   },
   {
    "basic_information": {
@@ -8245,8 +9620,19 @@
     "year": 2020
    },
    "date_added": "2020-06-29T10:25:40-07:00",
+   "folder_id": 1,
    "id": 15074753,
    "instance_id": 484767644,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -8299,8 +9685,19 @@
     "year": 2020
    },
    "date_added": "2020-06-29T10:25:21-07:00",
+   "folder_id": 1,
    "id": 15175028,
    "instance_id": 484767576,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -8372,8 +9769,19 @@
     "year": 2020
    },
    "date_added": "2020-06-29T10:24:53-07:00",
+   "folder_id": 1,
    "id": 15023733,
    "instance_id": 484767478,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -8427,8 +9835,19 @@
     "year": 2020
    },
    "date_added": "2020-06-29T10:24:29-07:00",
+   "folder_id": 1,
    "id": 15180231,
    "instance_id": 484767413,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -8482,8 +9901,19 @@
     "year": 2020
    },
    "date_added": "2020-06-29T10:23:54-07:00",
+   "folder_id": 1,
    "id": 15389587,
    "instance_id": 484767310,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -8538,8 +9968,19 @@
     "year": 2020
    },
    "date_added": "2020-06-29T10:23:25-07:00",
+   "folder_id": 1,
    "id": 15194448,
    "instance_id": 484767222,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -8595,8 +10036,19 @@
     "year": 2020
    },
    "date_added": "2020-06-29T10:22:39-07:00",
+   "folder_id": 1,
    "id": 14955499,
    "instance_id": 484767078,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -8648,8 +10100,19 @@
     "year": 2019
    },
    "date_added": "2020-06-20T14:03:59-07:00",
+   "folder_id": 1,
    "id": 14027946,
    "instance_id": 482141124,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -8701,9 +10164,20 @@
     "year": 2020
    },
    "date_added": "2020-06-20T14:02:32-07:00",
+   "folder_id": 1,
    "id": 15463358,
    "instance_id": 482140707,
-   "rating": 0
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 5
   },
   {
    "basic_information": {
@@ -8754,8 +10228,19 @@
     "year": 2019
    },
    "date_added": "2020-06-20T14:01:44-07:00",
+   "folder_id": 1,
    "id": 13541581,
    "instance_id": 482140484,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -8811,8 +10296,19 @@
     "year": 2016
    },
    "date_added": "2020-06-20T14:01:08-07:00",
+   "folder_id": 1,
    "id": 8763564,
    "instance_id": 482140339,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -8876,8 +10372,19 @@
     "year": 2020
    },
    "date_added": "2020-06-20T14:00:00-07:00",
+   "folder_id": 1,
    "id": 15453638,
    "instance_id": 482140003,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -8932,8 +10439,19 @@
     "year": 2020
    },
    "date_added": "2020-06-15T10:18:49-07:00",
+   "folder_id": 1,
    "id": 14880154,
    "instance_id": 480570277,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -8990,8 +10508,19 @@
     "year": 2020
    },
    "date_added": "2020-06-15T10:17:14-07:00",
+   "folder_id": 1,
    "id": 15338931,
    "instance_id": 480569987,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -9045,8 +10574,19 @@
     "year": 2019
    },
    "date_added": "2020-06-01T16:50:24-07:00",
+   "folder_id": 1,
    "id": 13483432,
    "instance_id": 476140535,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -9113,8 +10653,19 @@
     "year": 2020
    },
    "date_added": "2020-06-01T15:05:22-07:00",
+   "folder_id": 1,
    "id": 14753413,
    "instance_id": 476110239,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -9167,8 +10718,19 @@
     "year": 2019
    },
    "date_added": "2020-03-12T11:10:57-07:00",
+   "folder_id": 1,
    "id": 13496053,
    "instance_id": 445318938,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -9231,8 +10793,19 @@
     "year": 2020
    },
    "date_added": "2020-02-28T12:48:55-08:00",
+   "folder_id": 1,
    "id": 14840189,
    "instance_id": 441810038,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -9288,9 +10861,20 @@
     "year": 2020
    },
    "date_added": "2020-02-27T15:36:39-08:00",
+   "folder_id": 1,
    "id": 14748262,
    "instance_id": 441597260,
-   "rating": 0
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 5
   },
   {
    "basic_information": {
@@ -9347,8 +10931,19 @@
     "year": 2019
    },
    "date_added": "2020-02-21T13:02:16-08:00",
+   "folder_id": 1,
    "id": 13829445,
    "instance_id": 439895586,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -9403,8 +10998,19 @@
     "year": 2019
    },
    "date_added": "2020-02-20T11:34:36-08:00",
+   "folder_id": 1,
    "id": 14190406,
    "instance_id": 439641849,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -9459,8 +11065,19 @@
     "year": 2011
    },
    "date_added": "2020-02-05T12:26:45-08:00",
+   "folder_id": 1,
    "id": 3058849,
    "instance_id": 435589668,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -9522,8 +11139,19 @@
     "year": 2019
    },
    "date_added": "2020-02-05T12:25:47-08:00",
+   "folder_id": 1,
    "id": 13546857,
    "instance_id": 435589559,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -9577,8 +11205,19 @@
     "year": 2020
    },
    "date_added": "2020-02-05T11:30:48-08:00",
+   "folder_id": 1,
    "id": 14719890,
    "instance_id": 435581315,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -9642,8 +11281,19 @@
     "year": 2019
    },
    "date_added": "2020-02-05T11:29:36-08:00",
+   "folder_id": 1,
    "id": 13443162,
    "instance_id": 435581126,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -9697,8 +11347,19 @@
     "year": 2019
    },
    "date_added": "2020-01-31T15:32:36-08:00",
+   "folder_id": 1,
    "id": 14430576,
    "instance_id": 434234512,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -9752,8 +11413,19 @@
     "year": 2019
    },
    "date_added": "2019-11-07T20:01:06-08:00",
+   "folder_id": 1,
    "id": 14259217,
    "instance_id": 413338024,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -9808,8 +11480,19 @@
     "year": 2014
    },
    "date_added": "2019-11-07T20:00:08-08:00",
+   "folder_id": 1,
    "id": 5845633,
    "instance_id": 413337820,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -9866,6 +11549,7 @@
     "year": 0
    },
    "date_added": "2019-11-05T23:28:44-08:00",
+   "folder_id": 1,
    "id": 2659391,
    "instance_id": 412966869,
    "rating": 0
@@ -9929,8 +11613,19 @@
     "year": 2019
    },
    "date_added": "2019-10-18T11:20:31-07:00",
+   "folder_id": 1,
    "id": 13274311,
    "instance_id": 408652648,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Near Mint (NM or M-)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -9999,8 +11694,19 @@
     "year": 2000
    },
    "date_added": "2019-10-16T13:49:08-07:00",
+   "folder_id": 1,
    "id": 12994,
    "instance_id": 408267116,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Very Good Plus (VG+)"
+    },
+    {
+     "field_id": 2,
+     "value": "Near Mint (NM or M-)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10054,8 +11760,19 @@
     "year": 1997
    },
    "date_added": "2019-10-16T13:48:20-07:00",
+   "folder_id": 1,
    "id": 11375,
    "instance_id": 408266980,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Very Good Plus (VG+)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good Plus (VG+)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10118,8 +11835,19 @@
     "year": 2019
    },
    "date_added": "2019-10-11T20:01:08-07:00",
+   "folder_id": 1,
    "id": 13758369,
    "instance_id": 407183474,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10176,8 +11904,19 @@
     "year": 2019
    },
    "date_added": "2019-10-11T20:00:42-07:00",
+   "folder_id": 1,
    "id": 14248879,
    "instance_id": 407183383,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10231,8 +11970,19 @@
     "year": 2019
    },
    "date_added": "2019-10-11T20:00:22-07:00",
+   "folder_id": 1,
    "id": 14162212,
    "instance_id": 407183310,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10283,8 +12033,19 @@
     "year": 2019
    },
    "date_added": "2019-10-11T19:59:37-07:00",
+   "folder_id": 1,
    "id": 14238549,
    "instance_id": 407183141,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10336,8 +12097,19 @@
     "year": 2018
    },
    "date_added": "2019-10-01T16:39:07-07:00",
+   "folder_id": 1,
    "id": 12298932,
    "instance_id": 404962325,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10392,8 +12164,19 @@
     "year": 1998
    },
    "date_added": "2019-10-01T13:51:52-07:00",
+   "folder_id": 1,
    "id": 1286878,
    "instance_id": 404931987,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Very Good Plus (VG+)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good (VG)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10448,8 +12231,19 @@
     "year": 2019
    },
    "date_added": "2019-09-30T14:06:46-07:00",
+   "folder_id": 1,
    "id": 14028181,
    "instance_id": 404729699,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10505,8 +12299,19 @@
     "year": 2017
    },
    "date_added": "2019-09-30T14:00:33-07:00",
+   "folder_id": 1,
    "id": 11083628,
    "instance_id": 404728758,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10560,8 +12365,19 @@
     "year": 2018
    },
    "date_added": "2019-09-30T13:59:27-07:00",
+   "folder_id": 1,
    "id": 12540044,
    "instance_id": 404728576,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10614,8 +12430,19 @@
     "year": 2018
    },
    "date_added": "2019-09-30T13:58:45-07:00",
+   "folder_id": 1,
    "id": 12462744,
    "instance_id": 404728471,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10668,8 +12495,19 @@
     "year": 2018
    },
    "date_added": "2019-09-26T13:52:29-07:00",
+   "folder_id": 1,
    "id": 12101626,
    "instance_id": 403810325,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10724,8 +12562,19 @@
     "year": 2017
    },
    "date_added": "2019-09-26T13:52:21-07:00",
+   "folder_id": 1,
    "id": 10069281,
    "instance_id": 403810304,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10800,8 +12649,19 @@
     "year": 2019
    },
    "date_added": "2019-09-24T11:34:47-07:00",
+   "folder_id": 1,
    "id": 14130502,
    "instance_id": 403385933,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10855,8 +12715,19 @@
     "year": 2014
    },
    "date_added": "2019-09-08T19:30:29-07:00",
+   "folder_id": 1,
    "id": 6426201,
    "instance_id": 400050721,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10919,8 +12790,19 @@
     "year": 2019
    },
    "date_added": "2019-09-08T19:19:01-07:00",
+   "folder_id": 1,
    "id": 13248842,
    "instance_id": 400047534,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -10985,8 +12867,19 @@
     "year": 2019
    },
    "date_added": "2019-09-08T19:17:34-07:00",
+   "folder_id": 1,
    "id": 13222175,
    "instance_id": 400047150,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -11081,8 +12974,19 @@
     "year": 2015
    },
    "date_added": "2019-09-08T19:14:03-07:00",
+   "folder_id": 1,
    "id": 6943133,
    "instance_id": 400046134,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -11138,8 +13042,19 @@
     "year": 2018
    },
    "date_added": "2019-09-08T19:13:11-07:00",
+   "folder_id": 1,
    "id": 12433082,
    "instance_id": 400045892,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -11192,8 +13107,19 @@
     "year": 2018
    },
    "date_added": "2019-09-08T19:10:48-07:00",
+   "folder_id": 1,
    "id": 12730421,
    "instance_id": 400045295,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -11245,8 +13171,19 @@
     "year": 2018
    },
    "date_added": "2019-09-08T19:09:27-07:00",
+   "folder_id": 1,
    "id": 12593047,
    "instance_id": 400044933,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -11299,8 +13236,19 @@
     "year": 2016
    },
    "date_added": "2019-09-08T19:06:44-07:00",
+   "folder_id": 1,
    "id": 8313301,
    "instance_id": 400044223,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -11361,8 +13309,19 @@
     "year": 2018
    },
    "date_added": "2019-09-08T19:00:25-07:00",
+   "folder_id": 1,
    "id": 11445252,
    "instance_id": 400042381,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -11417,8 +13376,19 @@
     "year": 2019
    },
    "date_added": "2019-09-08T18:38:40-07:00",
+   "folder_id": 1,
    "id": 13105750,
    "instance_id": 400035935,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -11472,8 +13442,19 @@
     "year": 2019
    },
    "date_added": "2019-09-08T18:36:40-07:00",
+   "folder_id": 1,
    "id": 13360264,
    "instance_id": 400035324,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -11533,8 +13514,19 @@
     "year": 2015
    },
    "date_added": "2019-09-08T18:36:04-07:00",
+   "folder_id": 1,
    "id": 7833081,
    "instance_id": 400035155,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -11585,8 +13577,19 @@
     "year": 2013
    },
    "date_added": "2019-09-08T18:31:39-07:00",
+   "folder_id": 1,
    "id": 4709907,
    "instance_id": 400033876,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -11650,8 +13653,19 @@
     "year": 2019
    },
    "date_added": "2019-09-08T18:24:20-07:00",
+   "folder_id": 1,
    "id": 13135986,
    "instance_id": 400031754,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -11705,8 +13719,19 @@
     "year": 2015
    },
    "date_added": "2019-09-08T17:26:39-07:00",
+   "folder_id": 1,
    "id": 7418415,
    "instance_id": 400015235,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -11761,8 +13786,19 @@
     "year": 2018
    },
    "date_added": "2019-09-07T18:22:30-07:00",
+   "folder_id": 1,
    "id": 12126315,
    "instance_id": 399749129,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -11819,8 +13855,19 @@
     "year": 2019
    },
    "date_added": "2019-09-07T18:17:07-07:00",
+   "folder_id": 1,
    "id": 13493142,
    "instance_id": 399747642,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -11885,8 +13932,19 @@
     "year": 2018
    },
    "date_added": "2019-09-07T17:53:52-07:00",
+   "folder_id": 1,
    "id": 12712993,
    "instance_id": 399741860,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -11939,8 +13997,19 @@
     "year": 2019
    },
    "date_added": "2019-09-07T17:52:07-07:00",
+   "folder_id": 1,
    "id": 13181220,
    "instance_id": 399741427,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12006,8 +14075,19 @@
     "year": 2019
    },
    "date_added": "2019-09-07T17:48:04-07:00",
+   "folder_id": 1,
    "id": 13453290,
    "instance_id": 399740413,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12063,8 +14143,19 @@
     "year": 0
    },
    "date_added": "2019-09-07T17:46:55-07:00",
+   "folder_id": 1,
    "id": 1165115,
    "instance_id": 399740094,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12128,8 +14219,19 @@
     "year": 1971
    },
    "date_added": "2019-09-07T17:44:59-07:00",
+   "folder_id": 1,
    "id": 601954,
    "instance_id": 399739548,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Very Good Plus (VG+)"
+    },
+    {
+     "field_id": 2,
+     "value": "Good (G)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12186,8 +14288,19 @@
     "year": 2017
    },
    "date_added": "2019-09-07T17:43:14-07:00",
+   "folder_id": 1,
    "id": 11701503,
    "instance_id": 399739061,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12257,8 +14370,19 @@
     "year": 2019
    },
    "date_added": "2019-09-07T17:41:16-07:00",
+   "folder_id": 1,
    "id": 13628012,
    "instance_id": 399738487,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12311,8 +14435,19 @@
     "year": 2019
    },
    "date_added": "2019-09-07T17:39:35-07:00",
+   "folder_id": 1,
    "id": 13107097,
    "instance_id": 399738070,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12366,8 +14501,19 @@
     "year": 2015
    },
    "date_added": "2019-09-07T17:37:55-07:00",
+   "folder_id": 1,
    "id": 7024997,
    "instance_id": 399737639,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12430,8 +14576,19 @@
     "year": 2019
    },
    "date_added": "2019-09-07T17:36:38-07:00",
+   "folder_id": 1,
    "id": 13926639,
    "instance_id": 399737322,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12484,8 +14641,19 @@
     "year": 2019
    },
    "date_added": "2019-09-07T17:34:53-07:00",
+   "folder_id": 1,
    "id": 13798110,
    "instance_id": 399736883,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12541,8 +14709,19 @@
     "year": 2018
    },
    "date_added": "2019-09-07T17:32:20-07:00",
+   "folder_id": 1,
    "id": 12037626,
    "instance_id": 399736228,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12596,8 +14775,19 @@
     "year": 2018
    },
    "date_added": "2019-09-07T17:28:29-07:00",
+   "folder_id": 1,
    "id": 12652166,
    "instance_id": 399735211,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12657,8 +14847,19 @@
     "year": 2018
    },
    "date_added": "2019-09-07T17:25:16-07:00",
+   "folder_id": 1,
    "id": 12710971,
    "instance_id": 399734397,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12712,8 +14913,19 @@
     "year": 2018
    },
    "date_added": "2019-09-07T15:09:33-07:00",
+   "folder_id": 1,
    "id": 12418449,
    "instance_id": 399697651,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12784,8 +14996,23 @@
     "year": 1995
    },
    "date_added": "2019-09-07T15:06:06-07:00",
+   "folder_id": 1,
    "id": 1139846,
    "instance_id": 399696720,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Very Good Plus (VG+)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good Plus (VG+)"
+    },
+    {
+     "field_id": 3,
+     "value": "10,14;19,67;50,70"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12835,8 +15062,19 @@
     "year": 2018
    },
    "date_added": "2019-09-07T15:05:44-07:00",
+   "folder_id": 1,
    "id": 11615204,
    "instance_id": 399696622,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12900,8 +15138,19 @@
     "year": 2019
    },
    "date_added": "2019-09-07T14:37:58-07:00",
+   "folder_id": 1,
    "id": 13868503,
    "instance_id": 399689095,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -12956,8 +15205,19 @@
     "year": 2019
    },
    "date_added": "2019-09-06T14:48:00-07:00",
+   "folder_id": 1,
    "id": 13944132,
    "instance_id": 399466409,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13021,8 +15281,19 @@
     "year": 2019
    },
    "date_added": "2019-09-04T14:52:45-07:00",
+   "folder_id": 1,
    "id": 13768683,
    "instance_id": 399065725,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13077,8 +15348,19 @@
     "year": 2019
    },
    "date_added": "2019-08-22T16:14:12-07:00",
+   "folder_id": 1,
    "id": 14022881,
    "instance_id": 396242989,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13130,8 +15412,19 @@
     "year": 2019
    },
    "date_added": "2019-08-22T16:13:28-07:00",
+   "folder_id": 1,
    "id": 13072294,
    "instance_id": 396242866,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13183,8 +15476,19 @@
     "year": 2019
    },
    "date_added": "2019-08-22T16:12:20-07:00",
+   "folder_id": 1,
    "id": 13792951,
    "instance_id": 396242599,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Near Mint (NM or M-)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13238,8 +15542,19 @@
     "year": 2019
    },
    "date_added": "2019-08-16T09:31:49-07:00",
+   "folder_id": 1,
    "id": 13967403,
    "instance_id": 394772026,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13294,8 +15609,19 @@
     "year": 2019
    },
    "date_added": "2019-07-29T21:03:27-07:00",
+   "folder_id": 1,
    "id": 13835058,
    "instance_id": 391031740,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13352,8 +15678,19 @@
     "year": 2019
    },
    "date_added": "2019-07-29T21:01:51-07:00",
+   "folder_id": 1,
    "id": 13895683,
    "instance_id": 391031385,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13407,8 +15744,19 @@
     "year": 2016
    },
    "date_added": "2019-07-19T13:06:20-07:00",
+   "folder_id": 1,
    "id": 8192702,
    "instance_id": 388887553,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13461,8 +15809,19 @@
     "year": 2019
    },
    "date_added": "2019-07-06T23:48:26-07:00",
+   "folder_id": 1,
    "id": 13663374,
    "instance_id": 386345566,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13517,8 +15876,19 @@
     "year": 2019
    },
    "date_added": "2019-07-03T09:53:30-07:00",
+   "folder_id": 1,
    "id": 13700483,
    "instance_id": 385612757,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13574,8 +15944,19 @@
     "year": 2019
    },
    "date_added": "2019-07-03T09:52:34-07:00",
+   "folder_id": 1,
    "id": 13798584,
    "instance_id": 385612682,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13654,8 +16035,19 @@
     "year": 2017
    },
    "date_added": "2019-07-03T09:51:15-07:00",
+   "folder_id": 1,
    "id": 10596337,
    "instance_id": 385612585,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13719,8 +16111,19 @@
     "year": 2014
    },
    "date_added": "2019-07-03T09:50:36-07:00",
+   "folder_id": 1,
    "id": 5743691,
    "instance_id": 385612529,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13773,8 +16176,19 @@
     "year": 2019
    },
    "date_added": "2019-06-08T17:15:29-07:00",
+   "folder_id": 1,
    "id": 13667744,
    "instance_id": 380624450,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13833,8 +16247,19 @@
     "year": 2019
    },
    "date_added": "2019-06-08T17:15:03-07:00",
+   "folder_id": 1,
    "id": 13550700,
    "instance_id": 380624342,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13887,8 +16312,19 @@
     "year": 2019
    },
    "date_added": "2019-05-15T09:40:01-07:00",
+   "folder_id": 1,
    "id": 13251649,
    "instance_id": 375478776,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -13942,8 +16378,19 @@
     "year": 2019
    },
    "date_added": "2019-05-15T09:39:39-07:00",
+   "folder_id": 1,
    "id": 13379392,
    "instance_id": 375478737,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -14000,8 +16447,19 @@
     "year": 2019
    },
    "date_added": "2019-05-02T14:04:28-07:00",
+   "folder_id": 1,
    "id": 13555782,
    "instance_id": 372505821,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -14063,8 +16521,19 @@
     "year": 2018
    },
    "date_added": "2019-04-30T10:33:12-07:00",
+   "folder_id": 1,
    "id": 12049169,
    "instance_id": 372029769,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -14129,8 +16598,19 @@
     "year": 2019
    },
    "date_added": "2019-04-30T10:32:29-07:00",
+   "folder_id": 1,
    "id": 12890235,
    "instance_id": 372029664,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -14184,8 +16664,19 @@
     "year": 2019
    },
    "date_added": "2019-04-30T10:31:27-07:00",
+   "folder_id": 1,
    "id": 13402773,
    "instance_id": 372029522,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -14238,8 +16729,19 @@
     "year": 2018
    },
    "date_added": "2019-04-30T10:31:14-07:00",
+   "folder_id": 1,
    "id": 11454190,
    "instance_id": 372029490,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -14293,8 +16795,19 @@
     "year": 2019
    },
    "date_added": "2019-04-30T10:30:46-07:00",
+   "folder_id": 1,
    "id": 13439160,
    "instance_id": 372029425,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -14379,6 +16892,7 @@
     "year": 2019
    },
    "date_added": "2019-04-13T15:06:31-07:00",
+   "folder_id": 1,
    "id": 13485907,
    "instance_id": 367840906,
    "rating": 0
@@ -14473,6 +16987,7 @@
     "year": 2019
    },
    "date_added": "2019-04-13T14:50:00-07:00",
+   "folder_id": 1,
    "id": 13464176,
    "instance_id": 367833957,
    "rating": 0
@@ -14530,6 +17045,7 @@
     "year": 2019
    },
    "date_added": "2019-04-13T14:47:57-07:00",
+   "folder_id": 1,
    "id": 13467999,
    "instance_id": 367833035,
    "rating": 0
@@ -14584,6 +17100,7 @@
     "year": 2019
    },
    "date_added": "2019-04-13T14:45:32-07:00",
+   "folder_id": 1,
    "id": 13468682,
    "instance_id": 367832057,
    "rating": 0
@@ -14652,6 +17169,7 @@
     "year": 2019
    },
    "date_added": "2019-04-13T14:44:39-07:00",
+   "folder_id": 1,
    "id": 13479810,
    "instance_id": 367831707,
    "rating": 0
@@ -14717,6 +17235,7 @@
     "year": 2019
    },
    "date_added": "2019-04-13T14:43:36-07:00",
+   "folder_id": 1,
    "id": 13479343,
    "instance_id": 367831298,
    "rating": 0
@@ -14776,8 +17295,19 @@
     "year": 2019
    },
    "date_added": "2019-04-01T16:17:28-07:00",
+   "folder_id": 1,
    "id": 13243218,
    "instance_id": 365215850,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -14831,8 +17361,19 @@
     "year": 2019
    },
    "date_added": "2019-03-20T15:45:39-07:00",
+   "folder_id": 1,
    "id": 13145532,
    "instance_id": 362519244,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -14888,8 +17429,19 @@
     "year": 2019
    },
    "date_added": "2019-03-07T10:34:44-08:00",
+   "folder_id": 1,
    "id": 13308241,
    "instance_id": 359286091,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -14944,8 +17496,19 @@
     "year": 2019
    },
    "date_added": "2019-03-07T10:33:14-08:00",
+   "folder_id": 1,
    "id": 13242319,
    "instance_id": 359285913,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15000,8 +17563,19 @@
     "year": 2019
    },
    "date_added": "2019-03-01T12:15:03-08:00",
+   "folder_id": 1,
    "id": 13183592,
    "instance_id": 357802706,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15073,6 +17647,7 @@
     "year": 2019
    },
    "date_added": "2019-02-21T19:07:09-08:00",
+   "folder_id": 1,
    "id": 13202042,
    "instance_id": 355982521,
    "rating": 0
@@ -15129,8 +17704,19 @@
     "year": 2018
    },
    "date_added": "2019-02-08T17:47:50-08:00",
+   "folder_id": 1,
    "id": 12896443,
    "instance_id": 352693492,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15183,8 +17769,19 @@
     "year": 2019
    },
    "date_added": "2019-01-28T13:28:22-08:00",
+   "folder_id": 1,
    "id": 13076114,
    "instance_id": 349936530,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15237,8 +17834,19 @@
     "year": 2018
    },
    "date_added": "2019-01-28T13:28:13-08:00",
+   "folder_id": 1,
    "id": 12979988,
    "instance_id": 349936504,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15293,8 +17901,19 @@
     "year": 2019
    },
    "date_added": "2019-01-24T16:54:14-08:00",
+   "folder_id": 1,
    "id": 13116493,
    "instance_id": 348867736,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15349,8 +17968,19 @@
     "year": 2011
    },
    "date_added": "2019-01-24T16:53:53-08:00",
+   "folder_id": 1,
    "id": 3127881,
    "instance_id": 348867658,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15411,8 +18041,19 @@
     "year": 2017
    },
    "date_added": "2019-01-07T19:43:50-08:00",
+   "folder_id": 1,
    "id": 10616350,
    "instance_id": 344594483,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15465,8 +18106,19 @@
     "year": 2016
    },
    "date_added": "2019-01-07T19:39:13-08:00",
+   "folder_id": 1,
    "id": 8593295,
    "instance_id": 344593218,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15521,8 +18173,19 @@
     "year": 2018
    },
    "date_added": "2019-01-07T19:38:38-08:00",
+   "folder_id": 1,
    "id": 11854219,
    "instance_id": 344593079,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15589,8 +18252,19 @@
     "year": 2018
    },
    "date_added": "2019-01-05T23:09:51-08:00",
+   "folder_id": 1,
    "id": 11600879,
    "instance_id": 344082427,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15643,8 +18317,19 @@
     "year": 2018
    },
    "date_added": "2019-01-04T15:00:02-08:00",
+   "folder_id": 1,
    "id": 11684749,
    "instance_id": 343654494,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15700,8 +18385,19 @@
     "year": 2017
    },
    "date_added": "2019-01-04T12:29:16-08:00",
+   "folder_id": 1,
    "id": 10947904,
    "instance_id": 343623253,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15755,8 +18451,19 @@
     "year": 2018
    },
    "date_added": "2019-01-04T12:28:33-08:00",
+   "folder_id": 1,
    "id": 12822546,
    "instance_id": 343623105,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15808,8 +18515,19 @@
     "year": 2018
    },
    "date_added": "2019-01-04T12:28:09-08:00",
+   "folder_id": 1,
    "id": 11398791,
    "instance_id": 343623038,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15862,8 +18580,23 @@
     "year": 2018
    },
    "date_added": "2019-01-04T12:27:09-08:00",
+   "folder_id": 1,
    "id": 12217057,
    "instance_id": 343622855,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "6,02;9,53;0,39"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15917,8 +18650,19 @@
     "year": 2016
    },
    "date_added": "2019-01-04T12:23:27-08:00",
+   "folder_id": 1,
    "id": 8628680,
    "instance_id": 343622209,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -15974,8 +18718,19 @@
     "year": 2015
    },
    "date_added": "2019-01-04T12:23:09-08:00",
+   "folder_id": 1,
    "id": 7801083,
    "instance_id": 343622153,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16031,8 +18786,19 @@
     "year": 2017
    },
    "date_added": "2019-01-04T12:22:44-08:00",
+   "folder_id": 1,
    "id": 10662614,
    "instance_id": 343622077,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16083,8 +18849,19 @@
     "year": 2018
    },
    "date_added": "2019-01-04T12:22:18-08:00",
+   "folder_id": 1,
    "id": 12930998,
    "instance_id": 343621978,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16142,8 +18919,19 @@
     "year": 2018
    },
    "date_added": "2019-01-04T12:21:45-08:00",
+   "folder_id": 1,
    "id": 12675255,
    "instance_id": 343621898,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16199,8 +18987,19 @@
     "year": 2018
    },
    "date_added": "2018-11-14T11:30:27-08:00",
+   "folder_id": 1,
    "id": 12765588,
    "instance_id": 332833568,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16258,8 +19057,19 @@
     "year": 2018
    },
    "date_added": "2018-11-14T11:29:41-08:00",
+   "folder_id": 1,
    "id": 12769670,
    "instance_id": 332833498,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16315,8 +19125,19 @@
     "year": 2018
    },
    "date_added": "2018-11-14T11:28:21-08:00",
+   "folder_id": 1,
    "id": 12765277,
    "instance_id": 332833372,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16379,8 +19200,19 @@
     "year": 0
    },
    "date_added": "2018-11-10T22:03:43-08:00",
+   "folder_id": 1,
    "id": 1210618,
    "instance_id": 332104245,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16442,8 +19274,19 @@
     "year": 2018
    },
    "date_added": "2018-11-10T22:00:14-08:00",
+   "folder_id": 1,
    "id": 11634867,
    "instance_id": 332103396,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16499,8 +19342,19 @@
     "year": 2018
    },
    "date_added": "2018-11-10T18:53:39-08:00",
+   "folder_id": 1,
    "id": 11410470,
    "instance_id": 332055668,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16555,8 +19409,19 @@
     "year": 2018
    },
    "date_added": "2018-11-10T18:53:06-08:00",
+   "folder_id": 1,
    "id": 12699641,
    "instance_id": 332055499,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16610,8 +19475,19 @@
     "year": 2018
    },
    "date_added": "2018-11-10T18:52:35-08:00",
+   "folder_id": 1,
    "id": 11926069,
    "instance_id": 332055345,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good (VG)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16663,8 +19539,19 @@
     "year": 2017
    },
    "date_added": "2018-11-10T18:52:17-08:00",
+   "folder_id": 1,
    "id": 11453857,
    "instance_id": 332055260,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16724,8 +19611,19 @@
     "year": 1988
    },
    "date_added": "2018-11-10T18:51:19-08:00",
+   "folder_id": 1,
    "id": 156530,
    "instance_id": 332054987,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Near Mint (NM or M-)"
+    },
+    {
+     "field_id": 2,
+     "value": "Fair (F)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16785,8 +19683,19 @@
     "year": 1998
    },
    "date_added": "2018-11-10T18:47:45-08:00",
+   "folder_id": 1,
    "id": 11331512,
    "instance_id": 332054041,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Near Mint (NM or M-)"
+    },
+    {
+     "field_id": 2,
+     "value": "Good Plus (G+)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16839,8 +19748,19 @@
     "year": 2007
    },
    "date_added": "2018-11-10T18:37:05-08:00",
+   "folder_id": 1,
    "id": 973588,
    "instance_id": 332051186,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16901,8 +19821,19 @@
     "year": 1994
    },
    "date_added": "2018-11-10T18:35:17-08:00",
+   "folder_id": 1,
    "id": 12827,
    "instance_id": 332050706,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Near Mint (NM or M-)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good (VG)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -16957,8 +19888,19 @@
     "year": 2014
    },
    "date_added": "2018-11-10T18:33:37-08:00",
+   "folder_id": 1,
    "id": 6293924,
    "instance_id": 332050275,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Very Good Plus (VG+)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good Plus (VG+)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -17013,9 +19955,20 @@
     "year": 2010
    },
    "date_added": "2018-11-07T01:22:40-08:00",
+   "folder_id": 1,
    "id": 2357477,
    "instance_id": 331304632,
-   "rating": 0
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 5
   },
   {
    "basic_information": {
@@ -17069,8 +20022,19 @@
     "year": 2018
    },
    "date_added": "2018-11-03T16:20:36-07:00",
+   "folder_id": 1,
    "id": 12326287,
    "instance_id": 330535808,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -17129,8 +20093,19 @@
     "year": 2018
    },
    "date_added": "2018-11-03T15:18:48-07:00",
+   "folder_id": 1,
    "id": 12741038,
    "instance_id": 330520101,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -17185,8 +20160,19 @@
     "year": 2018
    },
    "date_added": "2018-11-03T15:17:31-07:00",
+   "folder_id": 1,
    "id": 11976992,
    "instance_id": 330519790,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -17249,8 +20235,19 @@
     "year": 2018
    },
    "date_added": "2018-11-03T15:15:06-07:00",
+   "folder_id": 1,
    "id": 11770803,
    "instance_id": 330519242,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -17314,8 +20311,19 @@
     "year": 2018
    },
    "date_added": "2018-11-03T15:13:39-07:00",
+   "folder_id": 1,
    "id": 12253742,
    "instance_id": 330518906,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -17366,8 +20374,19 @@
     "year": 2018
    },
    "date_added": "2018-10-15T23:29:16-07:00",
+   "folder_id": 1,
    "id": 12638505,
    "instance_id": 326837377,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Generic"
+    }
+   ],
    "rating": 0
   },
   {
@@ -17423,8 +20442,19 @@
     "year": 2018
    },
    "date_added": "2018-10-15T23:28:39-07:00",
+   "folder_id": 1,
    "id": 12273734,
    "instance_id": 326837289,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -17480,8 +20510,19 @@
     "year": 2018
    },
    "date_added": "2018-10-15T23:28:10-07:00",
+   "folder_id": 1,
    "id": 12128702,
    "instance_id": 326837228,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -17543,8 +20584,19 @@
     "year": 2018
    },
    "date_added": "2018-10-15T23:27:35-07:00",
+   "folder_id": 1,
    "id": 11850350,
    "instance_id": 326837159,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -17599,8 +20651,19 @@
     "year": 2018
    },
    "date_added": "2018-10-15T23:27:02-07:00",
+   "folder_id": 1,
    "id": 11753365,
    "instance_id": 326837088,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -17653,8 +20716,19 @@
     "year": 2017
    },
    "date_added": "2018-10-15T23:26:28-07:00",
+   "folder_id": 1,
    "id": 11326382,
    "instance_id": 326837018,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Generic"
+    }
+   ],
    "rating": 0
   },
   {
@@ -17714,8 +20788,19 @@
     "year": 2018
    },
    "date_added": "2018-10-11T09:19:32-07:00",
+   "folder_id": 1,
    "id": 11506504,
    "instance_id": 325858243,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -17768,8 +20853,19 @@
     "year": 2018
    },
    "date_added": "2018-10-08T13:52:16-07:00",
+   "folder_id": 1,
    "id": 12614410,
    "instance_id": 325354978,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -17834,8 +20930,19 @@
     "year": 2018
    },
    "date_added": "2018-10-07T00:27:00-07:00",
+   "folder_id": 1,
    "id": 12557764,
    "instance_id": 325042747,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -17889,8 +20996,19 @@
     "year": 2010
    },
    "date_added": "2018-10-05T09:23:15-07:00",
+   "folder_id": 1,
    "id": 2325882,
    "instance_id": 324697268,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -17945,8 +21063,19 @@
     "year": 2018
    },
    "date_added": "2018-10-02T09:48:45-07:00",
+   "folder_id": 1,
    "id": 12520140,
    "instance_id": 324168935,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18006,8 +21135,19 @@
     "year": 2017
    },
    "date_added": "2018-09-11T23:35:05-07:00",
+   "folder_id": 1,
    "id": 11010709,
    "instance_id": 320388043,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18076,8 +21216,19 @@
     "year": 2017
    },
    "date_added": "2018-09-11T23:34:39-07:00",
+   "folder_id": 1,
    "id": 11472790,
    "instance_id": 320387988,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18137,8 +21288,19 @@
     "year": 2017
    },
    "date_added": "2018-09-11T23:10:56-07:00",
+   "folder_id": 1,
    "id": 11263835,
    "instance_id": 320385396,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18194,8 +21356,19 @@
     "year": 2017
    },
    "date_added": "2018-09-11T14:45:03-07:00",
+   "folder_id": 1,
    "id": 9950029,
    "instance_id": 320297803,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18261,8 +21434,19 @@
     "year": 2017
    },
    "date_added": "2018-09-11T09:00:46-07:00",
+   "folder_id": 1,
    "id": 10302121,
    "instance_id": 320257133,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18316,8 +21500,19 @@
     "year": 2018
    },
    "date_added": "2018-09-09T18:34:11-07:00",
+   "folder_id": 1,
    "id": 12167724,
    "instance_id": 319974503,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18385,8 +21580,19 @@
     "year": 2018
    },
    "date_added": "2018-09-09T18:33:38-07:00",
+   "folder_id": 1,
    "id": 12107616,
    "instance_id": 319974373,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18439,8 +21645,19 @@
     "year": 0
    },
    "date_added": "2018-08-21T12:20:32-07:00",
+   "folder_id": 1,
    "id": 2010760,
    "instance_id": 316259312,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18508,8 +21725,19 @@
     "year": 1975
    },
    "date_added": "2018-08-18T12:59:13-07:00",
+   "folder_id": 1,
    "id": 743014,
    "instance_id": 315666655,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18561,8 +21789,19 @@
     "year": 2018
    },
    "date_added": "2018-08-16T09:24:11-07:00",
+   "folder_id": 1,
    "id": 12161263,
    "instance_id": 315273547,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18615,8 +21854,19 @@
     "year": 2018
    },
    "date_added": "2018-08-16T09:23:31-07:00",
+   "folder_id": 1,
    "id": 12189501,
    "instance_id": 315273493,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18687,8 +21937,19 @@
     "year": 2018
    },
    "date_added": "2018-08-16T09:22:15-07:00",
+   "folder_id": 1,
    "id": 12149773,
    "instance_id": 315273382,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18741,8 +22002,19 @@
     "year": 2018
    },
    "date_added": "2018-08-16T09:21:09-07:00",
+   "folder_id": 1,
    "id": 12191620,
    "instance_id": 315273285,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18803,8 +22075,19 @@
     "year": 2018
    },
    "date_added": "2018-08-16T09:17:29-07:00",
+   "folder_id": 1,
    "id": 11978482,
    "instance_id": 315272951,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18857,8 +22140,19 @@
     "year": 2018
    },
    "date_added": "2018-08-16T09:16:30-07:00",
+   "folder_id": 1,
    "id": 11739104,
    "instance_id": 315272831,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Very Good Plus (VG+)"
+    },
+    {
+     "field_id": 2,
+     "value": "Generic"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18911,8 +22205,19 @@
     "year": 2001
    },
    "date_added": "2018-08-16T09:15:51-07:00",
+   "folder_id": 1,
    "id": 10737,
    "instance_id": 315272762,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Very Good Plus (VG+)"
+    },
+    {
+     "field_id": 2,
+     "value": "Generic"
+    }
+   ],
    "rating": 0
   },
   {
@@ -18969,8 +22274,19 @@
     "year": 2018
    },
    "date_added": "2018-08-16T09:15:17-07:00",
+   "folder_id": 1,
    "id": 11912257,
    "instance_id": 315272714,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -19022,8 +22338,19 @@
     "year": 2018
    },
    "date_added": "2018-04-11T16:01:35-07:00",
+   "folder_id": 1,
    "id": 11807925,
    "instance_id": 292440094,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -19085,8 +22412,19 @@
     "year": 2015
    },
    "date_added": "2018-04-11T16:01:08-07:00",
+   "folder_id": 1,
    "id": 7905952,
    "instance_id": 292440011,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -19147,8 +22485,19 @@
     "year": 2017
    },
    "date_added": "2018-04-09T11:01:34-07:00",
+   "folder_id": 1,
    "id": 10855906,
    "instance_id": 292024529,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -19201,8 +22550,19 @@
     "year": 2018
    },
    "date_added": "2018-04-09T11:00:32-07:00",
+   "folder_id": 1,
    "id": 11511979,
    "instance_id": 292024410,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -19257,8 +22617,19 @@
     "year": 2015
    },
    "date_added": "2018-04-09T11:00:16-07:00",
+   "folder_id": 1,
    "id": 7774586,
    "instance_id": 292024385,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -19309,8 +22680,19 @@
     "year": 2014
    },
    "date_added": "2018-04-09T10:59:48-07:00",
+   "folder_id": 1,
    "id": 6225466,
    "instance_id": 292024344,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -19363,8 +22745,19 @@
     "year": 2015
    },
    "date_added": "2018-04-09T10:59:12-07:00",
+   "folder_id": 1,
    "id": 6905630,
    "instance_id": 292024283,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -19417,8 +22810,19 @@
     "year": 2017
    },
    "date_added": "2018-03-27T13:46:49-07:00",
+   "folder_id": 1,
    "id": 10995910,
    "instance_id": 289240335,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -19470,9 +22874,20 @@
     "year": 2018
    },
    "date_added": "2018-03-27T13:46:28-07:00",
+   "folder_id": 1,
    "id": 11714403,
    "instance_id": 289240246,
-   "rating": 0
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 5
   },
   {
    "basic_information": {
@@ -19523,8 +22938,19 @@
     "year": 2018
    },
    "date_added": "2018-03-25T02:19:45-07:00",
+   "folder_id": 1,
    "id": 11568157,
    "instance_id": 288701348,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Generic"
+    }
+   ],
    "rating": 0
   },
   {
@@ -19579,8 +23005,19 @@
     "year": 2017
    },
    "date_added": "2018-03-24T11:44:39-07:00",
+   "folder_id": 1,
    "id": 10978700,
    "instance_id": 288506301,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -19635,8 +23072,19 @@
     "year": 2011
    },
    "date_added": "2018-03-24T11:44:29-07:00",
+   "folder_id": 1,
    "id": 2745734,
    "instance_id": 288506255,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -19694,8 +23142,19 @@
     "year": 2007
    },
    "date_added": "2018-03-24T11:44:17-07:00",
+   "folder_id": 1,
    "id": 1027597,
    "instance_id": 288506217,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -19749,9 +23208,24 @@
     "year": 2015
    },
    "date_added": "2018-03-22T01:06:43-07:00",
+   "folder_id": 1,
    "id": 6981658,
    "instance_id": 288053272,
-   "rating": 0
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Generic"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 120\n2. 119\n3. 128\n4. 117"
+    }
+   ],
+   "rating": 5
   },
   {
    "basic_information": {
@@ -19809,8 +23283,19 @@
     "year": 2018
    },
    "date_added": "2018-03-20T21:57:28-07:00",
+   "folder_id": 1,
    "id": 11629090,
    "instance_id": 287817430,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good Plus (VG+)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -19874,8 +23359,19 @@
     "year": 1997
    },
    "date_added": "2018-03-20T21:56:01-07:00",
+   "folder_id": 1,
    "id": 8084,
    "instance_id": 287817158,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Fair (F)"
+    },
+    {
+     "field_id": 2,
+     "value": "Fair (F)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -19928,6 +23424,7 @@
     "year": 1996
    },
    "date_added": "2018-03-20T21:55:48-07:00",
+   "folder_id": 1,
    "id": 3804,
    "instance_id": 287817105,
    "rating": 0
@@ -19984,8 +23481,23 @@
     "year": 2018
    },
    "date_added": "2018-03-17T14:05:18-07:00",
+   "folder_id": 1,
    "id": 11700047,
    "instance_id": 286981685,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 124 \n2. 125"
+    }
+   ],
    "rating": 0
   },
   {
@@ -20056,8 +23568,19 @@
     "year": 2015
    },
    "date_added": "2018-03-17T11:36:53-07:00",
+   "folder_id": 1,
    "id": 7345093,
    "instance_id": 286947696,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -20113,8 +23636,23 @@
     "year": 2016
    },
    "date_added": "2018-03-17T11:34:26-07:00",
+   "folder_id": 1,
    "id": 9003690,
    "instance_id": 286947151,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1.103 \n2. 110"
+    }
+   ],
    "rating": 0
   },
   {
@@ -20167,8 +23705,23 @@
     "year": 2017
    },
    "date_added": "2018-03-17T11:34:06-07:00",
+   "folder_id": 1,
    "id": 9891801,
    "instance_id": 286947092,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 120 \n2. 120"
+    }
+   ],
    "rating": 0
   },
   {
@@ -20222,8 +23775,23 @@
     "year": 2016
    },
    "date_added": "2018-03-17T11:33:32-07:00",
+   "folder_id": 1,
    "id": 9364772,
    "instance_id": 286946973,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 146 \n2. 144 \n3. 118"
+    }
+   ],
    "rating": 0
   },
   {
@@ -20276,8 +23844,23 @@
     "year": 2015
    },
    "date_added": "2018-03-17T11:33:09-07:00",
+   "folder_id": 1,
    "id": 7512474,
    "instance_id": 286946865,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 110\n2. 120\n3. 120"
+    }
+   ],
    "rating": 0
   },
   {
@@ -20329,8 +23912,19 @@
     "year": 0
    },
    "date_added": "2018-03-17T11:32:40-07:00",
+   "folder_id": 1,
    "id": 5330525,
    "instance_id": 286946770,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good Plus (VG+)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -20384,8 +23978,19 @@
     "year": 0
    },
    "date_added": "2018-03-17T11:31:36-07:00",
+   "folder_id": 1,
    "id": 1091633,
    "instance_id": 286946534,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good Plus (VG+)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -20466,8 +24071,19 @@
     "year": 2015
    },
    "date_added": "2018-03-17T11:30:56-07:00",
+   "folder_id": 1,
    "id": 7753999,
    "instance_id": 286946405,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -20540,8 +24156,19 @@
     "year": 1964
    },
    "date_added": "2018-03-17T11:24:24-07:00",
+   "folder_id": 1,
    "id": 3525986,
    "instance_id": 286945096,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good (VG)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -20591,8 +24218,19 @@
     "year": 2006
    },
    "date_added": "2018-03-17T11:23:26-07:00",
+   "folder_id": 1,
    "id": 781817,
    "instance_id": 286944888,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Very Good (VG)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -20648,8 +24286,19 @@
     "year": 2006
    },
    "date_added": "2018-03-17T11:22:11-07:00",
+   "folder_id": 1,
    "id": 619872,
    "instance_id": 286944638,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Good (G)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -20711,9 +24360,20 @@
     "year": 0
    },
    "date_added": "2018-03-17T11:20:55-07:00",
+   "folder_id": 1,
    "id": 219517,
    "instance_id": 286944360,
-   "rating": 0
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 5
   },
   {
    "basic_information": {
@@ -20773,8 +24433,19 @@
     "year": 1967
    },
    "date_added": "2018-03-17T11:18:20-07:00",
+   "folder_id": 1,
    "id": 1155423,
    "instance_id": 286943865,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Good Plus (G+)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -20827,8 +24498,23 @@
     "year": 2017
    },
    "date_added": "2018-03-17T11:17:06-07:00",
+   "folder_id": 1,
    "id": 11171471,
    "instance_id": 286943652,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 126\n2. 126"
+    }
+   ],
    "rating": 0
   },
   {
@@ -20901,8 +24587,19 @@
     "year": 2010
    },
    "date_added": "2018-03-17T11:16:13-07:00",
+   "folder_id": 1,
    "id": 2691711,
    "instance_id": 286943487,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -20956,8 +24653,19 @@
     "year": 2013
    },
    "date_added": "2018-03-17T11:11:41-07:00",
+   "folder_id": 1,
    "id": 4962853,
    "instance_id": 286942598,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -21010,8 +24718,19 @@
     "year": 1996
    },
    "date_added": "2018-03-17T11:07:03-07:00",
+   "folder_id": 1,
    "id": 1849437,
    "instance_id": 286941652,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Good (G)"
+    },
+    {
+     "field_id": 2,
+     "value": "Generic"
+    }
+   ],
    "rating": 0
   },
   {
@@ -21066,8 +24785,19 @@
     "year": 2017
    },
    "date_added": "2018-03-17T11:06:37-07:00",
+   "folder_id": 1,
    "id": 10586428,
    "instance_id": 286941561,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -21140,8 +24870,19 @@
     "year": 2014
    },
    "date_added": "2018-03-17T11:05:24-07:00",
+   "folder_id": 1,
    "id": 5726711,
    "instance_id": 286941287,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -21196,8 +24937,19 @@
     "year": 1977
    },
    "date_added": "2018-03-17T11:03:56-07:00",
+   "folder_id": 1,
    "id": 2672306,
    "instance_id": 286940977,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -21269,8 +25021,19 @@
     "year": 2015
    },
    "date_added": "2018-03-17T11:03:32-07:00",
+   "folder_id": 1,
    "id": 7606066,
    "instance_id": 286940890,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -21327,8 +25090,19 @@
     "year": 1979
    },
    "date_added": "2018-03-17T11:01:59-07:00",
+   "folder_id": 1,
    "id": 2289456,
    "instance_id": 286940576,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -21392,8 +25166,23 @@
     "year": 2005
    },
    "date_added": "2018-03-17T11:01:07-07:00",
+   "folder_id": 1,
    "id": 416223,
    "instance_id": 286940404,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 136\n2. 128\n3. 112\n4. 92-\n5. 133\n6. 120\n7. 0 - -\n8. 115\n9. 127\n10. 98"
+    }
+   ],
    "rating": 0
   },
   {
@@ -21458,8 +25247,19 @@
     "year": 2017
    },
    "date_added": "2018-03-17T11:00:29-07:00",
+   "folder_id": 1,
    "id": 9669399,
    "instance_id": 286940283,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -21540,8 +25340,19 @@
     "year": 2001
    },
    "date_added": "2018-03-17T10:59:00-07:00",
+   "folder_id": 1,
    "id": 236605,
    "instance_id": 286939971,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -21613,8 +25424,19 @@
     "year": 2001
    },
    "date_added": "2018-03-17T10:58:03-07:00",
+   "folder_id": 1,
    "id": 2879,
    "instance_id": 286939783,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -21666,8 +25488,23 @@
     "year": 2010
    },
    "date_added": "2018-03-17T10:56:51-07:00",
+   "folder_id": 1,
    "id": 2473305,
    "instance_id": 286939545,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 171\n2. 128\n3. 125"
+    }
+   ],
    "rating": 0
   },
   {
@@ -21729,8 +25566,19 @@
     "year": 1979
    },
    "date_added": "2018-03-17T10:55:50-07:00",
+   "folder_id": 1,
    "id": 4496176,
    "instance_id": 286939336,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Very Good Plus (VG+)"
+    },
+    {
+     "field_id": 2,
+     "value": "Fair (F)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -21782,9 +25630,24 @@
     "year": 2016
    },
    "date_added": "2018-03-17T10:54:35-07:00",
+   "folder_id": 1,
    "id": 9437902,
    "instance_id": 286939090,
-   "rating": 0
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "10,92;14,58;22,95"
+    }
+   ],
+   "rating": 5
   },
   {
    "basic_information": {
@@ -21843,8 +25706,19 @@
     "year": 1990
    },
    "date_added": "2018-03-17T10:53:33-07:00",
+   "folder_id": 1,
    "id": 177915,
    "instance_id": 286938895,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Good (G)"
+    },
+    {
+     "field_id": 2,
+     "value": "Good (G)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -21905,8 +25779,23 @@
     "year": 1989
    },
    "date_added": "2018-03-17T10:50:45-07:00",
+   "folder_id": 1,
    "id": 686974,
    "instance_id": 286938413,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Fair (F)"
+    },
+    {
+     "field_id": 3,
+     "value": "0,24;0,75;2,00"
+    }
+   ],
    "rating": 0
   },
   {
@@ -21980,8 +25869,19 @@
     "year": 1991
    },
    "date_added": "2018-03-17T10:49:59-07:00",
+   "folder_id": 1,
    "id": 185067,
    "instance_id": 286938237,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Good (G)"
+    },
+    {
+     "field_id": 2,
+     "value": "Generic"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22034,8 +25934,19 @@
     "year": 2000
    },
    "date_added": "2018-03-17T10:49:18-07:00",
+   "folder_id": 1,
    "id": 160922,
    "instance_id": 286938114,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Poor (P)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22087,8 +25998,23 @@
     "year": 2015
    },
    "date_added": "2018-03-17T10:48:39-07:00",
+   "folder_id": 1,
    "id": 6585672,
    "instance_id": 286938004,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 124\n2. 125"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22142,8 +26068,23 @@
     "year": 2014
    },
    "date_added": "2018-03-17T10:48:23-07:00",
+   "folder_id": 1,
    "id": 6080023,
    "instance_id": 286937954,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 122"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22195,8 +26136,19 @@
     "year": 1999
    },
    "date_added": "2018-03-17T10:45:53-07:00",
+   "folder_id": 1,
    "id": 79873,
    "instance_id": 286937512,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22249,8 +26201,19 @@
     "year": 1991
    },
    "date_added": "2018-03-17T10:45:12-07:00",
+   "folder_id": 1,
    "id": 815398,
    "instance_id": 286937389,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Good (G)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22304,8 +26267,23 @@
     "year": 2017
    },
    "date_added": "2018-03-17T10:44:03-07:00",
+   "folder_id": 1,
    "id": 10362729,
    "instance_id": 286937155,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 123\n2. 123"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22356,8 +26334,23 @@
     "year": 2015
    },
    "date_added": "2018-03-17T10:43:46-07:00",
+   "folder_id": 1,
    "id": 7544626,
    "instance_id": 286937105,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 126\n2. 127\n3. 125"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22409,8 +26402,19 @@
     "year": 2004
    },
    "date_added": "2018-03-17T10:43:12-07:00",
+   "folder_id": 1,
    "id": 297076,
    "instance_id": 286936998,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22466,8 +26470,23 @@
     "year": 2017
    },
    "date_added": "2018-03-17T10:42:49-07:00",
+   "folder_id": 1,
    "id": 10810906,
    "instance_id": 286936909,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 126\n2. 127/128"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22522,8 +26541,19 @@
     "year": 2016
    },
    "date_added": "2018-03-17T10:39:57-07:00",
+   "folder_id": 1,
    "id": 9048621,
    "instance_id": 286936417,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22575,8 +26605,23 @@
     "year": 2015
    },
    "date_added": "2018-03-17T10:39:03-07:00",
+   "folder_id": 1,
    "id": 6774993,
    "instance_id": 286936235,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "3,66;7,37;9,34"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22629,8 +26674,23 @@
     "year": 2016
    },
    "date_added": "2018-03-17T10:38:48-07:00",
+   "folder_id": 1,
    "id": 9290105,
    "instance_id": 286936196,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 124\n2. 128\n3. 128"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22682,8 +26742,23 @@
     "year": 2017
    },
    "date_added": "2018-03-17T10:38:26-07:00",
+   "folder_id": 1,
    "id": 10853209,
    "instance_id": 286936139,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 125\n2. 125\n3. 125\n4. 125"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22737,8 +26812,23 @@
     "year": 2017
    },
    "date_added": "2018-03-17T10:37:44-07:00",
+   "folder_id": 1,
    "id": 11180623,
    "instance_id": 286936018,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 122\n2. 125"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22792,8 +26882,19 @@
     "year": 2018
    },
    "date_added": "2018-03-17T10:37:21-07:00",
+   "folder_id": 1,
    "id": 11400715,
    "instance_id": 286935932,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22865,8 +26966,19 @@
     "year": 1992
    },
    "date_added": "2018-03-17T10:36:27-07:00",
+   "folder_id": 1,
    "id": 3539848,
    "instance_id": 286935767,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Good (G)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22917,8 +27029,23 @@
     "year": 2017
    },
    "date_added": "2018-03-17T10:34:33-07:00",
+   "folder_id": 1,
    "id": 11293446,
    "instance_id": 286935447,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 128\n2. 125\n3. 126\n4. 128\n5. 124\n6. 127\n7. 125"
+    }
+   ],
    "rating": 0
   },
   {
@@ -22971,8 +27098,19 @@
     "year": 2017
    },
    "date_added": "2018-03-17T10:34:00-07:00",
+   "folder_id": 1,
    "id": 11293599,
    "instance_id": 286935325,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -23034,8 +27172,23 @@
     "year": 2017
    },
    "date_added": "2018-03-17T10:33:07-07:00",
+   "folder_id": 1,
    "id": 10857229,
    "instance_id": 286935183,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 125\n2. 125"
+    }
+   ],
    "rating": 0
   },
   {
@@ -23089,8 +27242,23 @@
     "year": 2018
    },
    "date_added": "2018-03-17T10:32:29-07:00",
+   "folder_id": 1,
    "id": 11466547,
    "instance_id": 286935071,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 125\n2. 126"
+    }
+   ],
    "rating": 0
   },
   {
@@ -23141,8 +27309,23 @@
     "year": 2017
    },
    "date_added": "2018-03-17T10:31:56-07:00",
+   "folder_id": 1,
    "id": 10681809,
    "instance_id": 286934975,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 125\n2. 125\n3. 128"
+    }
+   ],
    "rating": 0
   },
   {
@@ -23203,8 +27386,19 @@
     "year": 2018
    },
    "date_added": "2018-03-17T10:31:12-07:00",
+   "folder_id": 1,
    "id": 11434445,
    "instance_id": 286934833,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -23260,8 +27454,19 @@
     "year": 1962
    },
    "date_added": "2018-03-17T10:30:16-07:00",
+   "folder_id": 1,
    "id": 875495,
    "instance_id": 286934678,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Good Plus (G+)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -23318,8 +27523,19 @@
     "year": 1998
    },
    "date_added": "2018-03-17T10:28:47-07:00",
+   "folder_id": 1,
    "id": 4087,
    "instance_id": 286934402,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Generic"
+    }
+   ],
    "rating": 0
   },
   {
@@ -23372,8 +27588,19 @@
     "year": 2017
    },
    "date_added": "2018-03-17T10:26:11-07:00",
+   "folder_id": 1,
    "id": 11325424,
    "instance_id": 286933926,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -23425,8 +27652,23 @@
     "year": 2018
    },
    "date_added": "2018-03-17T10:24:13-07:00",
+   "folder_id": 1,
    "id": 11568084,
    "instance_id": 286933582,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Near Mint (NM or M-)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 128\n2. 128\n3. 128\n4. 128\n\n6,66;9,79;12,57"
+    }
+   ],
    "rating": 0
   },
   {
@@ -23478,8 +27720,19 @@
     "year": 2017
    },
    "date_added": "2018-03-17T10:22:10-07:00",
+   "folder_id": 1,
    "id": 11209880,
    "instance_id": 286933198,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -23531,8 +27784,19 @@
     "year": 2017
    },
    "date_added": "2018-03-17T10:21:34-07:00",
+   "folder_id": 1,
    "id": 11116635,
    "instance_id": 286933111,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -23585,8 +27849,23 @@
     "year": 2018
    },
    "date_added": "2018-03-17T10:18:23-07:00",
+   "folder_id": 1,
    "id": 11465915,
    "instance_id": 286932514,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 127\n2. 127\n3. 127"
+    }
+   ],
    "rating": 0
   },
   {
@@ -23656,8 +27935,23 @@
     "year": 2016
    },
    "date_added": "2018-03-17T10:17:21-07:00",
+   "folder_id": 1,
    "id": 8403745,
    "instance_id": 286932343,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 3,
+     "value": "1. 96-\n2. 108\n3. 94-\n4. 92-\n5. 125\n6. 87-\n7. 116\n8. 112"
+    }
+   ],
    "rating": 0
   },
   {
@@ -23711,8 +28005,19 @@
     "year": 2017
    },
    "date_added": "2018-03-17T10:16:21-07:00",
+   "folder_id": 1,
    "id": 9600402,
    "instance_id": 286932162,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   },
   {
@@ -23765,8 +28070,15 @@
     "year": 2016
    },
    "date_added": "2018-03-17T10:15:57-07:00",
+   "folder_id": 1,
    "id": 8125774,
    "instance_id": 286932077,
+   "notes": [
+    {
+     "field_id": 3,
+     "value": "1. 114\n2. 113\n3. 120\n4. 109"
+    }
+   ],
    "rating": 0
   },
   {
@@ -23818,6 +28130,7 @@
     "year": 2017
    },
    "date_added": "2018-03-17T10:15:40-07:00",
+   "folder_id": 1,
    "id": 10240459,
    "instance_id": 286932033,
    "rating": 0
@@ -23872,8 +28185,19 @@
     "year": 2018
    },
    "date_added": "2018-03-17T10:15:08-07:00",
+   "folder_id": 1,
    "id": 11430877,
    "instance_id": 286931939,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
    "rating": 0
   }
  ],
