@@ -28,6 +28,7 @@ CURRENCY = (os.environ.get("DISCOGS_CURRENCY") or "EUR").strip().upper()
 INTERVAL = 1.1 if TOKEN else 2.5
 MINUTES = float(os.environ.get("VALUE_MINUTES", "8"))
 MAX_AGE = timedelta(hours=float(os.environ.get("VALUE_MAX_AGE_HOURS", "20")))
+RETRY_NO_SUGGESTIONS = timedelta(hours=3)
 VDIR = DATA / "value"
 
 # Discogs' condition names -> the short grades collectors use
@@ -139,7 +140,13 @@ def main():
     def age(rid):
         t = (prices.get(str(rid)) or {}).get("t")
         return datetime.fromisoformat(t) if t else datetime.min.replace(tzinfo=timezone.utc)
-    due = sorted((rid for rid in ids if now - age(rid) >= MAX_AGE), key=age)
+    # With a token, records that came back without price suggestions (seller settings not filled in yet,
+    # a Discogs hiccup, or simply no sales) are asked again after a few hours instead of a day.
+    def due_now(rid):
+        p = prices.get(str(rid)) or {}
+        wait = MAX_AGE if (p.get("s") or not TOKEN) else RETRY_NO_SUGGESTIONS
+        return now - age(rid) >= wait
+    due = sorted((rid for rid in ids if due_now(rid)), key=age)
     print(f"{len(ids)} records, {len(due)} due for a price check ({'with' if TOKEN else 'without'} a Discogs token)")
     stop = time.monotonic() + MINUTES * 60
     done = 0
