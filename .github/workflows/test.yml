@@ -1,0 +1,34 @@
+name: Test match score
+
+# Behaviour checks for the match model on every change to it, and a calibration report against your
+# ratings (user/state.json, synced from the app) weekly or on demand. The report is in the run summary.
+on:
+  pull_request:
+    paths: ["site/match.js", "site/camelot.js", "eval/**", ".github/workflows/test.yml"]
+  push:
+    branches: [main]
+    paths: ["site/match.js", "site/camelot.js", "eval/**", ".github/workflows/test.yml"]
+  schedule:
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: node --test eval/*.test.js
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests numpy
+      - run: python sync/build.py
+      - name: Evaluate against your ratings
+        run: node eval/evaluate.js --weights | tee -a "$GITHUB_STEP_SUMMARY"

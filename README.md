@@ -25,6 +25,9 @@ A GitHub Actions workflow (`.github/workflows/sync.yml`) runs twice an hour, and
 
 Synced data is committed to `data/` so each run only does new work. Run it by hand from the Actions tab with "Run workflow".
 
+- **Match score**: the % on every transition (and on "What could come next", Swap and the generator's Min. match) is the chance the next track works after this one on your decks, from `site/match.js`. Parts: tempo (how far the pitch fader moves), key once pitched, *tuning* (vinyl has no key lock, so 3% of pitch leaves a track half a semitone off any key), sound profile, Discogs styles and label, energy, half/double time, and whether BPM/key were only estimated from a preview. Release year isn't used. It's a small logistic model in log space, so one bad part pulls the score down instead of being averaged away.
+- **Rating loop**: Settings › Match score › **Rate transitions** plays you pairs (blend them with the previews) and asks *works / just about / doesn't work*, with Crate's own % hidden until you answer. Pairs come from your own mixes and from whichever score band has the fewest ratings, so every percentage gets checked. 👍/👎 on transitions count too. From 20 verdicts on, the model refits its weights on them in the browser (pulled toward the defaults so a few ratings can't overturn it), and the card shows how the % has held up: "said 80–90%, worked 83%", checked on ratings the model didn't learn from.
+
 ### Accuracy
 
 - AcousticBrainz stopped collecting in 2022 and mostly covers releases that people ripped digitally, so many vinyl-only tracks won't be there.
@@ -48,3 +51,15 @@ pip install -r sync/requirements.txt
 python sync/sync_discogs.py && python sync/value.py && python sync/enrich.py && python sync/build.py
 python -m http.server -d site 8000
 ```
+
+## Testing the match score
+
+```sh
+node --test eval/*.test.js         # behaviour checks for site/match.js (no data needed)
+python sync/build.py               # builds site/data.json
+node eval/evaluate.js              # ratings from user/state.json (synced from the app)
+node eval/evaluate.js backup.json  # or from a Settings › Download backup file; --weights prints the learned weights
+```
+
+`eval/evaluate.js` compares the old weighted average (`eval/legacy.js`), the model's default weights and the weights learned from your ratings (5-fold cross-validated) on the same rated pairs: how often "80%+" actually worked, a calibration table, AUC, Brier score and log loss. The **Test match score** workflow runs the checks on every change and the evaluation weekly, into the run summary. To improve the model: rate more pairs, change `site/match.js`, and keep the change only if the evaluation gets better.
+

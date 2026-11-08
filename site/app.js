@@ -22,6 +22,9 @@
   // Older versions kept generated drafts inside the mixes list; treat those as saved mixes now.
   user.mixes.forEach((m) => delete m.draft);
   user.pairs = user.pairs || {}; // your 👍/👎 on transitions: 'trackA|trackB' -> 1 or -1
+  // Blind ratings from Settings › Match score: [{a, b, v: 1 works | 0.5 just about | 0 doesn't, p: what Crate said, t}].
+  // They're the labels the match model learns from and eval/evaluate.js measures it against.
+  user.ratings = user.ratings || [];
 
   function saveUser() {
     user.updated = Date.now();
@@ -1785,35 +1788,21 @@
     const t = byKey.get(k);
     if (!t) return null;
     const e = eff(t);
-    return { ...t, bpm: e.bpm, cam: e.cam, key: e.key };
+    return { ...t, bpm: e.bpm, cam: e.cam, key: e.key, src: e.src };
   }
 
   // ---------- how well two tracks belong together, beyond tempo and key ----------
   const pairKey = (a, b) => (a < b ? `${a}|${b}` : `${b}|${a}`);
   const feedback = (a, b) => user.pairs[pairKey(a, b)] || 0;
-  // Sound profiles come from the sync: a short "sounds like" vector, so close vectors sound alike.
-  function soundSim(x, y) {
-    let dot = 0, nx = 0, ny = 0;
-    for (let i = 0; i < x.v.length; i++) { dot += x.v[i] * y.v[i]; nx += x.v[i] ** 2; ny += y.v[i] ** 2; }
-    return nx && ny ? dot / Math.sqrt(nx * ny) : 0;
-  }
-  // Cosine rescaled to 0..1 from the collection's spread: a random pair lands near 0.33, two tracks off the same record near 0.8.
-  const soundFit = (x, y) => Math.max(0, Math.min(1, (soundSim(x, y) + 0.45) / 1.25));
-  // 0..1: shared styles, similar era, same label and, where known, how alike they sound.
-  function affinity(a, b) {
-    const ra = a.r, rb = b.r;
-    let s = 0, w = 0;
-    if (ra.styles.length && rb.styles.length) {
-      const shared = ra.styles.filter((x) => rb.styles.includes(x)).length;
-      s += 0.35 * (shared / new Set([...ra.styles, ...rb.styles]).size); w += 0.35;
-    } else if (ra.genres.length && rb.genres.length) {
-      s += 0.2 * (ra.genres.some((g) => rb.genres.includes(g)) ? 1 : 0); w += 0.2;
-    }
-    if (ra.year && rb.year) { s += 0.15 * Math.max(0, 1 - Math.abs(ra.year - rb.year) / 15); w += 0.15; }
-    if (a.snd && b.snd) { s += 0.5 * soundFit(a.snd, b.snd); w += 0.5; }
-    const sameLabel = ra.labels[0] && rb.labels[0] && ra.labels[0].name === rb.labels[0].name;
-    return w ? Math.min(1, s / w + (sameLabel ? 0.05 : 0)) : 0.5;
-  }
+  // The match model (match.js) scores every transition: tempo, key, tuning, sound, style and energy,
+  // with weights refitted from your ratings. Release year plays no part.
+  const M = window.CrateMatch;
+  const soundSim = M.soundSim, soundFit = M.soundFit;
+  // 0..1: how alike two tracks are in sound and style, regardless of tempo and key. Used to keep a
+  // mix in one world (or, for Eclectic, to leave it).
+  const affinity = (a, b) => (a.snd && b.snd ? 0.65 * soundFit(a.snd, b.snd) + 0.35 * M.styleFit(a.r, b.r) : M.styleFit(a.r, b.r));
+  // 0..1 chance b plays well after a, from the model alone (your thumbs and ratings are applied by the callers).
+  const matchP = (a, b, o = {}) => M.score(a, b, { pitchRange: settings.pitchRange, ...o }).p;
 
   function suggestions(fromKey, exclude) {
     const a = trackObj(fromKey);
@@ -1822,10 +1811,12 @@
     for (const t of TRACKS) {
       if (exclude.has(t.k)) continue;
       const b = trackObj(t.k);
+      if (b.r === a.r) continue;
       const tr = C.transition(a, b, { pitchRange: settings.pitchRange });
       const fb = feedback(a.k, b.k);
-      if (fb < 0) continue;
-      if (tr.score !== null && tr.score >= 0.6 && tr.bpmScore !== 0) out.push({ t: b, tr, rank: tr.score * 0.6 + affinity(a, b) * 0.4 + fb * 0.3 });
+      if (fb < 0 || !tr.bpmScore) continue;
+      const p = matchP(a, b);
+      if (p >= 0.4 || fb > 0) out.push({ t: b, tr, rank: p + fb * 0.3 });
     }
     return out.sort((x, y) => y.rank - x.rank).slice(0, 20);
   }
@@ -1839,7 +1830,7 @@
       const a = trackObj(order[order.length - 1]);
       let best = null, bestScore = -1;
       for (const k of left) {
-        const b = trackObj(k), s = (C.transition(a, b, { pitchRange: settings.pitchRange }).score ?? -0.5) * 0.6 + affinity(a, b) * 0.4 + feedback(a.k, k) * 0.3;
+        const b = trackObj(k), s = matchP(a, b) + feedback(a.k, k) * 0.3;
         if (s > bestScore) { best = k; bestScore = s; }
       }
       order.push(best);
@@ -1854,6 +1845,7 @@
   // cue the record that's playing), each record used once where possible, tempo following a
   // start → end curve, and each step chosen for the smoothest pitch and key move.
   const gen = store.get('gen', { genre: '', style: '', from: 120, to: 126, cam: '', n: 10 });
+  if (gen.minc === '90') gen.minc = '80'; // the match % is stricter now; 90+ would rarely find a whole mix
 
   function generateMix(o) {
     const keys = !o.nokeys;
@@ -1878,15 +1870,15 @@
       let best = null, bestScore = -Infinity;
       for (const c of pool) {
         if (used.has(c.k) || c.r === prev.r) continue;
-        const tr = C.transition(prev, c, { pitchRange: range });
-        if (!tr.bpmScore || (keys && tr.pitched.score === 0)) continue;
         const fb = feedback(prev.k, c.k);
         if (fb < 0) continue;
-        if (o.minc && compat(prev, c, tr).n < +o.minc) continue;
-        const step = keys ? tr.score : tr.bpmScore;
-        const fit = tgt ? Math.max(0, 1 - near(c.bpm, tgt) / 0.06) : step;
-        const aff = affinity(prev, c);
-        const score = step * 0.4 + fit * 0.2 + (o.vibe === 'eclectic' ? 1 - aff : aff) * 0.25 + vibeFit(o.vibe, prev, c) * 0.15 +
+        // Eclectic wants contrast, so a style change doesn't count against a step there (sound still does:
+        // a jump to something that sounds nothing alike rarely blends).
+        const m = M.score(prev, c, { pitchRange: range, nokeys: !keys, ...(o.vibe === 'eclectic' ? { ignore: ['style'] } : {}) });
+        if (m.f.tempo < 0.05 || (keys && m.f.key && m.f.key.rel === 'clash')) continue;
+        if (o.minc && compat(prev, c, { nokeys: !keys }).n < +o.minc) continue;
+        const fit = tgt ? Math.max(0, 1 - near(c.bpm, tgt) / 0.06) : m.f.tempo;
+        const score = m.p * 0.55 + fit * 0.2 + (o.vibe === 'eclectic' ? (1 - affinity(prev, c)) * 0.2 : 0) + vibeFit(o.vibe, prev, c) * 0.15 +
           fb * 0.5 - (usedRec.has(c.r) ? 0.4 : 0) + Math.random() * 0.08;
         if (score > bestScore) { best = c; bestScore = score; }
       }
@@ -1934,29 +1926,28 @@
       if (c.r === prev.r) return null;
       // Going backwards, c is played before prev, so the transition runs c → prev.
       const [x, y] = back ? [c, prev] : [prev, c];
-      const tr = C.transition(x, y, { pitchRange: range });
-      if (!tr.bpmScore || (keys && tr.pitched.score === 0)) return null;
       const fb = feedback(x.k, y.k);
       if (fb < 0) return null;
-      if (o.minc && compat(x, y, tr).n < +o.minc) return null;
-      const st = keys ? tr.score : tr.bpmScore;
-      let sc = st * 0.35 + affinity(prev, c) * 0.15 + fb * 0.5;
+      const m = M.score(x, y, { pitchRange: range, nokeys: !keys });
+      if (m.f.tempo < 0.05 || (keys && m.f.key && m.f.key.rel === 'clash')) return null;
+      if (o.minc && compat(x, y, { nokeys: !keys }).n < +o.minc) return null;
+      let sc = m.p * 0.5 + fb * 0.5;
       if (!both) { // one end only: stay in the anchor's world and keep the energy steady
-        sc += 0.2 * st + 0.2 * (anchor.snd && c.snd ? soundFit(anchor.snd, c.snd) : affinity(anchor, c)) + 0.1 * vibeFit('', x, y);
+        sc += 0.2 * m.p + 0.2 * (anchor.snd && c.snd ? soundFit(anchor.snd, c.snd) : affinity(anchor, c)) + 0.1 * vibeFit('', x, y);
         return sc;
       }
       const tb = bpmT(i);
-      sc += 0.2 * (tb ? Math.max(0, 1 - near(c.bpm, tb) / 0.06) : st);
+      sc += 0.2 * (tb ? Math.max(0, 1 - near(c.bpm, tb) / 0.06) : m.f.tempo);
       const tv = vT(i);
       sc += 0.2 * (tv && c.snd ? Math.max(0, Math.min(1, (soundSim(c.snd, { v: tv }) + 0.45) / 1.25)) : 0.4);
       const te = eT(i);
       sc += 0.1 * (te != null && c.snd && c.snd.e != null ? Math.max(0, 1 - Math.abs(c.snd.e - te) / 25) : 0.5);
       if (i === k) { // hands over to B
         if (c.r === B.r) return null;
-        const tr2 = C.transition(c, B, { pitchRange: range });
-        if (!tr2.bpmScore || (keys && tr2.pitched.score === 0)) return null;
-        if (o.minc && compat(c, B, tr2).n < +o.minc) return null;
-        sc += (keys ? tr2.score : tr2.bpmScore) * 0.5 + affinity(c, B) * 0.2;
+        const m2 = M.score(c, B, { pitchRange: range, nokeys: !keys });
+        if (m2.f.tempo < 0.05 || (keys && m2.f.key && m2.f.key.rel === 'clash') || feedback(c.k, B.k) < 0) return null;
+        if (o.minc && compat(c, B, { nokeys: !keys }).n < +o.minc) return null;
+        sc += m2.p * 0.7;
       }
       return sc;
     };
@@ -2006,7 +1997,7 @@
     const pickStyle = (v) => { v = v.trim().toLowerCase(); if (!v) return ''; const hit = styles.find(([s]) => s.toLowerCase() === v); if (hit) return hit[0]; const near = styles.filter(([s]) => s.toLowerCase().includes(v)); return near.length === 1 ? near[0][0] : ''; };
     const d = user.draft;
     const opt = (list, cur, any) => `<option value="">${any}</option>` + list.map(([v, n, l]) => `<option value="${esc(v)}"${n != null ? ` data-n="${n}"` : ''}${String(v) === String(cur) ? ' selected' : ''}>${esc(l || v)}</option>`).join('');
-    const MINC = [['', 'Any'], ['50', '50+'], ['60', '60+'], ['70', '70+'], ['80', '80+'], ['90', '90+']];
+    const MINC = [['', 'Any'], ['40', '40+'], ['50', '50+'], ['60', '60+'], ['70', '70+'], ['80', '80+']];
     const nMax = bridge ? 20 : 40, nMin = bridge ? 1 : 2, n = Math.max(nMin, Math.min(nMax, +gen.n || (bridge ? 6 : 10)));
     let html = `<section class="gen-card"><h2>Generate a mix</h2>
       <div class="seg" role="tablist" aria-label="Kind of mix"><button role="tab" data-mode="" aria-selected="${!bridge}">Tempo plan</button><button role="tab" data-mode="bridge" aria-selected="${bridge}">Bridge tracks</button></div>
@@ -2106,33 +2097,140 @@
   }
 
   const THUMB_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 11v9H4v-9zM7 11l4-7c1.4 0 2.3 1.1 2 2.5L12.5 10H18a2 2 0 0 1 2 2.3l-1.2 6A2 2 0 0 1 16.8 20H7"/></svg>';
-  // 0..100: how well b follows a, from tempo, key, sound, style/era/label, energy and your thumbs.
-  function compat(a, b, tr) {
-    const parts = [];
-    if (tr.bpmScore != null) parts.push(['tempo', tr.bpmScore, 0.3]);
-    if (tr.pitched && tr.pitched.score != null) parts.push(['key', tr.pitched.score, 0.25]);
-    parts.push([a.snd && b.snd ? 'sound and style' : 'style', affinity(a, b), 0.3]);
-    if (a.snd && b.snd && a.snd.e != null && b.snd.e != null) parts.push(['energy', vibeFit('', a, b), 0.15]);
-    const w = parts.reduce((x, p) => x + p[2], 0);
-    let s = parts.reduce((x, p) => x + p[1] * p[2], 0) / w;
-    const fb = feedback(a.k, b.k);
+  // 0..100: the model's chance that b plays well after a. Your own verdict on the pair wins for display:
+  // 👍 / "works" shows at least 90, 👎 / "doesn't work" at most 20.
+  const PART_NAMES = { tempo: 'tempo', key: 'key', tuning: 'tuning', sound: 'sound', style: 'style', energy: 'energy' };
+  function compat(a, b, o) {
+    const m = M.score(a, b, { pitchRange: settings.pitchRange, ...o });
+    let s = m.p;
+    const fb = feedback(a.k, b.k), rated = ratingOf(a.k, b.k);
     if (fb > 0) s = Math.max(s, 0.9);
     if (fb < 0) s = Math.min(s, 0.2);
-    const weak = parts.filter((p) => p[1] < 0.5).sort((x, y) => x[1] - y[1]).map((p) => p[0]);
-    const why = fb > 0 ? 'you liked this one' : fb < 0 ? 'you marked this as not working' : weak.length ? 'weak on ' + weak.slice(0, 2).join(' and ') : parts.every((p) => p[1] >= 0.75) ? 'strong on every count' : s >= 0.75 ? 'good match' : 'decent all round';
-    const detail = parts.map((p) => `${p[0]} ${Math.round(p[1] * 100)}`).join(' · ');
-    return { n: Math.round(Math.max(0, Math.min(1, s)) * 100), why, detail };
+    const weak = m.parts.filter((p) => p[1] < (p[0] === 'style' ? 0.3 : 0.5)).sort((x, y) => x[1] - y[1]).map((p) => PART_NAMES[p[0]]);
+    const why = rated === 0.5 ? 'you rated this just about' : fb > 0 ? 'you said this works' : fb < 0 ? 'you said this doesn\'t work' : weak.length ? 'weak on ' + weak.slice(0, 2).join(' and ') : m.parts.every((p) => p[1] >= 0.75) ? 'strong on every count' : s >= 0.75 ? 'good match' : 'decent all round';
+    const detail = m.parts.map((p) => `${PART_NAMES[p[0]]} ${Math.round(p[1] * 100)}`).join(' · ') + (m.f.half ? ' · half/double time' : '') + (m.f.unsure ? ' · BPM/key estimated' : '');
+    return { n: Math.round(Math.max(0, Math.min(1, s)) * 100), p: m.p, why, detail };
   }
 
-  function sugScore(a, b, tr) {
-    const cs = compat(a, b, tr);
+  // ---------- rating transitions: how the match % learns ----------
+  // Every rating is a labelled pair. From 20 on, the model's weights are refitted on all of them
+  // (and your 👍/👎), so the % drifts toward "how often a transition like this worked for you".
+  const LEARN_FROM = 20;
+  let ratingMap = new Map(), learned = { n: 0, on: false, ex: [] };
+  function relearn() {
+    ratingMap = new Map(user.ratings.map((r) => [pairKey(r.a, r.b), r.v]));
+    const ex = [];
+    for (const l of M.labels(user)) {
+      const A = trackObj(l.a), B = trackObj(l.b);
+      if (A && B) ex.push({ x: M.vector(M.features(A, B, { pitchRange: settings.pitchRange })), y: l.y });
+    }
+    learned = { n: ex.length, on: ex.length >= LEARN_FROM, ex };
+    M.setModel(learned.on ? M.fit(ex) : null);
+  }
+  const ratingOf = (a, b) => (ratingMap.has(pairKey(a, b)) ? ratingMap.get(pairKey(a, b)) : null);
+
+  // Which pair to ask about next. A third of the time: a transition from your own mixes you haven't
+  // judged yet. Otherwise a pair from the score band with the fewest ratings so far, so the low, middle
+  // and high percentages all get checked (the 80%+ band most of all is what has to be trusted).
+  const RATE_BANDS = [[0, 0.3], [0.3, 0.5], [0.5, 0.7], [0.7, 0.85], [0.85, 1.01]];
+  const rateSkipped = new Set();
+  let rateCur = null, rateLast = null;
+  function nextRatingPair() {
+    const seen = (a, b) => ratingMap.has(pairKey(a, b)) || user.pairs[pairKey(a, b)] || rateSkipped.has(pairKey(a, b));
+    const pick = (xs) => xs[Math.floor(Math.random() * xs.length)];
+    if (Math.random() < 0.34) {
+      const own = [];
+      for (const m of [...user.mixes, ...(user.draft ? [user.draft] : [])])
+        for (let i = 1; i < m.tracks.length; i++) {
+          const [a, b] = [m.tracks[i - 1], m.tracks[i]];
+          if (byKey.has(a) && byKey.has(b) && !seen(a, b)) own.push([a, b]);
+        }
+      if (own.length) { const [a, b] = pick(own); return { a: trackObj(a), b: trackObj(b), from: 'one of your mixes' }; }
+    }
+    const pool = TRACKS.filter((t) => { const e = eff(t); return e.bpm && e.cam; });
+    if (pool.length < 2) return null;
+    const count = RATE_BANDS.map(([lo, hi]) => user.ratings.filter((r) => r.p >= lo && r.p < hi).length);
+    const bands = RATE_BANDS.map((b, i) => [b, count[i] + Math.random() * 0.5]).sort((x, y) => x[1] - y[1]).map((x) => x[0]);
+    for (const [lo, hi] of bands) {
+      for (let tries = 0; tries < 25; tries++) {
+        const a = trackObj(pick(pool).k), hits = [];
+        for (let j = 0; j < 150; j++) {
+          const b = trackObj(pick(pool).k);
+          if (b.r === a.r || seen(a.k, b.k)) continue;
+          const p = matchP(a, b);
+          if (p >= lo && p < hi && M.features(a, b, { pitchRange: settings.pitchRange }).tempo > 0.05) hits.push(b);
+        }
+        if (hits.length) return { a, b: pick(hits) };
+      }
+    }
+    return null;
+  }
+
+  function openRating() {
+    rateCur = nextRatingPair();
+    renderRating();
+    openDrawer('Rate transitions');
+  }
+  function renderRating() {
+    const body = $('#drawer-body');
+    const n = user.ratings.length;
+    const status = learned.on
+      ? `${n} rated. The % now comes from weights learned from your ${learned.n} verdicts.`
+      : `${n} rated. From ${LEARN_FROM} verdicts on (ratings and 👍/👎 together, ${learned.n} so far) the % starts learning from them.`;
+    const last = rateLast ? `<p class="rate-last">Last one: Crate said <b>${Math.round(rateLast.p * 100)}%</b>, you said <b>${rateLast.v === 1 ? 'works' : rateLast.v === 0.5 ? 'just about' : 'doesn\'t work'}</b>.</p>` : '';
+    if (!rateCur) { body.innerHTML = `<div class="rate">${last}<p class="sub">No more pairs to ask about right now.</p><p class="sub">${esc(status)}</p></div>`; return; }
+    const { a, b } = rateCur;
+    const tr = C.transition(a, b, { pitchRange: settings.pitchRange });
+    const row = (t) => `<div class="rate-t">${t.r.thumb ? `<img src="${esc(t.r.thumb)}" alt="" loading="lazy">` : '<span class="noimg"></span>'}<div class="ti"><b>${esc(t.title)}</b><span>${esc(t.artist)}</span><small>${esc(t.r.title)} · ${esc(t.pos)}</small></div><div class="tk">${playBtn(t)}<span class="bpm">${t.bpm ?? "–"}</span>${camBadge(t.cam, t.key)}</div></div>`;
+    body.innerHTML = `<div class="rate">
+      <p class="sub">Would the second track work straight after the first on your decks? Judge the blend, not whether you like the songs. Crate's own % stays hidden until you answer, so it can't sway you.${rateCur.from ? ` This pair is from ${esc(rateCur.from)}.` : ''}</p>
+      ${row(a)}<p class="rate-move">${tr.pitch ? `${esc(fmtPitch(tr.pitch.pct))}${tr.pitch.mult !== 1 ? (tr.pitch.mult === 2 ? ' (double-time)' : ' (half-time)') : ''}` : ''}</p>${row(b)}
+      <div class="mix-play"><button class="sp-mix blend-btn" data-rblend>${BLEND_SVG}Blend the previews</button></div>
+      <div class="rate-btns"><button class="rv good" data-rv="1">Works</button><button class="rv ok" data-rv="0.5">Just about</button><button class="rv bad" data-rv="0">Doesn't work</button></div>
+      <div class="row"><button class="small" data-rskip>Skip this pair</button><button class="small" data-rdone>Done</button></div>
+      ${last}<p class="sub">${esc(status)}</p></div>`;
+    $('[data-rblend]', body).onclick = () => blPlay([a.k, b.k], 'Rating a transition');
+    $('[data-rskip]', body).onclick = () => { rateSkipped.add(pairKey(a.k, b.k)); rateCur = nextRatingPair(); renderRating(); };
+    $('[data-rdone]', body).onclick = () => closeDrawer();
+    $$('[data-rv]', body).forEach((btn) => (btn.onclick = () => {
+      const v = +btn.dataset.rv, k = pairKey(a.k, b.k), p = matchP(a, b);
+      user.ratings = user.ratings.filter((r) => pairKey(r.a, r.b) !== k);
+      user.ratings.push({ a: a.k, b: b.k, v, p: Math.round(p * 1000) / 1000, m: learned.on ? 'learned' : 'default', t: Date.now() });
+      // The generator follows your verdicts straight away: favour what works, avoid what doesn't.
+      if (v === 1) user.pairs[k] = 1; else if (v === 0) user.pairs[k] = -1; else delete user.pairs[k];
+      saveUser();
+      relearn();
+      rateLast = { p, v };
+      rateCur = nextRatingPair();
+      renderRating();
+    }));
+  }
+
+  // The Match score card in Settings: what the % means, how many verdicts, and how well it has held up.
+  function matchCardHtml() {
+    const n = learned.n;
+    let html = `<section class="card-s" id="match-card"><h2>Match score</h2>
+      <p>The % on each transition is Crate's estimate of the chance it works on your decks, from tempo, key, how far out of tune pitching leaves it, sound, style and energy (release year isn't counted). One weak part pulls the whole score down. Rate pairs by ear and it learns from you: ${learned.on ? `it now uses weights learned from your ${n} verdicts.` : `from ${LEARN_FROM} verdicts on (${n} so far, counting 👍/👎) it starts learning.`}</p>
+      <div class="row"><button class="primary" id="rate-go">Rate transitions</button></div>`;
+    if (n >= 8) {
+      // Checked on verdicts the scoring model didn't learn from: cross-validated once it learns.
+      const preds = learned.on ? M.crossValidate(learned.ex) : learned.ex.map((e) => ({ p: M.predict(e.x, M.DEFAULT), y: e.y }));
+      const m = M.metrics(preds);
+      html += `<h3>How the % has held up</h3><table class="calib"><thead><tr><th>Crate said</th><th class="num">Pairs</th><th class="num">Worked</th></tr></thead><tbody>${m.bands.filter((b) => b.n).map((b) => `<tr><td>${Math.round(b.lo * 100)}–${Math.min(100, Math.round(b.hi * 100))}%</td><td class="num">${b.n}</td><td class="num">${Math.round(b.worked * 100)}%</td></tr>`).join('')}</tbody></table>
+        <p class="sub">${m.high.n ? `Of the pairs scored 80% or more, ${Math.round(m.high.worked * 100)}% worked (${m.high.n}). ` : ''}${m.auc != null ? `It ranks a pair that worked above one that didn't ${Math.round(m.auc * 100)}% of the time. ` : ''}Each verdict is checked against a model that ${learned.on ? 'learned from the others only' : 'hasn\'t learned from any yet'}. "Just about" counts as half.</p>`;
+    }
+    return html + '</section>';
+  }
+
+  function sugScore(a, b) {
+    const cs = compat(a, b);
     return `<b class="cscore ${cs.n >= 75 ? 'good' : cs.n >= 50 ? 'ok' : 'bad'}" title="${esc(cs.why + ': ' + cs.detail)}">${cs.n}</b> `;
   }
 
   const openTrans = new Set(); // transition details left open, kept across redraws
   function transitionHtml(a, b) {
     const tr = C.transition(a, b, { pitchRange: settings.pitchRange });
-    const cs = compat(a, b, tr);
+    const cs = compat(a, b);
     const cls = cs.n >= 75 ? 'good' : cs.n >= 50 ? 'ok' : 'bad';
     const bits = [`<span class="score ${cls}">${esc(cs.why)} <small>· ${esc(cs.detail)}</small></span>`];
     if (tr.pitch) {
@@ -2152,7 +2250,7 @@
     // One slim line (score, tempo move, key move); tap it for the full breakdown and the thumbs.
     const pk = pairKey(a.k, b.k);
     const short = [tr.pitch ? fmtPitch(tr.pitch.pct) : 'BPM ?', a.cam && b.cam ? `${a.cam}→${tr.keyAfterPitch}` : 'key ?'].join(' · ');
-    return `<li class="trans ${cls}"><details data-pk="${esc(pk)}"${openTrans.has(pk) ? ' open' : ''}><summary><b class="tsc">${cs.n}</b><span>${esc(short)}</span>${fb ? `<i class="tfb ${fb > 0 ? 'up' : 'down'}">${THUMB_SVG}</i>` : ''}<svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></summary><div class="tdet">${bits.join('')}${fbBtns}</div></details></li>`;
+    return `<li class="trans ${cls}"><details data-pk="${esc(pk)}"${openTrans.has(pk) ? ' open' : ''}><summary><b class="tsc">${cs.n}</b><span>${esc(short)}</span>${fb ? `<i class="tfb ${fb > 0 ? 'up' : 'down'}">${THUMB_SVG}</i>` : ''}<svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></summary><div class="tdet">${bits.join('')}${fbBtns}<button type="button" class="rate-more" data-rate-open>Rate more pairs to sharpen the %</button></div></details></li>`;
   }
 
   // Track list, transitions, records to pull and next-track ideas for a mix or the draft.
@@ -2206,7 +2304,7 @@
     if (cur) tried.add(cur.k);
     swapTried.set(id, tried);
     const inMix = new Set(m.tracks);
-    const fit = (a, b) => (a && b ? compat(a, b, C.transition(a, b, { pitchRange: settings.pitchRange })).n : null);
+    const fit = (a, b) => (a && b ? compat(a, b).n : null);
     let best = null, bestS = -1;
     for (const t0 of TRACKS) {
       if (inMix.has(t0.k) || tried.has(t0.k)) continue;
@@ -2238,12 +2336,15 @@
     $$('[data-rm]', root).forEach((b) => (b.onclick = () => { m.tracks.splice(+b.dataset.rm, 1); saveUser(); rerender(); }));
     wireDrag(root, move);
     $$('[data-swap]', root).forEach((b) => (b.onclick = () => { swapTrack(m, +b.dataset.swap); rerender(); }));
+    $$('[data-rate-open]', root).forEach((b) => (b.onclick = () => openRating()));
     $$('details[data-pk]', root).forEach((d) => (d.ontoggle = () => (d.open ? openTrans.add(d.dataset.pk) : openTrans.delete(d.dataset.pk))));
     $$('table.sug .add', root).forEach((b) => (b.onclick = () => add(b.closest('tr').dataset.k)));
     $$('.fb button', root).forEach((b) => (b.onclick = () => {
       const key = pairKey(b.dataset.fa, b.dataset.fbk), v = +b.dataset.v;
       if (user.pairs[key] === v) delete user.pairs[key]; else user.pairs[key] = v;
+      user.ratings = user.ratings.filter((r) => pairKey(r.a, r.b) !== key); // the newer verdict wins
       saveUser();
+      relearn();
       rerender();
       toast(user.pairs[key] ? (v > 0 ? 'Noted: the generator will favour this pair' : 'Noted: the generator will avoid this pair') : 'Cleared');
     }));
@@ -2362,6 +2463,7 @@
         <p>Without a Discogs token Crate only sees the cheapest copy for sale. For Discogs' own minimum, median and maximum and prices by condition: generate a token at Discogs <b>Settings › Developers</b>, add it to this repository as the secret <code>DISCOGS_TOKEN</code> (<b>Settings › Secrets and variables › Actions</b>), and fill in your <a href="https://www.discogs.com/settings/seller" target="_blank" rel="noopener">seller settings</a> on Discogs once (you don't have to sell anything; Discogs only gives price suggestions to accounts that have them). Prices come in your Discogs currency; set the repository variable <code>DISCOGS_CURRENCY</code> (e.g. USD) to change the one used without a token.</p></section>
       <section class="card-s"><h2>Mixing</h2>
         <label class="f"><span>Turntable pitch range</span><select id="pitch">${[8, 16, 50].map((v) => `<option${settings.pitchRange === v ? ' selected' : ''} value="${v}">±${v}%</option>`).join('')}</select></label></section>
+      ${matchCardHtml()}
       <section class="card-s" id="sp-card"><h2>Full tracks with Spotify <small>(optional, Premium)</small></h2>
         ${SP.token ? `<p>Connected. Each track has a Spotify button (the round wave icon) that plays the whole song, and mixes have <b>Play the mix on Spotify</b>. ${canSdk ? 'On this computer it plays right here in Crate.' : 'On a phone it plays through your Spotify app, controlled from Crate: open the Spotify app once first.'}</p>
         <div class="row"><button id="sp-out">Disconnect</button><button id="sp-forget">Search again for tracks not found</button></div>`
@@ -2379,7 +2481,8 @@
         <label class="f"><span>Repository</span><input id="gh-repo" value="${esc(settings.ghRepo || guessRepo())}" placeholder="owner/repo"></label>
         <label class="f"><span>Token</span><input id="gh-token" type="password" value="${esc(settings.ghToken)}" placeholder="github_pat_…"></label>
         <div class="row"><button id="gh-save">Save and sync now</button><span id="gh-status" class="sub"></span></div></section>`;
-    $('#pitch').onchange = (e) => { settings.pitchRange = +e.target.value; store.set('settings', settings); };
+    $('#pitch').onchange = (e) => { settings.pitchRange = +e.target.value; store.set('settings', settings); relearn(); };
+    $('#rate-go').onclick = () => openRating();
     if ($('#sp-in')) $('#sp-in').onclick = () => {
       settings.spClient = $('#sp-client').value.trim();
       if (!/^[0-9a-f]{32}$/i.test(settings.spClient)) { toast('That doesn\'t look like a Client ID: it is 32 letters and numbers'); return; }
@@ -2400,7 +2503,10 @@
         const obj = JSON.parse(await e.target.files[0].text());
         if (!obj.overrides || !Array.isArray(obj.mixes)) throw new Error('not a Crate backup');
         Object.assign(user, obj);
+        user.ratings = user.ratings || [];
+        user.pairs = user.pairs || {};
         saveUser();
+        relearn();
         toast('Backup restored');
         renderSettings();
       } catch (err) { toast('Could not read that file: ' + err.message); }
@@ -2443,7 +2549,10 @@
     if (force || (remote.updated || 0) > (user.updated || 0)) {
       if ((remote.updated || 0) > (user.updated || 0)) {
         Object.assign(user, remote);
+        user.ratings = user.ratings || [];
+        user.pairs = user.pairs || {};
         store.set('user', user);
+        relearn();
         render();
       }
     }
@@ -2493,6 +2602,7 @@
     drawerPushed = false;
     if (view === 'tracks') renderTracks();
     if (view === 'mixes') renderMixes();
+    if (view === 'settings') renderSettings();
   }
   function closeDrawer() {
     if (drawerPushed) history.back(); // popstate then hides it
@@ -2561,6 +2671,7 @@
       $('#status').textContent = 'Could not load the collection data.';
     }
     index();
+    relearn();
     const s = $('#status');
     if (DATA.generated) s.textContent = `${DATA.releases.length} records · ${TRACKS.length} tracks · synced ${new Date(DATA.generated).toLocaleString()}`;
     const v = location.hash.slice(1);
