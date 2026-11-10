@@ -1,0 +1,64 @@
+name: Back up to second home
+
+# Copies the whole repo (every branch, tag and the full history, including synced
+# data/) to a second git host, so Crate survives if GitHub goes away.
+# Off until the BACKUP_REPO_URL secret is set, e.g.
+#   https://oauth2:<gitlab-token>@gitlab.com/<you>/discogs-crate.git
+
+on:
+  push:
+    branches: ["**"]
+  workflow_run:
+    workflows: ["Sync collection"]
+    types: [completed]
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pull-requests: read
+  issues: read
+
+concurrency:
+  group: backup
+  cancel-in-progress: false
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      BACKUP_REPO_URL: ${{ secrets.BACKUP_REPO_URL }}
+    steps:
+      - name: Skip when no second home is set
+        if: env.BACKUP_REPO_URL == ''
+        run: echo "::notice::Set the BACKUP_REPO_URL secret to turn on backups."
+
+      - name: Take a full copy of this repo
+        if: env.BACKUP_REPO_URL != ''
+        run: git clone --mirror "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" repo.git
+
+      - name: Save pull request and issue history next to the code
+        if: env.BACKUP_REPO_URL != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir meta && cd meta
+          gh api --paginate "repos/${{ github.repository }}/pulls?state=all&per_page=100" > pulls.json
+          gh api --paginate "repos/${{ github.repository }}/issues?state=all&per_page=100" > issues.json
+          gh api --paginate "repos/${{ github.repository }}/issues/comments?per_page=100" > comments.json
+          printf 'GitHub pull requests, issues and comments for %s, saved %s.\n' \
+            "${{ github.repository }}" "$(date -u +%FT%TZ)" > README.md
+          git init -q -b github-history
+          git add . && git -c user.name=crate-backup -c user.email=crate-backup@users.noreply.github.com \
+            commit -qm "GitHub history $(date -u +%F)"
+          git push -q --force ../repo.git github-history:refs/heads/github-history
+
+      - name: Push everything to the second home
+        if: env.BACKUP_REPO_URL != ''
+        working-directory: repo.git
+        run: |
+          # Branches and tags only: refs/pull/* are GitHub's own and other hosts refuse them.
+          git push --force --prune "$BACKUP_REPO_URL" "+refs/heads/*:refs/heads/*" "+refs/tags/*:refs/tags/*"
+          echo "Backed up $(git for-each-ref refs/heads | wc -l) branches at $(git rev-parse --short refs/heads/main)." >> "$GITHUB_STEP_SUMMARY"
