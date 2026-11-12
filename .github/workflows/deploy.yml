@@ -40,7 +40,7 @@ jobs:
       - run: pip install requests numpy
       - run: python sync/build.py
       - name: Make browsers fetch the new code
-        run: sed -i -E "s/(app|camelot|beats|decks|value)\.js\"/\1.js?v=$(git rev-parse --short HEAD)\"/g; s/style\.css\"/style.css?v=$(git rev-parse --short HEAD)\"/g; s/manifest\.webmanifest\"/manifest.webmanifest?v=$(git rev-parse --short HEAD)\"/g" site/index.html site/manifest.webmanifest
+        run: sed -i -E "s/(app|camelot|beats|decks|value|shelf)\.js\"/\1.js?v=$(git rev-parse --short HEAD)\"/g; s/style\.css\"/style.css?v=$(git rev-parse --short HEAD)\"/g; s/manifest\.webmanifest\"/manifest.webmanifest?v=$(git rev-parse --short HEAD)\"/g" site/index.html site/manifest.webmanifest
       - name: Include saved edits and mixes
         run: |
           if [ -f user/state.json ]; then mkdir -p site/user && cp user/state.json site/user/; fi
