@@ -55,6 +55,9 @@
   };
   const srcTag = (e) => { const [tag, why] = SRC[e.src] || SRC.pending; return `<span role="button" tabindex="0" data-why="${esc(tag + ': ' + why)}" class="src src-${tag === '…' ? 'pending' : tag === 'est.' ? 'est' : tag}" title="${esc(why)}">${tag}</span>`; };
 
+  const shelfOn = () => !!(window.CrateShelf && window.CrateShelf.on());
+  const shelfChip = (r) => (shelfOn() ? window.CrateShelf.chip(r) : '');
+
   function index() {
     TRACKS = [];
     byKey.clear();
@@ -1317,6 +1320,7 @@
   }
 
   function render() {
+    if (window.CrateShelf) window.CrateShelf.reset();
     if (view === 'records') renderRecords();
     else if (view === 'tracks') renderTracks();
     else if (view === 'mixes') renderMixes();
@@ -1335,6 +1339,7 @@
       (!rf.style || r.styles.includes(rf.style)) &&
       (!rf.label || r.labels.some((l) => l.name === rf.label)) &&
       (!rf.folder || r.folder === rf.folder) &&
+      (!rf.shelf || !shelfOn() || window.CrateShelf.code(r) === rf.shelf) &&
       (!rf.decade || (r.year && String(Math.floor(r.year / 10) * 10) === rf.decade)) &&
       (!(rf.bpmMin || rf.bpmMax || rf.cam) || r.tracks.some((t) => {
         const e = eff(t);
@@ -1348,21 +1353,23 @@
       yearAsc: (a, b) => (a.year || 9999) - (b.year || 9999),
       label: (a, b) => (a.labels[0]?.name || '').localeCompare(b.labels[0]?.name || '') || (a.labels[0]?.catno || '').localeCompare(b.labels[0]?.catno || '', undefined, { numeric: true }),
       rating: (a, b) => b.rating - a.rating,
+      shelf: (a, b) => (shelfOn() ? window.CrateShelf.order(a, b) : 0),
     };
     list.sort(sorters[rf.sort] || sorters.added);
 
     const all = DATA.releases;
     const folders = facet(all, (r) => [r.folder]).filter(([f]) => f && f !== 'Uncategorized');
-    const RK = ['genre', 'style', 'label', 'decade', 'folder', 'bpmMin', 'bpmMax', 'cam'];
+    const RK = ['genre', 'style', 'label', 'decade', 'folder', 'shelf', 'bpmMin', 'bpmMax', 'cam'];
     $('#record-filters').innerHTML = filterHead('record-filters', rf, RK) +
       select('genre', 'Genre', facet(all, (r) => r.genres), rf.genre) +
       select('style', 'Style', facet(all, (r) => r.styles), rf.style) +
       select('label', 'Label', facet(all, (r) => r.labels.map((l) => l.name)), rf.label) +
       select('decade', 'Decade', facet(all, (r) => [r.year ? String(Math.floor(r.year / 10) * 10) : null]).sort((a, b) => b[0] - a[0]), rf.decade) +
       (folders.length ? select('folder', 'Folder', folders, rf.folder) : '') +
+      (shelfOn() ? select('shelf', 'Shelf', window.CrateShelf.cells().filter(([, n]) => n), rf.shelf) : '') +
       `<label class="f bpm"><span class="range${rf.bpmMin || rf.bpmMax ? ' set' : ''}"><b>BPM</b><input data-f="bpmMin" value="${esc(rf.bpmMin || '')}" placeholder="min" inputmode="numeric" aria-label="Lowest BPM"><i>–</i><input data-f="bpmMax" value="${esc(rf.bpmMax || '')}" placeholder="max" inputmode="numeric" aria-label="Highest BPM"></span></label>` +
       select('cam', 'Key', camOptions(), rf.cam, 'Any') +
-      `<label class="f keep"><span>Sort</span><select data-f="sort">${[['added', 'Recently added'], ['artist', 'Artist'], ['title', 'Title'], ['year', 'Year (new → old)'], ['yearAsc', 'Year (old → new)'], ['label', 'Label / cat no.'], ['rating', 'My rating']]
+      `<label class="f keep"><span>Sort</span><select data-f="sort">${[['added', 'Recently added'], ['artist', 'Artist'], ['title', 'Title'], ['year', 'Year (new → old)'], ['yearAsc', 'Year (old → new)'], ['label', 'Label / cat no.'], ['rating', 'My rating'], ...(shelfOn() ? [['shelf', 'Shelf order']] : [])]
         .map(([v, n]) => `<option value="${v}"${rf.sort === v ? ' selected' : ''}>${n}</option>`).join('')}</select></label>` +
       `<span class="count">${list.length} of ${all.length} records</span>` +
       viewSwitch();
@@ -1370,10 +1377,11 @@
     $$('#record-filters select, #record-filters input').forEach((s) => (s.onchange = () => { rf[s.dataset.f] = s.value; store.set('rf', rf); renderRecords(); }));
     wireFilterHead('record-filters', rf, RK, () => { store.set('rf', rf); renderRecords(); });
 
+    $('#shelve-slot').innerHTML = shelfOn() ? window.CrateShelf.banner() : '';
     $('#record-grid').innerHTML = list.length
       ? list.map((r) => `<button class="card" data-id="${r.iid || r.id}">
           <div class="cover">${r.cover && !/spacer\.gif/.test(r.cover) ? `<img loading="lazy" src="${esc(r.cover)}" alt="">` : '<div class="nocover"></div>'}</div>
-          <div class="meta"><b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small></div>
+          <div class="meta"><b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${shelfChip(r)}${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small></div>
         </button>`).join('')
       : `<p class="empty">${DATA.releases.length ? 'No records match these filters.' : 'No records yet. The first sync fills this in.'}</p>`;
     $$('#record-grid .card').forEach((c) => (c.onclick = () => openRecord(DATA.releases.find((r) => String(r.iid || r.id) === c.dataset.id))));
@@ -1452,7 +1460,7 @@
     if (i !== CF.shown) {
       CF.shown = i;
       const r = crateList[i];
-      $('#crate .cf-info').innerHTML = `<b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small>`;
+      $('#crate .cf-info').innerHTML = `<b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${shelfChip(r)}${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small>`;
       $('#crate .cf-count').textContent = `${i + 1} of ${n}`;
     }
   }
@@ -1460,7 +1468,7 @@
   const FL = { open: false, i: -1, slot: null, frames: null };
   function flipBack(r) {
     // Sized like the sleeve, so it stays narrow: BPM and key sit under each title rather than in a column of their own
-    return `<div class="fl-head"><div><b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small></div><button class="fl-open" title="Open record">Open</button></div>
+    return `<div class="fl-head"><div><b>${esc(r.title)}</b><span>${esc(r.artist)}</span><small>${shelfChip(r)}${esc([r.labels[0]?.name, r.labels[0]?.catno, r.year].filter(Boolean).join(' · '))}</small></div><button class="fl-open" title="Open record">Open</button></div>
       <ol class="fl-list">${r.tracks.map((t) => { const e = eff(t); const sub = [t.artist !== r.artist ? t.artist : '', [e.bpm, e.cam].filter(Boolean).join(' · ')].filter(Boolean).join(' — '); return `<li><span class="fl-pos">${esc(t.pos)}</span><div class="fl-t"><b>${esc(t.title)}</b>${sub ? `<small>${esc(sub)}</small>` : ''}</div>${playBtn(t)}</li>`; }).join('') || '<li class="sub">No tracklist yet.</li>'}</ol>`;
   }
   // Pulled out of the row, then turned over sideways like a sleeve in your hands. The turn is two quarter turns with
@@ -1654,6 +1662,7 @@
         <p>${esc([r.format, r.country, r.year].filter(Boolean).join(' · '))}</p>
         <p class="tags">${[...r.genres, ...r.styles].map((g) => `<span>${esc(g)}</span>`).join('')}</p>
         <p><a class="ext" href="${esc(r.url)}" target="_blank" rel="noopener">Open on Discogs ↗</a></p></div></div>
+      ${shelfOn() ? window.CrateShelf.recordHtml(r) : ''}
       ${window.CrateValue ? window.CrateValue.recordHtml(r) : ''}
       <div class="table-wrap"><table class="tl"><thead><tr><th>Pos</th><th>Track</th><th>Time</th><th>BPM</th><th>Key</th><th title="Where the BPM and key came from. Tap a tag to see what it means.">Source</th><th></th></tr></thead><tbody>${rows || '<tr><td colspan="7">No tracklist yet.</td></tr>'}</tbody></table></div>
       <p class="hint">From: <b>DB</b> = AcousticBrainz database, <b>est.</b> = estimated from a 30-second preview, <b>you</b> = your edit, <b>none</b> = nothing found, <b>…</b> = not looked up yet. Type over any value to fix it.</p>
@@ -1746,8 +1755,8 @@
       .slice(0, trackLimit)
       .map((t) => {
         const e = eff(t);
-        return `<tr data-k="${esc(t.k)}"><td class="pos">${esc(t.pos)}</td><td><div class="tt">${playBtn(t)}<div><b>${esc(t.title)}</b><small class="m-only">${esc(t.artist)}</small><small class="s-only"><a href="#" class="rec">${esc(t.r.title)}</a> · ${esc(t.pos)} ${srcTag(e)}</small></div></div></td><td>${esc(t.artist)}</td>
-          <td><a href="#" class="rec">${esc(t.r.title)}</a></td>
+        return `<tr data-k="${esc(t.k)}"><td class="pos">${esc(t.pos)}</td><td><div class="tt">${playBtn(t)}<div><b>${esc(t.title)}</b><small class="m-only">${esc(t.artist)}</small><small class="s-only">${shelfChip(t.r)}<a href="#" class="rec">${esc(t.r.title)}</a> · ${esc(t.pos)} ${srcTag(e)}</small></div></div></td><td>${esc(t.artist)}</td>
+          <td>${shelfChip(t.r)}<a href="#" class="rec">${esc(t.r.title)}</a></td>
           <td class="num"><input class="bpm-in${e.edited ? ' edited' : ''}" value="${e.bpm ?? ''}" inputmode="numeric"></td>
           <td><input class="key-in${e.edited ? ' edited' : ''}" value="${e.cam ?? ''}" title="${esc(e.key || 'Type 8A, Am, F#m…')}"></td><td>${srcTag(e)}</td>
           <td class="num">${fmtDur(t.dur)}</td><td class="num">${t.r.year || ''}</td><td>${esc(t.r.labels[0]?.name || '')}</td>
@@ -2167,7 +2176,7 @@
       if (i > 0 && items[i - 1]) html += transitionHtml(items[i - 1], t);
       html += `<li class="item" data-i="${i}"><span class="grip" title="Drag to reorder" aria-label="Drag to reorder">⋮⋮</span>
         ${t.r.thumb ? `<img src="${esc(t.r.thumb)}" alt="" loading="lazy">` : '<span class="noimg"></span>'}
-        <div class="ti"><b>${esc(t.title)}</b><span>${esc(t.artist)}</span><small>${esc(t.r.title)} · ${esc(t.r.labels[0]?.catno || '')} · side ${esc(t.side || '?')}, <b>${esc(t.pos)}</b></small></div>
+        <div class="ti"><b>${esc(t.title)}</b><span>${esc(t.artist)}</span><small>${shelfChip(t.r)}${esc(t.r.title)} · ${esc(t.r.labels[0]?.catno || '')} · side ${esc(t.side || '?')}, <b>${esc(t.pos)}</b></small></div>
         <div class="tk">${playBtn(t)}<span class="bpm">${t.bpm ? t.bpm : '–'}</span>${camBadge(t.cam, t.key)}</div>
         <div class="mv"><button class="small" data-up="${i}" aria-label="Move up">↑</button><button class="small" data-down="${i}" aria-label="Move down">↓</button><button class="small" data-swap="${i}" aria-label="Swap for another track that fits here" title="Swap for another track that fits here">${SWAP_SVG}</button><button class="small" data-rm="${i}" aria-label="Remove">×</button></div></li>`;
     });
@@ -2187,9 +2196,11 @@
         : '<p class="sub">No good matches yet. Suggestions need BPM and key on the last track, so add them by hand if they are missing.</p>';
     }
     if (recs.size) {
-      html += `<h3>Records to pull</h3><ul class="pull">${[...recs.values()].map((r) => {
+      const pull = [...recs.values()];
+      if (shelfOn()) pull.sort(window.CrateShelf.order);
+      html += `<h3>Records to pull${shelfOn() ? ' <small>in shelf order</small>' : ''}</h3><ul class="pull">${pull.map((r) => {
         const sides = [...new Set(items.filter((t) => t && t.r === r).map((t) => t.pos))].join(', ');
-        return `<li><b>${esc(r.artist)} – ${esc(r.title)}</b> <small>${esc(r.labels[0]?.catno || '')} · ${esc(sides)}</small></li>`;
+        return `<li>${shelfChip(r)}<b>${esc(r.artist)} – ${esc(r.title)}</b> <small>${esc(r.labels[0]?.catno || '')} · ${esc(sides)}</small></li>`;
       }).join('')}</ul>`;
     }
     return html;
@@ -2343,7 +2354,8 @@
     const lines = [m.name, ''];
     m.tracks.map(trackObj).forEach((t, i) => {
       if (!t) return;
-      lines.push(`${i + 1}. ${t.artist} – ${t.title}  [${t.r.title} · ${t.r.labels[0]?.catno || ''} · ${t.pos}]  ${t.bpm || '?'} BPM  ${t.cam || '?'}`);
+      const loc = shelfOn() ? window.CrateShelf.code(t.r) : '';
+      lines.push(`${i + 1}. ${t.artist} – ${t.title}  [${t.r.title} · ${t.r.labels[0]?.catno || ''} · ${t.pos}]  ${t.bpm || '?'} BPM  ${t.cam || '?'}${loc ? '  · shelf ' + loc : ''}`);
     });
     navigator.clipboard?.writeText(lines.join('\n')).then(() => toast('Copied'), () => toast('Copy failed'));
   }
@@ -2360,6 +2372,7 @@
       <section class="card-s" id="value-card"><h2>Collection value</h2>
         <p>The Value tab prices every record on the Discogs marketplace during the regular sync and saves the collection's value once a day, so you can see it grow or drop over time. Discogs keeps no price history, so the graph starts from the first day Crate saved.</p>
         <p>Without a Discogs token Crate only sees the cheapest copy for sale. For Discogs' own minimum, median and maximum and prices by condition: generate a token at Discogs <b>Settings › Developers</b>, add it to this repository as the secret <code>DISCOGS_TOKEN</code> (<b>Settings › Secrets and variables › Actions</b>), and fill in your <a href="https://www.discogs.com/settings/seller" target="_blank" rel="noopener">seller settings</a> on Discogs once (you don't have to sell anything; Discogs only gives price suggestions to accounts that have them). Prices come in your Discogs currency; set the repository variable <code>DISCOGS_CURRENCY</code> (e.g. USD) to change the one used without a token.</p></section>
+      <section class="card-s" id="shelf-card"></section>
       <section class="card-s"><h2>Mixing</h2>
         <label class="f"><span>Turntable pitch range</span><select id="pitch">${[8, 16, 50].map((v) => `<option${settings.pitchRange === v ? ' selected' : ''} value="${v}">±${v}%</option>`).join('')}</select></label></section>
       <section class="card-s" id="sp-card"><h2>Full tracks with Spotify <small>(optional, Premium)</small></h2>
@@ -2379,6 +2392,7 @@
         <label class="f"><span>Repository</span><input id="gh-repo" value="${esc(settings.ghRepo || guessRepo())}" placeholder="owner/repo"></label>
         <label class="f"><span>Token</span><input id="gh-token" type="password" value="${esc(settings.ghToken)}" placeholder="github_pat_…"></label>
         <div class="row"><button id="gh-save">Save and sync now</button><span id="gh-status" class="sub"></span></div></section>`;
+    if (window.CrateShelf) window.CrateShelf.settings($('#shelf-card')); else $('#shelf-card').remove();
     $('#pitch').onchange = (e) => { settings.pitchRange = +e.target.value; store.set('settings', settings); };
     if ($('#sp-in')) $('#sp-in').onclick = () => {
       settings.spClient = $('#sp-client').value.trim();
@@ -2545,6 +2559,7 @@
     view: () => view, busy: () => $('#drawer').classList.contains('open') || !$('#crate').hidden,
     stopPlayer: () => { if (playing) closePlayer(); },
     releases: () => DATA.releases, openRecord: (r) => r && openRecord(r),
+    user: () => user, saveUser: () => saveUser(), rerender: () => render(), openDrawer: (t) => openDrawer(t),
     pitchRange: () => settings.pitchRange || 8, cover: (r) => coverUrl(r), relation: (a, b) => C.camRelation(a, b), norm, esc, toast,
   };
   const DECKS_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="7" cy="12" r="4.5"/><circle cx="17" cy="12" r="4.5"/><circle cx="7" cy="12" r=".6" fill="currentColor"/><circle cx="17" cy="12" r=".6" fill="currentColor"/></svg>';
