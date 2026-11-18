@@ -189,10 +189,9 @@
     const n = latest.n || all.length;
     const tri = latest.dmed != null ? [latest.dmin, latest.dmed, latest.dmax, 'Discogs'] : latest.mid != null ? [latest.lo, latest.mid, latest.hi, 'Crate estimate'] : null;
     const sumMid = priced.reduce((s, x) => s + mid(x), 0);
-    const tiles = `<div class="vtiles">
+    const tiles = `<div class="vtiles${tri ? '' : ' one'}">
       ${tri ? `<div class="vtile"><small>Minimum</small><b>${big(tri[0])}</b></div><div class="vtile"><small>Median</small><b>${big(tri[1])}</b></div><div class="vtile"><small>Maximum</small><b>${big(tri[2])}</b></div>` : ''}
       <div class="vtile"><small>Average per record</small><b>${money((tri ? tri[1] : sumMid) / (n || 1))}</b></div>
-      <div class="vtile"><small>Records priced</small><b>${priced.length} <span>of ${all.length}</span></b></div>
     </div>`;
 
     // breakdown by genre / style / label / decade, from today's typical price per record
