@@ -974,7 +974,9 @@ body.decks-on { overflow: hidden; }
 .vchart text { stroke: none; }
 .vchart .vhit { stroke: none; }
 .vchart .vband { fill: var(--accent); opacity: .12; }
-.vlbs { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 18px; align-items: start; }
+.vlbs { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(320px, 100%), 1fr)); gap: 18px; align-items: start; }
+/* min-width: 0 so a long record title is cut with … instead of stretching the board and pushing the prices off screen */
+.vlb { min-width: 0; }
 .vlb-h { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; margin: 0 2px 8px; }
 .vlb-h h3 { margin: 0; font-size: 16px; font-weight: 600; }
 .vlb-h small { color: var(--muted); font-size: 13px; }
@@ -986,4 +988,4 @@ body.decks-on { overflow: hidden; }
 .vlb .vrec img, .vlb .vrec .nocover { width: 40px; height: 40px; }
 .vlb .vrec ~ .vrec::before { left: 90px; }
 .vlb .vr-v .vchg { font-size: 12px; }
-@media (max-width: 720px) { .vlbs { grid-template-columns: 1fr; } }
+@media (max-width: 720px) { .vlbs { grid-template-columns: minmax(0, 1fr); } }
