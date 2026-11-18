@@ -1,7 +1,7 @@
 name: Deploy site
 
 # The only job that publishes the site, always from the latest main: right after a code push,
-# and after each hourly sync has committed new collection data.
+# and after each sync has committed new collection data.
 on:
   workflow_run:
     workflows: ["Sync collection"]

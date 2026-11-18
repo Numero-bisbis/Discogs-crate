@@ -2355,10 +2355,12 @@
     const src = facet(TRACKS, (t) => [eff(t).src || 'not found yet']);
     $('#settings').innerHTML = `
       <section class="card-s"><h2>Collection</h2>
-        <p>${DATA.releases.length} records, ${TRACKS.length} tracks from <a href="https://www.discogs.com/user/${esc(DATA.username)}/collection" target="_blank" rel="noopener">${esc(DATA.username || 'Discogs')}</a>. Last synced ${DATA.generated ? new Date(DATA.generated).toLocaleString() : 'never'}; it re-syncs automatically every few hours.</p>
+        <p>${DATA.releases.length} records, ${TRACKS.length} tracks from <a href="https://www.discogs.com/user/${esc(DATA.username)}/collection" target="_blank" rel="noopener">${esc(DATA.username || 'Discogs')}</a>. Last updated ${DATA.generated ? new Date(DATA.generated).toLocaleString() : 'never'}.</p>
+        <div class="row"><button id="refresh" class="primary">Refresh from Discogs now</button><span id="refresh-status" class="sub" aria-live="polite"></span></div>
+        ${settings.ghToken ? '' : `<p class="hint">The button asks GitHub to pull your collection, so it needs the GitHub token from <b>Sync edits across devices</b> below.</p>`}
         <p>${withBpm} tracks have a BPM and ${withKey} have a key. ${src.map(([s, c]) => `${esc(s)}: ${c}`).join(' · ')}</p></section>
       <section class="card-s" id="value-card"><h2>Collection value</h2>
-        <p>The Value tab prices every record on the Discogs marketplace during the regular sync and saves the collection's value once a day, so you can see it grow or drop over time. Discogs keeps no price history, so the graph starts from the first day Crate saved.</p>
+        <p>The Value tab prices every record on the Discogs marketplace during each refresh and saves the collection's value once a day, so you can see it grow or drop over time. Discogs keeps no price history, so the graph starts from the first day Crate saved.</p>
         <p>Without a Discogs token Crate only sees the cheapest copy for sale. For Discogs' own minimum, median and maximum and prices by condition: generate a token at Discogs <b>Settings › Developers</b>, add it to this repository as the secret <code>DISCOGS_TOKEN</code> (<b>Settings › Secrets and variables › Actions</b>), and fill in your <a href="https://www.discogs.com/settings/seller" target="_blank" rel="noopener">seller settings</a> on Discogs once (you don't have to sell anything; Discogs only gives price suggestions to accounts that have them). Prices come in your Discogs currency; set the repository variable <code>DISCOGS_CURRENCY</code> (e.g. USD) to change the one used without a token.</p></section>
       <section class="card-s"><h2>Mixing</h2>
         <label class="f"><span>Turntable pitch range</span><select id="pitch">${[8, 16, 50].map((v) => `<option${settings.pitchRange === v ? ' selected' : ''} value="${v}">±${v}%</option>`).join('')}</select></label></section>
@@ -2375,7 +2377,10 @@
         <p>${n} edited tracks and ${user.mixes.length} mixes are saved in this browser.</p>
         <div class="row"><button id="export">Download backup</button><label class="button">Restore backup<input type="file" id="import" accept="application/json" hidden></label></div></section>
       <section class="card-s"><h2>Sync edits across devices <small>(optional)</small></h2>
-        <p>Paste a GitHub fine-grained token that can only write to this repository's contents. Your edits and mixes are then saved to <code>user/state.json</code> in the repo and load on any device. The token stays in this browser.</p>
+        <p>Paste a GitHub fine-grained token for this repository only. Your edits and mixes are then saved to <code>user/state.json</code> in the repo and load on any device, and <b>Refresh from Discogs now</b> works. The token stays in this browser.</p>
+        <ol class="steps"><li>Open <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">GitHub › New fine-grained token</a> (or edit the one you already made).</li>
+        <li>Under <b>Repository access</b> pick <b>Only select repositories</b> and choose this one.</li>
+        <li>Under <b>Permissions</b> set <b>Contents</b> to <b>Read and write</b> (for edits and mixes) and <b>Actions</b> to <b>Read and write</b> (for the refresh button). Generate it and paste it below.</li></ol>
         <label class="f"><span>Repository</span><input id="gh-repo" value="${esc(settings.ghRepo || guessRepo())}" placeholder="owner/repo"></label>
         <label class="f"><span>Token</span><input id="gh-token" type="password" value="${esc(settings.ghToken)}" placeholder="github_pat_…"></label>
         <div class="row"><button id="gh-save">Save and sync now</button><span id="gh-status" class="sub"></span></div></section>`;
@@ -2413,6 +2418,135 @@
       try { await remoteLoad(true); await remoteSave(); $('#gh-status').textContent = 'Synced ✓'; }
       catch (err) { $('#gh-status').textContent = 'Failed: ' + err.message; }
     };
+    $('#refresh').onclick = () => startRefresh();
+    showRefresh();
+  }
+
+  // ---------- Refresh from Discogs: runs the Sync collection workflow on demand ----------
+  // The sync (Discogs pull, prices, BPM/key and sound for new tracks) runs in GitHub Actions, then
+  // Deploy site rebuilds data.json. The button starts that run with the Settings token, follows its
+  // steps, and swaps the new collection in once the site is published. A run in progress survives
+  // leaving Settings or reloading the page.
+  const RF = { run: store.get('refreshRun', null), msg: '', busy: false, timer: 0, link: '' };
+  const STEP_LABELS = {
+    'Pull collection from Discogs': 'Pulling your collection from Discogs…',
+    "Price the collection and save today's value": 'Checking prices…',
+    'Find BPM and key': 'Finding BPM and key for new tracks…',
+    'Profile how tracks sound': 'Listening to new tracks…',
+    'Save synced data to the repo': 'Saving…',
+  };
+  const ghRepoName = () => settings.ghRepo || guessRepo();
+  async function ghApi(path, opts = {}) {
+    const r = await fetch(`https://api.github.com/repos/${ghRepoName()}${path}`, { cache: 'no-store', ...opts, headers: { ...ghHeaders(), ...(opts.body ? { 'Content-Type': 'application/json' } : {}) } });
+    if (!r.ok) {
+      let why = '';
+      try { why = (await r.json()).message || ''; } catch { /* no body */ }
+      const e = new Error(why || `GitHub said ${r.status}`);
+      e.status = r.status;
+      throw e;
+    }
+    return r.status === 204 ? null : r.json();
+  }
+  function showRefresh(msg, link) {
+    if (msg !== undefined) { RF.msg = msg; RF.link = link || ''; }
+    const btn = $('#refresh'), st = $('#refresh-status');
+    if (btn) { btn.disabled = RF.busy; btn.textContent = RF.busy ? 'Refreshing…' : 'Refresh from Discogs now'; }
+    if (st) st.innerHTML = esc(RF.msg) + (RF.link ? ` <a href="${esc(RF.link)}" target="_blank" rel="noopener">Details</a>` : '');
+  }
+  function refreshFailed(e) {
+    RF.busy = false;
+    RF.run = null;
+    store.set('refreshRun', null);
+    let msg = 'Refresh failed: ' + e.message;
+    if (e.status === 401) msg = 'GitHub didn\'t accept the token (it may have expired). Make a new one below.';
+    else if (e.status === 403 || e.status === 404) msg = `The token can't start the refresh. Edit it on GitHub and set Actions to Read and write (GitHub said: ${e.message}).`;
+    showRefresh(msg, e.link);
+  }
+  async function startRefresh() {
+    if (RF.busy) return;
+    if (!settings.ghToken || !ghRepoName()) { showRefresh('Add a GitHub token in Sync edits across devices below first.'); return; }
+    RF.busy = true;
+    showRefresh('Asking GitHub to start…');
+    try {
+      const before = await ghApi('/actions/workflows/sync.yml/runs?per_page=1');
+      const prev = (before.workflow_runs[0] || {}).id || 0;
+      await ghApi('/actions/workflows/sync.yml/dispatches', { method: 'POST', body: JSON.stringify({ ref: 'main' }) });
+      let run = null;
+      for (let i = 0; i < 20 && !run; i++) { // the new run shows up a few seconds after the dispatch
+        await new Promise((res) => setTimeout(res, 3000));
+        const j = await ghApi('/actions/workflows/sync.yml/runs?per_page=5');
+        run = j.workflow_runs.find((x) => x.id > prev);
+      }
+      if (!run) throw new Error('GitHub accepted the request but no run started. Try again in a minute.');
+      RF.run = { id: run.id, phase: 'sync', at: Date.now(), ids: DATA.releases.map((r) => r.id) };
+      store.set('refreshRun', RF.run);
+      pollRefresh();
+    } catch (e) { refreshFailed(e); }
+  }
+  async function pollRefresh() {
+    clearTimeout(RF.timer);
+    const job = RF.run;
+    if (!job) return;
+    RF.busy = true;
+    try {
+      if (job.phase === 'sync') {
+        const run = await ghApi(`/actions/runs/${job.id}`);
+        if (run.status !== 'completed') {
+          let msg = run.status === 'queued' ? 'Waiting for GitHub to start…' : 'Getting ready…';
+          if (run.status === 'in_progress') {
+            const jobs = await ghApi(`/actions/runs/${job.id}/jobs`);
+            const step = ((jobs.jobs[0] || {}).steps || []).find((x) => x.status === 'in_progress');
+            if (step) msg = STEP_LABELS[step.name] || msg;
+          }
+          showRefresh(msg, run.html_url);
+        } else if (run.conclusion !== 'success') {
+          const e = new Error(`the sync ${run.conclusion === 'cancelled' ? 'was cancelled' : 'failed'} on GitHub.`);
+          e.link = run.html_url;
+          throw e;
+        } else {
+          job.phase = 'deploy';
+          job.synced = Date.now();
+          store.set('refreshRun', job);
+          showRefresh('Publishing the update…');
+        }
+      } else {
+        const j = await ghApi('/actions/workflows/deploy.yml/runs?per_page=5');
+        const dep = j.workflow_runs.find((x) => x.id > job.id);
+        const waited = Date.now() - (job.synced || job.at);
+        if (dep && dep.status === 'completed' && dep.conclusion !== 'success') {
+          const e = new Error('the collection synced but publishing it failed on GitHub.');
+          e.link = dep.html_url;
+          throw e;
+        }
+        if ((dep && dep.status === 'completed') || (!dep && waited > 4 * 60e3) || waited > 15 * 60e3) { await finishRefresh(job); return; }
+        showRefresh('Publishing the update…', dep && dep.html_url);
+      }
+    } catch (e) {
+      if (!e.status || e.status >= 500) { // network blip or GitHub hiccup: keep following the run
+        if (Date.now() - job.at < 2 * 3600e3) { showRefresh('Lost touch with GitHub, retrying…'); RF.timer = setTimeout(pollRefresh, 15000); return; }
+      }
+      refreshFailed(e);
+      return;
+    }
+    RF.timer = setTimeout(pollRefresh, 6000);
+  }
+  async function finishRefresh(job) {
+    const r = await fetch(`data.json?t=${Date.now()}`, { cache: 'no-store' });
+    const fresh = await r.json();
+    const had = new Set(job.ids || []), now = new Set(fresh.releases.map((x) => x.id));
+    const added = fresh.releases.filter((x) => !had.has(x.id)).length;
+    const removed = [...had].filter((id) => !now.has(id)).length;
+    DATA = fresh;
+    index();
+    if (DATA.generated) $('#status').textContent = `${DATA.releases.length} records · ${TRACKS.length} tracks · synced ${new Date(DATA.generated).toLocaleString()}`;
+    RF.busy = false;
+    RF.run = null;
+    store.set('refreshRun', null);
+    const bits = [added && `${added} new record${added > 1 ? 's' : ''}`, removed && `${removed} removed`].filter(Boolean);
+    const msg = `Up to date${bits.length ? ': ' + bits.join(', ') : ', nothing new on Discogs'} (${new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}).`;
+    render();
+    showRefresh(msg);
+    toast(msg);
   }
 
   // ---------- optional GitHub mirror of user state ----------
@@ -2566,6 +2700,8 @@
     const v = location.hash.slice(1);
     setView(['records', 'tracks', 'generate', 'mixes', 'value', 'settings'].includes(v) ? v : 'records');
     remoteLoad(false).catch(() => {});
+    if (RF.run && Date.now() - RF.run.at < 2 * 3600e3) pollRefresh();
+    else if (RF.run) store.set('refreshRun', null);
   }
   boot();
 })();

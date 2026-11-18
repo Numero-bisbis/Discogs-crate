@@ -16,7 +16,7 @@ A web app for browsing a Discogs record collection and planning mixes to play on
 
 ## How it stays up to date
 
-A GitHub Actions workflow (`.github/workflows/sync.yml`) runs twice an hour, and `deploy.yml` publishes the site after each sync and after every code change:
+A GitHub Actions workflow (`.github/workflows/sync.yml`) runs when you tap **Refresh from Discogs now** in Crate's Settings, plus once a night as a fallback so the daily value snapshot keeps going. `deploy.yml` publishes the site after each sync and after every code change. The button needs the Settings GitHub token to have **Actions: Read and write** on this repository; it follows the run step by step and loads the new collection when the site is published.
 
 1. `sync/sync_discogs.py` reads the collection from the Discogs API and fetches tracklists for records it hasn't seen before. Removed records drop out.
 2. `sync/enrich.py` looks up BPM and key for new tracks: AcousticBrainz first (via a MusicBrainz match), then a local Essentia analysis of Deezer's 30-second preview. It stops after 40 minutes and continues on the next run, so the first full pass over a large collection takes a few runs.

@@ -1,10 +1,11 @@
 name: Sync collection
 
 on:
-  schedule:
-    # GitHub sometimes skips scheduled runs when busy, so ask twice an hour; runs queue, never overlap.
-    - cron: "7,37 * * * *"
+  # Started on demand by "Refresh from Discogs now" in Crate's Settings (or Run workflow on GitHub).
   workflow_dispatch:
+  schedule:
+    # One quiet run a night as a fallback, so the Value tab still saves a price snapshot every day.
+    - cron: "23 3 * * *"
 
 permissions:
   contents: write
