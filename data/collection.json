@@ -8,6 +8,681 @@
    "basic_information": {
     "artists": [
      {
+      "anv": "Willie Colon",
+      "id": 29812,
+      "join": "Canta:",
+      "name": "Willie Colón",
+      "resource_url": "https://api.discogs.com/artists/29812",
+      "role": "",
+      "tracks": ""
+     },
+     {
+      "anv": "",
+      "id": 38204,
+      "join": "",
+      "name": "Hector Lavoe",
+      "resource_url": "https://api.discogs.com/artists/38204",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/_lKUJ9CDtnhGm1XSjZcVSzlF-LGwsFWV-WVtILul1Ho/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njk4/NjA0LTE2NzMxMzQz/ODUtOTgwOC5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Album",
+       "Reissue",
+       "Stereo"
+      ],
+      "name": "Vinyl",
+      "qty": "1"
+     }
+    ],
+    "genres": [
+     "Latin"
+    ],
+    "id": 25698604,
+    "labels": [
+     {
+      "catno": "CR00554",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 36950,
+      "name": "Fania Records",
+      "resource_url": "https://api.discogs.com/labels/36950"
+     },
+     {
+      "catno": "CR00554",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1266884,
+      "name": "Craft Recordings",
+      "resource_url": "https://api.discogs.com/labels/1266884"
+     },
+     {
+      "catno": "CR00554",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2457964,
+      "name": "Craft Recordings Latino",
+      "resource_url": "https://api.discogs.com/labels/2457964"
+     }
+    ],
+    "master_id": 277227,
+    "master_url": "https://api.discogs.com/masters/277227",
+    "resource_url": "https://api.discogs.com/releases/25698604",
+    "styles": [
+     "Salsa",
+     "Afro-Cuban",
+     "Bolero",
+     "Plena",
+     "Guaguancó"
+    ],
+    "thumb": "https://i.discogs.com/UlgTlX3NjWVk6YxszQztkU2bA0JlWVhbpVuqteE5MTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njk4/NjA0LTE2NzMxMzQz/ODUtOTgwOC5qcGVn.jpeg",
+    "title": "El Juicio",
+    "year": 2022
+   },
+   "date_added": "2026-11-17T11:52:18-08:00",
+   "folder_id": 1,
+   "id": 25698604,
+   "instance_id": 2205674368,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 1245513,
+      "join": "",
+      "name": "Tame Impala",
+      "resource_url": "https://api.discogs.com/artists/1245513",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/kE_E7PfOeQu86IjQN4c63o00CzvUNDIWoekkQykt9D4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY3/NjcwLTE2Njg0NzA4/MTctOTA3Ni5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Album"
+      ],
+      "name": "Vinyl",
+      "qty": "2",
+      "text": "180g"
+     }
+    ],
+    "genres": [
+     "Electronic",
+     "Rock",
+     "Pop"
+    ],
+    "id": 25167670,
+    "labels": [
+     {
+      "catno": "7757956",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 8377,
+      "name": "Island Records",
+      "resource_url": "https://api.discogs.com/labels/8377"
+     },
+     {
+      "catno": "7757956",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2311,
+      "name": "Interscope Records",
+      "resource_url": "https://api.discogs.com/labels/2311"
+     },
+     {
+      "catno": "7757956",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 5810,
+      "name": "Fiction Records",
+      "resource_url": "https://api.discogs.com/labels/5810"
+     },
+     {
+      "catno": "7757956",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 674471,
+      "name": "Caroline International",
+      "resource_url": "https://api.discogs.com/labels/674471"
+     }
+    ],
+    "master_id": 1681919,
+    "master_url": "https://api.discogs.com/masters/1681919",
+    "resource_url": "https://api.discogs.com/releases/25167670",
+    "styles": [
+     "Synth-pop",
+     "Psychedelic Rock",
+     "Soft Rock",
+     "Indie Pop",
+     "Indie Rock"
+    ],
+    "thumb": "https://i.discogs.com/_FyEIph_NwEQl6bVOt31C7gBJhDq1KXWIdZ9HK-Si00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY3/NjcwLTE2Njg0NzA4/MTctOTA3Ni5qcGVn.jpeg",
+    "title": "The Slow Rush",
+    "year": 2020
+   },
+   "date_added": "2026-11-17T11:51:14-08:00",
+   "folder_id": 1,
+   "id": 25167670,
+   "instance_id": 2205674020,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 44944,
+      "join": "",
+      "name": "D'Angelo",
+      "resource_url": "https://api.discogs.com/artists/44944",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/hR0Z_iqYyv_h0SW3qQT6CIwiSurPQeijXBgOFCMkOw0/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDk4/MTgtMTQ0MDkyNTM5/NC00NDUzLmpwZWc.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Album",
+       "Reissue"
+      ],
+      "name": "Vinyl",
+      "qty": "2",
+      "text": "180g"
+     }
+    ],
+    "genres": [
+     "Funk / Soul"
+    ],
+    "id": 7409818,
+    "labels": [
+     {
+      "catno": "00602547240811",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 750,
+      "name": "Virgin",
+      "resource_url": "https://api.discogs.com/labels/750"
+     }
+    ],
+    "master_id": 151760,
+    "master_url": "https://api.discogs.com/masters/151760",
+    "resource_url": "https://api.discogs.com/releases/7409818",
+    "styles": [
+     "Soul",
+     "Neo Soul",
+     "Contemporary R&B"
+    ],
+    "thumb": "https://i.discogs.com/favx_67jfCSVaOQ0-ajQ7fI9V9lKEc8qyIblb6WI8_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDk4/MTgtMTQ0MDkyNTM5/NC00NDUzLmpwZWc.jpeg",
+    "title": "Brown Sugar",
+    "year": 2015
+   },
+   "date_added": "2026-11-17T11:49:42-08:00",
+   "folder_id": 1,
+   "id": 7409818,
+   "instance_id": 2205673554,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 29812,
+      "join": ",",
+      "name": "Willie Colón",
+      "resource_url": "https://api.discogs.com/artists/29812",
+      "role": "",
+      "tracks": ""
+     },
+     {
+      "anv": "",
+      "id": 38204,
+      "join": "",
+      "name": "Hector Lavoe",
+      "resource_url": "https://api.discogs.com/artists/38204",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/4XyuYGiWDn7pvzhazTrzYhJu2Te_14jLpRWNSIIyFvI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTYx/MDg1LTE3OTA2MzEy/ODctMjUyNi5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Album",
+       "Reissue",
+       "Remastered",
+       "Stereo"
+      ],
+      "name": "Vinyl",
+      "qty": "1",
+      "text": "180g"
+     }
+    ],
+    "genres": [
+     "Latin"
+    ],
+    "id": 38561085,
+    "labels": [
+     {
+      "catno": "CR01056",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 36950,
+      "name": "Fania Records",
+      "resource_url": "https://api.discogs.com/labels/36950"
+     },
+     {
+      "catno": "CR01056",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1266884,
+      "name": "Craft Recordings",
+      "resource_url": "https://api.discogs.com/labels/1266884"
+     },
+     {
+      "catno": "CR01056",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2457964,
+      "name": "Craft Recordings Latino",
+      "resource_url": "https://api.discogs.com/labels/2457964"
+     }
+    ],
+    "master_id": 275393,
+    "master_url": "https://api.discogs.com/masters/275393",
+    "resource_url": "https://api.discogs.com/releases/38561085",
+    "styles": [
+     "Bolero",
+     "Aguinaldo",
+     "Salsa",
+     "Guaguancó"
+    ],
+    "thumb": "https://i.discogs.com/gTr6BlShndjMk6h1r5U6dHRepLKoh_wIp4i20T71fyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTYx/MDg1LTE3OTA2MzEy/ODctMjUyNi5qcGVn.jpeg",
+    "title": "Cosa Nuestra",
+    "year": 2026
+   },
+   "date_added": "2026-11-17T11:48:10-08:00",
+   "folder_id": 1,
+   "id": 38561085,
+   "instance_id": 2205673054,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 5107911,
+      "join": "",
+      "name": "Dope Lemon",
+      "resource_url": "https://api.discogs.com/artists/5107911",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/XKkbCCHe9os9aFcnMJmUPPRDo3SjR7N6seoCfzoM_68/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTU5/NDc5LTE2OTcwMTk3/MTMtNDgzMi5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP"
+      ],
+      "name": "Vinyl",
+      "qty": "2",
+      "text": "Pink"
+     }
+    ],
+    "genres": [
+     "Rock",
+     "Pop"
+    ],
+    "id": 27559479,
+    "labels": [
+     {
+      "catno": "538803821",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1003,
+      "name": "BMG",
+      "resource_url": "https://api.discogs.com/labels/1003"
+     }
+    ],
+    "master_id": 2459455,
+    "master_url": "https://api.discogs.com/masters/2459455",
+    "resource_url": "https://api.discogs.com/releases/27559479",
+    "styles": [
+     "Alternative Rock",
+     "Psychedelic Rock",
+     "Lo-Fi"
+    ],
+    "thumb": "https://i.discogs.com/KPmsZpEXdDSFAw1URDSzEJhbDZMMo4enj1-9MmeZu5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTU5/NDc5LTE2OTcwMTk3/MTMtNDgzMi5qcGVn.jpeg",
+    "title": "Rose Pink Cadillac",
+    "year": 2023
+   },
+   "date_added": "2026-11-17T11:47:11-08:00",
+   "folder_id": 1,
+   "id": 27559479,
+   "instance_id": 2205672697,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 44944,
+      "join": "",
+      "name": "D'Angelo",
+      "resource_url": "https://api.discogs.com/artists/44944",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/sIzW8JEnNzG04bXBq5AsStosJmav6jNYCMm3TnY2LG4/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzk3/ODYyLTE3NzYyNDgw/NjktOTAyMC5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Album",
+       "Reissue"
+      ],
+      "name": "Vinyl",
+      "qty": "2",
+      "text": "180g"
+     }
+    ],
+    "genres": [
+     "Hip Hop",
+     "Funk / Soul"
+    ],
+    "id": 35397862,
+    "labels": [
+     {
+      "catno": "00602547240842",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 750,
+      "name": "Virgin",
+      "resource_url": "https://api.discogs.com/labels/750"
+     },
+     {
+      "catno": "00602547240842",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 138199,
+      "name": "Universal Music Group International",
+      "resource_url": "https://api.discogs.com/labels/138199"
+     },
+     {
+      "catno": "00602547240859",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 750,
+      "name": "Virgin",
+      "resource_url": "https://api.discogs.com/labels/750"
+     },
+     {
+      "catno": "00602547240866",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 750,
+      "name": "Virgin",
+      "resource_url": "https://api.discogs.com/labels/750"
+     }
+    ],
+    "master_id": 151766,
+    "master_url": "https://api.discogs.com/masters/151766",
+    "resource_url": "https://api.discogs.com/releases/35397862",
+    "styles": [
+     "Soul",
+     "Funk",
+     "Neo Soul"
+    ],
+    "thumb": "https://i.discogs.com/QpIC5TI6gQ05pXp0WA6Uf1IT0yDdLpugFPQnfOXcX5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzk3/ODYyLTE3NzYyNDgw/NjktOTAyMC5qcGVn.jpeg",
+    "title": "Voodoo",
+    "year": 2024
+   },
+   "date_added": "2026-11-17T11:46:13-08:00",
+   "folder_id": 1,
+   "id": 35397862,
+   "instance_id": 2205672380,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 29812,
+      "join": "/",
+      "name": "Willie Colón",
+      "resource_url": "https://api.discogs.com/artists/29812",
+      "role": "",
+      "tracks": ""
+     },
+     {
+      "anv": "",
+      "id": 38204,
+      "join": "",
+      "name": "Hector Lavoe",
+      "resource_url": "https://api.discogs.com/artists/38204",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/dZlFNFzADRjzhIqAX0kux6Of5xX0ja2kdIrHsNf0Ke0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODYz/MzQ2LTE3MjU4MTkx/NjgtNzY0Ny5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Album",
+       "Reissue"
+      ],
+      "name": "Vinyl",
+      "qty": "1"
+     }
+    ],
+    "genres": [
+     "Latin"
+    ],
+    "id": 28863346,
+    "labels": [
+     {
+      "catno": "CR00647",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1266884,
+      "name": "Craft Recordings",
+      "resource_url": "https://api.discogs.com/labels/1266884"
+     },
+     {
+      "catno": "CR00647",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2457964,
+      "name": "Craft Recordings Latino",
+      "resource_url": "https://api.discogs.com/labels/2457964"
+     },
+     {
+      "catno": "CR00647",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 36950,
+      "name": "Fania Records",
+      "resource_url": "https://api.discogs.com/labels/36950"
+     }
+    ],
+    "master_id": 517227,
+    "master_url": "https://api.discogs.com/masters/517227",
+    "resource_url": "https://api.discogs.com/releases/28863346",
+    "styles": [
+     "Salsa"
+    ],
+    "thumb": "https://i.discogs.com/mDYmEjJRgvqa0KPP5EnzBw_KJHUfy3md-nphNabHTY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODYz/MzQ2LTE3MjU4MTkx/NjgtNzY0Ny5qcGVn.jpeg",
+    "title": "Vigilante",
+    "year": 2023
+   },
+   "date_added": "2026-11-17T11:44:50-08:00",
+   "folder_id": 1,
+   "id": 28863346,
+   "instance_id": 2205671934,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 5107911,
+      "join": "",
+      "name": "Dope Lemon",
+      "resource_url": "https://api.discogs.com/artists/5107911",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/hiUstVR0JI39U4WvMDduNAIfPdcHtyr9-6hfPiokHlY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTE2/NDA5LTE3ODQ0MDg3/MTktNDQxNi5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Limited Edition",
+       "Picture Disc",
+       "Reissue"
+      ],
+      "name": "Vinyl",
+      "qty": "2",
+      "text": "Animated Zeotrope "
+     }
+    ],
+    "genres": [
+     "Rock",
+     "Pop"
+    ],
+    "id": 37916409,
+    "labels": [
+     {
+      "catno": "538828661",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1003,
+      "name": "BMG",
+      "resource_url": "https://api.discogs.com/labels/1003"
+     }
+    ],
+    "master_id": 1053962,
+    "master_url": "https://api.discogs.com/masters/1053962",
+    "resource_url": "https://api.discogs.com/releases/37916409",
+    "styles": [
+     "Alternative Rock",
+     "Folk",
+     "Indie Rock",
+     "Pop Rock"
+    ],
+    "thumb": "https://i.discogs.com/fgmQstCyGvFL9m__9fYCED2zOzBbeB2-xz7UanNvm3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTE2/NDA5LTE3ODQ0MDg3/MTktNDQxNi5qcGVn.jpeg",
+    "title": "Honey Bones",
+    "year": 2026
+   },
+   "date_added": "2026-11-17T11:43:30-08:00",
+   "folder_id": 1,
+   "id": 37916409,
+   "instance_id": 2205671492,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
       "anv": "Vicente Fernández",
       "id": 419130,
       "join": "",
@@ -11441,7 +12116,7 @@
       "tracks": ""
      }
     ],
-    "cover_image": "https://i.discogs.com/RUPMNmFkBi1bqSLAWkR-H-fgLTCA4mEMAqDaE2ZNkwM/rs:fit/g:sm/q:90/h:323/w:321/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDU2/MzMtMTQwNTc4Mjcz/OC0yMTg4LmpwZWc.jpeg",
+    "cover_image": "https://i.discogs.com/jRKamNpNL2af2rVr3DJE4c0jTRW1jFYFYs32ImFdckc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDU2/MzMtMTc5NDMyNzUx/MS05MTg4LmpwZWc.jpeg",
     "formats": [
      {
       "descriptions": [
@@ -11475,7 +12150,7 @@
      "Funk",
      "Soul"
     ],
-    "thumb": "https://i.discogs.com/VB1xgUqCdpG90e26SGH54td9Lkz5uORcX3cMUiaBnVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDU2/MzMtMTQwNTc4Mjcz/OC0yMTg4LmpwZWc.jpeg",
+    "thumb": "https://i.discogs.com/A78enx7SjgQA6Z1HkH5XGjsAOt3Bepk3yOtOl6QrM08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDU2/MzMtMTc5NDMyNzUx/MS05MTg4LmpwZWc.jpeg",
     "title": "Didn't I EP",
     "year": 2014
    },
@@ -15570,7 +16245,7 @@
       "tracks": ""
      }
     ],
-    "cover_image": "https://i.discogs.com/YAYvUF4U73PcrqdxDRi1i_yJCl8Ec8SeeTuwsibS2IQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM1/MDU4LTE1NjIxODY1/NDItNDQ1My5qcGVn.jpeg",
+    "cover_image": "https://i.discogs.com/aYFtHHOB9qABBvHNz56ewas0_wedMlWP0N6y4oVbSsg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM1/MDU4LTE3OTQxNDA2/MTYtMjQ3NC5qcGVn.jpeg",
     "formats": [
      {
       "descriptions": [
@@ -15604,7 +16279,7 @@
      "Soul",
      "Jazz-Funk"
     ],
-    "thumb": "https://i.discogs.com/hWIuaLT8KY16q7Ex5kmzAcp8IGbxVJ2B-AClGmDqIAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM1/MDU4LTE1NjIxODY1/NDItNDQ1My5qcGVn.jpeg",
+    "thumb": "https://i.discogs.com/BjfkmVSObXkU2MzZ3Tbh2ew-aukEPBiLxdjXJqEcb4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM1/MDU4LTE3OTQxNDA2/MTYtMjQ3NC5qcGVn.jpeg",
     "title": "Give Me The Night / Breezin' / The World Is A Ghetto",
     "year": 2019
    },

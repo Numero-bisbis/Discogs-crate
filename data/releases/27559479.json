@@ -1,0 +1,175 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5107911,
+   "join": "",
+   "name": "Dope Lemon",
+   "resource_url": "https://api.discogs.com/artists/5107911",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/GutYcOFQtAgPudXNzlZMk4mXg7lYejrjpumQdtfwBNA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUxMDc5/MTEtMTc1Mzg0MDU5/OS0yMTYyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "LP"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Pink"
+  }
+ ],
+ "genres": [
+  "Rock",
+  "Pop"
+ ],
+ "id": 27559479,
+ "images": [
+  {
+   "height": 582,
+   "resource_url": "https://i.discogs.com/XKkbCCHe9os9aFcnMJmUPPRDo3SjR7N6seoCfzoM_68/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTU5/NDc5LTE2OTcwMTk3/MTMtNDgzMi5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/XKkbCCHe9os9aFcnMJmUPPRDo3SjR7N6seoCfzoM_68/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTU5/NDc5LTE2OTcwMTk3/MTMtNDgzMi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/KPmsZpEXdDSFAw1URDSzEJhbDZMMo4enj1-9MmeZu5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTU5/NDc5LTE2OTcwMTk3/MTMtNDgzMi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "538803821",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1003,
+   "name": "BMG",
+   "resource_url": "https://api.discogs.com/labels/1003",
+   "thumbnail_url": "https://i.discogs.com/npeTfOdI-oWjqDG6ZDcUV-B-Dc52kRNQ9g_UQbT61sg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDMt/MTc5MzQxNDcwNy05/Njc0LnBuZw.jpeg"
+  }
+ ],
+ "notes": "Made in Sweden\n\nContains a 30x30cm 16 page full colour booklet featuring photos and full set of lyrics.",
+ "released": "2023-06-30",
+ "styles": [
+  "Alternative Rock",
+  "Psychedelic Rock",
+  "Lo-Fi"
+ ],
+ "title": "Rose Pink Cadillac",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Rose Pink Cadillac",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Kids Fallin' In Love",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Howl With Me",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Stingray Pete",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Sailor's Delight",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "Everyday Is A Holiday",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C2",
+   "title": "Lovesick Brain",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C3",
+   "title": "High Rollin",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D1",
+   "title": "God's Machete",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D2",
+   "title": "Shadows In The Moonlight",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/27559479-Dope-Lemon-Rose-Pink-Cadillac",
+ "videos": [
+  {
+   "duration": 262,
+   "title": "DOPE LEMON - ROSE PINK CADILLAC",
+   "uri": "https://www.youtube.com/watch?v=zrBDPm5LQ2U"
+  },
+  {
+   "duration": 356,
+   "title": "DOPE LEMON - Every Day Is A Holiday (feat. Winston Surfshirt)",
+   "uri": "https://www.youtube.com/watch?v=DN4jjRKtWZs"
+  },
+  {
+   "duration": 241,
+   "title": "DOPE LEMON - Kids Fallin' In Love (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=uDcgkKpEUO0"
+  },
+  {
+   "duration": 260,
+   "title": "DOPE LEMON - Howl With Me (Official Visualiser)",
+   "uri": "https://www.youtube.com/watch?v=2YoXJebAUmU"
+  },
+  {
+   "duration": 388,
+   "title": "DOPE LEMON - Sailor's Delight (Official Visualiser)",
+   "uri": "https://www.youtube.com/watch?v=KVOPmknOwR8"
+  },
+  {
+   "duration": 266,
+   "title": "DOPE LEMON - Stingray Pete (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=H_M8lqAbpik"
+  },
+  {
+   "duration": 360,
+   "title": "DOPE LEMON - High Rollin' Feat. Louise Verneuil (Official Visualiser)",
+   "uri": "https://www.youtube.com/watch?v=5PPKnYU5D6k"
+  },
+  {
+   "duration": 291,
+   "title": "DOPE LEMON - Lovesick Brain (Official Visualiser)",
+   "uri": "https://www.youtube.com/watch?v=v567XYit6zY"
+  },
+  {
+   "duration": 402,
+   "title": "DOPE LEMON - God's Machete (Official Visualiser)",
+   "uri": "https://www.youtube.com/watch?v=ub09m4d1p-w"
+  },
+  {
+   "duration": 397,
+   "title": "DOPE LEMON - Shadows In The Moonlight (Official Visualiser)",
+   "uri": "https://www.youtube.com/watch?v=yw1GLX3OZh8"
+  }
+ ],
+ "year": 2023
+}

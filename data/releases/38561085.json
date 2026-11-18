@@ -1,0 +1,144 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 29812,
+   "join": ",",
+   "name": "Willie Colón",
+   "resource_url": "https://api.discogs.com/artists/29812",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/edCPE0-wI0EH6pVO9F6R9SejA1cmBl0QxIS4Hlq585M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI5ODEy/LTE3MDcwMzMwMzkt/Mzg0Ni5wbmc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 38204,
+   "join": "",
+   "name": "Hector Lavoe",
+   "resource_url": "https://api.discogs.com/artists/38204",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Fb5qVoZfF1ltUm6syW4Ctd282ytmZuyqlI6KMroTxUY/rs:fit/g:sm/q:90/h:600/w:465/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4MjA0/LTE3Nzk2NDcxMjMt/OTg4Ny5wbmc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Remastered",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "180g"
+  }
+ ],
+ "genres": [
+  "Latin"
+ ],
+ "id": 38561085,
+ "images": [
+  {
+   "height": 596,
+   "resource_url": "https://i.discogs.com/4XyuYGiWDn7pvzhazTrzYhJu2Te_14jLpRWNSIIyFvI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTYx/MDg1LTE3OTA2MzEy/ODctMjUyNi5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/4XyuYGiWDn7pvzhazTrzYhJu2Te_14jLpRWNSIIyFvI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTYx/MDg1LTE3OTA2MzEy/ODctMjUyNi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/gTr6BlShndjMk6h1r5U6dHRepLKoh_wIp4i20T71fyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTYx/MDg1LTE3OTA2MzEy/ODctMjUyNi5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "CR01056",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 36950,
+   "name": "Fania Records",
+   "resource_url": "https://api.discogs.com/labels/36950",
+   "thumbnail_url": "https://i.discogs.com/y5-U-nukJzqSWFonI3oqT9GwaRESk_qCkHiIFePJ5aw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2OTUw/LTE1NzcyOTc0MzEt/Mzg4My5wbmc.jpeg"
+  },
+  {
+   "catno": "CR01056",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1266884,
+   "name": "Craft Recordings",
+   "resource_url": "https://api.discogs.com/labels/1266884",
+   "thumbnail_url": "https://i.discogs.com/_CuY2BgOyZaO5IWMIRt1d-00YmMhKwEGZZVGNYYrN3o/rs:fit/g:sm/q:90/h:600/w:475/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyNjY4/ODQtMTUwMDA0MDU1/Ni04ODA1LmpwZWc.jpeg"
+  },
+  {
+   "catno": "CR01056",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2457964,
+   "name": "Craft Recordings Latino",
+   "resource_url": "https://api.discogs.com/labels/2457964",
+   "thumbnail_url": "https://i.discogs.com/SGDdSt8s8CEvwn9PapRtSXijdpDkFaw8zX3Caha7yyM/rs:fit/g:sm/q:90/h:252/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI0NTc5/NjQtMTcwMzY4MDIy/My00NzQ4LnBuZw.jpeg"
+  }
+ ],
+ "notes": "P 2026 $ C 1969 Craft Recordings. A Concord Label Group Release. 10 Lea Ave, Suite 300, Nashville, TN 37210. All Rights Reserved. Unauthorized duplication is a violation of applicable laws. Made in U.S.A.\n\nAAA laquers cut by Dave Polster and Chris Holley at Well Made Music",
+ "released": "2026-09-25",
+ "styles": [
+  "Bolero",
+  "Aguinaldo",
+  "Salsa",
+  "Guaguancó"
+ ],
+ "title": "Cosa Nuestra",
+ "tracklist": [
+  {
+   "duration": "3:31",
+   "position": "1",
+   "title": "Ché Ché Colé",
+   "type_": "track"
+  },
+  {
+   "duration": "5:37",
+   "position": "2",
+   "title": "No Me Llores Más",
+   "type_": "track"
+  },
+  {
+   "duration": "5:06",
+   "position": "3",
+   "title": "Ausencia",
+   "type_": "track"
+  },
+  {
+   "duration": "4:55",
+   "position": "4",
+   "title": "Te Conozco",
+   "type_": "track"
+  },
+  {
+   "duration": "5:37",
+   "position": "5",
+   "title": "Juana Peña",
+   "type_": "track"
+  },
+  {
+   "duration": "4:55",
+   "position": "6",
+   "title": "Sonero Mayor",
+   "type_": "track"
+  },
+  {
+   "duration": "4:10",
+   "position": "7",
+   "title": "Sangrigorda",
+   "type_": "track"
+  },
+  {
+   "duration": "3:24",
+   "position": "8",
+   "title": "Tu No Puedes Conmigo",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/38561085-Willie-Colón-Hector-Lavoe-Cosa-Nuestra",
+ "videos": [],
+ "year": 2026
+}

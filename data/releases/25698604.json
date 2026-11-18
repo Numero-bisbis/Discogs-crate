@@ -1,0 +1,269 @@
+{
+ "artists": [
+  {
+   "anv": "Willie Colon",
+   "id": 29812,
+   "join": "Canta:",
+   "name": "Willie Colón",
+   "resource_url": "https://api.discogs.com/artists/29812",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/edCPE0-wI0EH6pVO9F6R9SejA1cmBl0QxIS4Hlq585M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI5ODEy/LTE3MDcwMzMwMzkt/Mzg0Ni5wbmc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 38204,
+   "join": "",
+   "name": "Hector Lavoe",
+   "resource_url": "https://api.discogs.com/artists/38204",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Fb5qVoZfF1ltUm6syW4Ctd282ytmZuyqlI6KMroTxUY/rs:fit/g:sm/q:90/h:600/w:465/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4MjA0/LTE3Nzk2NDcxMjMt/OTg4Ny5wbmc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Latin"
+ ],
+ "id": 25698604,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/_lKUJ9CDtnhGm1XSjZcVSzlF-LGwsFWV-WVtILul1Ho/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njk4/NjA0LTE2NzMxMzQz/ODUtOTgwOC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/_lKUJ9CDtnhGm1XSjZcVSzlF-LGwsFWV-WVtILul1Ho/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njk4/NjA0LTE2NzMxMzQz/ODUtOTgwOC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/UlgTlX3NjWVk6YxszQztkU2bA0JlWVhbpVuqteE5MTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njk4/NjA0LTE2NzMxMzQz/ODUtOTgwOC5qcGVn.jpeg",
+   "width": 574
+  }
+ ],
+ "labels": [
+  {
+   "catno": "CR00554",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 36950,
+   "name": "Fania Records",
+   "resource_url": "https://api.discogs.com/labels/36950",
+   "thumbnail_url": "https://i.discogs.com/y5-U-nukJzqSWFonI3oqT9GwaRESk_qCkHiIFePJ5aw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2OTUw/LTE1NzcyOTc0MzEt/Mzg4My5wbmc.jpeg"
+  },
+  {
+   "catno": "CR00554",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1266884,
+   "name": "Craft Recordings",
+   "resource_url": "https://api.discogs.com/labels/1266884",
+   "thumbnail_url": "https://i.discogs.com/_CuY2BgOyZaO5IWMIRt1d-00YmMhKwEGZZVGNYYrN3o/rs:fit/g:sm/q:90/h:600/w:475/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyNjY4/ODQtMTUwMDA0MDU1/Ni04ODA1LmpwZWc.jpeg"
+  },
+  {
+   "catno": "CR00554",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2457964,
+   "name": "Craft Recordings Latino",
+   "resource_url": "https://api.discogs.com/labels/2457964",
+   "thumbnail_url": "https://i.discogs.com/SGDdSt8s8CEvwn9PapRtSXijdpDkFaw8zX3Caha7yyM/rs:fit/g:sm/q:90/h:252/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI0NTc5/NjQtMTcwMzY4MDIy/My00NzQ4LnBuZw.jpeg"
+  }
+ ],
+ "notes": "℗ 2022 & © 1972 Craft Recordings.\n\n50th Anniversary Edition.\nAll-Analog mastering from the original tapes by Kevin Gray at Cohearent Audio.\nPressed on 180-gram vinyl.\nReissue with Cloud Fania Labels.",
+ "released": "2022",
+ "styles": [
+  "Salsa",
+  "Afro-Cuban",
+  "Bolero",
+  "Plena",
+  "Guaguancó"
+ ],
+ "title": "El Juicio",
+ "tracklist": [
+  {
+   "duration": "3:47",
+   "extraartists": [
+    {
+     "anv": "Willie Colon",
+     "id": 29812,
+     "join": "",
+     "name": "Willie Colón",
+     "resource_url": "https://api.discogs.com/artists/29812",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Ah-Ah/O-No",
+   "type_": "track"
+  },
+  {
+   "duration": "5:16",
+   "extraartists": [
+    {
+     "anv": "C. Curet Alonso",
+     "id": 2218992,
+     "join": "",
+     "name": "Catalino Curet Alonso",
+     "resource_url": "https://api.discogs.com/artists/2218992",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Piraña",
+   "type_": "track"
+  },
+  {
+   "duration": "2:55",
+   "position": "A3",
+   "title": "Seguire Sin Ti",
+   "type_": "track"
+  },
+  {
+   "duration": "8:18",
+   "extraartists": [
+    {
+     "anv": "Willie Colon",
+     "id": 29812,
+     "join": "",
+     "name": "Willie Colón",
+     "resource_url": "https://api.discogs.com/artists/29812",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Timbalero",
+   "type_": "track"
+  },
+  {
+   "duration": "6:13",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 38204,
+     "join": "",
+     "name": "Hector Lavoe",
+     "resource_url": "https://api.discogs.com/artists/38204",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Willie Colon",
+     "id": 29812,
+     "join": "",
+     "name": "Willie Colón",
+     "resource_url": "https://api.discogs.com/artists/29812",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Aguanile",
+   "type_": "track"
+  },
+  {
+   "duration": "4:01",
+   "position": "B2",
+   "title": "Soñando Despierto",
+   "type_": "track"
+  },
+  {
+   "duration": "3:11",
+   "extraartists": [
+    {
+     "anv": "Willie Colon",
+     "id": 29812,
+     "join": "",
+     "name": "Willie Colón",
+     "resource_url": "https://api.discogs.com/artists/29812",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Si La Ves",
+   "type_": "track"
+  },
+  {
+   "duration": "5:51",
+   "extraartists": [
+    {
+     "anv": "Willie Colon",
+     "id": 29812,
+     "join": "",
+     "name": "Willie Colón",
+     "resource_url": "https://api.discogs.com/artists/29812",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Pan Y Agua (Bread & Water)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/25698604-Willie-Colon-Canta-Hector-Lavoe-El-Juicio",
+ "videos": [
+  {
+   "duration": 0,
+   "title": "Willie Colon & Hector Lavoe - El Juicio [Disco Completo] (1972)",
+   "uri": "https://www.youtube.com/watch?v=OqYsuW91CQc"
+  },
+  {
+   "duration": 230,
+   "title": "01 Ah Ah Oh No - El Juicio - 1972 - Willie Colon & Hector Lavoe",
+   "uri": "https://www.youtube.com/watch?v=PNxdccrZz2A"
+  },
+  {
+   "duration": 243,
+   "title": "Willie Colon-EL JUICIO",
+   "uri": "https://www.youtube.com/watch?v=0Z-8jDylujk"
+  },
+  {
+   "duration": 323,
+   "title": "02 Piraña - El Juicio - 1972 - Willie Colon & Hector Lavoe",
+   "uri": "https://www.youtube.com/watch?v=nf7jvqSFXys"
+  },
+  {
+   "duration": 179,
+   "title": "03 Seguire Sin Ti -  El Juicio - 1972 - Willie Colon & Hector Lavoe",
+   "uri": "https://www.youtube.com/watch?v=QjEuGUaJT3I"
+  },
+  {
+   "duration": 319,
+   "title": "04 Pan y Agua - El Juicio - 1972 - Willie Colon & Hector Lavoe",
+   "uri": "https://www.youtube.com/watch?v=e9BgxU0wQjk"
+  },
+  {
+   "duration": 269,
+   "title": "05 Timbalero - El Juicio - 1972 - Willie Colon & Hector Lavoe",
+   "uri": "https://www.youtube.com/watch?v=UElQ2iBcX1s"
+  },
+  {
+   "duration": 373,
+   "title": "06 Aguanile - El Juicio - 1972 - Willie Colon & Hector Lavoe",
+   "uri": "https://www.youtube.com/watch?v=nTb_SuFMs4Y"
+  },
+  {
+   "duration": 245,
+   "title": "07 Soñando Despierto - El Juicio - 1972 - Willie Colon & Hector Lavoe",
+   "uri": "https://www.youtube.com/watch?v=cDXRJBd99ds"
+  },
+  {
+   "duration": 195,
+   "title": "08 Si La Ves - El Juicio - 1972 - Willie Colon & Hector Lavoe",
+   "uri": "https://www.youtube.com/watch?v=_H-76WVZ4R4"
+  }
+ ],
+ "year": 2022
+}

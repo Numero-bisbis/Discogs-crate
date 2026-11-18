@@ -1,0 +1,189 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 5107911,
+   "join": "",
+   "name": "Dope Lemon",
+   "resource_url": "https://api.discogs.com/artists/5107911",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/GutYcOFQtAgPudXNzlZMk4mXg7lYejrjpumQdtfwBNA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUxMDc5/MTEtMTc1Mzg0MDU5/OS0yMTYyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK & Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Limited Edition",
+    "Picture Disc",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Animated Zeotrope "
+  }
+ ],
+ "genres": [
+  "Rock",
+  "Pop"
+ ],
+ "id": 37916409,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/hiUstVR0JI39U4WvMDduNAIfPdcHtyr9-6hfPiokHlY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTE2/NDA5LTE3ODQ0MDg3/MTktNDQxNi5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/hiUstVR0JI39U4WvMDduNAIfPdcHtyr9-6hfPiokHlY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTE2/NDA5LTE3ODQ0MDg3/MTktNDQxNi5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/fgmQstCyGvFL9m__9fYCED2zOzBbeB2-xz7UanNvm3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTE2/NDA5LTE3ODQ0MDg3/MTktNDQxNi5qcGVn.jpeg",
+   "width": 598
+  }
+ ],
+ "labels": [
+  {
+   "catno": "538828661",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1003,
+   "name": "BMG",
+   "resource_url": "https://api.discogs.com/labels/1003",
+   "thumbnail_url": "https://i.discogs.com/npeTfOdI-oWjqDG6ZDcUV-B-Dc52kRNQ9g_UQbT61sg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDMt/MTc5MzQxNDcwNy05/Njc0LnBuZw.jpeg"
+  }
+ ],
+ "notes": "Brand New Edition\nLimited Edition Animated 2LP Vinyl Picture Disc in a gatefold jacket ",
+ "released": "2026-07-17",
+ "styles": [
+  "Alternative Rock",
+  "Folk",
+  "Indie Rock",
+  "Pop Rock"
+ ],
+ "title": "Honey Bones",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Marinade",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Uptown Folks",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Fuck Things Up",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Coyote",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "How Many Times",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "Stone Cutters",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C2",
+   "title": "Honey Bones",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C3",
+   "title": "The Way You Do ",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D1",
+   "title": "Won't Let You Go",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D2",
+   "title": "Best Girl",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/37916409-Dope-Lemon-Honey-Bones",
+ "videos": [
+  {
+   "duration": 240,
+   "title": "DOPE LEMON - Marinade (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=9ju-Qj8xFQk"
+  },
+  {
+   "duration": 324,
+   "title": "Honey Bones /((DOPE LEMON",
+   "uri": "https://www.youtube.com/watch?v=1Gh9_8bEayg"
+  },
+  {
+   "duration": 285,
+   "title": "DOPE LEMON - Uptown Folks (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=MetXyUFY3Ts"
+  },
+  {
+   "duration": 2732,
+   "title": "DOPE LEMON - Honey Bones (Full Album 2016)",
+   "uri": "https://www.youtube.com/watch?v=0awLTtNVN9A"
+  },
+  {
+   "duration": 272,
+   "title": "Fuck Things Up",
+   "uri": "https://www.youtube.com/watch?v=-QmtrctL_Uc"
+  },
+  {
+   "duration": 231,
+   "title": "DOPE LEMON - Coyote (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=2qjSZzswJCY"
+  },
+  {
+   "duration": 286,
+   "title": "DOPE LEMON - How Many Times (Angus Stone)",
+   "uri": "https://www.youtube.com/watch?v=ECSTE8Zaxs0"
+  },
+  {
+   "duration": 271,
+   "title": "DOPE LEMON - Stonecutters (Angus Stone)",
+   "uri": "https://www.youtube.com/watch?v=D92gz1Fhw_I"
+  },
+  {
+   "duration": 324,
+   "title": "DOPE LEMON - Honey Bones (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=29uruM5-VYo"
+  },
+  {
+   "duration": 188,
+   "title": "DOPE LEMON - The Way You Do (Angus Stone)",
+   "uri": "https://www.youtube.com/watch?v=xJ3bNZ-d9Nc"
+  },
+  {
+   "duration": 238,
+   "title": "Won't Let You Go",
+   "uri": "https://www.youtube.com/watch?v=29c06nHyirk"
+  },
+  {
+   "duration": 398,
+   "title": "DOPE LEMON - Best Girl (Angus Stone)",
+   "uri": "https://www.youtube.com/watch?v=zfxlXQHDGLQ"
+  }
+ ],
+ "year": 2026
+}

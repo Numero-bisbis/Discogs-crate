@@ -1,0 +1,731 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 44944,
+   "join": "",
+   "name": "D'Angelo",
+   "resource_url": "https://api.discogs.com/artists/44944",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Y2P4gyJxtLjEfHzpP05Vfq9bNYQuGuEHvSJ86kG8410/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ0OTQ0/LTE3ODMwOTMyNjgt/NTc1Ni5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "180g"
+  }
+ ],
+ "genres": [
+  "Hip Hop",
+  "Funk / Soul"
+ ],
+ "id": 35397862,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/sIzW8JEnNzG04bXBq5AsStosJmav6jNYCMm3TnY2LG4/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzk3/ODYyLTE3NzYyNDgw/NjktOTAyMC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/sIzW8JEnNzG04bXBq5AsStosJmav6jNYCMm3TnY2LG4/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzk3/ODYyLTE3NzYyNDgw/NjktOTAyMC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/QpIC5TI6gQ05pXp0WA6Uf1IT0yDdLpugFPQnfOXcX5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzk3/ODYyLTE3NzYyNDgw/NjktOTAyMC5qcGVn.jpeg",
+   "width": 589
+  }
+ ],
+ "labels": [
+  {
+   "catno": "00602547240842",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 750,
+   "name": "Virgin",
+   "resource_url": "https://api.discogs.com/labels/750",
+   "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+  },
+  {
+   "catno": "00602547240842",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 138199,
+   "name": "Universal Music Group International",
+   "resource_url": "https://api.discogs.com/labels/138199",
+   "thumbnail_url": "https://i.discogs.com/lSH1OPzDIQXxluBPhUbFGdZ2INrs_fcTUpVb_4787n0/rs:fit/g:sm/q:90/h:99/w:190/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzODE5/OS0xMjk5NzUzNzc4/LmpwZWc.jpeg"
+  },
+  {
+   "catno": "00602547240859",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 750,
+   "name": "Virgin",
+   "resource_url": "https://api.discogs.com/labels/750",
+   "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+  },
+  {
+   "catno": "00602547240866",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 750,
+   "name": "Virgin",
+   "resource_url": "https://api.discogs.com/labels/750",
+   "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+  }
+ ],
+ "notes": "℗ 1998, 1999, 2000 © Virgin Records\nRecorded and mixed at Electric Lady Studios, New York.\nMastered at Sterling Sound, New York.\n\nA2 contains samples from [url=http://www.discogs.com/Fat-Joe-Success-Part-Deux/release/611892]\"Success\"[/url] by Fat Joe and from \"Interlude\" by Raekwon; excerpts from [url=http://www.discogs.com/InI-Fakin-Jax/release/513420]\"Fakin' Jacks\"[/url] by InI and from [url=http://www.discogs.com/Various-The-Big-Daddy-Anthem/release/480000]\"Big Daddy Anthem\"[/url].\nB2 contains an interpolation of [url=http://www.discogs.com/Kool-The-Gang-Kool-The-Gang/release/531609]\"Sea Of Tranquility\"[/url] by Kool & The Gang.\n\nBlack vinyl.\nRepress from 2024.\nMade in the EU.\nMade in Czech Republic sticker on back.",
+ "released": "2024-07-10",
+ "styles": [
+  "Soul",
+  "Funk",
+  "Neo Soul"
+ ],
+ "title": "Voodoo",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "Ahmir Thompson",
+     "id": 12473,
+     "join": "",
+     "name": "Ahmir '?uestlove' Thompson",
+     "resource_url": "https://api.discogs.com/artists/12473",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 680678,
+     "join": "",
+     "name": "Mike Campbell (3)",
+     "resource_url": "https://api.discogs.com/artists/680678",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 99438,
+     "join": "",
+     "name": "Roy Hargrove",
+     "resource_url": "https://api.discogs.com/artists/99438",
+     "role": "Horns",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Thompson",
+     "id": 12473,
+     "join": "",
+     "name": "Ahmir '?uestlove' Thompson",
+     "resource_url": "https://api.discogs.com/artists/12473",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Stone",
+     "id": 31752,
+     "join": "",
+     "name": "Angie Stone",
+     "resource_url": "https://api.discogs.com/artists/31752",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Playa Playa",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 21151,
+     "join": "",
+     "name": "DJ Premier",
+     "resource_url": "https://api.discogs.com/artists/21151",
+     "role": "Co-producer, Programmed By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Martin",
+     "id": 608750,
+     "join": "",
+     "name": "Chris Martin (6)",
+     "resource_url": "https://api.discogs.com/artists/608750",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Devil's Pie",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Method Man And Redman",
+     "id": 139643,
+     "join": "",
+     "name": "Method Man & Redman",
+     "resource_url": "https://api.discogs.com/artists/139643",
+     "role": "Featuring [Rap]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Human Beatbox [Vocal Percussion]",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Smith",
+     "id": 579789,
+     "join": "",
+     "name": "Clifford Smith (2)",
+     "resource_url": "https://api.discogs.com/artists/579789",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Noble",
+     "id": 157653,
+     "join": "",
+     "name": "Reggie Noble",
+     "resource_url": "https://api.discogs.com/artists/157653",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Left & Right",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 72461,
+     "join": "",
+     "name": "Raphael Saadiq",
+     "resource_url": "https://api.discogs.com/artists/72461",
+     "role": "Guitar",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "The Line",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "Ahmir Thompson",
+     "id": 12473,
+     "join": "",
+     "name": "Ahmir '?uestlove' Thompson",
+     "resource_url": "https://api.discogs.com/artists/12473",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 99438,
+     "join": "",
+     "name": "Roy Hargrove",
+     "resource_url": "https://api.discogs.com/artists/99438",
+     "role": "Flugelhorn, Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Edward Alford",
+     "id": 616038,
+     "join": "",
+     "name": "Chalmers Alford",
+     "resource_url": "https://api.discogs.com/artists/616038",
+     "role": "Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Stone",
+     "id": 31752,
+     "join": "",
+     "name": "Angie Stone",
+     "resource_url": "https://api.discogs.com/artists/31752",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Smith",
+     "id": 387582,
+     "join": "",
+     "name": "Claydes Smith",
+     "resource_url": "https://api.discogs.com/artists/387582",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "D. Thomas",
+     "id": 387581,
+     "join": "",
+     "name": "Dennis D.T. Thomas",
+     "resource_url": "https://api.discogs.com/artists/387581",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G. Redd",
+     "id": 208237,
+     "join": "",
+     "name": "Gene Redd",
+     "resource_url": "https://api.discogs.com/artists/208237",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G. Brown",
+     "id": 261265,
+     "join": "",
+     "name": "George Brown",
+     "resource_url": "https://api.discogs.com/artists/261265",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Archer",
+     "id": 845985,
+     "join": "",
+     "name": "Luther Archer",
+     "resource_url": "https://api.discogs.com/artists/845985",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Westfield",
+     "id": 635985,
+     "join": "",
+     "name": "Richard Westfield",
+     "resource_url": "https://api.discogs.com/artists/635985",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Mickens",
+     "id": 387583,
+     "join": "",
+     "name": "Robert Spike Mickens",
+     "resource_url": "https://api.discogs.com/artists/387583",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Bell",
+     "id": 108893,
+     "join": "",
+     "name": "Ronald Bell",
+     "resource_url": "https://api.discogs.com/artists/108893",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Sparrow",
+     "id": 387578,
+     "join": "",
+     "name": "Woody Sparrow",
+     "resource_url": "https://api.discogs.com/artists/387578",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Send It On",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "Ahmir Thompson",
+     "id": 12473,
+     "join": "",
+     "name": "Ahmir '?uestlove' Thompson",
+     "resource_url": "https://api.discogs.com/artists/12473",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21363,
+     "join": "",
+     "name": "James Poyser",
+     "resource_url": "https://api.discogs.com/artists/21363",
+     "role": "Trumpet",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Thompson",
+     "id": 12473,
+     "join": "",
+     "name": "Ahmir '?uestlove' Thompson",
+     "resource_url": "https://api.discogs.com/artists/12473",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Poyser",
+     "id": 21363,
+     "join": "",
+     "name": "James Poyser",
+     "resource_url": "https://api.discogs.com/artists/21363",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Chicken Grease",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "One Mo' Gin",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 37565,
+     "join": "",
+     "name": "Charlie Hunter",
+     "resource_url": "https://api.discogs.com/artists/37565",
+     "role": "Bass, Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Hunter",
+     "id": 37565,
+     "join": "",
+     "name": "Charlie Hunter",
+     "resource_url": "https://api.discogs.com/artists/37565",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "The Root",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 37565,
+     "join": "",
+     "name": "Charlie Hunter",
+     "resource_url": "https://api.discogs.com/artists/37565",
+     "role": "Bass, Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Ahmir Thompson",
+     "id": 12473,
+     "join": "",
+     "name": "Ahmir '?uestlove' Thompson",
+     "resource_url": "https://api.discogs.com/artists/12473",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 99438,
+     "join": "",
+     "name": "Roy Hargrove",
+     "resource_url": "https://api.discogs.com/artists/99438",
+     "role": "Horns",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Hargrove",
+     "id": 99438,
+     "join": "",
+     "name": "Roy Hargrove",
+     "resource_url": "https://api.discogs.com/artists/99438",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Spanish Joint",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "Ahmir Thompson",
+     "id": 12473,
+     "join": "",
+     "name": "Ahmir '?uestlove' Thompson",
+     "resource_url": "https://api.discogs.com/artists/12473",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "E. McDaniels",
+     "id": 202252,
+     "join": "",
+     "name": "Eugene McDaniels",
+     "resource_url": "https://api.discogs.com/artists/202252",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Feel Like Makin' Love",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 37565,
+     "join": "",
+     "name": "Charlie Hunter",
+     "resource_url": "https://api.discogs.com/artists/37565",
+     "role": "Arranged By [Music], Bass, Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "Ahmir Thompson",
+     "id": 12473,
+     "join": "",
+     "name": "Ahmir '?uestlove' Thompson",
+     "resource_url": "https://api.discogs.com/artists/12473",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Thompson",
+     "id": 12473,
+     "join": "",
+     "name": "Ahmir '?uestlove' Thompson",
+     "resource_url": "https://api.discogs.com/artists/12473",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Stone",
+     "id": 31752,
+     "join": "",
+     "name": "Angie Stone",
+     "resource_url": "https://api.discogs.com/artists/31752",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Hunter",
+     "id": 37565,
+     "join": "",
+     "name": "Charlie Hunter",
+     "resource_url": "https://api.discogs.com/artists/37565",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Greatdayndamornin' / Booty",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 72461,
+     "join": "",
+     "name": "Raphael Saadiq",
+     "resource_url": "https://api.discogs.com/artists/72461",
+     "role": "Arranged By [Music], Bass, Co-producer, Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Saadiq",
+     "id": 72461,
+     "join": "",
+     "name": "Raphael Saadiq",
+     "resource_url": "https://api.discogs.com/artists/72461",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Untitled (How Does It Feel)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Ahmir Thompson",
+     "id": 12473,
+     "join": "",
+     "name": "Ahmir '?uestlove' Thompson",
+     "resource_url": "https://api.discogs.com/artists/12473",
+     "role": "Drums",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Edward Alford",
+     "id": 616038,
+     "join": "",
+     "name": "Chalmers Alford",
+     "resource_url": "https://api.discogs.com/artists/616038",
+     "role": "Guitar",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Africa",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/35397862-DAngelo-Voodoo",
+ "videos": [
+  {
+   "duration": 427,
+   "title": "Playa Playa",
+   "uri": "https://www.youtube.com/watch?v=eo3iqsOH_54"
+  },
+  {
+   "duration": 321,
+   "title": "Devil's Pie",
+   "uri": "https://www.youtube.com/watch?v=pB8HbMlptJE"
+  },
+  {
+   "duration": 300,
+   "title": "D'Angelo - Left & Right",
+   "uri": "https://www.youtube.com/watch?v=eT75hdcOOkU"
+  },
+  {
+   "duration": 317,
+   "title": "The Line",
+   "uri": "https://www.youtube.com/watch?v=a09swTbaSYM"
+  },
+  {
+   "duration": 357,
+   "title": "Send It On",
+   "uri": "https://www.youtube.com/watch?v=cGQ226b6YK8"
+  },
+  {
+   "duration": 279,
+   "title": "Chicken Grease",
+   "uri": "https://www.youtube.com/watch?v=It2s36sL4aM"
+  },
+  {
+   "duration": 374,
+   "title": "One Mo'Gin",
+   "uri": "https://www.youtube.com/watch?v=EQq-KwgolxE"
+  },
+  {
+   "duration": 394,
+   "title": "The Root",
+   "uri": "https://www.youtube.com/watch?v=_nmP0ItiHPk"
+  },
+  {
+   "duration": 345,
+   "title": "Spanish Joint",
+   "uri": "https://www.youtube.com/watch?v=clXS_1NJC_Q"
+  },
+  {
+   "duration": 383,
+   "title": "Feel Like Makin' Love",
+   "uri": "https://www.youtube.com/watch?v=SMuMMhfHaNw"
+  },
+  {
+   "duration": 456,
+   "title": "Greatdayndamornin'/Booty",
+   "uri": "https://www.youtube.com/watch?v=uB64m3xA6GE"
+  },
+  {
+   "duration": 264,
+   "title": "D'Angelo - Untitled (How Does It Feel) (Official Music Video)",
+   "uri": "https://www.youtube.com/watch?v=SxVNOnPyvIU"
+  },
+  {
+   "duration": 374,
+   "title": "Africa",
+   "uri": "https://www.youtube.com/watch?v=P6qz5iiM68c"
+  }
+ ],
+ "year": 2024
+}

@@ -1,0 +1,278 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 1245513,
+   "join": "",
+   "name": "Tame Impala",
+   "resource_url": "https://api.discogs.com/artists/1245513",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/_pZNESCaPzf9bTXRrZjabJO9w0spkDk0q2XRaSnihXY/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyNDU1/MTMtMTQ2NjQ5MTkz/OC04NDAxLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": null,
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "180g"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Rock",
+  "Pop"
+ ],
+ "id": 25167670,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/kE_E7PfOeQu86IjQN4c63o00CzvUNDIWoekkQykt9D4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY3/NjcwLTE2Njg0NzA4/MTctOTA3Ni5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/kE_E7PfOeQu86IjQN4c63o00CzvUNDIWoekkQykt9D4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY3/NjcwLTE2Njg0NzA4/MTctOTA3Ni5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/_FyEIph_NwEQl6bVOt31C7gBJhDq1KXWIdZ9HK-Si00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY3/NjcwLTE2Njg0NzA4/MTctOTA3Ni5qcGVn.jpeg",
+   "width": 597
+  }
+ ],
+ "labels": [
+  {
+   "catno": "7757956",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 8377,
+   "name": "Island Records",
+   "resource_url": "https://api.discogs.com/labels/8377",
+   "thumbnail_url": "https://i.discogs.com/Fxrre24n1gnsNRrmjrwjMC79o2Sp-rGzcuYQ-yqUyUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzNzct/MTYzNjU4Mjc0NC04/MDg5LmpwZWc.jpeg"
+  },
+  {
+   "catno": "7757956",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2311,
+   "name": "Interscope Records",
+   "resource_url": "https://api.discogs.com/labels/2311",
+   "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+  },
+  {
+   "catno": "7757956",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 5810,
+   "name": "Fiction Records",
+   "resource_url": "https://api.discogs.com/labels/5810",
+   "thumbnail_url": "https://i.discogs.com/O4V0SZZJFuTzHyqOsP-H3LKmYY3K7UDUzHEtV58TeHw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4MTAt/MTQ5NzE4MjUwNy02/MTExLmpwZWc.jpeg"
+  },
+  {
+   "catno": "7757956",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 674471,
+   "name": "Caroline International",
+   "resource_url": "https://api.discogs.com/labels/674471",
+   "thumbnail_url": "https://i.discogs.com/Nt3wM31d1nz3mQaLurCegsotqbezLfbcvP-ylDubZyc/rs:fit/g:sm/q:90/h:219/w:454/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY3NDQ3/MS0xNDczNTM4NDY1/LTkyODgucG5n.jpeg"
+  }
+ ],
+ "notes": "Recorded and mixed in Fremantle, Western Australia and Los Angeles, California.\nMastered at Sterling Sound, New Jersey.\n\n℗© 2020 Modular Recordings Pty Ltd under exclusive license to Universal Music Australia Pty Ltd.\nMade in Germany.\n\n \n180 gram black vinyl and gatefold outer sleeve.\nIncludes folded poster insert & printed inner sleeves (see images) \nNo download card.\n\nEndless gratitude to:\nSoph, Glen, Jodie and everyone at Spinning Top,\nNeil, the Namibia production crew, Kristofski, Matt Sav,\nJason Hanan, Billy Amezs, the guys, my fans, my family and my friends.",
+ "released": "2020-02-14",
+ "styles": [
+  "Synth-pop",
+  "Psychedelic Rock",
+  "Soft Rock",
+  "Indie Pop",
+  "Indie Rock"
+ ],
+ "title": "The Slow Rush",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "One More Year",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Instant Destiny",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Borderline",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Posthumous Forgiveness",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Breathe Deeper",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Tomorrow's Dust",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "On Track",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C2",
+   "title": "Lost In Yesterday",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C3",
+   "title": "Is It True",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D1",
+   "title": "It Might Be Time",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D2",
+   "title": "Glimmer",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D3",
+   "title": "One More Hour",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/25167670-Tame-Impala-The-Slow-Rush",
+ "videos": [
+  {
+   "duration": 166,
+   "title": "Tame Impala - The Slow Rush CD Unboxing",
+   "uri": "https://www.youtube.com/watch?v=kHcvlsuXfgg"
+  },
+  {
+   "duration": 323,
+   "title": "Tame Impala - One More Year (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=bMLq3QQK6a8"
+  },
+  {
+   "duration": 289,
+   "title": "Tame Impala, Lil Yachty - Breathe Deeper (Lil Yachty Remix) (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=I-dvJGbVQQ4"
+  },
+  {
+   "duration": 239,
+   "title": "Tame Impala - The Boat I Row (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=j706aSetFbI"
+  },
+  {
+   "duration": 194,
+   "title": "Tame Impala - Instant Destiny (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=hWtY1t_8Y_M"
+  },
+  {
+   "duration": 0,
+   "title": "One More Year (NTS Version)",
+   "uri": "https://www.youtube.com/watch?v=gSe3RcqWX40"
+  },
+  {
+   "duration": 222,
+   "title": "Tame Impala - No Choice (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=m8rMFXG-T64"
+  },
+  {
+   "duration": 238,
+   "title": "Tame Impala - Borderline (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=2g5xkLqIElU"
+  },
+  {
+   "duration": 326,
+   "title": "Is It True (Four Tet Remix)",
+   "uri": "https://www.youtube.com/watch?v=RHYERYTHazc"
+  },
+  {
+   "duration": 367,
+   "title": "Tame Impala - Posthumous Forgiveness (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=44lWO3qhQMk"
+  },
+  {
+   "duration": 373,
+   "title": "Tame Impala - Breathe Deeper (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=gs-MtItyOFc"
+  },
+  {
+   "duration": 327,
+   "title": "Tame Impala - Tomorrow's Dust (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=NUdPieYQ6OA"
+  },
+  {
+   "duration": 362,
+   "title": "Tame Impala - Patience (Maurice Fulton Remix) (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=SK-kLeNJ5V4"
+  },
+  {
+   "duration": 302,
+   "title": "Tame Impala - On Track (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=XlmpIRFeI8I"
+  },
+  {
+   "duration": 440,
+   "title": "Tame Impala - Borderline (Blood Orange Remix / Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=6NB8wVFgK5Q"
+  },
+  {
+   "duration": 260,
+   "title": "Tame Impala - Lost in Yesterday (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=utCjuKDXQsE"
+  },
+  {
+   "duration": 239,
+   "title": "Tame Impala - Is It True (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=qLGwIHjhboA"
+  },
+  {
+   "duration": 275,
+   "title": "Tame Impala - It Might Be Time (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=4hZ_wTx_kWg"
+  },
+  {
+   "duration": 129,
+   "title": "Tame Impala - Glimmer (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=KsfxIgOtROk"
+  },
+  {
+   "duration": 434,
+   "title": "Tame Impala - One More Hour (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=Y0U6u2D8cMU"
+  },
+  {
+   "duration": 293,
+   "title": "Tame Impala - Patience (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=rUmV-MorIKc"
+  },
+  {
+   "duration": 99,
+   "title": "THE SLOW RUSH",
+   "uri": "https://www.youtube.com/watch?v=sR9d5doziDs"
+  }
+ ],
+ "year": 2020
+}

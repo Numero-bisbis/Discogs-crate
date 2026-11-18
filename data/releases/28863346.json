@@ -1,0 +1,234 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 29812,
+   "join": "/",
+   "name": "Willie Colón",
+   "resource_url": "https://api.discogs.com/artists/29812",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/edCPE0-wI0EH6pVO9F6R9SejA1cmBl0QxIS4Hlq585M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI5ODEy/LTE3MDcwMzMwMzkt/Mzg0Ni5wbmc.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 38204,
+   "join": "",
+   "name": "Hector Lavoe",
+   "resource_url": "https://api.discogs.com/artists/38204",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Fb5qVoZfF1ltUm6syW4Ctd282ytmZuyqlI6KMroTxUY/rs:fit/g:sm/q:90/h:600/w:465/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4MjA0/LTE3Nzk2NDcxMjMt/OTg4Ny5wbmc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Latin"
+ ],
+ "id": 28863346,
+ "images": [
+  {
+   "height": 596,
+   "resource_url": "https://i.discogs.com/dZlFNFzADRjzhIqAX0kux6Of5xX0ja2kdIrHsNf0Ke0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODYz/MzQ2LTE3MjU4MTkx/NjgtNzY0Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/dZlFNFzADRjzhIqAX0kux6Of5xX0ja2kdIrHsNf0Ke0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODYz/MzQ2LTE3MjU4MTkx/NjgtNzY0Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/mDYmEjJRgvqa0KPP5EnzBw_KJHUfy3md-nphNabHTY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODYz/MzQ2LTE3MjU4MTkx/NjgtNzY0Ny5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "CR00647",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1266884,
+   "name": "Craft Recordings",
+   "resource_url": "https://api.discogs.com/labels/1266884",
+   "thumbnail_url": "https://i.discogs.com/_CuY2BgOyZaO5IWMIRt1d-00YmMhKwEGZZVGNYYrN3o/rs:fit/g:sm/q:90/h:600/w:475/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyNjY4/ODQtMTUwMDA0MDU1/Ni04ODA1LmpwZWc.jpeg"
+  },
+  {
+   "catno": "CR00647",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2457964,
+   "name": "Craft Recordings Latino",
+   "resource_url": "https://api.discogs.com/labels/2457964",
+   "thumbnail_url": "https://i.discogs.com/SGDdSt8s8CEvwn9PapRtSXijdpDkFaw8zX3Caha7yyM/rs:fit/g:sm/q:90/h:252/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI0NTc5/NjQtMTcwMzY4MDIy/My00NzQ4LnBuZw.jpeg"
+  },
+  {
+   "catno": "CR00647",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 36950,
+   "name": "Fania Records",
+   "resource_url": "https://api.discogs.com/labels/36950",
+   "thumbnail_url": "https://i.discogs.com/y5-U-nukJzqSWFonI3oqT9GwaRESk_qCkHiIFePJ5aw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2OTUw/LTE1NzcyOTc0MzEt/Mzg4My5wbmc.jpeg"
+  }
+ ],
+ "notes": "℗ 2023 & © 1983 Craft Recordings.\n\nFania soundtrack to the ultra-rare film Vigilante\n\nWillie Colón and Hector Lavoe's final studio collaboration\n\nPressed on 180-gram vinyl",
+ "released": "2023-11-03",
+ "styles": [
+  "Salsa"
+ ],
+ "title": "Vigilante",
+ "tracklist": [
+  {
+   "duration": "6:05",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 38204,
+     "join": "",
+     "name": "Hector Lavoe",
+     "resource_url": "https://api.discogs.com/artists/38204",
+     "role": "Lead Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Luis Lopez Cabán",
+     "id": 1573705,
+     "join": "",
+     "name": "Luis López Cabán",
+     "resource_url": "https://api.discogs.com/artists/1573705",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Triste Y Vacia",
+   "type_": "track"
+  },
+  {
+   "duration": "12:23",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 29812,
+     "join": "",
+     "name": "Willie Colón",
+     "resource_url": "https://api.discogs.com/artists/29812",
+     "role": "Written-By, Lead Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Vigilante",
+   "type_": "track"
+  },
+  {
+   "duration": "7:34",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 38204,
+     "join": "",
+     "name": "Hector Lavoe",
+     "resource_url": "https://api.discogs.com/artists/38204",
+     "role": "Lead Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Curet Alonso",
+     "id": 2218992,
+     "join": "",
+     "name": "Catalino Curet Alonso",
+     "resource_url": "https://api.discogs.com/artists/2218992",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Juanito Alimaña",
+   "type_": "track"
+  },
+  {
+   "duration": "11:34",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 38204,
+     "join": "",
+     "name": "Hector Lavoe",
+     "resource_url": "https://api.discogs.com/artists/38204",
+     "role": "Lead Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 29812,
+     "join": "",
+     "name": "Willie Colón",
+     "resource_url": "https://api.discogs.com/artists/29812",
+     "role": "Lead Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Curet Alonso",
+     "id": 2218992,
+     "join": "",
+     "name": "Catalino Curet Alonso",
+     "resource_url": "https://api.discogs.com/artists/2218992",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 29812,
+     "join": "",
+     "name": "Willie Colón",
+     "resource_url": "https://api.discogs.com/artists/29812",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Pase La Noche Fumando",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/28863346-Willie-Colón-Hector-Lavoe-Vigilante",
+ "videos": [
+  {
+   "duration": 0,
+   "title": "Willie Colón & Héctor Lavoe - Vigilante (Audio Oficial)",
+   "uri": "https://www.youtube.com/watch?v=p5dSqnZ-omI"
+  },
+  {
+   "duration": 0,
+   "title": "Willie Colón & Héctor Lavoe – Vigilante (Visualizador Oficial)",
+   "uri": "https://www.youtube.com/watch?v=G0D2gQXDZUM"
+  },
+  {
+   "duration": 465,
+   "title": "Willie Colón & Héctor Lavoe – Juanito Alimaña (Visualizador Oficial)",
+   "uri": "https://www.youtube.com/watch?v=4IXKI-t0Hp0"
+  },
+  {
+   "duration": 457,
+   "title": "Juanito Alimaña",
+   "uri": "https://www.youtube.com/watch?v=LrVjKqXjjpM"
+  },
+  {
+   "duration": 372,
+   "title": "Triste Y Vacía",
+   "uri": "https://www.youtube.com/watch?v=-1__OUyTG1Q"
+  },
+  {
+   "duration": 0,
+   "title": "Pasé La Noche Fumando",
+   "uri": "https://www.youtube.com/watch?v=2jE9UFJHVhI"
+  }
+ ],
+ "year": 2023
+}

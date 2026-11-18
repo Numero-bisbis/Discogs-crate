@@ -1,0 +1,196 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 44944,
+   "join": "",
+   "name": "D'Angelo",
+   "resource_url": "https://api.discogs.com/artists/44944",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Y2P4gyJxtLjEfHzpP05Vfq9bNYQuGuEHvSJ86kG8410/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ0OTQ0/LTE3ODMwOTMyNjgt/NTc1Ni5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "180g"
+  }
+ ],
+ "genres": [
+  "Funk / Soul"
+ ],
+ "id": 7409818,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/hR0Z_iqYyv_h0SW3qQT6CIwiSurPQeijXBgOFCMkOw0/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDk4/MTgtMTQ0MDkyNTM5/NC00NDUzLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/hR0Z_iqYyv_h0SW3qQT6CIwiSurPQeijXBgOFCMkOw0/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDk4/MTgtMTQ0MDkyNTM5/NC00NDUzLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/favx_67jfCSVaOQ0-ajQ7fI9V9lKEc8qyIblb6WI8_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDk4/MTgtMTQ0MDkyNTM5/NC00NDUzLmpwZWc.jpeg",
+   "width": 589
+  }
+ ],
+ "labels": [
+  {
+   "catno": "00602547240811",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 750,
+   "name": "Virgin",
+   "resource_url": "https://api.discogs.com/labels/750",
+   "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+  }
+ ],
+ "notes": "2015 Virgin/UMC 180 gram vinyl 2xLP reissue as part of their Back to Black series. Includes download code.\n\nMade in the EU.\n\nSome copies came without download code.",
+ "released": "2015-08-00",
+ "styles": [
+  "Soul",
+  "Neo Soul",
+  "Contemporary R&B"
+ ],
+ "title": "Brown Sugar",
+ "tracklist": [
+  {
+   "duration": "4:22",
+   "position": "A1",
+   "title": "Brown Sugar",
+   "type_": "track"
+  },
+  {
+   "duration": "5:15",
+   "position": "A2",
+   "title": "Alright",
+   "type_": "track"
+  },
+  {
+   "duration": "5:56",
+   "position": "A3",
+   "title": "Jonz In My Bonz",
+   "type_": "track"
+  },
+  {
+   "duration": "4:46",
+   "position": "B1",
+   "title": "Me And Those Dreamin' Eyes Of Mine",
+   "type_": "track"
+  },
+  {
+   "duration": "5:14",
+   "position": "B2",
+   "title": "Sh*t, Damn, Motherf*cker",
+   "type_": "track"
+  },
+  {
+   "duration": "4:18",
+   "position": "B3",
+   "title": "Smooth",
+   "type_": "track"
+  },
+  {
+   "duration": "6:28",
+   "position": "C1",
+   "title": "Cruisin'",
+   "type_": "track"
+  },
+  {
+   "duration": "5:48",
+   "position": "C2",
+   "title": "When We Get By",
+   "type_": "track"
+  },
+  {
+   "duration": "5:47",
+   "position": "D1",
+   "title": "Lady",
+   "type_": "track"
+  },
+  {
+   "duration": "5:27",
+   "position": "D2",
+   "title": "Higher",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/7409818-DAngelo-Brown-Sugar",
+ "videos": [
+  {
+   "duration": 274,
+   "title": "D'Angelo - Brown Sugar (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=H_WzjiTzZBA"
+  },
+  {
+   "duration": 271,
+   "title": "D'Angelo - Cruisin' (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=JAfuUZRou7g"
+  },
+  {
+   "duration": 268,
+   "title": "D'Angelo - Lady (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=YBB8valskCQ"
+  },
+  {
+   "duration": 277,
+   "title": "D'Angelo - Me And Those Dreamin' Eyes Of Mine (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=h3y2aP0B4Ic"
+  },
+  {
+   "duration": 263,
+   "title": "Brown Sugar",
+   "uri": "https://www.youtube.com/watch?v=Uon7iKGqqaA"
+  },
+  {
+   "duration": 314,
+   "title": "Alright",
+   "uri": "https://www.youtube.com/watch?v=hF7j3ak7fRw"
+  },
+  {
+   "duration": 356,
+   "title": "Jonz In My Bonz",
+   "uri": "https://www.youtube.com/watch?v=L1IQN_iMtSw"
+  },
+  {
+   "duration": 287,
+   "title": "Me And Those Dreamin' Eyes Of Mine",
+   "uri": "https://www.youtube.com/watch?v=GqUUFuxpiSk"
+  },
+  {
+   "duration": 315,
+   "title": "Sh*t, Damn, Motherf*cker",
+   "uri": "https://www.youtube.com/watch?v=qEs17xCcYKU"
+  },
+  {
+   "duration": 260,
+   "title": "Smooth",
+   "uri": "https://www.youtube.com/watch?v=Dlxzal0eta4"
+  },
+  {
+   "duration": 385,
+   "title": "Cruisin'",
+   "uri": "https://www.youtube.com/watch?v=6MWFfx4UM_s"
+  },
+  {
+   "duration": 345,
+   "title": "When We Get By",
+   "uri": "https://www.youtube.com/watch?v=bQljCHQudM4"
+  },
+  {
+   "duration": 347,
+   "title": "Lady",
+   "uri": "https://www.youtube.com/watch?v=m1WkZtA6QVk"
+  },
+  {
+   "duration": 328,
+   "title": "Higher",
+   "uri": "https://www.youtube.com/watch?v=XQ0WuIggk8U"
+  }
+ ],
+ "year": 2015
+}
