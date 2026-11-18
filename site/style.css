@@ -905,11 +905,13 @@ body.decks-on { overflow: hidden; }
 .linkish { background: none; padding: 0; font-size: inherit; color: var(--accent); }
 .linkish:hover { background: none; }
 .vseries { margin: -6px 0 16px; max-width: 260px; }
-.vtiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 1px; background: var(--sep); border-radius: 10px; overflow: hidden; margin: 0 0 26px; }
+.vtiles { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; background: var(--sep); border-radius: 10px; overflow: hidden; margin: 0 0 26px; }
 .vtile { background: var(--panel); padding: 12px 14px; }
+/* four tiles: two rows of two on a phone, one row on a wider screen, so no cell is left empty */
+@media (min-width: 600px) { .vtiles { grid-template-columns: repeat(4, 1fr); } }
+.vtiles.one { grid-template-columns: 1fr; }
 .vtile small { display: block; color: var(--muted); font-size: 12px; }
 .vtile b { font-size: 19px; font-weight: 600; font-variant-numeric: tabular-nums; }
-.vtile b span { color: var(--muted); font-weight: 400; font-size: 14px; }
 .vsec { margin-bottom: 26px; }
 .vsec-h { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 10px; }
 .vsec-h h2 { margin: 0; font-size: 20px; font-weight: 700; }
