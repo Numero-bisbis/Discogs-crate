@@ -4763,11 +4763,12 @@
      {
       "descriptions": [
        "LP",
-       "Album"
+       "Album",
+       "Stereo"
       ],
       "name": "Vinyl",
       "qty": "2",
-      "text": "180 Gram, Gatefold"
+      "text": "180 Gram"
      }
     ],
     "genres": [
