@@ -1,0 +1,1538 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3268,
+   "join": "",
+   "name": "A Tribe Called Quest",
+   "resource_url": "https://api.discogs.com/artists/3268",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/0aZ2ZFRwf_b2PHr1bXlQ6fMi0BartrUL2Is0853W8gk/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyNjgt/MTY2Mzg3MTI0OS0z/MzY1LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation",
+    "Reissue",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 33136065,
+ "images": [
+  {
+   "height": 589,
+   "resource_url": "https://i.discogs.com/2kF8yDV0-wFGuQAE317tlHjHoMaxJctT7FWIC3DrNuY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM2/MDY1LTE3Mzk1Mzgz/NzItOTg2Ny5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/2kF8yDV0-wFGuQAE317tlHjHoMaxJctT7FWIC3DrNuY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM2/MDY1LTE3Mzk1Mzgz/NzItOTg2Ny5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/V3_crvZoUX_A_Vnq3s0PbwIM_X17KoqlAFqyUvkdWUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM2/MDY1LTE3Mzk1Mzgz/NzItOTg2Ny5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "19658884891",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2186,
+   "name": "Jive",
+   "resource_url": "https://api.discogs.com/labels/2186",
+   "thumbnail_url": "https://i.discogs.com/3J0SCKFIbjR_SdRGnWplHALEksrM5LsZr067Z2nKUV4/rs:fit/g:sm/q:90/h:160/w:239/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxODYt/MTIyNzA5NjExNS5w/bmc.jpeg"
+  },
+  {
+   "catno": "19658884891",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 15491,
+   "name": "Legacy",
+   "resource_url": "https://api.discogs.com/labels/15491",
+   "thumbnail_url": "https://i.discogs.com/jk2im_GXsDlf_1qNdX0KOoZUX6ivAIvgJH0TEBVW7ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDkx/LTE0OTg4MzQ3MDgt/NzQwOS5wbmc.jpeg"
+  },
+  {
+   "catno": "19658884891",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  }
+ ],
+ "notes": "Made in The EU.\n\nWorldwide excluding North America.",
+ "released": "2025-02-14",
+ "styles": [
+  "Conscious",
+  "Boom Bap",
+  "Jazzy Hip-Hop"
+ ],
+ "title": "Hits, Rarities & Remixes",
+ "tracklist": [
+  {
+   "duration": "4:00",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3268,
+     "join": "",
+     "name": "A Tribe Called Quest",
+     "resource_url": "https://api.discogs.com/artists/3268",
+     "role": "Producer [Produced By], Remix",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Oh My God (Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:27",
+   "extraartists": [
+    {
+     "anv": "Trugoy",
+     "id": 31718,
+     "join": "",
+     "name": "Trugoy The Dove",
+     "resource_url": "https://api.discogs.com/artists/31718",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3268,
+     "join": "",
+     "name": "A Tribe Called Quest",
+     "resource_url": "https://api.discogs.com/artists/3268",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 64694,
+     "join": "",
+     "name": "Dizzy Gillespie",
+     "resource_url": "https://api.discogs.com/artists/64694",
+     "role": "Written-By [Portion Of The Composition \"Olinga, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 20585,
+     "join": "",
+     "name": "Weldon Irvine",
+     "resource_url": "https://api.discogs.com/artists/20585",
+     "role": "Written-By [Sample From \"We Gettin' Down, \" Written By], Performer [Sample From \"We Gettin' Down, \" Performed By]",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Award Tour",
+   "type_": "track"
+  },
+  {
+   "duration": "4:26",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 29961,
+     "join": "",
+     "name": "Lonnie Smith",
+     "resource_url": "https://api.discogs.com/artists/29961",
+     "role": "Performer [Sample From \"Spinning Wheel, \" Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3268,
+     "join": "",
+     "name": "A Tribe Called Quest",
+     "resource_url": "https://api.discogs.com/artists/3268",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Reed",
+     "id": 11879,
+     "join": "",
+     "name": "Lou Reed",
+     "resource_url": "https://api.discogs.com/artists/11879",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 11879,
+     "join": "",
+     "name": "Lou Reed",
+     "resource_url": "https://api.discogs.com/artists/11879",
+     "role": "Written-By [Sample From \"Walk On The Wild Side, \" Written By], Performer [Sample From \"Walk On The Wild Side, \" Performed By]",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Can I Kick It?",
+   "type_": "track"
+  },
+  {
+   "duration": "4:32",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 37906,
+     "join": "",
+     "name": "Busta Rhymes",
+     "resource_url": "https://api.discogs.com/artists/37906",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3268,
+     "join": "",
+     "name": "A Tribe Called Quest",
+     "resource_url": "https://api.discogs.com/artists/3268",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Shaheed Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Smith",
+     "id": 640089,
+     "join": "",
+     "name": "Trevor Smith (4)",
+     "resource_url": "https://api.discogs.com/artists/640089",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "One, Two, S**t",
+   "type_": "track"
+  },
+  {
+   "duration": "3:44",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3268,
+     "join": "",
+     "name": "A Tribe Called Quest",
+     "resource_url": "https://api.discogs.com/artists/3268",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Foster",
+     "id": 29957,
+     "join": "",
+     "name": "Ronnie Foster",
+     "resource_url": "https://api.discogs.com/artists/29957",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 29957,
+     "join": "",
+     "name": "Ronnie Foster",
+     "resource_url": "https://api.discogs.com/artists/29957",
+     "role": "Written-By [Sample From \"Mystic Brew, \" Written By], Performer [Sample From \"Mystic Brew, \" Performed By]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Electric Relaxation",
+   "type_": "track"
+  },
+  {
+   "duration": "3:49",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3268,
+     "join": "",
+     "name": "A Tribe Called Quest",
+     "resource_url": "https://api.discogs.com/artists/3268",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Mr. Incognito",
+   "type_": "track"
+  },
+  {
+   "duration": "4:05",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 59247,
+     "join": "",
+     "name": "The Chambers Brothers",
+     "resource_url": "https://api.discogs.com/artists/59247",
+     "role": "Performer [Sample From Let's Get Funky, \" Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3268,
+     "join": "",
+     "name": "A Tribe Called Quest",
+     "resource_url": "https://api.discogs.com/artists/3268",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1023152,
+     "join": "",
+     "name": "George Chambers (3)",
+     "resource_url": "https://api.discogs.com/artists/1023152",
+     "role": "Written-By [Sample From \"Let's Get Funky, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "Joseph L. Chambers",
+     "id": 721577,
+     "join": "",
+     "name": "Joseph Chambers",
+     "resource_url": "https://api.discogs.com/artists/721577",
+     "role": "Written-By [Sample From \"Let's Get Funky, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 690430,
+     "join": "",
+     "name": "Lester Chambers",
+     "resource_url": "https://api.discogs.com/artists/690430",
+     "role": "Written-By [Sample From \"Let's Get Funky, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "Willie M. Chambers",
+     "id": 721574,
+     "join": "",
+     "name": "Willie Chambers",
+     "resource_url": "https://api.discogs.com/artists/721574",
+     "role": "Written-By [Sample From \"Let's Get Funky, \" Written By]",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "I Left My Wallet In El Segundo",
+   "type_": "track"
+  },
+  {
+   "duration": "3:36",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 61686,
+     "join": "",
+     "name": "Minnie Riperton",
+     "resource_url": "https://api.discogs.com/artists/61686",
+     "role": "Performer [Sample From \"Baby This Love I Have, \" Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 29815,
+     "join": "",
+     "name": "Steve Miller Band",
+     "resource_url": "https://api.discogs.com/artists/29815",
+     "role": "Performer [Sample From \"Fly Like An Eagle, \" Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "The Average White Band",
+     "id": 97073,
+     "join": "",
+     "name": "Average White Band",
+     "resource_url": "https://api.discogs.com/artists/97073",
+     "role": "Performer [Sample From \"Love Your Life, \" Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3268,
+     "join": "",
+     "name": "A Tribe Called Quest",
+     "resource_url": "https://api.discogs.com/artists/3268",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Ware",
+     "id": 21259,
+     "join": "",
+     "name": "Leon Ware",
+     "resource_url": "https://api.discogs.com/artists/21259",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Riperton",
+     "id": 61686,
+     "join": "",
+     "name": "Minnie Riperton",
+     "resource_url": "https://api.discogs.com/artists/61686",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Rudolph",
+     "id": 187811,
+     "join": "",
+     "name": "Richard Rudolph",
+     "resource_url": "https://api.discogs.com/artists/187811",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 21259,
+     "join": "",
+     "name": "Leon Ware",
+     "resource_url": "https://api.discogs.com/artists/21259",
+     "role": "Written-By [Sample From \"Baby This Love I Have, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 61686,
+     "join": "",
+     "name": "Minnie Riperton",
+     "resource_url": "https://api.discogs.com/artists/61686",
+     "role": "Written-By [Sample From \"Baby This Love I Have, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "Richard J. Rudolph",
+     "id": 187811,
+     "join": "",
+     "name": "Richard Rudolph",
+     "resource_url": "https://api.discogs.com/artists/187811",
+     "role": "Written-By [Sample From \"Baby This Love I Have, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "Alan E. Gorrie",
+     "id": 304704,
+     "join": "",
+     "name": "Alan Gorrie",
+     "resource_url": "https://api.discogs.com/artists/304704",
+     "role": "Written-By [Sample From \"Love Your Life, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "James Stewart",
+     "id": 321380,
+     "join": "",
+     "name": "Hamish Stuart",
+     "resource_url": "https://api.discogs.com/artists/321380",
+     "role": "Written-By [Sample From \"Love Your Life, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 262494,
+     "join": "",
+     "name": "Malcolm Duncan",
+     "resource_url": "https://api.discogs.com/artists/262494",
+     "role": "Written-By [Sample From \"Love Your Life, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "Owen Onnie McIntyre",
+     "id": 275027,
+     "join": "",
+     "name": "Onnie McIntyre",
+     "resource_url": "https://api.discogs.com/artists/275027",
+     "role": "Written-By [Sample From \"Love Your Life, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 142833,
+     "join": "",
+     "name": "Roger Ball",
+     "resource_url": "https://api.discogs.com/artists/142833",
+     "role": "Written-By [Sample From \"Love Your Life, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "Stephen Ferrone",
+     "id": 241521,
+     "join": "",
+     "name": "Steve Ferrone",
+     "resource_url": "https://api.discogs.com/artists/241521",
+     "role": "Written-By [Sample From \"Love Your Life, \" Written By]",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Check The Rhime",
+   "type_": "track"
+  },
+  {
+   "duration": "3:49",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 60450,
+     "join": "",
+     "name": "The Crusaders",
+     "resource_url": "https://api.discogs.com/artists/60450",
+     "role": "Performer [Sample From \"Cosmic Reign, \" Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3268,
+     "join": "",
+     "name": "A Tribe Called Quest",
+     "resource_url": "https://api.discogs.com/artists/3268",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 149841,
+     "join": "",
+     "name": "Tumblin' Dice",
+     "resource_url": "https://api.discogs.com/artists/149841",
+     "role": "Remix [Remixed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Popwell",
+     "id": 605836,
+     "join": "",
+     "name": "Robert Popwell",
+     "resource_url": "https://api.discogs.com/artists/605836",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 605836,
+     "join": "",
+     "name": "Robert Popwell",
+     "resource_url": "https://api.discogs.com/artists/605836",
+     "role": "Written-By [Sample From \"Cosmic Reign, \" Written By]",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Lyrics To Go (Tumblin Dice Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "4:10",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 37906,
+     "join": "",
+     "name": "Busta Rhymes",
+     "resource_url": "https://api.discogs.com/artists/37906",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 98878,
+     "join": "",
+     "name": "Charlie Brown",
+     "resource_url": "https://api.discogs.com/artists/98878",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 172952,
+     "join": "",
+     "name": "Dinco D",
+     "resource_url": "https://api.discogs.com/artists/172952",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 27990,
+     "join": "",
+     "name": "Brother Jack McDuff",
+     "resource_url": "https://api.discogs.com/artists/27990",
+     "role": "Performer [Sample From \"Oblighetto, \" Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3268,
+     "join": "",
+     "name": "A Tribe Called Quest",
+     "resource_url": "https://api.discogs.com/artists/3268",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Higgins",
+     "id": 684336,
+     "join": "",
+     "name": "Bryan Higgins",
+     "resource_url": "https://api.discogs.com/artists/684336",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "P. Jackson",
+     "id": 684328,
+     "join": "",
+     "name": "James Jackson",
+     "resource_url": "https://api.discogs.com/artists/684328",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Smith",
+     "id": 640089,
+     "join": "",
+     "name": "Trevor Smith (4)",
+     "resource_url": "https://api.discogs.com/artists/640089",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Scenario",
+   "type_": "track"
+  },
+  {
+   "duration": "4:23",
+   "extraartists": [
+    {
+     "anv": "The Mahavishnu Orchestra",
+     "id": 70826,
+     "join": "",
+     "name": "Mahavishnu Orchestra",
+     "resource_url": "https://api.discogs.com/artists/70826",
+     "role": "Performer [Sample From \"Miles Beyond, \" Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3268,
+     "join": "",
+     "name": "A Tribe Called Quest",
+     "resource_url": "https://api.discogs.com/artists/3268",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 136179,
+     "join": "",
+     "name": "John McLaughlin",
+     "resource_url": "https://api.discogs.com/artists/136179",
+     "role": "Written-By [Sample From \"Miles Beyond, \" Written By]",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Same Ol' Thing",
+   "type_": "track"
+  },
+  {
+   "duration": "3:37",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3268,
+     "join": "",
+     "name": "A Tribe Called Quest",
+     "resource_url": "https://api.discogs.com/artists/3268",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Buggin' Out",
+   "type_": "track"
+  },
+  {
+   "duration": "3:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 162685,
+     "join": "",
+     "name": "Ramp (3)",
+     "resource_url": "https://api.discogs.com/artists/162685",
+     "role": "Performer [Sample From \"Daylight, \" Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 61585,
+     "join": "",
+     "name": "Cannonball Adderley",
+     "resource_url": "https://api.discogs.com/artists/61585",
+     "role": "Performer [Sample From \"Soul Virgo, \" Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3268,
+     "join": "",
+     "name": "A Tribe Called Quest",
+     "resource_url": "https://api.discogs.com/artists/3268",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Stepney",
+     "id": 195568,
+     "join": "",
+     "name": "Charles Stepney",
+     "resource_url": "https://api.discogs.com/artists/195568",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Birdsong",
+     "id": 141386,
+     "join": "",
+     "name": "Edwin Birdsong",
+     "resource_url": "https://api.discogs.com/artists/141386",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Ayers",
+     "id": 2265,
+     "join": "",
+     "name": "Roy Ayers",
+     "resource_url": "https://api.discogs.com/artists/2265",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Booker",
+     "id": 274390,
+     "join": "",
+     "name": "Walter Booker",
+     "resource_url": "https://api.discogs.com/artists/274390",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Allen",
+     "id": 168537,
+     "join": "",
+     "name": "William Allen",
+     "resource_url": "https://api.discogs.com/artists/168537",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 141386,
+     "join": "",
+     "name": "Edwin Birdsong",
+     "resource_url": "https://api.discogs.com/artists/141386",
+     "role": "Written-By [Sample From \"Daylight, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2265,
+     "join": "",
+     "name": "Roy Ayers",
+     "resource_url": "https://api.discogs.com/artists/2265",
+     "role": "Written-By [Sample From \"Daylight, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 168537,
+     "join": "",
+     "name": "William Allen",
+     "resource_url": "https://api.discogs.com/artists/168537",
+     "role": "Written-By [Sample From \"Daylight, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 195568,
+     "join": "",
+     "name": "Charles Stepney",
+     "resource_url": "https://api.discogs.com/artists/195568",
+     "role": "Written-By [Sample From \"Memory Band, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 274390,
+     "join": "",
+     "name": "Walter Booker",
+     "resource_url": "https://api.discogs.com/artists/274390",
+     "role": "Written-By [Sample From \"Soul Virgo, \" Written By]",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Bonita Applebum",
+   "type_": "track"
+  },
+  {
+   "duration": "4:10",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3268,
+     "join": "",
+     "name": "A Tribe Called Quest",
+     "resource_url": "https://api.discogs.com/artists/3268",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 715404,
+     "join": "",
+     "name": "Bronislaw Kaper",
+     "resource_url": "https://api.discogs.com/artists/715404",
+     "role": "Written-By [Portion Of The Composition \"On Green Dolphin Street, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 299280,
+     "join": "",
+     "name": "Ned Washington",
+     "resource_url": "https://api.discogs.com/artists/299280",
+     "role": "Written-By [Portion Of The Composition \"On Green Dolphin Street, \" Written By]",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Jazz (We've Got)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:38",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 98381,
+     "join": "",
+     "name": "Mountain",
+     "resource_url": "https://api.discogs.com/artists/98381",
+     "role": "Performer [Sample From \"Long Red, \" Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 259877,
+     "join": "",
+     "name": "Felix Pappalardi",
+     "resource_url": "https://api.discogs.com/artists/259877",
+     "role": "Written-By [Sample From \"Long Red, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 641096,
+     "join": "",
+     "name": "John Ventura",
+     "resource_url": "https://api.discogs.com/artists/641096",
+     "role": "Written-By [Sample From \"Long Red, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 327268,
+     "join": "",
+     "name": "Leslie West",
+     "resource_url": "https://api.discogs.com/artists/327268",
+     "role": "Written-By [Sample From \"Long Red, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 860823,
+     "join": "",
+     "name": "Norman Landsberg",
+     "resource_url": "https://api.discogs.com/artists/860823",
+     "role": "Written-By [Sample From \"Long Red, \" Written By]",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Glamour & Glitz",
+   "type_": "track"
+  },
+  {
+   "duration": "3:32",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 86616,
+     "join": "",
+     "name": "The Meters",
+     "resource_url": "https://api.discogs.com/artists/86616",
+     "role": "Performer [Sample From \"Hand Clapping Song, \" Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3268,
+     "join": "",
+     "name": "A Tribe Called Quest",
+     "resource_url": "https://api.discogs.com/artists/3268",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Neville",
+     "id": 294571,
+     "join": "",
+     "name": "Art Neville",
+     "resource_url": "https://api.discogs.com/artists/294571",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. James",
+     "id": 48397,
+     "join": "",
+     "name": "Bob James",
+     "resource_url": "https://api.discogs.com/artists/48397",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G. Porter",
+     "id": 267203,
+     "join": "",
+     "name": "George Porter, Jr.",
+     "resource_url": "https://api.discogs.com/artists/267203",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Modeliste",
+     "id": 211665,
+     "join": "",
+     "name": "Joseph Modeliste",
+     "resource_url": "https://api.discogs.com/artists/211665",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Nocentelli",
+     "id": 211663,
+     "join": "",
+     "name": "Leo Nocentelli",
+     "resource_url": "https://api.discogs.com/artists/211663",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "Arthur Neville",
+     "id": 294571,
+     "join": "",
+     "name": "Art Neville",
+     "resource_url": "https://api.discogs.com/artists/294571",
+     "role": "Written-By [Sample From \"Hand Clapping Song, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 267203,
+     "join": "",
+     "name": "George Porter, Jr.",
+     "resource_url": "https://api.discogs.com/artists/267203",
+     "role": "Written-By [Sample From \"Hand Clapping Song, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 211665,
+     "join": "",
+     "name": "Joseph Modeliste",
+     "resource_url": "https://api.discogs.com/artists/211665",
+     "role": "Written-By [Sample From \"Hand Clapping Song, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 211663,
+     "join": "",
+     "name": "Leo Nocentelli",
+     "resource_url": "https://api.discogs.com/artists/211663",
+     "role": "Written-By [Sample From \"Hand Clapping Song, \" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 48397,
+     "join": "",
+     "name": "Bob James",
+     "resource_url": "https://api.discogs.com/artists/48397",
+     "role": "Written-By [Sample From \"Nautilus, \" Written By]",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Clap Your Hands",
+   "type_": "track"
+  },
+  {
+   "duration": "3:10",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 56441,
+     "join": "",
+     "name": "The Ummah",
+     "resource_url": "https://api.discogs.com/artists/56441",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "The Night He Got Caught",
+   "type_": "track"
+  },
+  {
+   "duration": "3:59",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 56441,
+     "join": "",
+     "name": "The Ummah",
+     "resource_url": "https://api.discogs.com/artists/56441",
+     "role": "Producer [Produced By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D5",
+   "title": "Peace, Prosperity & Paper",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/33136065-A-Tribe-Called-Quest-Hits-Rarities-Remixes",
+ "videos": [
+  {
+   "duration": 230,
+   "title": "Lyrics To Go (Tumblin' Dice Remix)",
+   "uri": "https://www.youtube.com/watch?v=m8OVnhizuBI"
+  },
+  {
+   "duration": 247,
+   "title": "I Left My Wallet in El Segundo",
+   "uri": "https://www.youtube.com/watch?v=pemnd3Igzrg"
+  },
+  {
+   "duration": 252,
+   "title": "Scenario (Edit)",
+   "uri": "https://www.youtube.com/watch?v=sT1eCnmjpwI"
+  },
+  {
+   "duration": 218,
+   "title": "Bonita Applebum",
+   "uri": "https://www.youtube.com/watch?v=dSJ0NEZ8q-8"
+  },
+  {
+   "duration": 230,
+   "title": "Mr. Incognito",
+   "uri": "https://www.youtube.com/watch?v=JMl_37mC4c8"
+  },
+  {
+   "duration": 225,
+   "title": "Electric Relaxation (Relax Yourself Girl)",
+   "uri": "https://www.youtube.com/watch?v=8TLssAArXuM"
+  },
+  {
+   "duration": 242,
+   "title": "Oh My God (Remix)",
+   "uri": "https://www.youtube.com/watch?v=wNt_x9iBGEI"
+  },
+  {
+   "duration": 208,
+   "title": "Award Tour",
+   "uri": "https://www.youtube.com/watch?v=58BTSI869qE"
+  },
+  {
+   "duration": 264,
+   "title": "Same Ol' Thing",
+   "uri": "https://www.youtube.com/watch?v=VAyOmradMHA"
+  },
+  {
+   "duration": 266,
+   "title": "Can I Kick It?",
+   "uri": "https://www.youtube.com/watch?v=FGZoJS8bSeM"
+  },
+  {
+   "duration": 272,
+   "title": "One Two Sh*t",
+   "uri": "https://www.youtube.com/watch?v=6Rdb4NZfhQ0"
+  },
+  {
+   "duration": 220,
+   "title": "A Tribe Called Quest - Check The Rhyme",
+   "uri": "https://www.youtube.com/watch?v=sCvyF4BLzAk"
+  },
+  {
+   "duration": 218,
+   "title": "Buggin' Out",
+   "uri": "https://www.youtube.com/watch?v=P9oTCzWRuvQ"
+  },
+  {
+   "duration": 252,
+   "title": "Jazz (We've Got) (Radio Version)",
+   "uri": "https://www.youtube.com/watch?v=lKm8gVlLbow"
+  },
+  {
+   "duration": 219,
+   "title": "Glamour & Glitz",
+   "uri": "https://www.youtube.com/watch?v=OXT6VDFO4j4"
+  },
+  {
+   "duration": 191,
+   "title": "The Night He Got Caught",
+   "uri": "https://www.youtube.com/watch?v=cynEroc6N94"
+  },
+  {
+   "duration": 213,
+   "title": "Clap Your Hands",
+   "uri": "https://www.youtube.com/watch?v=j-CWBlVP5dk"
+  },
+  {
+   "duration": 240,
+   "title": "Peace, Prosperity & Paper",
+   "uri": "https://www.youtube.com/watch?v=nu8TTX7HbtE"
+  },
+  {
+   "duration": 245,
+   "title": "A Tribe Called Quest - Mr. Incognito",
+   "uri": "https://www.youtube.com/watch?v=0gZg09Q_ECI"
+  }
+ ],
+ "year": 2025
+}

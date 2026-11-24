@@ -1,0 +1,321 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 244751,
+   "join": "",
+   "name": "Skepta",
+   "resource_url": "https://api.discogs.com/artists/244751",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/HlKcPXk9I7KKZEOm43yD9szvm-mVcFaSEAfCxX8abBM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0NDc1/MS0xNzUzNTYzNTc5/LTIxNjQucG5n.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "UK & Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "45 RPM",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 38952324,
+ "images": [
+  {
+   "height": 577,
+   "resource_url": "https://i.discogs.com/89SAjibc8jxPWcFtxD8QRyc7lqGqe_hVD5k-qmwR2XM/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTUy/MzI0LTE3OTM5ODEx/MzYtMzgyMC5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/89SAjibc8jxPWcFtxD8QRyc7lqGqe_hVD5k-qmwR2XM/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTUy/MzI0LTE3OTM5ODEx/MzYtMzgyMC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/NF2yg-sFgyYC5azLr9W4Cu7c8mqCNHDogaGZzKBxOo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTUy/MzI0LTE3OTM5ODEx/MzYtMzgyMC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "19802996891",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1005,
+   "name": "Epic",
+   "resource_url": "https://api.discogs.com/labels/1005",
+   "thumbnail_url": "https://i.discogs.com/Ta8tXFbN3YA4PweFsSHGzpZN1tOertrxyLpgf7OaWCo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDUt/MTc3OTQ5NjYzOC04/Njg3LmpwZWc.jpeg"
+  }
+ ],
+ "notes": null,
+ "released": "2026-11-06",
+ "styles": [
+  "Grime"
+ ],
+ "title": "The Fork And Knife",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Secrets of Patriarchy",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3638864,
+     "join": "",
+     "name": "Novelist (2)",
+     "resource_url": "https://api.discogs.com/artists/3638864",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Outside",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 76037,
+     "join": "",
+     "name": "Project Pat",
+     "resource_url": "https://api.discogs.com/artists/76037",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Cold Shower",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Currency",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Pandora's Box",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Revenge",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 16827154,
+     "join": "",
+     "name": "Finessekid",
+     "resource_url": "https://api.discogs.com/artists/16827154",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Magic",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Gas Me Up",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "Melody",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 12109804,
+     "join": "",
+     "name": "Asake",
+     "resource_url": "https://api.discogs.com/artists/12109804",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Aloe Vera",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C3",
+   "title": "Chippie",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4859364,
+     "join": "",
+     "name": "Central Cee",
+     "resource_url": "https://api.discogs.com/artists/4859364",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5314733,
+     "join": "",
+     "name": "Jorja Smith",
+     "resource_url": "https://api.discogs.com/artists/5314733",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Broken Hearts",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 138585,
+     "join": "",
+     "name": "Chase & Status",
+     "resource_url": "https://api.discogs.com/artists/138585",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 169537,
+     "join": "",
+     "name": "Suggs",
+     "resource_url": "https://api.discogs.com/artists/169537",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Innocent Smile",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "Bossman Birdie",
+     "id": 1807264,
+     "join": "",
+     "name": "Bossman (5)",
+     "resource_url": "https://api.discogs.com/artists/1807264",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 255726,
+     "join": "",
+     "name": "Frisco (2)",
+     "resource_url": "https://api.discogs.com/artists/255726",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 308926,
+     "join": "",
+     "name": "JME (2)",
+     "resource_url": "https://api.discogs.com/artists/308926",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 14538979,
+     "join": "",
+     "name": "Kibo (6)",
+     "resource_url": "https://api.discogs.com/artists/14538979",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 13040601,
+     "join": "",
+     "name": "Kruz Leone (2)",
+     "resource_url": "https://api.discogs.com/artists/13040601",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4039751,
+     "join": "",
+     "name": "Mayhem NODB",
+     "resource_url": "https://api.discogs.com/artists/4039751",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 16322023,
+     "join": "",
+     "name": "Queenie (15)",
+     "resource_url": "https://api.discogs.com/artists/16322023",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Belly",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 8664813,
+     "join": "",
+     "name": "Fred again..",
+     "resource_url": "https://api.discogs.com/artists/8664813",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 15558219,
+     "join": "",
+     "name": "PlaqueBoyMax",
+     "resource_url": "https://api.discogs.com/artists/15558219",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Victory Lap",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/38952324-Skepta-The-Fork-And-Knife",
+ "videos": [],
+ "year": 2026
+}

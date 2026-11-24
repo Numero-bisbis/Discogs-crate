@@ -1,0 +1,418 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 4332385,
+   "join": "",
+   "name": "Leon Bridges",
+   "resource_url": "https://api.discogs.com/artists/4332385",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/SRavFDNSGPqa_kReyNth_kBEAzDSv8pUQK0yZojybBM/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQzMzIz/ODUtMTU3NTUwNTIz/Ni0xMDMyLmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Funk / Soul"
+ ],
+ "id": 33585987,
+ "images": [
+  {
+   "height": 594,
+   "resource_url": "https://i.discogs.com/lAcbYrlUX7-ZBiT4wMtlbTaf2VbDoMADVn8Z6lzFvsE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg1/OTg3LTE3NDM3MDQz/MzctNjYxNC5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/lAcbYrlUX7-ZBiT4wMtlbTaf2VbDoMADVn8Z6lzFvsE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg1/OTg3LTE3NDM3MDQz/MzctNjYxNC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/I_RL5r6C2OeU4VAL0077CgqmJznDSydFVdkwpwQTp0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg1/OTg3LTE3NDM3MDQz/MzctNjYxNC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "88875 08914 1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1866,
+   "name": "Columbia",
+   "resource_url": "https://api.discogs.com/labels/1866",
+   "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+  },
+  {
+   "catno": "88875089141",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1866,
+   "name": "Columbia",
+   "resource_url": "https://api.discogs.com/labels/1866",
+   "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+  },
+  {
+   "catno": "88875 08914 1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  },
+  {
+   "catno": "88875089141",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  }
+ ],
+ "notes": "180 gram vinyl, no MP3 download, no hype sticker on shrink wrap.\nNew MPO pressing where the inner area of both labels does not show the MPO press rings. \n\nAll songs pubslihed by Eartha's Gumbo (ASCAP)/Warneparker Music (ASCAP)/Joshua Block Music (ASCAP) administered by Downtown DLJ Songs/Chris Vivion Music (ASCAP).\n\n© & ℗ 2015 LisaSawyer63, Inc. under exclusive license to Columbia Records. \nMade in the EU.\n\nRunouts are hand-etched in general, except laser-etched MPO logo with following stamper number.\n",
+ "released": "2023",
+ "styles": [
+  "Soul",
+  "Funk",
+  "Rhythm & Blues"
+ ],
+ "title": "Coming Home",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4476167,
+     "join": "",
+     "name": "Gabriel Lawson",
+     "resource_url": "https://api.discogs.com/artists/4476167",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2159081,
+     "join": "",
+     "name": "Andrew Skates",
+     "resource_url": "https://api.discogs.com/artists/2159081",
+     "role": "Piano",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Coming Home",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4476158,
+     "join": "",
+     "name": "Ansley Dougherty",
+     "resource_url": "https://api.discogs.com/artists/4476158",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4476165,
+     "join": "",
+     "name": "Njia Martin",
+     "resource_url": "https://api.discogs.com/artists/4476165",
+     "role": "Backing Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Better Man",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4476159,
+     "join": "",
+     "name": "Paul Andrade",
+     "resource_url": "https://api.discogs.com/artists/4476159",
+     "role": "Backing Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Brown Skin Girl",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1954543,
+     "join": "",
+     "name": "Austin Jenkins (2)",
+     "resource_url": "https://api.discogs.com/artists/1954543",
+     "role": "Acoustic Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2159081,
+     "join": "",
+     "name": "Andrew Skates",
+     "resource_url": "https://api.discogs.com/artists/2159081",
+     "role": "Piano [Wurlitzer Piano]",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Smooth Sailin'",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 12810596,
+     "join": "",
+     "name": "Katie Robertson (6)",
+     "resource_url": "https://api.discogs.com/artists/12810596",
+     "role": "Backing Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "A5",
+   "title": "Shine",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1954543,
+     "join": "",
+     "name": "Austin Jenkins (2)",
+     "resource_url": "https://api.discogs.com/artists/1954543",
+     "role": "Bass",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Lisa Sawyer",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4476162,
+     "join": "",
+     "name": "Brandon Marcel",
+     "resource_url": "https://api.discogs.com/artists/4476162",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2159081,
+     "join": "",
+     "name": "Andrew Skates",
+     "resource_url": "https://api.discogs.com/artists/2159081",
+     "role": "Piano",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Flowers",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4476162,
+     "join": "",
+     "name": "Brandon Marcel",
+     "resource_url": "https://api.discogs.com/artists/4476162",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2159081,
+     "join": "",
+     "name": "Andrew Skates",
+     "resource_url": "https://api.discogs.com/artists/2159081",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3416000,
+     "join": "",
+     "name": "Jeff Dazey",
+     "resource_url": "https://api.discogs.com/artists/3416000",
+     "role": "Piano",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Pull Away",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1954543,
+     "join": "",
+     "name": "Austin Jenkins (2)",
+     "resource_url": "https://api.discogs.com/artists/1954543",
+     "role": "Acoustic Guitar",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Twistin' & Groovin'",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4332385,
+     "join": "",
+     "name": "Leon Bridges",
+     "resource_url": "https://api.discogs.com/artists/4332385",
+     "role": "Acoustic Guitar",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4476158,
+     "join": "",
+     "name": "Ansley Dougherty",
+     "resource_url": "https://api.discogs.com/artists/4476158",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4476165,
+     "join": "",
+     "name": "Njia Martin",
+     "resource_url": "https://api.discogs.com/artists/4476165",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4476159,
+     "join": "",
+     "name": "Paul Andrade",
+     "resource_url": "https://api.discogs.com/artists/4476159",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4476164,
+     "join": "",
+     "name": "Shon Gardner",
+     "resource_url": "https://api.discogs.com/artists/4476164",
+     "role": "Backing Vocals",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "River",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/33585987-Leon-Bridges-Coming-Home",
+ "videos": [
+  {
+   "duration": 141,
+   "title": "Better Man",
+   "uri": "https://www.youtube.com/watch?v=E6TCadcFPNE"
+  },
+  {
+   "duration": 245,
+   "title": "Leon Bridges - Coming Home (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=MTrKkqE9p1o"
+  },
+  {
+   "duration": 207,
+   "title": "Brown Skin Girl",
+   "uri": "https://www.youtube.com/watch?v=wk2duLxAmFE"
+  },
+  {
+   "duration": 184,
+   "title": "Smooth Sailin'",
+   "uri": "https://www.youtube.com/watch?v=jhiK0uXA-QE"
+  },
+  {
+   "duration": 218,
+   "title": "Shine",
+   "uri": "https://www.youtube.com/watch?v=L1rJNNivdlI"
+  },
+  {
+   "duration": 244,
+   "title": "Lisa Sawyer",
+   "uri": "https://www.youtube.com/watch?v=PtlXWd99cYo"
+  },
+  {
+   "duration": 177,
+   "title": "Flowers",
+   "uri": "https://www.youtube.com/watch?v=RgVseMnDXSE"
+  },
+  {
+   "duration": 181,
+   "title": "Pull Away",
+   "uri": "https://www.youtube.com/watch?v=NhmQ_kOsSBc"
+  },
+  {
+   "duration": 252,
+   "title": "Twistin' & Groovin'",
+   "uri": "https://www.youtube.com/watch?v=sjNcVcv8ax0"
+  },
+  {
+   "duration": 157,
+   "title": "There She Goes",
+   "uri": "https://www.youtube.com/watch?v=KlxpKJwNdlg"
+  },
+  {
+   "duration": 177,
+   "title": "Daisy Mae",
+   "uri": "https://www.youtube.com/watch?v=EoJJcvc7J4c"
+  },
+  {
+   "duration": 127,
+   "title": "Here In My Arms",
+   "uri": "https://www.youtube.com/watch?v=qmoLKDAMKJM"
+  },
+  {
+   "duration": 146,
+   "title": "Mississippi Kisses",
+   "uri": "https://www.youtube.com/watch?v=SV3d1U6gEK4"
+  }
+ ],
+ "year": 2023
+}

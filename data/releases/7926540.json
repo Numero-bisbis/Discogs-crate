@@ -1,0 +1,1372 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3268,
+   "join": "",
+   "name": "A Tribe Called Quest",
+   "resource_url": "https://api.discogs.com/artists/3268",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/0aZ2ZFRwf_b2PHr1bXlQ6fMi0BartrUL2Is0853W8gk/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyNjgt/MTY2Mzg3MTI0OS0z/MzY1LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Remastered"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "25th Anniversary, Gatefold, 180 gram"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 7926540,
+ "images": [
+  {
+   "height": 599,
+   "resource_url": "https://i.discogs.com/dUMyb_NJNEp63UWFUOfT7o28GmkYsZuVQ1xuzHzTniQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjY1/NDAtMTQ4NzU0MDMw/NC00ODMzLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/dUMyb_NJNEp63UWFUOfT7o28GmkYsZuVQ1xuzHzTniQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjY1/NDAtMTQ4NzU0MDMw/NC00ODMzLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/VJlsGh7VPg8g5umFsSCIf1dfmhC6DfdFOK0FUMmeS5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjY1/NDAtMTQ4NzU0MDMw/NC00ODMzLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "88875172371",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2186,
+   "name": "Jive",
+   "resource_url": "https://api.discogs.com/labels/2186",
+   "thumbnail_url": "https://i.discogs.com/3J0SCKFIbjR_SdRGnWplHALEksrM5LsZr067Z2nKUV4/rs:fit/g:sm/q:90/h:160/w:239/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxODYt/MTIyNzA5NjExNS5w/bmc.jpeg"
+  },
+  {
+   "catno": "88875172371",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 15491,
+   "name": "Legacy",
+   "resource_url": "https://api.discogs.com/labels/15491",
+   "thumbnail_url": "https://i.discogs.com/jk2im_GXsDlf_1qNdX0KOoZUX6ivAIvgJH0TEBVW7ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDkx/LTE0OTg4MzQ3MDgt/NzQwOS5wbmc.jpeg"
+  },
+  {
+   "catno": "88875172371",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  }
+ ],
+ "notes": "25th anniversary edition with 3 bonus remixes.\n\nMade in the EU.\n\nTrack B3 erroneously credits \"Stevie Wonder\" as performer but in fact the real performer is \"Ramp\". \n\nPressed By and Lacquer Cut At derived from matrix details.\n\nRunouts are etched, except for -37846- which is stamped",
+ "released": "2015-11-13",
+ "styles": [
+  "Conscious",
+  "Boom Bap",
+  "Jazzy Hip-Hop"
+ ],
+ "title": "People's Instinctive Travels And The Paths Of Rhythm",
+ "tracklist": [
+  {
+   "duration": "7:42",
+   "extraartists": [
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G. Washington, Jr.",
+     "id": 236212,
+     "join": "",
+     "name": "Grover Washington, Jr.",
+     "resource_url": "https://api.discogs.com/artists/236212",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 236212,
+     "join": "",
+     "name": "Grover Washington, Jr.",
+     "resource_url": "https://api.discogs.com/artists/236212",
+     "role": "Written-By [Loran's Dance], Performer [Loran's Dance]",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Push It Along",
+   "type_": "track"
+  },
+  {
+   "duration": "4:32",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 98383,
+     "join": "",
+     "name": "Billy Brooks",
+     "resource_url": "https://api.discogs.com/artists/98383",
+     "role": "Performer [Forty Days]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Jackson",
+     "id": 211641,
+     "join": "",
+     "name": "Ray Jackson",
+     "resource_url": "https://api.discogs.com/artists/211641",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 683127,
+     "join": "",
+     "name": "Julius Brooks",
+     "resource_url": "https://api.discogs.com/artists/683127",
+     "role": "Written-By [Forty Days, Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Jackson",
+     "id": 211641,
+     "join": "",
+     "name": "Ray Jackson",
+     "resource_url": "https://api.discogs.com/artists/211641",
+     "role": "Written-By [Forty Days]",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Luck Of Lucien",
+   "type_": "track"
+  },
+  {
+   "duration": "4:39",
+   "extraartists": [
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "After Hours",
+   "type_": "track"
+  },
+  {
+   "duration": "4:00",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 20956,
+     "join": "",
+     "name": "Donald Byrd",
+     "resource_url": "https://api.discogs.com/artists/20956",
+     "role": "Performer [Think Twice]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Ridgell",
+     "id": 824372,
+     "join": "",
+     "name": "Bradley Ridgell",
+     "resource_url": "https://api.discogs.com/artists/824372",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Mizell",
+     "id": 68871,
+     "join": "",
+     "name": "Larry Mizell",
+     "resource_url": "https://api.discogs.com/artists/68871",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Abdullah",
+     "id": 1822327,
+     "join": "",
+     "name": "Sigidi Abdullah",
+     "resource_url": "https://api.discogs.com/artists/1822327",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Wonder",
+     "id": 18956,
+     "join": "",
+     "name": "Stevie Wonder",
+     "resource_url": "https://api.discogs.com/artists/18956",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 18956,
+     "join": "",
+     "name": "Stevie Wonder",
+     "resource_url": "https://api.discogs.com/artists/18956",
+     "role": "Written-By [Sir Duke], Performer [Sir Duke]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 824372,
+     "join": "",
+     "name": "Bradley Ridgell",
+     "resource_url": "https://api.discogs.com/artists/824372",
+     "role": "Written-By [Think Twice]",
+     "tracks": ""
+    },
+    {
+     "anv": "Laurence Mizell",
+     "id": 68871,
+     "join": "",
+     "name": "Larry Mizell",
+     "resource_url": "https://api.discogs.com/artists/68871",
+     "role": "Written-By [Think Twice]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1822327,
+     "join": "",
+     "name": "Sigidi Abdullah",
+     "resource_url": "https://api.discogs.com/artists/1822327",
+     "role": "Written-By [Think Twice]",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Footprints",
+   "type_": "track"
+  },
+  {
+   "duration": "4:06",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 59247,
+     "join": "",
+     "name": "The Chambers Brothers",
+     "resource_url": "https://api.discogs.com/artists/59247",
+     "role": "Performer [Let's Get Funky]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G. Chambers",
+     "id": 1023152,
+     "join": "",
+     "name": "George Chambers (3)",
+     "resource_url": "https://api.discogs.com/artists/1023152",
+     "role": "Written-By [Let's Get Funky]",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Chambers",
+     "id": 721577,
+     "join": "",
+     "name": "Joseph Chambers",
+     "resource_url": "https://api.discogs.com/artists/721577",
+     "role": "Written-By [Let's Get Funky]",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Chambers",
+     "id": 690430,
+     "join": "",
+     "name": "Lester Chambers",
+     "resource_url": "https://api.discogs.com/artists/690430",
+     "role": "Written-By [Let's Get Funky]",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Chambers",
+     "id": 721574,
+     "join": "",
+     "name": "Willie Chambers",
+     "resource_url": "https://api.discogs.com/artists/721574",
+     "role": "Written-By [Let's Get Funky]",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "I Left My Wallet In El Segundo",
+   "type_": "track"
+  },
+  {
+   "duration": "3:45",
+   "extraartists": [
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Pubic Enemy",
+   "type_": "track"
+  },
+  {
+   "duration": "4:11",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 162685,
+     "join": "",
+     "name": "Ramp (3)",
+     "resource_url": "https://api.discogs.com/artists/162685",
+     "role": "Performer [Daylight, Uncredited]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 61585,
+     "join": "",
+     "name": "Cannonball Adderley",
+     "resource_url": "https://api.discogs.com/artists/61585",
+     "role": "Performer [Soul Virgo]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Stepney",
+     "id": 195568,
+     "join": "",
+     "name": "Charles Stepney",
+     "resource_url": "https://api.discogs.com/artists/195568",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Birdsong",
+     "id": 141386,
+     "join": "",
+     "name": "Edwin Birdsong",
+     "resource_url": "https://api.discogs.com/artists/141386",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Ayers",
+     "id": 2265,
+     "join": "",
+     "name": "Roy Ayers",
+     "resource_url": "https://api.discogs.com/artists/2265",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Booker",
+     "id": 274390,
+     "join": "",
+     "name": "Walter Booker",
+     "resource_url": "https://api.discogs.com/artists/274390",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Allen",
+     "id": 168537,
+     "join": "",
+     "name": "William Allen",
+     "resource_url": "https://api.discogs.com/artists/168537",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Birdsong",
+     "id": 141386,
+     "join": "",
+     "name": "Edwin Birdsong",
+     "resource_url": "https://api.discogs.com/artists/141386",
+     "role": "Written-By [Daylight]",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Ayers",
+     "id": 2265,
+     "join": "",
+     "name": "Roy Ayers",
+     "resource_url": "https://api.discogs.com/artists/2265",
+     "role": "Written-By [Daylight]",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Allen",
+     "id": 168537,
+     "join": "",
+     "name": "William Allen",
+     "resource_url": "https://api.discogs.com/artists/168537",
+     "role": "Written-By [Daylight]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 195568,
+     "join": "",
+     "name": "Charles Stepney",
+     "resource_url": "https://api.discogs.com/artists/195568",
+     "role": "Written-By [Memory Band]",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Booker",
+     "id": 274390,
+     "join": "",
+     "name": "Walter Booker",
+     "resource_url": "https://api.discogs.com/artists/274390",
+     "role": "Written-By [Soul Virgo]",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Bonita Applebum",
+   "type_": "track"
+  },
+  {
+   "duration": "4:52",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 29961,
+     "join": "",
+     "name": "Lonnie Smith",
+     "resource_url": "https://api.discogs.com/artists/29961",
+     "role": "Performer [Spinning Wheel]",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Reed",
+     "id": 11879,
+     "join": "",
+     "name": "Lou Reed",
+     "resource_url": "https://api.discogs.com/artists/11879",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 11879,
+     "join": "",
+     "name": "Lou Reed",
+     "resource_url": "https://api.discogs.com/artists/11879",
+     "role": "Written-By [Walk On The Wild Side], Performer [Walk On The Wild Side]",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Can I Kick It?",
+   "type_": "track"
+  },
+  {
+   "duration": "4:01",
+   "extraartists": [
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Nyx",
+     "id": 270442,
+     "join": "",
+     "name": "James Nyx",
+     "resource_url": "https://api.discogs.com/artists/270442",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Gaye",
+     "id": 18984,
+     "join": "",
+     "name": "Marvin Gaye",
+     "resource_url": "https://api.discogs.com/artists/18984",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B5",
+   "title": "Youthful Expression",
+   "type_": "track"
+  },
+  {
+   "duration": "3:33",
+   "extraartists": [
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G. Clinton, Jr.",
+     "id": 29262,
+     "join": "",
+     "name": "George Clinton",
+     "resource_url": "https://api.discogs.com/artists/29262",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Rhythm (Devoted To The Art Of Moving Butts)",
+   "type_": "track"
+  },
+  {
+   "duration": "5:27",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 195567,
+     "join": "",
+     "name": "Maurice White",
+     "resource_url": "https://api.discogs.com/artists/195567",
+     "role": "Arranged By [Brazilian Rhyme]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 22164,
+     "join": "",
+     "name": "Earth, Wind & Fire",
+     "resource_url": "https://api.discogs.com/artists/22164",
+     "role": "Performer [Brazilian Rhyme]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. White",
+     "id": 195567,
+     "join": "",
+     "name": "Maurice White",
+     "resource_url": "https://api.discogs.com/artists/195567",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Mr. Muhammad",
+   "type_": "track"
+  },
+  {
+   "duration": "3:54",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 29923,
+     "join": "",
+     "name": "Funkadelic",
+     "resource_url": "https://api.discogs.com/artists/29923",
+     "role": "Performer [Nappy Dugout]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Mosson",
+     "id": 215449,
+     "join": "",
+     "name": "Cordell Mosson",
+     "resource_url": "https://api.discogs.com/artists/215449",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G. Shider",
+     "id": 156375,
+     "join": "",
+     "name": "Garry Shider",
+     "resource_url": "https://api.discogs.com/artists/156375",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G. Clinton, Jr.",
+     "id": 29262,
+     "join": "",
+     "name": "George Clinton",
+     "resource_url": "https://api.discogs.com/artists/29262",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 215449,
+     "join": "",
+     "name": "Cordell Mosson",
+     "resource_url": "https://api.discogs.com/artists/215449",
+     "role": "Written-By [Nappy Dugout]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 156375,
+     "join": "",
+     "name": "Garry Shider",
+     "resource_url": "https://api.discogs.com/artists/156375",
+     "role": "Written-By [Nappy Dugout]",
+     "tracks": ""
+    },
+    {
+     "anv": "George Clinton, Jr.",
+     "id": 29262,
+     "join": "",
+     "name": "George Clinton",
+     "resource_url": "https://api.discogs.com/artists/29262",
+     "role": "Written-By [Nappy Dugout]",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Ham 'N' Eggs",
+   "type_": "track"
+  },
+  {
+   "duration": "3:54",
+   "extraartists": [
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Go Ahead In The Rain",
+   "type_": "track"
+  },
+  {
+   "duration": "5:41",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2265,
+     "join": "",
+     "name": "Roy Ayers",
+     "resource_url": "https://api.discogs.com/artists/2265",
+     "role": "Performer [Running Away]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Birdsong",
+     "id": 648391,
+     "join": "",
+     "name": "Michelle Birdsong",
+     "resource_url": "https://api.discogs.com/artists/648391",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Ayers",
+     "id": 2265,
+     "join": "",
+     "name": "Roy Ayers",
+     "resource_url": "https://api.discogs.com/artists/2265",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Birdsong",
+     "id": 648391,
+     "join": "",
+     "name": "Michelle Birdsong",
+     "resource_url": "https://api.discogs.com/artists/648391",
+     "role": "Written-By [Running Away]",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Ayers",
+     "id": 2265,
+     "join": "",
+     "name": "Roy Ayers",
+     "resource_url": "https://api.discogs.com/artists/2265",
+     "role": "Written-By [Running Away]",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Description Of A Fool",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "",
+   "title": "Bonus Tracks",
+   "type_": "heading"
+  },
+  {
+   "duration": "5:08",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 853589,
+     "join": "",
+     "name": "Cherokee (6)",
+     "resource_url": "https://api.discogs.com/artists/853589",
+     "role": "Backing Vocals",
+     "tracks": ""
+    },
+    {
+     "anv": "Marquis Jefferson",
+     "id": 190318,
+     "join": "",
+     "name": "LaMarquis Jefferson",
+     "resource_url": "https://api.discogs.com/artists/190318",
+     "role": "Bass",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5227496,
+     "join": "",
+     "name": "Edga Yoseat",
+     "resource_url": "https://api.discogs.com/artists/5227496",
+     "role": "Drum Programming, Programmed By [Synth Programming], Sounds",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5227498,
+     "join": "",
+     "name": "MTM (9)",
+     "resource_url": "https://api.discogs.com/artists/5227498",
+     "role": "Drum Programming, Programmed By [Synth Programming], Sounds",
+     "tracks": ""
+    },
+    {
+     "anv": "Ceelo Green",
+     "id": 57770,
+     "join": "",
+     "name": "Cee-Lo",
+     "resource_url": "https://api.discogs.com/artists/57770",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "David M Ott",
+     "id": 4476863,
+     "join": "",
+     "name": "David Ott (2)",
+     "resource_url": "https://api.discogs.com/artists/4476863",
+     "role": "Keyboards",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 20956,
+     "join": "",
+     "name": "Donald Byrd",
+     "resource_url": "https://api.discogs.com/artists/20956",
+     "role": "Performer [Think Twice]",
+     "tracks": ""
+    },
+    {
+     "anv": "Neal H Pogue",
+     "id": 147027,
+     "join": "",
+     "name": "Neal Pogue",
+     "resource_url": "https://api.discogs.com/artists/147027",
+     "role": "Recorded By, Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5227496,
+     "join": "",
+     "name": "Edga Yoseat",
+     "resource_url": "https://api.discogs.com/artists/5227496",
+     "role": "Remix, Producer [Remix]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5227498,
+     "join": "",
+     "name": "MTM (9)",
+     "resource_url": "https://api.discogs.com/artists/5227498",
+     "role": "Remix, Producer [Remix]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Ridgell",
+     "id": 824372,
+     "join": "",
+     "name": "Bradley Ridgell",
+     "resource_url": "https://api.discogs.com/artists/824372",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Mizell",
+     "id": 68871,
+     "join": "",
+     "name": "Larry Mizell",
+     "resource_url": "https://api.discogs.com/artists/68871",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Abdullah",
+     "id": 1822327,
+     "join": "",
+     "name": "Sigidi Abdullah",
+     "resource_url": "https://api.discogs.com/artists/1822327",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Wonder",
+     "id": 18956,
+     "join": "",
+     "name": "Stevie Wonder",
+     "resource_url": "https://api.discogs.com/artists/18956",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "T. Callaway",
+     "id": 542558,
+     "join": "",
+     "name": "Thomas Callaway",
+     "resource_url": "https://api.discogs.com/artists/542558",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 18956,
+     "join": "",
+     "name": "Stevie Wonder",
+     "resource_url": "https://api.discogs.com/artists/18956",
+     "role": "Written-By [Sir Duke], Performer [Sir Duke]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 824372,
+     "join": "",
+     "name": "Bradley Ridgell",
+     "resource_url": "https://api.discogs.com/artists/824372",
+     "role": "Written-By [Think Twice]",
+     "tracks": ""
+    },
+    {
+     "anv": "Laurence Mizell",
+     "id": 68871,
+     "join": "",
+     "name": "Larry Mizell",
+     "resource_url": "https://api.discogs.com/artists/68871",
+     "role": "Written-By [Think Twice]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1822327,
+     "join": "",
+     "name": "Sigidi Abdullah",
+     "resource_url": "https://api.discogs.com/artists/1822327",
+     "role": "Written-By [Think Twice]",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Footprints (Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "3:53",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4134222,
+     "join": "",
+     "name": "Mike Larson (4)",
+     "resource_url": "https://api.discogs.com/artists/4134222",
+     "role": "Edited By [Digital Editing By], Arranged By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 67370,
+     "join": "",
+     "name": "Bob Power",
+     "resource_url": "https://api.discogs.com/artists/67370",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 90037,
+     "join": "",
+     "name": "Pharrell Williams",
+     "resource_url": "https://api.discogs.com/artists/90037",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4134222,
+     "join": "",
+     "name": "Mike Larson (4)",
+     "resource_url": "https://api.discogs.com/artists/4134222",
+     "role": "Recorded By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 90037,
+     "join": "",
+     "name": "Pharrell Williams",
+     "resource_url": "https://api.discogs.com/artists/90037",
+     "role": "Remix",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "C. Stepney",
+     "id": 195568,
+     "join": "",
+     "name": "Charles Stepney",
+     "resource_url": "https://api.discogs.com/artists/195568",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "E. Birdsong",
+     "id": 141386,
+     "join": "",
+     "name": "Edwin Birdsong",
+     "resource_url": "https://api.discogs.com/artists/141386",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Ayers",
+     "id": 2265,
+     "join": "",
+     "name": "Roy Ayers",
+     "resource_url": "https://api.discogs.com/artists/2265",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Booker",
+     "id": 274390,
+     "join": "",
+     "name": "Walter Booker",
+     "resource_url": "https://api.discogs.com/artists/274390",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Allen",
+     "id": 168537,
+     "join": "",
+     "name": "William Allen",
+     "resource_url": "https://api.discogs.com/artists/168537",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Bonita Applebum (Pharrell Williams Remix)",
+   "type_": "track"
+  },
+  {
+   "duration": "2:49",
+   "extraartists": [
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Instruments [Live]",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Saadiq",
+     "id": 72461,
+     "join": "",
+     "name": "Raphael Saadiq",
+     "resource_url": "https://api.discogs.com/artists/72461",
+     "role": "Instruments [Live]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Mixed By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 750828,
+     "join": "",
+     "name": "J. Cole",
+     "resource_url": "https://api.discogs.com/artists/750828",
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 750828,
+     "join": "",
+     "name": "J. Cole",
+     "resource_url": "https://api.discogs.com/artists/750828",
+     "role": "Remix",
+     "tracks": ""
+    },
+    {
+     "anv": "H. Suzuki",
+     "id": 596933,
+     "join": "",
+     "name": "Hiromasa Suzuki",
+     "resource_url": "https://api.discogs.com/artists/596933",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Reed",
+     "id": 11879,
+     "join": "",
+     "name": "Lou Reed",
+     "resource_url": "https://api.discogs.com/artists/11879",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 596933,
+     "join": "",
+     "name": "Hiromasa Suzuki",
+     "resource_url": "https://api.discogs.com/artists/596933",
+     "role": "Written-By [Romance]",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Can I Kick It? (J. Cole Remix)",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/7926540-A-Tribe-Called-Quest-Peoples-Instinctive-Travels-And-The-Paths-Of-Rhythm",
+ "videos": [
+  {
+   "duration": 243,
+   "title": "Rhythm (Devoted to the Art of Moving Butts)",
+   "uri": "https://www.youtube.com/watch?v=w9lmXuVpVf0"
+  },
+  {
+   "duration": 0,
+   "title": "People's Instinctive Travels and the Paths of Rhythm (Full album)",
+   "uri": "https://www.youtube.com/watch?v=Ynx5Yn6gWdU"
+  },
+  {
+   "duration": 199,
+   "title": "A Tribe Called Quest - Bonita Applebum (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=6xE6ZWwJezg"
+  },
+  {
+   "duration": 241,
+   "title": "Footprints",
+   "uri": "https://www.youtube.com/watch?v=nrzom_4Xaxo"
+  },
+  {
+   "duration": 455,
+   "title": "Push It Along",
+   "uri": "https://www.youtube.com/watch?v=idce_a_HckE"
+  },
+  {
+   "duration": 281,
+   "title": "A Tribe Called Quest  -  Luck Of Lucien",
+   "uri": "https://www.youtube.com/watch?v=UU6PSmvwwrA"
+  },
+  {
+   "duration": 230,
+   "title": "Bonita Applebum",
+   "uri": "https://www.youtube.com/watch?v=IDxHSRD0NFY"
+  },
+  {
+   "duration": 279,
+   "title": "After Hours",
+   "uri": "https://www.youtube.com/watch?v=HTjwRCByFC4"
+  },
+  {
+   "duration": 259,
+   "title": "A Tribe Called Quest - I Left My Wallet In El Segundo (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=WILyWmT2A-Q"
+  },
+  {
+   "duration": 254,
+   "title": "A Tribe Called Quest - Can I Kick It? (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=D-uV8TGjaGU"
+  },
+  {
+   "duration": 248,
+   "title": "I Left My Wallet In El Segundo by A Tribe Called Quest",
+   "uri": "https://www.youtube.com/watch?v=NCxFL5od9D0"
+  },
+  {
+   "duration": 293,
+   "title": "Youthful Expression",
+   "uri": "https://www.youtube.com/watch?v=q7xZ00GfbgY"
+  },
+  {
+   "duration": 214,
+   "title": "Mr. Muhammad",
+   "uri": "https://www.youtube.com/watch?v=GG8cVjZK9vA"
+  }
+ ],
+ "year": 2015
+}

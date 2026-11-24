@@ -1,0 +1,182 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 22164,
+   "join": "",
+   "name": "Earth, Wind & Fire",
+   "resource_url": "https://api.discogs.com/artists/22164",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/V_GEXYcclhNQTz0WZRlppacrSgK_aLQOh9YKT80xhKg/rs:fit/g:sm/q:90/h:600/w:437/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIyMTY0/LTE1ODk2NzU3NDkt/MzgwNS5wbmc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Compilation",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Funk / Soul",
+  "Pop"
+ ],
+ "id": 37749015,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/PZZ81P6uTWxoEcUK8p0mfod1oB5FzpdCPu5-Ju30auk/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzQ5/MDE1LTE3ODI3MzU5/ODItMTE3OS5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/PZZ81P6uTWxoEcUK8p0mfod1oB5FzpdCPu5-Ju30auk/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzQ5/MDE1LTE3ODI3MzU5/ODItMTE3OS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/nsmoq70q8BLvptYJJP-s8goDCeintZe8TDuHrHA8m40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzQ5/MDE1LTE3ODI3MzU5/ODItMTE3OS5qcGVn.jpeg",
+   "width": 578
+  }
+ ],
+ "labels": [
+  {
+   "catno": "19958441201",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 15491,
+   "name": "Legacy",
+   "resource_url": "https://api.discogs.com/labels/15491",
+   "thumbnail_url": "https://i.discogs.com/jk2im_GXsDlf_1qNdX0KOoZUX6ivAIvgJH0TEBVW7ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDkx/LTE0OTg4MzQ3MDgt/NzQwOS5wbmc.jpeg"
+  },
+  {
+   "catno": "19958441201",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1866,
+   "name": "Columbia",
+   "resource_url": "https://api.discogs.com/labels/1866",
+   "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+  }
+ ],
+ "notes": "2026 reissue of the 1998 compilation. Standard black vinyl. Released by Legacy Recordings on June 5,, 2026.",
+ "released": "2026-06-05",
+ "styles": [
+  "Disco",
+  "Funk",
+  "Soul"
+ ],
+ "title": "Greatest Hits",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Shining Star",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "That's the Way of the World",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "September",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Can't Hide Love",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "Got to Get You Into My Life",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Sing a Song",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Gratitude",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Serpentine",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "Fantasy",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "Kalimba Story",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C2",
+   "title": "Mighty Mighty",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C3",
+   "title": "Reasons",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C4",
+   "title": "Saturday Nite",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D1",
+   "title": "Let's Groove",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D2",
+   "title": "Boogie Wonderland",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D3",
+   "title": "After the Love Has Gone",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D4",
+   "title": "Getaway",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/37749015-Earth-Wind-Fire-Greatest-Hits",
+ "videos": [
+  {
+   "duration": 216,
+   "title": "Earth, Wind & Fire - September (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=Gs069dndIYk"
+  }
+ ],
+ "year": 2026
+}

@@ -1,0 +1,177 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 985480,
+   "join": "",
+   "name": "MGMT",
+   "resource_url": "https://api.discogs.com/artists/985480",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/oMasdPApG1SBG1PbSXq4VmgfdGgL6b0Y4MdHsxR3gHE/rs:fit/g:sm/q:90/h:276/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk4NTQ4/MC0xNzUwNTQxMTYy/LTYzNzkuanBlZw.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Rock",
+  "Pop"
+ ],
+ "id": 1584186,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/q5_oBy3f7sxpAa1awhjxrbwL1oaaQA-w3OGTCOZLogo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQx/ODYtMTYzOTYwNDEx/Ny00NzEwLmpwZWc.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/q5_oBy3f7sxpAa1awhjxrbwL1oaaQA-w3OGTCOZLogo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQx/ODYtMTYzOTYwNDEx/Ny00NzEwLmpwZWc.jpeg",
+   "uri150": "https://i.discogs.com/xoK7uHYPvUUsaJHS17Y2n1RYloGIY3dVp_dxgGETptg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQx/ODYtMTYzOTYwNDEx/Ny00NzEwLmpwZWc.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "88697 19512 1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1866,
+   "name": "Columbia",
+   "resource_url": "https://api.discogs.com/labels/1866",
+   "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+  }
+ ],
+ "notes": "Recorded at Tarbox Studios, Cassadaga, NY & Context Studios, Brooklyn, NY.\n\nMade in the EU.\n",
+ "released": "2008-01-22",
+ "styles": [
+  "Indie Rock",
+  "Indie Pop",
+  "Synth-pop",
+  "Psychedelic Rock"
+ ],
+ "title": "Oracular Spectacular",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Time To Pretend",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Weekend Wars",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "The Youth",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A4",
+   "title": "Electric Feel",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "Kids",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B1",
+   "title": "4th Dimensional Transition",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Pieces Of What",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Of Moons, Birds & Monsters",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "The Handshake",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "Future Reflections",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/1584186-MGMT-Oracular-Spectacular",
+ "videos": [
+  {
+   "duration": 259,
+   "title": "MGMT - Time to Pretend (Official HD Video)",
+   "uri": "https://www.youtube.com/watch?v=B9dSYgd5Elk"
+  },
+  {
+   "duration": 251,
+   "title": "Weekend Wars",
+   "uri": "https://www.youtube.com/watch?v=6QJeqwhWWHI"
+  },
+  {
+   "duration": 226,
+   "title": "MGMT - The Youth",
+   "uri": "https://www.youtube.com/watch?v=EURZuzHyWb0"
+  },
+  {
+   "duration": 229,
+   "title": "MGMT - Electric Feel (Official HD Video)",
+   "uri": "https://www.youtube.com/watch?v=MmZexg8sxyk"
+  },
+  {
+   "duration": 367,
+   "title": "MGMT - Kids (Official HD Video)",
+   "uri": "https://www.youtube.com/watch?v=fe4EK4HSPkI"
+  },
+  {
+   "duration": 239,
+   "title": "4th Dimensional Transition",
+   "uri": "https://www.youtube.com/watch?v=UVadPWNLiZs"
+  },
+  {
+   "duration": 164,
+   "title": "Pieces of What",
+   "uri": "https://www.youtube.com/watch?v=H9EFlFavYEE"
+  },
+  {
+   "duration": 287,
+   "title": "Of Moons, Birds & Monsters",
+   "uri": "https://www.youtube.com/watch?v=4GrnA0aciTg"
+  },
+  {
+   "duration": 220,
+   "title": "The Handshake",
+   "uri": "https://www.youtube.com/watch?v=Nhy6MQ6Yh0c"
+  },
+  {
+   "duration": 241,
+   "title": "Future Reflections",
+   "uri": "https://www.youtube.com/watch?v=KFKsoIdhkpQ"
+  }
+ ],
+ "year": 2008
+}

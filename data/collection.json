@@ -8,6 +8,945 @@
    "basic_information": {
     "artists": [
      {
+      "anv": "",
+      "id": 4332385,
+      "join": "",
+      "name": "Leon Bridges",
+      "resource_url": "https://api.discogs.com/artists/4332385",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/lAcbYrlUX7-ZBiT4wMtlbTaf2VbDoMADVn8Z6lzFvsE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg1/OTg3LTE3NDM3MDQz/MzctNjYxNC5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Album",
+       "Reissue",
+       "Stereo"
+      ],
+      "name": "Vinyl",
+      "qty": "1"
+     }
+    ],
+    "genres": [
+     "Funk / Soul"
+    ],
+    "id": 33585987,
+    "labels": [
+     {
+      "catno": "88875 08914 1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "name": "Columbia",
+      "resource_url": "https://api.discogs.com/labels/1866"
+     },
+     {
+      "catno": "88875089141",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "name": "Columbia",
+      "resource_url": "https://api.discogs.com/labels/1866"
+     },
+     {
+      "catno": "88875 08914 1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 25487,
+      "name": "Sony Music",
+      "resource_url": "https://api.discogs.com/labels/25487"
+     },
+     {
+      "catno": "88875089141",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 25487,
+      "name": "Sony Music",
+      "resource_url": "https://api.discogs.com/labels/25487"
+     }
+    ],
+    "master_id": 850448,
+    "master_url": "https://api.discogs.com/masters/850448",
+    "resource_url": "https://api.discogs.com/releases/33585987",
+    "styles": [
+     "Soul",
+     "Funk",
+     "Rhythm & Blues"
+    ],
+    "thumb": "https://i.discogs.com/I_RL5r6C2OeU4VAL0077CgqmJznDSydFVdkwpwQTp0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg1/OTg3LTE3NDM3MDQz/MzctNjYxNC5qcGVn.jpeg",
+    "title": "Coming Home",
+    "year": 2023
+   },
+   "date_added": "2026-11-23T11:25:14-08:00",
+   "folder_id": 1,
+   "id": 33585987,
+   "instance_id": 2207672375,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 1289,
+      "join": "",
+      "name": "Daft Punk",
+      "resource_url": "https://api.discogs.com/artists/1289",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/HDs579n6g6NtfB2VBbr6pHk4AyQkndutWx7NUxdQSfg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzkw/NDI0LTE2MzgxMzMz/NDItOTM0NS5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Album",
+       "Reissue",
+       "Stereo"
+      ],
+      "name": "Vinyl",
+      "qty": "2",
+      "text": "180 Grams, Gatefold"
+     }
+    ],
+    "genres": [
+     "Electronic",
+     "Pop"
+    ],
+    "id": 10790424,
+    "labels": [
+     {
+      "catno": "88883716861",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "name": "Columbia",
+      "resource_url": "https://api.discogs.com/labels/1866"
+     },
+     {
+      "catno": "88883 71686 1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "name": "Columbia",
+      "resource_url": "https://api.discogs.com/labels/1866"
+     },
+     {
+      "catno": "88883716861",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 25487,
+      "name": "Sony Music",
+      "resource_url": "https://api.discogs.com/labels/25487"
+     },
+     {
+      "catno": "88883 71686 1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 25487,
+      "name": "Sony Music",
+      "resource_url": "https://api.discogs.com/labels/25487"
+     }
+    ],
+    "master_id": 556257,
+    "master_url": "https://api.discogs.com/masters/556257",
+    "resource_url": "https://api.discogs.com/releases/10790424",
+    "styles": [
+     "Disco",
+     "Electro",
+     "Synth-pop"
+    ],
+    "thumb": "https://i.discogs.com/IKMJ7xAmpN87iHcfl8JbLi2_RN9INOUYfQAHQ7bvvtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzkw/NDI0LTE2MzgxMzMz/NDItOTM0NS5qcGVn.jpeg",
+    "title": "Random Access Memories",
+    "year": 2017
+   },
+   "date_added": "2026-11-23T11:24:13-08:00",
+   "folder_id": 1,
+   "id": 10790424,
+   "instance_id": 2207672038,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 244751,
+      "join": "",
+      "name": "Skepta",
+      "resource_url": "https://api.discogs.com/artists/244751",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/89SAjibc8jxPWcFtxD8QRyc7lqGqe_hVD5k-qmwR2XM/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTUy/MzI0LTE3OTM5ODEx/MzYtMzgyMC5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "45 RPM",
+       "Album"
+      ],
+      "name": "Vinyl",
+      "qty": "2"
+     }
+    ],
+    "genres": [
+     "Hip Hop"
+    ],
+    "id": 38952324,
+    "labels": [
+     {
+      "catno": "19802996891",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1005,
+      "name": "Epic",
+      "resource_url": "https://api.discogs.com/labels/1005"
+     }
+    ],
+    "master_id": 4399283,
+    "master_url": "https://api.discogs.com/masters/4399283",
+    "resource_url": "https://api.discogs.com/releases/38952324",
+    "styles": [
+     "Grime"
+    ],
+    "thumb": "https://i.discogs.com/NF2yg-sFgyYC5azLr9W4Cu7c8mqCNHDogaGZzKBxOo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTUy/MzI0LTE3OTM5ODEx/MzYtMzgyMC5qcGVn.jpeg",
+    "title": "The Fork And Knife",
+    "year": 2026
+   },
+   "date_added": "2026-11-23T11:22:42-08:00",
+   "folder_id": 1,
+   "id": 38952324,
+   "instance_id": 2207671513,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 22164,
+      "join": "",
+      "name": "Earth, Wind & Fire",
+      "resource_url": "https://api.discogs.com/artists/22164",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/PZZ81P6uTWxoEcUK8p0mfod1oB5FzpdCPu5-Ju30auk/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzQ5/MDE1LTE3ODI3MzU5/ODItMTE3OS5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Compilation",
+       "Stereo"
+      ],
+      "name": "Vinyl",
+      "qty": "2"
+     }
+    ],
+    "genres": [
+     "Funk / Soul",
+     "Pop"
+    ],
+    "id": 37749015,
+    "labels": [
+     {
+      "catno": "19958441201",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 15491,
+      "name": "Legacy",
+      "resource_url": "https://api.discogs.com/labels/15491"
+     },
+     {
+      "catno": "19958441201",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "name": "Columbia",
+      "resource_url": "https://api.discogs.com/labels/1866"
+     }
+    ],
+    "master_id": 99469,
+    "master_url": "https://api.discogs.com/masters/99469",
+    "resource_url": "https://api.discogs.com/releases/37749015",
+    "styles": [
+     "Disco",
+     "Funk",
+     "Soul"
+    ],
+    "thumb": "https://i.discogs.com/nsmoq70q8BLvptYJJP-s8goDCeintZe8TDuHrHA8m40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzQ5/MDE1LTE3ODI3MzU5/ODItMTE3OS5qcGVn.jpeg",
+    "title": "Greatest Hits",
+    "year": 2026
+   },
+   "date_added": "2026-11-23T11:22:23-08:00",
+   "folder_id": 1,
+   "id": 37749015,
+   "instance_id": 2207671362,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 44944,
+      "join": "And",
+      "name": "D'Angelo",
+      "resource_url": "https://api.discogs.com/artists/44944",
+      "role": "",
+      "tracks": ""
+     },
+     {
+      "anv": "",
+      "id": 4165408,
+      "join": "",
+      "name": "The Vanguard (3)",
+      "resource_url": "https://api.discogs.com/artists/4165408",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/EsLEzzNBTMxqw4dEMDbOVDab4zqtejDvVkjNTUenJBw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTEy/ODc3LTE3NzY1OTMz/ODAtNDcxNy5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Album",
+       "Reissue"
+      ],
+      "name": "Vinyl",
+      "qty": "2"
+     }
+    ],
+    "genres": [
+     "Funk / Soul",
+     "Blues"
+    ],
+    "id": 37112877,
+    "labels": [
+     {
+      "catno": "88875-05655-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 895,
+      "name": "RCA",
+      "resource_url": "https://api.discogs.com/labels/895"
+     }
+    ],
+    "master_id": 771416,
+    "master_url": "https://api.discogs.com/masters/771416",
+    "resource_url": "https://api.discogs.com/releases/37112877",
+    "styles": [
+     "Soul",
+     "Funk",
+     "Neo Soul"
+    ],
+    "thumb": "https://i.discogs.com/yLZmZ4tzfNipp_VeCotgABG2ELEuz3H1wUuFkICT89g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTEy/ODc3LTE3NzY1OTMz/ODAtNDcxNy5qcGVn.jpeg",
+    "title": "Black Messiah",
+    "year": 2025
+   },
+   "date_added": "2026-11-23T11:22:05-08:00",
+   "folder_id": 1,
+   "id": 37112877,
+   "instance_id": 2207671246,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 14636742,
+      "join": "",
+      "name": "CA7RIEL & Paco Amoroso",
+      "resource_url": "https://api.discogs.com/artists/14636742",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/FJXqpXNkbDygRAzqA3r4Zww-ADcEgd_Xdp9eympF_VE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjM4/ODg3LTE3OTEzNTI1/MTQtNTEwMC5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Album"
+      ],
+      "name": "Vinyl",
+      "qty": "1",
+      "text": "Milky Clear"
+     }
+    ],
+    "genres": [
+     "Hip Hop",
+     "Latin",
+     "Pop"
+    ],
+    "id": 38638887,
+    "labels": [
+     {
+      "catno": "19958453211 S1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1222099,
+      "name": "5020 Records",
+      "resource_url": "https://api.discogs.com/labels/1222099"
+     }
+    ],
+    "master_id": 4301067,
+    "master_url": "https://api.discogs.com/masters/4301067",
+    "resource_url": "https://api.discogs.com/releases/38638887",
+    "styles": [
+     "Trap"
+    ],
+    "thumb": "https://i.discogs.com/rvZ2onU9eCSyhffsIjgz5GdJV9IQhZfYrHwa1dWWO_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjM4/ODg3LTE3OTEzNTI1/MTQtNTEwMC5qcGVn.jpeg",
+    "title": "Free Spirits",
+    "year": 2026
+   },
+   "date_added": "2026-11-23T11:21:01-08:00",
+   "folder_id": 1,
+   "id": 38638887,
+   "instance_id": 2207670850,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 3160392,
+      "join": "",
+      "name": "Kaytranada",
+      "resource_url": "https://api.discogs.com/artists/3160392",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/sZuFJPTIGOzCwmsfiBsGglhF9MacyYYnGutwcZplTBI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI2/NDQ1LTE3MTg1MDYy/NjEtNTMwNy5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Album"
+      ],
+      "name": "Vinyl",
+      "qty": "2"
+     }
+    ],
+    "genres": [
+     "Electronic",
+     "Hip Hop",
+     "Funk / Soul",
+     "Pop"
+    ],
+    "id": 30926445,
+    "labels": [
+     {
+      "catno": "none",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 895,
+      "name": "RCA",
+      "resource_url": "https://api.discogs.com/labels/895"
+     }
+    ],
+    "master_id": 3510960,
+    "master_url": "https://api.discogs.com/masters/3510960",
+    "resource_url": "https://api.discogs.com/releases/30926445",
+    "styles": [
+     "Contemporary R&B",
+     "House"
+    ],
+    "thumb": "https://i.discogs.com/WhRlUoDpe4Hd_7S9ynzrDR6RTQ_pZQKmlVf6g4HbxIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI2/NDQ1LTE3MTg1MDYy/NjEtNTMwNy5qcGVn.jpeg",
+    "title": "Timeless",
+    "year": 2024
+   },
+   "date_added": "2026-11-23T11:20:20-08:00",
+   "folder_id": 1,
+   "id": 30926445,
+   "instance_id": 2207670573,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 3268,
+      "join": "",
+      "name": "A Tribe Called Quest",
+      "resource_url": "https://api.discogs.com/artists/3268",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/dUMyb_NJNEp63UWFUOfT7o28GmkYsZuVQ1xuzHzTniQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjY1/NDAtMTQ4NzU0MDMw/NC00ODMzLmpwZWc.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Album",
+       "Reissue",
+       "Remastered"
+      ],
+      "name": "Vinyl",
+      "qty": "2",
+      "text": "25th Anniversary, Gatefold, 180 gram"
+     }
+    ],
+    "genres": [
+     "Hip Hop"
+    ],
+    "id": 7926540,
+    "labels": [
+     {
+      "catno": "88875172371",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2186,
+      "name": "Jive",
+      "resource_url": "https://api.discogs.com/labels/2186"
+     },
+     {
+      "catno": "88875172371",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 15491,
+      "name": "Legacy",
+      "resource_url": "https://api.discogs.com/labels/15491"
+     },
+     {
+      "catno": "88875172371",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 25487,
+      "name": "Sony Music",
+      "resource_url": "https://api.discogs.com/labels/25487"
+     }
+    ],
+    "master_id": 45907,
+    "master_url": "https://api.discogs.com/masters/45907",
+    "resource_url": "https://api.discogs.com/releases/7926540",
+    "styles": [
+     "Conscious",
+     "Boom Bap",
+     "Jazzy Hip-Hop"
+    ],
+    "thumb": "https://i.discogs.com/VJlsGh7VPg8g5umFsSCIf1dfmhC6DfdFOK0FUMmeS5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjY1/NDAtMTQ4NzU0MDMw/NC00ODMzLmpwZWc.jpeg",
+    "title": "People's Instinctive Travels And The Paths Of Rhythm",
+    "year": 2015
+   },
+   "date_added": "2026-11-23T11:20:04-08:00",
+   "folder_id": 1,
+   "id": 7926540,
+   "instance_id": 2207670458,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 3268,
+      "join": "",
+      "name": "A Tribe Called Quest",
+      "resource_url": "https://api.discogs.com/artists/3268",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/2kF8yDV0-wFGuQAE317tlHjHoMaxJctT7FWIC3DrNuY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM2/MDY1LTE3Mzk1Mzgz/NzItOTg2Ny5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Compilation",
+       "Reissue",
+       "Stereo"
+      ],
+      "name": "Vinyl",
+      "qty": "2"
+     }
+    ],
+    "genres": [
+     "Hip Hop"
+    ],
+    "id": 33136065,
+    "labels": [
+     {
+      "catno": "19658884891",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2186,
+      "name": "Jive",
+      "resource_url": "https://api.discogs.com/labels/2186"
+     },
+     {
+      "catno": "19658884891",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 15491,
+      "name": "Legacy",
+      "resource_url": "https://api.discogs.com/labels/15491"
+     },
+     {
+      "catno": "19658884891",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 25487,
+      "name": "Sony Music",
+      "resource_url": "https://api.discogs.com/labels/25487"
+     }
+    ],
+    "master_id": 46072,
+    "master_url": "https://api.discogs.com/masters/46072",
+    "resource_url": "https://api.discogs.com/releases/33136065",
+    "styles": [
+     "Conscious",
+     "Boom Bap",
+     "Jazzy Hip-Hop"
+    ],
+    "thumb": "https://i.discogs.com/V3_crvZoUX_A_Vnq3s0PbwIM_X17KoqlAFqyUvkdWUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM2/MDY1LTE3Mzk1Mzgz/NzItOTg2Ny5qcGVn.jpeg",
+    "title": "Hits, Rarities & Remixes",
+    "year": 2025
+   },
+   "date_added": "2026-11-23T11:19:46-08:00",
+   "folder_id": 1,
+   "id": 33136065,
+   "instance_id": 2207670322,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 2372814,
+      "join": "",
+      "name": "Blood Orange (2)",
+      "resource_url": "https://api.discogs.com/artists/2372814",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/Pglw1kt9yNzg1KRQAiu4BNsTyAeMDS2alg3HKjXe8po/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTU5/MjQ1LTE3NTY1OTUz/NzYtMTQxNS5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "45 RPM",
+       "Album",
+       "Stereo"
+      ],
+      "name": "Vinyl",
+      "qty": "2",
+      "text": "Gatefold"
+     }
+    ],
+    "genres": [
+     "Rock",
+     "Funk / Soul",
+     "Pop"
+    ],
+    "id": 34959245,
+    "labels": [
+     {
+      "catno": "19802960851",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 895,
+      "name": "RCA",
+      "resource_url": "https://api.discogs.com/labels/895"
+     },
+     {
+      "catno": "19802960851",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 26465,
+      "name": "Domino",
+      "resource_url": "https://api.discogs.com/labels/26465"
+     }
+    ],
+    "master_id": 3955667,
+    "master_url": "https://api.discogs.com/masters/3955667",
+    "resource_url": "https://api.discogs.com/releases/34959245",
+    "styles": [
+     "Alt-Pop",
+     "Indie Pop",
+     "Contemporary R&B"
+    ],
+    "thumb": "https://i.discogs.com/gljLGMTKfaNGtnKnKar9DlVsCkNyfG0cYSu7cor1WU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTU5/MjQ1LTE3NTY1OTUz/NzYtMTQxNS5qcGVn.jpeg",
+    "title": "Essex Honey",
+    "year": 2025
+   },
+   "date_added": "2026-11-23T11:19:28-08:00",
+   "folder_id": 1,
+   "id": 34959245,
+   "instance_id": 2207670186,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 985480,
+      "join": "",
+      "name": "MGMT",
+      "resource_url": "https://api.discogs.com/artists/985480",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/q5_oBy3f7sxpAa1awhjxrbwL1oaaQA-w3OGTCOZLogo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQx/ODYtMTYzOTYwNDEx/Ny00NzEwLmpwZWc.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Album"
+      ],
+      "name": "Vinyl",
+      "qty": "1"
+     }
+    ],
+    "genres": [
+     "Electronic",
+     "Rock",
+     "Pop"
+    ],
+    "id": 1584186,
+    "labels": [
+     {
+      "catno": "88697 19512 1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "name": "Columbia",
+      "resource_url": "https://api.discogs.com/labels/1866"
+     }
+    ],
+    "master_id": 26303,
+    "master_url": "https://api.discogs.com/masters/26303",
+    "resource_url": "https://api.discogs.com/releases/1584186",
+    "styles": [
+     "Indie Rock",
+     "Indie Pop",
+     "Synth-pop",
+     "Psychedelic Rock"
+    ],
+    "thumb": "https://i.discogs.com/xoK7uHYPvUUsaJHS17Y2n1RYloGIY3dVp_dxgGETptg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQx/ODYtMTYzOTYwNDEx/Ny00NzEwLmpwZWc.jpeg",
+    "title": "Oracular Spectacular",
+    "year": 2008
+   },
+   "date_added": "2026-11-23T11:19:01-08:00",
+   "folder_id": 1,
+   "id": 1584186,
+   "instance_id": 2207670009,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
+      "anv": "",
+      "id": 3268,
+      "join": "",
+      "name": "A Tribe Called Quest",
+      "resource_url": "https://api.discogs.com/artists/3268",
+      "role": "",
+      "tracks": ""
+     }
+    ],
+    "cover_image": "https://i.discogs.com/IvpPC8pCBg-WyUm7F3Dj_687znSaDAXfYngdlu4iWWk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM2/MTg4LTE3NzA0NTAx/NTgtNTQwMS5qcGVn.jpeg",
+    "formats": [
+     {
+      "descriptions": [
+       "LP",
+       "Album",
+       "Reissue",
+       "Stereo"
+      ],
+      "name": "Vinyl",
+      "qty": "2"
+     }
+    ],
+    "genres": [
+     "Hip Hop"
+    ],
+    "id": 33136188,
+    "labels": [
+     {
+      "catno": "19658884881",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2186,
+      "name": "Jive",
+      "resource_url": "https://api.discogs.com/labels/2186"
+     },
+     {
+      "catno": "19658884881",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 15491,
+      "name": "Legacy",
+      "resource_url": "https://api.discogs.com/labels/15491"
+     },
+     {
+      "catno": "19658884881",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 25487,
+      "name": "Sony Music",
+      "resource_url": "https://api.discogs.com/labels/25487"
+     }
+    ],
+    "master_id": 45970,
+    "master_url": "https://api.discogs.com/masters/45970",
+    "resource_url": "https://api.discogs.com/releases/33136188",
+    "styles": [
+     "Conscious",
+     "Jazzy Hip-Hop"
+    ],
+    "thumb": "https://i.discogs.com/oaFyPc2k7opqJF9ytVur5iRnJQNDhX-3hCO3OIR5jk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM2/MTg4LTE3NzA0NTAx/NTgtNTQwMS5qcGVn.jpeg",
+    "title": "Beats, Rhymes And Life",
+    "year": 2025
+   },
+   "date_added": "2026-11-23T11:17:41-08:00",
+   "folder_id": 1,
+   "id": 33136188,
+   "instance_id": 2207669493,
+   "notes": [
+    {
+     "field_id": 1,
+     "value": "Mint (M)"
+    },
+    {
+     "field_id": 2,
+     "value": "Mint (M)"
+    }
+   ],
+   "rating": 0
+  },
+  {
+   "basic_information": {
+    "artists": [
+     {
       "anv": "Willie Colon",
       "id": 29812,
       "join": "Canta:",

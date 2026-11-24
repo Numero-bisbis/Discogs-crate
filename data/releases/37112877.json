@@ -1,0 +1,484 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 44944,
+   "join": "And",
+   "name": "D'Angelo",
+   "resource_url": "https://api.discogs.com/artists/44944",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/Y2P4gyJxtLjEfHzpP05Vfq9bNYQuGuEHvSJ86kG8410/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ0OTQ0/LTE3ODMwOTMyNjgt/NTc1Ni5qcGVn.jpeg",
+   "tracks": ""
+  },
+  {
+   "anv": "",
+   "id": 4165408,
+   "join": "",
+   "name": "The Vanguard (3)",
+   "resource_url": "https://api.discogs.com/artists/4165408",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/nyRxsIw-rhNjjFk1tRmoSSyl52h_2jZUp2ybYaIrGYc/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQxNjU0/MDgtMTc3Mjk5NTU3/OS04NTI0LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Europe",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Funk / Soul",
+  "Blues"
+ ],
+ "id": 37112877,
+ "images": [
+  {
+   "height": 587,
+   "resource_url": "https://i.discogs.com/EsLEzzNBTMxqw4dEMDbOVDab4zqtejDvVkjNTUenJBw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTEy/ODc3LTE3NzY1OTMz/ODAtNDcxNy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/EsLEzzNBTMxqw4dEMDbOVDab4zqtejDvVkjNTUenJBw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTEy/ODc3LTE3NzY1OTMz/ODAtNDcxNy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/yLZmZ4tzfNipp_VeCotgABG2ELEuz3H1wUuFkICT89g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTEy/ODc3LTE3NzY1OTMz/ODAtNDcxNy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "88875-05655-1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 895,
+   "name": "RCA",
+   "resource_url": "https://api.discogs.com/labels/895",
+   "thumbnail_url": "https://i.discogs.com/q-zL2IXAAZL18V9Ova8MTy7NXCoGMloDEKM1yaHpays/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5NS0x/NzY4MDgxMjYxLTMw/NDIuanBlZw.jpeg"
+  }
+ ],
+ "notes": "European Reissue\n\nGatefold sleeve.\nIncludes an eight-page booklet.\n\n",
+ "released": "2025",
+ "styles": [
+  "Soul",
+  "Funk",
+  "Neo Soul"
+ ],
+ "title": "Black Messiah",
+ "tracklist": [
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 246572,
+     "join": "",
+     "name": "Kendra Foster",
+     "resource_url": "https://api.discogs.com/artists/246572",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 44944,
+     "join": "",
+     "name": "D'Angelo",
+     "resource_url": "https://api.discogs.com/artists/44944",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Ain't That Easy",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 246572,
+     "join": "",
+     "name": "Kendra Foster",
+     "resource_url": "https://api.discogs.com/artists/246572",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 44944,
+     "join": "",
+     "name": "D'Angelo",
+     "resource_url": "https://api.discogs.com/artists/44944",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "1000 Deaths",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 246572,
+     "join": "",
+     "name": "Kendra Foster",
+     "resource_url": "https://api.discogs.com/artists/246572",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 44944,
+     "join": "",
+     "name": "D'Angelo",
+     "resource_url": "https://api.discogs.com/artists/44944",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2412751,
+     "join": "",
+     "name": "Questlove",
+     "resource_url": "https://api.discogs.com/artists/2412751",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "The Charade",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 246572,
+     "join": "",
+     "name": "Kendra Foster",
+     "resource_url": "https://api.discogs.com/artists/246572",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 35848,
+     "join": "",
+     "name": "Q-Tip",
+     "resource_url": "https://api.discogs.com/artists/35848",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 44944,
+     "join": "",
+     "name": "D'Angelo",
+     "resource_url": "https://api.discogs.com/artists/44944",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 211643,
+     "join": "",
+     "name": "James Gadson",
+     "resource_url": "https://api.discogs.com/artists/211643",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Sugah Daddy",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 246572,
+     "join": "",
+     "name": "Kendra Foster",
+     "resource_url": "https://api.discogs.com/artists/246572",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 44944,
+     "join": "",
+     "name": "D'Angelo",
+     "resource_url": "https://api.discogs.com/artists/44944",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Really Love",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 44944,
+     "join": "",
+     "name": "D'Angelo",
+     "resource_url": "https://api.discogs.com/artists/44944",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Back To the Future (Part I)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 246572,
+     "join": "",
+     "name": "Kendra Foster",
+     "resource_url": "https://api.discogs.com/artists/246572",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 44944,
+     "join": "",
+     "name": "D'Angelo",
+     "resource_url": "https://api.discogs.com/artists/44944",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 208234,
+     "join": "",
+     "name": "Pino Palladino",
+     "resource_url": "https://api.discogs.com/artists/208234",
+     "role": "Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2412751,
+     "join": "",
+     "name": "Questlove",
+     "resource_url": "https://api.discogs.com/artists/2412751",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Till It's Done (Tutu)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 44944,
+     "join": "",
+     "name": "D'Angelo",
+     "resource_url": "https://api.discogs.com/artists/44944",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Prayer",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 44944,
+     "join": "",
+     "name": "D'Angelo",
+     "resource_url": "https://api.discogs.com/artists/44944",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Betray My Heart",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 246572,
+     "join": "",
+     "name": "Kendra Foster",
+     "resource_url": "https://api.discogs.com/artists/246572",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 44944,
+     "join": "",
+     "name": "D'Angelo",
+     "resource_url": "https://api.discogs.com/artists/44944",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "The Door",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 44944,
+     "join": "",
+     "name": "D'Angelo",
+     "resource_url": "https://api.discogs.com/artists/44944",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Back To the Future (Part II)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 246572,
+     "join": "",
+     "name": "Kendra Foster",
+     "resource_url": "https://api.discogs.com/artists/246572",
+     "role": "Lyrics By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 44944,
+     "join": "",
+     "name": "D'Angelo",
+     "resource_url": "https://api.discogs.com/artists/44944",
+     "role": "Lyrics By, Music By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2412751,
+     "join": "",
+     "name": "Questlove",
+     "resource_url": "https://api.discogs.com/artists/2412751",
+     "role": "Music By",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Another Life",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/37112877-DAngelo-And-The-Vanguard-3-Black-Messiah",
+ "videos": [
+  {
+   "duration": 292,
+   "title": "D'Angelo and The Vanguard - Ain't That Easy (Audio)",
+   "uri": "https://www.youtube.com/watch?v=lZoxdPGu_4E"
+  },
+  {
+   "duration": 352,
+   "title": "D'Angelo and The Vanguard - 1000 Deaths (Audio)",
+   "uri": "https://www.youtube.com/watch?v=t2r5yqjlVrI"
+  },
+  {
+   "duration": 203,
+   "title": "D'Angelo and The Vanguard - The Charade (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=T3CunfPYkME"
+  },
+  {
+   "duration": 305,
+   "title": "D'Angelo and The Vanguard - Sugah Daddy (Audio)",
+   "uri": "https://www.youtube.com/watch?v=vo3RAH0zLlU"
+  },
+  {
+   "duration": 347,
+   "title": "D'Angelo and The Vanguard - Really Love (Audio)",
+   "uri": "https://www.youtube.com/watch?v=mVsQwJfWzoI"
+  },
+  {
+   "duration": 325,
+   "title": "D'Angelo and The Vanguard - Back to the Future (Part I) (Audio)",
+   "uri": "https://www.youtube.com/watch?v=ISCFeQ7963A"
+  },
+  {
+   "duration": 234,
+   "title": "D'Angelo and The Vanguard - Till It's Done (Tutu) (Audio)",
+   "uri": "https://www.youtube.com/watch?v=P4MQRMK6YO4"
+  },
+  {
+   "duration": 275,
+   "title": "D'Angelo and The Vanguard - Prayer (Audio)",
+   "uri": "https://www.youtube.com/watch?v=pQ6ADCTmaNA"
+  },
+  {
+   "duration": 358,
+   "title": "D'Angelo & The Vanguard - Betray My Heart (Audio)",
+   "uri": "https://www.youtube.com/watch?v=rejA6QRtrAI"
+  },
+  {
+   "duration": 191,
+   "title": "D'Angelo and The Vanguard - The Door (Audio)",
+   "uri": "https://www.youtube.com/watch?v=kQwBKmYj5WI"
+  },
+  {
+   "duration": 147,
+   "title": "D'Angelo and The Vanguard - Back to the Future (Part II) (Audio)",
+   "uri": "https://www.youtube.com/watch?v=_UHe7pscl-c"
+  },
+  {
+   "duration": 361,
+   "title": "D'Angelo & The Vanguard - Another Life (Audio)",
+   "uri": "https://www.youtube.com/watch?v=MTAnBM0ZdVI"
+  }
+ ],
+ "year": 2025
+}

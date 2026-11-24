@@ -1,0 +1,419 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 2372814,
+   "join": "",
+   "name": "Blood Orange (2)",
+   "resource_url": "https://api.discogs.com/artists/2372814",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/k2DhyLvfOXVox5a4g3OzA-REjqApQtYRUW-eDGqccHQ/rs:fit/g:sm/q:90/h:600/w:523/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIzNzI4/MTQtMTU1NDA0ODEy/Ny05MDY2LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "45 RPM",
+    "Album",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "2",
+   "text": "Gatefold"
+  }
+ ],
+ "genres": [
+  "Rock",
+  "Funk / Soul",
+  "Pop"
+ ],
+ "id": 34959245,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/Pglw1kt9yNzg1KRQAiu4BNsTyAeMDS2alg3HKjXe8po/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTU5/MjQ1LTE3NTY1OTUz/NzYtMTQxNS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/Pglw1kt9yNzg1KRQAiu4BNsTyAeMDS2alg3HKjXe8po/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTU5/MjQ1LTE3NTY1OTUz/NzYtMTQxNS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/gljLGMTKfaNGtnKnKar9DlVsCkNyfG0cYSu7cor1WU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTU5/MjQ1LTE3NTY1OTUz/NzYtMTQxNS5qcGVn.jpeg",
+   "width": 592
+  }
+ ],
+ "labels": [
+  {
+   "catno": "19802960851",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 895,
+   "name": "RCA",
+   "resource_url": "https://api.discogs.com/labels/895",
+   "thumbnail_url": "https://i.discogs.com/q-zL2IXAAZL18V9Ova8MTy7NXCoGMloDEKM1yaHpays/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5NS0x/NzY4MDgxMjYxLTMw/NDIuanBlZw.jpeg"
+  },
+  {
+   "catno": "19802960851",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 26465,
+   "name": "Domino",
+   "resource_url": "https://api.discogs.com/labels/26465",
+   "thumbnail_url": "https://i.discogs.com/wq88smIOME8iB4pX37ADNRpkroaYWlyxUmEQ_KvRiWs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDY1/LTE1MDA2NjQzNTUt/MjEzMi5qcGVn.jpeg"
+  }
+ ],
+ "notes": "Standard Edition (2LP Black Vinyl in Gatefold Jacket).",
+ "released": "2025-08-29",
+ "styles": [
+  "Alt-Pop",
+  "Indie Pop",
+  "Contemporary R&B"
+ ],
+ "title": "Essex Honey",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Look At You",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A2",
+   "title": "Thinking Clean",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "Somewhere In Between",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1269616,
+     "join": "",
+     "name": "Caroline Polachek",
+     "resource_url": "https://api.discogs.com/artists/1269616",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 5500267,
+     "join": "",
+     "name": "Daniel Caesar (2)",
+     "resource_url": "https://api.discogs.com/artists/5500267",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 1061713,
+     "join": "",
+     "name": "Tariq Al-Sabir",
+     "resource_url": "https://api.discogs.com/artists/1061713",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 637432,
+     "join": "",
+     "name": "The Durutti Column",
+     "resource_url": "https://api.discogs.com/artists/637432",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "The Field",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1269616,
+     "join": "",
+     "name": "Caroline Polachek",
+     "resource_url": "https://api.discogs.com/artists/1269616",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3317315,
+     "join": "",
+     "name": "Lorde",
+     "resource_url": "https://api.discogs.com/artists/3317315",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9284884,
+     "join": "",
+     "name": "Mustafa (24)",
+     "resource_url": "https://api.discogs.com/artists/9284884",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Mind Loaded",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Vivid Light",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6668640,
+     "join": "",
+     "name": "Eva Tolkin",
+     "resource_url": "https://api.discogs.com/artists/6668640",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3468888,
+     "join": "",
+     "name": "Ian Isiah",
+     "resource_url": "https://api.discogs.com/artists/3468888",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3702216,
+     "join": "",
+     "name": "Liam Benzvi",
+     "resource_url": "https://api.discogs.com/artists/3702216",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Countryside",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "C1",
+   "title": "The Last Of England",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4487155,
+     "join": "",
+     "name": "Charlotte Dos Santos",
+     "resource_url": "https://api.discogs.com/artists/4487155",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 508796,
+     "join": "",
+     "name": "Tirzah",
+     "resource_url": "https://api.discogs.com/artists/508796",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Life",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6668640,
+     "join": "",
+     "name": "Eva Tolkin",
+     "resource_url": "https://api.discogs.com/artists/6668640",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 3702216,
+     "join": "",
+     "name": "Liam Benzvi",
+     "resource_url": "https://api.discogs.com/artists/3702216",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Westerberg",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 1269616,
+     "join": "",
+     "name": "Caroline Polachek",
+     "resource_url": "https://api.discogs.com/artists/1269616",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "The Train (King's Cross)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 19004,
+     "join": "",
+     "name": "Ben Watt",
+     "resource_url": "https://api.discogs.com/artists/19004",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 2741337,
+     "join": "",
+     "name": "Brendan Yates",
+     "resource_url": "https://api.discogs.com/artists/2741337",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Scared Of It",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "D3",
+   "title": "I Listened (Every Night)",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5769384,
+     "join": "",
+     "name": "Mabe Fratti",
+     "resource_url": "https://api.discogs.com/artists/5769384",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 9284884,
+     "join": "",
+     "name": "Mustafa (24)",
+     "resource_url": "https://api.discogs.com/artists/9284884",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "I Can Go",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/34959245-Blood-Orange-2-Essex-Honey",
+ "videos": [
+  {
+   "duration": 181,
+   "title": "Blood Orange - Look At You (Audio)",
+   "uri": "https://www.youtube.com/watch?v=mBZbhIgQUzo"
+  },
+  {
+   "duration": 217,
+   "title": "Blood Orange - Thinking Clean (Audio)",
+   "uri": "https://www.youtube.com/watch?v=r4JiNXLyhXs"
+  },
+  {
+   "duration": 204,
+   "title": "Blood Orange - Somewhere In Between (Official Lyric Video)",
+   "uri": "https://www.youtube.com/watch?v=P_5CkTkAvPQ"
+  },
+  {
+   "duration": 294,
+   "title": "Blood Orange - The Field (Official Video)",
+   "uri": "https://www.youtube.com/watch?v=yTaz0TB9Zco"
+  },
+  {
+   "duration": 220,
+   "title": "Blood Orange - Mind Loaded (Visualizer) ft. Caroline Polachek, Lorde, Mustafa",
+   "uri": "https://www.youtube.com/watch?v=a_0DYKvcjCE"
+  },
+  {
+   "duration": 264,
+   "title": "Blood Orange - Vivid Light (Audio)",
+   "uri": "https://www.youtube.com/watch?v=JwJm1DgN2lI"
+  },
+  {
+   "duration": 193,
+   "title": "Blood Orange - Countryside (Audio) ft. Eva Tolkin, Liam Benzvi, Ian Isiah",
+   "uri": "https://www.youtube.com/watch?v=oxJwX_Efk8Q"
+  },
+  {
+   "duration": 236,
+   "title": "Blood Orange - The Last of England (Audio)",
+   "uri": "https://www.youtube.com/watch?v=iyasAM9BaD4"
+  },
+  {
+   "duration": 174,
+   "title": "Blood Orange - Life (Audio) ft. Tirzah, Charlotte Dos Santos",
+   "uri": "https://www.youtube.com/watch?v=BFKv6lYI46s"
+  },
+  {
+   "duration": 208,
+   "title": "Blood Orange - Westerberg (Audio) ft. Eva Tolkin, Liam Benzvi",
+   "uri": "https://www.youtube.com/watch?v=6ozf7b1QoXA"
+  },
+  {
+   "duration": 170,
+   "title": "Blood Orange - The Train (King's Cross) (Audio) ft. Caroline Polachek",
+   "uri": "https://www.youtube.com/watch?v=gAXz5HWoWsE"
+  },
+  {
+   "duration": 163,
+   "title": "Blood Orange - Scared of It (Audio) ft. Brendan Yates, Ben Watt",
+   "uri": "https://www.youtube.com/watch?v=t6kl63xLhUM"
+  },
+  {
+   "duration": 217,
+   "title": "Blood Orange - I Listened (Every Night) (Audio)",
+   "uri": "https://www.youtube.com/watch?v=DD9zdp1cpec"
+  },
+  {
+   "duration": 173,
+   "title": "Blood Orange - I Can Go (Audio) ft. Mabe Fratti, Mustafa",
+   "uri": "https://www.youtube.com/watch?v=j8WSFM7NtVg"
+  }
+ ],
+ "year": 2025
+}

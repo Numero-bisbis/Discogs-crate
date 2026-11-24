@@ -1,0 +1,180 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 14636742,
+   "join": "",
+   "name": "CA7RIEL & Paco Amoroso",
+   "resource_url": "https://api.discogs.com/artists/14636742",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/jmjTNpX2YbOEmemqxGPwB0bfFek0WPvhtLSc4Zey_tM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0NjM2/NzQyLTE3MzI1OTU2/OTEtOTAzOS5qcGVn.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "1",
+   "text": "Milky Clear"
+  }
+ ],
+ "genres": [
+  "Hip Hop",
+  "Latin",
+  "Pop"
+ ],
+ "id": 38638887,
+ "images": [
+  {
+   "height": 593,
+   "resource_url": "https://i.discogs.com/FJXqpXNkbDygRAzqA3r4Zww-ADcEgd_Xdp9eympF_VE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjM4/ODg3LTE3OTEzNTI1/MTQtNTEwMC5qcGVn.jpeg",
+   "type": "secondary",
+   "uri": "https://i.discogs.com/FJXqpXNkbDygRAzqA3r4Zww-ADcEgd_Xdp9eympF_VE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjM4/ODg3LTE3OTEzNTI1/MTQtNTEwMC5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/rvZ2onU9eCSyhffsIjgz5GdJV9IQhZfYrHwa1dWWO_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjM4/ODg3LTE3OTEzNTI1/MTQtNTEwMC5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "19958453211 S1",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 1222099,
+   "name": "5020 Records",
+   "resource_url": "https://api.discogs.com/labels/1222099",
+   "thumbnail_url": "https://i.discogs.com/HFfcwOZViiu85kuFz3FevyKWDVqyCcvuuVHQjizyRh4/rs:fit/g:sm/q:90/h:447/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMjIw/OTktMTc3NDAxMDM3/My02MzIwLmpwZWc.jpeg"
+  }
+ ],
+ "notes": "19958453211 ℗ & © 2026 - 5020 Records 545 NW 26 Street Miami, Florida 33127.",
+ "released": "2026-10-02",
+ "styles": [
+  "Trap"
+ ],
+ "title": "Free Spirits",
+ "tracklist": [
+  {
+   "duration": "",
+   "position": "A1",
+   "title": "Nada Nuevo",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 292900,
+     "join": "",
+     "name": "Jack Black (2)",
+     "resource_url": "https://api.discogs.com/artists/292900",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Goo Goo Ga Ga",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A3",
+   "title": "No Me Sirve Más",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4003501,
+     "join": "",
+     "name": "Anderson .Paak",
+     "resource_url": "https://api.discogs.com/artists/4003501",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Ay Ay Ay",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A5",
+   "title": "Vida Loca",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "A6",
+   "title": "Muero",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 13961,
+     "join": "",
+     "name": "Sting",
+     "resource_url": "https://api.discogs.com/artists/13961",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Hasta Jesus Tuvo Un Mal Dia",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B2",
+   "title": "Ha Ha",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B3",
+   "title": "Soy Increible",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B4",
+   "title": "Himno Del Mediocre",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "position": "B5",
+   "title": "Todo Ray",
+   "type_": "track"
+  },
+  {
+   "duration": "",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 8664813,
+     "join": "",
+     "name": "Fred again..",
+     "resource_url": "https://api.discogs.com/artists/8664813",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B6",
+   "title": "Lo Quiero Ya !",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/38638887-CA7RIEL-Paco-Amoroso-Free-Spirits",
+ "videos": [],
+ "year": 2026
+}

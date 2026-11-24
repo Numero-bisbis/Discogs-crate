@@ -1,0 +1,1034 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3268,
+   "join": "",
+   "name": "A Tribe Called Quest",
+   "resource_url": "https://api.discogs.com/artists/3268",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/0aZ2ZFRwf_b2PHr1bXlQ6fMi0BartrUL2Is0853W8gk/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyNjgt/MTY2Mzg3MTI0OS0z/MzY1LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "Worldwide",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Stereo"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Hip Hop"
+ ],
+ "id": 33136188,
+ "images": [
+  {
+   "height": 591,
+   "resource_url": "https://i.discogs.com/IvpPC8pCBg-WyUm7F3Dj_687znSaDAXfYngdlu4iWWk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM2/MTg4LTE3NzA0NTAx/NTgtNTQwMS5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/IvpPC8pCBg-WyUm7F3Dj_687znSaDAXfYngdlu4iWWk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM2/MTg4LTE3NzA0NTAx/NTgtNTQwMS5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/oaFyPc2k7opqJF9ytVur5iRnJQNDhX-3hCO3OIR5jk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM2/MTg4LTE3NzA0NTAx/NTgtNTQwMS5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "19658884881",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 2186,
+   "name": "Jive",
+   "resource_url": "https://api.discogs.com/labels/2186",
+   "thumbnail_url": "https://i.discogs.com/3J0SCKFIbjR_SdRGnWplHALEksrM5LsZr067Z2nKUV4/rs:fit/g:sm/q:90/h:160/w:239/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxODYt/MTIyNzA5NjExNS5w/bmc.jpeg"
+  },
+  {
+   "catno": "19658884881",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 15491,
+   "name": "Legacy",
+   "resource_url": "https://api.discogs.com/labels/15491",
+   "thumbnail_url": "https://i.discogs.com/jk2im_GXsDlf_1qNdX0KOoZUX6ivAIvgJH0TEBVW7ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDkx/LTE0OTg4MzQ3MDgt/NzQwOS5wbmc.jpeg"
+  },
+  {
+   "catno": "19658884881",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 25487,
+   "name": "Sony Music",
+   "resource_url": "https://api.discogs.com/labels/25487",
+   "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+  }
+ ],
+ "notes": "[Back cover:]\n℗ 1996 Zomba Recording LLC © 1996, 2024 Zomba Recording LLC. \nDistributed by Sony Music Entertainment.\nSony Music Entertainment International Services GmbH, PO Bax 510, 33311 Gütersloh, Germany.\nSony Music UK, 2 Canal Reach, Kings Cross, London, NIC 4DB, United Kingdom. \nAll trademarks and logos are protected. All Rights Reserved. \nMade in the EU. 19658884881\n\n[Runouts:]\nAll runouts are etched except \"-65239-\" which is stamped.\n\nWorldwide excluding North America.",
+ "released": "2025-02-14",
+ "styles": [
+  "Conscious",
+  "Jazzy Hip-Hop"
+ ],
+ "title": "Beats, Rhymes And Life",
+ "tracklist": [
+  {
+   "duration": "3:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 109335,
+     "join": "",
+     "name": "Consequence (2)",
+     "resource_url": "https://api.discogs.com/artists/109335",
+     "role": "Vocals [Additional Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "D. Mills",
+     "id": 908478,
+     "join": "",
+     "name": "Dexter Raymond Mills, Jr.",
+     "resource_url": "https://api.discogs.com/artists/908478",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A1",
+   "title": "Phony Rappers",
+   "type_": "track"
+  },
+  {
+   "duration": "3:35",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 223743,
+     "join": "",
+     "name": "The Cyrkle",
+     "resource_url": "https://api.discogs.com/artists/223743",
+     "role": "Performer [Sample From \"The Visit\" Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Yancey",
+     "id": 246270,
+     "join": "",
+     "name": "James Yancey",
+     "resource_url": "https://api.discogs.com/artists/246270",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "B. Chandler",
+     "id": 254160,
+     "join": "",
+     "name": "Chas Chandler",
+     "resource_url": "https://api.discogs.com/artists/254160",
+     "role": "Written-By [Sample From \"The Visit\" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "E. McKendry",
+     "id": 916679,
+     "join": "",
+     "name": "Edward McKendry",
+     "resource_url": "https://api.discogs.com/artists/916679",
+     "role": "Written-By [Sample From \"The Visit\" Written By]",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Get A Hold",
+   "type_": "track"
+  },
+  {
+   "duration": "3:20",
+   "extraartists": [
+    {
+     "anv": "Michael Urbaniak",
+     "id": 455886,
+     "join": "",
+     "name": "Michał Urbaniak",
+     "resource_url": "https://api.discogs.com/artists/455886",
+     "role": "Performer [Sample From \"Sound Pieces\" Performed By], Written-By [Sample From \"Sound Pieces\" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109335,
+     "join": "",
+     "name": "Consequence (2)",
+     "resource_url": "https://api.discogs.com/artists/109335",
+     "role": "Vocals [Additional Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "D. Mills",
+     "id": 908478,
+     "join": "",
+     "name": "Dexter Raymond Mills, Jr.",
+     "resource_url": "https://api.discogs.com/artists/908478",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Motivators",
+   "type_": "track"
+  },
+  {
+   "duration": "4:38",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 109335,
+     "join": "",
+     "name": "Consequence (2)",
+     "resource_url": "https://api.discogs.com/artists/109335",
+     "role": "Vocals [Additional Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "D. Mills",
+     "id": 908478,
+     "join": "",
+     "name": "Dexter Raymond Mills, Jr.",
+     "resource_url": "https://api.discogs.com/artists/908478",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B1",
+   "title": "Jam",
+   "type_": "track"
+  },
+  {
+   "duration": "1:58",
+   "extraartists": [
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Crew",
+   "type_": "track"
+  },
+  {
+   "duration": "3:02",
+   "extraartists": [
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "The Pressure",
+   "type_": "track"
+  },
+  {
+   "duration": "3:49",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 45052,
+     "join": "",
+     "name": "Tammy Lucas",
+     "resource_url": "https://api.discogs.com/artists/45052",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "The Gary Burton Quartet",
+     "id": 841693,
+     "join": "",
+     "name": "Gary Burton Quartet",
+     "resource_url": "https://api.discogs.com/artists/841693",
+     "role": "Performer [Sample From \"I'm Your Pal\" Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Yancey",
+     "id": 246270,
+     "join": "",
+     "name": "James Yancey",
+     "resource_url": "https://api.discogs.com/artists/246270",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Swallow",
+     "id": 284204,
+     "join": "",
+     "name": "Steve Swallow",
+     "resource_url": "https://api.discogs.com/artists/284204",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "S. Swallow",
+     "id": 284204,
+     "join": "",
+     "name": "Steve Swallow",
+     "resource_url": "https://api.discogs.com/artists/284204",
+     "role": "Written-By [Sample From \"I'm Your Pal\" Written By]",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "1nce Again",
+   "type_": "track"
+  },
+  {
+   "duration": "3:55",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 48865,
+     "join": "",
+     "name": "Kool & The Gang",
+     "resource_url": "https://api.discogs.com/artists/48865",
+     "role": "Performer [Sample From \"N.T.\" Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109335,
+     "join": "",
+     "name": "Consequence (2)",
+     "resource_url": "https://api.discogs.com/artists/109335",
+     "role": "Vocals [Additional Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "D. Mills",
+     "id": 908478,
+     "join": "",
+     "name": "Dexter Raymond Mills, Jr.",
+     "resource_url": "https://api.discogs.com/artists/908478",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G. Redd",
+     "id": 699453,
+     "join": "",
+     "name": "Gene Redd Jr.",
+     "resource_url": "https://api.discogs.com/artists/699453",
+     "role": "Written-By [Sample From \"N.T.\" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Bell",
+     "id": 387580,
+     "join": "",
+     "name": "Robert Kool Bell",
+     "resource_url": "https://api.discogs.com/artists/387580",
+     "role": "Written-By [Sample From \"N.T.\" Written By]",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Mind Power",
+   "type_": "track"
+  },
+  {
+   "duration": "3:27",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 101845,
+     "join": "",
+     "name": "Rashad Smith",
+     "resource_url": "https://api.discogs.com/artists/101845",
+     "role": "Instruments [All Instruments By]",
+     "tracks": ""
+    },
+    {
+     "anv": "Mase",
+     "id": 62794,
+     "join": "",
+     "name": "Mixmaster Mase",
+     "resource_url": "https://api.discogs.com/artists/62794",
+     "role": "Scratches [Additional Scratches By]",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Smith",
+     "id": 101845,
+     "join": "",
+     "name": "Rashad Smith",
+     "resource_url": "https://api.discogs.com/artists/101845",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Hall",
+     "id": 480312,
+     "join": "",
+     "name": "Al Hall (2)",
+     "resource_url": "https://api.discogs.com/artists/480312",
+     "role": "Written-By [Sample From \"Soft Spirit\" Written By]",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "The Hop",
+   "type_": "track"
+  },
+  {
+   "duration": "3:38",
+   "extraartists": [
+    {
+     "anv": "J. Yancey",
+     "id": 246270,
+     "join": "",
+     "name": "James Yancey",
+     "resource_url": "https://api.discogs.com/artists/246270",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C3",
+   "title": "Keeping It Moving",
+   "type_": "track"
+  },
+  {
+   "duration": "3:18",
+   "extraartists": [
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "C4",
+   "title": "Baby Phife's Return",
+   "type_": "track"
+  },
+  {
+   "duration": "1:38",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 12596,
+     "join": "",
+     "name": "James Brown",
+     "resource_url": "https://api.discogs.com/artists/12596",
+     "role": "Performer [Sample From \"Funky Drummer\" Performed By], Written-By [Sample From \"Funky Drummer\" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "Separate / Together",
+   "type_": "track"
+  },
+  {
+   "duration": "3:23",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 48413,
+     "join": "",
+     "name": "Ohio Players",
+     "resource_url": "https://api.discogs.com/artists/48413",
+     "role": "Performer [Sample From \"Pain\" Performed By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Noland",
+     "id": 661393,
+     "join": "",
+     "name": "Andrew Noland",
+     "resource_url": "https://api.discogs.com/artists/661393",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G. Webster",
+     "id": 723565,
+     "join": "",
+     "name": "Gregory Allen Webster",
+     "resource_url": "https://api.discogs.com/artists/723565",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Morrison",
+     "id": 67807,
+     "join": "",
+     "name": "Junie Morrison",
+     "resource_url": "https://api.discogs.com/artists/67807",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Bonner",
+     "id": 168235,
+     "join": "",
+     "name": "Leroy \"Sugarfoot\" Bonner",
+     "resource_url": "https://api.discogs.com/artists/168235",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Jones",
+     "id": 312244,
+     "join": "",
+     "name": "Marshall Jones",
+     "resource_url": "https://api.discogs.com/artists/312244",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Pierce",
+     "id": 422683,
+     "join": "",
+     "name": "Marvin \"Merv\" Pierce",
+     "resource_url": "https://api.discogs.com/artists/422683",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "N. Napier",
+     "id": 979420,
+     "join": "",
+     "name": "Norman Napier",
+     "resource_url": "https://api.discogs.com/artists/979420",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Middlebrooks",
+     "id": 422686,
+     "join": "",
+     "name": "Ralph \"Pee Wee\" Middlebrooks",
+     "resource_url": "https://api.discogs.com/artists/422686",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Noland",
+     "id": 661393,
+     "join": "",
+     "name": "Andrew Noland",
+     "resource_url": "https://api.discogs.com/artists/661393",
+     "role": "Written-By [Sample From \"Pain\" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "G. Webster",
+     "id": 723565,
+     "join": "",
+     "name": "Gregory Allen Webster",
+     "resource_url": "https://api.discogs.com/artists/723565",
+     "role": "Written-By [Sample From \"Pain\" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "W. Morrison",
+     "id": 67807,
+     "join": "",
+     "name": "Junie Morrison",
+     "resource_url": "https://api.discogs.com/artists/67807",
+     "role": "Written-By [Sample From \"Pain\" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "L. Bonner",
+     "id": 168235,
+     "join": "",
+     "name": "Leroy \"Sugarfoot\" Bonner",
+     "resource_url": "https://api.discogs.com/artists/168235",
+     "role": "Written-By [Sample From \"Pain\" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Jones",
+     "id": 312244,
+     "join": "",
+     "name": "Marshall Jones",
+     "resource_url": "https://api.discogs.com/artists/312244",
+     "role": "Written-By [Sample From \"Pain\" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Pierce",
+     "id": 422683,
+     "join": "",
+     "name": "Marvin \"Merv\" Pierce",
+     "resource_url": "https://api.discogs.com/artists/422683",
+     "role": "Written-By [Sample From \"Pain\" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "N. Napier",
+     "id": 979420,
+     "join": "",
+     "name": "Norman Napier",
+     "resource_url": "https://api.discogs.com/artists/979420",
+     "role": "Written-By [Sample From \"Pain\" Written By]",
+     "tracks": ""
+    },
+    {
+     "anv": "R. Middlebrooks",
+     "id": 422686,
+     "join": "",
+     "name": "Ralph \"Pee Wee\" Middlebrooks",
+     "resource_url": "https://api.discogs.com/artists/422686",
+     "role": "Written-By [Sample From \"Pain\" Written By]",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "What Really Goes On",
+   "type_": "track"
+  },
+  {
+   "duration": "2:59",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 109335,
+     "join": "",
+     "name": "Consequence (2)",
+     "resource_url": "https://api.discogs.com/artists/109335",
+     "role": "Vocals [Additional Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "D. Mills",
+     "id": 908478,
+     "join": "",
+     "name": "Dexter Raymond Mills, Jr.",
+     "resource_url": "https://api.discogs.com/artists/908478",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Yancey",
+     "id": 246270,
+     "join": "",
+     "name": "James Yancey",
+     "resource_url": "https://api.discogs.com/artists/246270",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "M. Taylor",
+     "id": 680834,
+     "join": "",
+     "name": "Malik Taylor",
+     "resource_url": "https://api.discogs.com/artists/680834",
+     "role": "Written-By",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Word Play",
+   "type_": "track"
+  },
+  {
+   "duration": "4:57",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 51271,
+     "join": "",
+     "name": "Faith Evans",
+     "resource_url": "https://api.discogs.com/artists/51271",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 109335,
+     "join": "",
+     "name": "Consequence (2)",
+     "resource_url": "https://api.discogs.com/artists/109335",
+     "role": "Vocals [Additional Vocals By]",
+     "tracks": ""
+    },
+    {
+     "anv": "A. Muhammad",
+     "id": 10378,
+     "join": "",
+     "name": "Ali Shaheed Muhammad",
+     "resource_url": "https://api.discogs.com/artists/10378",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "D. Mills",
+     "id": 908478,
+     "join": "",
+     "name": "Dexter Raymond Mills, Jr.",
+     "resource_url": "https://api.discogs.com/artists/908478",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "F. Evans",
+     "id": 51271,
+     "join": "",
+     "name": "Faith Evans",
+     "resource_url": "https://api.discogs.com/artists/51271",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "J. Yancey",
+     "id": 246270,
+     "join": "",
+     "name": "James Yancey",
+     "resource_url": "https://api.discogs.com/artists/246270",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G. Tayor",
+     "id": 158399,
+     "join": "",
+     "name": "Johnnie Taylor",
+     "resource_url": "https://api.discogs.com/artists/158399",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "K. Fareed",
+     "id": 702075,
+     "join": "",
+     "name": "Kamaal Fareed",
+     "resource_url": "https://api.discogs.com/artists/702075",
+     "role": "Written-By",
+     "tracks": ""
+    },
+    {
+     "anv": "G. Taylor",
+     "id": 158399,
+     "join": "",
+     "name": "Johnnie Taylor",
+     "resource_url": "https://api.discogs.com/artists/158399",
+     "role": "Written-By [Portions Of The Composition \"Good Love\" Written By]",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Stressed Out",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/33136188-A-Tribe-Called-Quest-Beats-Rhymes-And-Life",
+ "videos": [
+  {
+   "duration": 217,
+   "title": "Phony Rappers",
+   "uri": "https://www.youtube.com/watch?v=c_KFlGnh4R8"
+  },
+  {
+   "duration": 216,
+   "title": "Get A Hold",
+   "uri": "https://www.youtube.com/watch?v=-S-BLK2gc7w"
+  },
+  {
+   "duration": 201,
+   "title": "Motivators",
+   "uri": "https://www.youtube.com/watch?v=4Lm3bQR8NuQ"
+  },
+  {
+   "duration": 279,
+   "title": "The Jam",
+   "uri": "https://www.youtube.com/watch?v=JIbC5CkjPdo"
+  },
+  {
+   "duration": 119,
+   "title": "Crew",
+   "uri": "https://www.youtube.com/watch?v=dlqeEO7Ogdw"
+  },
+  {
+   "duration": 183,
+   "title": "The Pressure",
+   "uri": "https://www.youtube.com/watch?v=mn8-_ntBtqM"
+  },
+  {
+   "duration": 230,
+   "title": "1nce Again",
+   "uri": "https://www.youtube.com/watch?v=7OuSVDZw-ag"
+  },
+  {
+   "duration": 236,
+   "title": "Mind Power",
+   "uri": "https://www.youtube.com/watch?v=OM4HhKO5X4g"
+  },
+  {
+   "duration": 208,
+   "title": "The Hop",
+   "uri": "https://www.youtube.com/watch?v=f1-oJnaN1Js"
+  },
+  {
+   "duration": 219,
+   "title": "Keeping It Moving",
+   "uri": "https://www.youtube.com/watch?v=yeysGkd6m4U"
+  },
+  {
+   "duration": 199,
+   "title": "Baby Phife's Return",
+   "uri": "https://www.youtube.com/watch?v=yHNBfYtXoMU"
+  },
+  {
+   "duration": 99,
+   "title": "Separate/Together",
+   "uri": "https://www.youtube.com/watch?v=ABNiatTrSgo"
+  },
+  {
+   "duration": 204,
+   "title": "What Really Goes On",
+   "uri": "https://www.youtube.com/watch?v=07428hCoBLQ"
+  },
+  {
+   "duration": 180,
+   "title": "Word Play",
+   "uri": "https://www.youtube.com/watch?v=LfWtkay3lEo"
+  },
+  {
+   "duration": 241,
+   "title": "A Tribe Called Quest - Stressed Out (Official HD Video) ft. Faith Evans",
+   "uri": "https://www.youtube.com/watch?v=EVNIZK1tRuo"
+  }
+ ],
+ "year": 2025
+}

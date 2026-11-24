@@ -1,0 +1,469 @@
+{
+ "artists": [
+  {
+   "anv": "",
+   "id": 3160392,
+   "join": "",
+   "name": "Kaytranada",
+   "resource_url": "https://api.discogs.com/artists/3160392",
+   "role": "",
+   "thumbnail_url": "https://i.discogs.com/EN0-2FYvtlUImGULAcqauwJSAhMlbrnjVYfMQ2NN5vc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxNjAz/OTItMTY2MzM3NzM5/OS0xOTM5LmpwZWc.jpeg",
+   "tracks": ""
+  }
+ ],
+ "country": "US",
+ "formats": [
+  {
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "name": "Vinyl",
+   "qty": "2"
+  }
+ ],
+ "genres": [
+  "Electronic",
+  "Hip Hop",
+  "Funk / Soul",
+  "Pop"
+ ],
+ "id": 30926445,
+ "images": [
+  {
+   "height": 600,
+   "resource_url": "https://i.discogs.com/sZuFJPTIGOzCwmsfiBsGglhF9MacyYYnGutwcZplTBI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI2/NDQ1LTE3MTg1MDYy/NjEtNTMwNy5qcGVn.jpeg",
+   "type": "primary",
+   "uri": "https://i.discogs.com/sZuFJPTIGOzCwmsfiBsGglhF9MacyYYnGutwcZplTBI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI2/NDQ1LTE3MTg1MDYy/NjEtNTMwNy5qcGVn.jpeg",
+   "uri150": "https://i.discogs.com/WhRlUoDpe4Hd_7S9ynzrDR6RTQ_pZQKmlVf6g4HbxIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI2/NDQ1LTE3MTg1MDYy/NjEtNTMwNy5qcGVn.jpeg",
+   "width": 600
+  }
+ ],
+ "labels": [
+  {
+   "catno": "none",
+   "entity_type": "1",
+   "entity_type_name": "Label",
+   "id": 895,
+   "name": "RCA",
+   "resource_url": "https://api.discogs.com/labels/895",
+   "thumbnail_url": "https://i.discogs.com/q-zL2IXAAZL18V9Ova8MTy7NXCoGMloDEKM1yaHpays/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5NS0x/NzY4MDgxMjYxLTMw/NDIuanBlZw.jpeg"
+  }
+ ],
+ "notes": "2LP - gatefold sleeve + exclusive poster + download card with 4 bonus tracks.\nOriginally only released though Diggers Factory, it was given a wide release by RCA on June 27, 2025.\n\n℗© 2024 RCA Records, under exclusive license from Kaytranada.\nMarketed and distributed by RCA Records, a division of Sony Music Entertainment, 25 Madison Avenue, New York 10010.\nAll rights reserved.",
+ "released": "2024-06-07",
+ "styles": [
+  "Contemporary R&B",
+  "House"
+ ],
+ "title": "Timeless",
+ "tracklist": [
+  {
+   "duration": "1:58",
+   "position": "A1",
+   "title": "Pressure",
+   "type_": "track"
+  },
+  {
+   "duration": "3:38",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3500202,
+     "join": "",
+     "name": "Rochelle Jordan",
+     "resource_url": "https://api.discogs.com/artists/3500202",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A2",
+   "title": "Spit It Out",
+   "type_": "track"
+  },
+  {
+   "duration": "2:58",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5320478,
+     "join": "",
+     "name": "Lou Phelps",
+     "resource_url": "https://api.discogs.com/artists/5320478",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A3",
+   "title": "Call U Up",
+   "type_": "track"
+  },
+  {
+   "duration": "3:27",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3074695,
+     "join": "",
+     "name": "Durand Bernarr",
+     "resource_url": "https://api.discogs.com/artists/3074695",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "A4",
+   "title": "Weird",
+   "type_": "track"
+  },
+  {
+   "duration": "1:43",
+   "position": "B1",
+   "title": "Dance Dance Dance Dance",
+   "type_": "track"
+  },
+  {
+   "duration": "3:17",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 6775860,
+     "join": "",
+     "name": "Don Toliver",
+     "resource_url": "https://api.discogs.com/artists/6775860",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B2",
+   "title": "Feel A Way",
+   "type_": "track"
+  },
+  {
+   "duration": "2:15",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3845282,
+     "join": "",
+     "name": "Charlotte Day Wilson",
+     "resource_url": "https://api.discogs.com/artists/3845282",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B3",
+   "title": "Still",
+   "type_": "track"
+  },
+  {
+   "duration": "3:12",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4732204,
+     "join": "",
+     "name": "Ravyn Lenae",
+     "resource_url": "https://api.discogs.com/artists/4732204",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "B4",
+   "title": "Video",
+   "type_": "track"
+  },
+  {
+   "duration": "3:18",
+   "position": "B5",
+   "title": "Seemingly",
+   "type_": "track"
+  },
+  {
+   "duration": "2:28",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 5592814,
+     "join": "",
+     "name": "Channel Tres",
+     "resource_url": "https://api.discogs.com/artists/5592814",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C1",
+   "title": "Drip Sweat",
+   "type_": "track"
+  },
+  {
+   "duration": "3:16",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2536718,
+     "join": "",
+     "name": "Dawn Richard (2)",
+     "resource_url": "https://api.discogs.com/artists/2536718",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "C2",
+   "title": "Hold On",
+   "type_": "track"
+  },
+  {
+   "duration": "2:47",
+   "position": "C3",
+   "title": "Please Babe",
+   "type_": "track"
+  },
+  {
+   "duration": "3:01",
+   "position": "C4",
+   "title": "Stepped On",
+   "type_": "track"
+  },
+  {
+   "duration": "2:55",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3519986,
+     "join": "",
+     "name": "Tinashe (2)",
+     "resource_url": "https://api.discogs.com/artists/3519986",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D1",
+   "title": "More Than A Little Bit",
+   "type_": "track"
+  },
+  {
+   "duration": "3:51",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 4003501,
+     "join": "",
+     "name": "Anderson .Paak",
+     "resource_url": "https://api.discogs.com/artists/4003501",
+     "role": "Featuring",
+     "tracks": ""
+    },
+    {
+     "anv": "",
+     "id": 4613460,
+     "join": "",
+     "name": "SiR (12)",
+     "resource_url": "https://api.discogs.com/artists/4613460",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D2",
+   "title": "Do 2 Me",
+   "type_": "track"
+  },
+  {
+   "duration": "3:47",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 2482309,
+     "join": "",
+     "name": "Childish Gambino",
+     "resource_url": "https://api.discogs.com/artists/2482309",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D3",
+   "title": "Witchy",
+   "type_": "track"
+  },
+  {
+   "duration": "4:19",
+   "extraartists": [
+    {
+     "anv": "",
+     "id": 3500202,
+     "join": "",
+     "name": "Rochelle Jordan",
+     "resource_url": "https://api.discogs.com/artists/3500202",
+     "role": "Featuring",
+     "tracks": ""
+    }
+   ],
+   "position": "D4",
+   "title": "Lover/Friend",
+   "type_": "track"
+  }
+ ],
+ "uri": "https://www.discogs.com/release/30926445-Kaytranada-Timeless",
+ "videos": [
+  {
+   "duration": 232,
+   "title": "KAYTRANADA - Witchy (feat. Childish Gambino) [Official Video]",
+   "uri": "https://www.youtube.com/watch?v=jGK3YVmGZ3Y"
+  },
+  {
+   "duration": 148,
+   "title": "KAYTRANADA - Drip Sweat (ft. Channel Tres)",
+   "uri": "https://www.youtube.com/watch?v=FlObYZu9L5A"
+  },
+  {
+   "duration": 120,
+   "title": "KAYTRANADA - Pressure (Visualizer)",
+   "uri": "https://www.youtube.com/watch?v=L9zkwDm88BM"
+  },
+  {
+   "duration": 219,
+   "title": "KAYTRANADA - Spit It Out (Visualizer) ft. Rochelle Jordan",
+   "uri": "https://www.youtube.com/watch?v=WHB3ka-39Yo"
+  },
+  {
+   "duration": 179,
+   "title": "KAYTRANADA - Call U Up (Visualizer) ft. Lou Phelps",
+   "uri": "https://www.youtube.com/watch?v=ijP_r0f-Mds"
+  },
+  {
+   "duration": 193,
+   "title": "KAYTRANADA - Video (Visualizer) ft. Ravyn Lenae",
+   "uri": "https://www.youtube.com/watch?v=1aZqiXNOhhc"
+  },
+  {
+   "duration": 198,
+   "title": "KAYTRANADA - SEEMINGLY",
+   "uri": "https://www.youtube.com/watch?v=DD6VI7rjSxs"
+  },
+  {
+   "duration": 172,
+   "title": "KAYTRANADA - Please Babe (Visualizer)",
+   "uri": "https://www.youtube.com/watch?v=pTgkSgqT6RI"
+  },
+  {
+   "duration": 227,
+   "title": "KAYTRANADA - Witchy (ft. Childish Gambino)",
+   "uri": "https://www.youtube.com/watch?v=621srMtTkbE"
+  },
+  {
+   "duration": 200,
+   "title": "KAYTRANADA - Snap My Finger (ft. PinkPantheress)",
+   "uri": "https://www.youtube.com/watch?v=vAOzFvVz718"
+  },
+  {
+   "duration": 119,
+   "title": "KAYTRANADA - Pressure (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=xdNK7GlQkrk"
+  },
+  {
+   "duration": 220,
+   "title": "KAYTRANADA - Spit It Out (Official Audio) ft. Rochelle Jordan",
+   "uri": "https://www.youtube.com/watch?v=ahm5yYJj0PM"
+  },
+  {
+   "duration": 180,
+   "title": "KAYTRANADA - Call U Up (Official Audio) ft. Lou Phelps",
+   "uri": "https://www.youtube.com/watch?v=pNHJi68dkQA"
+  },
+  {
+   "duration": 208,
+   "title": "KAYTRANADA - Weird (Official Audio) ft. Durand Bernarr",
+   "uri": "https://www.youtube.com/watch?v=-XRhHE8R9to"
+  },
+  {
+   "duration": 104,
+   "title": "KAYTRANADA - Dance Dance Dance Dance (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=dock9j9e9tw"
+  },
+  {
+   "duration": 198,
+   "title": "KAYTRANADA - Feel A Way (Official Audio) ft. Don Toliver",
+   "uri": "https://www.youtube.com/watch?v=EqfnKrbMZ5w"
+  },
+  {
+   "duration": 136,
+   "title": "KAYTRANADA - Still (Official Audio) ft. Charlotte Day Wilson",
+   "uri": "https://www.youtube.com/watch?v=X87RHDKPuP4"
+  },
+  {
+   "duration": 193,
+   "title": "KAYTRANADA - Video (Official Audio) ft. Ravyn Lenae",
+   "uri": "https://www.youtube.com/watch?v=-9goaJ1pLjg"
+  },
+  {
+   "duration": 198,
+   "title": "KAYTRANADA - Seemingly (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=bkgACshUtrU"
+  },
+  {
+   "duration": 149,
+   "title": "KAYTRANADA - Drip Sweat (Official Audio) ft. Channel Tres",
+   "uri": "https://www.youtube.com/watch?v=LeTHH0aMcDE"
+  },
+  {
+   "duration": 197,
+   "title": "KAYTRANADA - Hold On (Official Audio) ft. Dawn Richard",
+   "uri": "https://www.youtube.com/watch?v=K8WGKt_w9q0"
+  },
+  {
+   "duration": 169,
+   "title": "KAYTRANADA - Please Babe (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=mo-RdQ4_ETg"
+  },
+  {
+   "duration": 182,
+   "title": "KAYTRANADA - Stepped On (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=FKbB9VdekyM"
+  },
+  {
+   "duration": 176,
+   "title": "KAYTRANADA - More Than A Little Bit (Official Audio) ft. Tinashe",
+   "uri": "https://www.youtube.com/watch?v=kQC0S0VYoio"
+  },
+  {
+   "duration": 232,
+   "title": "KAYTRANADA - Do 2 Me (Official Audio) ft. Anderson .Paak, SiR",
+   "uri": "https://www.youtube.com/watch?v=homLqm-W2Ro"
+  },
+  {
+   "duration": 228,
+   "title": "KAYTRANADA - Witchy (Official Audio) ft. Childish Gambino",
+   "uri": "https://www.youtube.com/watch?v=izFpbi6WN98"
+  },
+  {
+   "duration": 257,
+   "title": "KAYTRANADA, Rochelle Jordan - Lover/Friend (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=x3d6TwYvnDE"
+  },
+  {
+   "duration": 88,
+   "title": "KAYTRANADA - Wasted Words (Official Audio) ft. Thundercat",
+   "uri": "https://www.youtube.com/watch?v=QEWPgQIw78Q"
+  },
+  {
+   "duration": 202,
+   "title": "KAYTRANADA - Snap My Finger (Official Audio) ft. PinkPantheress",
+   "uri": "https://www.youtube.com/watch?v=xJGs06YwzDc"
+  },
+  {
+   "duration": 183,
+   "title": "KAYTRANADA, Channel Tres - Stuntin (Official Audio)",
+   "uri": "https://www.youtube.com/watch?v=bcEPqkmw4FA"
+  },
+  {
+   "duration": 180,
+   "title": "KAYTRANADA - Out Of Luck (Official Audio) ft. Mariah the Scientist",
+   "uri": "https://www.youtube.com/watch?v=xiZwyig8_-c"
+  },
+  {
+   "duration": 3782,
+   "title": "[전곡해석] KAYTRANADA - Timeless (FULL ALBUM)",
+   "uri": "https://www.youtube.com/watch?v=rm3Ys6sE_o4"
+  }
+ ],
+ "year": 2024
+}
