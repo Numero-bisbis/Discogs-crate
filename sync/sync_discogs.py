@@ -58,10 +58,26 @@ def fetch_folders():
     return {f["id"]: f["name"] for f in res.get("folders", [])}
 
 
+def fetch_fields():
+    """Names of the collection's note fields (Media Condition, Notes, and any custom ones such as
+    "Price paid"), so the Value tab can find what each record cost. Optional: never stops the sync."""
+    headers = {"Authorization": f"Discogs token={TOKEN}"} if TOKEN else None
+    try:
+        r = http_get(f"{API}/users/{USERNAME}/collection/fields", headers=headers,
+                     min_interval=INTERVAL, host_key="discogs")
+        if r.status_code != 200:
+            return {}
+        return {str(f["id"]): f.get("name") or "" for f in r.json().get("fields", [])}
+    except Exception as e:  # noqa: BLE001
+        print(f"  collection fields not read: {e!r}")
+        return {}
+
+
 def main():
     items = fetch_collection()
     folders = fetch_folders()
-    save_json(DATA / "collection.json", {"username": USERNAME, "folders": folders, "items": items})
+    fields = fetch_fields()
+    save_json(DATA / "collection.json", {"username": USERNAME, "folders": folders, "fields": fields, "items": items})
 
     rel_dir = DATA / "releases"
     rel_dir.mkdir(parents=True, exist_ok=True)

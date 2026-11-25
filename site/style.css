@@ -904,7 +904,17 @@ body.decks-on { overflow: hidden; }
 .vnote.vsrc { margin-top: 24px; }
 .linkish { background: none; padding: 0; font-size: inherit; color: var(--accent); }
 .linkish:hover { background: none; }
-.vseries { margin: -6px 0 16px; max-width: 260px; }
+.vseries { display: flex; flex-wrap: wrap; gap: 8px 10px; margin: -6px 0 12px; }
+.vseries .vseg { flex: 0 1 auto; }
+.vh-num.up { color: var(--good); }
+.vh-num.down { color: var(--bad); }
+.vchart .vg.v0 { stroke: var(--muted); stroke-width: 1; stroke-dasharray: 3 3; }
+.vchart .vband.neg { fill: var(--bad); opacity: .12; }
+/* the Min / Median / Max tiles double as the switch for the big number and the line */
+button.vtile { display: block; width: 100%; text-align: left; border-radius: 0; font-weight: 400; color: var(--text); min-height: 0; }
+button.vtile:hover { background: var(--panel3); }
+.vtile.on small { color: var(--accent); font-weight: 600; }
+.vtile.on { box-shadow: inset 0 -2px 0 var(--accent); }
 .vtiles { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; background: var(--sep); border-radius: 10px; overflow: hidden; margin: 0 0 26px; }
 .vtile { background: var(--panel); padding: 12px 14px; }
 /* four tiles: two rows of two on a phone, one row on a wider screen, so no cell is left empty */
