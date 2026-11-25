@@ -215,9 +215,37 @@ def main():
     print(f"snapshot {today}: " + ", ".join(f"{k} {v}" for k, v in point.items() if k not in ("g", "d")))
 
 
+PAID_FIELD = re.compile(r"pa(id|y)|price|cost|purchase|bought", re.I)
+PAID_NOTE = re.compile(r"(?:paid|cost|bought (?:for|at)|price)\s*:?\s*([€£$¥]?\s*\d[\d.,]*\s*[€£$¥]?)", re.I)
+
+
+def paid_prices(collection):
+    """What each record cost, when it's written on Discogs: a custom collection field whose name
+    mentions price / paid / cost (e.g. "Price paid"), or "paid 12" in the Notes field."""
+    fields = collection.get("fields") or {}
+    price_ids = {int(k) for k, name in fields.items() if PAID_FIELD.search(name or "")}
+    notes_ids = {int(k) for k, name in fields.items() if (name or "").strip().lower() == "notes"} or {3}
+    out = {}
+    for it in collection.get("items", []):
+        rid = str(it["basic_information"]["id"])
+        for n in it.get("notes") or []:
+            fid, val = n.get("field_id"), str(n.get("value") or "")
+            v = None
+            if fid in price_ids:
+                v = parse_money(val)
+            elif fid in notes_ids:
+                m = PAID_NOTE.search(val)
+                v = parse_money(m.group(1)) if m else None
+            if v:
+                out[rid] = round(out.get(rid, 0) + v, 2)  # two copies of a release: both costs
+                break
+    return out
+
+
 def write_site(releases_by_id=None):
     """site/value.json: today's price per record plus the daily history, loaded by the Value tab."""
     prices = load_json(VDIR / "prices.json", {})
+    paid = paid_prices(load_json(DATA / "collection.json", {"items": []}))
     history = load_json(VDIR / "history.json", {"points": []})
     recs = {}
     for rid, p in prices.items():
@@ -233,6 +261,10 @@ def write_site(releases_by_id=None):
             r["s"] = p["s"]
         if len(p.get("h") or []) > 1:
             r["h"] = p["h"]
+        if p.get("h"):
+            r["f"] = p["h"][0]  # first day priced and its typical price: the cost basis for profit / loss
+        if rid in paid:
+            r["c"] = paid[rid]
         recs[rid] = r
     out = {"currency": history.get("currency") or CURRENCY, "since": history.get("since"),
            "points": history.get("points", []), "records": recs}

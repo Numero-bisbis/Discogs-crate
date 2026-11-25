@@ -11,8 +11,9 @@
     get(k, d) { try { const v = localStorage.getItem('crate.' + k); return v ? JSON.parse(v) : d; } catch { return d; } },
     set(k, v) { try { localStorage.setItem('crate.' + k, JSON.stringify(v)); } catch { /* blocked */ } },
   };
-  const st = Object.assign({ range: '3M', dim: 'genre', pick: '', sort: 'value', series: '' }, store.get('valueView', {}));
-  const save = () => store.set('valueView', { range: st.range, dim: st.dim, sort: st.sort, series: st.series, lbBy: st.lbBy });
+  const st = Object.assign({ range: '3M', dim: 'genre', pick: '', sort: 'value', series: '', measure: 'med', show: 'value' }, store.get('valueView', {}));
+  const save = () => store.set('valueView', { range: st.range, dim: st.dim, sort: st.sort, series: st.series, lbBy: st.lbBy, measure: st.measure, show: st.show });
+  const MEASURES = [['min', 'Min', 'Minimum'], ['med', 'Median', 'Median'], ['max', 'Max', 'Maximum']];
   const lbShow = {}; // how far each leaderboard is opened: 5, 10, 25 or all
 
   let V = null, loading = null;
@@ -51,22 +52,88 @@
     return `<span class="vchg ${cls}">${arrow ? arrow + ' ' : ''}${money(Math.abs(d), Math.abs(d) >= 1000)} (${d >= 0 ? '+' : '−'}${Math.abs(p).toFixed(1)}%)</span>${label ? ` <span class="vchg-l">${esc(label)}</span>` : ''}`;
   }
 
+  // Profit / loss reads as a signed amount; its % is against what the records cost.
+  const signed = (v) => (Math.abs(v) < 0.005 ? money(0, true) : (v > 0 ? '+' : '−') + big(Math.abs(v)));
+  function plHtml(now, then, label) {
+    if (now == null || then == null) return '';
+    const d = now.v - then.v, basis = now.x - now.v;
+    const cls = Math.abs(d) < 0.005 ? 'flat' : d > 0 ? 'up' : 'down';
+    const arrow = cls === 'up' ? '▲' : cls === 'down' ? '▼' : '';
+    return `<span class="vchg ${cls}">${arrow ? arrow + ' ' : ''}${money(Math.abs(d), Math.abs(d) >= 1000)}${basis > 0 ? ` (${d >= 0 ? '+' : '−'}${Math.abs((d / basis) * 100).toFixed(1)}%)` : ''}</span>${label ? ` <span class="vchg-l">${esc(label)}</span>` : ''}`;
+  }
+
   // Which line to draw: Discogs' own median (with its min–max band) when there is one, else the sum of
   // each record's typical price. A genre picked in the breakdown draws that genre's share instead.
   function seriesKinds() {
     const pts = V.points || [];
     return { discogs: pts.some((p) => p.dmed != null), est: pts.some((p) => p.mid != null) };
   }
+  // Minimum / median / maximum picks which of the three numbers the line and the big number follow.
+  // A genre's line only has the typical price, so it stays on the median.
   function series() {
     const k = seriesKinds();
     let kind = st.series && k[st.series] ? st.series : k.discogs ? 'discogs' : 'est';
     if (st.dim === 'genre' && st.pick) kind = 'genre';
-    const pts = (V.points || []).map((p) => {
-      if (kind === 'discogs') return p.dmed != null && { d: p.d, v: p.dmed, lo: p.dmin, hi: p.dmax };
-      if (kind === 'genre') return p.g && { d: p.d, v: p.g[st.pick] || 0 };
-      return p.mid != null && { d: p.d, v: p.mid, lo: p.lo, hi: p.hi };
+    const m = kind === 'genre' ? 'med' : st.measure;
+    const dk = { min: 'dmin', med: 'dmed', max: 'dmax' }[m], ek = { min: 'lo', med: 'mid', max: 'hi' }[m];
+    let pts = (V.points || []).map((p) => {
+      if (kind === 'discogs') return p[dk] != null && { d: p.d, v: p[dk], e: p.mid };
+      if (kind === 'genre') return p.g && { d: p.d, v: p.g[st.pick] || 0, e: p.g[st.pick] || 0 };
+      return p[ek] != null && { d: p.d, v: p[ek], e: p.mid };
     }).filter(Boolean);
-    return { kind, pts };
+    let pl = null;
+    if (st.show === 'pl') ({ pts, pl } = profit(pts, kind, m));
+    return { kind, pts, m, pl };
+  }
+
+  // Profit / loss: the value's change since tracking began, without the jump a newly added record
+  // makes. Each record's cost is what it was worth the day Crate first priced it, or what you paid
+  // when that's written on Discogs (a collection field such as "Price paid", or "paid 12" in Notes).
+  // Day by day: P/L += today's value − the day before's − what the records that came in are worth.
+  // Discogs' own totals count a record from the day it's added and don't say what one record adds,
+  // so there a newcomer counts at its own price scaled to Discogs' totals (they run above Crate's).
+  // Crate's own totals ("By record", a genre) count a record from the day it first got a price.
+  function profit(pts, kind, m) {
+    if (!pts.length) return { pts, pl: null };
+    const ratio = (p) => (!p.v || !p.v[1] ? 1 : m === 'min' ? p.v[0] / p.v[1] : m === 'max' ? p.v[2] / p.v[1] : 1);
+    const dates = pts.map((p) => p.d);
+    const at = (d) => dates.findIndex((x) => x >= d);
+    // the nightly sync runs around 3–5 AM UTC: a record added later in the day shows up the next day
+    const syncOf = (iso) => { const t = new Date(iso); if (isNaN(t)) return null; const d = t.toISOString().slice(0, 10); return t.getUTCHours() < 3 ? d : new Date(t.getTime() + DAY).toISOString().slice(0, 10); };
+    const enter = pts.map(() => []); // records that came in on that day
+    let start = 0, withCost = 0;
+    const take = (p, day) => {
+      const i = at(day);
+      if (i < 0) return;
+      const rec = { val: p.f[1] * ratio(p), cost: p.c };
+      if (p.c != null) withCost++;
+      if (i === 0) { if (p.c != null) start += rec.val - p.c; } // there from the start: only a known cost counts
+      else enter[i].push(rec);
+    };
+    if (kind === 'discogs') {
+      for (const r of A.releases()) { const p = V.records[String(r.id)]; if (p && p.f && p.v) take(p, (r.added && syncOf(r.added)) || p.f[0]); }
+    } else {
+      const rels = new Map(A.releases().map((r) => [String(r.id), r]));
+      for (const [rid, p] of Object.entries(V.records || {})) {
+        if (!p.f || !p.v) continue;
+        const r = rels.get(rid);
+        if (kind === 'genre' && (!r || (r.genres[0] || 'Other') !== st.pick)) continue;
+        take(p, p.f[0]);
+      }
+    }
+    const scale = (p) => (kind === 'discogs' && p.e ? p.v / p.e : 1);
+    start *= scale(pts[0]);
+    const out = [{ d: pts[0].d, v: start, x: pts[0].v }];
+    let acc = start, added = 0;
+    for (let i = 1; i < pts.length; i++) {
+      const a = pts[i - 1], b = pts[i], k = scale(b);
+      // what came in counts at its value, or at what you paid for it when that's known
+      const inVal = enter[i].reduce((s, r) => s + (r.cost != null ? r.cost : r.val * k), 0);
+      added += enter[i].length;
+      acc += b.v - a.v - inVal;
+      out.push({ d: b.d, v: acc, x: b.v });
+    }
+    return { pts: out, pl: { added, withCost } };
   }
   function inRange(pts) {
     const days = (RANGES.find((r) => r[0] === st.range) || RANGES[3])[2];
@@ -98,12 +165,15 @@
   };
 
   // ---------- chart ----------
-  function chartSvg(pts, kind, w) {
+  function chartSvg(pts, kind, w, pl) {
     const h = 190, padT = 10, padB = 24, padR = 4;
     if (!pts.length) return '';
     const vals = pts.map((p) => p.v);
     let min = Math.min(...vals), max = Math.max(...vals);
-    if (max - min < max * 0.02) { const m = (max + min) / 2 || 1; min = m * 0.98; max = m * 1.02; }
+    if (pl) { // profit / loss: keep 0 on the scale, and a scale that fits the gains, not the collection
+      min = Math.min(min, 0); max = Math.max(max, 0);
+      if (max - min < 1) { min -= 5; max += 5; }
+    } else if (max - min < max * 0.02) { const m = (max + min) / 2 || 1; min = m * 0.98; max = m * 1.02; }
     const span = max - min; min -= span * 0.08; max += span * 0.08;
     const t0 = dateOf(pts[0].d).getTime(), t1 = dateOf(pts[pts.length - 1].d).getTime();
     const X = (p) => (t1 === t0 ? w / 2 : ((dateOf(p.d).getTime() - t0) / (t1 - t0)) * (w - padR));
@@ -111,20 +181,28 @@
     const last = pts[pts.length - 1];
     const line = pts.map((p, i) => `${i ? 'L' : 'M'}${X(p).toFixed(1)},${Y(p.v).toFixed(1)}`).join('');
     // a soft fill under the line, like a stock chart
-    const area = pts.length > 1 ? `${line}L${X(last).toFixed(1)},${h - padB}L${X(pts[0]).toFixed(1)},${h - padB}Z` : '';
-    const ticks = [0.2, 0.5, 0.8].map((f) => min + (max - min) * f);
-    const grid = ticks.map((v) => `<line class="vg" x1="0" x2="${w}" y1="${Y(v).toFixed(1)}" y2="${Y(v).toFixed(1)}"/><text class="vt" x="${w - 2}" y="${(Y(v) - 4).toFixed(1)}" text-anchor="end">${esc(money(v, true))}</text>`).join('');
+    const base = pl ? Y(0) : h - padB;
+    const area = pts.length > 1 ? `${line}L${X(last).toFixed(1)},${base.toFixed(1)}L${X(pts[0]).toFixed(1)},${base.toFixed(1)}Z` : '';
+    const ticks = pl ? niceTicks(min, max) : [0.2, 0.5, 0.8].map((f) => min + (max - min) * f);
+    const grid = ticks.map((v) => `<line class="vg${pl && v === 0 ? ' v0' : ''}" x1="0" x2="${w}" y1="${Y(v).toFixed(1)}" y2="${Y(v).toFixed(1)}"/><text class="vt" x="${w - 2}" y="${(Y(v) - 4).toFixed(1)}" text-anchor="end">${esc(pl ? (Math.abs(v) < 0.005 ? money(0, true) : (v > 0 ? '+' : '−') + money(Math.abs(v), true)) : money(v, true))}</text>`).join('');
     const xl = pts.length > 1
       ? `<text class="vt" x="0" y="${h - 6}">${esc(fmtDate(pts[0].d))}</text><text class="vt" x="${w - 2}" y="${h - 6}" text-anchor="end">${esc(fmtDate(pts[pts.length - 1].d))}</text>`
       : `<text class="vt" x="${w / 2}" y="${h - 6}" text-anchor="middle">${esc(fmtDate(pts[0].d))}</text>`;
-    return `<svg class="vchart" viewBox="0 0 ${w} ${h}" width="${w}" height="${h}" role="img" aria-label="${esc(kind === 'discogs' ? 'Discogs median collection value' : 'Collection value')} over time">
-      ${grid}${area ? `<path class="vband" d="${area}"/>` : ''}
+    return `<svg class="vchart" viewBox="0 0 ${w} ${h}" width="${w}" height="${h}" role="img" aria-label="${esc(pl ? 'Profit or loss' : kind === 'discogs' ? 'Discogs collection value' : 'Collection value')} over time">
+      ${grid}${!area ? '' : pl ? `<defs><clipPath id="vpos"><rect x="0" y="0" width="${w}" height="${base.toFixed(1)}"/></clipPath><clipPath id="vneg"><rect x="0" y="${base.toFixed(1)}" width="${w}" height="${(h - base).toFixed(1)}"/></clipPath></defs><path class="vband" clip-path="url(#vpos)" d="${area}"/><path class="vband neg" clip-path="url(#vneg)" d="${area}"/>` : `<path class="vband" d="${area}"/>`}
       ${pts.length > 1 ? `<path class="vline" d="${line}"/>` : ''}
       <circle class="vdot" cx="${X(last).toFixed(1)}" cy="${Y(last.v).toFixed(1)}" r="4"/>
       ${xl}
       <g class="vcross" hidden><line x1="0" x2="0" y1="${padT}" y2="${h - padB}"/><circle r="4.5"/></g>
       <rect class="vhit" x="0" y="0" width="${w}" height="${h}"/>
     </svg>`;
+  }
+  function niceTicks(min, max) { // round steps that include 0, for the profit / loss scale
+    const raw = (max - min) / 4, mag = Math.pow(10, Math.floor(Math.log10(raw || 1)));
+    const step = [1, 2, 2.5, 5, 10].map((f) => f * mag).find((x) => x >= raw) || raw;
+    const out = [];
+    for (let v = Math.ceil(min / step) * step; v <= max; v += step) out.push(Math.abs(v) < step / 1e6 ? 0 : v);
+    return out;
   }
   function wireChart(box, pts, onScrub) {
     const svg = $('svg', box);
@@ -175,7 +253,9 @@
         <p>For Discogs' own minimum, median and maximum and for prices by condition, add a Discogs token as the repository secret <code>DISCOGS_TOKEN</code> and fill in your seller settings on Discogs once (you don't have to sell anything). Without a token Crate can only see the cheapest copy for sale.</p></section>`;
       return;
     }
-    const { kind, pts: allPts } = series();
+    const { kind, pts: allPts, m, pl } = series();
+    const isPL = !!pl;
+    const mName = (MEASURES.find((x) => x[0] === m) || MEASURES[1])[2].toLowerCase();
     const pts = inRange(allPts);
     const last = allPts[allPts.length - 1] || null;
     const first = pts[0] || null;
@@ -183,14 +263,19 @@
     const rangeLabel = (RANGES.find((r) => r[0] === st.range) || RANGES[3])[1].toLowerCase();
     const short = allPts.length && first && st.range !== 'All' && first.d === allPts[0].d;
     const changeLabel = !first || first === last ? '' : short ? `since ${fmtDate(first.d, false)}` : st.range === 'All' ? 'all time' : `past ${rangeLabel}`;
-    const headLabel = kind === 'genre' ? `${st.pick} records` : kind === 'discogs' ? 'Collection value · Discogs median' : 'Collection value · typical price';
+    const what = kind === 'genre' ? `${st.pick} records` : isPL ? 'Profit / loss' : 'Collection value';
+    const src = kind === 'discogs' ? `Discogs ${mName}` : kind === 'genre' || m === 'med' ? 'typical price' : `${mName} price`;
+    const headLabel = `${what}${kind === 'genre' && isPL ? ' · profit / loss' : ''} · ${src}${isPL && V.since ? ` · since ${fmtDate(V.since, false)}` : ''}`;
+    const numTxt = (p) => (p ? (isPL ? signed(p.v) : big(p.v)) : '–');
+    const chgTxt = (a, b, label) => (isPL ? plHtml(a, b, label) : changeHtml(a.v, b.v, label));
+    const numCls = (p) => (isPL && p ? (p.v > 0.005 ? ' up' : p.v < -0.005 ? ' down' : '') : '');
 
     // tiles: Discogs' three numbers when there are any, else Crate's own low / typical / high
     const n = latest.n || all.length;
     const tri = latest.dmed != null ? [latest.dmin, latest.dmed, latest.dmax, 'Discogs'] : latest.mid != null ? [latest.lo, latest.mid, latest.hi, 'Crate estimate'] : null;
     const sumMid = priced.reduce((s, x) => s + mid(x), 0);
     const tiles = `<div class="vtiles${tri ? '' : ' one'}">
-      ${tri ? `<div class="vtile"><small>Minimum</small><b>${big(tri[0])}</b></div><div class="vtile"><small>Median</small><b>${big(tri[1])}</b></div><div class="vtile"><small>Maximum</small><b>${big(tri[2])}</b></div>` : ''}
+      ${tri ? MEASURES.map(([mv, , label], i) => `<button type="button" class="vtile${kind !== 'genre' && m === mv ? ' on' : ''}" data-m="${mv}" aria-pressed="${kind !== 'genre' && m === mv}"><small>${label}</small><b>${big(tri[i])}</b></button>`).join('') : ''}
       <div class="vtile"><small>Average per record</small><b>${money((tri ? tri[1] : sumMid) / (n || 1))}</b></div>
     </div>`;
 
@@ -258,18 +343,22 @@
     }).join('');
 
     const seriesSeg = k.discogs && k.est && kind !== 'genre'
-      ? SEG('series', [['discogs', 'Discogs', 'Discogs\' own median collection value'], ['est', 'By record', 'The sum of each record\'s typical price (a Very Good Plus copy)']], kind) : '';
+      ? SEG('series', [['discogs', 'Discogs', 'Discogs\' own collection value'], ['est', 'By record', 'The sum of each record\'s own price']], kind) : '';
+    const showSeg = SEG('show', [['value', 'Value', 'What the collection is worth'], ['pl', 'Profit / loss', 'Gains or losses since tracking began, without the jump from records you add']], isPL ? 'pl' : 'value');
+    const measureSeg = kind !== 'genre' ? SEG('measure', MEASURES.map(([v, l, t]) => [v, l, t]), m) : '';
+    const plNote = isPL ? `<p class="vnote">Profit / loss leaves out what new records add: each one counts from what it was worth the day Crate first priced it${pl.withCost ? `, or from what you paid for the ${pl.withCost} record${pl.withCost === 1 ? '' : 's'} with a price paid on Discogs` : ''}. ${pl.added ? `${pl.added} record${pl.added === 1 ? '' : 's'} came in since tracking began. ` : ''}${pl.withCost ? '' : 'To count what you paid instead, add a collection field called “Price paid” on Discogs, or write “paid 12” in a record\'s Notes. '}${kind === 'discogs' ? 'Discogs doesn\'t say what one record adds to its totals, so a new record counts at its own price, scaled to Discogs\' totals.' : ''}</p>` : '';
 
     root.innerHTML = `
       <section class="vhero">
         <div class="vh-l"><small id="vh-label">${esc(headLabel)}</small>
-          <div class="vh-num" id="vh-num">${last ? big(last.v) : '–'}</div>
-          <div class="vh-chg" id="vh-chg">${last && first && first !== last ? changeHtml(last.v, first.v, changeLabel) : '<span class="vchg-l">Change shows from the second daily snapshot</span>'}</div></div>
+          <div class="vh-num${numCls(last)}" id="vh-num">${numTxt(last)}</div>
+          <div class="vh-chg" id="vh-chg">${last && first && first !== last ? chgTxt(last, first, changeLabel) : '<span class="vchg-l">Change shows from the second daily snapshot</span>'}</div></div>
         ${SEG('range', RANGES.map(([v]) => [v, v === 'All' ? 'All' : v]), st.range)}
       </section>
       <div class="vchart-box" id="vchart"></div>
       <p class="vnote">${V.since ? `Tracking since ${esc(fmtDate(V.since))}. ` : ''}Discogs keeps no price history, so the line starts from Crate's first daily snapshot. ${st.pick ? `<button type="button" class="linkish" id="vclear">Show the whole collection</button>` : ''}</p>
-      ${seriesSeg ? `<div class="vseries">${seriesSeg}</div>` : ''}
+      <div class="vseries">${showSeg}${measureSeg}${seriesSeg}</div>
+      ${plNote}
       ${tiles}
       <section class="vsec"><div class="vsec-h"><h2>Leaderboards${st.pick ? ` <small>${esc(st.pick)}</small>` : ''}</h2>${SEG('lbBy', [['eur', 'By amount'], ['pct', 'By %']], st.lbBy === 'pct' ? 'pct' : 'eur')}</div>
         <div class="vlbs">${lbHtml}</div></section>
@@ -284,11 +373,13 @@
 
     const box = $('#vchart');
     const draw = () => {
-      box.innerHTML = chartSvg(pts, kind, Math.max(240, Math.round(box.clientWidth)));
+      box.innerHTML = chartSvg(pts, kind, Math.max(240, Math.round(box.clientWidth)), isPL);
+      const num = $('#vh-num');
+      const show = (p) => { num.textContent = numTxt(p); num.className = 'vh-num' + numCls(p); };
       wireChart(box, pts, (p) => {
-        if (!p) { $('#vh-num').textContent = last ? big(last.v) : '–'; $('#vh-chg').innerHTML = last && first && first !== last ? changeHtml(last.v, first.v, changeLabel) : ''; return; }
-        $('#vh-num').textContent = big(p.v);
-        $('#vh-chg').innerHTML = `${p !== first ? changeHtml(p.v, first.v) + ' ' : ''}<span class="vchg-l">${esc(fmtDate(p.d))}</span>`;
+        if (!p) { show(last); $('#vh-chg').innerHTML = last && first && first !== last ? chgTxt(last, first, changeLabel) : ''; return; }
+        show(p);
+        $('#vh-chg').innerHTML = `${p !== first ? chgTxt(p, first) + ' ' : ''}<span class="vchg-l">${esc(fmtDate(p.d))}</span>`;
       });
     };
     draw();
@@ -303,6 +394,7 @@
       st[name] = b.dataset.v;
       save(); render();
     })));
+    $$('.vtile[data-m]', root).forEach((b) => (b.onclick = () => { st.measure = b.dataset.m; save(); render(); }));
     $$('.vbar', root).forEach((b) => (b.onclick = () => { st.pick = st.pick === b.dataset.g ? '' : b.dataset.g; st.more = false; render(); }));
     if ($('#vclear')) $('#vclear').onclick = () => { st.pick = ''; render(); };
     $('#vsort').onchange = (e) => { st.sort = e.target.value; save(); render(); };
