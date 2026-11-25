@@ -1,0 +1,220 @@
+/* Konsta UI look (iOS theme, v5 "Liquid Glass"): https://github.com/konstaui/konsta
+   Konsta's components ship for React, Vue and Svelte only, and Crate is plain JavaScript with no build step,
+   so this file ports Konsta's iOS recipes (its Tailwind classes and theme tokens) to plain CSS on top of
+   style.css. The markup and app.js stay the same, so every feature keeps working.
+   Which Konsta component each part copies is named in its heading. Fly's indigo accent stays. */
+
+:root {
+  /* Konsta's iOS surfaces (colors.css): surface #000, surface-1 #1c1c1d */
+  --bg: #000; --panel: #1c1c1d;
+  --r-list: 26px;            /* List inset strong (rounded-3xl, iOS 26 grouped lists) */
+  --r-item: 20px;
+  --glass-bg: rgb(50 50 50 / .5);
+  --glass-shadow:
+    inset -2px -2px .5px -2.5px rgb(255 255 255 / .4),
+    inset 3px 3px .5px -3.5px rgb(255 255 255 / .4),
+    inset 2px 2px .5px -2px #262626,
+    inset -2px -2px .5px -2px #262626,
+    inset 0 0 5px 1px #141414,
+    inset 0 0 0 1px rgb(255 255 255 / .15),
+    inset 0 0 10px 0 rgb(255 255 255 / .075),
+    inset 0 0 24px 0 rgb(255 255 255 / .05),
+    0 0 25px 0 rgb(0 0 0 / .15);
+  --thumb: #636366;          /* Segmented strong: the sliding thumb */
+  --toggle-off: rgb(120 120 128 / .32);
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #efeff4; --panel: #fff;
+    --glass-bg: rgb(255 255 255 / .75);
+    --glass-shadow:
+      inset -1px -1px 0 -.5px #fff,
+      inset 1px 1px 0 -.5px #fff,
+      inset 3px 3px 10px -3px #ddd,
+      inset -3px -3px 10px -3px #ddd,
+      inset 0 0 5px 1px #fff,
+      inset 0 0 0 .5px rgb(0 0 0 / .25),
+      inset 0 0 24px 0 rgb(0 0 0 / .1),
+      0 0 25px 0 rgb(0 0 0 / .2);
+    --thumb: #fff;
+    --toggle-off: rgb(120 120 128 / .16);
+  }
+}
+
+/* ---------- Glass (k-glass): bars, menus, sheets and the player float on frosted glass ---------- */
+.k-glass, .menu, .player, .toast, .pick-list {
+  background: var(--glass-bg);
+  box-shadow: var(--glass-shadow);
+  -webkit-backdrop-filter: blur(16px) saturate(1.6); backdrop-filter: blur(16px) saturate(1.6);
+}
+
+/* ---------- Button: capsules (rounded-full), medium 34px, large 48px ---------- */
+button, .button { border-radius: 999px; padding: 7px 15px; min-height: 34px; }
+button.small { border-radius: 999px; padding: 4px 12px; min-height: 28px; font-size: 14px; }
+button.primary { min-height: 34px; }
+.gen-go .primary { min-height: 50px; border-radius: 999px; font-size: 17px; padding: 12px 28px; }
+.linkish, .linkish:hover { min-height: 0; padding: 0; border-radius: 0; }
+select, input { border-radius: 12px; }
+
+/* ---------- Searchbar: 44px capsule, 17px text, 16px magnifier ---------- */
+#search { height: 40px; border-radius: 999px; padding-left: 38px; }
+.search-wrap::before { left: 14px; width: 16px; height: 16px; }
+
+/* ---------- Segmented strong, rounded: desktop section tabs, List/Crate/Decks, generator choices ---------- */
+.tabs, .seg, .vswitch { border-radius: 999px; padding: 3px; gap: 2px; }
+.tabs button, .seg button, .vswitch button { border-radius: 999px; min-height: 0; }
+.tabs button.active, .seg button[aria-selected="true"], .seg button[aria-checked="true"], .vswitch button[aria-pressed="true"] {
+  background: var(--thumb); box-shadow: 0 3px 8px rgb(0 0 0 / .12), 0 3px 1px rgb(0 0 0 / .04);
+}
+.tabs { padding: 3px; }
+.tabs button { padding: 6px 15px; }
+.seg button { padding: 7px 10px; }
+.vswitch button { padding: 6px 14px; }
+.crate .vswitch, .decks .vswitch { border-radius: 999px; }
+.cf-bar .vswitch button, .decks .vswitch button { border-radius: 999px; }
+.crate .vswitch button[aria-pressed="true"], .decks .vswitch button[aria-pressed="true"] { background: rgb(255 255 255 / .28); }
+
+/* ---------- Chip: filter chips and the BPM range are capsules ---------- */
+.dd.chip, .range { border-radius: 999px; padding-left: 14px; }
+.range { padding-right: 8px; }
+.range input { border-radius: 999px; }
+.keep .dd.chip { padding-left: 8px; }
+.tags span, .rv-grades span { border-radius: 999px; padding: 2px 9px; }
+.badge { min-width: 20px; height: 20px; }
+
+/* ---------- List (inset, strong): every grouped box gets Konsta's large iOS 26 corners ---------- */
+.group, .card-s, .table-wrap, .mix-list ul, .pull, .vids, .draft-bar, .rec-value, .vtiles,
+table.sug, .vbars, .vrecs, .vlb-none { border-radius: var(--r-list); }
+.card-s { padding: 18px 20px; }
+.gr { padding-left: 16px; padding-right: 16px; min-height: 48px; }
+.gr ~ .gr::before { left: 16px; }
+.group-h { margin-left: 18px; font-size: 13px; }
+.table-wrap { padding: 4px 6px; }
+th { background: var(--panel); }
+th:first-child, td:first-child { padding-left: 14px; }
+.item { border-radius: var(--r-item); padding: 10px 14px 10px 10px; }
+.item.dragging { border-radius: var(--r-item); }
+.item img, .item .noimg { border-radius: 8px; }
+.vrec img, .vrec .nocover { border-radius: 8px; }
+.vbar { padding: 11px 16px; } .vbar ~ .vbar::before { left: 16px; }
+.vrec { padding: 9px 16px; }
+.vtile { padding: 14px 16px; }
+.mix-list li button { padding: 12px 16px; }
+
+/* ---------- Covers: soft rounded artwork like Apple Music ---------- */
+.cover { border-radius: 12px; }
+.rec-head > img, .rec-nocover { border-radius: 16px; }
+.grid { gap: 24px 18px; }
+.meta { padding-top: 8px; }
+
+/* ---------- Toggle (iOS 26): wide 64 x 28 track, 38 x 24 capsule thumb ---------- */
+.switch span { width: 64px; height: 28px; background: var(--toggle-off); }
+.switch span::after { top: 2px; left: 2px; width: 38px; height: 24px; border-radius: 999px; box-shadow: 0 2px 4px rgb(0 0 0 / .2); transition: transform .3s; }
+.switch input:checked + span::after { transform: translateX(22px); }
+
+/* ---------- Stepper, BPM fields and small round buttons ---------- */
+.stepper { border-radius: 999px; padding: 0 2px; }
+.stepper button { border-radius: 999px; }
+.bpm-pair input { border-radius: 999px; width: 64px; }
+.mv button, .play, .ytb, .spb, .pick-x, .pl-close { min-height: 0; }
+td .add { min-height: 0; }
+.mi { min-height: 0; border-radius: 12px; }
+.vid, .vbar, .vrec, .card, .mix-list li button { min-height: 0; }
+
+/* ---------- Popover (menus on a computer) ---------- */
+.menu { border-radius: 24px; }
+.menu-search input { border-radius: 999px; padding-left: 14px; }
+.menu-list { padding: 6px; }
+.pick-list { border-radius: 22px; top: 46px; }
+
+/* ---------- Toast: a glass capsule ---------- */
+.toast { border-radius: 999px; padding: 11px 20px; }
+
+/* ---------- Player: floating glass card ---------- */
+.player { border-radius: 26px; }
+body.crate-on .player { border-radius: 26px; }
+
+/* ---------- Navbar (record view): transparent bar, glass round back button, centred title ---------- */
+.drawer-bar {
+  background: linear-gradient(var(--bg) 55%, transparent); -webkit-backdrop-filter: none; backdrop-filter: none;
+  border-bottom: 0; padding-top: max(10px, env(safe-area-inset-top)); padding-bottom: 14px;
+}
+.drawer .close {
+  width: 44px; height: 44px; min-height: 0; padding: 0; border-radius: 999px; font-size: 0; gap: 0; color: var(--text);
+  background: var(--glass-bg); box-shadow: var(--glass-shadow);
+  -webkit-backdrop-filter: blur(16px) saturate(1.6); backdrop-filter: blur(16px) saturate(1.6);
+}
+.drawer .close svg { width: 22px; height: 22px; margin-right: 2px; }
+#drawer-title { font-size: 17px; padding-right: 52px; }
+.drawer-panel { box-shadow: -10px 0 40px rgb(0 0 0 / .2); }
+
+/* ---------- Crate and Decks bars: glass circles and capsules over the dark stage ---------- */
+.cf-bar button, .fl-open { border-radius: 999px; -webkit-backdrop-filter: blur(16px); backdrop-filter: blur(16px); }
+.cf-close { width: 40px; height: 40px; }
+.decks button { border-radius: 999px; }
+.dk-btns button { border-radius: 16px; }
+.mx-chs, .mx-x { border-radius: 20px; }
+.dk-sheet { border-radius: 0; }
+.sh-head input { border-radius: 999px; padding-left: 14px; }
+.fl-front, .fl-back { border-radius: 10px; }
+
+/* ---------- Desktop header: Konsta navbar with a glass section switcher ---------- */
+@media (min-width: 721px) {
+  .top { padding-top: max(12px, env(safe-area-inset-top)); padding-bottom: 12px; }
+  .tabs { background: var(--glass-bg); box-shadow: var(--glass-shadow); }
+  .logo { border-radius: 8px; }
+}
+
+/* ---------- Phone ---------- */
+@media (max-width: 720px) {
+  :root { --nav-h: 76px; }
+  @media (prefers-color-scheme: light) { .tabs { --glass-bg: rgb(255 255 255 / .84) !important; } }
+  #search { height: 44px; font-size: 17px !important; padding-left: 40px; }
+  .ltitle { font-size: 34px; letter-spacing: .01em; }
+
+  /* Tabbar (iOS 26): a floating glass capsule above the home bar; the active tab sits in a tinted pill */
+  .tabs {
+    --glass-bg: rgb(37 37 39 / .8);
+    left: 14px; right: 14px; bottom: max(10px, calc(env(safe-area-inset-bottom) - 12px));
+    height: 64px; padding: 4px; gap: 0; border-radius: 999px; border-top: 0;
+    background: var(--glass-bg); box-shadow: var(--glass-shadow);
+    -webkit-backdrop-filter: blur(16px) saturate(1.6); backdrop-filter: blur(16px) saturate(1.6);
+  }
+  .tabs button { height: 56px; padding: 6px 0 0; gap: 1px; border-radius: 999px; font-size: 10px; font-weight: 600; color: var(--text); }
+  .tabs button svg { width: 24px; height: 24px; }
+  .tabs button.active, .tabs button.active:hover { background: var(--fill); box-shadow: none; color: var(--accent); font-weight: 600; }
+  main { padding-bottom: calc(var(--nav-h) + 40px + env(safe-area-inset-bottom)); }
+
+  .vswitch, .filters > .vswitch { padding: 3px; }
+  .filters > .vswitch button { padding: 8px 0; }
+  .dd.chip, .range { height: 36px; }
+  .keep .dd.chip { height: 36px; }
+  .mix-list li button { border-radius: 999px; padding: 8px 14px; }
+  .grid { gap: 20px 14px; }
+
+  /* Sheet: floats with rounded corners all round, like iOS 26 */
+  .menu-wrap.sheet .menu {
+    left: 8px; right: 8px; bottom: 8px; border-radius: 32px; max-height: 74vh;
+    padding-bottom: max(8px, env(safe-area-inset-bottom));
+    background: var(--panel); box-shadow: 0 -8px 40px rgb(0 0 0 / .3);
+  }
+  .menu-done, .menu-done:hover { top: 10px; right: 12px; min-height: 0; padding: 6px 12px; }
+  .mi { border-radius: 0; }
+
+  /* Player: a floating glass card over the tab bar instead of a docked strip */
+  .player {
+    left: 14px; right: 14px; width: auto; border-radius: 26px;
+    bottom: calc(var(--nav-h) + max(10px, calc(env(safe-area-inset-bottom) - 12px)) - 4px);
+    box-shadow: var(--glass-shadow);
+  }
+  body.locked .player { bottom: max(10px, calc(env(safe-area-inset-bottom) - 12px)); padding-bottom: 0; }
+  body.has-player main { padding-bottom: calc(var(--nav-h) + var(--player-h, 280px) + 24px + env(safe-area-inset-bottom)); }
+  .toast { bottom: calc(var(--nav-h) + 24px + env(safe-area-inset-bottom)); }
+
+  .drawer-bar { margin: 0 -16px; padding-left: 12px; }
+  .drawer-panel { box-shadow: none; }
+}
+
+/* Menus sit over album art, so their glass is nearly opaque to keep the list readable */
+.menu, .pick-list { background: rgb(44 44 46 / .94); }
+@media (prefers-color-scheme: light) { .menu, .pick-list { background: rgb(255 255 255 / .94); } }
