@@ -1,4 +1,9 @@
 {
+ "fields": {
+  "1": "Media Condition",
+  "2": "Sleeve Condition",
+  "3": "Notes"
+ },
  "folders": {
   "0": "All",
   "1": "Uncategorized"

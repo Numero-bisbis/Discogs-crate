@@ -261,11 +261,11 @@
   "source": "deezer-preview"
  },
  "10240459:B": {
-  "checked": "2026-10-26T14:16:41.203272+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1027597:A1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1027597:A2": {
@@ -282,7 +282,7 @@
   "source": "deezer-preview"
  },
  "1027597:A3": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1027597:A4": {
@@ -385,8 +385,17 @@
   "source": "acousticbrainz"
  },
  "1027597:D1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 3.17,
+  "bpm": 106.8,
+  "camelot": "4A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 139308339,
+  "key": "Fm",
+  "key_strength": 0.83,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "1027597:D2": {
   "bpm": 124.3,
@@ -477,7 +486,7 @@
   "source": "acousticbrainz"
  },
  "10302121:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "10302121:B3": {
@@ -983,7 +992,7 @@
   "source": "deezer-preview"
  },
  "10596337:A1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "10596337:A2": {
@@ -1000,11 +1009,11 @@
   "source": "deezer-preview"
  },
  "10596337:B1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "10596337:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "10596337:B3": {
@@ -1021,23 +1030,32 @@
   "source": "deezer-preview"
  },
  "10596337:C1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "10596337:C2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.73,
+  "bpm": 110.5,
+  "camelot": "4A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 367760881,
+  "key": "Fm",
+  "key_strength": 0.62,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "10596337:D1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "10596337:D2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "10596337:D3": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "10616350:A": {
@@ -1052,7 +1070,7 @@
   "source": "acousticbrainz"
  },
  "10616350:B": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "10662614:A": {
@@ -1128,7 +1146,7 @@
   "source": "acousticbrainz"
  },
  "10737:B": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "10790424:A1": {
@@ -1377,95 +1395,122 @@
   "source": "acousticbrainz"
  },
  "1091633:A1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 1.6,
+  "bpm": 160.9,
+  "camelot": "5B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 570273,
+  "key": "Eb",
+  "key_strength": 0.82,
+  "match": 0.73,
+  "note": "Eb",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "1091633:A2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 1.88,
+  "bpm": 77,
+  "camelot": "5B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 570239,
+  "key": "Eb",
+  "key_strength": 0.87,
+  "match": 0.73,
+  "note": "Eb",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "1091633:A3": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:A4": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 1.26,
+  "bpm": 80.1,
+  "camelot": "7B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2482089,
+  "key": "F",
+  "key_strength": 0.75,
+  "match": 0.72,
+  "note": "F",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "1091633:A5": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:A6": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:B1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:B3": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:B4": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:B5": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:B6": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:C1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:C2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:C3": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:C4": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:C5": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:C6": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:D1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:D2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:D3": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:D4": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1091633:D5": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "10947904:A1": {
@@ -1576,8 +1621,17 @@
   "source": "deezer-preview"
  },
  "10978700:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 3.91,
+  "bpm": 124.9,
+  "camelot": "5A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 1582290292,
+  "key": "Cm",
+  "key_strength": 0.37,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "10995910:A": {
   "beat_confidence": 3.71,
@@ -1696,11 +1750,11 @@
   "source": "acousticbrainz"
  },
  "11010709:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11010709:B3": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11010709:B4": {
@@ -1715,11 +1769,11 @@
   "source": "acousticbrainz"
  },
  "11010709:B5": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11010709:B6": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11010709:C1": {
@@ -1778,7 +1832,7 @@
   "source": "acousticbrainz"
  },
  "11010709:C6": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11010709:D1": {
@@ -1804,7 +1858,7 @@
   "source": "acousticbrainz"
  },
  "11010709:D3": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11010709:D4": {
@@ -1830,11 +1884,11 @@
   "source": "acousticbrainz"
  },
  "11017944:A": {
-  "checked": "2026-10-26T09:46:49.682876+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11017944:B": {
-  "checked": "2026-10-26T09:46:49.682876+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11083628:A": {
@@ -1862,11 +1916,11 @@
   "source": "deezer-preview"
  },
  "11116635:A": {
-  "checked": "2026-10-26T14:16:41.203272+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11116635:B": {
-  "checked": "2026-10-26T14:16:41.203272+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11171471:A1": {
@@ -1883,7 +1937,7 @@
   "source": "deezer-preview"
  },
  "11171471:B1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11180623:A": {
@@ -1909,20 +1963,38 @@
   "source": "acousticbrainz"
  },
  "11209880:A1": {
-  "checked": "2026-10-26T14:16:41.203272+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11209880:A2": {
-  "checked": "2026-10-26T14:16:41.203272+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11209880:B1": {
-  "checked": "2026-10-26T14:16:41.203272+00:00",
-  "source": "none"
+  "beat_confidence": 3.33,
+  "bpm": 130,
+  "camelot": "2A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 3660490,
+  "key": "Ebm",
+  "key_strength": 0.78,
+  "match": 0.73,
+  "note": "Eb",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "11209880:B2": {
-  "checked": "2026-10-26T14:16:41.203272+00:00",
-  "source": "none"
+  "beat_confidence": 2.11,
+  "bpm": 149.8,
+  "camelot": "5A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 483571222,
+  "key": "Cm",
+  "key_strength": 0.88,
+  "match": 0.78,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "11247130:A1": {
   "bpm": 97.0,
@@ -2329,8 +2401,17 @@
   "source": "deezer-preview"
  },
  "11326382:A2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 2.83,
+  "bpm": 122.0,
+  "camelot": "8A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 466596942,
+  "key": "Am",
+  "key_strength": 0.69,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "11326382:A3": {
   "beat_confidence": 4.13,
@@ -2346,7 +2427,7 @@
   "source": "deezer-preview"
  },
  "11326382:B1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11326382:B2": {
@@ -2363,8 +2444,17 @@
   "source": "deezer-preview"
  },
  "11326382:B3": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 2.42,
+  "bpm": 123.3,
+  "camelot": "3A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 466596982,
+  "key": "Bbm",
+  "key_strength": 0.88,
+  "match": 1.0,
+  "note": "Bb",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "11331512:A1": {
   "bpm": 120.0,
@@ -2455,15 +2545,24 @@
   "source": "acousticbrainz"
  },
  "11375:A1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 3.95,
+  "bpm": 130,
+  "camelot": "9B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 3780534,
+  "key": "G",
+  "key_strength": 0.96,
+  "match": 1.0,
+  "note": "G",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "11375:A2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11375:B": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1139846:A1": {
@@ -2500,8 +2599,17 @@
   "source": "acousticbrainz"
  },
  "1139846:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 4.1,
+  "bpm": 91.7,
+  "camelot": "6A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 1510292622,
+  "key": "Gm",
+  "key_strength": 0.77,
+  "match": 1.0,
+  "note": "G",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "11398791:A1": {
   "bpm": 127.0,
@@ -2737,12 +2845,30 @@
   "source": "acousticbrainz"
  },
  "11430877:A1": {
-  "checked": "2026-10-26T14:16:41.203272+00:00",
-  "source": "none"
+  "beat_confidence": 3.5,
+  "bpm": 120.1,
+  "camelot": "7B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 3294558451,
+  "key": "F",
+  "key_strength": 0.84,
+  "match": 1.0,
+  "note": "F",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "11430877:A2": {
-  "checked": "2026-10-26T14:16:41.203272+00:00",
-  "source": "none"
+  "beat_confidence": 2.76,
+  "bpm": 118.3,
+  "camelot": "5A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 3294558461,
+  "key": "Cm",
+  "key_strength": 0.76,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "11430877:B1": {
   "beat_confidence": 3.68,
@@ -2961,7 +3087,7 @@
   "source": "acousticbrainz"
  },
  "11472790:A1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11472790:A2": {
@@ -3020,11 +3146,11 @@
   "source": "acousticbrainz"
  },
  "11472790:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11472790:B3": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11472790:B4": {
@@ -3094,15 +3220,15 @@
   "source": "acousticbrainz"
  },
  "11472790:C5": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11472790:D1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11472790:D2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11472790:D3": {
@@ -3117,7 +3243,7 @@
   "source": "acousticbrainz"
  },
  "11472790:D4": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11472790:D5": {
@@ -3171,7 +3297,7 @@
   "source": "deezer-preview"
  },
  "11506504:A4": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11506504:A5": {
@@ -3253,7 +3379,7 @@
   "source": "deezer-preview"
  },
  "11506504:B5": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11506504:C1": {
@@ -3322,7 +3448,7 @@
   "source": "deezer-preview"
  },
  "11506504:D3": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11506504:D4": {
@@ -3404,7 +3530,7 @@
   "source": "deezer-preview"
  },
  "1155423:A2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1155423:A3": {
@@ -3419,19 +3545,28 @@
   "source": "acousticbrainz"
  },
  "1155423:B1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 0.54,
+  "bpm": 79.3,
+  "camelot": "11A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 3170652,
+  "key": "F#m",
+  "key_strength": 0.76,
+  "match": 0.77,
+  "note": "F#",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "1155423:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1155423:B3": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1155423:B4": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11568084:A": {
@@ -3481,7 +3616,7 @@
   "source": "deezer-preview"
  },
  "11568157:A2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11568157:B1": {
@@ -3785,19 +3920,19 @@
   "source": "deezer-preview"
  },
  "11629090:A1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11629090:A2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11629090:B1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11629090:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11634867:A1": {
@@ -3812,8 +3947,17 @@
   "source": "acousticbrainz"
  },
  "11634867:A2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 2.52,
+  "bpm": 180.5,
+  "camelot": "3A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 3440370,
+  "key": "Bbm",
+  "key_strength": 0.8,
+  "match": 0.86,
+  "note": "Bb",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "11634867:A3": {
   "bpm": 98.4,
@@ -4053,7 +4197,7 @@
   "source": "acousticbrainz"
  },
  "11684749:A": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11684749:B": {
@@ -4204,15 +4348,15 @@
   "source": "acousticbrainz"
  },
  "11714403:A": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11714403:B1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11714403:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11739104:A1": {
@@ -4307,7 +4451,7 @@
   "source": "deezer-preview"
  },
  "11753365:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11753365:B3": {
@@ -4668,15 +4812,15 @@
   "source": "acousticbrainz"
  },
  "11850350:A1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11850350:B1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11850350:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11854219:A": {
@@ -4878,16 +5022,34 @@
   "source": "acousticbrainz"
  },
  "11978482:A1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "11978482:A2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 3.9,
+  "bpm": 120.8,
+  "camelot": "8A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 1672697887,
+  "key": "Am",
+  "key_strength": 0.41,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "11978482:B1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 2.48,
+  "bpm": 110.9,
+  "camelot": "2A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 1672697897,
+  "key": "Ebm",
+  "key_strength": 0.71,
+  "match": 0.98,
+  "note": "Eb",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "11978482:B2": {
   "beat_confidence": 3.97,
@@ -5070,7 +5232,7 @@
   "source": "acousticbrainz"
  },
  "12049169:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12049169:B3": {
@@ -5197,8 +5359,17 @@
   "source": "deezer-preview"
  },
  "12095969:A5": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
-  "source": "none"
+  "beat_confidence": 1.42,
+  "bpm": 170.1,
+  "camelot": "9B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 60749469,
+  "key": "G",
+  "key_strength": 0.89,
+  "match": 1.0,
+  "note": "G",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "12095969:A6": {
   "beat_confidence": 0.67,
@@ -5275,8 +5446,17 @@
   "source": "deezer-preview"
  },
  "12095969:B4": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
-  "source": "none"
+  "beat_confidence": 0.61,
+  "bpm": 101.9,
+  "camelot": "12B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 70057785,
+  "key": "E",
+  "key_strength": 0.65,
+  "match": 1.0,
+  "note": "E",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "12095969:B5": {
   "beat_confidence": 2.79,
@@ -5507,8 +5687,17 @@
   "source": "acousticbrainz"
  },
  "12107616:A3": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 3.08,
+  "bpm": 111.9,
+  "camelot": "7A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 4350383732,
+  "key": "Dm",
+  "key_strength": 0.78,
+  "match": 1.0,
+  "note": "D",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "12107616:B1": {
   "bpm": 114.9,
@@ -5814,11 +6003,11 @@
   "source": "deezer-preview"
  },
  "12126315:B": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12128702:A1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12128702:A2": {
@@ -5835,11 +6024,11 @@
   "source": "deezer-preview"
  },
  "12128702:B1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12128702:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12149773:A1": {
@@ -5999,7 +6188,7 @@
   "source": "acousticbrainz"
  },
  "12161263:A1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12161263:A2": {
@@ -6016,11 +6205,20 @@
   "source": "deezer-preview"
  },
  "12161263:B1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 4.06,
+  "bpm": 130.1,
+  "camelot": "3A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2256077677,
+  "key": "Bbm",
+  "key_strength": 0.56,
+  "match": 1.0,
+  "note": "Bb",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "12161263:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12167724:A1": {
@@ -6145,11 +6343,11 @@
   "source": "acousticbrainz"
  },
  "12189501:D1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12189501:D2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12191620:A1": {
@@ -6465,8 +6663,17 @@
   "source": "acousticbrainz"
  },
  "12219258:A3": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 1.11,
+  "bpm": 96.1,
+  "camelot": "6B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 770357882,
+  "key": "Bb",
+  "key_strength": 0.89,
+  "match": 1.0,
+  "note": "Bb",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "12219258:A4": {
   "beat_confidence": 0.38,
@@ -6690,7 +6897,7 @@
   "source": "deezer-preview"
  },
  "12253262:B2": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12253262:B3": {
@@ -6707,8 +6914,17 @@
   "source": "deezer-preview"
  },
  "12253262:B4": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 1.73,
+  "bpm": 140.2,
+  "camelot": "12A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 472992692,
+  "key": "C#m",
+  "key_strength": 0.81,
+  "match": 1.0,
+  "note": "C#",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "12253262:B5": {
   "beat_confidence": 3.4,
@@ -6787,8 +7003,17 @@
   "source": "acousticbrainz"
  },
  "12253742:A2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 1.48,
+  "bpm": 111.7,
+  "camelot": "12A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 4700503,
+  "key": "C#m",
+  "key_strength": 0.54,
+  "match": 1.0,
+  "note": "C#",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "12253742:A3": {
   "bpm": 105.6,
@@ -6879,7 +7104,7 @@
   "source": "acousticbrainz"
  },
  "12253742:B5": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12253742:B6": {
@@ -7006,8 +7231,17 @@
   "source": "acousticbrainz"
  },
  "12253923:D2": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 2.59,
+  "bpm": 104.9,
+  "camelot": "6B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 350055651,
+  "key": "Bb",
+  "key_strength": 0.89,
+  "match": 1.0,
+  "note": "Bb",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "12253923:D3": {
   "bpm": 161.6,
@@ -7021,16 +7255,43 @@
   "source": "acousticbrainz"
  },
  "12273734:A1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.05,
+  "bpm": 112.0,
+  "camelot": "9A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 3213243891,
+  "key": "Em",
+  "key_strength": 0.61,
+  "match": 0.74,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "12273734:A2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.78,
+  "bpm": 88.6,
+  "camelot": "11B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 13304453,
+  "key": "A",
+  "key_strength": 0.82,
+  "match": 0.71,
+  "note": "A",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "12273734:B": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.17,
+  "bpm": 89.9,
+  "camelot": "8B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 1842217297,
+  "key": "C",
+  "key_strength": 0.84,
+  "match": 0.8,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "12298932:1": {
   "beat_confidence": 3.52,
@@ -7083,8 +7344,17 @@
   "source": "acousticbrainz"
  },
  "12326287:A2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.85,
+  "bpm": 114.0,
+  "camelot": "5A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 541139872,
+  "key": "Cm",
+  "key_strength": 0.52,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "12326287:B1": {
   "beat_confidence": 0.49,
@@ -7100,8 +7370,17 @@
   "source": "deezer-preview"
  },
  "12326287:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.0,
+  "bpm": 112.8,
+  "camelot": "5B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 541139892,
+  "key": "Eb",
+  "key_strength": 0.67,
+  "match": 1.0,
+  "note": "Eb",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "12326287:C1": {
   "beat_confidence": 1.67,
@@ -7117,16 +7396,34 @@
   "source": "deezer-preview"
  },
  "12326287:C2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12326287:D1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.38,
+  "bpm": 118.0,
+  "camelot": "10B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 541139922,
+  "key": "D",
+  "key_strength": 0.88,
+  "match": 0.98,
+  "note": "D",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "12326287:D2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.01,
+  "bpm": 122.1,
+  "camelot": "10A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 541139932,
+  "key": "Bm",
+  "key_strength": 0.82,
+  "match": 1.0,
+  "note": "B",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "12418449:A1": {
   "beat_confidence": 3.87,
@@ -7278,8 +7575,17 @@
   "source": "deezer-preview"
  },
  "12418449:D2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.49,
+  "bpm": 84.5,
+  "camelot": "12A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 82492142,
+  "key": "C#m",
+  "key_strength": 0.93,
+  "match": 0.7,
+  "note": "C#",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "12418449:D3": {
   "bpm": 96.9,
@@ -7317,11 +7623,11 @@
   "source": "deezer-preview"
  },
  "12433082:A": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12433082:B": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12462744:A": {
@@ -7454,7 +7760,7 @@
   "source": "acousticbrainz"
  },
  "12557764:A2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12557764:B1": {
@@ -7762,7 +8068,7 @@
   "source": "acousticbrainz"
  },
  "12652166:A1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12652166:A2": {
@@ -8019,11 +8325,11 @@
   "source": "acousticbrainz"
  },
  "12712993:A": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12712993:B": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12730421:A1": {
@@ -8040,11 +8346,11 @@
   "source": "deezer-preview"
  },
  "12730421:B1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12730421:B2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12741038:A1": {
@@ -8503,20 +8809,56 @@
   "source": "acousticbrainz"
  },
  "12765588:A1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.35,
+  "bpm": 124.0,
+  "camelot": "12A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 697971302,
+  "key": "C#m",
+  "key_strength": 0.88,
+  "match": 1.0,
+  "note": "C#",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "12765588:A2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.75,
+  "bpm": 130.0,
+  "camelot": "7A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 697971312,
+  "key": "Dm",
+  "key_strength": 0.83,
+  "match": 1.0,
+  "note": "D",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "12765588:B1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.11,
+  "bpm": 122.7,
+  "camelot": "6A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 697971322,
+  "key": "Gm",
+  "key_strength": 0.86,
+  "match": 1.0,
+  "note": "G",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "12765588:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.78,
+  "bpm": 124.0,
+  "camelot": "8A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 697971332,
+  "key": "Am",
+  "key_strength": 0.66,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "12769670:A1": {
   "bpm": 120.3,
@@ -8675,7 +9017,7 @@
   "source": "acousticbrainz"
  },
  "1286878:B1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1286878:B2": {
@@ -8692,8 +9034,17 @@
   "source": "deezer-preview"
  },
  "1286878:B3": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 1.9,
+  "bpm": 90.2,
+  "camelot": "10B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 11033965,
+  "key": "D",
+  "key_strength": 0.77,
+  "match": 1.0,
+  "note": "D",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "1286878:C1": {
   "beat_confidence": 3.3,
@@ -8775,7 +9126,7 @@
   "source": "acousticbrainz"
  },
  "1286878:E2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1286878:E3": {
@@ -8814,7 +9165,7 @@
   "source": "acousticbrainz"
  },
  "1286878:F3": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1286878:G1": {
@@ -8831,7 +9182,7 @@
   "source": "deezer-preview"
  },
  "1286878:G2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1286878:G3": {
@@ -9100,11 +9451,11 @@
   "source": "deezer-preview"
  },
  "12979988:A": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12979988:B": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "12994:A1": {
@@ -9221,8 +9572,17 @@
   "source": "deezer-preview"
  },
  "13072294:B1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 2.54,
+  "bpm": 151.9,
+  "camelot": "3A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 706101212,
+  "key": "Bbm",
+  "key_strength": 0.79,
+  "match": 1.0,
+  "note": "Bb",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "13072294:B2": {
   "beat_confidence": 2.21,
@@ -9238,11 +9598,11 @@
   "source": "deezer-preview"
  },
  "13072294:B3": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13072294:B4": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13072294:B5": {
@@ -9259,8 +9619,17 @@
   "source": "deezer-preview"
  },
  "13072294:B6": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.26,
+  "bpm": 140.2,
+  "camelot": "2A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 706101252,
+  "key": "Ebm",
+  "key_strength": 0.63,
+  "match": 1.0,
+  "note": "Eb",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "13072294:B7": {
   "beat_confidence": 4.07,
@@ -9276,7 +9645,7 @@
   "source": "deezer-preview"
  },
  "13072294:B8": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13072294:C1": {
@@ -9397,8 +9766,17 @@
   "source": "deezer-preview"
  },
  "13072294:D3": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 2.65,
+  "bpm": 81.0,
+  "camelot": "7B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 706101372,
+  "key": "F",
+  "key_strength": 0.53,
+  "match": 1.0,
+  "note": "F",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "13072294:D4": {
   "bpm": 85.0,
@@ -9425,7 +9803,7 @@
   "source": "deezer-preview"
  },
  "13072294:D6": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13076114:A1": {
@@ -9558,11 +9936,11 @@
   "source": "deezer-preview"
  },
  "13116493:A": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13116493:B": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13135986:A.1": {
@@ -9839,11 +10217,11 @@
   "source": "deezer-preview"
  },
  "13222175:B1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13222175:B2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13242319:A1": {
@@ -10002,8 +10380,17 @@
   "source": "deezer-preview"
  },
  "13248842:A2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 4.15,
+  "bpm": 123.1,
+  "camelot": "5B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 677540482,
+  "key": "Eb",
+  "key_strength": 0.72,
+  "match": 0.99,
+  "note": "Eb",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "13248842:B1": {
   "beat_confidence": 3.72,
@@ -10019,8 +10406,17 @@
   "source": "deezer-preview"
  },
  "13248842:B2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 2.17,
+  "bpm": 119.9,
+  "camelot": "3A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 677540502,
+  "key": "Bbm",
+  "key_strength": 0.9,
+  "match": 1.0,
+  "note": "Bb",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "13251649:A1": {
   "beat_confidence": 3.72,
@@ -10169,7 +10565,7 @@
   "source": "deezer-preview"
  },
  "13360264:B1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13360264:B2": {
@@ -10368,16 +10764,25 @@
   "source": "deezer-preview"
  },
  "13439160:A2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13439160:B1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13439160:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.42,
+  "bpm": 120.1,
+  "camelot": "8A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 1594328941,
+  "key": "Am",
+  "key_strength": 0.64,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "13443162:A": {
   "bpm": 121.0,
@@ -10391,11 +10796,11 @@
   "source": "acousticbrainz"
  },
  "13443162:B1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13443162:B2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13453290:A1": {
@@ -10544,8 +10949,17 @@
   "source": "acousticbrainz"
  },
  "13453290:C4": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 1.17,
+  "bpm": 147.1,
+  "camelot": "4A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 76071519,
+  "key": "Fm",
+  "key_strength": 0.93,
+  "match": 0.72,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "13464176:A": {
   "bpm": 126.3,
@@ -10559,7 +10973,7 @@
   "source": "acousticbrainz"
  },
  "13464176:B": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13467999:A1": {
@@ -10576,8 +10990,17 @@
   "source": "deezer-preview"
  },
  "13467999:A2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.86,
+  "bpm": 94.8,
+  "camelot": "11A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2132919007,
+  "key": "F#m",
+  "key_strength": 0.87,
+  "match": 1.0,
+  "note": "F#",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "13467999:A3": {
   "bpm": 94.6,
@@ -10591,12 +11014,30 @@
   "source": "acousticbrainz"
  },
  "13467999:B1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.61,
+  "bpm": 87.9,
+  "camelot": "5A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2132919037,
+  "key": "Cm",
+  "key_strength": 0.5,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "13467999:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.86,
+  "bpm": 94.8,
+  "camelot": "11A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2132919007,
+  "key": "F#m",
+  "key_strength": 0.87,
+  "match": 1.0,
+  "note": "F#",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "13467999:B3": {
   "bpm": 92.3,
@@ -10621,7 +11062,7 @@
   "source": "acousticbrainz"
  },
  "13468682:B": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13479343:A1": {
@@ -10814,11 +11255,11 @@
   "source": "acousticbrainz"
  },
  "13485907:Cassette-A5": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13485907:Cassette-A6": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13485907:Cassette-B1": {
@@ -10949,11 +11390,11 @@
   "source": "acousticbrainz"
  },
  "13485907:LP-A5": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13485907:LP-A6": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13485907:LP-B1": {
@@ -11203,11 +11644,11 @@
   "source": "acousticbrainz"
  },
  "13502140:A": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13502140:B": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13541581:A1": {
@@ -11255,11 +11696,11 @@
   "source": "acousticbrainz"
  },
  "13546857:1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13546857:2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13546857:3": {
@@ -11309,7 +11750,7 @@
   "source": "acousticbrainz"
  },
  "13555782:A1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13555782:A2": {
@@ -11447,43 +11888,43 @@
   "source": "acousticbrainz"
  },
  "13628012:A1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13628012:A2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13628012:A3": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13628012:B1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13628012:B2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13628012:C1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13628012:C2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13628012:D1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13628012:D2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13628012:D3": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13663374:A": {
@@ -12094,8 +12535,17 @@
   "source": "deezer-preview"
  },
  "13926639:A3": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 3.28,
+  "bpm": 74.3,
+  "camelot": "8B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 434351302,
+  "key": "C",
+  "key_strength": 0.37,
+  "match": 1.0,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "13926639:A4": {
   "bpm": 144.9,
@@ -12135,12 +12585,30 @@
   "source": "deezer-preview"
  },
  "13926639:B2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 2.21,
+  "bpm": 142.1,
+  "camelot": "4B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 434351342,
+  "key": "Ab",
+  "key_strength": 0.69,
+  "match": 1.0,
+  "note": "Ab",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "13926639:B3": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 3.87,
+  "bpm": 82.9,
+  "camelot": "2A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 434351352,
+  "key": "Ebm",
+  "key_strength": 0.79,
+  "match": 1.0,
+  "note": "Eb",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "13926639:B4": {
   "beat_confidence": 2.86,
@@ -12156,107 +12624,125 @@
   "source": "deezer-preview"
  },
  "13926639:B5": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 3.04,
+  "bpm": 69.8,
+  "camelot": "8A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 434351372,
+  "key": "Am",
+  "key_strength": 0.5,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "13944132:A1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13944132:A2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13944132:A3": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13944132:A4": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13944132:B1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13944132:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13944132:B3": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:A1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:A2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:A3": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:A4": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:A5": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:A6": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:A7": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:A8": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:B1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:B10": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:B3": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:B4": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:B5": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 2.4,
+  "bpm": 79.0,
+  "camelot": "1A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 693420922,
+  "key": "G#m",
+  "key_strength": 0.89,
+  "match": 0.81,
+  "note": "Ab",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "13967403:B6": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:B7": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:B8": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "13967403:B9": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14022881:a1": {
@@ -12293,12 +12779,21 @@
   "source": "acousticbrainz"
  },
  "14027946:A": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14027946:B": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 3.71,
+  "bpm": 112.0,
+  "camelot": "10A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 630821712,
+  "key": "Bm",
+  "key_strength": 0.96,
+  "match": 0.85,
+  "note": "B",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "14028181:A": {
   "bpm": 137.5,
@@ -12979,7 +13474,7 @@
   "source": "acousticbrainz"
  },
  "14162212:B": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14190406:A1": {
@@ -13203,19 +13698,19 @@
   "source": "acousticbrainz"
  },
  "14248879:A1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14248879:A2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14248879:B1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14248879:B2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14249156:A1": {
@@ -13559,7 +14054,7 @@
   "source": "acousticbrainz"
  },
  "14513103:E2": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14513103:E3": {
@@ -13609,7 +14104,7 @@
   "source": "acousticbrainz"
  },
  "14513103:F1": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14513103:F2": {
@@ -13701,7 +14196,7 @@
   "source": "acousticbrainz"
  },
  "14590960:A5a": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14590960:B1": {
@@ -13804,7 +14299,7 @@
   "source": "acousticbrainz"
  },
  "14590960:C4a": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14590960:C5": {
@@ -13900,35 +14395,44 @@
   "source": "deezer-preview"
  },
  "14747099:A1": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14747099:A2": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
-  "source": "none"
+  "beat_confidence": 3.8,
+  "bpm": 117.4,
+  "camelot": "6B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 571872042,
+  "key": "Bb",
+  "key_strength": 0.86,
+  "match": 1.0,
+  "note": "Bb",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "14747099:A3": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14747099:B1": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14747099:B2": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14747099:B3": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14747099:B4": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14747099:B5": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14748262:A1": {
@@ -14076,8 +14580,17 @@
   "source": "deezer-preview"
  },
  "14880154:B1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 3.4,
+  "bpm": 126.6,
+  "camelot": "8A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 935068032,
+  "key": "Am",
+  "key_strength": 0.66,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "14880154:B2": {
   "beat_confidence": 2.83,
@@ -14132,8 +14645,17 @@
   "source": "deezer-preview"
  },
  "14950541:A4": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 0.0,
+  "bpm": 132.5,
+  "camelot": "10B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 864334742,
+  "key": "D",
+  "key_strength": 0.91,
+  "match": 1.0,
+  "note": "D",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "14950541:B1": {
   "beat_confidence": 3.87,
@@ -14149,7 +14671,7 @@
   "source": "deezer-preview"
  },
  "14950541:B2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "14950541:B3": {
@@ -14242,15 +14764,15 @@
   "source": "deezer-preview"
  },
  "15074753:A1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "15074753:B1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "15074753:B2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "15175028:A1": {
@@ -14571,7 +15093,7 @@
   "source": "deezer-preview"
  },
  "15338931:A": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "15389587:A1": {
@@ -14627,23 +15149,23 @@
   "source": "deezer-preview"
  },
  "15453638:A1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "15453638:A2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "15453638:B1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "15453638:B2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "15453638:B3": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "15461907:A1": {
@@ -14967,12 +15489,30 @@
   "source": "acousticbrainz"
  },
  "15631518:A": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 3.31,
+  "bpm": 118.1,
+  "camelot": "3A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 35946821,
+  "key": "Bbm",
+  "key_strength": 0.84,
+  "match": 1.0,
+  "note": "Bb",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "15631518:B": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 3.42,
+  "bpm": 100.6,
+  "camelot": "6A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 991344772,
+  "key": "Gm",
+  "key_strength": 0.82,
+  "match": 1.0,
+  "note": "G",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "156530:A1": {
   "beat_confidence": 3.42,
@@ -14988,11 +15528,11 @@
   "source": "deezer-preview"
  },
  "156530:A2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "156530:B1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "156530:B2": {
@@ -15194,8 +15734,17 @@
   "source": "acousticbrainz"
  },
  "15818101:A1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 3.53,
+  "bpm": 120.0,
+  "camelot": "11A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 1238251172,
+  "key": "F#m",
+  "key_strength": 0.95,
+  "match": 1.0,
+  "note": "F#",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "15818101:A2": {
   "beat_confidence": 3.64,
@@ -15324,7 +15873,7 @@
   "source": "deezer-preview"
  },
  "15823307:B4": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "1584186:A1": {
@@ -15518,7 +16067,7 @@
   "source": "deezer-preview"
  },
  "15993828:B3": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "15993828:C1": {
@@ -15548,8 +16097,17 @@
   "source": "deezer-preview"
  },
  "15993828:C3": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
-  "source": "none"
+  "beat_confidence": 3.17,
+  "bpm": 82.0,
+  "camelot": "5B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 143235228,
+  "key": "Eb",
+  "key_strength": 0.81,
+  "match": 0.7,
+  "note": "Eb",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "15993828:C4": {
   "beat_confidence": 2.71,
@@ -15578,7 +16136,7 @@
   "source": "deezer-preview"
  },
  "15993828:D2": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "15993828:D3": {
@@ -15595,15 +16153,15 @@
   "source": "deezer-preview"
  },
  "15993828:D4": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "15993828:D5": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "160922:A": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "16424160:A1": {
@@ -16090,7 +16648,7 @@
   "source": "acousticbrainz"
  },
  "17842753:B2": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "17842753:B3": {
@@ -16129,16 +16687,43 @@
   "source": "deezer-preview"
  },
  "1849437:A2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 2.74,
+  "bpm": 96.4,
+  "camelot": "8A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 134953684,
+  "key": "Am",
+  "key_strength": 0.71,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "1849437:B1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 2.74,
+  "bpm": 96.4,
+  "camelot": "8A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 134953684,
+  "key": "Am",
+  "key_strength": 0.71,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "1849437:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 2.74,
+  "bpm": 96.4,
+  "camelot": "8A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 134953684,
+  "key": "Am",
+  "key_strength": 0.71,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "185067:A1": {
   "bpm": 103.7,
@@ -16356,7 +16941,7 @@
   "source": "acousticbrainz"
  },
  "18599686:A3": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "18599686:B1": {
@@ -16514,8 +17099,17 @@
   "source": "acousticbrainz"
  },
  "19161760:A2": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 4.21,
+  "bpm": 91.5,
+  "camelot": "6A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 87960517,
+  "key": "Gm",
+  "key_strength": 0.89,
+  "match": 1.0,
+  "note": "G",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "19161760:A3": {
   "beat_confidence": 4.14,
@@ -16621,11 +17215,11 @@
   "source": "acousticbrainz"
  },
  "19299820:A1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "19299820:B1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "19419058:A1": {
@@ -16829,11 +17423,20 @@
   "source": "acousticbrainz"
  },
  "2010760:A4": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 2.68,
+  "bpm": 129.2,
+  "camelot": "8B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 3605446812,
+  "key": "C",
+  "key_strength": 0.93,
+  "match": 0.83,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "2010760:A5": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "2010760:A6": {
@@ -16892,7 +17495,7 @@
   "source": "acousticbrainz"
  },
  "2010760:C2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "2010760:C3": {
@@ -16929,7 +17532,7 @@
   "source": "acousticbrainz"
  },
  "2010760:D1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "2010760:D2": {
@@ -17927,12 +18530,30 @@
   "source": "deezer-preview"
  },
  "22017571:A4": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 3.18,
+  "bpm": 70.0,
+  "camelot": "4B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 1513006742,
+  "key": "Ab",
+  "key_strength": 0.65,
+  "match": 1.0,
+  "note": "Ab",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "22017571:B1": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 3.18,
+  "bpm": 133.1,
+  "camelot": "9A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 1513006662,
+  "key": "Em",
+  "key_strength": 0.67,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "22017571:B2": {
   "bpm": 139.8,
@@ -17946,8 +18567,17 @@
   "source": "acousticbrainz"
  },
  "22017571:B3": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 3.39,
+  "bpm": 140.0,
+  "camelot": "1A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 1513006732,
+  "key": "G#m",
+  "key_strength": 0.57,
+  "match": 1.0,
+  "note": "Ab",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "22017571:B4": {
   "bpm": 142.1,
@@ -17961,8 +18591,17 @@
   "source": "acousticbrainz"
  },
  "22017571:C1": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 0.83,
+  "bpm": 123.8,
+  "camelot": "8B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 1513006792,
+  "key": "C",
+  "key_strength": 0.83,
+  "match": 1.0,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "22017571:C2": {
   "bpm": 120.0,
@@ -18037,12 +18676,30 @@
   "source": "acousticbrainz"
  },
  "22017571:D4": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 3.77,
+  "bpm": 131.5,
+  "camelot": "5A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 1513006632,
+  "key": "Cm",
+  "key_strength": 0.8,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "22379017:A1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 3.85,
+  "bpm": 125.0,
+  "camelot": "5B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2200125307,
+  "key": "Eb",
+  "key_strength": 0.92,
+  "match": 1.0,
+  "note": "Eb",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "22379017:A2": {
   "beat_confidence": 3.51,
@@ -18412,7 +19069,7 @@
   "source": "acousticbrainz"
  },
  "2325882:A": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "2325882:B": {
@@ -18695,8 +19352,17 @@
   "source": "acousticbrainz"
  },
  "2357477:D2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.78,
+  "bpm": 88.5,
+  "camelot": "5A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 70580081,
+  "key": "Cm",
+  "key_strength": 0.78,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "2357477:D3": {
   "bpm": 91.0,
@@ -19667,8 +20333,17 @@
   "source": "deezer-preview"
  },
  "25101643:B3": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
-  "source": "none"
+  "beat_confidence": 3.78,
+  "bpm": 96.0,
+  "camelot": "6B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 1873295817,
+  "key": "Bb",
+  "key_strength": 0.9,
+  "match": 1.0,
+  "note": "Bb",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "25101643:B4": {
   "beat_confidence": 1.42,
@@ -20257,8 +20932,17 @@
   "source": "acousticbrainz"
  },
  "25901449:B4": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 4.1,
+  "bpm": 83.7,
+  "camelot": "6A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 916422,
+  "key": "Gm",
+  "key_strength": 0.87,
+  "match": 1.0,
+  "note": "G",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "25901449:B5": {
   "bpm": 112.2,
@@ -20417,31 +21101,31 @@
   "source": "acousticbrainz"
  },
  "25901449:E4": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "25901449:E5": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "25901449:E6": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "25901449:E7": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "25901449:E8": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "25901449:F1": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "25901449:F2": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "25901449:F3": {
@@ -21059,8 +21743,17 @@
   "source": "deezer-preview"
  },
  "26741825:A2": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
-  "source": "none"
+  "beat_confidence": 2.13,
+  "bpm": 83.6,
+  "camelot": "9A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2235238287,
+  "key": "Em",
+  "key_strength": 0.61,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "26741825:A3": {
   "beat_confidence": 4.0,
@@ -21102,16 +21795,43 @@
   "source": "deezer-preview"
  },
  "26741825:B3": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
-  "source": "none"
+  "beat_confidence": 2.95,
+  "bpm": 129.7,
+  "camelot": "8A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2235238327,
+  "key": "Am",
+  "key_strength": 0.88,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "26741825:C1": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
-  "source": "none"
+  "beat_confidence": 3.94,
+  "bpm": 110.3,
+  "camelot": "10A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2235238337,
+  "key": "Bm",
+  "key_strength": 0.74,
+  "match": 1.0,
+  "note": "B",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "26741825:C2": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
-  "source": "none"
+  "beat_confidence": 3.98,
+  "bpm": 89.0,
+  "camelot": "9A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2235238347,
+  "key": "Em",
+  "key_strength": 0.71,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "26741825:C3": {
   "beat_confidence": 3.76,
@@ -21855,7 +22575,7 @@
   "source": "acousticbrainz"
  },
  "2745734:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "2745734:B3": {
@@ -21870,7 +22590,7 @@
   "source": "acousticbrainz"
  },
  "2745734:B4": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "2745734:B5": {
@@ -21951,7 +22671,7 @@
   "source": "acousticbrainz"
  },
  "2745734:D2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "2745734:D3": {
@@ -21977,7 +22697,7 @@
   "source": "acousticbrainz"
  },
  "2745734:D5": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "27559479:A1": {
@@ -22111,12 +22831,30 @@
   "source": "deezer-preview"
  },
  "28199671:A1": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 1.07,
+  "bpm": 77.2,
+  "camelot": "7A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2310067525,
+  "key": "Dm",
+  "key_strength": 0.9,
+  "match": 1.0,
+  "note": "D",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "28199671:A2": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 1.26,
+  "bpm": 133.3,
+  "camelot": "7A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2310067585,
+  "key": "Dm",
+  "key_strength": 0.88,
+  "match": 1.0,
+  "note": "D",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "28199671:A3": {
   "beat_confidence": 1.49,
@@ -22132,8 +22870,17 @@
   "source": "deezer-preview"
  },
  "28199671:A4": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 1.67,
+  "bpm": 128.8,
+  "camelot": "9A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2310067685,
+  "key": "Em",
+  "key_strength": 0.94,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "28199671:A5": {
   "beat_confidence": 1.81,
@@ -22149,16 +22896,34 @@
   "source": "deezer-preview"
  },
  "28199671:B1": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "28199671:B2": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 3.62,
+  "bpm": 99.9,
+  "camelot": "12B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2310067785,
+  "key": "E",
+  "key_strength": 0.84,
+  "match": 1.0,
+  "note": "E",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "28199671:B3": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 0.3,
+  "bpm": 92.2,
+  "camelot": "9A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2310067825,
+  "key": "Em",
+  "key_strength": 0.63,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "28199671:B4": {
   "beat_confidence": 0.31,
@@ -22187,28 +22952,82 @@
   "source": "deezer-preview"
  },
  "28199671:C1": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 3.6,
+  "bpm": 94.6,
+  "camelot": "5A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2310067915,
+  "key": "Cm",
+  "key_strength": 0.94,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "28199671:C2": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 1.88,
+  "bpm": 130.4,
+  "camelot": "2B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2310067955,
+  "key": "F#",
+  "key_strength": 0.84,
+  "match": 1.0,
+  "note": "F#",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "28199671:C3": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 1.0,
+  "bpm": 102.2,
+  "camelot": "3B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2310067985,
+  "key": "Db",
+  "key_strength": 0.74,
+  "match": 1.0,
+  "note": "C#",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "28199671:C4": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 0.41,
+  "bpm": 131.1,
+  "camelot": "2A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2310068025,
+  "key": "Ebm",
+  "key_strength": 0.82,
+  "match": 1.0,
+  "note": "Eb",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "28199671:C5": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 1.31,
+  "bpm": 164.2,
+  "camelot": "7A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2310068055,
+  "key": "Dm",
+  "key_strength": 0.84,
+  "match": 1.0,
+  "note": "D",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "28199671:D1": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 3.43,
+  "bpm": 97.7,
+  "camelot": "9A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2310068085,
+  "key": "Em",
+  "key_strength": 0.83,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "28199671:D2": {
   "beat_confidence": 3.85,
@@ -22224,12 +23043,30 @@
   "source": "deezer-preview"
  },
  "28199671:D3": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 0.58,
+  "bpm": 184.6,
+  "camelot": "9A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2310068145,
+  "key": "Em",
+  "key_strength": 0.87,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "28199671:D4": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 2.2,
+  "bpm": 89.1,
+  "camelot": "4A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 2310068175,
+  "key": "Fm",
+  "key_strength": 0.76,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "28492594:A1": {
   "bpm": 112.3,
@@ -22372,7 +23209,7 @@
   "source": "acousticbrainz"
  },
  "28492594:B6": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "28492594:C1": {
@@ -22466,7 +23303,7 @@
   "source": "acousticbrainz"
  },
  "28492594:D3": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "28492594:D4": {
@@ -23125,7 +23962,7 @@
   "source": "deezer-preview"
  },
  "29005822:C4": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29005822:D1": {
@@ -23436,103 +24273,103 @@
   "source": "acousticbrainz"
  },
  "297076:A1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "297076:A2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "297076:B1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "297076:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:A1": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:A2": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:A3": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:A4": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:A5": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:A6": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:B1": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:B2": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:B3": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:B4": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:B5": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:C1": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:C2": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:C3": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:C4": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:C5": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:D1": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:D2": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:D3": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:D4": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "29811985:D5": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "30361997:A1": {
@@ -25445,7 +26282,7 @@
   "source": "acousticbrainz"
  },
  "31431314:D1": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "31431314:D2": {
@@ -25891,7 +26728,7 @@
   "source": "deezer-preview"
  },
  "31940716:C2": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "31940716:C3": {
@@ -27221,7 +28058,7 @@
   "source": "deezer-preview"
  },
  "34035552:A4": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "34035552:A5": {
@@ -27368,12 +28205,30 @@
   "source": "deezer-preview"
  },
  "3450561:A1": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 1.5,
+  "bpm": 166.2,
+  "camelot": "7B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 686107962,
+  "key": "F",
+  "key_strength": 0.81,
+  "match": 1.0,
+  "note": "F",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "3450561:A2": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 1.65,
+  "bpm": 134.3,
+  "camelot": "9B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 686107972,
+  "key": "G",
+  "key_strength": 0.78,
+  "match": 1.0,
+  "note": "G",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "3450561:A3": {
   "beat_confidence": 2.65,
@@ -27389,12 +28244,30 @@
   "source": "deezer-preview"
  },
  "3450561:A4": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 0.73,
+  "bpm": 162.2,
+  "camelot": "7B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 686107992,
+  "key": "F",
+  "key_strength": 0.86,
+  "match": 1.0,
+  "note": "F",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "3450561:A5": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 2.04,
+  "bpm": 81.8,
+  "camelot": "8A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 686108002,
+  "key": "Am",
+  "key_strength": 0.87,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "3450561:A6": {
   "beat_confidence": 1.29,
@@ -27410,16 +28283,43 @@
   "source": "deezer-preview"
  },
  "3450561:A7": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 2.69,
+  "bpm": 122.5,
+  "camelot": "8B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 686108022,
+  "key": "C",
+  "key_strength": 0.82,
+  "match": 0.95,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "3450561:B1": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 1.02,
+  "bpm": 124.2,
+  "camelot": "10B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 686108032,
+  "key": "D",
+  "key_strength": 0.68,
+  "match": 1.0,
+  "note": "D",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "3450561:B2": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 1.38,
+  "bpm": 129.0,
+  "camelot": "9B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 686108042,
+  "key": "G",
+  "key_strength": 0.78,
+  "match": 1.0,
+  "note": "G",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "3450561:B3": {
   "beat_confidence": 1.8,
@@ -27448,12 +28348,30 @@
   "source": "deezer-preview"
  },
  "3450561:B5": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 2.82,
+  "bpm": 77.2,
+  "camelot": "8A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 686108072,
+  "key": "Am",
+  "key_strength": 0.84,
+  "match": 1.0,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "3450561:B6": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 1.51,
+  "bpm": 134.8,
+  "camelot": "10B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 686108082,
+  "key": "D",
+  "key_strength": 0.93,
+  "match": 1.0,
+  "note": "D",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "3450561:B7": {
   "beat_confidence": 1.64,
@@ -27894,7 +28812,7 @@
   "source": "acousticbrainz"
  },
  "34890758:D3": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "34954499:A1": {
@@ -28524,15 +29442,15 @@
   "source": "deezer-preview"
  },
  "3525986:A1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3525986:A2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3525986:A3": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3525986:A4": {
@@ -28549,35 +29467,35 @@
   "source": "deezer-preview"
  },
  "3525986:A5": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3525986:A6": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3525986:B1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3525986:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3525986:B3": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3525986:B4": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3525986:B5": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3525986:B6": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "35397862:A1": {
@@ -28732,39 +29650,39 @@
   "source": "acousticbrainz"
  },
  "3539848:A1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3539848:A3": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3539848:A4": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3539848:A5": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3539848:A6": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3539848:B1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3539848:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3539848:B3": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3539848:B4": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3539848:B5": {
@@ -28781,7 +29699,7 @@
   "source": "deezer-preview"
  },
  "3539848:B6": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "35407495:A1": {
@@ -29433,7 +30351,7 @@
   "source": "deezer-preview"
  },
  "37105539:B7": {
-  "checked": "2026-10-26T08:00:11.730231+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "37112877:A1": {
@@ -29593,7 +30511,7 @@
   "source": "acousticbrainz"
  },
  "3732420:A3": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3732420:B1": {
@@ -29632,7 +30550,7 @@
   "source": "acousticbrainz"
  },
  "3732420:B4": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "3732420:C1": {
@@ -30535,8 +31453,17 @@
   "source": "deezer-preview"
  },
  "3975953:A3": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 2.32,
+  "bpm": 153.7,
+  "camelot": "4A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 73196525,
+  "key": "Fm",
+  "key_strength": 0.9,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "3975953:A4": {
   "bpm": 95.0,
@@ -30633,8 +31560,15 @@
   "source": "deezer-preview"
  },
  "3975953:D1": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "bpm": 85.1,
+  "camelot": "4B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "key": "Ab",
+  "key_strength": 0.548536002636,
+  "mbid": "115be1e6-3937-41ef-96dd-11b768c3a56e",
+  "note": "G#",
+  "scale": "major",
+  "source": "acousticbrainz"
  },
  "3975953:D2": {
   "beat_confidence": 1.34,
@@ -30947,8 +31881,17 @@
   "source": "acousticbrainz"
  },
  "4867259:A3": {
-  "checked": "2026-10-26T08:47:59.501334+00:00",
-  "source": "none"
+  "beat_confidence": 0.52,
+  "bpm": 172.3,
+  "camelot": "5A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 69739106,
+  "key": "Cm",
+  "key_strength": 0.81,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "4867259:A4": {
   "bpm": 129.2,
@@ -31449,23 +32392,32 @@
   "source": "acousticbrainz"
  },
  "5743691:A2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "5743691:A3": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 2.64,
+  "bpm": 71.3,
+  "camelot": "2A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 83890413,
+  "key": "Ebm",
+  "key_strength": 0.87,
+  "match": 0.7,
+  "note": "Eb",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "5743691:B1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "5743691:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "5743691:B3": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "5845633:A1": {
@@ -31508,8 +32460,17 @@
   "source": "deezer-preview"
  },
  "5845633:B2": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 2.31,
+  "bpm": 148.7,
+  "camelot": "7B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 3850732181,
+  "key": "F",
+  "key_strength": 0.84,
+  "match": 1.0,
+  "note": "F",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "601954:A1": {
   "bpm": 129.0,
@@ -31534,7 +32495,7 @@
   "source": "acousticbrainz"
  },
  "601954:A3": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "601954:A4": {
@@ -31571,7 +32532,7 @@
   "source": "acousticbrainz"
  },
  "601954:B3": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "601954:B4": {
@@ -31599,7 +32560,7 @@
   "source": "deezer-preview"
  },
  "6080023:A2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "6080023:B1": {
@@ -32123,7 +33084,7 @@
   "source": "deezer-preview"
  },
  "6293924:D1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "6293924:D2": {
@@ -32347,19 +33308,19 @@
   "source": "acousticbrainz"
  },
  "6774993:B1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "686974:A": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "686974:B1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "686974:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "6905630:A": {
@@ -32407,7 +33368,7 @@
   "source": "acousticbrainz"
  },
  "6981658:A1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "6981658:A2": {
@@ -32433,7 +33394,7 @@
   "source": "acousticbrainz"
  },
  "6981658:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "7024997:A1": {
@@ -32917,7 +33878,7 @@
   "source": "deezer-preview"
  },
  "743014:A3": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "743014:A4": {
@@ -33338,7 +34299,7 @@
   "source": "deezer-preview"
  },
  "7801083:A": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "7801083:B1": {
@@ -33355,7 +34316,7 @@
   "source": "deezer-preview"
  },
  "7801083:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "781817:A114": {
@@ -33473,8 +34434,17 @@
   "source": "acousticbrainz"
  },
  "781817:D124": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 2.81,
+  "bpm": 85.1,
+  "camelot": "5A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 21304491,
+  "key": "Cm",
+  "key_strength": 0.86,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "781817:D125": {
   "bpm": 144.4,
@@ -33499,12 +34469,30 @@
   "source": "acousticbrainz"
  },
  "7833081:A1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 3.42,
+  "bpm": 124.9,
+  "camelot": "8B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 104260848,
+  "key": "C",
+  "key_strength": 0.89,
+  "match": 1.0,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "7833081:B1": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 3.42,
+  "bpm": 124.9,
+  "camelot": "8B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 104260848,
+  "key": "C",
+  "key_strength": 0.89,
+  "match": 0.78,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "788768:A1": {
   "bpm": 122.7,
@@ -33814,15 +34802,22 @@
   "source": "acousticbrainz"
  },
  "79873:A": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "bpm": 130.5,
+  "camelot": "11B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "key": "A",
+  "key_strength": 0.615487515926,
+  "mbid": "6eae5419-e772-428e-bb43-947cad23b6df",
+  "note": "A",
+  "scale": "major",
+  "source": "acousticbrainz"
  },
  "79873:B1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "79873:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "8084:A1": {
@@ -33848,8 +34843,17 @@
   "source": "acousticbrainz"
  },
  "8084:A3": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 3.28,
+  "bpm": 126.8,
+  "camelot": "4A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 3167844,
+  "key": "Fm",
+  "key_strength": 0.83,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "8084:B1": {
   "bpm": 128.7,
@@ -34056,7 +35060,7 @@
   "source": "acousticbrainz"
  },
  "815398:A2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "815398:A3": {
@@ -34082,7 +35086,7 @@
   "source": "acousticbrainz"
  },
  "815398:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "815398:B3": {
@@ -34097,20 +35101,56 @@
   "source": "acousticbrainz"
  },
  "8192702:A1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 2.93,
+  "bpm": 120.0,
+  "camelot": "4A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 119223468,
+  "key": "Fm",
+  "key_strength": 0.87,
+  "match": 1.0,
+  "note": "F",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "8192702:A2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 3.54,
+  "bpm": 118.3,
+  "camelot": "7A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 119223470,
+  "key": "Dm",
+  "key_strength": 0.78,
+  "match": 1.0,
+  "note": "D",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "8192702:B1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 1.78,
+  "bpm": 118.6,
+  "camelot": "6B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 119223472,
+  "key": "Bb",
+  "key_strength": 0.73,
+  "match": 1.0,
+  "note": "Bb",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "8192702:B2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 1.15,
+  "bpm": 98.0,
+  "camelot": "9B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 119223474,
+  "key": "G",
+  "key_strength": 0.79,
+  "match": 1.0,
+  "note": "G",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "8313301:A1": {
   "bpm": 120.0,
@@ -34168,7 +35208,7 @@
   "source": "acousticbrainz"
  },
  "8403745:A1": {
-  "checked": "2026-10-26T14:16:41.203272+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "8403745:A2": {
@@ -34194,20 +35234,38 @@
   "source": "acousticbrainz"
  },
  "8403745:B": {
-  "checked": "2026-10-26T14:16:41.203272+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "8403745:B1": {
-  "checked": "2026-10-26T14:16:41.203272+00:00",
-  "source": "none"
+  "beat_confidence": 3.55,
+  "bpm": 94.0,
+  "camelot": "7B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 13204938,
+  "key": "F",
+  "key_strength": 0.8,
+  "match": 0.71,
+  "note": "F",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "8403745:B2": {
-  "checked": "2026-10-26T14:16:41.203272+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "8403745:B3": {
-  "checked": "2026-10-26T14:16:41.203272+00:00",
-  "source": "none"
+  "beat_confidence": 1.16,
+  "bpm": 110.5,
+  "camelot": "8A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 1457604252,
+  "key": "Am",
+  "key_strength": 0.86,
+  "match": 0.77,
+  "note": "A",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "8566870:A1": {
   "bpm": 102.5,
@@ -34405,7 +35463,7 @@
   "source": "deezer-preview"
  },
  "875495:B2": {
-  "checked": "2026-10-26T14:16:41.203272+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "875495:B3": {
@@ -34422,8 +35480,17 @@
   "source": "deezer-preview"
  },
  "8763564:A": {
-  "checked": "2026-10-26T10:02:58.873466+00:00",
-  "source": "none"
+  "beat_confidence": 3.36,
+  "bpm": 97.7,
+  "camelot": "10A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 3650666312,
+  "key": "Bm",
+  "key_strength": 0.72,
+  "match": 0.73,
+  "note": "B",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "9003690:A": {
   "beat_confidence": 3.75,
@@ -34465,15 +35532,15 @@
   "source": "deezer-preview"
  },
  "9048621:A2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "9048621:B1": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "9048621:B2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "9290105:A1": {
@@ -35111,7 +36178,7 @@
   "source": "deezer-preview"
  },
  "9600402:B2": {
-  "checked": "2026-10-26T14:16:41.203272+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "9669399:A1": {
@@ -35224,8 +36291,17 @@
   "source": "deezer-preview"
  },
  "9669399:C2": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 2.71,
+  "bpm": 73.7,
+  "camelot": "11B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 445776982,
+  "key": "A",
+  "key_strength": 0.89,
+  "match": 1.0,
+  "note": "A",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "9669399:C3": {
   "bpm": 108.0,
@@ -35274,8 +36350,17 @@
   "source": "deezer-preview"
  },
  "9669399:CD-10": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 2.71,
+  "bpm": 73.7,
+  "camelot": "11B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 445776982,
+  "key": "A",
+  "key_strength": 0.89,
+  "match": 1.0,
+  "note": "A",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "9669399:CD-11": {
   "bpm": 108.0,
@@ -35344,8 +36429,17 @@
   "source": "acousticbrainz"
  },
  "9669399:CD-17": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 0.75,
+  "bpm": 126.1,
+  "camelot": "9A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 445777052,
+  "key": "Em",
+  "key_strength": 0.92,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "9669399:CD-2": {
   "bpm": 70.9,
@@ -35477,11 +36571,20 @@
   "source": "acousticbrainz"
  },
  "9669399:D4": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 0.75,
+  "bpm": 126.1,
+  "camelot": "9A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 445777052,
+  "key": "Em",
+  "key_strength": 0.92,
+  "match": 1.0,
+  "note": "E",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "973588:A1": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
   "source": "none"
  },
  "973588:A2": {
@@ -35882,8 +36985,17 @@
   "source": "acousticbrainz"
  },
  "9950029:C2": {
-  "checked": "2026-10-26T10:58:25.291543+00:00",
-  "source": "none"
+  "beat_confidence": 2.83,
+  "bpm": 96.0,
+  "camelot": "5A",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 1672713717,
+  "key": "Cm",
+  "key_strength": 0.88,
+  "match": 1.0,
+  "note": "C",
+  "scale": "minor",
+  "source": "deezer-preview"
  },
  "9950029:C3": {
   "bpm": 115.7,
@@ -35919,8 +37031,17 @@
   "source": "acousticbrainz"
  },
  "9950029:D3": {
-  "checked": "2026-10-26T13:36:16.066861+00:00",
-  "source": "none"
+  "beat_confidence": 2.67,
+  "bpm": 91.2,
+  "camelot": "8B",
+  "checked": "2026-11-26T12:58:21.827450+00:00",
+  "deezer_id": 1672713757,
+  "key": "C",
+  "key_strength": 0.79,
+  "match": 0.96,
+  "note": "C",
+  "scale": "major",
+  "source": "deezer-preview"
  },
  "9950029:D4": {
   "bpm": 98.7,
